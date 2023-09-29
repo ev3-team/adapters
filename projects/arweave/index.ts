@@ -3,7 +3,7 @@ import { Project } from '../types'
 export default {
   name: 'Arweave',
   chain: null,
-  marketCap: 279179723,
+  marketCap: 277740048,
   category: 'Compute',
   token: 'AR',
 } satisfies Project
