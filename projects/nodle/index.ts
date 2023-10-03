@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Nodle',
   chain: 'Polkadot',
-  marketCap: 64862353,
   category: 'Wireless',
   token: 'NODL',
-} satisfies Project
+  id: 'wrthxo',
+  cmc_id: 9427,
+} satisfies AdapterProject

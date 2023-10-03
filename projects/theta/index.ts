@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Theta',
   chain: 'Native',
-  marketCap: 640761778,
   category: 'Compute',
   token: 'THETA',
-} satisfies Project
+  id: 'r9b6pc',
+  cmc_id: 1846,
+} satisfies AdapterProject

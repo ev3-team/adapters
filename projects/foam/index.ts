@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Foam',
   chain: 'Ethereum',
-  marketCap: 5698719,
   category: 'Sensors',
   token: 'FOAM',
-} satisfies Project
+  id: 'azexzo',
+  cmc_id: 2881,
+} satisfies AdapterProject

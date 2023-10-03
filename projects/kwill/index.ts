@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Kwill',
   chain: null,
-  marketCap: 0,
   category: 'Compute',
   token: null,
-} satisfies Project
+  id: 'c2dtrs',
+  cmc_id: 659,
+} satisfies AdapterProject

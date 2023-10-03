@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Rowen Energy',
-  chain: null,
-  marketCap: 0,
+  chain: 'Rowen Blockchain',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'RWN',
+  id: 'av09vt',
+  cmc_id: 241,
+} satisfies AdapterProject

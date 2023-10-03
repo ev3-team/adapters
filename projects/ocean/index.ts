@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Ocean',
   chain: 'Ethereum',
-  marketCap: 447347685,
   category: 'Compute',
   token: 'OCEAN',
-} satisfies Project
+  id: 'hhtcum',
+  cmc_id: 2843,
+} satisfies AdapterProject

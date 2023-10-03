@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Verasity',
   chain: 'Ethereum',
-  marketCap: 430994386,
   category: 'Other',
   token: 'VRA',
-} satisfies Project
+  id: 'qskidk',
+  cmc_id: 5892,
+} satisfies AdapterProject

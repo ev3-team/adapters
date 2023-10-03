@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Koii',
-  chain: null,
-  marketCap: 0,
+  chain: 'K2',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'KOII',
+  id: '9601n0',
+  cmc_id: 7094,
+} satisfies AdapterProject

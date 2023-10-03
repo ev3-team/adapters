@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Fleek',
   chain: null,
-  marketCap: 0,
   category: 'Compute',
   token: null,
-} satisfies Project
+  id: 'pynyvv',
+  cmc_id: 9177,
+} satisfies AdapterProject

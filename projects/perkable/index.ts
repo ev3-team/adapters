@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'perkable',
   chain: 'IoTeX',
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: 'kdoviv',
+  cmc_id: 9027,
+} satisfies AdapterProject

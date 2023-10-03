@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'GEODNET',
   chain: 'Polygon',
-  marketCap: 39889049,
   category: 'Sensors',
   token: 'GEOD',
-} satisfies Project
+  id: '7yz39u',
+  cmc_id: 4340,
+} satisfies AdapterProject

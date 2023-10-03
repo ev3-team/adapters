@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'ScPrime',
   chain: null,
-  marketCap: 5415408,
   category: 'Compute',
   token: 'SCP',
-} satisfies Project
+  id: 'w7lcqi',
+  cmc_id: 2341,
+} satisfies AdapterProject

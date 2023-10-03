@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'enviroBLOQ',
   chain: 'IoTeX',
-  marketCap: 143519842,
   category: 'Sensors',
   token: 'IOTX',
-} satisfies Project
+  id: 'pv1itw',
+  cmc_id: 3564,
+} satisfies AdapterProject

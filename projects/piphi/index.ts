@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Piphi',
   chain: 'Algorand',
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: 'g72080',
+  cmc_id: 7879,
+} satisfies AdapterProject

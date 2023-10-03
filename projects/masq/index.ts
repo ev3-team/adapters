@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Masq',
   chain: 'Polygon',
-  marketCap: 8898969,
   category: 'Compute',
   token: 'MASQ',
-} satisfies Project
+  id: 'ki37sm',
+  cmc_id: 9116,
+} satisfies AdapterProject

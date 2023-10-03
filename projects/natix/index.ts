@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'NATIX',
   chain: null,
-  marketCap: 0,
   category: 'Sensors',
   token: 'NATIX',
-} satisfies Project
+  id: 'ao9o0v',
+  cmc_id: 9633,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Planet Watch',
   chain: 'Algorand',
-  marketCap: 3179687,
   category: 'Sensors',
   token: 'PLANETS',
-} satisfies Project
+  id: 'anqu0a',
+  cmc_id: 8787,
+} satisfies AdapterProject

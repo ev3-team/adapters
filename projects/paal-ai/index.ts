@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'PAAL AI',
   chain: 'Ethereum',
-  marketCap: 17033276,
   category: 'AI',
   token: 'PAAL',
-} satisfies Project
+  id: 'za0tx8',
+  cmc_id: 1742,
+} satisfies AdapterProject

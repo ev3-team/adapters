@@ -1,7 +1,13 @@
-import { writeFile, mkdir } from 'node:fs/promises'
-import { Chain, Project, EProjectCategory } from '../projects/types'
+import assert from 'node:assert'
+import { AdapterProject, EAdapterProjectCategory } from '../projects/types'
+import { createNewId } from './utils'
+import { mkdir, writeFile } from 'node:fs/promises'
+import * as dotenv from 'dotenv'
+dotenv.config()
 
-type Category = 'Server' | 'Sensor' | 'Wireless' | 'Other'
+import { AdapterProjectChain } from '../projects/types'
+
+type Category = 'Server' | 'Sensor' | 'Wireless' | 'Other' | 'Compute' | 'Data' | 'Storage'
 type SubCategory =
   | 'CDN'
   | 'Storage'
@@ -10,7 +16,7 @@ type SubCategory =
   | 'VPN'
   | 'Geo Location'
   | 'Sensor'
-  | 'Supply Chain'
+  | 'Supply AdapterProjectChain'
   | 'Compute'
   | 'Smart Home'
   | 'Smart City'
@@ -30,14 +36,15 @@ type SubCategory =
   | 'Neuro'
   | 'Bluetooth'
   | 'Food Delivery'
+  | 'Supply Chain'
 
 type W3BStreamProject = {
   project_name: string
   trusted_metric: boolean
   token: string | null
-  layer_1: Chain[] | null
+  layer_1: AdapterProjectChain[] | null
   categories: Category[]
-  sub_categories?: SubCategory[]
+  sub_categories?: SubCategory[] | null
   market_cap?: number | string | null
   token_price?: number | null
   total_devices: number
@@ -52,7 +59,7 @@ type W3BStreamProject = {
   fully_diluted_valuation?: number
 }
 
-const categoryMapping = (project: W3BStreamProject): `${EProjectCategory}` => {
+const categoryMapping = (project: W3BStreamProject): `${EAdapterProjectCategory}` => {
   if (project.categories.includes('Wireless')) {
     return 'Wireless'
   } else if (project.categories.includes('Sensor') && !project.sub_categories?.includes('Energy')) {
@@ -68,14 +75,12 @@ const categoryMapping = (project: W3BStreamProject): `${EProjectCategory}` => {
   }
 }
 
-export const parseProjects = (projects: W3BStreamProject[]): Project[] =>
-  projects.map((project) => ({
-    name: project.project_name,
-    chain: project.layer_1?.[0] ?? null,
-    marketCap: project.fully_diluted_valuation ?? 0,
-    category: categoryMapping(project),
-    token: project.token,
-  }))
+export const parseProject = (project: W3BStreamProject): Omit<AdapterProject, 'id' | 'cmc_id'> => ({
+  name: project.project_name,
+  chain: project.layer_1?.[0] ?? null,
+  category: categoryMapping(project),
+  token: project.token,
+})
 
 export const W3B_STREAM_API = 'https://metrics-api.w3bstream.com'
 
@@ -92,10 +97,48 @@ export async function fetchProjects(): Promise<W3BStreamProject[] | null> {
   }
 }
 
-const projectToFileName = (project: Project) =>
+async function cmcFetchId(name: string) {
+  const headers = new Headers()
+  headers.append('X-CMC_PRO_API_KEY', `${process.env.CMC_API_KEY}`)
+
+  /**
+   * Report: Slug generated for "Daylight Energy (formerly React Network)" does not match
+   * any slug in the cmc API, therefore that one should be added manually.
+   */
+  let slug = name.trim().toLowerCase().replaceAll(' ', '-').replaceAll('.', '-')
+  // override render otoy slug to match cmc api slug.
+  if (slug === 'render-(otoy)') {
+    slug = 'otoy'
+  }
+
+  return fetch(`${process.env.CMC_API_URL}/v2/cryptocurrency/quotes/latest?slug=${slug}`, {
+    headers,
+  })
+    .then((response) => response.json())
+    .then((result) => ({ name, id: (result?.data[slug]?.id as number) ?? null }))
+    .catch((error) => {
+      console.log(
+        `error fetching project cmc id for project ${name} with computed slug ${slug}`,
+        error
+      )
+      return { name, id: null }
+    })
+}
+
+export async function fetchW3bProjectsCmcIds(projects: W3BStreamProject[]) {
+  return (await Promise.all(projects.map((p) => p.project_name).map(cmcFetchId))).reduce(
+    (acc, kv) => {
+      acc[kv.name] = kv.id
+      return acc
+    },
+    {} as Record<string, number | null>
+  )
+}
+
+const projectToFileName = (project: AdapterProject) =>
   project.name.trim().toLowerCase().replaceAll(' ', '-').replaceAll('.', '-')
 
-const projectToVarName = (project: Project) =>
+const projectToVarName = (project: AdapterProject) =>
   project.name
     .trim()
     .toLowerCase()
@@ -108,13 +151,30 @@ const projectToVarName = (project: Project) =>
     .replace(/^[1-9]/, (g) => `_${g}`)
     .concat(project.category)
 
+const newProjectId = createNewId()
+
 async function run() {
   try {
     const projects = await fetchProjects()
     if (!projects) throw new Error('No projects found')
-    const parsedProjects = parseProjects(projects)
+    const cmcIds = await fetchW3bProjectsCmcIds(projects)
+    const parsedProjects: AdapterProject[] = []
+    for (const project of projects) {
+      parsedProjects.push({
+        ...parseProject(project),
+        id: await newProjectId(true, parsedProjects),
+        cmc_id: cmcIds[project.project_name],
+      })
+    }
 
-    const storedProjects: Project[] = []
+    // Validate ids must be unique between projects
+    assert.equal(
+      parsedProjects.length,
+      Array.from(new Set(parsedProjects.map((p) => p.id))).length,
+      'Something went wrong make sure all projects have a unique id.'
+    )
+
+    const storedProjects: AdapterProject[] = []
 
     await Promise.all(
       parsedProjects.map(async (project) => {
@@ -123,11 +183,11 @@ async function run() {
           await mkdir(`./projects/${projectFileName}`)
           await writeFile(
             `./projects/${projectFileName}/index.ts`,
-            `import { Project } from '../types'\n\nexport default ${JSON.stringify(
+            `import { AdapterProject } from '../types'\n\nexport default ${JSON.stringify(
               project,
               null,
               2
-            )} satisfies Project`
+            )} satisfies AdapterProject`
           )
 
           // if the project was successfully stored then we store it in the var names that will be exported by the package.

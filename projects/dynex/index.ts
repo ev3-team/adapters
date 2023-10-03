@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Dynex',
   chain: 'Native',
-  marketCap: 83814474,
   category: 'Sensors',
   token: 'DNX',
-} satisfies Project
+  id: 'dy62cg',
+  cmc_id: 8110,
+} satisfies AdapterProject

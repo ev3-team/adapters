@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'WiFi Map',
   chain: 'Polygon',
-  marketCap: 32140144,
   category: 'Wireless',
   token: 'WIFI',
-} satisfies Project
+  id: 'a91iko',
+  cmc_id: 5657,
+} satisfies AdapterProject

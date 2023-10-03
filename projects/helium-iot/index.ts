@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Helium IOT',
   chain: 'Solana',
-  marketCap: 80714631,
   category: 'Wireless',
   token: 'IOT',
-} satisfies Project
+  id: 'v9hywe',
+  cmc_id: 7133,
+} satisfies AdapterProject

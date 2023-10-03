@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'CHIRP',
   chain: null,
-  marketCap: 0,
   category: 'Wireless',
   token: null,
-} satisfies Project
+  id: '33xuqf',
+  cmc_id: 2336,
+} satisfies AdapterProject

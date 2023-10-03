@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Axis',
   chain: 'Ethereum',
-  marketCap: 7194438,
   category: 'Sensors',
   token: 'AXIS',
-} satisfies Project
+  id: '0s88m8',
+  cmc_id: 5244,
+} satisfies AdapterProject

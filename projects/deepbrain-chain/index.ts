@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'DeepBrain Chain',
-  chain: null,
-  marketCap: 0,
+  chain: 'DeepBrainChain (Polkadot Substrate)',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'DBC',
+  id: 'ccvvuu',
+  cmc_id: 344,
+} satisfies AdapterProject

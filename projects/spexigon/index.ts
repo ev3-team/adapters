@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Spexigon',
   chain: null,
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: '0aylq3',
+  cmc_id: 7306,
+} satisfies AdapterProject

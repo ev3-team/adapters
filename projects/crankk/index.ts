@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Crankk',
   chain: 'Kadena',
-  marketCap: 0,
   category: 'Wireless',
   token: 'CRANKK',
-} satisfies Project
+  id: 'kmvcgr',
+  cmc_id: 4455,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'HiveMapper',
   chain: 'Solana',
-  marketCap: 124040575,
   category: 'Sensors',
   token: 'HONEY',
-} satisfies Project
+  id: '4e9g23',
+  cmc_id: 3076,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Media',
   chain: 'Solana',
-  marketCap: 61078966,
   category: 'Compute',
   token: 'MEDIA',
-} satisfies Project
+  id: 'gmbwau',
+  cmc_id: 3772,
+} satisfies AdapterProject

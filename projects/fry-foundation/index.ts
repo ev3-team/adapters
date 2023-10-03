@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Fry Foundation',
   chain: 'Algorand',
-  marketCap: 9194693,
   category: 'Sensors',
   token: 'FRY',
-} satisfies Project
+  id: 'nwe3i7',
+  cmc_id: 9066,
+} satisfies AdapterProject

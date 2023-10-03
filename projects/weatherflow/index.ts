@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'WeatherFlow',
   chain: 'IoTeX',
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: 'csnaj7',
+  cmc_id: 9315,
+} satisfies AdapterProject

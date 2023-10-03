@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Ceramic',
   chain: null,
-  marketCap: 0,
   category: 'Compute',
   token: null,
-} satisfies Project
+  id: 'bw602f',
+  cmc_id: 3543,
+} satisfies AdapterProject

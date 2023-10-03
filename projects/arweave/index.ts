@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Arweave',
   chain: null,
-  marketCap: 277740048,
   category: 'Compute',
   token: 'AR',
-} satisfies Project
+  id: '648tis',
+  cmc_id: 3279,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Bistroo',
   chain: 'Ethereum',
-  marketCap: 0,
   category: 'Sensors',
   token: 'BIST',
-} satisfies Project
+  id: 'wpgznh',
+  cmc_id: 8201,
+} satisfies AdapterProject

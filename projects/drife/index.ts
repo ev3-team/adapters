@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Drife',
   chain: 'Binance',
-  marketCap: 647050,
   category: 'Sensors',
   token: 'DRF',
-} satisfies Project
+  id: 'sh6p6n',
+  cmc_id: 278,
+} satisfies AdapterProject

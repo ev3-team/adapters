@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaBlox',
   chain: null,
-  marketCap: 0,
   category: 'Wireless',
   token: null,
-} satisfies Project
+  id: 'jtffji',
+  cmc_id: 8079,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'DIMO',
   chain: 'Polygon',
-  marketCap: 85463116,
   category: 'Sensors',
   token: 'DIMO',
-} satisfies Project
+  id: 'f3jj8d',
+  cmc_id: 8985,
+} satisfies AdapterProject

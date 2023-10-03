@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Storj',
   chain: 'Ethereum',
-  marketCap: 165710551,
   category: 'Compute',
   token: 'STORJ',
-} satisfies Project
+  id: 'gb2ozj',
+  cmc_id: 3072,
+} satisfies AdapterProject

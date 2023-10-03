@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Streamr',
   chain: 'Polygon',
-  marketCap: 46699660,
   category: 'Compute',
   token: 'DATA',
-} satisfies Project
+  id: 'vncyjf',
+  cmc_id: 786,
+} satisfies AdapterProject

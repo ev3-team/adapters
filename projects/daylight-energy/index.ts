@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Daylight Energy',
   chain: null,
-  marketCap: 0,
   category: 'Energy',
   token: 'KWH',
-} satisfies Project
+  id: '1h686l',
+  cmc_id: 5261,
+} satisfies AdapterProject

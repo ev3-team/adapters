@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'PowerLedger',
   chain: 'Solana',
-  marketCap: 158217489,
   category: 'Energy',
   token: 'POWR',
-} satisfies Project
+  id: '2hbsmu',
+  cmc_id: 5502,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Ankr',
   chain: 'Ethereum',
-  marketCap: 193107563,
   category: 'Compute',
   token: 'ANKR',
-} satisfies Project
+  id: '6cgg5x',
+  cmc_id: 2128,
+} satisfies AdapterProject

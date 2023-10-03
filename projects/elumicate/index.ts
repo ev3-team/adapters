@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Elumicate',
   chain: 'IoTeX',
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: '696z1u',
+  cmc_id: 6894,
+} satisfies AdapterProject

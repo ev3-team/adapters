@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'AirTor',
   chain: 'Ethereum',
-  marketCap: 64871998,
   category: 'Compute',
   token: 'ATOR',
-} satisfies Project
+  id: '58my1q',
+  cmc_id: 8936,
+} satisfies AdapterProject

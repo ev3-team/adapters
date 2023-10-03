@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Soarchain',
   chain: 'Cosmos',
-  marketCap: 0,
   category: 'Sensors',
   token: 'SOAR',
-} satisfies Project
+  id: '7vhvnd',
+  cmc_id: 1451,
+} satisfies AdapterProject

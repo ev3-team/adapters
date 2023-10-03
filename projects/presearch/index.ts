@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Presearch',
   chain: 'Ethereum',
-  marketCap: 11373786,
   category: 'Compute',
   token: 'PRE',
-} satisfies Project
+  id: 'undzc2',
+  cmc_id: 6227,
+} satisfies AdapterProject

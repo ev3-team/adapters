@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Nuco Cloud',
-  chain: null,
-  marketCap: 0,
+  chain: 'Ethereum (ERC-20)',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'NCDT',
+  id: 'kbkagb',
+  cmc_id: 1189,
+} satisfies AdapterProject

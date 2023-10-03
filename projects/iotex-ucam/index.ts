@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTeX UCAM',
   chain: 'IoTeX',
-  marketCap: 143519842,
   category: 'Sensors',
   token: 'IOTX',
-} satisfies Project
+  id: '8q89oy',
+  cmc_id: 6313,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'TheGraph',
   chain: 'Ethereum',
-  marketCap: 868647028,
   category: 'Compute',
   token: 'GRT',
-} satisfies Project
+  id: 'zg06yg',
+  cmc_id: 1974,
+} satisfies AdapterProject

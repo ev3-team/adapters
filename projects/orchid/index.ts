@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Orchid',
   chain: 'Ethereum',
-  marketCap: 63402235,
   category: 'Compute',
   token: 'OXT',
-} satisfies Project
+  id: 'pet4bb',
+  cmc_id: 6049,
+} satisfies AdapterProject

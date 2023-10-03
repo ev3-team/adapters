@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Phala Network',
-  chain: null,
-  marketCap: 0,
+  chain: 'Polkadot',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'PHA',
+  id: 'qwcc30',
+  cmc_id: 4092,
+} satisfies AdapterProject

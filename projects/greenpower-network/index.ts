@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'GreenPower Network',
   chain: 'Binance',
-  marketCap: 0,
   category: 'Energy',
   token: 'GPTT',
-} satisfies Project
+  id: 'l0a3jk',
+  cmc_id: 9646,
+} satisfies AdapterProject

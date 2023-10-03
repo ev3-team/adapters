@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Sentinel',
   chain: 'Cosmos',
-  marketCap: 9906206,
   category: 'Compute',
   token: 'DVPN',
-} satisfies Project
+  id: 'ki58p0',
+  cmc_id: 3837,
+} satisfies AdapterProject

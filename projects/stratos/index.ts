@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Stratos',
   chain: 'Ethereum',
-  marketCap: 54274401,
   category: 'Compute',
   token: 'STOS',
-} satisfies Project
+  id: 'e8m4vh',
+  cmc_id: 484,
+} satisfies AdapterProject

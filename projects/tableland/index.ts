@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'TableLand',
   chain: null,
-  marketCap: 0,
   category: 'Compute',
   token: null,
-} satisfies Project
+  id: '5ni6g4',
+  cmc_id: 954,
+} satisfies AdapterProject

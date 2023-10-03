@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Zus',
   chain: 'Ethereum',
-  marketCap: 38417526,
   category: 'Compute',
   token: 'ZCN',
-} satisfies Project
+  id: 'f624q0',
+  cmc_id: 5876,
+} satisfies AdapterProject

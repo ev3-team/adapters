@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTeX Pebble',
   chain: 'IoTeX',
-  marketCap: 143519842,
   category: 'Sensors',
   token: 'IOTX',
-} satisfies Project
+  id: 'i2z345',
+  cmc_id: 7848,
+} satisfies AdapterProject

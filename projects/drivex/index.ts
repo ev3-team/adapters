@@ -1,10 +1,10 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'ASCENSIONWX',
-  chain: 'Algorand',
+  name: 'DriveX',
+  chain: 'IoTeX',
   category: 'Sensors',
-  token: 'TLOS',
-  id: '8opej6',
-  cmc_id: 8386,
+  token: null,
+  id: '8grxh1',
+  cmc_id: 3913,
 } satisfies AdapterProject

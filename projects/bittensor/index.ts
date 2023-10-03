@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'BitTensor',
   chain: 'Native',
-  marketCap: 1175719077,
   category: 'AI',
   token: 'TAO',
-} satisfies Project
+  id: 'qwqfch',
+  cmc_id: 668,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Filecoin',
   chain: 'Native',
-  marketCap: 6430333432,
   category: 'Compute',
   token: 'FIL',
-} satisfies Project
+  id: 'in4fa3',
+  cmc_id: 6168,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'WayRu',
   chain: null,
-  marketCap: 0,
   category: 'Wireless',
   token: null,
-} satisfies Project
+  id: 'uzdg3n',
+  cmc_id: 6872,
+} satisfies AdapterProject

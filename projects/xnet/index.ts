@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'XNET',
   chain: 'Polygon',
-  marketCap: 0,
   category: 'Wireless',
   token: 'XNET',
-} satisfies Project
+  id: 'pkvnsb',
+  cmc_id: 358,
+} satisfies AdapterProject

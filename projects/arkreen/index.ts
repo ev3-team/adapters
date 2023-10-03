@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Arkreen',
   chain: 'Polygon',
-  marketCap: 0,
   category: 'Energy',
   token: 'tARKE',
-} satisfies Project
+  id: 'v4ptue',
+  cmc_id: 3156,
+} satisfies AdapterProject

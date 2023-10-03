@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'HealthBlocks',
   chain: 'IoTeX',
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: 'dcbbnu',
+  cmc_id: 5315,
+} satisfies AdapterProject

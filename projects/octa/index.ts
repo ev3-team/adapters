@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Octa',
   chain: 'Native',
-  marketCap: 22094759,
   category: 'Compute',
   token: 'OCTA',
-} satisfies Project
+  id: 'cji8a4',
+  cmc_id: 227,
+} satisfies AdapterProject

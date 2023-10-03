@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Golem',
   chain: 'Ethereum',
-  marketCap: 178011942,
   category: 'Compute',
   token: 'GLM',
-} satisfies Project
+  id: '6kp6pu',
+  cmc_id: 8052,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Roko',
   chain: 'Ethereum',
-  marketCap: 6481212,
   category: 'AI',
   token: 'ROKO',
-} satisfies Project
+  id: 'bj5v8y',
+  cmc_id: 8332,
+} satisfies AdapterProject

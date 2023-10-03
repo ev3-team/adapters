@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'WeatherXM',
   chain: 'Polygon',
-  marketCap: 0,
   category: 'Sensors',
   token: 'WXM',
-} satisfies Project
+  id: 'bxj5z5',
+  cmc_id: 247,
+} satisfies AdapterProject

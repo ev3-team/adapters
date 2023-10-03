@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Swarm',
   chain: 'Ethereum',
-  marketCap: 14324078,
   category: 'Compute',
   token: 'BZZ',
-} satisfies Project
+  id: 'ylo4ro',
+  cmc_id: 4145,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Constellation',
   chain: 'Native',
-  marketCap: 84917970,
   category: 'Compute',
   token: 'DAG',
-} satisfies Project
+  id: 'kuh8rw',
+  cmc_id: 4002,
+} satisfies AdapterProject

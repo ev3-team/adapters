@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Databroker',
   chain: 'Ethereum',
-  marketCap: 265608,
   category: 'Compute',
   token: 'DTX',
-} satisfies Project
+  id: 'pgwfps',
+  cmc_id: 9553,
+} satisfies AdapterProject

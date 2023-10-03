@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'CUDOS',
   chain: 'Cosmos',
-  marketCap: 25515804,
   category: 'Compute',
   token: 'CUDOS',
-} satisfies Project
+  id: 'li837b',
+  cmc_id: 637,
+} satisfies AdapterProject

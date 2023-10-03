@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Pocket',
   chain: 'Native',
-  marketCap: 46068304,
   category: 'Compute',
   token: 'POKT',
-} satisfies Project
+  id: 'j21t98',
+  cmc_id: 9168,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'GPU.net',
-  chain: null,
-  marketCap: 0,
+  chain: 'Unknown',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'GPU',
+  id: 'bp13j3',
+  cmc_id: 7996,
+} satisfies AdapterProject

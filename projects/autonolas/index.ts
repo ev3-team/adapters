@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Autonolas',
   chain: 'Ethereum',
-  marketCap: 567388603,
   category: 'AI',
   token: 'OLAS',
-} satisfies Project
+  id: 'xgk9y9',
+  cmc_id: 4147,
+} satisfies AdapterProject

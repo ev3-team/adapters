@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'MapMetrics',
   chain: 'Solana',
-  marketCap: 0,
   category: 'Sensors',
   token: 'MMAPS',
-} satisfies Project
+  id: 'v16yqp',
+  cmc_id: 2678,
+} satisfies AdapterProject

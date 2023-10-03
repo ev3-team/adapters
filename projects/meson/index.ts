@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Meson',
   chain: null,
-  marketCap: 0,
   category: 'Compute',
   token: 'GAGA',
-} satisfies Project
+  id: 'd98zoi',
+  cmc_id: 5783,
+} satisfies AdapterProject

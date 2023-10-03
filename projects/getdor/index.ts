@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Getdor',
   chain: null,
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: '4ogi61',
+  cmc_id: 4441,
+} satisfies AdapterProject

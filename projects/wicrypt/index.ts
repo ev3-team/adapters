@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'WiCrypt',
   chain: 'Polygon',
-  marketCap: 4873711,
   category: 'Wireless',
   token: 'WNT',
-} satisfies Project
+  id: 'rrl2h8',
+  cmc_id: 315,
+} satisfies AdapterProject

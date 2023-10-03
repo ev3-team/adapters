@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Hypercycle',
-  chain: null,
-  marketCap: 0,
+  chain: 'Unknown',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'HYPC',
+  id: 'ywesrp',
+  cmc_id: 9747,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: '2blox',
   chain: 'Algorand',
-  marketCap: 0,
   category: 'Sensors',
   token: null,
-} satisfies Project
+  id: 'bjuk6x',
+  cmc_id: 5866,
+} satisfies AdapterProject

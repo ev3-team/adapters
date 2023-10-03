@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'MatchX',
   chain: null,
-  marketCap: 0,
   category: 'Wireless',
   token: null,
-} satisfies Project
+  id: 'p1qhcl',
+  cmc_id: 7314,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Threefold',
   chain: 'Binance',
-  marketCap: 25763367,
   category: 'Compute',
   token: 'TFT',
-} satisfies Project
+  id: '0wdq5v',
+  cmc_id: 8660,
+} satisfies AdapterProject

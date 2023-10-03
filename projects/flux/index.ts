@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Flux',
   chain: 'Ethereum',
-  marketCap: 141345882,
   category: 'Compute',
   token: 'FLUX',
-} satisfies Project
+  id: 'pmgh6t',
+  cmc_id: 6086,
+} satisfies AdapterProject

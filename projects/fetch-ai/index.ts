@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Fetch AI',
   chain: 'Ethereum',
-  marketCap: 249982573,
   category: 'AI',
   token: 'FET',
-} satisfies Project
+  id: 'xy57mr',
+  cmc_id: 9148,
+} satisfies AdapterProject

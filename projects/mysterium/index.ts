@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Mysterium',
   chain: 'Polygon',
-  marketCap: 4984219,
   category: 'Compute',
   token: 'MYST',
-} satisfies Project
+  id: '21wcmv',
+  cmc_id: 3073,
+} satisfies AdapterProject

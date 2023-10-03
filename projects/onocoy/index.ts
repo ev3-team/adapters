@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Onocoy',
   chain: 'Solana',
-  marketCap: 0,
   category: 'Sensors',
   token: 'BONO',
-} satisfies Project
+  id: 'z5im1n',
+  cmc_id: 8550,
+} satisfies AdapterProject

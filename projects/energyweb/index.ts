@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'EnergyWeb',
   chain: 'Ethereum',
-  marketCap: 179505160,
   category: 'Energy',
   token: 'EWT',
-} satisfies Project
+  id: 'c5lunc',
+  cmc_id: 4819,
+} satisfies AdapterProject

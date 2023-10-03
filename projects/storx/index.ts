@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Storx',
   chain: 'XinFin',
-  marketCap: 59198863,
   category: 'Compute',
   token: 'SRX',
-} satisfies Project
+  id: '2xltzg',
+  cmc_id: 2188,
+} satisfies AdapterProject

@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTeX W3bstream',
   chain: 'IoTeX',
-  marketCap: 143519842,
   category: 'Compute',
   token: 'IOTX',
-} satisfies Project
+  id: '5w85k2',
+  cmc_id: 9223,
+} satisfies AdapterProject

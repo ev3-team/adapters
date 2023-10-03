@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'GPUtopia',
-  chain: null,
-  marketCap: 0,
+  chain: 'Bitcoin',
   category: 'Other',
-  token: null,
-} satisfies Project
+  token: 'BTC',
+  id: 'itqtvs',
+  cmc_id: 4838,
+} satisfies AdapterProject

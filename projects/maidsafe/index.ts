@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'MaidSafe',
   chain: 'Ethereum',
-  marketCap: 0,
   category: 'Compute',
   token: 'EMAID',
-} satisfies Project
+  id: 'ul5r5o',
+  cmc_id: 9283,
+} satisfies AdapterProject

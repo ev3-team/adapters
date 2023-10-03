@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'NKN',
   chain: 'Ethereum',
-  marketCap: 85326511,
   category: 'Compute',
   token: 'NKN',
-} satisfies Project
+  id: 'seabjl',
+  cmc_id: 8546,
+} satisfies AdapterProject

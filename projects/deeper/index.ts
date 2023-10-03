@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Deeper',
   chain: 'Ethereum',
-  marketCap: 29821219,
   category: 'Compute',
   token: 'DPR',
-} satisfies Project
+  id: 'brycmb',
+  cmc_id: 2057,
+} satisfies AdapterProject

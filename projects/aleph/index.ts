@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Aleph',
   chain: 'Ethereum',
-  marketCap: 35817126,
   category: 'Compute',
   token: 'ALEPH',
-} satisfies Project
+  id: '56e3we',
+  cmc_id: 345,
+} satisfies AdapterProject
