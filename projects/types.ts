@@ -1,4 +1,4 @@
-export enum EProjectCategory {
+export enum EAdapterProjectCategory {
   WIRELESS = 'Wireless',
   SENSORS = 'Sensors',
   ENERGY = 'Energy',
@@ -7,7 +7,7 @@ export enum EProjectCategory {
   OTHER = 'Other',
 }
 
-export type Chain =
+export type AdapterProjectChain =
   | 'Ethereum'
   | 'Algorand'
   | 'Cosmos'
@@ -22,11 +22,18 @@ export type Chain =
   | 'Arbitrum'
   | 'Cardano'
   | 'BNB'
+  | 'DeepBrainChain (Polkadot Substrate)'
+  | 'Rowen Blockchain'
+  | 'Unknown'
+  | 'Ethereum (ERC-20)'
+  | 'Bitcoin'
+  | 'K2'
 
-export type Project = {
-  category: `${EProjectCategory}`
-  chain: Chain | null
-  marketCap: number
+export type AdapterProject = {
+  id: string
+  cmcId: number | null
+  category: `${EAdapterProjectCategory}`
+  chain: AdapterProjectChain | null
   name: string
   token: string | null
 }

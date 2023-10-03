@@ -1,9 +1,10 @@
-import { Project } from '../types'
+import { AdapterProject } from '../types'
 
 export default {
   name: 'Brave',
   chain: 'Ethereum',
-  marketCap: 259200451,
   category: 'Other',
   token: 'BAT',
-} satisfies Project
+  id: '1akjxs',
+  cmcId: 2343,
+} satisfies AdapterProject
