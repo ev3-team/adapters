@@ -6,5 +6,5 @@ export default {
   category: 'AI',
   token: 'FET',
   id: 'xy57mr',
-  cmc_id: 9148,
+  cmcId: 9148,
 } satisfies AdapterProject

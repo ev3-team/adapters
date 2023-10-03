@@ -6,5 +6,5 @@ export default {
   category: 'Energy',
   token: 'KWH',
   id: 't32bio',
-  cmc_id: null,
+  cmcId: null,
 } satisfies AdapterProject

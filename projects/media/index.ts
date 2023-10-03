@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'MEDIA',
   id: 'gmbwau',
-  cmc_id: 3772,
+  cmcId: 3772,
 } satisfies AdapterProject

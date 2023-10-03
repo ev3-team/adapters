@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'DAG',
   id: 'kuh8rw',
-  cmc_id: 4002,
+  cmcId: 4002,
 } satisfies AdapterProject

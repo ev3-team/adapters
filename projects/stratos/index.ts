@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'STOS',
   id: 'e8m4vh',
-  cmc_id: 484,
+  cmcId: 484,
 } satisfies AdapterProject

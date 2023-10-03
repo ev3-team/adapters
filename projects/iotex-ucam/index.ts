@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'IOTX',
   id: '8q89oy',
-  cmc_id: 6313,
+  cmcId: 6313,
 } satisfies AdapterProject

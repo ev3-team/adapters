@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: null,
   id: 'utuems',
-  cmc_id: 5753,
+  cmcId: 5753,
 } satisfies AdapterProject

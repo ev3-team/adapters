@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'PLANETS',
   id: 'anqu0a',
-  cmc_id: 8787,
+  cmcId: 8787,
 } satisfies AdapterProject

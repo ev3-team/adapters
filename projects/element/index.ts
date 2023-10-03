@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'IAQ',
   id: 'vqu9ja',
-  cmc_id: 9919,
+  cmcId: 9919,
 } satisfies AdapterProject

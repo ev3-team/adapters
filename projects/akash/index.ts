@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'AKT',
   id: 'cxw2wo',
-  cmc_id: 266,
+  cmcId: 266,
 } satisfies AdapterProject

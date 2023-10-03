@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'DPR',
   id: 'brycmb',
-  cmc_id: 2057,
+  cmcId: 2057,
 } satisfies AdapterProject

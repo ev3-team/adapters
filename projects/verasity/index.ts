@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'VRA',
   id: 'qskidk',
-  cmc_id: 5892,
+  cmcId: 5892,
 } satisfies AdapterProject

@@ -6,5 +6,5 @@ export default {
   category: 'AI',
   token: 'ROKO',
   id: 'bj5v8y',
-  cmc_id: 8332,
+  cmcId: 8332,
 } satisfies AdapterProject

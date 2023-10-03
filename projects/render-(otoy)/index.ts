@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'RNDR',
   id: 'bdlvca',
-  cmc_id: 2058,
+  cmcId: 2058,
 } satisfies AdapterProject

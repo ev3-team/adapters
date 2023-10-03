@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'DATA',
   id: 'vncyjf',
-  cmc_id: 786,
+  cmcId: 786,
 } satisfies AdapterProject

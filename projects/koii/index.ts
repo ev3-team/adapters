@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'KOII',
   id: '9601n0',
-  cmc_id: 7094,
+  cmcId: 7094,
 } satisfies AdapterProject

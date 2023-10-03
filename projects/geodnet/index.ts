@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'GEOD',
   id: '7yz39u',
-  cmc_id: 4340,
+  cmcId: 4340,
 } satisfies AdapterProject

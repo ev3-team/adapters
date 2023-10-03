@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'HOT',
   id: '0m8egs',
-  cmc_id: 8102,
+  cmcId: 8102,
 } satisfies AdapterProject

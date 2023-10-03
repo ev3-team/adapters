@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'PHA',
   id: 'qwcc30',
-  cmc_id: 4092,
+  cmcId: 4092,
 } satisfies AdapterProject

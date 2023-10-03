@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'OCTA',
   id: 'cji8a4',
-  cmc_id: 227,
+  cmcId: 227,
 } satisfies AdapterProject

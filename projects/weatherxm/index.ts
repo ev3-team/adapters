@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'WXM',
   id: 'bxj5z5',
-  cmc_id: 247,
+  cmcId: 247,
 } satisfies AdapterProject

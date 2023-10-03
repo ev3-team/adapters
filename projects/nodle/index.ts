@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: 'NODL',
   id: 'wrthxo',
-  cmc_id: 9427,
+  cmcId: 9427,
 } satisfies AdapterProject

@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: null,
   id: 'dcbbnu',
-  cmc_id: 5315,
+  cmcId: 5315,
 } satisfies AdapterProject

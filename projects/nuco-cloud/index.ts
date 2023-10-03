@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'NCDT',
   id: 'kbkagb',
-  cmc_id: 1189,
+  cmcId: 1189,
 } satisfies AdapterProject

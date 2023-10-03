@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'ZCN',
   id: 'f624q0',
-  cmc_id: 5876,
+  cmcId: 5876,
 } satisfies AdapterProject

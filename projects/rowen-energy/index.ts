@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'RWN',
   id: 'av09vt',
-  cmc_id: 241,
+  cmcId: 241,
 } satisfies AdapterProject

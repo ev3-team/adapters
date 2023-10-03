@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'RLC',
   id: 'omtwlk',
-  cmc_id: 679,
+  cmcId: 679,
 } satisfies AdapterProject

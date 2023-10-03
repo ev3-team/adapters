@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'OCEAN',
   id: 'hhtcum',
-  cmc_id: 2843,
+  cmcId: 2843,
 } satisfies AdapterProject

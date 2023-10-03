@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'MYST',
   id: '21wcmv',
-  cmc_id: 3073,
+  cmcId: 3073,
 } satisfies AdapterProject

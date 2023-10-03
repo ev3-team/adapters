@@ -6,5 +6,5 @@ export default {
   category: 'Energy',
   token: 'KWH',
   id: '1h686l',
-  cmc_id: 5261,
+  cmcId: 5261,
 } satisfies AdapterProject

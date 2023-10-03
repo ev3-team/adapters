@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: 'XNET',
   id: 'pkvnsb',
-  cmc_id: 358,
+  cmcId: 358,
 } satisfies AdapterProject

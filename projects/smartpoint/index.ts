@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: null,
   id: 'hpwesm',
-  cmc_id: 2527,
+  cmcId: 2527,
 } satisfies AdapterProject

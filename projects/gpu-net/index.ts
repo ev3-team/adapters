@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'GPU',
   id: 'bp13j3',
-  cmc_id: 7996,
+  cmcId: 7996,
 } satisfies AdapterProject

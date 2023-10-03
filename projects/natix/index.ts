@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'NATIX',
   id: 'ao9o0v',
-  cmc_id: 9633,
+  cmcId: 9633,
 } satisfies AdapterProject

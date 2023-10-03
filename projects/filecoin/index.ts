@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'FIL',
   id: 'in4fa3',
-  cmc_id: 6168,
+  cmcId: 6168,
 } satisfies AdapterProject

@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'SHDW',
   id: 'fpjv9s',
-  cmc_id: 4927,
+  cmcId: 4927,
 } satisfies AdapterProject

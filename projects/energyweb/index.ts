@@ -6,5 +6,5 @@ export default {
   category: 'Energy',
   token: 'EWT',
   id: 'c5lunc',
-  cmc_id: 4819,
+  cmcId: 4819,
 } satisfies AdapterProject

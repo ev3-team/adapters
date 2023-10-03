@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'DNX',
   id: 'dy62cg',
-  cmc_id: 8110,
+  cmcId: 8110,
 } satisfies AdapterProject

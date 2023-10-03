@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'GLM',
   id: '6kp6pu',
-  cmc_id: 8052,
+  cmcId: 8052,
 } satisfies AdapterProject

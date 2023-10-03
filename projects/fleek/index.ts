@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: null,
   id: 'pynyvv',
-  cmc_id: 9177,
+  cmcId: 9177,
 } satisfies AdapterProject

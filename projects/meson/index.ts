@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'GAGA',
   id: 'd98zoi',
-  cmc_id: 5783,
+  cmcId: 5783,
 } satisfies AdapterProject

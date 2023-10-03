@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: 'CRANKK',
   id: 'kmvcgr',
-  cmc_id: 4455,
+  cmcId: 4455,
 } satisfies AdapterProject

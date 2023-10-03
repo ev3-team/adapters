@@ -6,5 +6,5 @@ export default {
   category: 'AI',
   token: 'OLAS',
   id: 'xgk9y9',
-  cmc_id: 4147,
+  cmcId: 4147,
 } satisfies AdapterProject

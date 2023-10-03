@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'MASQ',
   id: 'ki37sm',
-  cmc_id: 9116,
+  cmcId: 9116,
 } satisfies AdapterProject

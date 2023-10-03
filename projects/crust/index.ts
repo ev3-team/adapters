@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'CRU',
   id: 'r68kl8',
-  cmc_id: 9018,
+  cmcId: 9018,
 } satisfies AdapterProject

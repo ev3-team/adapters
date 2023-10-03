@@ -31,7 +31,7 @@ export type AdapterProjectChain =
 
 export type AdapterProject = {
   id: string
-  cmc_id: number | null
+  cmcId: number | null
   category: `${EAdapterProjectCategory}`
   chain: AdapterProjectChain | null
   name: string

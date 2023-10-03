@@ -6,5 +6,5 @@ export default {
   category: 'Energy',
   token: 'tARKE',
   id: 'v4ptue',
-  cmc_id: 3156,
+  cmcId: 3156,
 } satisfies AdapterProject

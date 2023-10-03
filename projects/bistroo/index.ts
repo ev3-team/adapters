@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'BIST',
   id: 'wpgznh',
-  cmc_id: 8201,
+  cmcId: 8201,
 } satisfies AdapterProject

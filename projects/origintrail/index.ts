@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'TRAC',
   id: 'invaro',
-  cmc_id: 6615,
+  cmcId: 6615,
 } satisfies AdapterProject

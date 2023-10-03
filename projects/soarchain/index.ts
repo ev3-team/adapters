@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'SOAR',
   id: '7vhvnd',
-  cmc_id: 1451,
+  cmcId: 1451,
 } satisfies AdapterProject

@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'DTX',
   id: 'pgwfps',
-  cmc_id: 9553,
+  cmcId: 9553,
 } satisfies AdapterProject

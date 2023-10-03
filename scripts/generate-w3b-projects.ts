@@ -75,7 +75,7 @@ const categoryMapping = (project: W3BStreamProject): `${EAdapterProjectCategory}
   }
 }
 
-export const parseProject = (project: W3BStreamProject): Omit<AdapterProject, 'id' | 'cmc_id'> => ({
+export const parseProject = (project: W3BStreamProject): Omit<AdapterProject, 'id' | 'cmcId'> => ({
   name: project.project_name,
   chain: project.layer_1?.[0] ?? null,
   category: categoryMapping(project),
@@ -163,7 +163,7 @@ async function run() {
       parsedProjects.push({
         ...parseProject(project),
         id: await newProjectId(true, parsedProjects),
-        cmc_id: cmcIds[project.project_name],
+        cmcId: cmcIds[project.project_name],
       })
     }
 

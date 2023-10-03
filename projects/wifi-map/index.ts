@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: 'WIFI',
   id: 'a91iko',
-  cmc_id: 5657,
+  cmcId: 5657,
 } satisfies AdapterProject

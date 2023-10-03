@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'THETA',
   id: 'r9b6pc',
-  cmc_id: 1846,
+  cmcId: 1846,
 } satisfies AdapterProject

@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'MMAPS',
   id: 'v16yqp',
-  cmc_id: 2678,
+  cmcId: 2678,
 } satisfies AdapterProject

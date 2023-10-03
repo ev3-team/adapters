@@ -6,5 +6,5 @@ export default {
   category: 'AI',
   token: 'PAAL',
   id: 'za0tx8',
-  cmc_id: 1742,
+  cmcId: 1742,
 } satisfies AdapterProject

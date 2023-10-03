@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'SIA',
   id: 'b4upu7',
-  cmc_id: 3447,
+  cmcId: 3447,
 } satisfies AdapterProject

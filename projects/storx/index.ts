@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'SRX',
   id: '2xltzg',
-  cmc_id: 2188,
+  cmcId: 2188,
 } satisfies AdapterProject

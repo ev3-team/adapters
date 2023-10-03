@@ -6,5 +6,5 @@ export default {
   category: 'AI',
   token: 'TAO',
   id: 'qwqfch',
-  cmc_id: 668,
+  cmcId: 668,
 } satisfies AdapterProject

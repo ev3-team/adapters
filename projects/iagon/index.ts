@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'IAG',
   id: 'jecqpd',
-  cmc_id: 6415,
+  cmcId: 6415,
 } satisfies AdapterProject

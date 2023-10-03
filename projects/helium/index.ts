@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: 'HNT',
   id: 'r6ij92',
-  cmc_id: 4486,
+  cmcId: 4486,
 } satisfies AdapterProject

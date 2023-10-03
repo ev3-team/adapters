@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'LPT',
   id: '8907fn',
-  cmc_id: 7810,
+  cmcId: 7810,
 } satisfies AdapterProject

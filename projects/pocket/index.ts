@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'POKT',
   id: 'j21t98',
-  cmc_id: 9168,
+  cmcId: 9168,
 } satisfies AdapterProject

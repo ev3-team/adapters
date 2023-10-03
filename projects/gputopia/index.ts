@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'BTC',
   id: 'itqtvs',
-  cmc_id: 4838,
+  cmcId: 4838,
 } satisfies AdapterProject

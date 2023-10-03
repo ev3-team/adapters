@@ -6,5 +6,5 @@ export default {
   category: 'Energy',
   token: 'POWR',
   id: '2hbsmu',
-  cmc_id: 5502,
+  cmcId: 5502,
 } satisfies AdapterProject

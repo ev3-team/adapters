@@ -6,5 +6,5 @@ export default {
   category: 'Energy',
   token: 'GPTT',
   id: 'l0a3jk',
-  cmc_id: 9646,
+  cmcId: 9646,
 } satisfies AdapterProject

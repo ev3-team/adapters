@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'FOAM',
   id: 'azexzo',
-  cmc_id: 2881,
+  cmcId: 2881,
 } satisfies AdapterProject

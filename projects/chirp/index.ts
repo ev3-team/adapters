@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: null,
   id: '33xuqf',
-  cmc_id: 2336,
+  cmcId: 2336,
 } satisfies AdapterProject

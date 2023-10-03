@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'NKN',
   id: 'seabjl',
-  cmc_id: 8546,
+  cmcId: 8546,
 } satisfies AdapterProject

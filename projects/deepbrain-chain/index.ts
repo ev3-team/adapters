@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'DBC',
   id: 'ccvvuu',
-  cmc_id: 344,
+  cmcId: 344,
 } satisfies AdapterProject

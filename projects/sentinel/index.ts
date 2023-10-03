@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'DVPN',
   id: 'ki58p0',
-  cmc_id: 3837,
+  cmcId: 3837,
 } satisfies AdapterProject

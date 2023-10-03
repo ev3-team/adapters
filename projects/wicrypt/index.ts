@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: 'WNT',
   id: 'rrl2h8',
-  cmc_id: 315,
+  cmcId: 315,
 } satisfies AdapterProject

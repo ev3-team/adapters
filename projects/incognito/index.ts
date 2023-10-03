@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'PRV',
   id: 'ubswlr',
-  cmc_id: 7615,
+  cmcId: 7615,
 } satisfies AdapterProject

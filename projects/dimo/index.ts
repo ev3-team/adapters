@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'DIMO',
   id: 'f3jj8d',
-  cmc_id: 8985,
+  cmcId: 8985,
 } satisfies AdapterProject

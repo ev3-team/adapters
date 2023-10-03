@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'ALEPH',
   id: '56e3we',
-  cmc_id: 345,
+  cmcId: 345,
 } satisfies AdapterProject

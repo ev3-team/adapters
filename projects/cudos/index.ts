@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'CUDOS',
   id: 'li837b',
-  cmc_id: 637,
+  cmcId: 637,
 } satisfies AdapterProject

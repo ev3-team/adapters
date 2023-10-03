@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'BAT',
   id: '1akjxs',
-  cmc_id: 2343,
+  cmcId: 2343,
 } satisfies AdapterProject

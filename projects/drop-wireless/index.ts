@@ -6,5 +6,5 @@ export default {
   category: 'Wireless',
   token: 'DWIN',
   id: 'zcbv5k',
-  cmc_id: 5615,
+  cmcId: 5615,
 } satisfies AdapterProject

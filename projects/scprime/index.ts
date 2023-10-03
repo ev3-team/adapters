@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'SCP',
   id: 'w7lcqi',
-  cmc_id: 2341,
+  cmcId: 2341,
 } satisfies AdapterProject

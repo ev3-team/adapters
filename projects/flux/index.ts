@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'FLUX',
   id: 'pmgh6t',
-  cmc_id: 6086,
+  cmcId: 6086,
 } satisfies AdapterProject

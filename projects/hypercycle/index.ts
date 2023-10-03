@@ -6,5 +6,5 @@ export default {
   category: 'Other',
   token: 'HYPC',
   id: 'ywesrp',
-  cmc_id: 9747,
+  cmcId: 9747,
 } satisfies AdapterProject

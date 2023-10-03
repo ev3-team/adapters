@@ -6,5 +6,5 @@ export default {
   category: 'Sensors',
   token: 'HONEY',
   id: '4e9g23',
-  cmc_id: 3076,
+  cmcId: 3076,
 } satisfies AdapterProject

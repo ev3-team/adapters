@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'OXT',
   id: 'pet4bb',
-  cmc_id: 6049,
+  cmcId: 6049,
 } satisfies AdapterProject

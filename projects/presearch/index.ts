@@ -6,5 +6,5 @@ export default {
   category: 'Compute',
   token: 'PRE',
   id: 'undzc2',
-  cmc_id: 6227,
+  cmcId: 6227,
 } satisfies AdapterProject
