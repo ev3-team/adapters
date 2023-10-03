@@ -11,14 +11,19 @@
     "build": "tsup projects/index.ts --format cjs,esm --dts",
     "ci": "pnpm run lint && pnpm run build",
     "release": "pnpm run lint && pnpm run build && changeset publish",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "generate:w3b": "tsx scripts/generate-w3b-projects.ts && pnpm format"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
+    "@types/node": "^20.7.1",
+    "dotenv": "^16.3.1",
+    "nanoid": "^5.0.1",
     "tsup": "^7.2.0",
+    "tsx": "^3.13.0",
     "typescript": "^5.2.2"
   }
 }
