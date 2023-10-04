@@ -5,6 +5,6 @@ export default {
   chain: 'Kadena',
   category: 'Wireless',
   token: 'CRANKK',
-  id: 'kmvcgr',
-  cmcId: 4455,
+  id: 'h3ta6c',
+  cmcId: 5381,
 } satisfies AdapterProject

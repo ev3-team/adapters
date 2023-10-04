@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Sensors',
   token: 'AXIS',
-  id: '0s88m8',
-  cmcId: 5244,
+  id: '81ei5a',
+  cmcId: 1968,
 } satisfies AdapterProject

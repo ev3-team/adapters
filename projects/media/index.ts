@@ -5,6 +5,6 @@ export default {
   chain: 'Solana',
   category: 'Compute',
   token: 'MEDIA',
-  id: 'gmbwau',
-  cmcId: 3772,
+  id: 'ifdjs4',
+  cmcId: 2953,
 } satisfies AdapterProject

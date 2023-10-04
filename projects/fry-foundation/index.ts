@@ -5,6 +5,6 @@ export default {
   chain: 'Algorand',
   category: 'Sensors',
   token: 'FRY',
-  id: 'nwe3i7',
-  cmcId: 9066,
+  id: 'd20nz0',
+  cmcId: 2850,
 } satisfies AdapterProject

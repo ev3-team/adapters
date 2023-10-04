@@ -5,6 +5,6 @@ export default {
   chain: null,
   category: 'Sensors',
   token: 'NATIX',
-  id: 'ao9o0v',
-  cmcId: 9633,
+  id: 'j49zjr',
+  cmcId: 7616,
 } satisfies AdapterProject

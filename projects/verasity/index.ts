@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Other',
   token: 'VRA',
-  id: 'qskidk',
-  cmcId: 5892,
+  id: '5m10it',
+  cmcId: 2498,
 } satisfies AdapterProject

@@ -5,6 +5,6 @@ export default {
   chain: 'Solana',
   category: 'Compute',
   token: 'BOP',
-  id: '6kmn0o',
-  cmcId: 4889,
+  id: 'dtwzne',
+  cmcId: 3450,
 } satisfies AdapterProject

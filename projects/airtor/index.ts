@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'ATOR',
-  id: '58my1q',
-  cmcId: 8936,
+  id: 'o4n9y5',
+  cmcId: 8000,
 } satisfies AdapterProject

@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'BZZ',
-  id: 'ylo4ro',
-  cmcId: 4145,
+  id: 'wwb49e',
+  cmcId: 2686,
 } satisfies AdapterProject

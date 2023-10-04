@@ -5,6 +5,6 @@ export default {
   chain: 'Polkadot',
   category: 'Sensors',
   token: 'TRAC',
-  id: 'invaro',
-  cmcId: 6615,
+  id: 'fdmpx2',
+  cmcId: 9001,
 } satisfies AdapterProject

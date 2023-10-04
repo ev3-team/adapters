@@ -5,6 +5,6 @@ export default {
   chain: 'Polkadot',
   category: 'Wireless',
   token: 'NODL',
-  id: 'wrthxo',
-  cmcId: 9427,
+  id: 'imc9pf',
+  cmcId: 159,
 } satisfies AdapterProject

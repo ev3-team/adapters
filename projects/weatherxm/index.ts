@@ -5,6 +5,6 @@ export default {
   chain: 'Polygon',
   category: 'Sensors',
   token: 'WXM',
-  id: 'bxj5z5',
-  cmcId: 247,
+  id: 'izvdko',
+  cmcId: 566,
 } satisfies AdapterProject

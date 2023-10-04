@@ -5,6 +5,6 @@ export default {
   chain: 'Solana',
   category: 'Compute',
   token: 'SHDW',
-  id: 'fpjv9s',
-  cmcId: 4927,
+  id: 'n18iul',
+  cmcId: 4344,
 } satisfies AdapterProject

@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'OXT',
-  id: 'pet4bb',
-  cmcId: 6049,
+  id: '4yg195',
+  cmcId: 9277,
 } satisfies AdapterProject

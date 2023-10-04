@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'RLC',
-  id: 'omtwlk',
-  cmcId: 679,
+  id: '2xt5jh',
+  cmcId: 1987,
 } satisfies AdapterProject

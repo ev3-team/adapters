@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'ALEPH',
-  id: '56e3we',
-  cmcId: 345,
+  id: 'lhjvn0',
+  cmcId: 6959,
 } satisfies AdapterProject

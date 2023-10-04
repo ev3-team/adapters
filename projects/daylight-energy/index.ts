@@ -5,6 +5,6 @@ export default {
   chain: null,
   category: 'Energy',
   token: 'KWH',
-  id: '1h686l',
-  cmcId: 5261,
+  id: 'f8kjab',
+  cmcId: 5621,
 } satisfies AdapterProject

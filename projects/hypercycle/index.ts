@@ -5,6 +5,6 @@ export default {
   chain: 'Unknown',
   category: 'Other',
   token: 'HYPC',
-  id: 'ywesrp',
-  cmcId: 9747,
+  id: '33fl28',
+  cmcId: 8571,
 } satisfies AdapterProject

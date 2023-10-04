@@ -5,6 +5,6 @@ export default {
   chain: 'Polygon',
   category: 'Sensors',
   token: 'DIMO',
-  id: 'f3jj8d',
-  cmcId: 8985,
+  id: 'dw10yz',
+  cmcId: 801,
 } satisfies AdapterProject

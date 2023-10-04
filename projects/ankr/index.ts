@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'ANKR',
-  id: '6cgg5x',
-  cmcId: 2128,
+  id: 'f5mfgz',
+  cmcId: 8368,
 } satisfies AdapterProject

@@ -5,6 +5,6 @@ export default {
   chain: 'Polygon',
   category: 'Compute',
   token: 'MYST',
-  id: '21wcmv',
-  cmcId: 3073,
+  id: 'a6eziu',
+  cmcId: 9727,
 } satisfies AdapterProject

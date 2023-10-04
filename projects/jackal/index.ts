@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'JKL',
-  id: 'mmazkf',
-  cmcId: 2037,
+  id: 'l2c49h',
+  cmcId: 4621,
 } satisfies AdapterProject

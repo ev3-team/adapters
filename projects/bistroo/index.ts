@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Sensors',
   token: 'BIST',
-  id: 'wpgznh',
-  cmcId: 8201,
+  id: 'uiq1fv',
+  cmcId: 6579,
 } satisfies AdapterProject

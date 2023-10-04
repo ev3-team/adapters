@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'OCTA',
-  id: 'cji8a4',
-  cmcId: 227,
+  id: 'bgfeb3',
+  cmcId: 1228,
 } satisfies AdapterProject

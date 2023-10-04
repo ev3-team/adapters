@@ -5,6 +5,6 @@ export default {
   chain: 'Binance',
   category: 'Compute',
   token: 'TFT',
-  id: '0wdq5v',
-  cmcId: 8660,
+  id: 'g6r7n0',
+  cmcId: 2977,
 } satisfies AdapterProject

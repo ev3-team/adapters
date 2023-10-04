@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'AI',
   token: 'FET',
-  id: 'xy57mr',
-  cmcId: 9148,
+  id: 'pspkoz',
+  cmcId: 9855,
 } satisfies AdapterProject

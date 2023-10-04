@@ -5,6 +5,6 @@ export default {
   chain: null,
   category: 'Compute',
   token: 'SCP',
-  id: 'w7lcqi',
-  cmcId: 2341,
+  id: '28rky6',
+  cmcId: 7888,
 } satisfies AdapterProject

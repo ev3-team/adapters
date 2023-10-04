@@ -5,6 +5,6 @@ export default {
   chain: 'Algorand',
   category: 'Sensors',
   token: 'PLANETS',
-  id: 'anqu0a',
-  cmcId: 8787,
+  id: 'r5hm2c',
+  cmcId: 6744,
 } satisfies AdapterProject

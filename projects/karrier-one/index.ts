@@ -5,6 +5,6 @@ export default {
   chain: 'Polygon',
   category: 'Wireless',
   token: null,
-  id: 'jd0jw1',
-  cmcId: 5932,
+  id: 'o2k4uf',
+  cmcId: 652,
 } satisfies AdapterProject

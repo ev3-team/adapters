@@ -12,7 +12,7 @@
     "ci": "pnpm run lint && pnpm run build",
     "release": "pnpm run lint && pnpm run build && changeset publish",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "generate:w3b": "tsx scripts/generate-w3b-projects.ts && pnpm format"
+    "generate:w3b": "tsx scripts/generate-initial-w3b-projects.ts && pnpm format"
   },
   "keywords": [],
   "author": "",

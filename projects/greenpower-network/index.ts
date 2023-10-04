@@ -5,6 +5,6 @@ export default {
   chain: 'Binance',
   category: 'Energy',
   token: 'GPTT',
-  id: 'l0a3jk',
-  cmcId: 9646,
+  id: 'acs46l',
+  cmcId: 3455,
 } satisfies AdapterProject

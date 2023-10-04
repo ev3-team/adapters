@@ -5,6 +5,6 @@ export default {
   chain: 'Polkadot',
   category: 'Other',
   token: 'PHA',
-  id: 'qwcc30',
-  cmcId: 4092,
+  id: 'zrfbcj',
+  cmcId: 7818,
 } satisfies AdapterProject

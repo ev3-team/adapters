@@ -5,6 +5,6 @@ export default {
   chain: 'XinFin',
   category: 'Compute',
   token: 'SRX',
-  id: '2xltzg',
-  cmcId: 2188,
+  id: 'g37ke5',
+  cmcId: 5716,
 } satisfies AdapterProject

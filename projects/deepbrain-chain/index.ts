@@ -5,6 +5,6 @@ export default {
   chain: 'DeepBrainChain (Polkadot Substrate)',
   category: 'Other',
   token: 'DBC',
-  id: 'ccvvuu',
-  cmcId: 344,
+  id: 'h7hs4f',
+  cmcId: 2582,
 } satisfies AdapterProject

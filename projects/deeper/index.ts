@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'DPR',
-  id: 'brycmb',
-  cmcId: 2057,
+  id: '4slx16',
+  cmcId: 1944,
 } satisfies AdapterProject

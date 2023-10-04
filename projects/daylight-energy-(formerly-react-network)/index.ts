@@ -5,6 +5,6 @@ export default {
   chain: null,
   category: 'Energy',
   token: 'KWH',
-  id: 't32bio',
+  id: 'l8kytu',
   cmcId: null,
 } satisfies AdapterProject

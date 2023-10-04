@@ -5,6 +5,6 @@ export default {
   chain: null,
   category: 'Compute',
   token: null,
-  id: '9gpr9g',
-  cmcId: 9796,
+  id: 'wp9l4c',
+  cmcId: 9577,
 } satisfies AdapterProject
