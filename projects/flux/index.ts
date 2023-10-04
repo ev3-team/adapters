@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'FLUX',
-  id: 'pmgh6t',
-  cmcId: 6086,
+  id: '1546w8',
+  cmcId: 6042,
 } satisfies AdapterProject

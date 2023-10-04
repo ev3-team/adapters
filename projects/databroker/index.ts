@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'DTX',
-  id: 'pgwfps',
-  cmcId: 9553,
+  id: '31z7e9',
+  cmcId: 9984,
 } satisfies AdapterProject

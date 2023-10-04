@@ -5,6 +5,6 @@ export default {
   chain: 'Binance',
   category: 'Sensors',
   token: 'DRF',
-  id: 'sh6p6n',
-  cmcId: 278,
+  id: 'gybkj4',
+  cmcId: 719,
 } satisfies AdapterProject

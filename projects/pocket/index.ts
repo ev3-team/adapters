@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'POKT',
-  id: 'j21t98',
-  cmcId: 9168,
+  id: 'kq1o6o',
+  cmcId: 7354,
 } satisfies AdapterProject

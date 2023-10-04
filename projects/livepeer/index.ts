@@ -5,6 +5,6 @@ export default {
   chain: 'Arbitrum',
   category: 'Compute',
   token: 'LPT',
-  id: '8907fn',
-  cmcId: 7810,
+  id: 'ajq128',
+  cmcId: 6734,
 } satisfies AdapterProject

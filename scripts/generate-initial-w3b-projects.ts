@@ -208,7 +208,9 @@ async function run() {
       `${storedProjects.map(
         (p) => `import ${projectToVarName(p)} from './${projectToFileName(p)}'`
       )}`.replaceAll(',', '\n') +
-        `\n\nexport const projects = [${storedProjects.map((p) => `${projectToVarName(p)}`)}]`
+        `\n\nexport const projects = [${storedProjects.map(
+          (p) => `${projectToVarName(p)}`
+        )}]\n\nexport { AdapterProject } from './types'`
     )
   } catch (error) {
     console.error(error)

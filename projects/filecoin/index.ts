@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'FIL',
-  id: 'in4fa3',
-  cmcId: 6168,
+  id: 'hhhnzk',
+  cmcId: 6700,
 } satisfies AdapterProject

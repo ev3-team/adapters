@@ -5,6 +5,6 @@ export default {
   chain: 'Cosmos',
   category: 'Compute',
   token: 'DVPN',
-  id: 'ki58p0',
-  cmcId: 3837,
+  id: 'eekjuj',
+  cmcId: 409,
 } satisfies AdapterProject

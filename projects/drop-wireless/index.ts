@@ -5,6 +5,6 @@ export default {
   chain: 'IoTeX',
   category: 'Wireless',
   token: 'DWIN',
-  id: 'zcbv5k',
-  cmcId: 5615,
+  id: 'eioq0v',
+  cmcId: 7804,
 } satisfies AdapterProject

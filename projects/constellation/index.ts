@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'DAG',
-  id: 'kuh8rw',
-  cmcId: 4002,
+  id: 'id8flg',
+  cmcId: 646,
 } satisfies AdapterProject

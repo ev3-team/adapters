@@ -5,6 +5,6 @@ export default {
   chain: 'Polygon',
   category: 'Compute',
   token: 'DATA',
-  id: 'vncyjf',
-  cmcId: 786,
+  id: '6k40dx',
+  cmcId: 1897,
 } satisfies AdapterProject

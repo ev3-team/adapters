@@ -5,6 +5,6 @@ export default {
   chain: null,
   category: 'Compute',
   token: 'SIA',
-  id: 'b4upu7',
-  cmcId: 3447,
+  id: 't4xttk',
+  cmcId: 391,
 } satisfies AdapterProject

@@ -5,6 +5,6 @@ export default {
   chain: 'Cosmos',
   category: 'Compute',
   token: 'AKT',
-  id: 'cxw2wo',
-  cmcId: 266,
+  id: 'jvjrsa',
+  cmcId: 434,
 } satisfies AdapterProject

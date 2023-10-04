@@ -5,6 +5,6 @@ export default {
   chain: 'Polygon',
   category: 'Wireless',
   token: 'XNET',
-  id: 'pkvnsb',
-  cmcId: 358,
+  id: 'd88ewm',
+  cmcId: 6390,
 } satisfies AdapterProject

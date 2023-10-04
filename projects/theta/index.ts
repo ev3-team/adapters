@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'THETA',
-  id: 'r9b6pc',
-  cmcId: 1846,
+  id: 'nktff0',
+  cmcId: 2920,
 } satisfies AdapterProject

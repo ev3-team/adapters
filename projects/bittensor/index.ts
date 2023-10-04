@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'AI',
   token: 'TAO',
-  id: 'qwqfch',
-  cmcId: 668,
+  id: 'skqy35',
+  cmcId: 1546,
 } satisfies AdapterProject

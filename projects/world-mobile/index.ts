@@ -5,6 +5,6 @@ export default {
   chain: 'Cardano',
   category: 'Wireless',
   token: 'WMT',
-  id: 'n5kavd',
-  cmcId: 2002,
+  id: 'wfhuvb',
+  cmcId: 6469,
 } satisfies AdapterProject

@@ -5,6 +5,6 @@ export default {
   chain: 'Ethereum',
   category: 'AI',
   token: 'OLAS',
-  id: 'xgk9y9',
-  cmcId: 4147,
+  id: 'mzxkiu',
+  cmcId: 4732,
 } satisfies AdapterProject

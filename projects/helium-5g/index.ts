@@ -5,6 +5,6 @@ export default {
   chain: 'Solana',
   category: 'Wireless',
   token: 'MOBILE',
-  id: 'o11v9k',
-  cmcId: 1391,
+  id: 'bys1b5',
+  cmcId: 4981,
 } satisfies AdapterProject

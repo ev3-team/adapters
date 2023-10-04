@@ -5,6 +5,6 @@ export default {
   chain: 'Solana',
   category: 'Sensors',
   token: 'MMAPS',
-  id: 'v16yqp',
-  cmcId: 2678,
+  id: 'nwqkou',
+  cmcId: 4578,
 } satisfies AdapterProject

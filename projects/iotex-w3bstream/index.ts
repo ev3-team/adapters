@@ -5,6 +5,6 @@ export default {
   chain: 'IoTeX',
   category: 'Compute',
   token: 'IOTX',
-  id: '5w85k2',
-  cmcId: 9223,
+  id: 't6j48z',
+  cmcId: 9071,
 } satisfies AdapterProject

@@ -5,6 +5,6 @@ export default {
   chain: 'Native',
   category: 'Sensors',
   token: 'DNX',
-  id: 'dy62cg',
-  cmcId: 8110,
+  id: '96dkna',
+  cmcId: 6824,
 } satisfies AdapterProject

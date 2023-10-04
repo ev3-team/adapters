@@ -5,6 +5,6 @@ export default {
   chain: 'Algorand',
   category: 'Sensors',
   token: 'TLOS',
-  id: '8opej6',
-  cmcId: 8386,
+  id: 'c4ny45',
+  cmcId: 1441,
 } satisfies AdapterProject

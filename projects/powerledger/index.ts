@@ -5,6 +5,6 @@ export default {
   chain: 'Solana',
   category: 'Energy',
   token: 'POWR',
-  id: '2hbsmu',
-  cmcId: 5502,
+  id: '3s3itd',
+  cmcId: 4695,
 } satisfies AdapterProject

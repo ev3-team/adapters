@@ -5,6 +5,6 @@ export default {
   chain: 'K2',
   category: 'Other',
   token: 'KOII',
-  id: '9601n0',
-  cmcId: 7094,
+  id: '8kpb63',
+  cmcId: 9685,
 } satisfies AdapterProject

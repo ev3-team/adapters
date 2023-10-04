@@ -5,6 +5,6 @@ export default {
   chain: 'Solana',
   category: 'Sensors',
   token: 'BONO',
-  id: 'z5im1n',
-  cmcId: 8550,
+  id: '2enxrq',
+  cmcId: 8409,
 } satisfies AdapterProject

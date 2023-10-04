@@ -5,6 +5,6 @@ export default {
   chain: 'Polygon',
   category: 'Sensors',
   token: 'GEOD',
-  id: '7yz39u',
-  cmcId: 4340,
+  id: 'b4i9gc',
+  cmcId: 3836,
 } satisfies AdapterProject
