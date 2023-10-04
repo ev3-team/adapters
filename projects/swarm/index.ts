@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'BZZ',
-  id: 'wwb49e',
-  cmcId: 2686,
+  coingeckoId: 'swarm-bzz',
+  id: '8s783v',
+  cmcId: 10293,
 } satisfies AdapterProject

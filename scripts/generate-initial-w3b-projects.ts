@@ -2,10 +2,9 @@ import assert from 'node:assert'
 import { AdapterProject, EAdapterProjectCategory } from '../projects/types'
 import { createNewId } from './utils'
 import { mkdir, writeFile } from 'node:fs/promises'
-import * as dotenv from 'dotenv'
-dotenv.config()
 
 import { AdapterProjectChain } from '../projects/types'
+import { projectsCmcIds } from './cmc-ids'
 
 type Category = 'Server' | 'Sensor' | 'Wireless' | 'Other' | 'Compute' | 'Data' | 'Storage'
 type SubCategory =
@@ -80,6 +79,8 @@ export const parseProject = (project: W3BStreamProject): Omit<AdapterProject, 'i
   chain: project.layer_1?.[0] ?? null,
   category: categoryMapping(project),
   token: project.token,
+  // There's a total of 77 projects registered with a coingecko id currently
+  coingeckoId: project.coingecko_id,
 })
 
 export const W3B_STREAM_API = 'https://metrics-api.w3bstream.com'
@@ -95,44 +96,6 @@ export async function fetchProjects(): Promise<W3BStreamProject[] | null> {
     console.error(e)
     return null
   }
-}
-
-async function cmcFetchId(name: string) {
-  const headers = new Headers()
-  headers.append('X-CMC_PRO_API_KEY', `${process.env.CMC_API_KEY}`)
-
-  /**
-   * Report: Slug generated for "Daylight Energy (formerly React Network)" does not match
-   * any slug in the cmc API, therefore that one should be added manually.
-   */
-  let slug = name.trim().toLowerCase().replaceAll(' ', '-').replaceAll('.', '-')
-  // override render otoy slug to match cmc api slug.
-  if (slug === 'render-(otoy)') {
-    slug = 'otoy'
-  }
-
-  return fetch(`${process.env.CMC_API_URL}/v2/cryptocurrency/quotes/latest?slug=${slug}`, {
-    headers,
-  })
-    .then((response) => response.json())
-    .then((result) => ({ name, id: (result?.data[slug]?.id as number) ?? null }))
-    .catch((error) => {
-      console.log(
-        `error fetching project cmc id for project ${name} with computed slug ${slug}`,
-        error
-      )
-      return { name, id: null }
-    })
-}
-
-export async function fetchW3bProjectsCmcIds(projects: W3BStreamProject[]) {
-  return (await Promise.all(projects.map((p) => p.project_name).map(cmcFetchId))).reduce(
-    (acc, kv) => {
-      acc[kv.name] = kv.id
-      return acc
-    },
-    {} as Record<string, number | null>
-  )
 }
 
 const projectToFileName = (project: AdapterProject) =>
@@ -157,13 +120,13 @@ async function run() {
   try {
     const projects = await fetchProjects()
     if (!projects) throw new Error('No projects found')
-    const cmcIds = await fetchW3bProjectsCmcIds(projects)
     const parsedProjects: AdapterProject[] = []
     for (const project of projects) {
       parsedProjects.push({
         ...parseProject(project),
         id: await newProjectId(true, parsedProjects),
-        cmcId: cmcIds[project.project_name],
+        // There's a total of 83 projects registered with a cmc id currently
+        cmcId: projectsCmcIds[project.project_name as keyof typeof projectsCmcIds]?.id ?? null,
       })
     }
 

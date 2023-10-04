@@ -5,6 +5,7 @@ export default {
   chain: 'Polygon',
   category: 'Energy',
   token: 'tARKE',
-  id: 'k1yv63',
-  cmcId: 8667,
+  coingeckoId: null,
+  id: 'f918a3',
+  cmcId: null,
 } satisfies AdapterProject

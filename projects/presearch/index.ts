@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'PRE',
-  id: '9i46rv',
-  cmcId: 3796,
+  coingeckoId: 'presearch',
+  id: '7mrkii',
+  cmcId: 2245,
 } satisfies AdapterProject

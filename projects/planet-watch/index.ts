@@ -5,6 +5,7 @@ export default {
   chain: 'Algorand',
   category: 'Sensors',
   token: 'PLANETS',
-  id: 'r5hm2c',
-  cmcId: 6744,
+  coingeckoId: 'planetwatch',
+  id: 'qxqpla',
+  cmcId: 11861,
 } satisfies AdapterProject

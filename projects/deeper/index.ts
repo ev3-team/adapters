@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'DPR',
-  id: '4slx16',
-  cmcId: 1944,
+  coingeckoId: 'deeper-network',
+  id: '3s1vpm',
+  cmcId: 8894,
 } satisfies AdapterProject

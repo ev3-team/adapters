@@ -32,6 +32,7 @@ export type AdapterProjectChain =
 export type AdapterProject = {
   id: string
   cmcId: number | null
+  coingeckoId: string | null
   category: `${EAdapterProjectCategory}`
   chain: AdapterProjectChain | null
   name: string

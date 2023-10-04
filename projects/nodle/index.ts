@@ -5,6 +5,7 @@ export default {
   chain: 'Polkadot',
   category: 'Wireless',
   token: 'NODL',
-  id: 'imc9pf',
-  cmcId: 159,
+  coingeckoId: 'nodle-network',
+  id: 'znawjs',
+  cmcId: 6837,
 } satisfies AdapterProject

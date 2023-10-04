@@ -5,6 +5,7 @@ export default {
   chain: null,
   category: 'Energy',
   token: 'KWH',
-  id: 'l8kytu',
+  coingeckoId: null,
+  id: '2rm6b7',
   cmcId: null,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Sensors',
   token: 'MMAPS',
-  id: 'nwqkou',
-  cmcId: 4578,
+  coingeckoId: 'mapmetrics',
+  id: 'lp6ty8',
+  cmcId: 18965,
 } satisfies AdapterProject

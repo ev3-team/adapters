@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'STORJ',
-  id: 'ro9t2h',
-  cmcId: 3567,
+  coingeckoId: 'storj',
+  id: 'arwynb',
+  cmcId: 1772,
 } satisfies AdapterProject

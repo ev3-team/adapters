@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Energy',
   token: 'POWR',
-  id: '3s3itd',
-  cmcId: 4695,
+  coingeckoId: 'power-ledger',
+  id: '1bpo2w',
+  cmcId: 2132,
 } satisfies AdapterProject

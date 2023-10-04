@@ -5,6 +5,7 @@ export default {
   chain: 'IoTeX',
   category: 'Compute',
   token: 'IOTX',
-  id: 't6j48z',
-  cmcId: 9071,
+  coingeckoId: 'iotex',
+  id: '689iaq',
+  cmcId: 2777,
 } satisfies AdapterProject

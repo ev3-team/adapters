@@ -5,6 +5,7 @@ export default {
   chain: 'Algorand',
   category: 'Sensors',
   token: 'IAQ',
-  id: 'ir63x3',
-  cmcId: 8159,
+  coingeckoId: null,
+  id: 'yhpj92',
+  cmcId: 525,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'ATOR',
-  id: 'o4n9y5',
-  cmcId: 8000,
+  coingeckoId: 'airtor-protocol',
+  id: 'l9if1e',
+  cmcId: 23757,
 } satisfies AdapterProject

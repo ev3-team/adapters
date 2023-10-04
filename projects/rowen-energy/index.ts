@@ -5,6 +5,7 @@ export default {
   chain: 'Rowen Blockchain',
   category: 'Other',
   token: 'RWN',
-  id: '26tf20',
-  cmcId: 1257,
+  coingeckoId: null,
+  id: '5rnwg3',
+  cmcId: null,
 } satisfies AdapterProject

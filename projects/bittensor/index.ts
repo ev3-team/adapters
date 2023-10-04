@@ -5,6 +5,7 @@ export default {
   chain: 'Native',
   category: 'AI',
   token: 'TAO',
-  id: 'skqy35',
-  cmcId: 1546,
+  coingeckoId: 'bittensor',
+  id: 'hq4rl7',
+  cmcId: 22974,
 } satisfies AdapterProject

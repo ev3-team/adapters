@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Sensors',
   token: 'AXIS',
-  id: '81ei5a',
-  cmcId: 1968,
+  coingeckoId: 'axis-token',
+  id: '56jkto',
+  cmcId: 8849,
 } satisfies AdapterProject

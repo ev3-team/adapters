@@ -5,6 +5,7 @@ export default {
   chain: null,
   category: 'Compute',
   token: 'SCP',
-  id: '28rky6',
-  cmcId: 7888,
+  coingeckoId: 'siaprime-coin',
+  id: 'ui2nbm',
+  cmcId: 4074,
 } satisfies AdapterProject

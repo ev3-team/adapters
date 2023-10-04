@@ -5,6 +5,7 @@ export default {
   chain: 'Unknown',
   category: 'Other',
   token: 'HYPC',
-  id: '33fl28',
-  cmcId: 8571,
+  coingeckoId: null,
+  id: '085eer',
+  cmcId: 24698,
 } satisfies AdapterProject

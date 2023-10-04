@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'AI',
   token: 'ROKO',
-  id: 'dnto6z',
-  cmcId: 1055,
+  coingeckoId: 'roko-network',
+  id: 'kz7n8o',
+  cmcId: null,
 } satisfies AdapterProject

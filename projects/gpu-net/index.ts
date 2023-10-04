@@ -5,6 +5,7 @@ export default {
   chain: 'Unknown',
   category: 'Other',
   token: 'GPU',
-  id: 'gh6o5b',
-  cmcId: 5467,
+  coingeckoId: null,
+  id: 'jf4ml9',
+  cmcId: null,
 } satisfies AdapterProject

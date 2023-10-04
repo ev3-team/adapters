@@ -5,6 +5,7 @@ export default {
   chain: 'Cosmos',
   category: 'Compute',
   token: 'CUDOS',
-  id: 'lkq6zc',
-  cmcId: 822,
+  coingeckoId: 'cudos',
+  id: 'jitkjs',
+  cmcId: 8258,
 } satisfies AdapterProject

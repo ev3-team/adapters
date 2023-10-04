@@ -5,6 +5,7 @@ export default {
   chain: 'Polygon',
   category: 'Wireless',
   token: 'WIFI',
-  id: 'i10400',
-  cmcId: 1552,
+  coingeckoId: 'wifi',
+  id: 'xz6ffz',
+  cmcId: 24133,
 } satisfies AdapterProject

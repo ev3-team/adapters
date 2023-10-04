@@ -5,6 +5,7 @@ export default {
   chain: 'Arbitrum',
   category: 'Compute',
   token: 'LPT',
-  id: 'ajq128',
-  cmcId: 6734,
+  coingeckoId: 'livepeer',
+  id: '0dpzm4',
+  cmcId: 3640,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Sensors',
   token: 'FOAM',
-  id: 'nuvp7z',
-  cmcId: 5472,
+  coingeckoId: 'foam-protocol',
+  id: 'olxxfj',
+  cmcId: 3631,
 } satisfies AdapterProject

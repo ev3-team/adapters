@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Compute',
   token: 'SHDW',
-  id: 'n18iul',
-  cmcId: 4344,
+  coingeckoId: 'genesysgo-shadow',
+  id: 'uebk4c',
+  cmcId: null,
 } satisfies AdapterProject

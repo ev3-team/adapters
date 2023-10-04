@@ -5,6 +5,7 @@ export default {
   chain: 'Algorand',
   category: 'Sensors',
   token: 'FRY',
-  id: 'd20nz0',
-  cmcId: 2850,
+  coingeckoId: 'fryscrypto',
+  id: 'jgd2lw',
+  cmcId: 24874,
 } satisfies AdapterProject

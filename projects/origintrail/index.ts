@@ -5,6 +5,7 @@ export default {
   chain: 'Polkadot',
   category: 'Sensors',
   token: 'TRAC',
-  id: 'fdmpx2',
-  cmcId: 9001,
+  coingeckoId: 'origintrail',
+  id: 'v9wsjb',
+  cmcId: 2467,
 } satisfies AdapterProject

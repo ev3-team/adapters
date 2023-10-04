@@ -5,6 +5,7 @@ export default {
   chain: null,
   category: 'Sensors',
   token: null,
-  id: '6iq83h',
-  cmcId: 6619,
+  coingeckoId: null,
+  id: 'pheffj',
+  cmcId: null,
 } satisfies AdapterProject

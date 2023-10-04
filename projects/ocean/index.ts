@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'OCEAN',
-  id: 'dsarom',
-  cmcId: 1842,
+  coingeckoId: 'ocean-protocol',
+  id: 'qbhkmt',
+  cmcId: 3911,
 } satisfies AdapterProject

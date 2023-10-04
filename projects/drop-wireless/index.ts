@@ -5,6 +5,7 @@ export default {
   chain: 'IoTeX',
   category: 'Wireless',
   token: 'DWIN',
-  id: 'eioq0v',
-  cmcId: 7804,
+  coingeckoId: 'drop-wireless-infrastructure',
+  id: 'qnfsx5',
+  cmcId: null,
 } satisfies AdapterProject
