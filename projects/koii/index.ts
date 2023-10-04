@@ -5,6 +5,7 @@ export default {
   chain: 'K2',
   category: 'Other',
   token: 'KOII',
-  id: '8kpb63',
-  cmcId: 9685,
+  coingeckoId: null,
+  id: 'xfjtib',
+  cmcId: null,
 } satisfies AdapterProject

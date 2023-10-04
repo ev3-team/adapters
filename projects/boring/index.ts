@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Compute',
   token: 'BOP',
-  id: 'dtwzne',
-  cmcId: 3450,
+  coingeckoId: 'boring-protocol',
+  id: 'whkmqt',
+  cmcId: 11470,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'XinFin',
   category: 'Compute',
   token: 'SRX',
-  id: 'g37ke5',
-  cmcId: 5716,
+  coingeckoId: 'storx',
+  id: 't69457',
+  cmcId: 10894,
 } satisfies AdapterProject

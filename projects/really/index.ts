@@ -5,6 +5,7 @@ export default {
   chain: null,
   category: 'Wireless',
   token: null,
-  id: 'o2kyfp',
-  cmcId: 5610,
+  coingeckoId: null,
+  id: 'twhfdd',
+  cmcId: null,
 } satisfies AdapterProject

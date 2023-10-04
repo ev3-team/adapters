@@ -5,6 +5,7 @@ export default {
   chain: 'Binance',
   category: 'Compute',
   token: 'TFT',
-  id: 'g6r7n0',
-  cmcId: 2977,
+  coingeckoId: 'threefold-token',
+  id: '7exuma',
+  cmcId: 6500,
 } satisfies AdapterProject

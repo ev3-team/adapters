@@ -5,6 +5,7 @@ export default {
   chain: 'Cosmos',
   category: 'Sensors',
   token: 'SOAR',
-  id: 'ake8qc',
-  cmcId: 2511,
+  coingeckoId: null,
+  id: '4mpqg0',
+  cmcId: null,
 } satisfies AdapterProject

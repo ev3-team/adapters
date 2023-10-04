@@ -5,6 +5,7 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'FIL',
-  id: 'hhhnzk',
-  cmcId: 6700,
+  coingeckoId: 'filecoin',
+  id: 't59kqa',
+  cmcId: 2280,
 } satisfies AdapterProject

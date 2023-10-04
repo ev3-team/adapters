@@ -5,6 +5,7 @@ export default {
   chain: 'Polygon',
   category: 'Compute',
   token: 'DATA',
-  id: '6k40dx',
-  cmcId: 1897,
+  coingeckoId: 'streamr',
+  id: 'o1pv7k',
+  cmcId: 2143,
 } satisfies AdapterProject

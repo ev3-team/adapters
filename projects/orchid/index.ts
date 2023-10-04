@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'OXT',
-  id: '4yg195',
-  cmcId: 9277,
+  coingeckoId: 'orchid-protocol',
+  id: 'vg1qec',
+  cmcId: 5026,
 } satisfies AdapterProject

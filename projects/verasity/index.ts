@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Other',
   token: 'VRA',
-  id: '5m10it',
-  cmcId: 2498,
+  coingeckoId: 'verasity',
+  id: '20y2yy',
+  cmcId: 3816,
 } satisfies AdapterProject

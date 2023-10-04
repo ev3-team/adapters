@@ -5,6 +5,7 @@ export default {
   chain: 'Polygon',
   category: 'Compute',
   token: 'MYST',
-  id: 'a6eziu',
-  cmcId: 9727,
+  coingeckoId: 'mysterium',
+  id: '8ci5ud',
+  cmcId: 1721,
 } satisfies AdapterProject

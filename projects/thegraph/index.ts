@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'GRT',
-  id: 'tz9mwi',
-  cmcId: 6728,
+  coingeckoId: 'the-graph',
+  id: 'x3ay3v',
+  cmcId: 6719,
 } satisfies AdapterProject

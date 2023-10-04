@@ -5,6 +5,7 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'JKL',
-  id: 'l2c49h',
-  cmcId: 4621,
+  coingeckoId: 'jackal-protocol',
+  id: '127k4x',
+  cmcId: 25261,
 } satisfies AdapterProject

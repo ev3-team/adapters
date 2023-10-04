@@ -5,6 +5,7 @@ export default {
   chain: null,
   category: 'Compute',
   token: null,
-  id: '89e53o',
-  cmcId: 7314,
+  coingeckoId: null,
+  id: '9xue69',
+  cmcId: null,
 } satisfies AdapterProject

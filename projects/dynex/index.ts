@@ -5,6 +5,7 @@ export default {
   chain: 'Native',
   category: 'Sensors',
   token: 'DNX',
-  id: '96dkna',
-  cmcId: 6824,
+  coingeckoId: 'dynex',
+  id: '6e2zu2',
+  cmcId: 22858,
 } satisfies AdapterProject

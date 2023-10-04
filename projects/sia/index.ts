@@ -5,6 +5,7 @@ export default {
   chain: null,
   category: 'Compute',
   token: 'SIA',
-  id: 't4xttk',
-  cmcId: 391,
+  coingeckoId: 'siacoin',
+  id: 'esjdj0',
+  cmcId: 1042,
 } satisfies AdapterProject

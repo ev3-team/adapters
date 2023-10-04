@@ -5,6 +5,7 @@ export default {
   chain: 'Polygon',
   category: 'Compute',
   token: 'MASQ',
-  id: 'r7rb36',
-  cmcId: 8134,
+  coingeckoId: 'masq',
+  id: '0ezngt',
+  cmcId: 8376,
 } satisfies AdapterProject

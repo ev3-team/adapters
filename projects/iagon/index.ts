@@ -5,6 +5,7 @@ export default {
   chain: 'Cardano',
   category: 'Other',
   token: 'IAG',
-  id: 'pxyzgx',
-  cmcId: 8958,
+  coingeckoId: null,
+  id: 'omgud6',
+  cmcId: 11078,
 } satisfies AdapterProject

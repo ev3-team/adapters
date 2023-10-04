@@ -5,6 +5,7 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'POKT',
-  id: 'kq1o6o',
-  cmcId: 7354,
+  coingeckoId: 'pocket-network',
+  id: 'wreq2k',
+  cmcId: 11823,
 } satisfies AdapterProject

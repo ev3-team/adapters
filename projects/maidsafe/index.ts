@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'EMAID',
-  id: 'n8ufxd',
-  cmcId: 5890,
+  coingeckoId: 'maidsafecoin',
+  id: 'ubmhxr',
+  cmcId: 291,
 } satisfies AdapterProject

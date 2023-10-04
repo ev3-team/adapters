@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'FLUX',
-  id: '1546w8',
-  cmcId: 6042,
+  coingeckoId: 'zelcash',
+  id: '0t3lhn',
+  cmcId: 3029,
 } satisfies AdapterProject

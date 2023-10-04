@@ -5,6 +5,7 @@ export default {
   chain: 'Bitcoin',
   category: 'Other',
   token: 'BTC',
-  id: 'v0oe1w',
-  cmcId: 2401,
+  coingeckoId: null,
+  id: 'i21x89',
+  cmcId: null,
 } satisfies AdapterProject

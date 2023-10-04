@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'PRV',
-  id: 'odyal5',
-  cmcId: 2335,
+  coingeckoId: 'incognito-2',
+  id: 'g8ux2k',
+  cmcId: 16459,
 } satisfies AdapterProject

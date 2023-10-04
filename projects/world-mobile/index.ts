@@ -5,6 +5,7 @@ export default {
   chain: 'Cardano',
   category: 'Wireless',
   token: 'WMT',
-  id: 'wfhuvb',
-  cmcId: 6469,
+  coingeckoId: 'world-mobile-token',
+  id: 'fo1iua',
+  cmcId: 13769,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Sensors',
   token: 'HONEY',
-  id: 'ld59o1',
-  cmcId: 7130,
+  coingeckoId: 'hivemapper',
+  id: 'o1qnxa',
+  cmcId: 22850,
 } satisfies AdapterProject

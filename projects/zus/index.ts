@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'ZCN',
-  id: '8n2l7m',
-  cmcId: 3167,
+  coingeckoId: '0chain',
+  id: 'q97oiz',
+  cmcId: 2882,
 } satisfies AdapterProject

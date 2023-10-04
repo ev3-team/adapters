@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum (ERC-20)',
   category: 'Other',
   token: 'NCDT',
-  id: 'i0y6uc',
-  cmcId: 1709,
+  coingeckoId: null,
+  id: 'pfgtkc',
+  cmcId: 6933,
 } satisfies AdapterProject

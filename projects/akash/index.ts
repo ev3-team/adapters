@@ -5,6 +5,7 @@ export default {
   chain: 'Cosmos',
   category: 'Compute',
   token: 'AKT',
-  id: 'jvjrsa',
-  cmcId: 434,
+  coingeckoId: 'akash-network',
+  id: 'qmmyw0',
+  cmcId: 7431,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'IoTeX',
   category: 'Sensors',
   token: null,
-  id: 'mfp4ha',
-  cmcId: 8292,
+  coingeckoId: null,
+  id: 'n6xm1l',
+  cmcId: null,
 } satisfies AdapterProject

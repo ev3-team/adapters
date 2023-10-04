@@ -5,6 +5,7 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'THETA',
-  id: 'nktff0',
-  cmcId: 2920,
+  coingeckoId: 'theta-token',
+  id: 'bsun3b',
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'AI',
   token: 'PAAL',
-  id: 'i5spb7',
-  cmcId: 4892,
+  coingeckoId: 'paal-ai',
+  id: 'wmad1s',
+  cmcId: 27178,
 } satisfies AdapterProject

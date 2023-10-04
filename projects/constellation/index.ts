@@ -5,6 +5,7 @@ export default {
   chain: 'Native',
   category: 'Compute',
   token: 'DAG',
-  id: 'id8flg',
-  cmcId: 646,
+  coingeckoId: 'constellation-labs',
+  id: 'ol6f66',
+  cmcId: 2868,
 } satisfies AdapterProject

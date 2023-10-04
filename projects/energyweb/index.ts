@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Energy',
   token: 'EWT',
-  id: 'pmxw63',
-  cmcId: 2906,
+  coingeckoId: 'energy-web-token',
+  id: 'y5ondj',
+  cmcId: 5268,
 } satisfies AdapterProject

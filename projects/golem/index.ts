@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'GLM',
-  id: 'xrvdwe',
-  cmcId: 2166,
+  coingeckoId: 'golem',
+  id: 'jkahfp',
+  cmcId: 1455,
 } satisfies AdapterProject

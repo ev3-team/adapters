@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Compute',
   token: 'MEDIA',
-  id: 'ifdjs4',
-  cmcId: 2953,
+  coingeckoId: 'media-network',
+  id: 'iqnvgc',
+  cmcId: 9524,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Wireless',
   token: null,
-  id: 'twgzjn',
-  cmcId: 9988,
+  coingeckoId: null,
+  id: 'goiapt',
+  cmcId: 10677,
 } satisfies AdapterProject

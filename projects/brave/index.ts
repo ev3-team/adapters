@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Other',
   token: 'BAT',
-  id: '10656r',
-  cmcId: 1916,
+  coingeckoId: 'basic-attention-token',
+  id: 'v2ax35',
+  cmcId: 1697,
 } satisfies AdapterProject

@@ -5,6 +5,7 @@ export default {
   chain: 'Cosmos',
   category: 'Compute',
   token: 'DVPN',
-  id: 'eekjuj',
-  cmcId: 409,
+  coingeckoId: 'sentinel',
+  id: 'r77x1a',
+  cmcId: 2643,
 } satisfies AdapterProject

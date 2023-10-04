@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Wireless',
   token: 'HNT',
-  id: 'jrx604',
-  cmcId: 2982,
+  coingeckoId: 'helium',
+  id: '5bm99m',
+  cmcId: 5665,
 } satisfies AdapterProject

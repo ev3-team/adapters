@@ -5,6 +5,7 @@ export default {
   chain: 'Polygon',
   category: 'Wireless',
   token: 'WNT',
-  id: 'w8d4ss',
-  cmcId: 2643,
+  coingeckoId: 'wicrypt',
+  id: 'ynsj12',
+  cmcId: 11649,
 } satisfies AdapterProject

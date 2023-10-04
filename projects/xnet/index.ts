@@ -5,6 +5,7 @@ export default {
   chain: 'Polygon',
   category: 'Wireless',
   token: 'XNET',
-  id: 'd88ewm',
-  cmcId: 6390,
+  coingeckoId: 'xnet-mobile',
+  id: 'pyz7yz',
+  cmcId: null,
 } satisfies AdapterProject

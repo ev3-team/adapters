@@ -5,6 +5,7 @@ export default {
   chain: 'Solana',
   category: 'Compute',
   token: 'RNDR',
-  id: '8yfkgt',
-  cmcId: 5438,
+  coingeckoId: 'render-token',
+  id: 'drs2bu',
+  cmcId: null,
 } satisfies AdapterProject

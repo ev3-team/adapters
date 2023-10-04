@@ -5,6 +5,7 @@ export default {
   chain: 'Ethereum',
   category: 'Compute',
   token: 'RLC',
-  id: '2xt5jh',
-  cmcId: 1987,
+  coingeckoId: 'iexec-rlc',
+  id: '2drl3l',
+  cmcId: 1637,
 } satisfies AdapterProject
