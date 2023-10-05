@@ -36,35 +36,43 @@ cd adapters
 git remote add upstream https://github.com/ev3-team/adapters.git
 ```
 
-1. Synchronize your local `staging` branch with the upstream remote:
+3. Synchronize your local `staging` branch with the upstream remote:
 
 ```sh
 git checkout staging
 git pull upstream staging
 ```
 
-1. Install dependencies with [pnpm](https://pnpm.io/):
+4. Install dependencies with [pnpm](https://pnpm.io/):
 
 ```sh
 pnpm i
 ```
 
-1. Create a new branch related to your PR:
+5. Create a new branch related to your PR:
 
 ```sh
 git checkout -b project/project-name
 ```
 
-6. Make changes, then commit and push to your forked repository:
+6. Make changes
+
+Note: If you're adding a new project you can generate a new unique id for your project running the command
+
+```sh
+pnpm generate:id
+```
+
+7. then commit and push to your forked repository:
 
 ```sh
 git push -u origin HEAD
 ```
 
-7. Go to [the repository](https://github.com/ev3-team/adapters) and
+8. Go to [the repository](https://github.com/ev3-team/adapters) and
    [make a Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-8. We will review your Pull Request and either merge it, request changes to it, or close it with an
+9. We will review your Pull Request and either merge it, request changes to it, or close it with an
    explanation.
 
 ## Contribute from a browser IDE
