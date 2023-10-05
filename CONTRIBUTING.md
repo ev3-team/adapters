@@ -31,9 +31,9 @@ multiple small pull requests than one that is large and unwieldy.
 2. Clone the fork to your local machine and add upstream remote:
 
 ```sh
-git clone https://github.com/ev3-team/adapters
+git clone https://github.com/<your username>/adapters.git
 cd adapters
-git remote add upstream https://github.com/ev3-team/adapters
+git remote add upstream https://github.com/ev3-team/adapters.git
 ```
 
 1. Synchronize your local `staging` branch with the upstream remote:
