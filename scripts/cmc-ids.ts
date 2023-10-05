@@ -23,7 +23,6 @@ export const projectsCmcIds = {
   Ocean: { slug: 'ocean-protocol', id: 3911 },
   Storx: { slug: 'storx-network', id: 10894 },
   Streamr: { slug: 'streamr', id: 2143 },
-  'Daylight Energy (formerly React Network)': { slug: undefined, id: null },
   WeatherFlow: { slug: undefined, id: null },
   Holo: { slug: 'holo', id: 2682 },
   Boring: { slug: 'boring-protocol', id: 11470 },

@@ -28,7 +28,6 @@ import oceanCompute from './ocean'
 import pollenWireless from './pollen'
 import streamrCompute from './streamr'
 import energywebEnergy from './energyweb'
-import daylightEnergyFormerlyReactNetworkEnergy from './daylight-energy-(formerly-react-network)'
 import holoCompute from './holo'
 import boringCompute from './boring'
 import weatherflowSensors from './weatherflow'
@@ -161,7 +160,6 @@ export const projects = [
   pollenWireless,
   streamrCompute,
   energywebEnergy,
-  daylightEnergyFormerlyReactNetworkEnergy,
   holoCompute,
   boringCompute,
   weatherflowSensors,

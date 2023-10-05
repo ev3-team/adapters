@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Render (OTOY)',
+  name: 'Render',
   chain: 'Solana',
   category: 'Compute',
   token: 'RNDR',
