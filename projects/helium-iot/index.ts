@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Helium IOT',
   chain: 'Solana',
-  category: 'Wireless',
+  category: 'WIRELESS',
   token: 'IOT',
   coingeckoId: 'helium-iot',
   id: 'oxvlvf',

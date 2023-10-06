@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Nuco',
   chain: 'Ethereum',
-  category: 'Other',
+  category: 'OTHER',
   token: 'NCDT',
   coingeckoId: null,
   id: 'pfgtkc',

@@ -1,10 +1,10 @@
 export enum EAdapterProjectCategory {
-  WIRELESS = 'Wireless',
-  SENSORS = 'Sensors',
-  ENERGY = 'Energy',
-  COMPUTE = 'Compute',
+  WIRELESS = 'WIRELESS',
+  SENSORS = 'SENSORS',
+  ENERGY = 'ENERGY',
+  COMPUTE = 'COMPUTE',
   AI = 'AI',
-  OTHER = 'Other',
+  OTHER = 'OTHER',
 }
 
 export type AdapterProjectChain =

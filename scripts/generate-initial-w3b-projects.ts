@@ -60,17 +60,17 @@ type W3BStreamProject = {
 
 const categoryMapping = (project: W3BStreamProject): `${EAdapterProjectCategory}` => {
   if (project.categories.includes('Wireless')) {
-    return 'Wireless'
+    return 'WIRELESS'
   } else if (project.categories.includes('Sensor') && !project.sub_categories?.includes('Energy')) {
-    return 'Sensors'
+    return 'SENSORS'
   } else if (project.categories.includes('Sensor') && project.sub_categories?.includes('Energy')) {
-    return 'Energy'
+    return 'ENERGY'
   } else if (project.categories.includes('Server') && !project.sub_categories?.includes('AI')) {
-    return 'Compute'
+    return 'COMPUTE'
   } else if (project.sub_categories?.includes('AI')) {
     return 'AI'
   } else {
-    return 'Other'
+    return 'OTHER'
   }
 }
 
