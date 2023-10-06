@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'HiveMapper',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'SENSORS',
   token: 'HONEY',
   coingeckoId: 'hivemapper',

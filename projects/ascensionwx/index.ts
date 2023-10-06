@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ASCENSIONWX',
-  chain: 'Algorand',
+  chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'TLOS',
   coingeckoId: null,

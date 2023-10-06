@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'enviroBLOQ',
-  chain: 'IoTeX',
+  chain: 'IOTEX',
   category: 'SENSORS',
   token: 'IOTX',
   coingeckoId: 'iotex',

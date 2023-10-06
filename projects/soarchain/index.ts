@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Soarchain',
-  chain: 'Cosmos',
+  chain: 'COSMOS',
   category: 'SENSORS',
   token: 'SOAR',
   coingeckoId: null,

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fry Foundation',
-  chain: 'Algorand',
+  chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'FRY',
   coingeckoId: 'fryscrypto',

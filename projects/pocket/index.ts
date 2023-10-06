@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pocket',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'POKT',
   coingeckoId: 'pocket-network',

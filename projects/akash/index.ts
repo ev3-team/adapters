@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Akash',
-  chain: 'Cosmos',
+  chain: 'COSMOS',
   category: 'COMPUTE',
   token: 'AKT',
   coingeckoId: 'akash-network',

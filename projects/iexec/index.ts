@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'iExec',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'RLC',
   coingeckoId: 'iexec-rlc',

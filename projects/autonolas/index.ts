@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autonolas',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'AI',
   token: 'OLAS',
   coingeckoId: 'autonolas',

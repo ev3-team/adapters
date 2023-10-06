@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Karrier One',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'WIRELESS',
   token: null,
   coingeckoId: null,

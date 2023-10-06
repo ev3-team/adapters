@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ocean',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'OCEAN',
   coingeckoId: 'ocean-protocol',

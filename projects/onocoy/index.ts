@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Onocoy',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'SENSORS',
   token: 'BONO',
   coingeckoId: null,

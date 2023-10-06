@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GPUtopia',
-  chain: 'Bitcoin',
+  chain: 'BITCOIN',
   category: 'OTHER',
   token: 'BTC',
   coingeckoId: null,

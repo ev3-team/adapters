@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aleph',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'ALEPH',
   coingeckoId: 'aleph',

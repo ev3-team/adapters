@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Storj',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'STORJ',
   coingeckoId: 'storj',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Swarm',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'BZZ',
   coingeckoId: 'swarm-bzz',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PAAL AI',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAAL',
   coingeckoId: 'paal-ai',

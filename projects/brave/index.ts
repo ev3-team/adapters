@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Brave',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'BAT',
   coingeckoId: 'basic-attention-token',

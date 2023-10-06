@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Storx',
-  chain: 'XinFin',
+  chain: 'XINFIN',
   category: 'COMPUTE',
   token: 'SRX',
   coingeckoId: 'storx',

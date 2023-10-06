@@ -20,9 +20,10 @@ don't be shy we appreciate all contributions and are happy to help those who are
 Awesome! It's pretty straight-forward.
 We recommend copying an existing project to get started. You'll see
 that they all follow a similar pattern. You'll need to fill out:
+
 1. Project Name:
-2. Chain: Choose between 'Ethereum', 'Solana', 'Algorand', 'Cosmos', 'Cardano', 'Polkadot', 'Polygon', 'IoTeX', 'Binance', 'Kadena', etc. Use 'Native' for native chains or 'n/a' for projects with no token.
-3. Category: Choose between 'Wireless', 'Sensors', 'Compute', 'AI', 'Energy', or 'Other'.
+2. Chain: Choose between 'ETHEREUM', 'SOLANA', 'ALGORAND', 'COSMOS', 'CARDANO', 'POLKADOT', 'POLYGON', 'IOTEX', 'BINANCE', 'KADENA', etc. Use 'NATIVE' for native chains or 'n/a' for projects with no token.
+3. Category: Choose between 'WIRELESS', 'SENSORS', 'ENERGY', 'COMPUTE', 'AI' or 'OTHER'.
 4. Token: ticker (e.g., 'BTC' or 'ETH')
 5. CoingeckoID: Find on CoinGecko project page (in URL).
 6. CmCID: Find on CoinMarketCap project page (in image URL of project icon).
@@ -64,7 +65,7 @@ git checkout -b project/<project-name>
 
 6. Copy & rename an existing project folder, then fill out the relevant datapoints.
 
-7. Generate new uniqueID and paste in into the new project file: 
+7. Generate new uniqueID and paste in into the new project file:
 
 ```sh
 pnpm generate:id

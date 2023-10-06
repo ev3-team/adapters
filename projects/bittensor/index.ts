@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BitTensor',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'AI',
   token: 'TAO',
   coingeckoId: 'bittensor',

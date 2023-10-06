@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiCrypt',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'WNT',
   coingeckoId: 'wicrypt',

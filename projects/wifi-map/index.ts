@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiFi Map',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'WIFI',
   coingeckoId: 'wifi',

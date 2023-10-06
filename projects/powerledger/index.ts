@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PowerLedger',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'ENERGY',
   token: 'POWR',
   coingeckoId: 'power-ledger',

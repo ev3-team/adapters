@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Helium',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'HNT',
   coingeckoId: 'helium',

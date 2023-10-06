@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Boring',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'BOP',
   coingeckoId: 'boring-protocol',

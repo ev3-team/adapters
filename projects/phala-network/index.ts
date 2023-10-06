@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phala Network',
-  chain: 'Polkadot',
+  chain: 'POLKADOT',
   category: 'OTHER',
   token: 'PHA',
   coingeckoId: null,

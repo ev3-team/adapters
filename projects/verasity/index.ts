@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Verasity',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'VRA',
   coingeckoId: 'verasity',

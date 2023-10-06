@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Media',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'MEDIA',
   coingeckoId: 'media-network',

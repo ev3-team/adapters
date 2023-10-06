@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Octa',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'OCTA',
   coingeckoId: 'octaspace',

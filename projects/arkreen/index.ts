@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Arkreen',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'ENERGY',
   token: 'tARKE',
   coingeckoId: null,

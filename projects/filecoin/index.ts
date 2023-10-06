@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Filecoin',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'FIL',
   coingeckoId: 'filecoin',

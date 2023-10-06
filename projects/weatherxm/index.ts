@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeatherXM',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'SENSORS',
   token: 'WXM',
   coingeckoId: null,

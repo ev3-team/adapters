@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ScPrime',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'SCP',
   coingeckoId: 'siaprime-coin',

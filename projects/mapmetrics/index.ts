@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MapMetrics',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'SENSORS',
   token: 'MMAPS',
   coingeckoId: 'mapmetrics',

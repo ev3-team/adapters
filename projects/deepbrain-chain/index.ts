@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeepBrain',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'OTHER',
   token: 'DBC',
   coingeckoId: null,

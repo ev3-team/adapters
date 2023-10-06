@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hypercycle',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'HYPC',
   coingeckoId: null,

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Planet Watch',
-  chain: 'Algorand',
+  chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PLANETS',
   coingeckoId: 'planetwatch',

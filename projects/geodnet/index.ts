@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GEODNET',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'SENSORS',
   token: 'GEOD',
   coingeckoId: 'geodnet',

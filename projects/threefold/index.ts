@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Threefold',
-  chain: 'Binance',
+  chain: 'BINANCE',
   category: 'COMPUTE',
   token: 'TFT',
   coingeckoId: 'threefold-token',

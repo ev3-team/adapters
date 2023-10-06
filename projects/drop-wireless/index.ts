@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Drop',
-  chain: 'IoTeX',
+  chain: 'IOTEX',
   category: 'WIRELESS',
   token: 'DWIN',
   coingeckoId: 'drop-wireless-infrastructure',

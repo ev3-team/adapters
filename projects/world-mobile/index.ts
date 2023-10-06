@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'World Mobile',
-  chain: 'Cardano',
+  chain: 'CARDANO',
   category: 'WIRELESS',
   token: 'WMT',
   coingeckoId: 'world-mobile-token',

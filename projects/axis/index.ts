@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Axis',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'AXIS',
   coingeckoId: 'axis-token',

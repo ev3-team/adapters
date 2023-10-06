@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '2blox',
-  chain: 'Algorand',
+  chain: 'ALGORAND',
   category: 'SENSORS',
   token: null,
   coingeckoId: null,

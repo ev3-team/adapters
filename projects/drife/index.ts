@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Drife',
-  chain: 'Binance',
+  chain: 'BINANCE',
   category: 'SENSORS',
   token: 'DRF',
   coingeckoId: 'drife',

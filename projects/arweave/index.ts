@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Arweave',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'AR',
   coingeckoId: 'arweave',

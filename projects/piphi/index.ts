@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Piphi',
-  chain: 'Algorand',
+  chain: 'ALGORAND',
   category: 'SENSORS',
   token: null,
   coingeckoId: null,

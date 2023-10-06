@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nodle',
-  chain: 'Polkadot',
+  chain: 'POLKADOT',
   category: 'WIRELESS',
   token: 'NODL',
   coingeckoId: 'nodle-network',

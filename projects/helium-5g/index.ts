@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Helium 5G',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'MOBILE',
   coingeckoId: 'helium-mobile',

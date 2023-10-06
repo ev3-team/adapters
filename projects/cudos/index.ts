@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CUDOS',
-  chain: 'Cosmos',
+  chain: 'COSMOS',
   category: 'COMPUTE',
   token: 'CUDOS',
   coingeckoId: 'cudos',

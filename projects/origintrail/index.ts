@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OriginTrail',
-  chain: 'Polkadot',
+  chain: 'POLKADOT',
   category: 'SENSORS',
   token: 'TRAC',
   coingeckoId: 'origintrail',

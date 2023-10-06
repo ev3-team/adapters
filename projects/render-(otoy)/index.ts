@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Render',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'RNDR',
   coingeckoId: 'render-token',

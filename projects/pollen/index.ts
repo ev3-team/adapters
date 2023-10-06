@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pollen',
-  chain: 'Solana',
+  chain: 'SOLANA',
   category: 'WIRELESS',
   token: null,
   coingeckoId: null,

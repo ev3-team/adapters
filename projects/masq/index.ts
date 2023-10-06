@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Masq',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'COMPUTE',
   token: 'MASQ',
   coingeckoId: 'masq',

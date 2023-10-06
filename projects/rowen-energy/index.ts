@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rowan Energy',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'ENERGY',
   token: 'RWN',
   coingeckoId: null,

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EnergyWeb',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'EWT',
   coingeckoId: 'energy-web-token',

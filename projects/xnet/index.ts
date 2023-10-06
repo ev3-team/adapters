@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XNET',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'XNET',
   coingeckoId: 'xnet-mobile',

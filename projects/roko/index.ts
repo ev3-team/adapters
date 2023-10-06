@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Roko',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'AI',
   token: 'ROKO',
   coingeckoId: 'roko-network',

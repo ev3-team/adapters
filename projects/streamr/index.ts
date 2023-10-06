@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Streamr',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'COMPUTE',
   token: 'DATA',
   coingeckoId: 'streamr',

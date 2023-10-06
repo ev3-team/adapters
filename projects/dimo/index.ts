@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DIMO',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'SENSORS',
   token: 'DIMO',
   coingeckoId: 'dimo',

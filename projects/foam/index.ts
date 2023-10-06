@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Foam',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'FOAM',
   coingeckoId: 'foam-protocol',

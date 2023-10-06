@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fetch AI',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'AI',
   token: 'FET',
   coingeckoId: 'fetch-ai',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mysterium',
-  chain: 'Polygon',
+  chain: 'POLYGON',
   category: 'COMPUTE',
   token: 'MYST',
   coingeckoId: 'mysterium',

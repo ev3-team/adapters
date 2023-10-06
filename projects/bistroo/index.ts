@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bistroo',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'BIST',
   coingeckoId: 'bistroo',

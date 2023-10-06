@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Crankk',
-  chain: 'Kadena',
+  chain: 'KADENA',
   category: 'WIRELESS',
   token: 'CRANKK',
   coingeckoId: null,

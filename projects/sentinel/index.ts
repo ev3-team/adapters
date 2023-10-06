@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sentinel',
-  chain: 'Cosmos',
+  chain: 'COSMOS',
   category: 'COMPUTE',
   token: 'DVPN',
   coingeckoId: 'sentinel',

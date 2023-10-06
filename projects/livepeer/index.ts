@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Livepeer',
-  chain: 'Arbitrum',
+  chain: 'ARBITRUM',
   category: 'COMPUTE',
   token: 'LPT',
   coingeckoId: 'livepeer',

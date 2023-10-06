@@ -1,7 +1,7 @@
 import assert from 'node:assert'
-import { AdapterProject, EAdapterProjectCategory } from '../projects/types'
-import { createNewId } from './utils'
 import { mkdir, writeFile } from 'node:fs/promises'
+import { AdapterProject, AdapterProjectCategory, AdapterProjectToken } from '../projects/types'
+import { createNewId } from './utils'
 
 import { AdapterProjectChain } from '../projects/types'
 import { projectsCmcIds } from './cmc-ids'
@@ -58,7 +58,7 @@ type W3BStreamProject = {
   fully_diluted_valuation?: number
 }
 
-const categoryMapping = (project: W3BStreamProject): `${EAdapterProjectCategory}` => {
+const categoryMapping = (project: W3BStreamProject): AdapterProjectCategory => {
   if (project.categories.includes('Wireless')) {
     return 'WIRELESS'
   } else if (project.categories.includes('Sensor') && !project.sub_categories?.includes('Energy')) {
@@ -78,7 +78,7 @@ export const parseProject = (project: W3BStreamProject): Omit<AdapterProject, 'i
   name: project.project_name,
   chain: project.layer_1?.[0] ?? null,
   category: categoryMapping(project),
-  token: project.token,
+  token: project.token as AdapterProjectToken,
   // There's a total of 77 projects registered with a coingecko id currently
   coingeckoId: project.coingecko_id,
   description: null,

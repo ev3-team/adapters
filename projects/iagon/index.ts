@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Iagon',
-  chain: 'Cardano',
+  chain: 'CARDANO',
   category: 'OTHER',
   token: 'IAG',
   coingeckoId: null,

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTeX W3bstream',
-  chain: 'IoTeX',
+  chain: 'IOTEX',
   category: 'COMPUTE',
   token: 'IOTX',
   coingeckoId: 'iotex',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dynex',
-  chain: 'Native',
+  chain: 'NATIVE',
   category: 'SENSORS',
   token: 'DNX',
   coingeckoId: 'dynex',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GreenPower',
-  chain: 'Binance',
+  chain: 'BINANCE',
   category: 'ENERGY',
   token: 'GPTT',
   coingeckoId: null,
