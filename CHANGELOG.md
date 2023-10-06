@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.1.3
+
+### Patch Changes
+
+- 8f7eff8: add projects description and transform category, chain and token to uppercase
+
 ## 0.1.2
 
 ### Patch Changes
