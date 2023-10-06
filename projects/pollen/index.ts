@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'goiapt',
   cmcId: 10677,
+  description: "Pollen sells hand-made rugs.",
 } satisfies AdapterProject

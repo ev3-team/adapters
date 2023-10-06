@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'crust-network',
   id: 'x2nise',
   cmcId: null,
+  description: "Crust Network is a decentralized cloud storage provider supporting multiple underlying storage protocols.",
 } satisfies AdapterProject

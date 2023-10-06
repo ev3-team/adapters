@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'planetwatch',
   id: 'qxqpla',
   cmcId: 11861,
+  description: "PlanetWatch is a decentralized air quality monitoring network.",
 } satisfies AdapterProject

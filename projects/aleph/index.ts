@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'aleph',
   id: 'ndjz6b',
   cmcId: 5821,
+  description: "Aleph is a decentralized file storage protocol.",
 } satisfies AdapterProject

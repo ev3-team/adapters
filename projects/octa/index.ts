@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'octaspace',
   id: 'eppbxs',
   cmcId: 24261,
+  description: "OctaSpace is a decentralized cloud computing network.",
 } satisfies AdapterProject

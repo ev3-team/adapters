@@ -1,11 +1,12 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Drop Wireless',
+  name: 'Drop',
   chain: 'IoTeX',
   category: 'Wireless',
   token: 'DWIN',
   coingeckoId: 'drop-wireless-infrastructure',
   id: 'qnfsx5',
   cmcId: null,
+  description: "Drop Wireless is a stealth project built on IoTeX.",
 } satisfies AdapterProject

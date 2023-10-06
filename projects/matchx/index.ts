@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'sr6yh3',
   cmcId: null,
+  description: "MatchX builds hardware, software, and solutions for the IoT industry.",
 } satisfies AdapterProject

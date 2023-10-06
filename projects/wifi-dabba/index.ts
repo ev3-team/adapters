@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: '5nxhtv',
   cmcId: null,
+  description: "WiFi Dabba has deployed thousands of hotspots across India, serving users with super fast, super cheap internet.",
 } satisfies AdapterProject

@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'stratos',
   id: '4jq13p',
   cmcId: 9760,
+  description: "Stratos is a decentralized computing network.",
 } satisfies AdapterProject

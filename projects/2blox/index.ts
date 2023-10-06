@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'b87zfz',
   cmcId: null,
+  description: "2blox is a open network of traffic counters enabling modern urban development.",
 } satisfies AdapterProject

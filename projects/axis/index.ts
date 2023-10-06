@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'axis-token',
   id: '56jkto',
   cmcId: 8849,
+  description: "Axis is a blockchain-powered direct freight network.",
 } satisfies AdapterProject

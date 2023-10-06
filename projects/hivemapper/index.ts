@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'hivemapper',
   id: 'o1qnxa',
   cmcId: 22850,
+  description: "Hivemapper is a decentralized network forstreet-level imaging & mapping.",
 } satisfies AdapterProject

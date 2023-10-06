@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'h8gcep',
   cmcId: 4654,
+  description: "Saturn is a decentralized content delivery network built on Filecoin.",
 } satisfies AdapterProject

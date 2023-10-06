@@ -6,7 +6,6 @@ import incognitoCompute from './incognito'
 import storjCompute from './storj'
 import orchidCompute from './orchid'
 import genesysgoCompute from './genesysgo'
-import shadowCompute from './shadow'
 import databrokerCompute from './databroker'
 import wayruWireless from './wayru'
 import foamSensors from './foam'
@@ -138,7 +137,6 @@ export const projects = [
   storjCompute,
   orchidCompute,
   genesysgoCompute,
-  shadowCompute,
   databrokerCompute,
   wayruWireless,
   foamSensors,

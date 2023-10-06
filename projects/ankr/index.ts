@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'ankr',
   id: 'hqtk8u',
   cmcId: 3783,
+  description: "Ankr's blockchain node infrastructure network enables multi-chain tools across Web3, DeFi, and the crypto economy.",
 } satisfies AdapterProject

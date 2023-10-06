@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'storj',
   id: 'arwynb',
   cmcId: 1772,
+  description: "Storj is an open-source cloud storage platform that uses a decentralized network of nodes to host user data.",
 } satisfies AdapterProject

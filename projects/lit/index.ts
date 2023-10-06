@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: '36f3to',
   cmcId: 15784,
+  description: "Lit is a decentralized key management network powered by threshold cryptography.",
 } satisfies AdapterProject

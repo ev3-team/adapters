@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'uq4s3v',
   cmcId: null,
+  description: "Natix is a decentralized mapping & surveillance network creating a real-time map of the world.",
 } satisfies AdapterProject

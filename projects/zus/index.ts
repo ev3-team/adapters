@@ -8,4 +8,5 @@ export default {
   coingeckoId: '0chain',
   id: 'q97oiz',
   cmcId: 2882,
+  description: "Zus is a decentralized storage network with built-in privacy and security compliance.",
 } satisfies AdapterProject

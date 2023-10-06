@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'eu4u3i',
   cmcId: null,
+  description: "Fleek is a decentralized edge network initially focused on content delivery.",
 } satisfies AdapterProject

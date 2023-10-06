@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'golem',
   id: 'jkahfp',
   cmcId: 1455,
+  description: "Golem is a decentralized computing marketplace.",
 } satisfies AdapterProject
