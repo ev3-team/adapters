@@ -17,6 +17,7 @@ export type AdapterProjectChain =
   | 'BITCOIN'
 
 export type AdapterProjectToken =
+  | 'CLORE'
   | 'GLM'
   | 'VRA'
   | 'FRY'
