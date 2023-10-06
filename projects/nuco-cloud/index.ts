@@ -1,11 +1,12 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Nuco Cloud',
-  chain: 'Ethereum (ERC-20)',
-  category: 'Other',
+  name: 'Nuco',
+  chain: 'ETHEREUM',
+  category: 'OTHER',
   token: 'NCDT',
   coingeckoId: null,
   id: 'pfgtkc',
   cmcId: 6933,
+  description: "Nuco is the world's first decentralized mesh hyperscaler.",
 } satisfies AdapterProject

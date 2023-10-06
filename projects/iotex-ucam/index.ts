@@ -2,10 +2,11 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTeX UCAM',
-  chain: 'IoTeX',
-  category: 'Sensors',
-  token: 'IOTX',
-  coingeckoId: 'iotex',
+  chain: 'IOTEX',
+  category: 'SENSORS',
+  token: null,
+  coingeckoId: null,
   id: '4mms2z',
-  cmcId: 2777,
+  cmcId: null,
+  description: 'Ucam is blockchain-powered home security camera built on IoTeX.',
 } satisfies AdapterProject

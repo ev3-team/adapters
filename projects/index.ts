@@ -6,7 +6,6 @@ import incognitoCompute from './incognito'
 import storjCompute from './storj'
 import orchidCompute from './orchid'
 import genesysgoCompute from './genesysgo'
-import shadowCompute from './shadow'
 import databrokerCompute from './databroker'
 import wayruWireless from './wayru'
 import foamSensors from './foam'
@@ -28,7 +27,6 @@ import oceanCompute from './ocean'
 import pollenWireless from './pollen'
 import streamrCompute from './streamr'
 import energywebEnergy from './energyweb'
-import daylightEnergyFormerlyReactNetworkEnergy from './daylight-energy-(formerly-react-network)'
 import holoCompute from './holo'
 import boringCompute from './boring'
 import weatherflowSensors from './weatherflow'
@@ -139,7 +137,6 @@ export const projects = [
   storjCompute,
   orchidCompute,
   genesysgoCompute,
-  shadowCompute,
   databrokerCompute,
   wayruWireless,
   foamSensors,
@@ -161,7 +158,6 @@ export const projects = [
   pollenWireless,
   streamrCompute,
   energywebEnergy,
-  daylightEnergyFormerlyReactNetworkEnergy,
   holoCompute,
   boringCompute,
   weatherflowSensors,
