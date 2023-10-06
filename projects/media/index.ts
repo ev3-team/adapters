@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'media-network',
   id: 'iqnvgc',
   cmcId: 9524,
+  description: "Media is a decentralized hub for web services.",
 } satisfies AdapterProject

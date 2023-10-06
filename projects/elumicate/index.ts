@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'kpm8ir',
   cmcId: null,
+  description: "Elumicate is a decentralized data capture & surveillance network.",
 } satisfies AdapterProject

@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'g2acbm',
   cmcId: null,
+  description: "Wayru is a decentralized internet service provider in Latin America.",
 } satisfies AdapterProject

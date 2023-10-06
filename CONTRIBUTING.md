@@ -2,7 +2,7 @@
 
 ## Code of Conduct
 
-Ev3 has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as its Code of
+EV3 has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as its Code of
 Conduct, and we expect project participants to adhere to it.
 
 Please read [the full text](./CODE_OF_CONDUCT.md) so that you can understand what actions will and
@@ -18,8 +18,15 @@ don't be shy we appreciate all contributions and are happy to help those who are
 ## Adding a new project?
 
 Awesome! It's pretty straight-forward.
-What I'd recommend, is to take a look at the existing projects and see how they are structured. You'll see
-that they all follow a similar pattern. I usually copy over an existing project just to get started.
+We recommend copying an existing project to get started. You'll see
+that they all follow a similar pattern. You'll need to fill out:
+1. Project Name:
+2. Chain: Choose between 'Ethereum', 'Solana', 'Algorand', 'Cosmos', 'Cardano', 'Polkadot', 'Polygon', 'IoTeX', 'Binance', 'Kadena', etc. Use 'Native' for native chains or 'n/a' for projects with no token.
+3. Category: Choose between 'Wireless', 'Sensors', 'Compute', 'AI', 'Energy', or 'Other'.
+4. Token: ticker (e.g., 'BTC' or 'ETH')
+5. CoingeckoID: Find on CoinGecko project page (in URL).
+6. CmCID: Find on CoinMarketCap project page (in image URL of project icon).
+7. ID: Generate in Step #6 below.
 
 ## Preparing a Pull Request
 
@@ -52,18 +59,18 @@ pnpm i
 5. Create a new branch related to your PR:
 
 ```sh
-git checkout -b project/project-name
+git checkout -b project/<project-name>
 ```
 
-6. Make changes
+6. Copy & rename an existing project folder, then fill out the relevant datapoints.
 
-Note: If you're adding a new project you can generate a new unique id for your project running the command
+7. Generate new uniqueID and paste in into the new project file: 
 
 ```sh
 pnpm generate:id
 ```
 
-7. then commit and push to your forked repository:
+7. Then commit and push to your forked repository:
 
 ```sh
 git push -u origin HEAD
@@ -73,7 +80,7 @@ git push -u origin HEAD
    [make a Pull Request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 9. We will review your Pull Request and either merge it, request changes to it, or close it with an
-   explanation.
+   explanation. Please email ninja@ev3.xyz with any questions.
 
 ## Contribute from a browser IDE
 

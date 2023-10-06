@@ -8,7 +8,6 @@ export const projectsCmcIds = {
   Incognito: { slug: 'incognito', id: 16459 },
   GenesysGo: { slug: 'genesysgo-shadow', id: 16868 },
   Foam: { slug: 'foam', id: 3631 },
-  Shadow: { slug: undefined, id: null },
   Databroker: { slug: 'databroker', id: 2913 },
   Jackal: { slug: 'jackal-protocol', id: 25261 },
   Saturn: { slug: 'saturn', id: 4654 },

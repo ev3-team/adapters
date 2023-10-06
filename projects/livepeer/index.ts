@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'livepeer',
   id: '0dpzm4',
   cmcId: 3640,
+  description: "Livepeer is decentralized network of video encoders & streamers.",
 } satisfies AdapterProject

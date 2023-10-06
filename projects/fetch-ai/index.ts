@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'fetch-ai',
   id: 'mhpovr',
   cmcId: 3773,
+  description: "Fetch AI is a decentralized ecosystem of AI agents & services.",
 } satisfies AdapterProject

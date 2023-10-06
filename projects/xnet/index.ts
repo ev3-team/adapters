@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'xnet-mobile',
   id: 'pyz7yz',
   cmcId: null,
+  description: "XNET is a blockchain-powered mobile carrier building neutral-host telecommunications infrastructure.",
 } satisfies AdapterProject

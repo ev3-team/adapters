@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'energy-web-token',
   id: 'y5ondj',
   cmcId: 5268,
+  description: "Energy Web technology is powering decarbonization solutions in dozens of countries.",
 } satisfies AdapterProject

@@ -4,8 +4,9 @@ export default {
   name: 'IoTeX Pebble',
   chain: 'IoTeX',
   category: 'Sensors',
-  token: 'IOTX',
-  coingeckoId: 'iotex',
+  token: null,
+  coingeckoId: null,
   id: 'oqhdss',
-  cmcId: 2777,
+  cmcId: null,
+  description: "Pebble is an all-in-one blockchain powered sensor built on IoTeX.",
 } satisfies AdapterProject

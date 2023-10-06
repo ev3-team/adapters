@@ -21,13 +21,7 @@ export type AdapterProjectChain =
   | 'Kadena'
   | 'Arbitrum'
   | 'Cardano'
-  | 'BNB'
-  | 'DeepBrainChain (Polkadot Substrate)'
-  | 'Rowen Blockchain'
-  | 'Unknown'
-  | 'Ethereum (ERC-20)'
   | 'Bitcoin'
-  | 'K2'
 
 export type AdapterProject = {
   id: string
@@ -37,4 +31,5 @@ export type AdapterProject = {
   chain: AdapterProjectChain | null
   name: string
   token: string | null
+  description: string | null
 }

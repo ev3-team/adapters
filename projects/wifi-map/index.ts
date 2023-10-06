@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'wifi',
   id: 'xz6ffz',
   cmcId: 24133,
+  description: "WiFi Map is decentralized connectivity ecosystem mapping 10m+ WiFi hotspots globally.",
 } satisfies AdapterProject

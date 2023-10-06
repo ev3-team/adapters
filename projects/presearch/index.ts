@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'presearch',
   id: '7mrkii',
   cmcId: 2245,
+  description: "Presearch is a decentralized search engine.",
 } satisfies AdapterProject

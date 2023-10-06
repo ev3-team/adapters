@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'maidsafecoin',
   id: 'ubmhxr',
   cmcId: 291,
+  description: "MaidSafe is a decentralised and autonomous data network.",
 } satisfies AdapterProject

@@ -81,6 +81,7 @@ export const parseProject = (project: W3BStreamProject): Omit<AdapterProject, 'i
   token: project.token,
   // There's a total of 77 projects registered with a coingecko id currently
   coingeckoId: project.coingecko_id,
+  description: null,
 })
 
 export const W3B_STREAM_API = 'https://metrics-api.w3bstream.com'

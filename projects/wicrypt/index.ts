@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'wicrypt',
   id: 'ynsj12',
   cmcId: 11649,
+  description: "Wicrypt is a decentralized WiFi sharing network.",
 } satisfies AdapterProject

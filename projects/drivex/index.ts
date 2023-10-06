@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'omjwpm',
   cmcId: null,
+  description: "DriveX is a stealth project built on IoTeX.",
 } satisfies AdapterProject

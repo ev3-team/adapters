@@ -8,4 +8,5 @@ export default {
   coingeckoId: 'bistroo',
   id: 'qpkhj7',
   cmcId: 9889,
+  description: "Bistroo is a decentralized marketplace for food & beverage delivery.",
 } satisfies AdapterProject

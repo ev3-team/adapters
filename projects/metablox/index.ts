@@ -8,4 +8,5 @@ export default {
   coingeckoId: null,
   id: 'k5fxwj',
   cmcId: null,
+  description: "MetaBlox is delivering enterprise-grade WiFi roaming to the public worldwide.",
 } satisfies AdapterProject
