@@ -2,11 +2,11 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Swarm',
-  chain: 'Ethereum',
-  category: 'Compute',
+  chain: 'ETHEREUM',
+  category: 'COMPUTE',
   token: 'BZZ',
   coingeckoId: 'swarm-bzz',
   id: '8s783v',
   cmcId: 10293,
-  description: "Swarm is a decentralised data storage and distribution technology.",
+  description: 'Swarm is a decentralised data storage and distribution technology.',
 } satisfies AdapterProject

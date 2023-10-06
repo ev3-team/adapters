@@ -2,11 +2,11 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DriveX',
-  chain: 'IoTeX',
-  category: 'Sensors',
+  chain: 'IOTEX',
+  category: 'SENSORS',
   token: null,
   coingeckoId: null,
   id: 'omjwpm',
   cmcId: null,
-  description: "DriveX is a stealth project built on IoTeX.",
+  description: 'DriveX is a stealth project built on IoTeX.',
 } satisfies AdapterProject
