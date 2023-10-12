@@ -15,6 +15,7 @@ export type AdapterProjectChain =
   | 'ARBITRUM'
   | 'CARDANO'
   | 'BITCOIN'
+  | 'GNOSIS'
 
 export type AdapterProjectToken =
   | 'CLORE'
@@ -111,6 +112,7 @@ export type AdapterProjectToken =
   | 'MMAPS'
   | 'NODL'
   | 'NATIX'
+  | 'XDAI'
 
 export type AdapterProject = {
   id: string

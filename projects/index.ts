@@ -127,6 +127,7 @@ import axisSensors from './axis'
 import mapmetricsSensors from './mapmetrics'
 import nodleWireless from './nodle'
 import natixSensors from './natix'
+import altheaWireless from './althea'
 
 export const projects = [
   polybaseCompute,
@@ -258,6 +259,7 @@ export const projects = [
   mapmetricsSensors,
   nodleWireless,
   natixSensors,
+  altheaWireless,
 ]
 
 export { AdapterProject } from './types'
