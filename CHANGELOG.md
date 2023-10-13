@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.1.4
+
+### Patch Changes
+
+- add althea project
+
 ## 0.1.3
 
 ### Patch Changes
