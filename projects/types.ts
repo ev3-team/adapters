@@ -15,6 +15,7 @@ export type AdapterProjectChain =
   | 'ARBITRUM'
   | 'CARDANO'
   | 'BITCOIN'
+  | 'GNOSIS'
 
 export type AdapterProjectToken =
   | 'CLORE'
