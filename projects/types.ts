@@ -112,7 +112,6 @@ export type AdapterProjectToken =
   | 'MMAPS'
   | 'NODL'
   | 'NATIX'
-  | 'XDAI'
 
 export type AdapterProject = {
   id: string
