@@ -4,9 +4,9 @@ export default {
   name: 'Althea',
   chain: 'GNOSIS',
   category: 'WIRELESS',
-  token: 'XDAI',
-  coingeckoId: 'xdai',
+  token: null,
+  coingeckoId: null,
   id: 'nag833',
-  cmcId: 8635,
+  cmcId: null,
   description: 'The payment layer powering infrastructure & connectivity',
 } satisfies AdapterProject
