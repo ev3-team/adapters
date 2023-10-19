@@ -8,7 +8,7 @@ let index = 0
 let investorsIds: string[] = []
 const projectsInvestors = new Map()
 
-createReadStream(path.resolve(__dirname, 'data/DePIN-Investors.csv'))
+createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
   .pipe(csv.parse())
   .on('error', (error) => console.error(error))
   .on('data', async (row: string[]) => {

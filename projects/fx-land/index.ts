@@ -19,7 +19,6 @@ export default {
     'drq7a8',
     'bxcu1r',
     '2bl1fj',
-    'jl1znt',
     '22saty',
     'y0ujfl',
     'h1lj1l',
