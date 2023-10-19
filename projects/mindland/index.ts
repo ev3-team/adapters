@@ -9,4 +9,5 @@ export default {
   id: 'pheffj',
   cmcId: null,
   description: 'Mindland incentivizes meditation via crypto incentives.',
+  investors: [],
 } satisfies AdapterProject

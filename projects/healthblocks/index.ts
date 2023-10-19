@@ -10,4 +10,5 @@ export default {
   cmcId: null,
   description:
     'HealthBlocks is a decentralized health-oriented communtiy that rewards users for a healthy lifestyle.',
+  investors: [],
 } satisfies AdapterProject

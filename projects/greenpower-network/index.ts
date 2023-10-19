@@ -9,4 +9,5 @@ export default {
   id: '6t7pf0',
   cmcId: null,
   description: 'GreenPower is a decentralized network of global sustainability activists.',
+  investors: [],
 } satisfies AdapterProject

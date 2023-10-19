@@ -9,4 +9,5 @@ export default {
   id: 'hj3xvx',
   cmcId: null,
   description: 'Crankk is a full-stack decentralized IoT platform built on Kadena.',
+  investors: [],
 } satisfies AdapterProject

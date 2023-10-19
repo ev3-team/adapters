@@ -10,4 +10,5 @@ export default {
   cmcId: 23757,
   description:
     'AirTor is a decentralized incentivization protocol built on top of the Tor network.',
+  investors: [],
 } satisfies AdapterProject

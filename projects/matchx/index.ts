@@ -9,4 +9,5 @@ export default {
   id: 'sr6yh3',
   cmcId: null,
   description: 'MatchX builds hardware, software, and solutions for the IoT industry.',
+  investors: ['73kuet'],
 } satisfies AdapterProject

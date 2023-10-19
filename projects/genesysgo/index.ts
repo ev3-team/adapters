@@ -10,4 +10,5 @@ export default {
   cmcId: 16868,
   description:
     'GenesysGo Shadow is decentralized object storage platform designed for Web3 builders.',
+  investors: [],
 } satisfies AdapterProject

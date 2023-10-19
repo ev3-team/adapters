@@ -10,4 +10,5 @@ export default {
   cmcId: null,
   description:
     'Arkreen is a Web3-powered digital infrastructure for global distributed renewable energy resources.',
+  investors: ['jqz0zw'],
 } satisfies AdapterProject

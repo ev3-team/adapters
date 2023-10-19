@@ -9,4 +9,5 @@ export default {
   id: 'ff9s3p',
   cmcId: null,
   description: 'WeatherXM is a decentralized weather data collection network.',
+  investors: ['ti312b', 'buo8ql', 'bku3ew', 'lszufu', 'vh40ts', 'rfveqw', 'n2t98d'],
 } satisfies AdapterProject

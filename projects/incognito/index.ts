@@ -10,4 +10,5 @@ export default {
   cmcId: 16459,
   description:
     'Incognito is a privacy hub enabling users to conduct private shielded cryptocurrency transactions.',
+  investors: [],
 } satisfies AdapterProject

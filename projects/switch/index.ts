@@ -9,4 +9,5 @@ export default {
   id: 'nm1uyh',
   cmcId: 24302,
   description: 'Switch is a stealth project built on IoTeX.',
+  investors: [],
 } satisfies AdapterProject

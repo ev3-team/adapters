@@ -9,4 +9,5 @@ export default {
   id: 'eppbxs',
   cmcId: 24261,
   description: 'OctaSpace is a decentralized cloud computing network.',
+  investors: [],
 } satisfies AdapterProject

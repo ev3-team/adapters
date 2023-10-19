@@ -9,4 +9,5 @@ export default {
   id: 'b87zfz',
   cmcId: null,
   description: '2blox is a open network of traffic counters enabling modern urban development.',
+  investors: ['buo8ql', 's7b833'],
 } satisfies AdapterProject

@@ -9,4 +9,5 @@ export default {
   id: 'v2ax35',
   cmcId: 1697,
   description: 'Brave is a fast, private, secure web browser.',
+  investors: [],
 } satisfies AdapterProject

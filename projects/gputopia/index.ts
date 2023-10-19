@@ -9,4 +9,5 @@ export default {
   id: 'i21x89',
   cmcId: null,
   description: 'GPUtopia is a decentralized GPU network.',
+  investors: [],
 } satisfies AdapterProject

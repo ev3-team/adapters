@@ -10,4 +10,5 @@ export default {
   cmcId: 24600,
   description:
     "Helium Mobile is the People's carrier, with affordable service that unites users with coverage built by people like you.",
+  investors: [],
 } satisfies AdapterProject

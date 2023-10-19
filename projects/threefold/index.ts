@@ -10,4 +10,5 @@ export default {
   cmcId: 6500,
   description:
     'ThreeFold is a globally-distributed grid of storage, compute, and network capacity.',
+  investors: ['i5ii6b', 'u13una'],
 } satisfies AdapterProject

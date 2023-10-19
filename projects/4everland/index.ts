@@ -10,4 +10,5 @@ export default {
   cmcId: 21345,
   description:
     '4EverLand is a decentralized cloud integrating storage, computing, and networking resources.',
+  investors: ['gun7y3', 'wlc0pw', 'baurlm', 'lfbmt3', 'ympohv', 'xcrhi8'],
 } satisfies AdapterProject

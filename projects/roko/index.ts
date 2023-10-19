@@ -10,4 +10,5 @@ export default {
   cmcId: null,
   description:
     'Roko is a deep-tech R&D protocol bootstrapping a self-organizing human-machine network.',
+  investors: [],
 } satisfies AdapterProject
