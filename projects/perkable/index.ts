@@ -10,4 +10,5 @@ export default {
   cmcId: null,
   description:
     'Perkable is a decentralized advertising network connecting brands to local live events.',
+  investors: [],
 } satisfies AdapterProject

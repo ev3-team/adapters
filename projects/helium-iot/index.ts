@@ -9,4 +9,5 @@ export default {
   id: 'oxvlvf',
   cmcId: 24686,
   description: "Helium IoT is the world's biggest LoRa network.",
+  investors: [],
 } satisfies AdapterProject

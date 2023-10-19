@@ -9,4 +9,5 @@ export default {
   id: 'iqnvgc',
   cmcId: 9524,
   description: 'Media is a decentralized hub for web services.',
+  investors: ['b5zojp'],
 } satisfies AdapterProject

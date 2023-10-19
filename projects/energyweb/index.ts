@@ -10,4 +10,5 @@ export default {
   cmcId: 5268,
   description:
     'Energy Web technology is powering decarbonization solutions in dozens of countries.',
+  investors: [],
 } satisfies AdapterProject

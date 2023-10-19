@@ -10,4 +10,5 @@ export default {
   cmcId: 3029,
   description:
     'Flux is a decentralized compute network designed for cross-platform blockchain applications.',
+  investors: ['szfiug', 'mar9ip'],
 } satisfies AdapterProject

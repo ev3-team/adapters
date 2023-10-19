@@ -10,4 +10,5 @@ export default {
   cmcId: null,
   description:
     'AscensionWx enables users to earn extra Helium HNT tokens with WeatherMiner rewards.',
+  investors: [],
 } satisfies AdapterProject

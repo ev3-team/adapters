@@ -10,4 +10,5 @@ export default {
   cmcId: 2316,
   description:
     'DeepBrain distributed high-performance computing network for AI & Metaverse use cases.',
+  investors: [],
 } satisfies AdapterProject

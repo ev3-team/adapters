@@ -9,4 +9,5 @@ export default {
   id: 'scli9r',
   cmcId: 20969,
   description: 'Geodnet is a decentralized network of GNSS reference stations.',
+  investors: ['buo8ql'],
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   cmcId: 2777,
   description:
     'W3bstream provides infrastructure for connecting IoT devices with permissionless blockchains.',
+  investors: [],
 } satisfies AdapterProject

@@ -9,4 +9,5 @@ export default {
   id: 'xpggzk',
   cmcId: null,
   description: 'PiPHi is a decentralized environmental data collection network.',
+  investors: [],
 } satisfies AdapterProject

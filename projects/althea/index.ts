@@ -9,4 +9,5 @@ export default {
   id: 'nag833',
   cmcId: null,
   description: 'The payment layer powering infrastructure & connectivity',
+  investors: [],
 } satisfies AdapterProject

@@ -9,4 +9,5 @@ export default {
   id: '085eer',
   cmcId: 24698,
   description: 'Hypercycle is building infrastructure for AIs to interact onchain.',
+  investors: [],
 } satisfies AdapterProject

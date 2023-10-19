@@ -9,4 +9,17 @@ export default {
   id: '0ezngt',
   cmcId: 8376,
   description: 'MASQ is a decentralized VPN network built on Polygon.',
+  investors: [
+    '5yy6cw',
+    'jqz0zw',
+    '7ygqh2',
+    '6ueww6',
+    'n5z0zx',
+    'gjt0lb',
+    'emc157',
+    'jynpbk',
+    'aj1xux',
+    'cw96ak',
+    'x6gv9l',
+  ],
 } satisfies AdapterProject

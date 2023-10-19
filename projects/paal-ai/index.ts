@@ -9,4 +9,5 @@ export default {
   id: 'wmad1s',
   cmcId: 27178,
   description: 'PAAL is a decentralized network of autonomous agents.',
+  investors: [],
 } satisfies AdapterProject

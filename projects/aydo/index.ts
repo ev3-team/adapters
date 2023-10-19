@@ -9,4 +9,5 @@ export default {
   id: 'n6xm1l',
   cmcId: null,
   description: 'Adyo is a stealth project built on IOTEX.',
+  investors: [],
 } satisfies AdapterProject

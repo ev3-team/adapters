@@ -9,4 +9,5 @@ export default {
   id: '5wvni1',
   cmcId: null,
   description: 'Autonolas is a decentralized network of autonomous AI agents.',
+  investors: [],
 } satisfies AdapterProject

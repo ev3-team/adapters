@@ -9,4 +9,5 @@ export default {
   id: '686w74',
   cmcId: 6841,
   description: 'Phala Network is an off-chain compute network powered by secure enclaves.',
+  investors: [],
 } satisfies AdapterProject

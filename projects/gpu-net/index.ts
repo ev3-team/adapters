@@ -9,4 +9,5 @@ export default {
   id: 'jf4ml9',
   cmcId: null,
   description: 'GPU.net is a decentralized GPU network for training AI models.',
+  investors: [],
 } satisfies AdapterProject

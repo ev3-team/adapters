@@ -10,4 +10,5 @@ export default {
   cmcId: null,
   description:
     'Onocoy is a decentralized GNSS reference station network enabling high-precisioning geopositioning.',
+  investors: ['k9wwxc'],
 } satisfies AdapterProject

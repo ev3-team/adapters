@@ -1,0 +1,6 @@
+import { AdapterInvestor } from '../types'
+
+export default {
+  id: '7c9znx',
+  name: 'Knickerbocker',
+} satisfies AdapterInvestor

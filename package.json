@@ -8,12 +8,15 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "lint": "tsc",
-    "build": "tsx scripts/assert-unique-ids.ts && tsup projects/index.ts --format cjs,esm --dts",
+    "build": "tsx scripts/assert-unique-ids.ts && tsup index.ts --format cjs,esm --dts",
     "ci": "pnpm run lint && pnpm run build",
     "release": "pnpm run lint && pnpm run build && changeset publish",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "update:investors": "tsx scripts/update-investors.ts && npm run format",
+    "update:projects-investors": "tsx scripts/update-projects-investors.ts && npm run format",
     "generate:w3b": "tsx scripts/generate-initial-w3b-projects.ts && pnpm format",
-    "generate:id": "tsx scripts/generate-id.ts"
+    "generate:id": "tsx scripts/generate-id.ts",
+    "generate:investor-id": "tsx scripts/generate-investor-id.ts"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +25,7 @@
     "@changesets/cli": "^2.26.2",
     "@types/node": "^20.7.1",
     "dotenv": "^16.3.1",
+    "fast-csv": "^4.3.6",
     "nanoid": "^5.0.1",
     "tsup": "^7.2.0",
     "tsx": "^3.13.0",
