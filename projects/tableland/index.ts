@@ -9,4 +9,5 @@ export default {
   id: 'k4txnn',
   cmcId: null,
   description: 'Tableland is a decentralized database built on the SQLite engine.',
+  investors: [],
 } satisfies AdapterProject

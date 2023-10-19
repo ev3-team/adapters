@@ -1,20 +1,19 @@
 import { customAlphabet } from 'nanoid'
-import { AdapterProject } from '../projects/types'
 
 const alphabet = '0123456789abcdefghijklmnopqrstuvwxyz'
 
 // Creates a function that generates a short ID of specified length.
-export function createNewId(
+export function createNewId<T extends { id: string }>(
   size: number = 6
-): (unique: boolean, projects: AdapterProject[]) => Promise<string> {
+): (unique: boolean, records: T[]) => Promise<string> {
   const generateId = customAlphabet(alphabet, size)
 
-  return async function newId(unique = true, projects = []) {
+  return async function newId(unique = true, records = []) {
     let id = await generateId()
 
     // Ensures that the generated ID is unique
     while (unique) {
-      const record = projects.find((p) => p.id === id)
+      const record = records.find((p) => p.id === id)
 
       if (record) {
         console.warn(`Re-generating new project ID.`)

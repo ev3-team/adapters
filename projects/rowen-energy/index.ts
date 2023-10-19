@@ -9,4 +9,5 @@ export default {
   id: '5rnwg3',
   cmcId: null,
   description: 'Rowan is a low-carbon blockchain built on low-power Proof of Generation consensus.',
+  investors: [],
 } satisfies AdapterProject

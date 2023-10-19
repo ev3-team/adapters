@@ -9,4 +9,5 @@ export default {
   id: '08wij5',
   cmcId: 2913,
   description: 'Databroker is a secure marketplace for peer-to-peer data exchange.',
+  investors: [],
 } satisfies AdapterProject

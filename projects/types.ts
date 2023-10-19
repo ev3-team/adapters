@@ -122,4 +122,5 @@ export type AdapterProject = {
   name: string
   token: AdapterProjectToken | null
   description: string | null
+  investors: string[]
 }

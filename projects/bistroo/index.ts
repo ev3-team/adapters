@@ -9,4 +9,5 @@ export default {
   id: 'qpkhj7',
   cmcId: 9889,
   description: 'Bistroo is a decentralized marketplace for food & beverage delivery.',
+  investors: [],
 } satisfies AdapterProject

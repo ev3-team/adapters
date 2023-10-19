@@ -9,4 +9,5 @@ export default {
   id: 'omjwpm',
   cmcId: null,
   description: 'DriveX is a stealth project built on IoTeX.',
+  investors: [],
 } satisfies AdapterProject

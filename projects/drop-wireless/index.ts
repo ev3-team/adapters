@@ -9,4 +9,5 @@ export default {
   id: 'qnfsx5',
   cmcId: null,
   description: 'Drop Wireless is a stealth project built on IoTeX.',
+  investors: [],
 } satisfies AdapterProject

@@ -9,4 +9,5 @@ export default {
   id: '56jkto',
   cmcId: 8849,
   description: 'Axis is a blockchain-powered direct freight network.',
+  investors: [],
 } satisfies AdapterProject

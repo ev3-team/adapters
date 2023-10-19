@@ -10,4 +10,5 @@ export default {
   cmcId: null,
   description:
     'Koii allows anyone to earn passive income by connecting idle devices to transparent apps and audit systems.',
+  investors: [],
 } satisfies AdapterProject

@@ -9,4 +9,5 @@ export default {
   id: 'dyrwx5',
   cmcId: null,
   description: 'Dor is decentralized network of thermal-sensing battery-operated people counters.',
+  investors: ['axam6d'],
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   cmcId: 10894,
   description:
     'StorX is a decentralized cloud storage network enabling permissionless selling/leasing of storage capacity.',
+  investors: [],
 } satisfies AdapterProject
