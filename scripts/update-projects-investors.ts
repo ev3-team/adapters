@@ -10,7 +10,7 @@ const projectsInvestors = new Map()
 
 createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
   .pipe(csv.parse())
-  .on('error', (error) => console.error(error))
+  .on('error', (error: any) => console.error(error))
   .on('data', async (row: string[]) => {
     index++
     if (index === 1) {
