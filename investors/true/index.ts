@@ -1,7 +1,7 @@
 import { AdapterInvestor } from '../types'
 
 export default {
-  id: '44e83n',
-  name: 'Galaxy Digital',
-  investedProjectsCount: 2,
+  id: 'zim0bv',
+  name: 'True',
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor
