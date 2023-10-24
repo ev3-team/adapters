@@ -112,6 +112,7 @@ export type AdapterProjectToken =
   | 'MMAPS'
   | 'NODL'
   | 'NATIX'
+  | 'BTRST'
 
 export type AdapterProject = {
   id: string
