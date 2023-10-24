@@ -2,230 +2,230 @@ import digitalcurrencygroup from './digital-currency-group'
 import ngc from './ngc'
 import escapevelocity from './escape-velocity'
 import protocollabs from './protocol-labs'
-import borderless from './borderless'
 import multicoin from './multicoin'
 import outlier from './outlier'
+import borderless from './borderless'
 import blockchaincapital from './blockchain-capital'
-import coinfund from './coinfund'
+import genblock from './genblock'
 import bitscale from './bitscale'
 import hash from './hash'
-import genblock from './genblock'
+import coinfund from './coinfund'
 import placeholder from './placeholder'
 import sevenx from './sevenx'
-import snz from './snz'
 import collabPluscurrency from './collab-plus-currency'
-import lattice from './lattice'
+import snz from './snz'
 import blockchange from './blockchange'
+import lattice from './lattice'
 import kr1 from './kr1'
 import iosg from './iosg'
 import hackvc from './hack-vc'
-import spark from './spark'
-import au21 from './au21'
 import bixin from './bixin'
+import spark from './spark'
 import master from './master'
+import au21 from './au21'
 import coinbase from './coinbase'
 import cmtdigital from './cmt-digital'
+import alphasigma from './alpha-sigma'
 import fjlabs from './fj-labs'
 import arkstream from './arkstream'
-import alphasigma from './alpha-sigma'
 import andreessenhorowitz from './andreessen-horowitz'
-import blockvc from './block-vc'
 import atopia from './atopia'
-import deltahub from './deltahub'
+import blockvc from './block-vc'
 import blockwall from './blockwall'
 import dhvc from './dhvc'
 import foundation from './foundation'
+import deltahub from './deltahub'
 import hardyaka from './hard-yaka'
 import hyperchain from './hyperchain'
 import knickerbocker from './knickerbocker'
-import pantera from './pantera'
 import mapleblock from './mapleblock'
-import moonwhale from './moonwhale'
+import pantera from './pantera'
 import shima from './shima'
+import moonwhale from './moonwhale'
+import slow from './slow'
 import visary from './visary'
 import _6thman from './6th-man'
 import gd10 from './gd10'
-import slow from './slow'
 import unionsquare from './union-square'
-import polychain from './polychain'
-import bigbrain from './big-brain'
 import arweave from './arweave'
+import bigbrain from './big-brain'
+import polychain from './polychain'
 import _1kx from './1kx'
 import agecrypto from './age-crypto'
-import br from './br'
-import algorand from './algorand'
 import alliance from './alliance'
 import alumni from './alumni'
-import capturealpha from './capturealpha'
-import cognitive from './cognitive'
+import algorand from './algorand'
+import br from './br'
 import chorusone from './chorus-one'
+import capturealpha from './capturealpha'
 import _continue from './continue'
-import cypher from './cypher'
+import cognitive from './cognitive'
 import digitalfinancegroup from './digital-finance-group'
-import firstprinciples from './first-principles'
-import dwf from './dwf'
 import ellipti from './ellipti'
-import hashkey from './hashkey'
+import dwf from './dwf'
+import cypher from './cypher'
 import infinite from './infinite'
+import lotus from './lotus'
+import hashkey from './hashkey'
+import firstprinciples from './first-principles'
+import maven11 from './maven-11'
 import metaplanet from './metaplanet'
 import moonrock from './moonrock'
-import maven11 from './maven-11'
-import lotus from './lotus'
 import next from './next'
-import rr2 from './rr2'
-import qwerty from './qwerty'
-import skywater from './skywater'
-import tenzor from './tenzor'
-import stratostechnologies from './stratos-technologies'
-import teaminresidence from './team-in-residence'
 import notation from './notation'
+import qwerty from './qwerty'
+import rr2 from './rr2'
+import stratostechnologies from './stratos-technologies'
+import skywater from './skywater'
+import teaminresidence from './team-in-residence'
 import tigerglobal from './tiger-global'
 import token from './token'
+import tenzor from './tenzor'
 import waterdrip from './waterdrip'
 import youbi from './youbi'
 import chapterone from './chapter-one'
-import metasensedao from './metasense-dao'
 import moonboots from './moonboots'
 import nxgenxyz from './nxgen-xyz'
-import techstars from './techstars'
-import samsungnext from './samsung-next'
-import deltablockchain from './delta-blockchain'
-import zeeprime from './zee-prime'
+import metasensedao from './metasense-dao'
 import warburgserres from './warburg-serres'
-import _3commas from './3commas'
+import techstars from './techstars'
+import deltablockchain from './delta-blockchain'
+import samsungnext from './samsung-next'
 import _42fund from './42-fund'
 import _6kstarter from './6k-starter'
-import amirhaleem from './amir-haleem'
+import _3commas from './3commas'
+import zeeprime from './zee-prime'
 import acapital from './a-capital'
-import bitrise from './bitrise'
+import amirhaleem from './amir-haleem'
 import assembly from './assembly'
-import blockchainfond from './blockchain-fond'
 import blackdragon from './blackdragon'
 import blue7 from './blue7'
-import chain from './chain'
+import blockchainfond from './blockchain-fond'
+import bitrise from './bitrise'
 import btx from './btx'
+import chain from './chain'
 import chronos from './chronos'
 import chainlayer from './chainlayer'
 import cipholio from './cipholio'
-import clever from './clever'
-import cogitent from './cogitent'
-import collaborativefund from './collaborative-fund'
 import cluster from './cluster'
+import cogitent from './cogitent'
+import clever from './clever'
+import collaborativefund from './collaborative-fund'
+import consensuslab from './consensus-lab'
 import compound from './compound'
 import contango from './contango'
 import cscupshot from './csc-upshot'
-import consensuslab from './consensus-lab'
-import deep from './deep'
 import cspdao from './csp-dao'
+import deep from './deep'
 import deutschetelekom from './deutsche-telekom'
-import dots from './dots'
 import digitalrenaissance from './digital-renaissance'
+import dots from './dots'
+import edenblock from './eden-block'
 import doublepeak from './double-peak'
 import draft from './draft'
 import eitdigital from './eit-digital'
-import edenblock from './eden-block'
 import etiennevantkruys from './etienne-vantkruys'
 import exnetwork from './exnetwork'
-import fantail from './fantail'
-import floem from './floem'
-import firstmark from './firstmark'
 import framework from './framework'
+import firstmark from './firstmark'
+import floem from './floem'
+import fantail from './fantail'
 import fundamentallabs from './fundamental-labs'
-import g1 from './g1'
 import georgeburke from './george-burke'
 import gumicryptos from './gumi-cryptos'
+import g1 from './g1'
 import gsr from './gsr'
+import haystack from './haystack'
+import haitao from './haitao'
 import gv from './gv'
 import incubaalpha from './incuba-alpha'
-import haitao from './haitao'
-import haystack from './haystack'
 import jaantallinn from './jaan-tallinn'
-import koi from './koi'
 import jiudinggroup from './jiuding-group'
 import jackherrick from './jack-herrick'
-import kosmos from './kosmos'
-import lemniscap from './lemniscap'
+import koi from './koi'
 import lbank from './lbank'
-import liberty from './liberty'
+import lemniscap from './lemniscap'
+import kosmos from './kosmos'
 import libertus from './libertus'
-import meld from './meld'
+import liberty from './liberty'
+import node from './node'
 import michaelsena from './michael-sena'
 import monday from './monday'
-import node from './node'
+import meld from './meld'
 import orcas from './orcas'
-import phoenix from './phoenix'
 import rajivgokal from './rajiv-gokal'
-import rarestone from './rarestone'
 import re_public from './republic'
+import phoenix from './phoenix'
 import sequoia from './sequoia'
-import sfermion from './sfermion'
+import rarestone from './rarestone'
 import sky from './sky'
+import sfermion from './sfermion'
 import signum from './signum'
 import stakedvc from './staked-vc'
 import tally from './tally'
 import tokenhunter from './tokenhunter'
 import trgc from './trgc'
 import unanimous from './unanimous'
-import vinnylingham from './vinny-lingham'
 import vbc from './vbc'
 import woodstock from './woodstock'
+import vinnylingham from './vinny-lingham'
 import _18ventures from './18ventures'
-import avstar from './avstar'
 import blueyard from './blueyard'
+import avstar from './avstar'
 import bmw from './bmw'
 import capitalfactory from './capital-factory'
 import chainlink from './chainlink'
-import chinapolka from './chinapolka'
 import crowdcreate from './crowdcreate'
+import chinapolka from './chinapolka'
+import extrawatts from './extra-watts'
 import distributedglobal from './distributed-global'
 import figment from './figment'
 import flight from './flight'
-import extrawatts from './extra-watts'
 import foresight from './foresight'
 import formless from './formless'
-import lontra from './lontra'
-import masknetwork from './mask-network'
 import ftx from './ftx'
+import masknetwork from './mask-network'
+import lontra from './lontra'
 import mint from './mint'
+import northisland from './north-island'
+import northzone from './northzone'
 import plugandplay from './plug-and-play'
 import reciprocal from './reciprocal'
-import northzone from './northzone'
-import northisland from './north-island'
-import thelao from './the-lao'
 import variantfund from './variant-fund'
-import cvvc from './cvvc'
+import thelao from './the-lao'
 import ycombinator from './y-combinator'
-import dragonfly from './dragonfly'
-import moonshot from './moonshot'
+import cvvc from './cvvc'
 import fbg from './fbg'
+import moonshot from './moonshot'
 import yes from './yes'
+import dragonfly from './dragonfly'
 import globalblockchain from './global-blockchain'
 import _100And100 from './100-&-100'
-import _7oclock from './7-oclock'
 import _42dao from './42dao'
+import _7oclock from './7-oclock'
 import _75Andsunny from './75--&--sunny'
 import _7percent from './7percent'
-import _8decimal from './8-decimal'
-import adamjackson from './adam-jackson'
-import acornpacific from './acorn-pacific'
-import adamnash from './adam-nash'
 import a195 from './a195'
-import aeronbuchanan from './aeron-buchanan'
+import _8decimal from './8-decimal'
+import acornpacific from './acorn-pacific'
+import adamjackson from './adam-jackson'
+import adamnash from './adam-nash'
 import advancit from './advancit'
 import alameda from './alameda'
+import aeronbuchanan from './aeron-buchanan'
 import alanhoward from './alan-howard'
 import alchemy from './alchemy'
 import alexcarrabre from './alex-carrabre'
-import alexfelix from './alex-felix'
 import alexanderlange from './alexander-lange'
+import alexfelix from './alex-felix'
 import alexisberthoud from './alexis-berthoud'
-import alphabit from './alphabit'
 import almora from './almora'
-import alphablock from './alphablock'
+import alphabit from './alphabit'
 import alves from './alves'
 import amdocs from './amdocs'
-import amhedherrera from './amhed-herrera'
+import alphablock from './alphablock'
 import amhfund from './amh-fund'
+import amhedherrera from './amhed-herrera'
 import amino from './amino'
 import amitkumar from './amit-kumar'
 import anatolyyakovenko from './anatoly-yakovenko'
@@ -233,272 +233,272 @@ import amyp from './amyp'
 import andromeda from './andromeda'
 import angelone from './angelone'
 import animoca from './animoca'
-import arrington from './arrington'
 import ankr from './ankr'
+import arrington from './arrington'
 import ascension from './ascension'
 import ashpark from './ash-park'
+import ashbury from './ashbury'
 import asteroid from './asteroid'
 import aurenhoffman from './auren-hoffman'
-import ashbury from './ashbury'
-import ausum from './ausum'
-import autodesk from './autodesk'
-import automattic from './automattic'
 import austingreen from './austin-green'
+import ausum from './ausum'
+import automattic from './automattic'
 import avalabs from './ava-labs'
+import autodesk from './autodesk'
 import aveslair from './aves-lair'
 import avg from './avg'
 import axone from './axone'
 import bain from './bain'
 import balajisrinivasan from './balaji-srinivasan'
 import basics from './basics'
-import batshitcrazy from './batshit-crazy'
 import benrubin from './ben-rubin'
+import batshitcrazy from './batshit-crazy'
 import benjamincrane from './benjamin-crane'
 import benjaminjacobs from './benjamin-jacobs'
-import beringwaters from './bering-waters'
 import bessemer from './bessemer'
-import bitangels from './bitangels'
-import binance from './binance'
+import beringwaters from './bering-waters'
 import betoken from './betoken'
+import binance from './binance'
+import bitget from './bitget'
+import bitangels from './bitangels'
 import bitcoin from './bitcoin'
 import bitfwd from './bitfwd'
-import bitget from './bitget'
-import blackgreen from './black-green'
 import bitsxbites from './bits-x-bites'
+import blackgreen from './black-green'
 import blockis from './block-is'
-import block54 from './block54'
 import block0 from './block0'
+import block54 from './block54'
 import blockchers from './blockchers'
-import blockchaincom from './blockchain-com'
 import blockhead from './blockhead'
-import blockstar from './blockstar'
+import blockchaincom from './blockchain-com'
 import boomstartup from './boomstartup'
-import bootstraplabs from './bootstraplabs'
+import blockstar from './blockstar'
 import boostvc from './boost-vc'
+import bootstraplabs from './bootstraplabs'
 import boxgroup from './boxgroup'
-import bpifrance from './bpifrance'
-import briantotty from './brian-totty'
-import brilliance from './brilliance'
 import broadlight from './broadlight'
+import brilliance from './brilliance'
+import briantotty from './brian-totty'
+import bpifrance from './bpifrance'
 import builder from './builder'
 import bulletlabs from './bullet-labs'
+import cambridgeassociates from './cambridge-associates'
 import burevalley from './bure-valley'
 import caballeros from './caballeros'
-import cambridgeassociates from './cambridge-associates'
-import canonicalcrypto from './canonical-crypto'
 import cardano from './cardano'
-import carthona from './carthona'
+import canonicalcrypto from './canonical-crypto'
 import ceciliali from './cecilia-li'
-import cgv from './cgv'
+import carthona from './carthona'
 import chadd from './chadd'
 import chainfir from './chainfir'
+import cgv from './cgv'
+import charge from './charge'
 import chainfund from './chainfund'
 import charliesonghurst from './charlie-songhurst'
-import charge from './charge'
 import chateau from './chateau'
 import chrismccann from './chris-mccann'
 import christopherheymann from './christopher-heymann'
-import coindcx from './coindcx'
 import cmcc from './cmcc'
 import coinix from './coinix'
-import color from './color'
-import collider from './collider'
+import coindcx from './coindcx'
 import coinshares from './coinshares'
+import collider from './collider'
 import coloplnext from './colopl-next'
 import consensysmesh from './consensys-mesh'
 import constellation from './constellation'
+import color from './color'
 import corner from './corner'
-import counterview from './counterview'
 import craft from './craft'
 import craigburel from './craig-burel'
+import counterview from './counterview'
 import creativeartists from './creative-artists'
-import crtlabs from './crt-labs'
 import cryptobazar from './crypto-bazar'
-import cyberight from './cyberight'
 import cryptodiscover from './cryptodiscover'
 import cryptodormfund from './crypto-dorm-fund'
-import davidmorin from './david-morin'
-import dapperlabs from './dapper-labs'
-import davidphelps from './david-phelps'
-import dawn from './dawn'
+import crtlabs from './crt-labs'
 import cylon from './cylon'
-import dcm from './dcm'
+import dapperlabs from './dapper-labs'
+import cyberight from './cyberight'
+import davidmorin from './david-morin'
+import dawn from './dawn'
+import davidphelps from './david-phelps'
 import davidrogier from './david-rogier'
+import dcm from './dcm'
 import deanbartosh from './dean-bartosh'
-import digitalstrategies from './digital-strategies'
 import delphidigital from './delphi-digital'
 import dg from './dg'
+import digitalstrategies from './digital-strategies'
 import dimastarodubcev from './dima-starodubcev'
 import dish from './dish'
 import disney from './disney'
 import dispersion from './dispersion'
 import divergence from './divergence'
-import dlabsosv from './dlab-sosv'
 import dltx from './dltx'
+import dlabsosv from './dlab-sosv'
 import dokia from './dokia'
 import drops from './drops'
-import druid from './druid'
 import dst from './dst'
-import du from './du'
+import druid from './druid'
 import dtc from './dtc'
+import du from './du'
 import duckdao from './duckdao'
 import dylanfield from './dylan-field'
-import dynamic from './dynamic'
 import egirl from './egirl'
 import elieseidman from './elie-seidman'
-import elves from './elves'
+import dynamic from './dynamic'
 import emergent from './emergent'
+import elves from './elves'
 import emurgo from './emurgo'
 import eniac from './eniac'
-import eterna from './eterna'
 import entrepreneurfirst from './entrepreneur-first'
-import faculty from './faculty'
 import europeanunion from './european-union'
+import eterna from './eterna'
 import fair2lab from './fair2lab'
-import ferrum from './ferrum'
+import faculty from './faculty'
 import finality from './finality'
-import fintechcollective from './fintech-collective'
+import ferrum from './ferrum'
 import firebird from './firebird'
 import fireblocks from './fireblocks'
-import firststar from './first-star'
 import firestartr from './firestartr'
+import fintechcollective from './fintech-collective'
+import firststar from './first-star'
 import firstminute from './firstminute'
 import fishdao from './fish-dao'
+import flyingpoint from './flying-point'
 import floatingpoint from './floating-point'
 import fisher8 from './fisher-8'
-import flyingpoint from './flying-point'
-import franceshaugen from './frances-haugen'
 import folius from './folius'
 import forbole from './forbole'
+import franceshaugen from './frances-haugen'
 import fredehrsam from './fred-ehrsam'
 import frogdesign from './frog-design'
-import futureperfect from './future-perfect'
 import fundersclub from './fundersclub'
 import gains from './gains'
-import gbv from './gbv'
 import galaxydigital from './galaxy-digital'
+import futureperfect from './future-perfect'
+import gda from './gda'
 import garyvaynerchuk from './gary-vaynerchuk'
+import gbv from './gbv'
 import gcvr from './gc-vr'
 import georgegilder from './george-gilder'
-import gda from './gda'
-import gfr from './gfr'
 import gfs from './gfs'
+import gfr from './gfr'
 import goodyear from './goodyear'
 import graycell from './graycell'
 import gree from './gree'
 import gravity from './gravity'
 import greenpine from './green-pine'
-import greenfield from './greenfield'
 import gregkidd from './greg-kidd'
-import greycroft from './greycroft'
+import greenfield from './greenfield'
 import gregoryrocco from './gregory-rocco'
+import greycroft from './greycroft'
 import gva from './gva'
-import hFarm from './h-farm'
 import hackerlink from './hackerlink'
-import harrisonmetal from './harrison-metal'
-import hcl from './hcl'
 import haivision from './haivision'
+import harrisonmetal from './harrison-metal'
 import hbo from './hbo'
+import hcl from './hcl'
 import helix from './helix'
 import hemisphere from './hemisphere'
 import heuristic from './heuristic'
-import higgsboson from './higgsboson'
+import hFarm from './h-farm'
 import hidden from './hidden'
-import homebrew from './homebrew'
 import hillrise from './hillrise'
+import higgsboson from './higgsboson'
+import homebrew from './homebrew'
 import hone from './hone'
 import hortifruti from './hortifruti'
 import hyperithm from './hyperithm'
 import hypersphere from './hypersphere'
-import ibcblockchain from './ibc-blockchain'
 import ice from './ice'
-import inblockchain from './inblockchain'
+import ibcblockchain from './ibc-blockchain'
 import id4 from './id4'
+import inblockchain from './inblockchain'
 import inclusion from './inclusion'
 import indrorobotics from './indro-robotics'
-import infinitylabs from './infinity-labs'
-import jlab from './j-lab'
-import iobc from './iobc'
-import insignius from './insignius'
 import inflection from './inflection'
-import jafermakki from './jafer-makki'
+import insignius from './insignius'
+import infinitylabs from './infinity-labs'
+import iobc from './iobc'
+import jlab from './j-lab'
 import jakechervinsky from './jake-chervinsky'
-import jakedavis from './jake-davis'
+import jafermakki from './jafer-makki'
 import jam from './jam'
+import jakedavis from './jake-davis'
 import jamesfayal from './james-fayal'
 import jamesparillo from './james-parillo'
 import jaronwaldman from './jaron-waldman'
 import jd from './jd'
-import jeco from './jeco'
 import jeffreyschox from './jeffrey-schox'
-import johnmack from './john-mack'
+import jeco from './jeco'
 import jinlin from './jinlin'
+import johnmack from './john-mack'
 import johnnysteindorff from './johnny-steindorff'
 import jonathanhung from './jonathan-hung'
 import jonathanlevine from './jonathan-levine'
 import joshhannah from './josh-hannah'
+import joshuagoldbard from './joshua-goldbard'
 import jsquare from './jsquare'
 import k24 from './k24'
-import joshuagoldbard from './joshua-goldbard'
 import kaiserpermanente from './kaiser-permanente'
 import kamalravikanth from './kamal-ravikanth'
-import katyperry from './katy-perry'
-import kenetic from './kenetic'
-import kangaroo from './kangaroo'
 import kernel from './kernel'
-import kgn from './kgn'
+import kenetic from './kenetic'
+import katyperry from './katy-perry'
+import kangaroo from './kangaroo'
 import kevinmoore from './kevin-moore'
+import kgn from './kgn'
 import khosla from './khosla'
 import kintsugi from './kintsugi'
 import kiranbhatraju from './kiran-bhatraju'
 import kns from './kns'
 import kleinerperkins from './kleiner-perkins'
 import koji from './koji'
-import lasseclausen from './lasse-clausen'
 import krenex from './krenex'
+import lasseclausen from './lasse-clausen'
 import lancer from './lancer'
 import launchcode from './launchcode'
 import laurenfeld from './lauren-feld'
 import leap from './leap'
-import ledgerprime from './ledgerprime'
 import lererhippeau from './lerer-hippeau'
 import libertyglobal from './liberty-global'
+import ledgerprime from './ledgerprime'
 import linkvc from './linkvc'
 import litani from './litani'
 import locus from './locus'
-import longhash from './longhash'
 import lombardstreet from './lombardstreet'
-import longling from './longling'
 import luclevesque from './luc-levesque'
-import lvt from './lvt'
 import luigicongedo from './luigi-congedo'
-import m12 from './m12'
+import longling from './longling'
+import longhash from './longhash'
+import lvt from './lvt'
 import lyvc from './lyvc'
-import m31 from './m31'
+import m12 from './m12'
 import magnetic from './magnetic'
+import m31 from './m31'
 import marcbenioff from './marc-benioff'
+import marcbhargava from './marc-bhargava'
 import marcbrands from './marc-brands'
 import marcweinstein from './marc-weinstein'
-import marcbhargava from './marc-bhargava'
 import marindigital from './marin-digital'
 import mariusbarnett from './marius-barnett'
 import markjosephson from './mark-josephson'
-import markwilliamson from './mark-williamson'
-import masonborda from './mason-borda'
 import markranford from './mark-ranford'
-import mattheiman from './matt-heiman'
+import masonborda from './mason-borda'
+import markwilliamson from './mark-williamson'
 import matthewdesouza from './matthew-de-souza'
-import matthewslater from './matthew-slater'
+import mattheiman from './matt-heiman'
+import matthewmckibbin from './matthew-mckibbin'
 import matthewrutler from './matthew-rutler'
 import maxwebster from './max-webster'
-import mechanism from './mechanism'
+import matthewslater from './matthew-slater'
 import mayfield from './mayfield'
-import matthewmckibbin from './matthew-mckibbin'
+import mechanism from './mechanism'
 import meguminakamura from './megumi-nakamura'
 import meltemdemirors from './meltem-demirors'
+import metaone from './meta-one'
 import mempool from './mempool'
 import metacartel from './metacartel'
-import metaone from './meta-one'
 import metastable from './metastable'
 import michaelcena from './michael-cena'
 import mindfulness from './mindfulness'
@@ -507,84 +507,83 @@ import modular from './modular'
 import mrtnz from './mrtnz'
 import munichre from './munich-re'
 import n7 from './n7'
-import nautilus from './nautilus'
 import narwhal from './narwhal'
+import nautilus from './nautilus'
 import navalravikant from './naval-ravikant'
 import nebari from './nebari'
-import ngp from './ngp'
 import nfventures from './nfventures'
+import ngp from './ngp'
 import nicholashammerschlag from './nicholas-hammerschlag'
 import nirvana from './nirvana'
 import nothing from './nothing'
-import notion from './notion'
+import noahjessop from './noah-jessop'
 import nzvc from './nzvc'
+import notion from './notion'
+import oddgems from './oddgems'
 import occamfi from './occamfi'
 import odine from './odine'
-import notalking from './no-talking'
-import oddgems from './oddgems'
-import noia from './noia'
+import okblockchain from './ok-blockchain'
+import olymp from './olymp'
 import onblock from './onblock'
-import noahjessop from './noah-jessop'
 import oneblock from './one-block'
 import onega from './onega'
-import okblockchain from './ok-blockchain'
+import openmarkets from './openmarkets'
 import opensea from './opensea'
-import orangedao from './orange-dao'
 import optimista from './optimista'
+import orangedao from './orange-dao'
 import origin from './origin'
 import outpost from './outpost'
 import ovn from './ovn'
-import owensimonin from './owen-simonin'
+import notalking from './no-talking'
+import noia from './noia'
 import packymccormack from './packy-mccormack'
-import pakafund from './paka-fund'
-import panda from './panda'
+import paradigm from './paradigm'
 import parafi from './parafi'
 import parity from './parity'
-import openmarkets from './openmarkets'
-import olymp from './olymp'
+import parsec from './parsec'
+import partone from './part-one'
 import particlexyz from './particle-xyz'
 import patricioworthalter from './patricio-worthalter'
 import paulveradittakit from './paul-veradittakit'
 import pavelcherkashin from './pavel-cherkashin'
 import peer from './peer'
-import parsec from './parsec'
+import peoplefund from './peoplefund'
 import permanent from './permanent'
-import pnyx from './pnyx'
+import owensimonin from './owen-simonin'
 import polygon from './polygon'
-import paradigm from './paradigm'
+import pakafund from './paka-fund'
 import poolz from './poolz'
-import predictive from './predictive'
-import ppe from './ppe'
+import panda from './panda'
 import primal from './primal'
-import psquare from './psquare'
-import partone from './part-one'
+import predictive from './predictive'
+import _public from './public'
 import pulsar from './pulsar'
+import ppe from './ppe'
+import qiufanchen from './qiufan-chen'
 import r2 from './r2'
 import ramo from './ra-mo'
 import raptor from './raptor'
-import raymondwang from './raymond-wang'
 import recursive from './recursive'
+import raymondwang from './raymond-wang'
 import redlinedao from './redline-dao'
 import referent from './referent'
 import rheinest from './rheinest'
 import ribbit from './ribbit'
 import rickwagoner from './rick-wagoner'
-import roddenberry from './roddenberry'
 import rohitgupta from './rohit-gupta'
-import rre from './rre'
-import russellsiegelman from './russell-siegelman'
-import ryanli from './ryan-li'
+import roddenberry from './roddenberry'
+import pnyx from './pnyx'
+import psquare from './psquare'
 import ryanselkis from './ryan-selkis'
-import _public from './public'
-import qiufanchen from './qiufan-chen'
-import peoplefund from './peoplefund'
+import samaltman from './sam-altman'
+import samuelteller from './samuel-teller'
+import sanctor from './sanctor'
 import sandeepnailwal from './sandeep-nailwal'
 import sax from './sax'
 import sciencevest from './sciencevest'
-import script from './script'
+import rre from './rre'
 import scytale from './scytale'
 import semilshah from './semil-shah'
-import samaltman from './sam-altman'
 import seraphgroup from './seraph-group'
 import sergiomello from './sergio-mello'
 import sevensevensix from './seven-seven-six'
@@ -593,41 +592,42 @@ import sherpalo from './sherpalo'
 import shine from './shine'
 import shixingmao from './shixing-mao'
 import sierra from './sierra'
-import samuelteller from './samuel-teller'
-import simondixon from './simon-dixon'
-import sanctor from './sanctor'
-import sikka from './sikka'
+import signal from './signal'
+import script from './script'
+import ryanli from './ryan-li'
+import simonwajcenberg from './simon-wajcenberg'
+import smo from './smo'
 import solana from './solana'
-import sony from './sony'
+import russellsiegelman from './russell-siegelman'
 import southpark from './south-park'
 import southernequity from './southern-equity'
-import spaceshipdao from './spaceshipdao'
+import sony from './sony'
 import sparkland from './sparkland'
 import spc from './spc'
 import spicevc from './spice-vc'
 import spincrypto from './spincrypto'
 import stakefish from './stakefish'
-import smo from './smo'
+import sikka from './sikka'
 import stanforduniversity from './stanford-university'
 import stanikulechov from './stani-kulechov'
 import startupautobahn from './startup-autobahn'
-import signal from './signal'
-import simonwajcenberg from './simon-wajcenberg'
 import startx from './startx'
-import stefaanvervaet from './stefaan-vervaet'
-import stefanrust from './stefan-rust'
-import standardkepler from './standardkepler'
 import stateless from './stateless'
-import svangel from './sv-angel'
 import status from './status'
+import stefaanvervaet from './stefaan-vervaet'
+import spaceshipdao from './spaceshipdao'
+import streamr from './streamr'
+import standardkepler from './standardkepler'
+import svangel from './sv-angel'
+import simondixon from './simon-dixon'
 import tamarack from './tamarack'
 import tankstream from './tank-stream'
 import taylorfrigon from './taylor-frigon'
 import techsquarelabs from './techsquare-labs'
-import telefónica from './telefónica'
+import stefanrust from './stefan-rust'
 import terabyte from './terabyte'
 import thehartfordsteamboilerinspectionandinsurancecompany from './the-hartford-steam-boiler-inspection-and-insurance-company'
-import streamr from './streamr'
+import theia from './theia'
 import thirdprime from './third-prime'
 import thomasbailey from './thomas-bailey'
 import thomastrowbridge from './thomas-trowbridge'
@@ -635,84 +635,84 @@ import threshold from './threshold'
 import tianhe from './tian-he'
 import ticapital from './ticapital'
 import trammell from './trammell'
+import transmedia from './transmedia'
 import subversive from './subversive'
-import trcm from './trcm'
 import tablemanagement from './table-management'
 import trevormcfederies from './trevor-mcfederies'
-import theia from './theia'
+import telefónica from './telefónica'
 import tristanharris from './tristan-harris'
 import tuesday from './tuesday'
 import tylerreynolds from './tyler-reynolds'
 import ubisoft from './ubisoft'
-import uncorrelated from './uncorrelated'
-import transmedia from './transmedia'
+import trcm from './trcm'
+import unilayer from './unilayer'
 import univalues from './univalues'
 import universal from './universal'
 import uniwill from './uniwill'
 import upfront from './upfront'
 import utahgovernorsoffice from './utah-governors-office'
 import uush from './uush'
-import trevorkoverko from './trevor-koverko'
-import tribe from './tribe'
+import valhalla from './valhalla'
 import venturereality from './venture-reality'
 import venturelabs from './venturelabs'
 import versionone from './version-one'
-import villageglobal from './village-global'
-import unilayer from './unilayer'
+import tribe from './tribe'
+import trevorkoverko from './trevor-koverko'
+import uncorrelated from './uncorrelated'
 import vvvfund from './vvv-fund'
 import vysyn from './vysyn'
-import wagmi from './wagmi'
+import viola from './viola'
 import wakem from './wakem'
 import westlabs from './west-labs'
 import whitepaper from './white-paper'
 import whitesholding from './whitesholding'
 import willobrien from './will-obrien'
-import valhalla from './valhalla'
-import vinodanlingham from './vinodan-lingham'
-import winkrypto from './winkrypto'
+import wings from './wings'
+import winklevoss from './winklevoss'
+import villageglobal from './village-global'
 import wolfedge from './wolfedge'
 import wonder from './wonder'
 import workinglab from './working-lab'
 import workplay from './workplay'
-import viola from './viola'
-import xdl from './xdl'
 import wujilian from './wujilian'
+import vinodanlingham from './vinodan-lingham'
+import xdl from './xdl'
+import xinjunliang from './xinjun-liang'
 import yasar from './yasar'
 import ybb from './ybb'
-import yeomans from './yeomans'
 import yesdelft from './yes-delft'
-import yurimilner from './yuri-milner'
-import zachware from './zach-ware'
+import wagmi from './wagmi'
+import winkrypto from './winkrypto'
 import zerothai from './zeroth-ai'
-import wings from './wings'
-import winklevoss from './winklevoss'
-import zonff from './zonff'
+import zhiping from './zhiping'
+import zmt from './zmt'
+import yeomans from './yeomans'
 import _4seasons from './4-seasons'
 import acequia from './acequia'
 import ae from './ae'
-import xinjunliang from './xinjun-liang'
+import alexkahn from './alex-kahn'
 import alleycorp from './alleycorp'
 import ambush from './ambush'
-import zhiping from './zhiping'
+import amplify from './amplify'
 import argonautic from './argonautic'
 import ariaemiko from './aria-emiko'
 import ashajadejamotwani from './asha-jadeja-motwani'
 import bing from './bing'
 import blockarm from './blockarm'
-import bta from './bta'
+import zachware from './zach-ware'
 import calm from './calm'
 import chandrabhavanasi from './chandra-bhavanasi'
-import alexkahn from './alex-kahn'
-import compute from './compute'
-import zmt from './zmt'
-import amplify from './amplify'
+import yurimilner from './yuri-milner'
+import zonff from './zonff'
+import bta from './bta'
+import dilrajghumman from './dilraj-ghumman'
 import enablingfuture from './enabling-future'
 import everse from './everse'
 import fastercapital from './fastercapital'
-import futurelife from './futurelife'
 import generation from './generation'
+import futurelife from './futurelife'
 import habitat from './habitat'
-import departmentofdefense from './department-of-defense'
+import hansainvest from './hansainvest'
 import happiness from './happiness'
 import hashed from './hashed'
 import kardia from './kardia'
@@ -721,266 +721,266 @@ import lunex from './lunex'
 import michaelmaples from './michael-maples'
 import moonshots from './moonshots'
 import mulana from './mulana'
-import mysterium from './mysterium'
 import christianmeyers from './christian-meyers'
-import dilrajghumman from './dilraj-ghumman'
+import compute from './compute'
+import departmentofdefense from './department-of-defense'
 import pageone from './page-one'
-import qualcomm from './qualcomm'
+import nfttechnologies from './nft-technologies'
 import random from './random'
-import hansainvest from './hansainvest'
+import redbeard from './red-beard'
 import round13 from './round13'
+import mysterium from './mysterium'
 import rtp from './rtp'
 import samvitramadurgam from './samvit-ramadurgam'
-import nfttechnologies from './nft-technologies'
+import sl2 from './sl2'
 import slope from './slope'
 import sohailprasad from './sohail-prasad'
 import soma from './soma'
 import spaceandtime from './space-and-time'
 import squares from './squares'
 import streamingfast from './streamingfast'
-import synergis from './synergis'
 import tdefi from './tdefi'
-import o1ex from './o1ex'
-import titans from './titans'
-import redbeard from './red-beard'
-import venrock from './venrock'
-import viccrypto from './viccrypto'
-import sl2 from './sl2'
-import x from './x'
-import xyo from './xyo'
+import synergis from './synergis'
 import thefintechfund from './the-fintech-fund'
-import vy from './vy'
+import titans from './titans'
 import underscore from './underscore'
+import venrock from './venrock'
+import o1ex from './o1ex'
+import qualcomm from './qualcomm'
+import xyo from './xyo'
+import x from './x'
+import vy from './vy'
+import viccrypto from './viccrypto'
 
 export const investors = [
   digitalcurrencygroup,
   ngc,
   escapevelocity,
   protocollabs,
-  borderless,
   multicoin,
   outlier,
+  borderless,
   blockchaincapital,
-  coinfund,
+  genblock,
   bitscale,
   hash,
-  genblock,
+  coinfund,
   placeholder,
   sevenx,
-  snz,
   collabPluscurrency,
-  lattice,
+  snz,
   blockchange,
+  lattice,
   kr1,
   iosg,
   hackvc,
-  spark,
-  au21,
   bixin,
+  spark,
   master,
+  au21,
   coinbase,
   cmtdigital,
+  alphasigma,
   fjlabs,
   arkstream,
-  alphasigma,
   andreessenhorowitz,
-  blockvc,
   atopia,
-  deltahub,
+  blockvc,
   blockwall,
   dhvc,
   foundation,
+  deltahub,
   hardyaka,
   hyperchain,
   knickerbocker,
-  pantera,
   mapleblock,
-  moonwhale,
+  pantera,
   shima,
+  moonwhale,
+  slow,
   visary,
   _6thman,
   gd10,
-  slow,
   unionsquare,
-  polychain,
-  bigbrain,
   arweave,
+  bigbrain,
+  polychain,
   _1kx,
   agecrypto,
-  br,
-  algorand,
   alliance,
   alumni,
-  capturealpha,
-  cognitive,
+  algorand,
+  br,
   chorusone,
+  capturealpha,
   _continue,
-  cypher,
+  cognitive,
   digitalfinancegroup,
-  firstprinciples,
-  dwf,
   ellipti,
-  hashkey,
+  dwf,
+  cypher,
   infinite,
+  lotus,
+  hashkey,
+  firstprinciples,
+  maven11,
   metaplanet,
   moonrock,
-  maven11,
-  lotus,
   next,
-  rr2,
-  qwerty,
-  skywater,
-  tenzor,
-  stratostechnologies,
-  teaminresidence,
   notation,
+  qwerty,
+  rr2,
+  stratostechnologies,
+  skywater,
+  teaminresidence,
   tigerglobal,
   token,
+  tenzor,
   waterdrip,
   youbi,
   chapterone,
-  metasensedao,
   moonboots,
   nxgenxyz,
-  techstars,
-  samsungnext,
-  deltablockchain,
-  zeeprime,
+  metasensedao,
   warburgserres,
-  _3commas,
+  techstars,
+  deltablockchain,
+  samsungnext,
   _42fund,
   _6kstarter,
-  amirhaleem,
+  _3commas,
+  zeeprime,
   acapital,
-  bitrise,
+  amirhaleem,
   assembly,
-  blockchainfond,
   blackdragon,
   blue7,
-  chain,
+  blockchainfond,
+  bitrise,
   btx,
+  chain,
   chronos,
   chainlayer,
   cipholio,
-  clever,
-  cogitent,
-  collaborativefund,
   cluster,
+  cogitent,
+  clever,
+  collaborativefund,
+  consensuslab,
   compound,
   contango,
   cscupshot,
-  consensuslab,
-  deep,
   cspdao,
+  deep,
   deutschetelekom,
-  dots,
   digitalrenaissance,
+  dots,
+  edenblock,
   doublepeak,
   draft,
   eitdigital,
-  edenblock,
   etiennevantkruys,
   exnetwork,
-  fantail,
-  floem,
-  firstmark,
   framework,
+  firstmark,
+  floem,
+  fantail,
   fundamentallabs,
-  g1,
   georgeburke,
   gumicryptos,
+  g1,
   gsr,
+  haystack,
+  haitao,
   gv,
   incubaalpha,
-  haitao,
-  haystack,
   jaantallinn,
-  koi,
   jiudinggroup,
   jackherrick,
-  kosmos,
-  lemniscap,
+  koi,
   lbank,
-  liberty,
+  lemniscap,
+  kosmos,
   libertus,
-  meld,
+  liberty,
+  node,
   michaelsena,
   monday,
-  node,
+  meld,
   orcas,
-  phoenix,
   rajivgokal,
-  rarestone,
   re_public,
+  phoenix,
   sequoia,
-  sfermion,
+  rarestone,
   sky,
+  sfermion,
   signum,
   stakedvc,
   tally,
   tokenhunter,
   trgc,
   unanimous,
-  vinnylingham,
   vbc,
   woodstock,
+  vinnylingham,
   _18ventures,
-  avstar,
   blueyard,
+  avstar,
   bmw,
   capitalfactory,
   chainlink,
-  chinapolka,
   crowdcreate,
+  chinapolka,
+  extrawatts,
   distributedglobal,
   figment,
   flight,
-  extrawatts,
   foresight,
   formless,
-  lontra,
-  masknetwork,
   ftx,
+  masknetwork,
+  lontra,
   mint,
+  northisland,
+  northzone,
   plugandplay,
   reciprocal,
-  northzone,
-  northisland,
-  thelao,
   variantfund,
-  cvvc,
+  thelao,
   ycombinator,
-  dragonfly,
-  moonshot,
+  cvvc,
   fbg,
+  moonshot,
   yes,
+  dragonfly,
   globalblockchain,
   _100And100,
-  _7oclock,
   _42dao,
+  _7oclock,
   _75Andsunny,
   _7percent,
-  _8decimal,
-  adamjackson,
-  acornpacific,
-  adamnash,
   a195,
-  aeronbuchanan,
+  _8decimal,
+  acornpacific,
+  adamjackson,
+  adamnash,
   advancit,
   alameda,
+  aeronbuchanan,
   alanhoward,
   alchemy,
   alexcarrabre,
-  alexfelix,
   alexanderlange,
+  alexfelix,
   alexisberthoud,
-  alphabit,
   almora,
-  alphablock,
+  alphabit,
   alves,
   amdocs,
-  amhedherrera,
+  alphablock,
   amhfund,
+  amhedherrera,
   amino,
   amitkumar,
   anatolyyakovenko,
@@ -988,272 +988,272 @@ export const investors = [
   andromeda,
   angelone,
   animoca,
-  arrington,
   ankr,
+  arrington,
   ascension,
   ashpark,
+  ashbury,
   asteroid,
   aurenhoffman,
-  ashbury,
-  ausum,
-  autodesk,
-  automattic,
   austingreen,
+  ausum,
+  automattic,
   avalabs,
+  autodesk,
   aveslair,
   avg,
   axone,
   bain,
   balajisrinivasan,
   basics,
-  batshitcrazy,
   benrubin,
+  batshitcrazy,
   benjamincrane,
   benjaminjacobs,
-  beringwaters,
   bessemer,
-  bitangels,
-  binance,
+  beringwaters,
   betoken,
+  binance,
+  bitget,
+  bitangels,
   bitcoin,
   bitfwd,
-  bitget,
-  blackgreen,
   bitsxbites,
+  blackgreen,
   blockis,
-  block54,
   block0,
+  block54,
   blockchers,
-  blockchaincom,
   blockhead,
-  blockstar,
+  blockchaincom,
   boomstartup,
-  bootstraplabs,
+  blockstar,
   boostvc,
+  bootstraplabs,
   boxgroup,
-  bpifrance,
-  briantotty,
-  brilliance,
   broadlight,
+  brilliance,
+  briantotty,
+  bpifrance,
   builder,
   bulletlabs,
+  cambridgeassociates,
   burevalley,
   caballeros,
-  cambridgeassociates,
-  canonicalcrypto,
   cardano,
-  carthona,
+  canonicalcrypto,
   ceciliali,
-  cgv,
+  carthona,
   chadd,
   chainfir,
+  cgv,
+  charge,
   chainfund,
   charliesonghurst,
-  charge,
   chateau,
   chrismccann,
   christopherheymann,
-  coindcx,
   cmcc,
   coinix,
-  color,
-  collider,
+  coindcx,
   coinshares,
+  collider,
   coloplnext,
   consensysmesh,
   constellation,
+  color,
   corner,
-  counterview,
   craft,
   craigburel,
+  counterview,
   creativeartists,
-  crtlabs,
   cryptobazar,
-  cyberight,
   cryptodiscover,
   cryptodormfund,
-  davidmorin,
-  dapperlabs,
-  davidphelps,
-  dawn,
+  crtlabs,
   cylon,
-  dcm,
+  dapperlabs,
+  cyberight,
+  davidmorin,
+  dawn,
+  davidphelps,
   davidrogier,
+  dcm,
   deanbartosh,
-  digitalstrategies,
   delphidigital,
   dg,
+  digitalstrategies,
   dimastarodubcev,
   dish,
   disney,
   dispersion,
   divergence,
-  dlabsosv,
   dltx,
+  dlabsosv,
   dokia,
   drops,
-  druid,
   dst,
-  du,
+  druid,
   dtc,
+  du,
   duckdao,
   dylanfield,
-  dynamic,
   egirl,
   elieseidman,
-  elves,
+  dynamic,
   emergent,
+  elves,
   emurgo,
   eniac,
-  eterna,
   entrepreneurfirst,
-  faculty,
   europeanunion,
+  eterna,
   fair2lab,
-  ferrum,
+  faculty,
   finality,
-  fintechcollective,
+  ferrum,
   firebird,
   fireblocks,
-  firststar,
   firestartr,
+  fintechcollective,
+  firststar,
   firstminute,
   fishdao,
+  flyingpoint,
   floatingpoint,
   fisher8,
-  flyingpoint,
-  franceshaugen,
   folius,
   forbole,
+  franceshaugen,
   fredehrsam,
   frogdesign,
-  futureperfect,
   fundersclub,
   gains,
-  gbv,
   galaxydigital,
+  futureperfect,
+  gda,
   garyvaynerchuk,
+  gbv,
   gcvr,
   georgegilder,
-  gda,
-  gfr,
   gfs,
+  gfr,
   goodyear,
   graycell,
   gree,
   gravity,
   greenpine,
-  greenfield,
   gregkidd,
-  greycroft,
+  greenfield,
   gregoryrocco,
+  greycroft,
   gva,
-  hFarm,
   hackerlink,
-  harrisonmetal,
-  hcl,
   haivision,
+  harrisonmetal,
   hbo,
+  hcl,
   helix,
   hemisphere,
   heuristic,
-  higgsboson,
+  hFarm,
   hidden,
-  homebrew,
   hillrise,
+  higgsboson,
+  homebrew,
   hone,
   hortifruti,
   hyperithm,
   hypersphere,
-  ibcblockchain,
   ice,
-  inblockchain,
+  ibcblockchain,
   id4,
+  inblockchain,
   inclusion,
   indrorobotics,
-  infinitylabs,
-  jlab,
-  iobc,
-  insignius,
   inflection,
-  jafermakki,
+  insignius,
+  infinitylabs,
+  iobc,
+  jlab,
   jakechervinsky,
-  jakedavis,
+  jafermakki,
   jam,
+  jakedavis,
   jamesfayal,
   jamesparillo,
   jaronwaldman,
   jd,
-  jeco,
   jeffreyschox,
-  johnmack,
+  jeco,
   jinlin,
+  johnmack,
   johnnysteindorff,
   jonathanhung,
   jonathanlevine,
   joshhannah,
+  joshuagoldbard,
   jsquare,
   k24,
-  joshuagoldbard,
   kaiserpermanente,
   kamalravikanth,
-  katyperry,
-  kenetic,
-  kangaroo,
   kernel,
-  kgn,
+  kenetic,
+  katyperry,
+  kangaroo,
   kevinmoore,
+  kgn,
   khosla,
   kintsugi,
   kiranbhatraju,
   kns,
   kleinerperkins,
   koji,
-  lasseclausen,
   krenex,
+  lasseclausen,
   lancer,
   launchcode,
   laurenfeld,
   leap,
-  ledgerprime,
   lererhippeau,
   libertyglobal,
+  ledgerprime,
   linkvc,
   litani,
   locus,
-  longhash,
   lombardstreet,
-  longling,
   luclevesque,
-  lvt,
   luigicongedo,
-  m12,
+  longling,
+  longhash,
+  lvt,
   lyvc,
-  m31,
+  m12,
   magnetic,
+  m31,
   marcbenioff,
+  marcbhargava,
   marcbrands,
   marcweinstein,
-  marcbhargava,
   marindigital,
   mariusbarnett,
   markjosephson,
-  markwilliamson,
-  masonborda,
   markranford,
-  mattheiman,
+  masonborda,
+  markwilliamson,
   matthewdesouza,
-  matthewslater,
+  mattheiman,
+  matthewmckibbin,
   matthewrutler,
   maxwebster,
-  mechanism,
+  matthewslater,
   mayfield,
-  matthewmckibbin,
+  mechanism,
   meguminakamura,
   meltemdemirors,
+  metaone,
   mempool,
   metacartel,
-  metaone,
   metastable,
   michaelcena,
   mindfulness,
@@ -1262,84 +1262,83 @@ export const investors = [
   mrtnz,
   munichre,
   n7,
-  nautilus,
   narwhal,
+  nautilus,
   navalravikant,
   nebari,
-  ngp,
   nfventures,
+  ngp,
   nicholashammerschlag,
   nirvana,
   nothing,
-  notion,
+  noahjessop,
   nzvc,
+  notion,
+  oddgems,
   occamfi,
   odine,
-  notalking,
-  oddgems,
-  noia,
+  okblockchain,
+  olymp,
   onblock,
-  noahjessop,
   oneblock,
   onega,
-  okblockchain,
+  openmarkets,
   opensea,
-  orangedao,
   optimista,
+  orangedao,
   origin,
   outpost,
   ovn,
-  owensimonin,
+  notalking,
+  noia,
   packymccormack,
-  pakafund,
-  panda,
+  paradigm,
   parafi,
   parity,
-  openmarkets,
-  olymp,
+  parsec,
+  partone,
   particlexyz,
   patricioworthalter,
   paulveradittakit,
   pavelcherkashin,
   peer,
-  parsec,
+  peoplefund,
   permanent,
-  pnyx,
+  owensimonin,
   polygon,
-  paradigm,
+  pakafund,
   poolz,
-  predictive,
-  ppe,
+  panda,
   primal,
-  psquare,
-  partone,
+  predictive,
+  _public,
   pulsar,
+  ppe,
+  qiufanchen,
   r2,
   ramo,
   raptor,
-  raymondwang,
   recursive,
+  raymondwang,
   redlinedao,
   referent,
   rheinest,
   ribbit,
   rickwagoner,
-  roddenberry,
   rohitgupta,
-  rre,
-  russellsiegelman,
-  ryanli,
+  roddenberry,
+  pnyx,
+  psquare,
   ryanselkis,
-  _public,
-  qiufanchen,
-  peoplefund,
+  samaltman,
+  samuelteller,
+  sanctor,
   sandeepnailwal,
   sax,
   sciencevest,
-  script,
+  rre,
   scytale,
   semilshah,
-  samaltman,
   seraphgroup,
   sergiomello,
   sevensevensix,
@@ -1348,41 +1347,42 @@ export const investors = [
   shine,
   shixingmao,
   sierra,
-  samuelteller,
-  simondixon,
-  sanctor,
-  sikka,
+  signal,
+  script,
+  ryanli,
+  simonwajcenberg,
+  smo,
   solana,
-  sony,
+  russellsiegelman,
   southpark,
   southernequity,
-  spaceshipdao,
+  sony,
   sparkland,
   spc,
   spicevc,
   spincrypto,
   stakefish,
-  smo,
+  sikka,
   stanforduniversity,
   stanikulechov,
   startupautobahn,
-  signal,
-  simonwajcenberg,
   startx,
-  stefaanvervaet,
-  stefanrust,
-  standardkepler,
   stateless,
-  svangel,
   status,
+  stefaanvervaet,
+  spaceshipdao,
+  streamr,
+  standardkepler,
+  svangel,
+  simondixon,
   tamarack,
   tankstream,
   taylorfrigon,
   techsquarelabs,
-  telefónica,
+  stefanrust,
   terabyte,
   thehartfordsteamboilerinspectionandinsurancecompany,
-  streamr,
+  theia,
   thirdprime,
   thomasbailey,
   thomastrowbridge,
@@ -1390,84 +1390,84 @@ export const investors = [
   tianhe,
   ticapital,
   trammell,
+  transmedia,
   subversive,
-  trcm,
   tablemanagement,
   trevormcfederies,
-  theia,
+  telefónica,
   tristanharris,
   tuesday,
   tylerreynolds,
   ubisoft,
-  uncorrelated,
-  transmedia,
+  trcm,
+  unilayer,
   univalues,
   universal,
   uniwill,
   upfront,
   utahgovernorsoffice,
   uush,
-  trevorkoverko,
-  tribe,
+  valhalla,
   venturereality,
   venturelabs,
   versionone,
-  villageglobal,
-  unilayer,
+  tribe,
+  trevorkoverko,
+  uncorrelated,
   vvvfund,
   vysyn,
-  wagmi,
+  viola,
   wakem,
   westlabs,
   whitepaper,
   whitesholding,
   willobrien,
-  valhalla,
-  vinodanlingham,
-  winkrypto,
+  wings,
+  winklevoss,
+  villageglobal,
   wolfedge,
   wonder,
   workinglab,
   workplay,
-  viola,
-  xdl,
   wujilian,
+  vinodanlingham,
+  xdl,
+  xinjunliang,
   yasar,
   ybb,
-  yeomans,
   yesdelft,
-  yurimilner,
-  zachware,
+  wagmi,
+  winkrypto,
   zerothai,
-  wings,
-  winklevoss,
-  zonff,
+  zhiping,
+  zmt,
+  yeomans,
   _4seasons,
   acequia,
   ae,
-  xinjunliang,
+  alexkahn,
   alleycorp,
   ambush,
-  zhiping,
+  amplify,
   argonautic,
   ariaemiko,
   ashajadejamotwani,
   bing,
   blockarm,
-  bta,
+  zachware,
   calm,
   chandrabhavanasi,
-  alexkahn,
-  compute,
-  zmt,
-  amplify,
+  yurimilner,
+  zonff,
+  bta,
+  dilrajghumman,
   enablingfuture,
   everse,
   fastercapital,
-  futurelife,
   generation,
+  futurelife,
   habitat,
-  departmentofdefense,
+  hansainvest,
   happiness,
   hashed,
   kardia,
@@ -1476,36 +1476,36 @@ export const investors = [
   michaelmaples,
   moonshots,
   mulana,
-  mysterium,
   christianmeyers,
-  dilrajghumman,
+  compute,
+  departmentofdefense,
   pageone,
-  qualcomm,
+  nfttechnologies,
   random,
-  hansainvest,
+  redbeard,
   round13,
+  mysterium,
   rtp,
   samvitramadurgam,
-  nfttechnologies,
+  sl2,
   slope,
   sohailprasad,
   soma,
   spaceandtime,
   squares,
   streamingfast,
-  synergis,
   tdefi,
-  o1ex,
-  titans,
-  redbeard,
-  venrock,
-  viccrypto,
-  sl2,
-  x,
-  xyo,
+  synergis,
   thefintechfund,
-  vy,
+  titans,
   underscore,
+  venrock,
+  o1ex,
+  qualcomm,
+  xyo,
+  x,
+  vy,
+  viccrypto,
 ]
 
 export { AdapterInvestor } from './types'
