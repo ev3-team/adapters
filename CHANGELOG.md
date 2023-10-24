@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.2.1
+
+### Patch Changes
+
+- add project braintrust
+
 ## 0.2.0
 
 ### Minor Changes
