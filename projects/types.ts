@@ -1,4 +1,11 @@
-export type AdapterProjectCategory = 'WIRELESS' | 'SENSORS' | 'ENERGY' | 'COMPUTE' | 'AI' | 'OTHER'
+export type AdapterProjectCategory =
+  | 'WIRELESS'
+  | 'SENSORS'
+  | 'ENERGY'
+  | 'COMPUTE'
+  | 'AI'
+  | 'OTHER'
+  | 'NOT_DEPIN'
 
 export type AdapterProjectChain =
   | 'ETHEREUM'
@@ -16,6 +23,10 @@ export type AdapterProjectChain =
   | 'CARDANO'
   | 'BITCOIN'
   | 'GNOSIS'
+  | 'PEAQ'
+  | 'METIS'
+  | 'BNB_CHAIN'
+  | 'FILECOIN'
 
 export type AdapterProjectToken =
   | 'CLORE'
@@ -116,12 +127,12 @@ export type AdapterProjectToken =
 
 export type AdapterProject = {
   id: string
-  cmcId: number | null
-  coingeckoId: string | null
   category: AdapterProjectCategory
   chain: AdapterProjectChain | null
-  name: string
-  token: AdapterProjectToken | null
+  cmcId: number | null
+  coingeckoId: string | null
   description: string | null
   investors: string[]
+  name: string
+  token: AdapterProjectToken | null
 }
