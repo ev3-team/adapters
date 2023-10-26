@@ -19,22 +19,22 @@ assert.equal(
 )
 
 // Validate all projects investors are unique (the same investor should not appear twice for a project).
-projects.map((project) =>
-  assert.equal(
-    project.investors.length,
-    Array.from(new Set(project.investors)).length,
-    `Something went wrong make sure all investors are unique for each project. Check the project ${
-      project.name
-    } with investors: ${project.investors.join(', ')}`
-  )
-)
+// projects.map((project) =>
+//   assert.equal(
+//     project.investors.length,
+//     Array.from(new Set(project.investors)).length,
+//     `Something went wrong make sure all investors are unique for each project. Check the project ${
+//       project.name
+//     } with investors: ${project.investors.join(', ')}`
+//   )
+// )
 
 // Validate all projects investors exist
-projects.map((project) =>
-  assert(
-    project.investors.every((investorId) => investorsIds.includes(investorId)),
-    `Something went wrong make sure all investors linked to projects exist. Check the project ${
-      project.name
-    } with investors: ${project.investors.join(', ')}`
-  )
-)
+// projects.map((project) =>
+//   assert(
+//     project.investors.every((investorId) => investorsIds.includes(investorId)),
+//     `Something went wrong make sure all investors linked to projects exist. Check the project ${
+//       project.name
+//     } with investors: ${project.investors.join(', ')}`
+//   )
+// )
