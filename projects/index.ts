@@ -129,6 +129,7 @@ import nodleWireless from './nodle'
 import natixSensors from './natix'
 import altheaWireless from './althea'
 import cloreCompute from './clore'
+import braintrustOther from './braintrust'
 
 export const projects = [
   polybaseCompute,
@@ -262,6 +263,7 @@ export const projects = [
   natixSensors,
   altheaWireless,
   cloreCompute,
+  braintrustOther,
 ]
 
 export { AdapterProject } from './types'

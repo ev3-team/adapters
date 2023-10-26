@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.2.2
+
+### Patch Changes
+
+- export braintrust
+
 ## 0.2.1
 
 ### Patch Changes
