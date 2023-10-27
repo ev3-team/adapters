@@ -7,8 +7,7 @@ export default {
   token: 'HNT',
   coingeckoId: 'helium',
   id: '5bm99m',
-  cmcId: 5665,
-  description:
-    "Helium is the People's wireless network with nearly 1 million LoRa, 5G and WiFi hotspots globally.",
+  cmcId: null,
+  description: 'Helium is a decentralized network of wireless networks.',
   investors: [],
 } satisfies AdapterProject

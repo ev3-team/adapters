@@ -7,7 +7,7 @@ export default {
   token: 'NODL',
   coingeckoId: 'nodle-network',
   id: 'znawjs',
-  cmcId: 6837,
+  cmcId: null,
   description:
     'Nodle is a smartphone-powered decentralized data network and payment infrastructure for IoT.',
   investors: [

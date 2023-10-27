@@ -7,7 +7,7 @@ export default {
   token: 'WMT',
   coingeckoId: 'world-mobile-token',
   id: 'fo1iua',
-  cmcId: 13769,
+  cmcId: null,
   description: 'World Mobile is a decentralized mobile network operating globally.',
   investors: ['i98114', '5252r4', '997bzs', 'o7axgq'],
 } satisfies AdapterProject

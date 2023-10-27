@@ -1,13 +1,13 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'HiveMapper',
+  name: 'Hivemapper',
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'HONEY',
   coingeckoId: 'hivemapper',
   id: 'o1qnxa',
-  cmcId: 22850,
+  cmcId: null,
   description: 'Hivemapper is a decentralized network forstreet-level imaging & mapping.',
   investors: [
     '2g0699',

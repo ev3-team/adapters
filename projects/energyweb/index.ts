@@ -2,12 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EnergyWeb',
-  chain: 'ETHEREUM',
+  chain: 'NATIVE',
   category: 'ENERGY',
-  token: 'EWT',
-  coingeckoId: 'energy-web-token',
+  token: null,
+  coingeckoId: null,
   id: 'y5ondj',
-  cmcId: 5268,
+  cmcId: null,
   description:
     'Energy Web technology is powering decarbonization solutions in dozens of countries.',
   investors: [],

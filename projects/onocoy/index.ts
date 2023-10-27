@@ -4,7 +4,7 @@ export default {
   name: 'Onocoy',
   chain: 'SOLANA',
   category: 'SENSORS',
-  token: 'BONO',
+  token: 'ONO',
   coingeckoId: null,
   id: 'n77nem',
   cmcId: null,

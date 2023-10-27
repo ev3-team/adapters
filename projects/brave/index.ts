@@ -7,7 +7,8 @@ export default {
   token: 'BAT',
   coingeckoId: 'basic-attention-token',
   id: 'v2ax35',
-  cmcId: 1697,
-  description: 'Brave is a fast, private, secure web browser.',
+  cmcId: null,
+  description:
+    'The Brave browser is a fast, private and secure web browser for PC, Mac and mobile.',
   investors: [],
 } satisfies AdapterProject

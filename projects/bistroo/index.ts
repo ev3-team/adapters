@@ -3,11 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Bistroo',
   chain: 'ETHEREUM',
-  category: 'SENSORS',
+  category: 'OTHER',
   token: 'BIST',
   coingeckoId: 'bistroo',
   id: 'qpkhj7',
-  cmcId: 9889,
+  cmcId: null,
   description: 'Bistroo is a decentralized marketplace for food & beverage delivery.',
   investors: [],
 } satisfies AdapterProject

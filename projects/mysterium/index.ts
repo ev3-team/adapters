@@ -2,12 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mysterium',
-  chain: 'POLYGON',
-  category: 'COMPUTE',
+  chain: null,
+  category: 'WIRELESS',
   token: 'MYST',
-  coingeckoId: 'mysterium',
+  coingeckoId: null,
   id: '8ci5ud',
-  cmcId: 1721,
+  cmcId: null,
   description: 'Mysterium is a decentralized wireless network.',
   investors: ['ujw2s3'],
 } satisfies AdapterProject

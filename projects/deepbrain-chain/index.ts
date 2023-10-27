@@ -1,13 +1,13 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DeepBrain',
+  name: 'DeepBrain Chain',
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: 'DBC',
   coingeckoId: null,
   id: 'c1de2i',
-  cmcId: 2316,
+  cmcId: null,
   description:
     'DeepBrain distributed high-performance computing network for AI & Metaverse use cases.',
   investors: [],

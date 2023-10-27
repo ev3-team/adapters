@@ -3,13 +3,13 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Gensyn',
   chain: null,
-  category: 'COMPUTE',
+  category: 'AI',
   token: null,
   coingeckoId: null,
   id: 'sr3cg5',
   cmcId: null,
   description:
-    'Gensyn is a machine learning compute protocol uniting all of the world’s compute into a global supercluster.',
+    'Gensyn is a layer-1 trustless protocol for deep learning computation that rewards supply-side participants for pledging compute time to the network and performing ML tasks.',
   investors: [
     'ti312b',
     'szfiug',

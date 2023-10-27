@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'WeatherFlow',
+  name: 'Weatherflow',
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,

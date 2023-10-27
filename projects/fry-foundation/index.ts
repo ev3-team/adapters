@@ -7,7 +7,7 @@ export default {
   token: 'FRY',
   coingeckoId: 'fryscrypto',
   id: 'jgd2lw',
-  cmcId: 24874,
+  cmcId: null,
   description: 'Fry is a decentralized aggregator of decentralized networks.',
   investors: [],
 } satisfies AdapterProject

@@ -7,7 +7,7 @@ export default {
   token: 'DATA',
   coingeckoId: 'streamr',
   id: 'o1pv7k',
-  cmcId: 2143,
+  cmcId: null,
   description:
     'Streamr is a decentralised protocol for data pipelines, network analytics and instant messaging.',
   investors: ['73kuet', 'cm89up'],

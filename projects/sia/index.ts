@@ -2,12 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sia',
-  chain: null,
+  chain: 'NATIVE',
   category: 'COMPUTE',
-  token: 'SIA',
+  token: 'SC',
   coingeckoId: 'siacoin',
   id: 'esjdj0',
-  cmcId: 1042,
+  cmcId: null,
   description:
     'Sia is a decentralized cloud storage network combining PoW with a contract-based storage model.',
   investors: [

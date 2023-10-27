@@ -2,13 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fleek',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: 'eu4u3i',
   cmcId: null,
-  description: 'Fleek is a decentralized edge network initially focused on content delivery.',
+  description:
+    'Fleek Network is an open-source edge computing platform for accelerating the development and execution of decentralized web services.',
   investors: [
     '5yy6cw',
     'ti312b',

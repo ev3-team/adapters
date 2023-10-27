@@ -7,8 +7,8 @@ export default {
   token: 'POKT',
   coingeckoId: 'pocket-network',
   id: 'wreq2k',
-  cmcId: 11823,
+  cmcId: null,
   description:
-    'Pocket empowers developers with reliable, performant, and cost effective RPC access to the open internet.',
+    'Pocket empowers developers with reliable & performant RPC access to the open internet.',
   investors: ['jitv3q', '99hm5u', 'j1rzkc'],
 } satisfies AdapterProject

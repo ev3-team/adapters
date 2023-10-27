@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Drop',
+  name: 'Drop Wireless',
   chain: 'IOTEX',
   category: 'WIRELESS',
   token: 'DWIN',

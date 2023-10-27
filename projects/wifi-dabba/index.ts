@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Wifi Dabba',
+  name: 'WiFi Dabba',
   chain: null,
   category: 'WIRELESS',
   token: null,
@@ -9,7 +9,7 @@ export default {
   id: '5nxhtv',
   cmcId: null,
   description:
-    'WiFi Dabba has deployed thousands of hotspots across India, serving users with super fast, super cheap internet.',
+    'WiFi Dabba is a pioneer in building and operating low cost public wifi networks in India.',
   investors: [
     'wdtkj1',
     'zks1ub',

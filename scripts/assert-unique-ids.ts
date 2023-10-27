@@ -1,6 +1,15 @@
 import assert from 'node:assert'
 import { projects } from '../projects'
 import { investors } from '../investors'
+import { readdirSync, readFileSync } from 'node:fs'
+
+// Validate all projects
+readdirSync(`./projects`)
+  .filter((dir) => dir !== 'index.ts' && dir !== 'types.ts')
+  .forEach((d) => {
+    const data = readFileSync('./projects/index.ts', 'utf-8')
+    assert(data.includes(d), `Expected project ${d} to be exported by list at projects/index.ts.`)
+  })
 
 // Validate all projects have a unique id
 assert.equal(

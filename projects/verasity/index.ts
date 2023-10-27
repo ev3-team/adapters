@@ -7,7 +7,7 @@ export default {
   token: 'VRA',
   coingeckoId: 'verasity',
   id: '20y2yy',
-  cmcId: 3816,
+  cmcId: null,
   description: 'Verasity is an decentralized ecosystem of digital advertisers and merchants.',
   investors: ['qxuz9y', 'o5kpgb', 'ud2hku', '22s077', 'gr9fsg', '6hvvbi', 's2idi6'],
 } satisfies AdapterProject

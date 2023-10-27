@@ -3,11 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hypercycle',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'AI',
   token: 'HYPC',
-  coingeckoId: null,
+  coingeckoId: 'hypercycle',
   id: '085eer',
-  cmcId: 24698,
-  description: 'Hypercycle is building infrastructure for AIs to interact onchain.',
+  cmcId: null,
+  description:
+    'HyperCycle is a blockchain architecture designed for high-speed and inexpensive on-chain execution of AI microservices.',
   investors: [],
 } satisfies AdapterProject

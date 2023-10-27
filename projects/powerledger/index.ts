@@ -1,13 +1,14 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'PowerLedger',
-  chain: 'SOLANA',
+  name: 'Powerledger',
+  chain: null,
   category: 'ENERGY',
   token: 'POWR',
-  coingeckoId: 'power-ledger',
+  coingeckoId: null,
   id: '1bpo2w',
-  cmcId: 2132,
-  description: 'PowerLedger is a blockchain-based energy company.',
+  cmcId: null,
+  description:
+    'Powerledger develops software solutions for the tracking, tracing and trading of renewable energy.',
   investors: [],
 } satisfies AdapterProject
