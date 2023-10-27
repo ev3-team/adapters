@@ -68,7 +68,7 @@ git checkout -b project/<project-name>
 7. Generate new uniqueID and paste in into the new project file:
 
 ```sh
-pnpm generate:id
+pnpm generate:project-id
 ```
 
 7. Then commit and push to your forked repository:
