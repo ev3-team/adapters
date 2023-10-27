@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.0
+
+### Minor Changes
+
+- projects connector & batch of projects
+
 ## 0.2.2
 
 ### Patch Changes
