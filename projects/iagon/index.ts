@@ -7,7 +7,7 @@ export default {
   token: 'IAG',
   coingeckoId: null,
   id: 'omgud6',
-  cmcId: null,
   description: 'Iagon is a decentralized cloud network built on Cardano.',
   investors: [],
+  cmcId: 11078,
 } satisfies AdapterProject

@@ -7,7 +7,7 @@ export default {
   token: 'BIST',
   coingeckoId: 'bistroo',
   id: 'qpkhj7',
-  cmcId: null,
   description: 'Bistroo is a decentralized marketplace for food & beverage delivery.',
   investors: [],
+  cmcId: 9889,
 } satisfies AdapterProject

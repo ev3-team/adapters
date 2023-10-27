@@ -7,7 +7,6 @@ export default {
   token: 'HONEY',
   coingeckoId: 'hivemapper',
   id: 'o1qnxa',
-  cmcId: null,
   description: 'Hivemapper is a decentralized network forstreet-level imaging & mapping.',
   investors: [
     '2g0699',
@@ -37,4 +36,5 @@ export default {
     'tlb60n',
     'x9qw9x',
   ],
+  cmcId: 22850,
 } satisfies AdapterProject

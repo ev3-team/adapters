@@ -7,7 +7,6 @@ export default {
   token: 'BTRST',
   coingeckoId: null,
   id: '8mk3xj',
-  cmcId: null,
   description:
     "Braintrust is the first decentralized Web3 talent network that connects tech freelancers with the world's leading brands",
   investors: [
@@ -25,4 +24,5 @@ export default {
     'ybmlzh',
     'mq1e3y',
   ],
+  cmcId: 11584,
 } satisfies AdapterProject

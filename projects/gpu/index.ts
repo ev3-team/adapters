@@ -7,7 +7,7 @@ export default {
   token: 'GPU',
   coingeckoId: null,
   id: 'jf4ml9',
-  cmcId: null,
   description: 'GPU.net is a decentralized GPU network for training AI models.',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

@@ -7,7 +7,6 @@ export default {
   token: 'AR',
   coingeckoId: 'arweave',
   id: '0vks67',
-  cmcId: null,
   description:
     'Arweave is Bitcoin for data: a permanent and decentralized web inside an open ledger.',
   investors: [
@@ -58,4 +57,5 @@ export default {
     '9kybya',
     'myul3m',
   ],
+  cmcId: 5632,
 } satisfies AdapterProject

@@ -7,7 +7,6 @@ export default {
   token: 'ROSO',
   coingeckoId: null,
   id: '36f3to',
-  cmcId: null,
   description: 'Online Casino and Gaming platform',
   investors: [
     'ti312b',
@@ -55,4 +54,5 @@ export default {
     '03zdwj',
     'dbr5ig',
   ],
+  cmcId: 15784,
 } satisfies AdapterProject

@@ -4,6 +4,7 @@ import path from 'node:path'
 import { AdapterProject } from '../projects'
 import fs from 'node:fs/promises'
 import { AdapterProjectCategory, AdapterProjectChain, AdapterProjectToken } from '../projects/types'
+import { getProjectCmcIdBySlug } from './get-project-cmc-id'
 
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
@@ -54,9 +55,11 @@ const projectToVarName = (project: AdapterProject) =>
     .replace(/^[1-9]/, (g) => `_${g}`)
     .concat(`${project.category[0]}${project.category.slice(1, project.category.length)}`)
 
+type ParsedProject = Omit<AdapterProject, 'cmcId'> & { cmcSlug: string }
+
 async function run() {
   let index = 0
-  let parsedProjects: AdapterProject[] = []
+  let parsedProjects: ParsedProject[] = []
   const projectsInvestors = await getProjectsInvestors()
 
   createReadStream(path.resolve(__dirname, 'data/DePIN-Projects.csv'))
@@ -70,14 +73,14 @@ async function run() {
       // ignore projects without id
       if (!projectId) return
 
-      const project: AdapterProject = {
+      const project: ParsedProject = {
         name: row[0],
         chain: !!row[3] ? (row[3] as AdapterProjectChain) : null,
         category: row[2] as AdapterProjectCategory,
         token: !!row[6] ? (row[6] as AdapterProjectToken) : null,
         coingeckoId: !!row[5] ? row[5] : null,
         id: projectId,
-        cmcId: !!row[4] ? +row[4] : null,
+        cmcSlug: row[4],
         description: row[7],
         investors: projectsInvestors.get(projectId) ?? [],
       }
@@ -86,8 +89,18 @@ async function run() {
     })
     .on('end', async () => {
       const storedProjects: AdapterProject[] = []
+      const cmcIds = await getProjectCmcIdBySlug(
+        parsedProjects.map((pp) => pp.cmcSlug).filter(Boolean) as string[]
+      )
+
+      if (!cmcIds) {
+        console.error('error getting cmc ids')
+        return
+      }
       await Promise.all(
-        parsedProjects.map(async (project) => {
+        parsedProjects.map(async (pp) => {
+          const { cmcSlug, ...p } = pp
+          const project: AdapterProject = { ...p, cmcId: cmcIds.get(cmcSlug) ?? null }
           try {
             const projectFileName = projectToFileName(project)
             if (!existsSync(`./projects/${projectFileName}`)) {

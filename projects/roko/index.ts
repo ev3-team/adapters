@@ -7,8 +7,8 @@ export default {
   token: 'ROKO',
   coingeckoId: 'roko-network',
   id: 'kz7n8o',
-  cmcId: null,
   description:
     'Roko is a deep-tech R&D protocol bootstrapping a self-organizing human-machine network.',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

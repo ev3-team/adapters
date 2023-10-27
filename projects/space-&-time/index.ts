@@ -7,7 +7,6 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'heeyow',
-  cmcId: null,
   description:
     'Space and Time is a decentralized replacement for blockchain indexing, database, data warehouse, and API servers.',
   investors: [
@@ -37,4 +36,5 @@ export default {
     'q3nv50',
     '8agdnp',
   ],
+  cmcId: null,
 } satisfies AdapterProject

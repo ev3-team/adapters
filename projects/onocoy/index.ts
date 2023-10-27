@@ -7,8 +7,8 @@ export default {
   token: 'ONO',
   coingeckoId: null,
   id: 'n77nem',
-  cmcId: null,
   description:
     'Onocoy is a decentralized GNSS reference station network enabling high-precisioning geopositioning.',
   investors: ['k9wwxc'],
+  cmcId: null,
 } satisfies AdapterProject

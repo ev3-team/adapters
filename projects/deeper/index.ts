@@ -7,7 +7,6 @@ export default {
   token: 'DPR',
   coingeckoId: 'deeper-network',
   id: '3s1vpm',
-  cmcId: null,
   description: 'Deeper is a decentralized VPN and privacy network.',
   investors: [
     'pu3yyr',
@@ -26,4 +25,5 @@ export default {
     'rk3esc',
     'jdil01',
   ],
+  cmcId: 8894,
 } satisfies AdapterProject

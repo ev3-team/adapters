@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'flp6ko',
-  cmcId: null,
   description:
     'AscensionWx enables users to earn extra Helium HNT tokens with WeatherMiner rewards.',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

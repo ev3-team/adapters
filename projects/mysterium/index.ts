@@ -7,7 +7,7 @@ export default {
   token: 'MYST',
   coingeckoId: null,
   id: '8ci5ud',
-  cmcId: null,
   description: 'Mysterium is a decentralized wireless network.',
   investors: ['ujw2s3'],
+  cmcId: 1721,
 } satisfies AdapterProject

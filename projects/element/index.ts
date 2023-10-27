@@ -7,7 +7,6 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'yhpj92',
-  cmcId: null,
   description: 'Element is a stealth DePIN project.',
   investors: [
     'ti312b',
@@ -22,4 +21,5 @@ export default {
     'evspi9',
     'b7fuzw',
   ],
+  cmcId: 525,
 } satisfies AdapterProject

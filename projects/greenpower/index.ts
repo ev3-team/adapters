@@ -7,7 +7,7 @@ export default {
   token: 'GPTT',
   coingeckoId: null,
   id: '6t7pf0',
-  cmcId: null,
   description: 'GreenPower is a decentralized network of global sustainability activists.',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

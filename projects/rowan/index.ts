@@ -7,7 +7,7 @@ export default {
   token: 'RWN',
   coingeckoId: 'rowan-coin',
   id: '5rnwg3',
-  cmcId: null,
   description: 'Rowan is a proof-of-generation zero-carbon blockchain.',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

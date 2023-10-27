@@ -7,7 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pheffj',
-  cmcId: null,
   description: 'Mindland incentivizes meditation via crypto incentives.',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

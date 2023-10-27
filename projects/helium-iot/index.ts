@@ -7,7 +7,7 @@ export default {
   token: 'IOT',
   coingeckoId: 'helium-iot',
   id: 'oxvlvf',
-  cmcId: null,
   description: "Helium IoT is the world's biggest LoRa network.",
   investors: [],
+  cmcId: 24686,
 } satisfies AdapterProject

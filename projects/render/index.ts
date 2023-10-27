@@ -7,7 +7,6 @@ export default {
   token: 'RNDR',
   coingeckoId: 'render-token',
   id: 'drs2bu',
-  cmcId: null,
   description:
     'Render is a decentralized rendering platform supporting next-generation media production.',
   investors: [
@@ -30,4 +29,5 @@ export default {
     'fjrjju',
     '80bzm6',
   ],
+  cmcId: null,
 } satisfies AdapterProject

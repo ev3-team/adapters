@@ -7,7 +7,6 @@ export default {
   token: 'GRT',
   coingeckoId: 'the-graph',
   id: 'x3ay3v',
-  cmcId: null,
   description:
     'TheGraph is an indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.',
   investors: [
@@ -78,4 +77,5 @@ export default {
     'd04icu',
     'w9sbd6',
   ],
+  cmcId: 6719,
 } satisfies AdapterProject

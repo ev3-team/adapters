@@ -7,7 +7,6 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'q3ku4k',
-  cmcId: null,
   description: 'Meson is building the world’s first decentralized Bandwidth Exchange.',
   investors: [
     '5yy6cw',
@@ -46,4 +45,5 @@ export default {
     'hkzxu8',
     'fikwo5',
   ],
+  cmcId: 27026,
 } satisfies AdapterProject

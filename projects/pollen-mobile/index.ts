@@ -7,7 +7,7 @@ export default {
   token: 'PCN',
   coingeckoId: null,
   id: 'goiapt',
-  cmcId: null,
   description: 'Pollen sells hand-made rugs.',
   investors: [],
+  cmcId: 10677,
 } satisfies AdapterProject

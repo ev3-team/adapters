@@ -7,7 +7,7 @@ export default {
   token: 'PRE',
   coingeckoId: 'presearch',
   id: '7mrkii',
-  cmcId: null,
   description: 'Presearch is a decentralized search engine.',
   investors: ['buime9', 'bry9hm', '9954ez'],
+  cmcId: 2245,
 } satisfies AdapterProject

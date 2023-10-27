@@ -7,7 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pfgtkc',
-  cmcId: null,
   description: "Nuco is the world's first decentralized mesh hyperscaler.",
   investors: [],
+  cmcId: 6933,
 } satisfies AdapterProject

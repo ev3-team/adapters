@@ -7,7 +7,6 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'sr3cg5',
-  cmcId: null,
   description:
     'Gensyn is a layer-1 trustless protocol for deep learning computation that rewards supply-side participants for pledging compute time to the network and performing ML tasks.',
   investors: [
@@ -28,4 +27,5 @@ export default {
     'g3q9hc',
     'vpctf7',
   ],
+  cmcId: null,
 } satisfies AdapterProject

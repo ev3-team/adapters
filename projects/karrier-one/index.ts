@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'j9n1l6',
-  cmcId: null,
   description:
     'Karrier One next-gen mobile network running on decentralized telecom infrastructure.',
   investors: ['7zvxz8', '6gj1wa', 'bpq2ge'],
+  cmcId: null,
 } satisfies AdapterProject
