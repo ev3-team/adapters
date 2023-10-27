@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'nag833',
   cmcId: null,
-  description: 'The payment layer powering infrastructure & connectivity',
+  description:
+    'Althea is a decentralized web stack aimed at creating an open marketplace to enable individuals to create their own ISPs and provide bandwidth to end users in local communities.',
   investors: [],
 } satisfies AdapterProject

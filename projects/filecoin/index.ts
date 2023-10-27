@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Filecoin',
-  chain: 'NATIVE',
+  chain: 'FILECOIN',
   category: 'COMPUTE',
   token: 'FIL',
   coingeckoId: 'filecoin',
   id: 't59kqa',
-  cmcId: 2280,
+  cmcId: null,
   description:
-    'Filecoin is a decentralized cloud storage network with 20+ exabits of storage capacity.',
+    "Filecoin is a decentralized storage network designed to store humanity's most important information.",
   investors: [
     '5yy6cw',
     '07pxi6',

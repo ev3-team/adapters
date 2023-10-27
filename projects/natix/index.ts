@@ -4,7 +4,7 @@ export default {
   name: 'NATIX',
   chain: null,
   category: 'SENSORS',
-  token: 'NATIX',
+  token: null,
   coingeckoId: null,
   id: 'uq4s3v',
   cmcId: null,

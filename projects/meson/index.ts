@@ -4,12 +4,11 @@ export default {
   name: 'Meson',
   chain: null,
   category: 'COMPUTE',
-  token: 'GAGA',
+  token: null,
   coingeckoId: null,
   id: 'q3ku4k',
-  cmcId: 27026,
-  description:
-    'Meson builds critical network infrastructure for Web3 including a decentralized bandwidth exchange.',
+  cmcId: null,
+  description: 'Meson is building the world’s first decentralized Bandwidth Exchange.',
   investors: [
     '5yy6cw',
     '2tgqti',

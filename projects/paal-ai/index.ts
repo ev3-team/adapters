@@ -7,7 +7,7 @@ export default {
   token: 'PAAL',
   coingeckoId: 'paal-ai',
   id: 'wmad1s',
-  cmcId: 27178,
+  cmcId: null,
   description: 'PAAL is a decentralized network of autonomous agents.',
   investors: [],
 } satisfies AdapterProject

@@ -7,7 +7,7 @@ export default {
   token: 'DTX',
   coingeckoId: 'databroker-dao',
   id: '08wij5',
-  cmcId: 2913,
+  cmcId: null,
   description: 'Databroker is a secure marketplace for peer-to-peer data exchange.',
   investors: [],
 } satisfies AdapterProject

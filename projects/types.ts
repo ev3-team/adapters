@@ -124,6 +124,11 @@ export type AdapterProjectToken =
   | 'NODL'
   | 'NATIX'
   | 'BTRST'
+  | 'ROSO'
+  | 'SC'
+  | 'SHDW'
+  | 'ONO'
+  | 'PCN'
 
 export type AdapterProject = {
   id: string

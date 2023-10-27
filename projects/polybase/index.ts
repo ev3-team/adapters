@@ -9,6 +9,6 @@ export default {
   id: 'a8p168',
   cmcId: null,
   description:
-    'Polybase is MEV-resistant & privacy-centric L2  and decentralized database powered by zero knowledge proofs.',
+    'Polybase is the decentralized storage, index and query protocol for structured data',
   investors: ['07pxi6', 'ti312b', 'suthoi', 'hol96b', '4bc5rd', '90y066', '7hsriz'],
 } satisfies AdapterProject

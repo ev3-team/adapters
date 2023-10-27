@@ -1,13 +1,13 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DIMO',
+  name: 'Dimo',
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'DIMO',
   coingeckoId: 'dimo',
   id: '0wr2ea',
-  cmcId: 22837,
+  cmcId: null,
   description: 'DIMO is decentralized network of connected vehicles.',
   investors: [
     'szfiug',

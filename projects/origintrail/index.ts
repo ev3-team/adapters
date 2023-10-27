@@ -3,11 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'OriginTrail',
   chain: 'POLKADOT',
-  category: 'SENSORS',
+  category: 'AI',
   token: 'TRAC',
   coingeckoId: 'origintrail',
   id: 'v9wsjb',
-  cmcId: 2467,
+  cmcId: null,
   description:
     'OriginTrail is a decentralized knowledge graph that enable anyone to take part in trustless knowledge sharing.',
   investors: [

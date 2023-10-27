@@ -2,12 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Elumicate',
-  chain: 'IOTEX',
-  category: 'SENSORS',
+  chain: null,
+  category: 'OTHER',
   token: null,
   coingeckoId: null,
   id: 'kpm8ir',
   cmcId: null,
-  description: 'Elumicate is a decentralized data capture & surveillance network.',
+  description:
+    'Elumicate empowers communities with the knowledge needed to overcome pressing challenges and build a sustainable future.',
   investors: [],
 } satisfies AdapterProject

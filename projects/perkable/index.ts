@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Perkable',
   chain: 'IOTEX',
-  category: 'SENSORS',
+  category: 'OTHER',
   token: null,
   coingeckoId: null,
   id: 'z6715d',

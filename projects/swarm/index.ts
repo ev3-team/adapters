@@ -7,7 +7,7 @@ export default {
   token: 'BZZ',
   coingeckoId: 'swarm-bzz',
   id: '8s783v',
-  cmcId: 10293,
+  cmcId: null,
   description: 'Swarm is a decentralised data storage and distribution technology.',
   investors: [
     '07pxi6',

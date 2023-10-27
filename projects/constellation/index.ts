@@ -7,7 +7,7 @@ export default {
   token: 'DAG',
   coingeckoId: 'constellation-labs',
   id: 'ol6f66',
-  cmcId: 2868,
+  cmcId: null,
   description:
     'Constellation is a decentralized L0 protocol that enables anyone to build Web3 solutions.',
   investors: [

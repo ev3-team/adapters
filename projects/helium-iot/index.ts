@@ -1,13 +1,13 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Helium IOT',
+  name: 'Helium IoT',
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'IOT',
   coingeckoId: 'helium-iot',
   id: 'oxvlvf',
-  cmcId: 24686,
+  cmcId: null,
   description: "Helium IoT is the world's biggest LoRa network.",
   investors: [],
 } satisfies AdapterProject

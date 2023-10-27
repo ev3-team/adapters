@@ -7,7 +7,7 @@ export default {
   token: 'PRV',
   coingeckoId: 'incognito-2',
   id: 'g8ux2k',
-  cmcId: 16459,
+  cmcId: null,
   description:
     'Incognito is a privacy hub enabling users to conduct private shielded cryptocurrency transactions.',
   investors: [],

@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'n6xm1l',
   cmcId: null,
-  description: 'Adyo is a stealth project built on IOTEX.',
+  description: 'Aydo is a decentralized network of smart home devices.',
   investors: [],
 } satisfies AdapterProject

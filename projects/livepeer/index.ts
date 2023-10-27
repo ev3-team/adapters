@@ -7,7 +7,7 @@ export default {
   token: 'LPT',
   coingeckoId: 'livepeer',
   id: '0dpzm4',
-  cmcId: 3640,
+  cmcId: null,
   description: 'Livepeer is decentralized network of video encoders & streamers.',
   investors: [
     '5yy6cw',

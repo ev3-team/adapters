@@ -1,14 +1,15 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'WayRu',
-  chain: null,
+  name: 'Wayru',
+  chain: 'ALGORAND',
   category: 'WIRELESS',
   token: null,
   coingeckoId: null,
   id: 'g2acbm',
   cmcId: null,
-  description: 'Wayru is a decentralized internet service provider in Latin America.',
+  description:
+    'Wayru provides affordable and reliable internet access to everyone, everywhere, starting with WiFi in Latin America.',
   investors: [
     'buo8ql',
     '9td18r',

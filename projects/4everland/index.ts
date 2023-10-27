@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: '4EverLand',
+  name: '4everland',
   chain: null,
   category: 'COMPUTE',
   token: null,

@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'MetaBlox',
+  name: 'Metablox',
   chain: null,
   category: 'WIRELESS',
   token: null,

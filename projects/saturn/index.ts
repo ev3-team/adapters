@@ -2,12 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Saturn',
-  chain: null,
+  chain: 'FILECOIN',
   category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: 'h8gcep',
-  cmcId: 4654,
-  description: 'Saturn is a decentralized content delivery network built on Filecoin.',
+  cmcId: null,
+  description:
+    'Saturn is an open-source community-run Content Delivery Network (CDN) built on Filecoin.',
   investors: [],
 } satisfies AdapterProject
