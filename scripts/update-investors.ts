@@ -126,6 +126,7 @@ async function run() {
             (p) => `${investorToVarName(p)}`
           )}]\n\nexport { AdapterInvestor } from './types'`
       )
+      console.log('Successfully updated investors.')
     })
 }
 

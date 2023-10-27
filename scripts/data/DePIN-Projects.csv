@@ -1,4 +1,4 @@
-Name,ID,Category,Chain,CoinMarketCapID,CoinGeckoID,Token,Description
+Name,ID,Category,Chain,CoinMarketCapSlug,CoinGeckoID,Token,Description
 0x0.ai,vqpvwd,AI,ETHEREUM,0x0-ai-ai-smart-contract,0x0-ai-ai-smart-contract,_0X0,"0x0.ai is an AI-powered Solidity Smart Contract Auditor that uses machine learning to analyze code for vulnerabilities, errors, and issues."
 1000Houses,2ly60i,OTHER,,,,,Tokenizing rent from real estate
 2appy,s3mmvo,NOT_DEPIN,,,,,

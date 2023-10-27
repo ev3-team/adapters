@@ -1,10 +1,10 @@
 import * as csv from 'fast-csv'
-import { createReadStream, existsSync, mkdir } from 'node:fs'
+import { createReadStream, existsSync } from 'node:fs'
+import fs from 'node:fs/promises'
 import path from 'node:path'
 import { AdapterProject } from '../projects'
-import fs from 'node:fs/promises'
 import { AdapterProjectCategory, AdapterProjectChain, AdapterProjectToken } from '../projects/types'
-import { getProjectCmcIdBySlug } from './get-project-cmc-id'
+import { getProjectCmcIdBySlug } from './utils'
 
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
@@ -38,7 +38,7 @@ export function getProjectsInvestors(): Promise<Map<string, string[]>> {
 }
 
 const projectToFileName = (project: AdapterProject) =>
-  project.name.trim().toLowerCase().replaceAll(' ', '-').replaceAll('.', '-')
+  project.name.trim().toLowerCase().replaceAll("'", '').replaceAll(' ', '-').replaceAll('.', '-')
 
 const projectToVarName = (project: AdapterProject) =>
   project.name
@@ -48,11 +48,12 @@ const projectToVarName = (project: AdapterProject) =>
     .replaceAll('(', '')
     .replaceAll(')', '')
     .replaceAll('.', '')
+    .replaceAll("'", '')
     .replaceAll('&', 'And')
     .replaceAll(' ', '-')
-    .replace(/-([a-z,1-9,A-Z])/g, (g) => g[1].toUpperCase())
+    .replace(/-([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
     // if the project name start with a number then add an underscore as prefix
-    .replace(/^[1-9]/, (g) => `_${g}`)
+    .replace(/^[0-9]/, (g) => `_${g}`)
     .concat(`${project.category[0]}${project.category.slice(1, project.category.length)}`)
 
 type ParsedProject = Omit<AdapterProject, 'cmcId'> & { cmcSlug: string }
@@ -71,12 +72,15 @@ async function run() {
       if (index === 1) return
       const projectId = row[1]
       // ignore projects without id
-      if (!projectId) return
+      if (!projectId) {
+        console.warn(`[update-projects] ignoring row \n${row}\nBecause there's no project id.`)
+        return
+      }
 
       const project: ParsedProject = {
         name: row[0],
         chain: !!row[3] ? (row[3] as AdapterProjectChain) : null,
-        category: row[2] as AdapterProjectCategory,
+        category: !!row[2] ? (row[2] as AdapterProjectCategory) : 'OTHER',
         token: !!row[6] ? (row[6] as AdapterProjectToken) : null,
         coingeckoId: !!row[5] ? row[5] : null,
         id: projectId,
@@ -89,6 +93,7 @@ async function run() {
     })
     .on('end', async () => {
       const storedProjects: AdapterProject[] = []
+
       const cmcIds = await getProjectCmcIdBySlug(
         parsedProjects.map((pp) => pp.cmcSlug).filter(Boolean) as string[]
       )

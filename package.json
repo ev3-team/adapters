@@ -13,9 +13,8 @@
     "release": "pnpm run lint && pnpm run build && changeset publish",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "update:investors": "tsx scripts/update-investors.ts && npm run format",
-    "update:projects-investors": "tsx scripts/update-projects-investors.ts && npm run format",
-    "generate:w3b": "tsx scripts/generate-initial-w3b-projects.ts && pnpm format",
-    "generate:id": "tsx scripts/generate-id.ts",
+    "update:projects": "tsx scripts/update-projects.ts && npm run format",
+    "generate:project-id": "tsx scripts/generate-project-id.ts",
     "generate:investor-id": "tsx scripts/generate-investor-id.ts"
   },
   "keywords": [],
