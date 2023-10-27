@@ -7,7 +7,7 @@ export default {
   token: 'GEOD',
   coingeckoId: 'geodnet',
   id: 'scli9r',
-  cmcId: null,
   description: 'Geodnet is a decentralized network of GNSS reference stations.',
   investors: ['buo8ql'],
+  cmcId: 20969,
 } satisfies AdapterProject

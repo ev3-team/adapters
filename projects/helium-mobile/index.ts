@@ -7,8 +7,8 @@ export default {
   token: 'MOBILE',
   coingeckoId: 'helium-mobile',
   id: 'ipyjjt',
-  cmcId: null,
   description:
     "Helium Mobile is the People's Carrier, offering affordable service that unites subscribers with coverage built by people like you.",
   investors: [],
+  cmcId: 24600,
 } satisfies AdapterProject

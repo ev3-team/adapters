@@ -7,7 +7,6 @@ export default {
   token: 'THETA',
   coingeckoId: 'theta-token',
   id: 'bsun3b',
-  cmcId: null,
   description: 'Theta is a decentralized full-stack video delivery network.',
   investors: [
     'te4xtz',
@@ -49,4 +48,5 @@ export default {
     '6jmeak',
     'xemx4j',
   ],
+  cmcId: null,
 } satisfies AdapterProject

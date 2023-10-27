@@ -7,8 +7,8 @@ export default {
   token: 'DBC',
   coingeckoId: null,
   id: 'c1de2i',
-  cmcId: null,
   description:
     'DeepBrain distributed high-performance computing network for AI & Metaverse use cases.',
   investors: [],
+  cmcId: 2316,
 } satisfies AdapterProject

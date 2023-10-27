@@ -7,7 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'xpggzk',
-  cmcId: null,
   description: 'PiPHi is a decentralized environmental data collection network.',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

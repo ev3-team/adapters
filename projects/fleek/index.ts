@@ -7,7 +7,6 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'eu4u3i',
-  cmcId: null,
   description:
     'Fleek Network is an open-source edge computing platform for accelerating the development and execution of decentralized web services.',
   investors: [
@@ -26,4 +25,5 @@ export default {
     'hqpm32',
     'f4oc87',
   ],
+  cmcId: null,
 } satisfies AdapterProject

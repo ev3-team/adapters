@@ -7,7 +7,6 @@ export default {
   token: 'STOS',
   coingeckoId: 'stratos',
   id: '4jq13p',
-  cmcId: null,
   description: 'Stratos is a decentralized computing network.',
   investors: [
     'wu15kr',
@@ -21,4 +20,5 @@ export default {
     'udx6pg',
     'i2jpqr',
   ],
+  cmcId: 9760,
 } satisfies AdapterProject

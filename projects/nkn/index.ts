@@ -7,7 +7,6 @@ export default {
   token: 'NKN',
   coingeckoId: 'nkn',
   id: 'xi19vn',
-  cmcId: null,
   description: 'NKN is peer-to-peer network connectivity protocol.',
   investors: [
     '07pxi6',
@@ -20,4 +19,5 @@ export default {
     '24ormv',
     'o6u62z',
   ],
+  cmcId: 2780,
 } satisfies AdapterProject

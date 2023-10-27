@@ -7,7 +7,6 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ancy5d',
-  cmcId: null,
   description: 'Ceramic is a decentralized data network.',
   investors: [
     '5yy6cw',
@@ -37,4 +36,5 @@ export default {
     'xkn0vq',
     '8ojtlq',
   ],
+  cmcId: null,
 } satisfies AdapterProject

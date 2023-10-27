@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'qu45sj',
-  cmcId: null,
   description:
     ' "HealthBlocks is a decentralized health-oriented communtiy that rewards users for a healthy lifestyle."',
   investors: [],
+  cmcId: null,
 } satisfies AdapterProject

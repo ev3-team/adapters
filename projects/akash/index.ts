@@ -7,7 +7,6 @@ export default {
   token: 'AKT',
   coingeckoId: 'akash-network',
   id: 'qmmyw0',
-  cmcId: null,
   description:
     'Akash is open-source supercloud that lets users buy and sell computing resources securely and efficiently.',
   investors: [
@@ -43,4 +42,5 @@ export default {
     'fa62pa',
     'oblyiu',
   ],
+  cmcId: 7431,
 } satisfies AdapterProject

@@ -7,7 +7,7 @@ export default {
   token: 'OCTA',
   coingeckoId: 'octaspace',
   id: 'eppbxs',
-  cmcId: null,
   description: 'OctaSpace is a decentralized cloud computing network.',
   investors: [],
+  cmcId: 24261,
 } satisfies AdapterProject

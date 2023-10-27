@@ -7,7 +7,6 @@ export default {
   token: 'OXT',
   coingeckoId: 'orchid-protocol',
   id: 'vg1qec',
-  cmcId: null,
   description:
     'Orchid is a decentralized onion routing network incentivized through multi-hop VPN clients.',
   investors: [
@@ -39,4 +38,5 @@ export default {
     'ea62bc',
     '42bud8',
   ],
+  cmcId: 5026,
 } satisfies AdapterProject

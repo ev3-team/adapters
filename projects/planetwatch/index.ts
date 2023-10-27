@@ -7,7 +7,6 @@ export default {
   token: 'PLANETS',
   coingeckoId: 'planetwatch',
   id: 'qxqpla',
-  cmcId: null,
   description: 'PlanetWatch is a decentralized network of air quality monitors.',
   investors: [
     'buo8ql',
@@ -20,4 +19,5 @@ export default {
     'opbil4',
     '2lb530',
   ],
+  cmcId: 11861,
 } satisfies AdapterProject

@@ -7,7 +7,6 @@ export default {
   token: 'FIL',
   coingeckoId: 'filecoin',
   id: 't59kqa',
-  cmcId: null,
   description:
     "Filecoin is a decentralized storage network designed to store humanity's most important information.",
   investors: [
@@ -91,4 +90,5 @@ export default {
     'sbpved',
     'atxt9k',
   ],
+  cmcId: 2280,
 } satisfies AdapterProject

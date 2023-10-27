@@ -7,7 +7,6 @@ export default {
   token: 'MASQ',
   coingeckoId: 'masq',
   id: '0ezngt',
-  cmcId: null,
   description: 'MASQ is a decentralized VPN network built on Polygon.',
   investors: [
     '5yy6cw',
@@ -21,4 +20,5 @@ export default {
     'cw96ak',
     'x6gv9l',
   ],
+  cmcId: 8376,
 } satisfies AdapterProject

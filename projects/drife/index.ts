@@ -7,7 +7,6 @@ export default {
   token: 'DRF',
   coingeckoId: 'drife',
   id: 'con8un',
-  cmcId: null,
   description: 'DRIFE is a decentralized ride-hailing platform with 30k+ drivers.',
   investors: [
     'xmw0ev',
@@ -36,4 +35,5 @@ export default {
     'xgjf6h',
     'h3vz69',
   ],
+  cmcId: 10889,
 } satisfies AdapterProject

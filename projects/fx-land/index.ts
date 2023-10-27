@@ -7,7 +7,6 @@ export default {
   token: null,
   coingeckoId: null,
   id: '4z5caf',
-  cmcId: null,
   description: 'FunctionLand is a secure, encrypted IPFS decentralized storage network.',
   investors: [
     'ti312b',
@@ -25,4 +24,5 @@ export default {
     'v3sg2g',
     'zj4ect',
   ],
+  cmcId: null,
 } satisfies AdapterProject

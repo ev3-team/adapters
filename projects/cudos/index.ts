@@ -7,7 +7,6 @@ export default {
   token: 'CUDOS',
   coingeckoId: 'cudos',
   id: 'jitkjs',
-  cmcId: null,
   description: 'Cudos is a decentralized cloud computing network.',
   investors: [
     'buo8ql',
@@ -32,4 +31,5 @@ export default {
     'nxirg2',
     'zcdny8',
   ],
+  cmcId: 8258,
 } satisfies AdapterProject

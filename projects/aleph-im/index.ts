@@ -7,7 +7,6 @@ export default {
   token: 'ALEPH',
   coingeckoId: 'aleph',
   id: 'ndjz6b',
-  cmcId: null,
   description:
     'Aleph provides developers access to trusted off-chain data and computation in a couple lines of code.',
   investors: [
@@ -28,4 +27,5 @@ export default {
     '4i8yol',
     '6m0hgx',
   ],
+  cmcId: 5821,
 } satisfies AdapterProject
