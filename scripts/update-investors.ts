@@ -73,6 +73,7 @@ const investorToVarName = (investor: AdapterInvestor) =>
     // reserved words
     .replaceAll('continue', '_continue')
     .replaceAll('public', '_public')
+    .replaceAll('true', '_true')
 
 /** Loop over the investors csv and updates investors .ts files. */
 async function run() {
