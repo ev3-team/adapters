@@ -7,7 +7,7 @@ export default {
   token: 'AR',
   coingeckoId: 'arweave',
   id: '0vks67',
-  iconUrl: null,
+  iconUrl: 'https://assets.depin.ninja/projects/icons/arweave.png',
   description:
     'Arweave is Bitcoin for data: a permanent and decentralized web inside an open ledger.',
   investors: [

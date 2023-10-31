@@ -7,7 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'b87zfz',
-  iconUrl: null,
+  iconUrl: 'https://assets.depin.ninja/projects/icons/2blox.png',
   description: '2blox is a network of real-time traffic data sensors.',
   investors: ['buo8ql', 's7b833'],
   cmcId: null,

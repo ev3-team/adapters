@@ -7,7 +7,7 @@ export default {
   token: 'ANKR',
   coingeckoId: 'ankr',
   id: 'hqtk8u',
-  iconUrl: null,
+  iconUrl: 'https://assets.depin.ninja/projects/icons/ankr.png',
   description:
     "Ankr's blockchain node infrastructure network enables multi-chain tools across Web3, DeFi, and the crypto economy.",
   investors: [
