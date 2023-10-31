@@ -7,6 +7,7 @@ export default {
   token: 'WNT',
   coingeckoId: 'wicrypt',
   id: 'ynsj12',
+  iconUrl: null,
   description: 'Wicrypt is a decentralized WiFi sharing network.',
   investors: [
     'vjpj24',

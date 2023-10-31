@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'sws22r',
+  iconUrl: null,
   description:
     'AI-driven off-chain data intent trading platform with the fastest news media capture speed in the industry and top-notch AI sentiment analysis tools.',
   investors: [],

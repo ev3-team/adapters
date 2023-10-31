@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'tjyvc7',
+  iconUrl: null,
   description:
     'Irys (fka Bundlr) is a multi-chain solution for Arweave which enables native support for Arweave storage on different smart contract blockchains.',
   investors: [],

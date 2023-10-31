@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ss8gck',
+  iconUrl: null,
   description:
     'bitnost.re is bridging bittensor’s neutral, open, permissionless, and decentralized AI into Nostr’s censorship resistant social media protocol, building an access backbone for a neutral AI interaction.',
   investors: [],

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5dho62',
+  iconUrl: null,
   description:
     "3DOS.io is building the world's largest on-demand decentralized manufacturing network on Web 3.0 ( peer to peer ) using NFT's as a licensing tool.",
   investors: [],

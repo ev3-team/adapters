@@ -7,6 +7,7 @@ export default {
   token: 'PLANETS',
   coingeckoId: 'planetwatch',
   id: 'qxqpla',
+  iconUrl: null,
   description: 'PlanetWatch is a decentralized network of air quality monitors.',
   investors: [
     'buo8ql',

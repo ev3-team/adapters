@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'um75jm',
+  iconUrl: null,
   description:
     'HAPI is a cross-chain protocol, aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.',
   investors: [],

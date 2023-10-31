@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'y5ondj',
+  iconUrl: null,
   description:
     'Energy Web technology is powering decarbonization solutions in dozens of countries.',
   investors: [],

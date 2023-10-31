@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ancy5d',
+  iconUrl: null,
   description: 'Ceramic is a decentralized data network.',
   investors: [
     '5yy6cw',

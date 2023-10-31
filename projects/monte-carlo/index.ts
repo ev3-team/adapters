@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'tjf1xo',
+  iconUrl: null,
   description:
     'Monte Carlo is a decentralized AIGC computing power protocol that organizes miners to provide computing power by providing an incentive layer. Through off-chain computing, rich computing power scenarios can be achieved and used in various AIGC scenarios.',
   investors: [],

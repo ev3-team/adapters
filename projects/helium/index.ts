@@ -7,6 +7,7 @@ export default {
   token: 'HNT',
   coingeckoId: 'helium',
   id: '5bm99m',
+  iconUrl: null,
   description: 'Helium is a decentralized network of wireless networks.',
   investors: [],
   cmcId: 5665,

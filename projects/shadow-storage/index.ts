@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'v7lzxm',
+  iconUrl: null,
   description:
     'Shadow Storage offers a decentralized, secure and private way for users to store their data. Built on Solana.',
   investors: [],

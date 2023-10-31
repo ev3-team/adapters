@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'i21x89',
+  iconUrl: null,
   description: 'GPUTopia is the easiest way to buy and sell GPU capacity.',
   investors: [],
   cmcId: null,

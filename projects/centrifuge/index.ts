@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'cosgc8',
+  iconUrl: null,
   description:
     'Centrifuge is an open, decentralized operating system to connect the global financial supply chain. It allows participants to transact on a global network while maintaining ownership of their data, including their validated company details, their reputation, business relationships, and subsequent transactions.',
   investors: [],

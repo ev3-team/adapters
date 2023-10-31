@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'eu4u3i',
+  iconUrl: null,
   description:
     'Fleek Network is an open-source edge computing platform for accelerating the development and execution of decentralized web services.',
   investors: [

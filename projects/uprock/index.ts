@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '1rtzqi',
+  iconUrl: null,
   description:
     'personalized and human-centric, real-time AI insights platform that revolutionizes everyday decision-making and workflows',
   investors: [],

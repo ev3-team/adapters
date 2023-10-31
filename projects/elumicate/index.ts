@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'kpm8ir',
+  iconUrl: null,
   description:
     'Elumicate empowers communities with the knowledge needed to overcome pressing challenges and build a sustainable future.',
   investors: [],

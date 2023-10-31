@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'lfu9ni',
+  iconUrl: null,
   description:
     'GenomesDAO is a biotech DAO focused on safe, private & auditable monetization of genomic data using DeFi.',
   investors: [],

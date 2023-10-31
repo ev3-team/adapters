@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '0tn3dg',
+  iconUrl: null,
   description:
     'Cirrus IPFS is a company that provides an IPFS-based storage platform offering 3x storage capacity of g-drive and advanced security features.',
   investors: [],

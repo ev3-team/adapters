@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gzq0lf',
+  iconUrl: null,
   description: 'Phygital NFTs for artist merch',
   investors: [],
   cmcId: null,

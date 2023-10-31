@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ush02g',
+  iconUrl: null,
   description: 'IPFS pinning service.',
   investors: [],
   cmcId: null,

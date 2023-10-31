@@ -7,6 +7,7 @@ export default {
   token: 'ASTO',
   coingeckoId: 'altered-state-token',
   id: '9limss',
+  iconUrl: null,
   description:
     'Altered State Machine (ASM) is a decentralised protocol for Non-Fungible Intelligence (NFI) - bringing users and developers the ability to create, own, trade, and train AI agent via NFTs, to power up the metaverse.',
   investors: [],

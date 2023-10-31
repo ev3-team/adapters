@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pz0ffy',
+  iconUrl: null,
   description: 'AI powered travel assistant',
   investors: [],
   cmcId: null,

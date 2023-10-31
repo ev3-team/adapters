@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'yts967',
+  iconUrl: null,
   description:
     'A social network that enables competitors and tournament organizers to make money from the betting volume their events get.',
   investors: [],

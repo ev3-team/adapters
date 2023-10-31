@@ -7,6 +7,7 @@ export default {
   token: 'LOOP',
   coingeckoId: null,
   id: 't38une',
+  iconUrl: null,
   description:
     'Loop Network is a Layer-1 crypto ecosystem that supports smart contracts functionality that tries to solve the problem of scalability inherent in already existing similar blockchains.',
   investors: [],

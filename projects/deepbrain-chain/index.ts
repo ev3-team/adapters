@@ -7,6 +7,7 @@ export default {
   token: 'DBC',
   coingeckoId: null,
   id: 'c1de2i',
+  iconUrl: null,
   description:
     'DeepBrain distributed high-performance computing network for AI & Metaverse use cases.',
   investors: [],

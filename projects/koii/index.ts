@@ -7,6 +7,7 @@ export default {
   token: 'KOII',
   coingeckoId: null,
   id: 'xfjtib',
+  iconUrl: null,
   description:
     'Koii allows anyone to earn passive income by connecting idle devices to transparent apps and audit systems.',
   investors: [],

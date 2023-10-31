@@ -7,6 +7,7 @@ export default {
   token: 'POWR',
   coingeckoId: null,
   id: '1bpo2w',
+  iconUrl: null,
   description:
     'Powerledger develops software solutions for the tracking, tracing and trading of renewable energy.',
   investors: [],

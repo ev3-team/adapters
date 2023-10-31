@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '46ij86',
+  iconUrl: null,
   description: 'Event hosting & ticketing platform',
   investors: [],
   cmcId: null,

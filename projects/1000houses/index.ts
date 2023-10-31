@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '2ly60i',
+  iconUrl: null,
   description: 'Tokenizing rent from real estate',
   investors: [],
   cmcId: null,

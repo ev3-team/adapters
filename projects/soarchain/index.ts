@@ -7,6 +7,7 @@ export default {
   token: 'SOAR',
   coingeckoId: null,
   id: '4mpqg0',
+  iconUrl: null,
   description: 'Soarchain builds decentralized connectivity infrastructure for vehicles.',
   investors: [
     'la4mmt',

@@ -7,6 +7,7 @@ export default {
   token: 'CRU',
   coingeckoId: 'crust-network',
   id: 'x2nise',
+  iconUrl: null,
   description:
     'Crust Network is a decentralized cloud storage provider supporting multiple underlying storage protocols.',
   investors: [

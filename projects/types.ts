@@ -243,6 +243,7 @@ export type AdapterProject = {
   cmcId: number | null
   coingeckoId: string | null
   description: string | null
+  iconUrl: string | null
   investors: string[]
   name: string
   token: AdapterProjectToken | null

@@ -7,6 +7,7 @@ export default {
   token: 'SHDW',
   coingeckoId: null,
   id: 'p01o2s',
+  iconUrl: null,
   description:
     'GenesysGo Shadow is decentralized object storage platform designed for Web3 builders.',
   investors: [],

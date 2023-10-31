@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'teymg6',
+  iconUrl: null,
   description:
     "One of the world's fastest growing on-chain Web3 Social Media company(India's Tik Tok plus OnlyFans).",
   investors: [],

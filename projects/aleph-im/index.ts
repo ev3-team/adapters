@@ -7,6 +7,7 @@ export default {
   token: 'ALEPH',
   coingeckoId: 'aleph',
   id: 'ndjz6b',
+  iconUrl: null,
   description:
     'Aleph provides developers access to trusted off-chain data and computation in a couple lines of code.',
   investors: [

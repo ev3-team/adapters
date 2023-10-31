@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'tylsdp',
+  iconUrl: null,
   description:
     'LAVITA is a blockchain-AI based next generation healthcare platform, enabling the use of massive biomedical datasets for research while preserving individual privacy and ownership of data',
   investors: [],

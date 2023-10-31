@@ -7,6 +7,7 @@ export default {
   token: 'GAI',
   coingeckoId: 'generaitiv',
   id: 't6ee2u',
+  iconUrl: null,
   description:
     "Generaitiv is a community-driven, decentralized AI appstore built to empower AI contributors. They recognize and reward user's efforts through scalable grass-roots approaches.",
   investors: [],

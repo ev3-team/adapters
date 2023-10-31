@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'g65bda',
+  iconUrl: null,
   description:
     'Creating Programmable SmartShoe Insoles, with uses ranging from Health to VR/AR to novel methods of Human Interaction.',
   investors: [],

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'uhupn6',
+  iconUrl: null,
   description: 'zkPass is a privacy-preserving protocol for private data verification',
   investors: [],
   cmcId: null,

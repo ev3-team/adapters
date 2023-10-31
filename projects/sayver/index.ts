@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'zk9cf4',
+  iconUrl: null,
   description: 'Immortalize anything on the blockchain',
   investors: [],
   cmcId: null,

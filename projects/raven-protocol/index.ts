@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'r3vxyu',
+  iconUrl: null,
   description:
     'Raven is a decentralized network of compute nodes that utilize idle compute power for AI training where speed is the key',
   investors: [],

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 't4fjen',
+  iconUrl: null,
   description:
     'The SAFE Network is an open source, decentralized data storage and communications network that replaces data centers and servers with the spare computing resources of its users.',
   investors: [],

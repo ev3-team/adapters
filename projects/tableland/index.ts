@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'k4txnn',
+  iconUrl: null,
   description: 'TableLand is an open source, permissionless cloud database built on SQLite.',
   investors: [],
   cmcId: null,

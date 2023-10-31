@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'n6xm1l',
+  iconUrl: null,
   description: 'Aydo is a decentralized network of smart home devices.',
   investors: [],
   cmcId: null,

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'k270zx',
+  iconUrl: null,
   description:
     'Provider of food delivery service intended to keep food delivery economically sustainable for independent restaurants.',
   investors: [],

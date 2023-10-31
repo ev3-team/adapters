@@ -7,6 +7,7 @@ export default {
   token: 'FLY',
   coingeckoId: null,
   id: 'vhqz3k',
+  iconUrl: null,
   description: 'Blackbird is a loyalty and membership platform built for restaurants.',
   investors: [],
   cmcId: null,

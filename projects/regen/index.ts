@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'sbgvjh',
+  iconUrl: null,
   description: 'alternative trading desk for the New Fuel Economy (Hydrogen, Ammonia & Methanol',
   investors: [],
   cmcId: null,

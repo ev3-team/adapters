@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'f9rhe0',
+  iconUrl: null,
   description:
     'Runloop builds simulation environments for DeFi and trains autonomous agents to provide liquidity, manage risk, and discover trading opportunities at scale.',
   investors: [],

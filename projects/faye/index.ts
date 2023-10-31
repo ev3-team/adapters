@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pddr3z',
+  iconUrl: null,
   description:
     'A self-learning AI chatbot that masters smart contracts for accurate, relevant, and on-chain troubleshooting.',
   investors: [],

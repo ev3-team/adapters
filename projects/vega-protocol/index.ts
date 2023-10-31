@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ie91s7',
+  iconUrl: null,
   description:
     'Vega is building an open, blockchain-backed public network for fully automated end-to-end trading and execution of financial products.',
   investors: [],

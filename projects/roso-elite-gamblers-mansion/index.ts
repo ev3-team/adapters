@@ -7,6 +7,7 @@ export default {
   token: 'ROSO',
   coingeckoId: null,
   id: '36f3to',
+  iconUrl: null,
   description: 'Online Casino and Gaming platform',
   investors: [
     'ti312b',

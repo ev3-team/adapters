@@ -7,6 +7,7 @@ export default {
   token: 'VAI',
   coingeckoId: 'vaiot',
   id: 'sa6vqu',
+  iconUrl: null,
   description:
     'VAIOT offers a portfolio of blockchain-based AI Assistants and on-chain Intelligent Contracts for businesses and consumers to provide automated services and transactions.',
   investors: [],

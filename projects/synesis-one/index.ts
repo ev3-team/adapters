@@ -7,6 +7,7 @@ export default {
   token: 'SNS',
   coingeckoId: 'synesis-one',
   id: 'mhf5jn',
+  iconUrl: null,
   description:
     'Synesis One is a data crowdsourcing platform where anyone can earn $SNS by completing micro-tasks that train AI.',
   investors: [],

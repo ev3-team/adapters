@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '37fysf',
+  iconUrl: null,
   description:
     'Developer of a scalable layer 1 smart contract blockchain designed for Gaming, Smart NFTs and dApp integration',
   investors: [],

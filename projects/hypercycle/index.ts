@@ -7,6 +7,7 @@ export default {
   token: 'HYPC',
   coingeckoId: 'hypercycle',
   id: '085eer',
+  iconUrl: null,
   description:
     'HyperCycle is a blockchain architecture designed for high-speed and inexpensive on-chain execution of AI microservices.',
   investors: [],

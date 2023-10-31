@@ -7,6 +7,7 @@ export default {
   token: 'ATOR',
   coingeckoId: 'airtor-protocol',
   id: 'l9if1e',
+  iconUrl: null,
   description:
     "AirTor's proof-of-uptime and relay hardware allow users to earn passively while contributing to Tor.",
   investors: [],

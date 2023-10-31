@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'c6hicp',
+  iconUrl: null,
   description: 'DePIN compute framework for on-chain games',
   investors: [],
   cmcId: null,

@@ -7,6 +7,7 @@ export default {
   token: 'TFT',
   coingeckoId: 'threefold-token',
   id: '7exuma',
+  iconUrl: null,
   description:
     'ThreeFold is a globally-distributed grid of storage, compute, and network capacity.',
   investors: ['i5ii6b', 'u13una'],

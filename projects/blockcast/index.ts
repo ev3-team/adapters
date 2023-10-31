@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'fxg6py',
+  iconUrl: null,
   description:
     'Blockcast is an intelligent content delivery network (CDN) and marketplace for broadcast capacity, designed to reach wider audiences and optimize network traffic.',
   investors: [],

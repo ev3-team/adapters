@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5nxhtv',
+  iconUrl: null,
   description:
     'WiFi Dabba is a pioneer in building and operating low cost public wifi networks in India.',
   investors: [

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'vggvrz',
+  iconUrl: null,
   description:
     'Developer of a blockchain technology intended to scale the decentralized computing paradigm',
   investors: [],

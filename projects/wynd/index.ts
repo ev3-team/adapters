@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '9qbidj',
+  iconUrl: null,
   description:
     'WyndNetwork is a transparent node marketplace that allows users to earn passive income by monetizing their view of the internet.',
   investors: [],

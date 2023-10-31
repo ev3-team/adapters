@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'cvzsdf',
+  iconUrl: 'https://assets.depin.ninja/projects/icons/zeppelin.png',
   description: '',
   investors: [],
   cmcId: null,

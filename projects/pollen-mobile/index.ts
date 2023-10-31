@@ -7,6 +7,7 @@ export default {
   token: 'PCN',
   coingeckoId: null,
   id: 'goiapt',
+  iconUrl: null,
   description: 'Pollen sells hand-made rugs.',
   investors: [],
   cmcId: 10677,

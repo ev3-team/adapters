@@ -7,6 +7,7 @@ export default {
   token: 'CPC',
   coingeckoId: null,
   id: 'tlsqnk',
+  iconUrl: null,
   description:
     'CPChain is a distributed infrastructure for next-generation IoT. It intends to build a fundamental data platform for IoT systems in combination with distributed storage, encryption computation, and blockchain technologies, providing the whole process solution from data acquisition, storage, sharing to application.',
   investors: [],

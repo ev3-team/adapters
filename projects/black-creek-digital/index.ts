@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '9zy8l2',
+  iconUrl: null,
   description:
     'Black Creek Digital develops and operates best-in-class computing facilities that support both decentralized networks and high performance computing applications, with a particular focus on artificial intelligence applications.',
   investors: [],

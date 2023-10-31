@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'dyrwx5',
+  iconUrl: null,
   description: 'Dor is a decentralized network of thermal-sensing people-counters.',
   investors: ['axam6d'],
   cmcId: null,

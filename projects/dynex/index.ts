@@ -7,6 +7,7 @@ export default {
   token: 'DNX',
   coingeckoId: 'dynex',
   id: '6e2zu2',
+  iconUrl: null,
   description: 'Dynex is a decentralized neuromorphic computing protocol.',
   investors: [],
   cmcId: 22858,

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'w9son4',
+  iconUrl: null,
   description:
     'Friend.tech is a decentralized social media app that allows users to tokenize their friends. This means that users can buy and sell shares of their friends’ social media profiles. The price of a share is determined by a number of factors, including the number of followers their friend has, the engagement on their posts, and their overall influence.',
   investors: [],

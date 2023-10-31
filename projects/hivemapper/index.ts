@@ -7,6 +7,7 @@ export default {
   token: 'HONEY',
   coingeckoId: 'hivemapper',
   id: 'o1qnxa',
+  iconUrl: null,
   description: 'Hivemapper is a decentralized network forstreet-level imaging & mapping.',
   investors: [
     '2g0699',

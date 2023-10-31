@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'x0mqmd',
+  iconUrl: null,
   description:
     'Bitping is a distributed network intelligence solution that allows users to share traffic by sharing CPU and bandwidth for ping tests.',
   investors: [],

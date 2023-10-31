@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'heeyow',
+  iconUrl: null,
   description:
     'Space and Time is a decentralized replacement for blockchain indexing, database, data warehouse, and API servers.',
   investors: [

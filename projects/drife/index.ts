@@ -7,6 +7,7 @@ export default {
   token: 'DRF',
   coingeckoId: 'drife',
   id: 'con8un',
+  iconUrl: null,
   description: 'DRIFE is a decentralized ride-hailing platform with 30k+ drivers.',
   investors: [
     'xmw0ev',

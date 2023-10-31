@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'qx629j',
+  iconUrl: null,
   description:
     'Concordia is a modular risk and collateral management protocol that unifies and enables multi-chain collateralization of digital assets.',
   investors: [],

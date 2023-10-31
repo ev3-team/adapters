@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'vwstsz',
+  iconUrl: null,
   description: 'Already invested',
   investors: [],
   cmcId: null,

@@ -7,6 +7,7 @@ export default {
   token: 'AFY',
   coingeckoId: 'artify',
   id: '22cfnq',
+  iconUrl: null,
   description:
     'Artify provides a zero-fee gasless NFT mint, allowing artists to easily create and sell their artwork on our platform without incurring any additional costs.',
   investors: [],

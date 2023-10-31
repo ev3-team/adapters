@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '4xae6i',
+  iconUrl: null,
   description:
     'VulaCoin is a crypto-based mobile wallet that helps pre-paid users digitise their cash with an internet-time pinned stable coin.',
   investors: [],

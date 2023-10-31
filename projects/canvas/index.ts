@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ae9xhv',
+  iconUrl: null,
   description:
     'Building a new peer-to-peer architecture and developer platform for building decentralized applications',
   investors: [],

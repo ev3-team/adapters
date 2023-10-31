@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'h8fk7d',
+  iconUrl: null,
   description:
     'OtoCo builds tools to help users form, fund and govern legal entities on blockchain',
   investors: [],

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'n08otn',
+  iconUrl: null,
   description:
     'Prophetic is a non-invasive (tFUS) neurotech company building a device to induce and stabilize lucid dreams.',
   investors: [],

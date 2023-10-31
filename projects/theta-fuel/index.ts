@@ -7,6 +7,7 @@ export default {
   token: 'THETA',
   coingeckoId: 'theta-token',
   id: 'bsun3b',
+  iconUrl: null,
   description: 'Theta is a decentralized full-stack video delivery network.',
   investors: [
     'te4xtz',

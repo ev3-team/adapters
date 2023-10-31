@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '25vqyc',
+  iconUrl: null,
   description:
     'Developer of low-cost, easy to integrate hardware modules that bring ML capabilities like gesture recognition, presence detection, and voice interfaces to TVs, laptops, and appliances while preserving users’ privacy.',
   investors: [],

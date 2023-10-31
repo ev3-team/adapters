@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5m6dp8',
+  iconUrl: null,
   description:
     'A decentralized network that rewards users for providing hyper-local noise pollution data world wide with smartphones',
   investors: [],

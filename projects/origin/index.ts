@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5kkva3',
+  iconUrl: null,
   description: 'Origin Systems makes it easy to get started with LLMs.',
   investors: [],
   cmcId: null,

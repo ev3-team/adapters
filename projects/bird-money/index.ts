@@ -7,6 +7,7 @@ export default {
   token: 'BIRD',
   coingeckoId: 'bird-money',
   id: '64mpyg',
+  iconUrl: null,
   description:
     'Bird is an entirely new type of decentralized oracle that empowers blockchain developers with access to plug and play analytics products for next-gen web platforms.',
   investors: [],

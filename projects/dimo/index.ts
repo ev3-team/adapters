@@ -7,6 +7,7 @@ export default {
   token: 'DIMO',
   coingeckoId: 'dimo',
   id: '0wr2ea',
+  iconUrl: null,
   description: 'DIMO is decentralized network of connected vehicles.',
   investors: [
     'szfiug',

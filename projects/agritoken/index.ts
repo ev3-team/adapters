@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gaa7c0',
+  iconUrl: null,
   description: 'Tokenized crop futures',
   investors: [],
   cmcId: null,

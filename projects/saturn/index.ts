@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'h8gcep',
+  iconUrl: null,
   description:
     'Saturn is an open-source community-run Content Delivery Network (CDN) built on Filecoin.',
   investors: [],

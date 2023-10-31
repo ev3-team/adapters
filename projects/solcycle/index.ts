@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'jypbh1',
+  iconUrl: null,
   description: 'Rewards for recycling',
   investors: [],
   cmcId: null,

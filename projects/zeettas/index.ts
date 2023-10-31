@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '6gz71b',
+  iconUrl: null,
   description:
     'Zeetta Networks provides SDN (software defined networking)-based enablers for virtualising the networks in enterprise and carrier environments',
   investors: [],

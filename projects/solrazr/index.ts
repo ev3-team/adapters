@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '0fi9q0',
+  iconUrl: null,
   description:
     'SolRazr is the first decentralised developer ecosystem for Solana offering Launchpad, Accelerator, and Developer Tools.',
   investors: [],

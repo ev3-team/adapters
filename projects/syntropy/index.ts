@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'm9yv19',
+  iconUrl: null,
   description:
     'Syntropy is building a multi-chain data availability layer, providing a decentralized and scalable way to access, retrieve and interact with real-time and historical on-chain data.',
   investors: [],

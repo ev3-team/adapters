@@ -91,9 +91,9 @@ async function run() {
       if (index === 1) return
 
       const investor: AdapterInvestor = {
-        id: row[0],
-        name: row[1],
-        investedProjectsCount: investorsProjectsCount.get(row[0]) ?? 0,
+        id: row[1],
+        name: row[0],
+        investedProjectsCount: investorsProjectsCount.get(row[1]) ?? 0,
       }
 
       investors.push(investor)

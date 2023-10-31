@@ -7,6 +7,7 @@ export default {
   token: 'XNET',
   coingeckoId: 'xnet-mobile',
   id: 'pyz7yz',
+  iconUrl: null,
   description:
     'XNET is a blockchain-powered mobile carrier building neutral-host telecommunications infrastructure.',
   investors: ['7zvxz8'],

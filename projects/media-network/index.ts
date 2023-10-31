@@ -7,6 +7,7 @@ export default {
   token: 'MEDIA',
   coingeckoId: 'media-network',
   id: 'iqnvgc',
+  iconUrl: null,
   description: 'Media is a decentralized hub for web services.',
   investors: ['b5zojp'],
   cmcId: 9524,

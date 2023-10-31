@@ -7,6 +7,7 @@ export default {
   token: 'FAKEAI',
   coingeckoId: 'deepfakeai',
   id: '1cdn19',
+  iconUrl: null,
   description:
     'DeepFakeAI is a program that allows users to create deepfakes in a few clicks using a Telegram Bot and Web App.',
   investors: [],

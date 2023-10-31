@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'xa5vpi',
+  iconUrl: null,
   description: 'Fractionalized trading of physical artwork',
   investors: [],
   cmcId: null,

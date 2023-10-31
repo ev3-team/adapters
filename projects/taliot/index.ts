@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'a239fd',
+  iconUrl: null,
   description: 'Copilot for job searches',
   investors: [],
   cmcId: null,

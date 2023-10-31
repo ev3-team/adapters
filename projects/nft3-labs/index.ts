@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'z1ks7o',
+  iconUrl: null,
   description:
     'NFT3 acts as a unified virtual identity framework across all Web3 application layers and a pathway toward enabling personal monetization and identity-leveraging.',
   investors: [],

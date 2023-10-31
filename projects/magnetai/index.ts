@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '1yb2sw',
+  iconUrl: null,
   description:
     'Magnet AI provides scalable, permissionless and cost-efficient way to access and supply compute power for inference needs. ',
   investors: [],

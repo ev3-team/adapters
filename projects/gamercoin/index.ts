@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'z2gapv',
+  iconUrl: null,
   description:
     'Developer of a blockchain-supported application designed to facilitate the exchange of desktop computing power for various digital goods.',
   investors: [],

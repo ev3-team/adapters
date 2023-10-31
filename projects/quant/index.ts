@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '7u7rag',
+  iconUrl: null,
   description:
     'Quant Network is a blockchain and distributed ledger technology (DLT) project with the goal of improving the effectiveness of information communication worldwide.',
   investors: [],

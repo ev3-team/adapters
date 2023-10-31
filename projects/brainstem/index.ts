@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'w49a1x',
+  iconUrl: null,
   description:
     'Brainstem is a scalable, decentralized system to collect and utilise wearable health data. Their mission is to revolutionize healthcare and improve lives through remote screening, ongoing monitoring, digital treatment alternatives, and tools to share data with practitioners, researchers, and others. They are building a network of users who are willing to share their data and embracing collaboration with smart minds to speed innovation. With their vision of being a 24/7 virtual health assistant specializing in sleep, mental, cardio, and neuro health.',
   investors: [],

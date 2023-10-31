@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'jvfvyy',
+  iconUrl: null,
   description:
     'MetaGravity is building the distributed compute infrastructure for metaverse gaming and virtual world simulations',
   investors: [],

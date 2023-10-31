@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'uvtnws',
+  iconUrl: null,
   description:
     'Anryze Computing Network is a decentralized system for data processing is a network where complex and volumetric tasks can be distributed to independent instances and run simultaneously.',
   investors: [],

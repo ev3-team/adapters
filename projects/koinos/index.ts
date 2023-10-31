@@ -7,6 +7,7 @@ export default {
   token: 'KOIN',
   coingeckoId: null,
   id: '83tc81',
+  iconUrl: null,
   description:
     'Koinos mainnet is a general purpose blockchain-based decentralized network that allows for free-to-use applications through a “Mana” mechanism that dynamically prices network resources in opportunity cost (not tokens) and allows for free-to-use dApps through Mana “delegation.”',
   investors: [],

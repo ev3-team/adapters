@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'qvuc9n',
+  iconUrl: null,
   description:
     'Beegol provides a machine learning-based platform to monitor and improve the quality of experience of broadband and wireless fidelity (Wi-Fi) customers.',
   investors: [],

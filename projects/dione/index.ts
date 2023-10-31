@@ -7,6 +7,7 @@ export default {
   token: 'DIONE',
   coingeckoId: null,
   id: 'ew04hq',
+  iconUrl: null,
   description:
     'Dione is a revolutionary L1 blockchain in development enabling renewable energy trade',
   investors: [],

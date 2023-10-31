@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '9xue69',
+  iconUrl: null,
   description: 'Kwil is apermissionless SQL database for the decentralized internet.',
   investors: [
     '5yy6cw',

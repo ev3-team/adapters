@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'b57y1r',
+  iconUrl: null,
   description:
     'An AI R&D DAO utilizing the resources of the Bittensor network, an open source protocol that powers a decentralized, blockchain-based, machine learning network',
   investors: [],

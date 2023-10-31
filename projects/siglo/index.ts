@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '7gjqft',
+  iconUrl: null,
   description: 'Siglo is a wireless internet service provider.',
   investors: [],
   cmcId: null,

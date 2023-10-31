@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'qc35tq',
+  iconUrl: null,
   description:
     'The Quantum Resistant Ledger (QRL) is a post-quantum secure value store and decentralized communication layer which tackles the threat Quantum Computing will pose to cryptocurrencies.',
   investors: [],

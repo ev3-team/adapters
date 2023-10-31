@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5276zx',
+  iconUrl: null,
   description:
     'Provider of an anonymous and encrypted file storage service, built on the blockchain',
   investors: [],

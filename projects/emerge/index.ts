@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'dmf572',
+  iconUrl: null,
   description: '',
   investors: [],
   cmcId: null,

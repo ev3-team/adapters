@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '45u6hy',
+  iconUrl: null,
   description:
     'A web3 DAO infrastructure that enables users to easily build powerful, blockchain-based organization.',
   investors: [],

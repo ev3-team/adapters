@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'uuhuxv',
+  iconUrl: null,
   description: 'Tokenization infra for web2 gaming assets, starting with CSGO',
   investors: [],
   cmcId: null,

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'g7kfey',
+  iconUrl: null,
   description:
     'CLAPART is a decentralized ecosystem where fans can invest in creative projects and creators can fund their work without artistic compromise.',
   investors: [],

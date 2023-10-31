@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'g2acbm',
+  iconUrl: null,
   description:
     'Wayru provides affordable and reliable internet access to everyone, everywhere, starting with WiFi in Latin America.',
   investors: [

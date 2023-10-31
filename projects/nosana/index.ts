@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'hdcghq',
+  iconUrl: null,
   description:
     'A decentralized crowd computing network revolutionizing the development process of Metaverse projects.',
   investors: [],

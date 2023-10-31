@@ -7,6 +7,7 @@ export default {
   token: 'WEFI',
   coingeckoId: 'wefi-finance',
   id: 'wfvjio',
+  iconUrl: null,
   description:
     'WeFi is a decentralized protocol that opens up under collateralized borrowing and lending options in the DeFi space.',
   investors: [],

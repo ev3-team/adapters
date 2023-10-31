@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '74fmsb',
+  iconUrl: null,
   description:
     'Invision AI software enables mainstream processors to run accurate real-time object detection, classification and tracking.',
   investors: [],

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'dxk2mc',
+  iconUrl: null,
   description: 'Token incentivised flight tracking network',
   investors: [],
   cmcId: null,

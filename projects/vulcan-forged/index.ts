@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'y6ydao',
+  iconUrl: null,
   description:
     'Vulcan Forged is the ultimate web3 ecosystem known for Vulcan Studios, its web3 gaming studio; Elysium, a carbon-neutral Layer-1 blockchain; and MetaScapes, its upcoming Metaverse-as-a-Service project. The ecosystem is powered by $PYR and $LAVA.',
   investors: [],

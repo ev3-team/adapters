@@ -7,6 +7,7 @@ export default {
   token: 'OCEAN',
   coingeckoId: 'ocean-protocol',
   id: 'qbhkmt',
+  iconUrl: null,
   description:
     'Ocean is a data exchange protocol that enables decentralized data sharing and monetization.',
   investors: [

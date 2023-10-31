@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'yfqm09',
+  iconUrl: null,
   description: 'Provider of a decentralized prediction markets software built on Polkadot',
   investors: [],
   cmcId: 13628,

@@ -7,6 +7,7 @@ export default {
   token: 'STOS',
   coingeckoId: 'stratos',
   id: '4jq13p',
+  iconUrl: null,
   description: 'Stratos is a decentralized computing network.',
   investors: [
     'wu15kr',

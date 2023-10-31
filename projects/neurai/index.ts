@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'kntco7',
+  iconUrl: null,
   description:
     'Neurai aims to be a platform to enable harnessing the power of AI algorithms for efficient data analytics, predictive modeling, decision making and connectivity to IoT devices using blockchain assets.',
   investors: [],

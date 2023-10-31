@@ -7,6 +7,7 @@ export default {
   token: 'RSS3',
   coingeckoId: 'rss3',
   id: '1tdy5h',
+  iconUrl: null,
   description:
     'RSS3 is a next-generation feed protocol that powers decentralized social, content, and e-commerce applications.',
   investors: [],

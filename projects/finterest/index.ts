@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'e1k2h0',
+  iconUrl: null,
   description:
     'Finterest is a truly decentralized borrowing/lending protocol on The Internet Computer built to support native Bitcoin.',
   investors: [],

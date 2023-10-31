@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '9093bo',
+  iconUrl: null,
   description:
     'Building Web3 infrastructure that help Storage Providers grow their business and bring decentralized storage to the uninitiated through GUI-oriented tools and ‘common’ UX',
   investors: [],

@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ars9qg',
+  iconUrl: null,
   description:
     'MobiFi is a next-gen mobility-as-a-service Dapp that rewards users for making smarter mobility and transportation decisions.',
   investors: [],

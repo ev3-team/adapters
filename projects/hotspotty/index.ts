@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '8hmhev',
+  iconUrl: null,
   description:
     'Hotspotty is a tool that helps users to order, deploy and manage their helium hotspots.',
   investors: [],

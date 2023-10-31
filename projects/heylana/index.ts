@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'bonzt3',
+  iconUrl: null,
   description: 'DePIN smart speaker built on solana',
   investors: [],
   cmcId: null,

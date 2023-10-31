@@ -7,6 +7,7 @@ export default {
   token: 'GIANT',
   coingeckoId: null,
   id: 'jl19aq',
+  iconUrl: null,
   description:
     'GIANT (Global Internet Access Network Token) is a blockchain protocol that aims to decentralize and democratize access to internet and financial services, by tokenizing bandwidth.',
   investors: [],

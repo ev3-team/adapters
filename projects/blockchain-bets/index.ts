@@ -7,6 +7,7 @@ export default {
   token: 'BCB',
   coingeckoId: null,
   id: 'afo4li',
+  iconUrl: null,
   description: 'Decentralised Casino & Sports Betting Platform.',
   investors: [],
   cmcId: 23165,

@@ -7,6 +7,7 @@ export default {
   token: 'MINTME',
   coingeckoId: null,
   id: '6927wm',
+  iconUrl: null,
   description:
     'MintMe.com Coin is a blockchain that makes the most of the untapped CPU resources of internet-connected devices to secure Smart-Contract-powered DApps.',
   investors: [],

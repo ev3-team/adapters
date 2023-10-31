@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'zyhloi',
+  iconUrl: null,
   description: 'Web3 linkedin',
   investors: [],
   cmcId: null,

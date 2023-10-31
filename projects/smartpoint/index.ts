@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '7su9n8',
+  iconUrl: null,
   description: 'SmartPoint is a decentralized edge computing network.',
   investors: [],
   cmcId: null,

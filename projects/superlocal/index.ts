@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '3czn02',
+  iconUrl: null,
   description:
     'Superlocal is a social network and game where you earn points when you go places and check in.',
   investors: [],

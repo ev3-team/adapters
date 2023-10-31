@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '11aqyc',
+  iconUrl: null,
   description: 'Decentralized RHLF',
   investors: [],
   cmcId: null,

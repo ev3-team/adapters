@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'epty1v',
+  iconUrl: null,
   description: 'Verifiable blood donation network',
   investors: [],
   cmcId: null,

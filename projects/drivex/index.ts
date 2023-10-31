@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'omjwpm',
+  iconUrl: null,
   description: 'DriveX is an AI-powered car inspection with damage detection.',
   investors: [],
   cmcId: null,

@@ -7,6 +7,7 @@ export default {
   token: 'KWAI',
   coingeckoId: 'kwai',
   id: '4ccixw',
+  iconUrl: null,
   description:
     'Developer of an AI-powered smart assistant to help simplify onboarding process for Web3. Leveraging AI technology to create intelligent tools for easy crypto swapping, staking and market tracking.',
   investors: [],

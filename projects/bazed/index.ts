@@ -7,6 +7,7 @@ export default {
   token: 'BAZED',
   coingeckoId: null,
   id: 'maga37',
+  iconUrl: null,
   description:
     'Bazed is a distinguished online gaming and player-versus-player (PvP) platform empowered by web3 technology.',
   investors: [],

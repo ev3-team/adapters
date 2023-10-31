@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ws7n8t',
+  iconUrl: null,
   description:
     'Ecoblocks is a regenerative focused protocol that incentivizes the recycling of real-world electronics via an escrow based process.',
   investors: [],

@@ -7,6 +7,7 @@ export default {
   token: 'DTRAVEL',
   coingeckoId: null,
   id: '37xksc',
+  iconUrl: null,
   description:
     'Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.',
   investors: [],

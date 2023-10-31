@@ -85,7 +85,8 @@ async function run() {
         coingeckoId: !!row[5] ? row[5] : null,
         id: projectId,
         cmcSlug: row[4],
-        description: row[7],
+        iconUrl: !!row[7] ? row[7] : null,
+        description: row[8],
         investors: projectsInvestors.get(projectId) ?? [],
       }
 

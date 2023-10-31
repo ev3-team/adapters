@@ -7,6 +7,7 @@ export default {
   token: 'RLC',
   coingeckoId: 'iexec-rlc',
   id: '2drl3l',
+  iconUrl: null,
   description:
     'iExec enables anyone to monetize or rent compute power, datasets, and applications.',
   investors: ['bwghh0', 'gftio8', 'xgzede', '0f1owq'],

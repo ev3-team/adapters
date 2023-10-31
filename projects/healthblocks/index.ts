@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'qu45sj',
+  iconUrl: null,
   description:
     ' "HealthBlocks is a decentralized health-oriented communtiy that rewards users for a healthy lifestyle."',
   investors: [],

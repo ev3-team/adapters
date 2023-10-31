@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5ymc3k',
+  iconUrl: null,
   description:
     'Building a decentralized, energy-efficient cloud computing ecosystem reusing ICT generated heat',
   investors: [],

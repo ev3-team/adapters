@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ae73hb',
+  iconUrl: null,
   description:
     'The ChainML Protocol is a censorship-resistant, massively scalable and highly cost efficient decentralized compute network purpose-built for AI and complex numerical applications, powered by blockchain technology.',
   investors: [],

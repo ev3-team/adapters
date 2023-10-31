@@ -7,6 +7,7 @@ export default {
   token: 'FIL',
   coingeckoId: 'filecoin',
   id: 't59kqa',
+  iconUrl: null,
   description:
     "Filecoin is a decentralized storage network designed to store humanity's most important information.",
   investors: [

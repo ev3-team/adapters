@@ -7,6 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'v0g1yx',
+  iconUrl: null,
   description:
     'PKT Pal is a technology that offers businesses an affordable way to provide free internet, gather customer data, and generate revenue through a hotel-style captive portal.',
   investors: [],
