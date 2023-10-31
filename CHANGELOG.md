@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.1
+
+### Patch Changes
+
+- initialize projects icon url
+
 ## 0.3.0
 
 ### Minor Changes
