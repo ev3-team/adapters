@@ -1,1459 +1,1461 @@
-import _0x0aiAI from './0x0-ai'
-import _3numWIRELESS from './3num'
-import _4everlandCOMPUTE from './4everland'
-import _1000housesOTHER from './1000houses'
+import _2appyNOT_DEPIN from './2appy'
+import _3dosNOT_DEPIN from './3dos'
 import acornProtocolOTHER from './acorn-protocol'
 import acxynOTHER from './acxyn'
+import _0x0aiAI from './0x0-ai'
 import aeronyxWIRELESS from './aeronyx'
-import advantisAI from './advantis'
-import aethirCOMPUTE from './aethir'
+import agnostiqCOMPUTE from './agnostiq'
+import agritokenOTHER from './agritoken'
 import adhashOTHER from './adhash'
+import aethirCOMPUTE from './aethir'
+import advantisAI from './advantis'
 import ahoydaoOTHER from './ahoydao'
 import aiProtocolAI from './ai-protocol'
-import aimedisOTHER from './aimedis'
-import airoSENSORS from './airo'
+import _2bloxSENSORS from './2blox'
 import aioneAI from './aione'
-import airtorCOMPUTE from './airtor'
-import aiozCOMPUTE from './aioz'
-import akordCOMPUTE from './akord'
-import albedoNOT_DEPIN from './albedo'
-import alephimCOMPUTE from './aleph-im'
-import alpharushaiAI from './alpharushai'
-import alt1OTHER from './alt-1'
-import altLabsCOMPUTE from './alt-labs'
+import _3numWIRELESS from './3num'
 import akashCOMPUTE from './akash'
-import alteredStateMachineAI from './altered-state-machine'
-import altheaWIRELESS from './althea'
+import airoSENSORS from './airo'
+import akordCOMPUTE from './akord'
+import alpharushaiAI from './alpharushai'
+import aiozCOMPUTE from './aioz'
+import alt1OTHER from './alt-1'
+import albedoNOT_DEPIN from './albedo'
+import altLabsCOMPUTE from './alt-labs'
 import anchorWalletNOT_DEPIN from './anchor-wallet'
-import andrenaWIRELESS from './andrena'
-import ankrOTHER from './ankr'
-import anonNOT_DEPIN from './anon'
+import alephimCOMPUTE from './aleph-im'
 import allianceblockNOT_DEPIN from './allianceblock'
+import alteredStateMachineAI from './altered-state-machine'
+import airtorCOMPUTE from './airtor'
+import andrenaWIRELESS from './andrena'
+import altheaWIRELESS from './althea'
+import anonNOT_DEPIN from './anon'
+import ankrOTHER from './ankr'
+import anryzeCOMPUTE from './anryze'
 import anticNOT_DEPIN from './antic'
+import apusAI from './apus'
 import apillionOTHER from './apillion'
 import apronNOT_DEPIN from './apron'
-import apusAI from './apus'
-import arbitrumNOT_DEPIN from './arbitrum'
 import arcAI from './arc'
 import archonCOMPUTE from './archon'
-import argonOTHER from './argon'
 import aristotleaiAI from './aristotleai'
-import anryzeCOMPUTE from './anryze'
 import artificialLiquidIntelligenceAI from './artificial-liquid-intelligence'
-import arkNOT_DEPIN from './ark'
-import arttooOTHER from './arttoo'
-import arweaveCOMPUTE from './arweave'
+import argonOTHER from './argon'
 import artifyAI from './artify'
-import ascensionwxSENSORS from './ascensionwx'
-import agritokenOTHER from './agritoken'
+import arweaveCOMPUTE from './arweave'
 import astonLabsENERGY from './aston-labs'
 import astranNOT_DEPIN from './astran'
+import arbitrumNOT_DEPIN from './arbitrum'
+import arkNOT_DEPIN from './ark'
+import arttooOTHER from './arttoo'
 import astriaNOT_DEPIN from './astria'
-import autochainOTHER from './autochain'
-import auroraNOT_DEPIN from './aurora'
 import atlasNaviWIRELESS from './atlas-navi'
+import ascensionwxSENSORS from './ascensionwx'
+import auroraNOT_DEPIN from './aurora'
+import autochainOTHER from './autochain'
 import asyncLabsCOMPUTE from './async-labs'
-import agnostiqCOMPUTE from './agnostiq'
-import autonolasAI from './autonolas'
-import aydoSENSORS from './aydo'
+import awareOTHER from './aware'
+import axisSENSORS from './axis'
 import aventusOTHER from './aventus'
-import bDatagrayCOMPUTE from './b-datagray'
+import autonolasAI from './autonolas'
 import bCubeaiAI from './b-cube-ai'
 import bacalhauCOMPUTE from './bacalhau'
-import axisSENSORS from './axis'
 import badIdeaAiAI from './bad-idea-ai'
+import aydoSENSORS from './aydo'
 import battleInfinityOTHER from './battle-infinity'
 import banyanCOMPUTE from './banyan'
 import beegolWIRELESS from './beegol'
 import bazedNOT_DEPIN from './bazed'
-import belugaNOT_DEPIN from './beluga'
-import bigDataOTHER from './big-data'
-import beyondOTHER from './beyond'
 import birdmoneyAI from './bird-money'
 import bistrooOTHER from './bistroo'
+import bigDataOTHER from './big-data'
+import bDatagrayCOMPUTE from './b-datagray'
 import bitnostreAI from './bitnost-re'
-import bitrockBlockchainOTHER from './bitrock-blockchain'
-import bitpingCOMPUTE from './bitping'
-import bittensorAI from './bittensor'
+import belugaNOT_DEPIN from './beluga'
 import blackCreekDigitalCOMPUTE from './black-creek-digital'
 import bitscrunchNOT_DEPIN from './bitscrunch'
 import blackRabbitAiAI from './black-rabbit-ai'
+import bitrockBlockchainOTHER from './bitrock-blockchain'
+import bittensorAI from './bittensor'
 import blackSheepGroupOTHER from './black-sheep-group'
+import blackbirdOTHER from './blackbird'
 import blackhatNOT_DEPIN from './blackhat'
-import blinqWIRELESS from './blinq'
 import blockcastCOMPUTE from './blockcast'
 import blockchainBetsNOT_DEPIN from './blockchain-bets'
-import awareOTHER from './aware'
-import blackbirdOTHER from './blackbird'
 import blocklessOTHER from './blockless'
-import bloxtelWIRELESS from './bloxtel'
+import beyondOTHER from './beyond'
+import blinqWIRELESS from './blinq'
 import blockrideOTHER from './blockride'
 import bloodchainOTHER from './bloodchain'
-import bluebirdPowerENERGY from './bluebird-power'
-import boringProtocolCOMPUTE from './boring-protocol'
-import bonfireOTHER from './bonfire'
-import bostromAI from './bostrom'
-import borlaugWebServicesOTHER from './borlaug-web-services'
 import blocksurveyNOT_DEPIN from './blocksurvey'
-import _2bloxSENSORS from './2blox'
-import braintrustOTHER from './braintrust'
+import bitpingCOMPUTE from './bitping'
+import bloxtelWIRELESS from './bloxtel'
+import bonfireOTHER from './bonfire'
+import bluebirdPowerENERGY from './bluebird-power'
 import bottoAI from './botto'
-import bridgeOracleOTHER from './bridge-oracle'
-import braveOTHER from './brave'
+import borlaugWebServicesOTHER from './borlaug-web-services'
 import brastorneOTHER from './brastorne'
+import boringProtocolCOMPUTE from './boring-protocol'
+import brainstemSENSORS from './brainstem'
+import bostromAI from './bostrom'
+import braveOTHER from './brave'
+import bridgeOracleOTHER from './bridge-oracle'
+import braintrustOTHER from './braintrust'
 import bubbleaiAI from './bubbleai'
-import bumpWIRELESS from './bump'
 import bwareLabsOTHER from './bware-labs'
-import canvasOTHER from './canvas'
-import caldanceSENSORS from './caldance'
+import bumpWIRELESS from './bump'
 import candelaENERGY from './candela'
-import cazkNOT_DEPIN from './cazk'
-import centrifugeNOT_DEPIN from './centrifuge'
-import cessCOMPUTE from './cess'
-import chaingptAI from './chaingpt'
 import cedalioOTHER from './cedalio'
-import chainlinkOTHER from './chainlink'
+import cazkNOT_DEPIN from './cazk'
+import caldanceSENSORS from './caldance'
 import ceramicCOMPUTE from './ceramic'
+import chaingptAI from './chaingpt'
+import centrifugeNOT_DEPIN from './centrifuge'
+import canvasOTHER from './canvas'
+import cessCOMPUTE from './cess'
+import cheezeOTHER from './cheeze'
+import chainlinkOTHER from './chainlink'
 import chainmlAI from './chainml'
-import checkdotAI from './checkdot'
-import chingariNOT_DEPIN from './chingari'
-import cherryNOT_DEPIN from './cherry'
-import chirpWirelessWIRELESS from './chirp-wireless'
-import cirusNOT_DEPIN from './cirus'
 import cheqdNOT_DEPIN from './cheqd'
+import checkdotAI from './checkdot'
 import cindicatorAI from './cindicator'
-import clapartOTHER from './clapart'
-import cloreAiAI from './clore-ai'
-import clickOTHER from './click'
+import chirpWirelessWIRELESS from './chirp-wireless'
+import cherryNOT_DEPIN from './cherry'
 import cirrusIpfsOTHER from './cirrus-ipfs'
+import chingariNOT_DEPIN from './chingari'
+import clickOTHER from './click'
 import cocoSwapNOT_DEPIN from './coco-swap'
-import _3dosNOT_DEPIN from './3dos'
-import colosseumOTHER from './colosseum'
 import coldstackNOT_DEPIN from './coldstack'
-import connect3OTHER from './connect3'
+import cirusNOT_DEPIN from './cirus'
+import clapartOTHER from './clapart'
+import colosseumOTHER from './colosseum'
 import concordiaOTHER from './concordia'
-import contextdaoCOMPUTE from './contextdao'
 import complexlabsNOT_DEPIN from './complexlabs'
+import collarNetworksNOT_DEPIN from './collar-networks'
+import cloreAiAI from './clore-ai'
+import constellationCOMPUTE from './constellation'
+import connect3OTHER from './connect3'
 import cosmosaiAI from './cosmosai'
-import _2appyNOT_DEPIN from './2appy'
 import cortexLabsAI from './cortex-labs'
-import createProtocolAI from './create-protocol'
 import crewdleWIRELESS from './crewdle'
 import cpchainNOT_DEPIN from './cpchain'
-import cropoAI from './cropo'
-import croquetOTHER from './croquet'
-import cryptoaiAI from './cryptoai'
-import cryptogrowNOT_DEPIN from './cryptogrow'
-import cryptomateNOT_DEPIN from './cryptomate'
+import contextdaoCOMPUTE from './contextdao'
+import createProtocolAI from './create-protocol'
+import crankkWIRELESS from './crankk'
 import crustCOMPUTE from './crust'
+import cryptogrowNOT_DEPIN from './cryptogrow'
+import croquetOTHER from './croquet'
 import cryptosatWIRELESS from './cryptosat'
+import cryptomateNOT_DEPIN from './cryptomate'
+import cryptoaiAI from './cryptoai'
 import d3COMPUTE from './d3'
-import dafiProtocolNOT_DEPIN from './dafi-protocol'
-import dWebOTHER from './d-web'
 import daikspAI from './daiksp'
-import darkfiCOMPUTE from './darkfi'
 import cudosCOMPUTE from './cudos'
-import dataUnionOTHER from './data-union'
-import databrokerCOMPUTE from './databroker'
-import datagenOTHER from './datagen'
-import datumNOT_DEPIN from './datum'
-import datsCOMPUTE from './dats'
+import darkfiCOMPUTE from './darkfi'
 import darwiniaCommitmentTokenNOT_DEPIN from './darwinia-commitment-token'
+import dataUnionOTHER from './data-union'
+import _4everlandCOMPUTE from './4everland'
+import datagenOTHER from './datagen'
+import datsCOMPUTE from './dats'
+import datumNOT_DEPIN from './datum'
+import dafiProtocolNOT_DEPIN from './dafi-protocol'
 import daylightENERGY from './daylight'
 import deepbrainChainCOMPUTE from './deepbrain-chain'
 import dclimateOTHER from './dclimate'
-import deepGreenENERGY from './deep-green'
-import deeperCOMPUTE from './deeper'
 import debridgeNOT_DEPIN from './debridge'
+import deeperCOMPUTE from './deeper'
 import deepsquareCOMPUTE from './deepsquare'
-import defitOTHER from './defit'
 import deepfakeaiAI from './deepfakeai'
-import defogNOT_DEPIN from './defog'
+import defitOTHER from './defit'
 import demeNOT_DEPIN from './deme'
-import crankkWIRELESS from './crankk'
-import cheezeOTHER from './cheeze'
-import dinariNOT_DEPIN from './dinari'
+import defogNOT_DEPIN from './defog'
+import dexcheckAI from './dexcheck'
+import deepGreenENERGY from './deep-green'
 import deraOTHER from './dera'
-import dioneENERGY from './dione'
 import dimoSENSORS from './dimo'
+import dioneENERGY from './dione'
+import dinariNOT_DEPIN from './dinari'
 import dlteoSENSORS from './dlteo'
 import dmailAI from './dmail'
-import dexcheckAI from './dexcheck'
-import dorSENSORS from './dor'
+import dojimaNOT_DEPIN from './dojima'
 import dolpinCOMPUTE from './dolpin'
-import dotmoovsAI from './dotmoovs'
-import droneLinkOTHER from './drone-link'
-import drifeSENSORS from './drife'
-import dslaProtocolNOT_DEPIN from './dsla-protocol'
-import dropWirelessWIRELESS from './drop-wireless'
-import dstorCOMPUTE from './dstor'
-import dtravelNOT_DEPIN from './dtravel'
-import brainstemSENSORS from './brainstem'
-import dynexSENSORS from './dynex'
-import eclipseIofogCOMPUTE from './eclipse-iofog'
-import echoOTHER from './echo'
-import ecoblocksOTHER from './ecoblocks'
-import ecobytesSENSORS from './ecobytes'
-import ecogenENERGY from './ecogen'
 import digitalGaiaOTHER from './digital-gaia'
+import dotmoovsAI from './dotmoovs'
+import drifeSENSORS from './drife'
+import dorSENSORS from './dor'
+import dropWirelessWIRELESS from './drop-wireless'
+import drivexSENSORS from './drivex'
+import dstorCOMPUTE from './dstor'
+import droneLinkOTHER from './drone-link'
+import dynexSENSORS from './dynex'
+import dupeFiNOT_DEPIN from './dupe-fi'
+import dslaProtocolNOT_DEPIN from './dsla-protocol'
+import echoOTHER from './echo'
+import dtravelNOT_DEPIN from './dtravel'
+import eclipseIofogCOMPUTE from './eclipse-iofog'
+import ecobytesSENSORS from './ecobytes'
+import ecoblocksOTHER from './ecoblocks'
+import ecogenENERGY from './ecogen'
 import efaniWIRELESS from './efani'
+import cropoAI from './cropo'
+import eloopOTHER from './eloop'
+import elumicateOTHER from './elumicate'
 import elixirProtocolNOT_DEPIN from './elixir-protocol'
 import electricTreeOTHER from './electric-tree'
-import elementOTHER from './element'
-import elumicateOTHER from './elumicate'
-import energywebENERGY from './energyweb'
-import eloopOTHER from './eloop'
-import entheosENERGY from './entheos'
 import emergeNOT_DEPIN from './emerge'
-import enzymeFinanceNOT_DEPIN from './enzyme-finance'
-import epikProtocolAI from './epik-protocol'
+import energywebENERGY from './energyweb'
+import dWebOTHER from './d-web'
+import elementOTHER from './element'
+import entheosENERGY from './entheos'
 import epicsCOMPUTE from './epics'
-import envirobloqSENSORS from './envirobloq'
-import equitoFinanceNOT_DEPIN from './equito-finance'
 import etherfiOTHER from './ether-fi'
-import ethermailOTHER from './ethermail'
-import ethstorageNOT_DEPIN from './ethstorage'
-import everdomeNOT_DEPIN from './everdome'
-import evervisionCOMPUTE from './evervision'
-import dojimaNOT_DEPIN from './dojima'
+import enzymeFinanceNOT_DEPIN from './enzyme-finance'
+import envirobloqSENSORS from './envirobloq'
 import ethforestaiAI from './ethforestai'
+import equitoFinanceNOT_DEPIN from './equito-finance'
+import everdomeNOT_DEPIN from './everdome'
+import epikProtocolAI from './epik-protocol'
+import ethstorageNOT_DEPIN from './ethstorage'
+import ethermailOTHER from './ethermail'
 import everynameOTHER from './everyname'
-import drivexSENSORS from './drivex'
+import evervisionCOMPUTE from './evervision'
 import ezWifiWIRELESS from './ez-wifi'
 import exabitsCOMPUTE from './exabits'
 import fact0rnOTHER from './fact0rn'
-import fayeAI from './faye'
 import fetchAI from './fetch'
-import filecoinCOMPUTE from './filecoin'
-import fetchaiAI from './fetch-ai'
-import filswanCOMPUTE from './filswan'
-import finterestNOT_DEPIN from './finterest'
-import firstbatchCOMPUTE from './firstbatch'
-import ezklAI from './ezkl'
-import collarNetworksNOT_DEPIN from './collar-networks'
-import fishcoinOTHER from './fishcoin'
-import filebaseOTHER from './filebase'
-import fleekCOMPUTE from './fleek'
-import fluxCOMPUTE from './flux'
-import fluenceCOMPUTE from './fluence'
-import fluxbotNOT_DEPIN from './fluxbot'
-import foilNOT_DEPIN from './foil'
-import foamSENSORS from './foam'
-import fonosterOTHER from './fonoster'
-import flaiWIRELESS from './flai'
-import fosterStudioOTHER from './foster-studio'
-import frodobotsAI from './frodobots'
-import fogWorksCOMPUTE from './fog-works'
-import fungiCloudOTHER from './fungi-cloud'
-import fxLandCOMPUTE from './fx-land'
-import fortaAI from './forta'
-import gamercoinCOMPUTE from './gamercoin'
-import gaurdianaiAI from './gaurdianai'
-import gearOTHER from './gear'
-import fryFoundationSENSORS from './fry-foundation'
-import geeqNOT_DEPIN from './geeq'
 import exaProtocolCOMPUTE from './exa-protocol'
-import genesysgoCOMPUTE from './genesysgo'
-import genomesioOTHER from './genomes-io'
+import ezklAI from './ezkl'
+import filebaseOTHER from './filebase'
+import filecoinCOMPUTE from './filecoin'
+import finterestNOT_DEPIN from './finterest'
+import fishcoinOTHER from './fishcoin'
+import fayeAI from './faye'
+import fetchaiAI from './fetch-ai'
+import fluenceCOMPUTE from './fluence'
+import fluxCOMPUTE from './flux'
+import fluxbotNOT_DEPIN from './fluxbot'
+import foamSENSORS from './foam'
+import fogWorksCOMPUTE from './fog-works'
+import foilNOT_DEPIN from './foil'
+import fonosterOTHER from './fonoster'
+import fortaAI from './forta'
+import fosterStudioOTHER from './foster-studio'
+import fleekCOMPUTE from './fleek'
+import frodobotsAI from './frodobots'
+import friendtechNOT_DEPIN from './friend-tech'
+import fryFoundationSENSORS from './fry-foundation'
+import fxLandCOMPUTE from './fx-land'
+import fungiCloudOTHER from './fungi-cloud'
+import galiotWIRELESS from './galiot'
+import gamercoinCOMPUTE from './gamercoin'
+import gearOTHER from './gear'
+import gaurdianaiAI from './gaurdianai'
+import firsttensorAI from './firsttensor'
+import flaiWIRELESS from './flai'
+import generaitivAI from './generaitiv'
+import gelatoCOMPUTE from './gelato'
+import filswanCOMPUTE from './filswan'
 import gensynAI from './gensyn'
+import genesysgoCOMPUTE from './genesysgo'
+import geeqNOT_DEPIN from './geeq'
 import geodnetSENSORS from './geodnet'
 import giantWIRELESS from './giant'
-import gitpoapOTHER from './gitpoap'
-import galiotWIRELESS from './galiot'
-import gizaAI from './giza'
-import firsttensorAI from './firsttensor'
 import glacierNOT_DEPIN from './glacier'
-import golemCOMPUTE from './golem'
-import gelatoCOMPUTE from './gelato'
-import glowEnergyENERGY from './glow-energy'
 import glowstickNOT_DEPIN from './glowstick'
-import gnyAI from './gny'
-import gonnamakeitNOT_DEPIN from './gonnamakeit'
-import generaitivAI from './generaitiv'
+import glowEnergyENERGY from './glow-energy'
+import genomesioOTHER from './genomes-io'
+import golemCOMPUTE from './golem'
+import firstbatchCOMPUTE from './firstbatch'
+import gpuCOMPUTE from './gpu'
+import gizaAI from './giza'
+import goracleOTHER from './goracle'
 import gpuaudioCOMPUTE from './gpu-audio'
+import greenpowerENERGY from './greenpower'
 import gputopiaCOMPUTE from './gputopia'
 import greensparcCOMPUTE from './greensparc'
-import greenpowerENERGY from './greenpower'
-import constellationCOMPUTE from './constellation'
-import griffyNOT_DEPIN from './griffy'
 import growfitterOTHER from './growfitter'
-import halCOMPUTE from './hal'
-import havenCOMPUTE from './haven'
-import hapiProtocolOTHER from './hapi-protocol'
+import gnyAI from './gny'
+import gonnamakeitNOT_DEPIN from './gonnamakeit'
+import griffyNOT_DEPIN from './griffy'
+import gunecoOTHER from './gun-eco'
+import gitpoapOTHER from './gitpoap'
 import healthblocksSENSORS from './healthblocks'
 import heataENERGY from './heata'
+import havenCOMPUTE from './haven'
 import hedgehogCOMPUTE from './hedgehog'
 import heliumIotWIRELESS from './helium-iot'
-import heliumWIRELESS from './helium'
-import friendtechNOT_DEPIN from './friend-tech'
-import hexagonOTHER from './hexagon'
 import heliumMobileWIRELESS from './helium-mobile'
-import hivelloWIRELESS from './hivello'
+import heliumWIRELESS from './helium'
 import heraFinanceAI from './hera-finance'
-import heylanaSENSORS from './heylana'
-import hivemapperSENSORS from './hivemapper'
+import hapiProtocolOTHER from './hapi-protocol'
+import hexagonOTHER from './hexagon'
+import hivelloWIRELESS from './hivello'
 import holoCOMPUTE from './holo'
 import hoprWIRELESS from './hopr'
-import humanOTHER from './human'
-import gpuCOMPUTE from './gpu'
-import humansaiAI from './humans-ai'
-import hyperOracleOTHER from './hyper-oracle'
+import hotspottyNOT_DEPIN from './hotspotty'
 import heliusOTHER from './helius'
-import hyperawareSENSORS from './hyperaware'
+import humanOTHER from './human'
+import heylanaSENSORS from './heylana'
+import humansaiAI from './humans-ai'
+import hyperbolicCOMPUTE from './hyperbolic'
+import hyperOracleOTHER from './hyper-oracle'
 import hypercycleAI from './hypercycle'
+import humcenNOT_DEPIN from './humcen'
+import databrokerCOMPUTE from './databroker'
 import hypersignNOT_DEPIN from './hypersign'
 import hyperspaceAI from './hyperspace'
 import iagonOTHER from './iagon'
-import iexecRlcCOMPUTE from './iexec-rlc'
 import iknowspotsNOT_DEPIN from './iknowspots'
-import imbueNOT_DEPIN from './imbue'
-import imgnaiAI from './imgnai'
+import _1000housesOTHER from './1000houses'
 import impactmarketNOT_DEPIN from './impactmarket'
+import imgnaiAI from './imgnai'
 import impermaxNOT_DEPIN from './impermax'
+import iexecRlcCOMPUTE from './iexec-rlc'
 import incognitoCOMPUTE from './incognito'
 import inferixGpuCOMPUTE from './inferix-gpu'
 import inheritanceArtAI from './inheritance-art'
-import injectiveNOT_DEPIN from './injective'
 import insureAI from './insure'
 import intSENSORS from './int'
-import integriteeOTHER from './integritee'
-import hyperbolicCOMPUTE from './hyperbolic'
+import injectiveNOT_DEPIN from './injective'
+import invisionAiOTHER from './invision-ai'
 import ionetAI from './io-net'
-import goracleOTHER from './goracle'
-import iotaOTHER from './iota'
 import iotedgeCOMPUTE from './iotedge'
-import iotexSENSORS from './iotex'
 import iotexUcamSENSORS from './iotex-ucam'
+import iotaOTHER from './iota'
+import integriteeOTHER from './integritee'
+import iotexSENSORS from './iotex'
 import ipsxCOMPUTE from './ipsx'
 import iqAI from './iq'
 import irisTechnologyAI from './iris-technology'
-import jackalLabsCOMPUTE from './jackal-labs'
 import jasmineEnergyENERGY from './jasmine-energy'
-import jdiOTHER from './jdi'
-import jimAI from './jim'
+import jackalLabsCOMPUTE from './jackal-labs'
 import irysCOMPUTE from './irys'
+import jimAI from './jim'
 import jinniAI from './jinni'
-import jobchainOTHER from './jobchain'
 import jpegdNOT_DEPIN from './jpegd'
+import jobchainOTHER from './jobchain'
+import jdiOTHER from './jdi'
 import junoNOT_DEPIN from './juno'
 import jurOTHER from './jur'
-import jurnyonOTHER from './jurnyon'
 import kandolaCOMPUTE from './kandola'
 import kansiSolutionsOTHER from './kansi-solutions'
-import karrierOneWIRELESS from './karrier-one'
-import kinoNOT_DEPIN from './kino'
 import kiltOTHER from './kilt'
-import humcenNOT_DEPIN from './humcen'
+import jurnyonOTHER from './jurnyon'
+import karrierOneWIRELESS from './karrier-one'
+import hyperawareSENSORS from './hyperaware'
 import koiiOTHER from './koii'
 import koinosWIRELESS from './koinos'
 import kodaCOMPUTE from './koda'
-import gunecoOTHER from './gun-eco'
-import kunjiFinanceNOT_DEPIN from './kunji-finance'
-import kwilCOMPUTE from './kwil'
-import invisionAiOTHER from './invision-ai'
 import krooWIRELESS from './kroo'
+import kryptviewOTHER from './kryptview'
+import kunjiFinanceNOT_DEPIN from './kunji-finance'
+import kwaiAI from './kwai'
+import kyveCOMPUTE from './kyve'
+import lakeCOMPUTE from './lake'
+import kwilCOMPUTE from './kwil'
 import lavitaaiAI from './lavita-ai'
 import layerZeroOTHER from './layer-zero'
-import layeraiAI from './layerai'
 import lenaNOT_DEPIN from './lena'
 import lendwillNOT_DEPIN from './lendwill'
-import kwaiAI from './kwai'
+import layeraiAI from './layerai'
+import liberteCOMPUTE from './liberte'
 import livepeerCOMPUTE from './livepeer'
-import lighthouseCOMPUTE from './lighthouse'
 import localproOTHER from './localpro'
 import logosOTHER from './logos'
-import hotspottyNOT_DEPIN from './hotspotty'
-import luckySnakeNOT_DEPIN from './lucky-snake'
+import lighthouseCOMPUTE from './lighthouse'
 import longfiWIRELESS from './longfi'
+import loopNOT_DEPIN from './loop'
+import imbueNOT_DEPIN from './imbue'
 import lunyrAI from './lunyr'
 import m3teringENERGY from './m3tering'
-import maidsafecoinCOMPUTE from './maidsafecoin'
-import magnetaiAI from './magnetai'
-import mandeOTHER from './mande'
+import luckySnakeNOT_DEPIN from './lucky-snake'
 import mapmetricsSENSORS from './mapmetrics'
+import mandeOTHER from './mande'
+import masqCOMPUTE from './masq'
+import maidsafecoinCOMPUTE from './maidsafecoin'
 import massiveCOMPUTE from './massive'
-import lakeCOMPUTE from './lake'
 import matchxWIRELESS from './matchx'
+import matrixAiAI from './matrix-ai'
 import mawariCOMPUTE from './mawari'
 import medeleiteOTHER from './medeleite'
-import liberteCOMPUTE from './liberte'
-import mediaNetworkCOMPUTE from './media-network'
-import masqCOMPUTE from './masq'
 import mesonCOMPUTE from './meson'
-import kyveCOMPUTE from './kyve'
+import metabloxWIRELESS from './metablox'
 import metafiNOT_DEPIN from './metafi'
+import mediaNetworkCOMPUTE from './media-network'
 import metafouraiAI from './metafourai'
-import metaflyersNOT_DEPIN from './metaflyers'
 import metagravityCOMPUTE from './metagravity'
-import metaspaceNOT_DEPIN from './metaspace'
 import metaweaveOTHER from './metaweave'
 import metisNOT_DEPIN from './metis'
 import mevfreeAI from './mevfree'
+import microvisionchainNOT_DEPIN from './microvisionchain'
 import microaiNOT_DEPIN from './microai'
 import millicentLabsOTHER from './millicent-labs'
-import mindlandSENSORS from './mindland'
-import loopNOT_DEPIN from './loop'
-import metabloxWIRELESS from './metablox'
-import mintmeCOMPUTE from './mintme'
-import microvisionchainNOT_DEPIN from './microvisionchain'
+import mindsyncAI from './mindsync'
 import minimaNOT_DEPIN from './minima'
-import modaDaoNOT_DEPIN from './moda-dao'
+import metaflyersNOT_DEPIN from './metaflyers'
+import mintmeCOMPUTE from './mintme'
+import mindlandSENSORS from './mindland'
 import mobifiOTHER from './mobifi'
 import mintstarsNOT_DEPIN from './mintstars'
+import mobilianOTHER from './mobilian'
 import modalLabsCOMPUTE from './modal-labs'
-import moiProtocolNOT_DEPIN from './moi-protocol'
+import modaDaoNOT_DEPIN from './moda-dao'
+import halCOMPUTE from './hal'
 import moflixOTHER from './moflix'
-import monteCarloAI from './monte-carlo'
 import mogulOTHER from './mogul'
+import moiProtocolNOT_DEPIN from './moi-protocol'
+import moonbeamOTHER from './moonbeam'
+import monteCarloAI from './monte-carlo'
+import hivemapperSENSORS from './hivemapper'
 import motivusCOMPUTE from './motivus'
 import murallAI from './murall'
-import mxcNOT_DEPIN from './mxc'
-import myceliumWIRELESS from './mycelium'
+import aimedisOTHER from './aimedis'
 import mymessageCOMPUTE from './mymessage'
+import mysteriumWIRELESS from './mysterium'
+import myceliumWIRELESS from './mycelium'
 import natixSENSORS from './natix'
-import moonbeamOTHER from './moonbeam'
 import nestenWIRELESS from './nesten'
 import netmindaiCOMPUTE from './netmind-ai'
 import network3COMPUTE from './network3'
 import neuralInternetAI from './neural-internet'
-import neuraiAI from './neurai'
 import neuralRadianceFieldAI from './neural-radiance-field'
-import mobilianOTHER from './mobilian'
+import neuralagentWIRELESS from './neuralagent'
+import neuraiAI from './neurai'
 import neurosityOTHER from './neurosity'
-import neutralxAI from './neutralx'
-import neutroonWIRELESS from './neutroon'
-import mysteriumWIRELESS from './mysterium'
-import nexgenCloudCOMPUTE from './nexgen-cloud'
 import neutralOTHER from './neutral'
+import nfaiAI from './nfai'
+import nexgenCloudCOMPUTE from './nexgen-cloud'
+import neutralxAI from './neutralx'
 import nft3LabsOTHER from './nft3-labs'
-import matrixAiAI from './matrix-ai'
+import ngraveNOT_DEPIN from './ngrave'
 import nirvanaLabsCOMPUTE from './nirvana-labs'
 import nirvanaOTHER from './nirvana'
 import nknCOMPUTE from './nkn'
-import nitroLeagueNOT_DEPIN from './nitro-league'
 import nodleWIRELESS from './nodle'
 import noisegptAI from './noisegpt'
-import nomadpetitionNOT_DEPIN from './nomadpetition'
+import mxcNOT_DEPIN from './mxc'
 import nosanaCOMPUTE from './nosana'
-import noshDeliveryOTHER from './nosh-delivery'
+import nomadpetitionNOT_DEPIN from './nomadpetition'
 import notusLabsNOT_DEPIN from './notus-labs'
-import nucoCOMPUTE from './nuco'
 import numeraireAI from './numeraire'
+import nucoCOMPUTE from './nuco'
 import nunetCOMPUTE from './nunet'
-import nutboxOTHER from './nutbox'
+import noshDeliveryOTHER from './nosh-delivery'
 import nuveauxNOT_DEPIN from './nuveaux'
-import mindsyncAI from './mindsync'
 import oceanCOMPUTE from './ocean'
+import nutboxOTHER from './nutbox'
+import metaspaceNOT_DEPIN from './metaspace'
 import octaspaceCOMPUTE from './octaspace'
-import onocoySENSORS from './onocoy'
-import oninoNOT_DEPIN from './onino'
 import oniriNOT_DEPIN from './oniri'
+import onocoySENSORS from './onocoy'
 import opacityCOMPUTE from './opacity'
-import oraichainAI from './oraichain'
-import opisCloudCOMPUTE from './opis-cloud'
 import oortCOMPUTE from './oort'
-import origintrailAI from './origintrail'
+import opisCloudCOMPUTE from './opis-cloud'
+import oraichainAI from './oraichain'
 import orchidCOMPUTE from './orchid'
-import kryptviewOTHER from './kryptview'
-import otocoOTHER from './otoco'
-import oxaiAI from './oxai'
 import orchaiAI from './orchai'
-import passageOTHER from './passage'
-import panoAiSENSORS from './pano-ai'
-import peachOTHER from './peach'
-import peaqNOT_DEPIN from './peaq'
-import ngraveNOT_DEPIN from './ngrave'
 import originOTHER from './origin'
+import oninoNOT_DEPIN from './onino'
+import origintrailAI from './origintrail'
+import oxaiAI from './oxai'
+import paalAiAI from './paal-ai'
+import panoAiSENSORS from './pano-ai'
+import passageOTHER from './passage'
+import peaqNOT_DEPIN from './peaq'
+import perkableOTHER from './perkable'
+import otocoOTHER from './otoco'
 import petasticOTHER from './petastic'
 import phalaCOMPUTE from './phala'
+import peachOTHER from './peach'
 import phantasmaNOT_DEPIN from './phantasma'
-import phaverNOT_DEPIN from './phaver'
-import perkableOTHER from './perkable'
-import photonCOMPUTE from './photon'
-import dupeFiNOT_DEPIN from './dupe-fi'
-import picanteNOT_DEPIN from './picante'
-import pinkBnbAI from './pink-bnb'
 import phoenixGlobalAI from './phoenix-global'
+import phisheyeNOT_DEPIN from './phisheye'
+import photonCOMPUTE from './photon'
+import picanteNOT_DEPIN from './picante'
+import piSENSORS from './pi'
 import piknikCOMPUTE from './piknik'
+import pinkBnbAI from './pink-bnb'
+import pixiaaiAI from './pixiaai'
+import piphiSENSORS from './piphi'
 import pitchNOT_DEPIN from './pitch'
 import pktWIRELESS from './pkt'
-import planetwatchSENSORS from './planetwatch'
-import pixiaaiAI from './pixiaai'
+import phaverNOT_DEPIN from './phaver'
 import pluralEnergyENERGY from './plural-energy'
-import phisheyeNOT_DEPIN from './phisheye'
-import polybaseCOMPUTE from './polybase'
-import pollenMobileWIRELESS from './pollen-mobile'
-import portalverseCOMPUTE from './portalverse'
-import piphiSENSORS from './piphi'
-import piSENSORS from './pi'
+import magnetaiAI from './magnetai'
 import polymathicNOT_DEPIN from './polymathic'
+import portalverseCOMPUTE from './portalverse'
+import pocketCOMPUTE from './pocket'
+import kinoNOT_DEPIN from './kino'
 import powerledgerENERGY from './powerledger'
+import poseidenCOMPUTE from './poseiden'
+import polybaseCOMPUTE from './polybase'
+import nitroLeagueNOT_DEPIN from './nitro-league'
+import pollenMobileWIRELESS from './pollen-mobile'
 import presearchOTHER from './presearch'
-import privaseaAI from './privasea'
-import privioAI from './privio'
-import prodiaNOT_DEPIN from './prodia'
-import nfaiAI from './nfai'
-import protoSENSORS from './proto'
-import propheticSENSORS from './prophetic'
 import proximaxCOMPUTE from './proximax'
+import privioAI from './privio'
 import publicKeyFinancialOTHER from './public-key-financial'
 import publicaiAI from './publicai'
-import purebetNOT_DEPIN from './purebet'
-import purefiAI from './purefi'
+import privaseaAI from './privasea'
+import prodiaNOT_DEPIN from './prodia'
+import protoSENSORS from './proto'
 import pushProtocolWIRELESS from './push-protocol'
 import pyseOTHER from './pyse'
 import qCtrlNOT_DEPIN from './q-ctrl'
 import qanplatformNOT_DEPIN from './qanplatform'
-import neuralagentWIRELESS from './neuralagent'
+import qlcChainWIRELESS from './qlc-chain'
+import propheticSENSORS from './prophetic'
 import qiroOTHER from './qiro'
 import qrlNOT_DEPIN from './qrl'
 import quadencyAI from './quadency'
-import qlcChainWIRELESS from './qlc-chain'
 import quantOTHER from './quant'
-import quantnetworkOTHER from './quant-network'
-import questbookNOT_DEPIN from './questbook'
-import quantinumWIRELESS from './quantinum'
-import raizOTHER from './raiz'
 import qualooWIRELESS from './qualoo'
+import quantnetworkOTHER from './quant-network'
+import quantinumWIRELESS from './quantinum'
+import questbookNOT_DEPIN from './questbook'
 import ravenProtocolAI from './raven-protocol'
+import quickIntelAI from './quick-intel'
+import raizOTHER from './raiz'
+import rddlWIRELESS from './rddl'
 import realioNOT_DEPIN from './realio'
+import reapchainNOT_DEPIN from './reapchain'
 import reallyWirelessWIRELESS from './really-wireless'
 import reclaimNOT_DEPIN from './reclaim'
 import regenOTHER from './regen'
-import rddlWIRELESS from './rddl'
-import renatusOTHER from './renatus'
-import reapchainNOT_DEPIN from './reapchain'
 import relayWIRELESS from './relay'
+import renatusOTHER from './renatus'
 import renderCOMPUTE from './render'
-import revofiWIRELESS from './revofi'
-import riddleAndcodeSENSORS from './riddle&code'
-import poseidenCOMPUTE from './poseiden'
-import roamWIRELESS from './roam'
-import rightsfuallyNOT_DEPIN from './rightsfually'
-import robotizedOTHER from './robotized'
-import rokoAI from './roko'
-import rollbitCoinNOT_DEPIN from './rollbit-coin'
-import rosoEliteGamblersMansionNOT_DEPIN from './roso-elite-gamblers-mansion'
 import revertNOT_DEPIN from './revert'
-import rowanENERGY from './rowan'
+import rightsfuallyNOT_DEPIN from './rightsfually'
+import riddleAndcodeSENSORS from './riddle&code'
+import roamWIRELESS from './roam'
+import roboteraNOT_DEPIN from './robotera'
+import revofiWIRELESS from './revofi'
+import rosoEliteGamblersMansionNOT_DEPIN from './roso-elite-gamblers-mansion'
+import robotizedOTHER from './robotized'
+import rollbitCoinNOT_DEPIN from './rollbit-coin'
+import rokoAI from './roko'
 import ruffNOT_DEPIN from './ruff'
-import rss3AI from './rss3'
 import rumiLabsNOT_DEPIN from './rumi-labs'
 import runloopAI from './runloop'
+import rowanENERGY from './rowan'
 import safeBankNOT_DEPIN from './safe-bank'
-import safeCOMPUTE from './safe'
-import saitoNOT_DEPIN from './saito'
+import rss3AI from './rss3'
 import safeHavenAI from './safe-haven'
+import saitoNOT_DEPIN from './saito'
 import sarcophagusOTHER from './sarcophagus'
-import saturnCOMPUTE from './saturn'
-import pulsefolioAI from './pulsefolio'
-import quickIntelAI from './quick-intel'
 import sayverCOMPUTE from './sayver'
-import secondliveOTHER from './secondlive'
-import scprimeCOMPUTE from './scprime'
+import safeCOMPUTE from './safe'
 import scynetCOMPUTE from './scynet'
+import secondliveOTHER from './secondlive'
+import saturnCOMPUTE from './saturn'
 import seedLabsOTHER from './seed-labs'
 import selfkeyAI from './selfkey'
-import sentinelCOMPUTE from './sentinel'
+import sensecapOTHER from './sensecap'
+import scprimeCOMPUTE from './scprime'
 import setNOT_DEPIN from './set'
 import setorosNOT_DEPIN from './setoros'
-import sensecapOTHER from './sensecap'
-import shardeumOTHER from './shardeum'
 import shadowStorageOTHER from './shadow-storage'
-import shibuyaOTHER from './shibuya'
 import shippedOTHER from './shipped'
-import sigloWIRELESS from './siglo'
+import shardeumOTHER from './shardeum'
+import shibuyaOTHER from './shibuya'
+import sentinelCOMPUTE from './sentinel'
 import shuttleLabsAI from './shuttle-labs'
 import siaCOMPUTE from './sia'
 import silencioSENSORS from './silencio'
 import silenceLaboratoriesNOT_DEPIN from './silence-laboratories'
+import sigloWIRELESS from './siglo'
 import silentLinkWIRELESS from './silent-link'
 import singularitynetAI from './singularitynet'
 import sitennaWIRELESS from './sitenna'
 import singularitydaoAI from './singularitydao'
-import skeyNOT_DEPIN from './skey'
 import skiffMailNOT_DEPIN from './skiff-mail'
-import sliceledgerNOT_DEPIN from './sliceledger'
-import skyTradesOTHER from './sky-trades'
 import smartcreditAI from './smartcredit'
+import sliceledgerNOT_DEPIN from './sliceledger'
 import smartpointSENSORS from './smartpoint'
+import skeyNOT_DEPIN from './skey'
 import soarchainSENSORS from './soarchain'
 import solanastockAI from './solanastock'
+import solcycleSENSORS from './solcycle'
 import solrazrNOT_DEPIN from './solrazr'
 import somosWIRELESS from './somos'
 import sonrNOT_DEPIN from './sonr'
-import spaceAndTimeCOMPUTE from './space-&-time'
 import souqOTHER from './souq'
-import solcycleSENSORS from './solcycle'
-import sqeioOTHER from './sqe-io'
+import spaceAndTimeCOMPUTE from './space-&-time'
+import spacemeshCOMPUTE from './spacemesh'
+import spexigonSENSORS from './spexigon'
 import spheronProtocolCOMPUTE from './spheron-protocol'
 import spreadsWIRELESS from './spreads'
+import sqeioOTHER from './sqe-io'
 import srcfulENERGY from './srcful'
-import stampNetworkAI from './stamp-network'
+import skyTradesOTHER from './sky-trades'
 import stackosCOMPUTE from './stackos'
+import stampNetworkAI from './stamp-network'
 import starpowerENERGY from './starpower'
-import stationxNOT_DEPIN from './stationx'
+import stationxnetworkNOT_DEPIN from './stationx-network'
 import steerfinanceCOMPUTE from './steerfinance'
-import spexigonSENSORS from './spexigon'
-import storjCOMPUTE from './storj'
+import stationxNOT_DEPIN from './stationx'
 import storeCOMPUTE from './store'
 import storxCOMPUTE from './storx'
-import stratosCOMPUTE from './stratos'
+import storjCOMPUTE from './storj'
 import streamrCOMPUTE from './streamr'
-import subqueryNOT_DEPIN from './subquery'
 import suanbotWIRELESS from './suanbot'
-import stationxnetworkNOT_DEPIN from './stationx-network'
-import subsquidOTHER from './subsquid'
+import subqueryNOT_DEPIN from './subquery'
 import sudoswapOTHER from './sudoswap'
-import spacemeshCOMPUTE from './spacemesh'
+import subsquidOTHER from './subsquid'
 import superalgosOTHER from './superalgos'
-import superlocalWIRELESS from './superlocal'
+import stratosCOMPUTE from './stratos'
 import superstakeAI from './superstake'
-import surgeOTHER from './surge'
-import supthoWIRELESS from './suptho'
-import swarmCOMPUTE from './swarm'
-import sweetyaiAI from './sweetyai'
-import syntropyNOT_DEPIN from './syntropy'
-import synesisOneAI from './synesis-one'
-import tablelandCOMPUTE from './tableland'
+import superlocalWIRELESS from './superlocal'
 import superchainNOT_DEPIN from './superchain'
+import surgeOTHER from './surge'
+import swarmCOMPUTE from './swarm'
+import supthoWIRELESS from './suptho'
 import switchElectricSENSORS from './switch-electric'
+import synesisOneAI from './synesis-one'
+import syntropyNOT_DEPIN from './syntropy'
+import tablelandCOMPUTE from './tableland'
 import taliotAI from './taliot'
-import tanssiOTHER from './tanssi'
+import sweetyaiAI from './sweetyai'
 import taoStudioAI from './tao-studio'
 import taoshiAI from './taoshi'
-import tapeNOT_DEPIN from './tape'
+import tanssiOTHER from './tanssi'
 import talAI from './tal'
-import roboteraNOT_DEPIN from './robotera'
-import taroverseNOT_DEPIN from './taroverse'
-import tdriveCOMPUTE from './tdrive'
+import tapeNOT_DEPIN from './tape'
+import taxaNOT_DEPIN from './taxa'
 import tazzOTHER from './tazz'
-import paalAiAI from './paal-ai'
+import tdriveCOMPUTE from './tdrive'
+import teaProjectCOMPUTE from './tea-project'
 import teleportOTHER from './teleport'
-import tempoOTHER from './tempo'
-import tepaxOTHER from './tepax'
+import taroverseNOT_DEPIN from './taroverse'
 import telosNOT_DEPIN from './telos'
-import terminal3COMPUTE from './terminal-3'
+import tempoOTHER from './tempo'
 import thalaOTHER from './thala'
+import tekkonOTHER from './tekkon'
 import theConvoSpaceNOT_DEPIN from './the-convo-space'
-import thetaFuelCOMPUTE from './theta-fuel'
 import theGraphOTHER from './the-graph'
-import threefoldCOMPUTE from './threefold'
+import tepaxOTHER from './tepax'
 import thexProtocolNOT_DEPIN from './thex-protocol'
-import tiesdbNOT_DEPIN from './ties-db'
 import togetheraiAI from './together-ai'
+import threefoldCOMPUTE from './threefold'
+import tiesdbNOT_DEPIN from './ties-db'
+import thetaFuelCOMPUTE from './theta-fuel'
 import tontineNOT_DEPIN from './tontine'
 import totemNOT_DEPIN from './totem'
-import traceAI from './trace'
 import tresorioCOMPUTE from './tresorio'
-import ubiqnetCOMPUTE from './ubiqnet'
-import ukatonSENSORS from './ukaton'
 import triasNOT_DEPIN from './trias'
-import unimoonAI from './unimoon'
+import traceAI from './trace'
+import ukatonSENSORS from './ukaton'
+import ubiqnetCOMPUTE from './ubiqnet'
 import ultronglowCOMPUTE from './ultronglow'
+import unimoonAI from './unimoon'
 import unlockNOT_DEPIN from './unlock'
-import untangledOTHER from './untangled'
 import uplexaOTHER from './uplexa'
+import terminal3COMPUTE from './terminal-3'
+import upfireCOMPUTE from './upfire'
+import untangledOTHER from './untangled'
 import uprockAI from './uprock'
 import us3rOTHER from './us3r'
-import usefulSensorsSENSORS from './useful-sensors'
-import upfireCOMPUTE from './upfire'
-import vaiotAI from './vaiot'
-import validationCloudOTHER from './validation-cloud'
-import valistNOT_DEPIN from './valist'
 import upsocialOTHER from './upsocial'
+import valistNOT_DEPIN from './valist'
+import usefulSensorsSENSORS from './useful-sensors'
+import validationCloudOTHER from './validation-cloud'
 import vastaiCOMPUTE from './vast-ai'
-import vayuNOT_DEPIN from './vayu'
-import vcSpectraNOT_DEPIN from './vc-spectra'
-import verasityOTHER from './verasity'
-import vectorspaceAiAI from './vectorspace-ai'
 import vaxchainOTHER from './vaxchain'
+import vcSpectraNOT_DEPIN from './vc-spectra'
+import vechainWIRELESS from './vechain'
+import vectorspaceAiAI from './vectorspace-ai'
+import vegaProtocolOTHER from './vega-protocol'
+import verasityOTHER from './verasity'
 import veridaNOT_DEPIN from './verida'
-import verisoulOTHER from './verisoul'
 import veritreeENERGY from './veritree'
+import verisoulOTHER from './verisoul'
 import vinciWorldAI from './vinci-world'
 import vip3OTHER from './vip3'
 import viperOTHER from './viper'
 import visionaryENERGY from './visionary'
 import volatilisOTHER from './volatilis'
-import pocketCOMPUTE from './pocket'
 import vpn3COMPUTE from './vpn3'
+import volmexOTHER from './volmex'
 import vulacoinNOT_DEPIN from './vulacoin'
 import vulcanForgedNOT_DEPIN from './vulcan-forged'
 import vuzecNOT_DEPIN from './vuzec'
-import vegaProtocolOTHER from './vega-protocol'
-import w3bstreamOTHER from './w3bstream'
-import teaProjectCOMPUTE from './tea-project'
-import warpContractsCOMPUTE from './warp-contracts'
+import vaiotAI from './vaiot'
 import waevOTHER from './waev'
-import weavechainOTHER from './weavechain'
+import warpContractsCOMPUTE from './warp-contracts'
 import wayruWIRELESS from './wayru'
-import weatherxmSENSORS from './weatherxm'
-import wedatanationOTHER from './wedatanation'
-import wefiNOT_DEPIN from './wefi'
 import weatherflowSENSORS from './weatherflow'
+import weatherxmSENSORS from './weatherxm'
+import neutroonWIRELESS from './neutroon'
+import w3bstreamOTHER from './w3bstream'
+import weaverLabsWIRELESS from './weaver-labs'
+import weavechainOTHER from './weavechain'
+import planetwatchSENSORS from './planetwatch'
+import wefiNOT_DEPIN from './wefi'
 import wesenditCOMPUTE from './wesendit'
-import wehealthOTHER from './wehealth'
-import wifiDabbaWIRELESS from './wifi-dabba'
-import wifiMapWIRELESS from './wifi-map'
 import weveWIRELESS from './weve'
-import wifidabbaWIRELESS from './wifidabba'
-import wingbitsSENSORS from './wingbits'
+import wehealthOTHER from './wehealth'
 import wicryptWIRELESS from './wicrypt'
-import winrProtocolNOT_DEPIN from './winr-protocol'
+import wifidabbaWIRELESS from './wifidabba'
+import wifiDabbaWIRELESS from './wifi-dabba'
+import wedatanationOTHER from './wedatanation'
 import wimanWIRELESS from './wiman'
+import wingbitsSENSORS from './wingbits'
+import wifiMapWIRELESS from './wifi-map'
 import wireNOT_DEPIN from './wire'
-import vechainWIRELESS from './vechain'
-import wsbShillsOTHER from './wsb-shills'
+import winrProtocolNOT_DEPIN from './winr-protocol'
+import worldMobileWIRELESS from './world-mobile'
 import wyndWIRELESS from './wynd'
 import xxNOT_DEPIN from './xx'
-import worldMobileWIRELESS from './world-mobile'
-import tekkonOTHER from './tekkon'
-import xyoSENSORS from './xyo'
-import yokaiOTHER from './yokai'
-import ylideProtocolOTHER from './ylide-protocol'
-import zeettasWIRELESS from './zeettas'
-import zeitgeistOTHER from './zeitgeist'
-import zenithereumAI from './zenithereum'
-import zeppelinOTHER from './zeppelin'
-import zkpassNOT_DEPIN from './zkpass'
-import zionNOT_DEPIN from './zion'
-import volmexOTHER from './volmex'
-import zusCOMPUTE from './zus'
-import zothOTHER from './zoth'
-import weaverLabsWIRELESS from './weaver-labs'
-import woollyFarmsOTHER from './woolly-farms'
-import taxaNOT_DEPIN from './taxa'
 import xnetWIRELESS from './xnet'
+import xyoSENSORS from './xyo'
+import ylideProtocolOTHER from './ylide-protocol'
+import woollyFarmsOTHER from './woolly-farms'
+import zeitgeistOTHER from './zeitgeist'
+import yokaiOTHER from './yokai'
+import zeettasWIRELESS from './zeettas'
+import zeppelinOTHER from './zeppelin'
+import zenithereumAI from './zenithereum'
+import zionNOT_DEPIN from './zion'
+import zothOTHER from './zoth'
+import wsbShillsOTHER from './wsb-shills'
+import zusCOMPUTE from './zus'
+import zkpassNOT_DEPIN from './zkpass'
+import purebetNOT_DEPIN from './purebet'
+import vayuNOT_DEPIN from './vayu'
+import sampleProject1WIRELESS from './sample-project-1'
+import purefiAI from './purefi'
+import pulsefolioAI from './pulsefolio'
 
 export const projects = [
-  _0x0aiAI,
-  _3numWIRELESS,
-  _4everlandCOMPUTE,
-  _1000housesOTHER,
+  _2appyNOT_DEPIN,
+  _3dosNOT_DEPIN,
   acornProtocolOTHER,
   acxynOTHER,
+  _0x0aiAI,
   aeronyxWIRELESS,
-  advantisAI,
-  aethirCOMPUTE,
+  agnostiqCOMPUTE,
+  agritokenOTHER,
   adhashOTHER,
+  aethirCOMPUTE,
+  advantisAI,
   ahoydaoOTHER,
   aiProtocolAI,
-  aimedisOTHER,
-  airoSENSORS,
+  _2bloxSENSORS,
   aioneAI,
-  airtorCOMPUTE,
-  aiozCOMPUTE,
-  akordCOMPUTE,
-  albedoNOT_DEPIN,
-  alephimCOMPUTE,
-  alpharushaiAI,
-  alt1OTHER,
-  altLabsCOMPUTE,
+  _3numWIRELESS,
   akashCOMPUTE,
-  alteredStateMachineAI,
-  altheaWIRELESS,
+  airoSENSORS,
+  akordCOMPUTE,
+  alpharushaiAI,
+  aiozCOMPUTE,
+  alt1OTHER,
+  albedoNOT_DEPIN,
+  altLabsCOMPUTE,
   anchorWalletNOT_DEPIN,
-  andrenaWIRELESS,
-  ankrOTHER,
-  anonNOT_DEPIN,
+  alephimCOMPUTE,
   allianceblockNOT_DEPIN,
+  alteredStateMachineAI,
+  airtorCOMPUTE,
+  andrenaWIRELESS,
+  altheaWIRELESS,
+  anonNOT_DEPIN,
+  ankrOTHER,
+  anryzeCOMPUTE,
   anticNOT_DEPIN,
+  apusAI,
   apillionOTHER,
   apronNOT_DEPIN,
-  apusAI,
-  arbitrumNOT_DEPIN,
   arcAI,
   archonCOMPUTE,
-  argonOTHER,
   aristotleaiAI,
-  anryzeCOMPUTE,
   artificialLiquidIntelligenceAI,
-  arkNOT_DEPIN,
-  arttooOTHER,
-  arweaveCOMPUTE,
+  argonOTHER,
   artifyAI,
-  ascensionwxSENSORS,
-  agritokenOTHER,
+  arweaveCOMPUTE,
   astonLabsENERGY,
   astranNOT_DEPIN,
+  arbitrumNOT_DEPIN,
+  arkNOT_DEPIN,
+  arttooOTHER,
   astriaNOT_DEPIN,
-  autochainOTHER,
-  auroraNOT_DEPIN,
   atlasNaviWIRELESS,
+  ascensionwxSENSORS,
+  auroraNOT_DEPIN,
+  autochainOTHER,
   asyncLabsCOMPUTE,
-  agnostiqCOMPUTE,
-  autonolasAI,
-  aydoSENSORS,
+  awareOTHER,
+  axisSENSORS,
   aventusOTHER,
-  bDatagrayCOMPUTE,
+  autonolasAI,
   bCubeaiAI,
   bacalhauCOMPUTE,
-  axisSENSORS,
   badIdeaAiAI,
+  aydoSENSORS,
   battleInfinityOTHER,
   banyanCOMPUTE,
   beegolWIRELESS,
   bazedNOT_DEPIN,
-  belugaNOT_DEPIN,
-  bigDataOTHER,
-  beyondOTHER,
   birdmoneyAI,
   bistrooOTHER,
+  bigDataOTHER,
+  bDatagrayCOMPUTE,
   bitnostreAI,
-  bitrockBlockchainOTHER,
-  bitpingCOMPUTE,
-  bittensorAI,
+  belugaNOT_DEPIN,
   blackCreekDigitalCOMPUTE,
   bitscrunchNOT_DEPIN,
   blackRabbitAiAI,
+  bitrockBlockchainOTHER,
+  bittensorAI,
   blackSheepGroupOTHER,
+  blackbirdOTHER,
   blackhatNOT_DEPIN,
-  blinqWIRELESS,
   blockcastCOMPUTE,
   blockchainBetsNOT_DEPIN,
-  awareOTHER,
-  blackbirdOTHER,
   blocklessOTHER,
-  bloxtelWIRELESS,
+  beyondOTHER,
+  blinqWIRELESS,
   blockrideOTHER,
   bloodchainOTHER,
-  bluebirdPowerENERGY,
-  boringProtocolCOMPUTE,
-  bonfireOTHER,
-  bostromAI,
-  borlaugWebServicesOTHER,
   blocksurveyNOT_DEPIN,
-  _2bloxSENSORS,
-  braintrustOTHER,
+  bitpingCOMPUTE,
+  bloxtelWIRELESS,
+  bonfireOTHER,
+  bluebirdPowerENERGY,
   bottoAI,
-  bridgeOracleOTHER,
-  braveOTHER,
+  borlaugWebServicesOTHER,
   brastorneOTHER,
+  boringProtocolCOMPUTE,
+  brainstemSENSORS,
+  bostromAI,
+  braveOTHER,
+  bridgeOracleOTHER,
+  braintrustOTHER,
   bubbleaiAI,
-  bumpWIRELESS,
   bwareLabsOTHER,
-  canvasOTHER,
-  caldanceSENSORS,
+  bumpWIRELESS,
   candelaENERGY,
-  cazkNOT_DEPIN,
-  centrifugeNOT_DEPIN,
-  cessCOMPUTE,
-  chaingptAI,
   cedalioOTHER,
-  chainlinkOTHER,
+  cazkNOT_DEPIN,
+  caldanceSENSORS,
   ceramicCOMPUTE,
+  chaingptAI,
+  centrifugeNOT_DEPIN,
+  canvasOTHER,
+  cessCOMPUTE,
+  cheezeOTHER,
+  chainlinkOTHER,
   chainmlAI,
-  checkdotAI,
-  chingariNOT_DEPIN,
-  cherryNOT_DEPIN,
-  chirpWirelessWIRELESS,
-  cirusNOT_DEPIN,
   cheqdNOT_DEPIN,
+  checkdotAI,
   cindicatorAI,
-  clapartOTHER,
-  cloreAiAI,
-  clickOTHER,
+  chirpWirelessWIRELESS,
+  cherryNOT_DEPIN,
   cirrusIpfsOTHER,
+  chingariNOT_DEPIN,
+  clickOTHER,
   cocoSwapNOT_DEPIN,
-  _3dosNOT_DEPIN,
-  colosseumOTHER,
   coldstackNOT_DEPIN,
-  connect3OTHER,
+  cirusNOT_DEPIN,
+  clapartOTHER,
+  colosseumOTHER,
   concordiaOTHER,
-  contextdaoCOMPUTE,
   complexlabsNOT_DEPIN,
+  collarNetworksNOT_DEPIN,
+  cloreAiAI,
+  constellationCOMPUTE,
+  connect3OTHER,
   cosmosaiAI,
-  _2appyNOT_DEPIN,
   cortexLabsAI,
-  createProtocolAI,
   crewdleWIRELESS,
   cpchainNOT_DEPIN,
-  cropoAI,
-  croquetOTHER,
-  cryptoaiAI,
-  cryptogrowNOT_DEPIN,
-  cryptomateNOT_DEPIN,
+  contextdaoCOMPUTE,
+  createProtocolAI,
+  crankkWIRELESS,
   crustCOMPUTE,
+  cryptogrowNOT_DEPIN,
+  croquetOTHER,
   cryptosatWIRELESS,
+  cryptomateNOT_DEPIN,
+  cryptoaiAI,
   d3COMPUTE,
-  dafiProtocolNOT_DEPIN,
-  dWebOTHER,
   daikspAI,
-  darkfiCOMPUTE,
   cudosCOMPUTE,
-  dataUnionOTHER,
-  databrokerCOMPUTE,
-  datagenOTHER,
-  datumNOT_DEPIN,
-  datsCOMPUTE,
+  darkfiCOMPUTE,
   darwiniaCommitmentTokenNOT_DEPIN,
+  dataUnionOTHER,
+  _4everlandCOMPUTE,
+  datagenOTHER,
+  datsCOMPUTE,
+  datumNOT_DEPIN,
+  dafiProtocolNOT_DEPIN,
   daylightENERGY,
   deepbrainChainCOMPUTE,
   dclimateOTHER,
-  deepGreenENERGY,
-  deeperCOMPUTE,
   debridgeNOT_DEPIN,
+  deeperCOMPUTE,
   deepsquareCOMPUTE,
-  defitOTHER,
   deepfakeaiAI,
-  defogNOT_DEPIN,
+  defitOTHER,
   demeNOT_DEPIN,
-  crankkWIRELESS,
-  cheezeOTHER,
-  dinariNOT_DEPIN,
+  defogNOT_DEPIN,
+  dexcheckAI,
+  deepGreenENERGY,
   deraOTHER,
-  dioneENERGY,
   dimoSENSORS,
+  dioneENERGY,
+  dinariNOT_DEPIN,
   dlteoSENSORS,
   dmailAI,
-  dexcheckAI,
-  dorSENSORS,
+  dojimaNOT_DEPIN,
   dolpinCOMPUTE,
-  dotmoovsAI,
-  droneLinkOTHER,
-  drifeSENSORS,
-  dslaProtocolNOT_DEPIN,
-  dropWirelessWIRELESS,
-  dstorCOMPUTE,
-  dtravelNOT_DEPIN,
-  brainstemSENSORS,
-  dynexSENSORS,
-  eclipseIofogCOMPUTE,
-  echoOTHER,
-  ecoblocksOTHER,
-  ecobytesSENSORS,
-  ecogenENERGY,
   digitalGaiaOTHER,
+  dotmoovsAI,
+  drifeSENSORS,
+  dorSENSORS,
+  dropWirelessWIRELESS,
+  drivexSENSORS,
+  dstorCOMPUTE,
+  droneLinkOTHER,
+  dynexSENSORS,
+  dupeFiNOT_DEPIN,
+  dslaProtocolNOT_DEPIN,
+  echoOTHER,
+  dtravelNOT_DEPIN,
+  eclipseIofogCOMPUTE,
+  ecobytesSENSORS,
+  ecoblocksOTHER,
+  ecogenENERGY,
   efaniWIRELESS,
+  cropoAI,
+  eloopOTHER,
+  elumicateOTHER,
   elixirProtocolNOT_DEPIN,
   electricTreeOTHER,
-  elementOTHER,
-  elumicateOTHER,
-  energywebENERGY,
-  eloopOTHER,
-  entheosENERGY,
   emergeNOT_DEPIN,
-  enzymeFinanceNOT_DEPIN,
-  epikProtocolAI,
+  energywebENERGY,
+  dWebOTHER,
+  elementOTHER,
+  entheosENERGY,
   epicsCOMPUTE,
-  envirobloqSENSORS,
-  equitoFinanceNOT_DEPIN,
   etherfiOTHER,
-  ethermailOTHER,
-  ethstorageNOT_DEPIN,
-  everdomeNOT_DEPIN,
-  evervisionCOMPUTE,
-  dojimaNOT_DEPIN,
+  enzymeFinanceNOT_DEPIN,
+  envirobloqSENSORS,
   ethforestaiAI,
+  equitoFinanceNOT_DEPIN,
+  everdomeNOT_DEPIN,
+  epikProtocolAI,
+  ethstorageNOT_DEPIN,
+  ethermailOTHER,
   everynameOTHER,
-  drivexSENSORS,
+  evervisionCOMPUTE,
   ezWifiWIRELESS,
   exabitsCOMPUTE,
   fact0rnOTHER,
-  fayeAI,
   fetchAI,
-  filecoinCOMPUTE,
-  fetchaiAI,
-  filswanCOMPUTE,
-  finterestNOT_DEPIN,
-  firstbatchCOMPUTE,
-  ezklAI,
-  collarNetworksNOT_DEPIN,
-  fishcoinOTHER,
-  filebaseOTHER,
-  fleekCOMPUTE,
-  fluxCOMPUTE,
-  fluenceCOMPUTE,
-  fluxbotNOT_DEPIN,
-  foilNOT_DEPIN,
-  foamSENSORS,
-  fonosterOTHER,
-  flaiWIRELESS,
-  fosterStudioOTHER,
-  frodobotsAI,
-  fogWorksCOMPUTE,
-  fungiCloudOTHER,
-  fxLandCOMPUTE,
-  fortaAI,
-  gamercoinCOMPUTE,
-  gaurdianaiAI,
-  gearOTHER,
-  fryFoundationSENSORS,
-  geeqNOT_DEPIN,
   exaProtocolCOMPUTE,
-  genesysgoCOMPUTE,
-  genomesioOTHER,
+  ezklAI,
+  filebaseOTHER,
+  filecoinCOMPUTE,
+  finterestNOT_DEPIN,
+  fishcoinOTHER,
+  fayeAI,
+  fetchaiAI,
+  fluenceCOMPUTE,
+  fluxCOMPUTE,
+  fluxbotNOT_DEPIN,
+  foamSENSORS,
+  fogWorksCOMPUTE,
+  foilNOT_DEPIN,
+  fonosterOTHER,
+  fortaAI,
+  fosterStudioOTHER,
+  fleekCOMPUTE,
+  frodobotsAI,
+  friendtechNOT_DEPIN,
+  fryFoundationSENSORS,
+  fxLandCOMPUTE,
+  fungiCloudOTHER,
+  galiotWIRELESS,
+  gamercoinCOMPUTE,
+  gearOTHER,
+  gaurdianaiAI,
+  firsttensorAI,
+  flaiWIRELESS,
+  generaitivAI,
+  gelatoCOMPUTE,
+  filswanCOMPUTE,
   gensynAI,
+  genesysgoCOMPUTE,
+  geeqNOT_DEPIN,
   geodnetSENSORS,
   giantWIRELESS,
-  gitpoapOTHER,
-  galiotWIRELESS,
-  gizaAI,
-  firsttensorAI,
   glacierNOT_DEPIN,
-  golemCOMPUTE,
-  gelatoCOMPUTE,
-  glowEnergyENERGY,
   glowstickNOT_DEPIN,
-  gnyAI,
-  gonnamakeitNOT_DEPIN,
-  generaitivAI,
+  glowEnergyENERGY,
+  genomesioOTHER,
+  golemCOMPUTE,
+  firstbatchCOMPUTE,
+  gpuCOMPUTE,
+  gizaAI,
+  goracleOTHER,
   gpuaudioCOMPUTE,
+  greenpowerENERGY,
   gputopiaCOMPUTE,
   greensparcCOMPUTE,
-  greenpowerENERGY,
-  constellationCOMPUTE,
-  griffyNOT_DEPIN,
   growfitterOTHER,
-  halCOMPUTE,
-  havenCOMPUTE,
-  hapiProtocolOTHER,
+  gnyAI,
+  gonnamakeitNOT_DEPIN,
+  griffyNOT_DEPIN,
+  gunecoOTHER,
+  gitpoapOTHER,
   healthblocksSENSORS,
   heataENERGY,
+  havenCOMPUTE,
   hedgehogCOMPUTE,
   heliumIotWIRELESS,
-  heliumWIRELESS,
-  friendtechNOT_DEPIN,
-  hexagonOTHER,
   heliumMobileWIRELESS,
-  hivelloWIRELESS,
+  heliumWIRELESS,
   heraFinanceAI,
-  heylanaSENSORS,
-  hivemapperSENSORS,
+  hapiProtocolOTHER,
+  hexagonOTHER,
+  hivelloWIRELESS,
   holoCOMPUTE,
   hoprWIRELESS,
-  humanOTHER,
-  gpuCOMPUTE,
-  humansaiAI,
-  hyperOracleOTHER,
+  hotspottyNOT_DEPIN,
   heliusOTHER,
-  hyperawareSENSORS,
+  humanOTHER,
+  heylanaSENSORS,
+  humansaiAI,
+  hyperbolicCOMPUTE,
+  hyperOracleOTHER,
   hypercycleAI,
+  humcenNOT_DEPIN,
+  databrokerCOMPUTE,
   hypersignNOT_DEPIN,
   hyperspaceAI,
   iagonOTHER,
-  iexecRlcCOMPUTE,
   iknowspotsNOT_DEPIN,
-  imbueNOT_DEPIN,
-  imgnaiAI,
+  _1000housesOTHER,
   impactmarketNOT_DEPIN,
+  imgnaiAI,
   impermaxNOT_DEPIN,
+  iexecRlcCOMPUTE,
   incognitoCOMPUTE,
   inferixGpuCOMPUTE,
   inheritanceArtAI,
-  injectiveNOT_DEPIN,
   insureAI,
   intSENSORS,
-  integriteeOTHER,
-  hyperbolicCOMPUTE,
+  injectiveNOT_DEPIN,
+  invisionAiOTHER,
   ionetAI,
-  goracleOTHER,
-  iotaOTHER,
   iotedgeCOMPUTE,
-  iotexSENSORS,
   iotexUcamSENSORS,
+  iotaOTHER,
+  integriteeOTHER,
+  iotexSENSORS,
   ipsxCOMPUTE,
   iqAI,
   irisTechnologyAI,
-  jackalLabsCOMPUTE,
   jasmineEnergyENERGY,
-  jdiOTHER,
-  jimAI,
+  jackalLabsCOMPUTE,
   irysCOMPUTE,
+  jimAI,
   jinniAI,
-  jobchainOTHER,
   jpegdNOT_DEPIN,
+  jobchainOTHER,
+  jdiOTHER,
   junoNOT_DEPIN,
   jurOTHER,
-  jurnyonOTHER,
   kandolaCOMPUTE,
   kansiSolutionsOTHER,
-  karrierOneWIRELESS,
-  kinoNOT_DEPIN,
   kiltOTHER,
-  humcenNOT_DEPIN,
+  jurnyonOTHER,
+  karrierOneWIRELESS,
+  hyperawareSENSORS,
   koiiOTHER,
   koinosWIRELESS,
   kodaCOMPUTE,
-  gunecoOTHER,
-  kunjiFinanceNOT_DEPIN,
-  kwilCOMPUTE,
-  invisionAiOTHER,
   krooWIRELESS,
+  kryptviewOTHER,
+  kunjiFinanceNOT_DEPIN,
+  kwaiAI,
+  kyveCOMPUTE,
+  lakeCOMPUTE,
+  kwilCOMPUTE,
   lavitaaiAI,
   layerZeroOTHER,
-  layeraiAI,
   lenaNOT_DEPIN,
   lendwillNOT_DEPIN,
-  kwaiAI,
+  layeraiAI,
+  liberteCOMPUTE,
   livepeerCOMPUTE,
-  lighthouseCOMPUTE,
   localproOTHER,
   logosOTHER,
-  hotspottyNOT_DEPIN,
-  luckySnakeNOT_DEPIN,
+  lighthouseCOMPUTE,
   longfiWIRELESS,
+  loopNOT_DEPIN,
+  imbueNOT_DEPIN,
   lunyrAI,
   m3teringENERGY,
-  maidsafecoinCOMPUTE,
-  magnetaiAI,
-  mandeOTHER,
+  luckySnakeNOT_DEPIN,
   mapmetricsSENSORS,
+  mandeOTHER,
+  masqCOMPUTE,
+  maidsafecoinCOMPUTE,
   massiveCOMPUTE,
-  lakeCOMPUTE,
   matchxWIRELESS,
+  matrixAiAI,
   mawariCOMPUTE,
   medeleiteOTHER,
-  liberteCOMPUTE,
-  mediaNetworkCOMPUTE,
-  masqCOMPUTE,
   mesonCOMPUTE,
-  kyveCOMPUTE,
+  metabloxWIRELESS,
   metafiNOT_DEPIN,
+  mediaNetworkCOMPUTE,
   metafouraiAI,
-  metaflyersNOT_DEPIN,
   metagravityCOMPUTE,
-  metaspaceNOT_DEPIN,
   metaweaveOTHER,
   metisNOT_DEPIN,
   mevfreeAI,
+  microvisionchainNOT_DEPIN,
   microaiNOT_DEPIN,
   millicentLabsOTHER,
-  mindlandSENSORS,
-  loopNOT_DEPIN,
-  metabloxWIRELESS,
-  mintmeCOMPUTE,
-  microvisionchainNOT_DEPIN,
+  mindsyncAI,
   minimaNOT_DEPIN,
-  modaDaoNOT_DEPIN,
+  metaflyersNOT_DEPIN,
+  mintmeCOMPUTE,
+  mindlandSENSORS,
   mobifiOTHER,
   mintstarsNOT_DEPIN,
+  mobilianOTHER,
   modalLabsCOMPUTE,
-  moiProtocolNOT_DEPIN,
+  modaDaoNOT_DEPIN,
+  halCOMPUTE,
   moflixOTHER,
-  monteCarloAI,
   mogulOTHER,
+  moiProtocolNOT_DEPIN,
+  moonbeamOTHER,
+  monteCarloAI,
+  hivemapperSENSORS,
   motivusCOMPUTE,
   murallAI,
-  mxcNOT_DEPIN,
-  myceliumWIRELESS,
+  aimedisOTHER,
   mymessageCOMPUTE,
+  mysteriumWIRELESS,
+  myceliumWIRELESS,
   natixSENSORS,
-  moonbeamOTHER,
   nestenWIRELESS,
   netmindaiCOMPUTE,
   network3COMPUTE,
   neuralInternetAI,
-  neuraiAI,
   neuralRadianceFieldAI,
-  mobilianOTHER,
+  neuralagentWIRELESS,
+  neuraiAI,
   neurosityOTHER,
-  neutralxAI,
-  neutroonWIRELESS,
-  mysteriumWIRELESS,
-  nexgenCloudCOMPUTE,
   neutralOTHER,
+  nfaiAI,
+  nexgenCloudCOMPUTE,
+  neutralxAI,
   nft3LabsOTHER,
-  matrixAiAI,
+  ngraveNOT_DEPIN,
   nirvanaLabsCOMPUTE,
   nirvanaOTHER,
   nknCOMPUTE,
-  nitroLeagueNOT_DEPIN,
   nodleWIRELESS,
   noisegptAI,
-  nomadpetitionNOT_DEPIN,
+  mxcNOT_DEPIN,
   nosanaCOMPUTE,
-  noshDeliveryOTHER,
+  nomadpetitionNOT_DEPIN,
   notusLabsNOT_DEPIN,
-  nucoCOMPUTE,
   numeraireAI,
+  nucoCOMPUTE,
   nunetCOMPUTE,
-  nutboxOTHER,
+  noshDeliveryOTHER,
   nuveauxNOT_DEPIN,
-  mindsyncAI,
   oceanCOMPUTE,
+  nutboxOTHER,
+  metaspaceNOT_DEPIN,
   octaspaceCOMPUTE,
-  onocoySENSORS,
-  oninoNOT_DEPIN,
   oniriNOT_DEPIN,
+  onocoySENSORS,
   opacityCOMPUTE,
-  oraichainAI,
-  opisCloudCOMPUTE,
   oortCOMPUTE,
-  origintrailAI,
+  opisCloudCOMPUTE,
+  oraichainAI,
   orchidCOMPUTE,
-  kryptviewOTHER,
-  otocoOTHER,
-  oxaiAI,
   orchaiAI,
-  passageOTHER,
-  panoAiSENSORS,
-  peachOTHER,
-  peaqNOT_DEPIN,
-  ngraveNOT_DEPIN,
   originOTHER,
+  oninoNOT_DEPIN,
+  origintrailAI,
+  oxaiAI,
+  paalAiAI,
+  panoAiSENSORS,
+  passageOTHER,
+  peaqNOT_DEPIN,
+  perkableOTHER,
+  otocoOTHER,
   petasticOTHER,
   phalaCOMPUTE,
+  peachOTHER,
   phantasmaNOT_DEPIN,
-  phaverNOT_DEPIN,
-  perkableOTHER,
-  photonCOMPUTE,
-  dupeFiNOT_DEPIN,
-  picanteNOT_DEPIN,
-  pinkBnbAI,
   phoenixGlobalAI,
+  phisheyeNOT_DEPIN,
+  photonCOMPUTE,
+  picanteNOT_DEPIN,
+  piSENSORS,
   piknikCOMPUTE,
+  pinkBnbAI,
+  pixiaaiAI,
+  piphiSENSORS,
   pitchNOT_DEPIN,
   pktWIRELESS,
-  planetwatchSENSORS,
-  pixiaaiAI,
+  phaverNOT_DEPIN,
   pluralEnergyENERGY,
-  phisheyeNOT_DEPIN,
-  polybaseCOMPUTE,
-  pollenMobileWIRELESS,
-  portalverseCOMPUTE,
-  piphiSENSORS,
-  piSENSORS,
+  magnetaiAI,
   polymathicNOT_DEPIN,
+  portalverseCOMPUTE,
+  pocketCOMPUTE,
+  kinoNOT_DEPIN,
   powerledgerENERGY,
+  poseidenCOMPUTE,
+  polybaseCOMPUTE,
+  nitroLeagueNOT_DEPIN,
+  pollenMobileWIRELESS,
   presearchOTHER,
-  privaseaAI,
-  privioAI,
-  prodiaNOT_DEPIN,
-  nfaiAI,
-  protoSENSORS,
-  propheticSENSORS,
   proximaxCOMPUTE,
+  privioAI,
   publicKeyFinancialOTHER,
   publicaiAI,
-  purebetNOT_DEPIN,
-  purefiAI,
+  privaseaAI,
+  prodiaNOT_DEPIN,
+  protoSENSORS,
   pushProtocolWIRELESS,
   pyseOTHER,
   qCtrlNOT_DEPIN,
   qanplatformNOT_DEPIN,
-  neuralagentWIRELESS,
+  qlcChainWIRELESS,
+  propheticSENSORS,
   qiroOTHER,
   qrlNOT_DEPIN,
   quadencyAI,
-  qlcChainWIRELESS,
   quantOTHER,
-  quantnetworkOTHER,
-  questbookNOT_DEPIN,
-  quantinumWIRELESS,
-  raizOTHER,
   qualooWIRELESS,
+  quantnetworkOTHER,
+  quantinumWIRELESS,
+  questbookNOT_DEPIN,
   ravenProtocolAI,
+  quickIntelAI,
+  raizOTHER,
+  rddlWIRELESS,
   realioNOT_DEPIN,
+  reapchainNOT_DEPIN,
   reallyWirelessWIRELESS,
   reclaimNOT_DEPIN,
   regenOTHER,
-  rddlWIRELESS,
-  renatusOTHER,
-  reapchainNOT_DEPIN,
   relayWIRELESS,
+  renatusOTHER,
   renderCOMPUTE,
-  revofiWIRELESS,
-  riddleAndcodeSENSORS,
-  poseidenCOMPUTE,
-  roamWIRELESS,
-  rightsfuallyNOT_DEPIN,
-  robotizedOTHER,
-  rokoAI,
-  rollbitCoinNOT_DEPIN,
-  rosoEliteGamblersMansionNOT_DEPIN,
   revertNOT_DEPIN,
-  rowanENERGY,
+  rightsfuallyNOT_DEPIN,
+  riddleAndcodeSENSORS,
+  roamWIRELESS,
+  roboteraNOT_DEPIN,
+  revofiWIRELESS,
+  rosoEliteGamblersMansionNOT_DEPIN,
+  robotizedOTHER,
+  rollbitCoinNOT_DEPIN,
+  rokoAI,
   ruffNOT_DEPIN,
-  rss3AI,
   rumiLabsNOT_DEPIN,
   runloopAI,
+  rowanENERGY,
   safeBankNOT_DEPIN,
-  safeCOMPUTE,
-  saitoNOT_DEPIN,
+  rss3AI,
   safeHavenAI,
+  saitoNOT_DEPIN,
   sarcophagusOTHER,
-  saturnCOMPUTE,
-  pulsefolioAI,
-  quickIntelAI,
   sayverCOMPUTE,
-  secondliveOTHER,
-  scprimeCOMPUTE,
+  safeCOMPUTE,
   scynetCOMPUTE,
+  secondliveOTHER,
+  saturnCOMPUTE,
   seedLabsOTHER,
   selfkeyAI,
-  sentinelCOMPUTE,
+  sensecapOTHER,
+  scprimeCOMPUTE,
   setNOT_DEPIN,
   setorosNOT_DEPIN,
-  sensecapOTHER,
-  shardeumOTHER,
   shadowStorageOTHER,
-  shibuyaOTHER,
   shippedOTHER,
-  sigloWIRELESS,
+  shardeumOTHER,
+  shibuyaOTHER,
+  sentinelCOMPUTE,
   shuttleLabsAI,
   siaCOMPUTE,
   silencioSENSORS,
   silenceLaboratoriesNOT_DEPIN,
+  sigloWIRELESS,
   silentLinkWIRELESS,
   singularitynetAI,
   sitennaWIRELESS,
   singularitydaoAI,
-  skeyNOT_DEPIN,
   skiffMailNOT_DEPIN,
-  sliceledgerNOT_DEPIN,
-  skyTradesOTHER,
   smartcreditAI,
+  sliceledgerNOT_DEPIN,
   smartpointSENSORS,
+  skeyNOT_DEPIN,
   soarchainSENSORS,
   solanastockAI,
+  solcycleSENSORS,
   solrazrNOT_DEPIN,
   somosWIRELESS,
   sonrNOT_DEPIN,
-  spaceAndTimeCOMPUTE,
   souqOTHER,
-  solcycleSENSORS,
-  sqeioOTHER,
+  spaceAndTimeCOMPUTE,
+  spacemeshCOMPUTE,
+  spexigonSENSORS,
   spheronProtocolCOMPUTE,
   spreadsWIRELESS,
+  sqeioOTHER,
   srcfulENERGY,
-  stampNetworkAI,
+  skyTradesOTHER,
   stackosCOMPUTE,
+  stampNetworkAI,
   starpowerENERGY,
-  stationxNOT_DEPIN,
+  stationxnetworkNOT_DEPIN,
   steerfinanceCOMPUTE,
-  spexigonSENSORS,
-  storjCOMPUTE,
+  stationxNOT_DEPIN,
   storeCOMPUTE,
   storxCOMPUTE,
-  stratosCOMPUTE,
+  storjCOMPUTE,
   streamrCOMPUTE,
-  subqueryNOT_DEPIN,
   suanbotWIRELESS,
-  stationxnetworkNOT_DEPIN,
-  subsquidOTHER,
+  subqueryNOT_DEPIN,
   sudoswapOTHER,
-  spacemeshCOMPUTE,
+  subsquidOTHER,
   superalgosOTHER,
-  superlocalWIRELESS,
+  stratosCOMPUTE,
   superstakeAI,
-  surgeOTHER,
-  supthoWIRELESS,
-  swarmCOMPUTE,
-  sweetyaiAI,
-  syntropyNOT_DEPIN,
-  synesisOneAI,
-  tablelandCOMPUTE,
+  superlocalWIRELESS,
   superchainNOT_DEPIN,
+  surgeOTHER,
+  swarmCOMPUTE,
+  supthoWIRELESS,
   switchElectricSENSORS,
+  synesisOneAI,
+  syntropyNOT_DEPIN,
+  tablelandCOMPUTE,
   taliotAI,
-  tanssiOTHER,
+  sweetyaiAI,
   taoStudioAI,
   taoshiAI,
-  tapeNOT_DEPIN,
+  tanssiOTHER,
   talAI,
-  roboteraNOT_DEPIN,
-  taroverseNOT_DEPIN,
-  tdriveCOMPUTE,
+  tapeNOT_DEPIN,
+  taxaNOT_DEPIN,
   tazzOTHER,
-  paalAiAI,
+  tdriveCOMPUTE,
+  teaProjectCOMPUTE,
   teleportOTHER,
-  tempoOTHER,
-  tepaxOTHER,
+  taroverseNOT_DEPIN,
   telosNOT_DEPIN,
-  terminal3COMPUTE,
+  tempoOTHER,
   thalaOTHER,
+  tekkonOTHER,
   theConvoSpaceNOT_DEPIN,
-  thetaFuelCOMPUTE,
   theGraphOTHER,
-  threefoldCOMPUTE,
+  tepaxOTHER,
   thexProtocolNOT_DEPIN,
-  tiesdbNOT_DEPIN,
   togetheraiAI,
+  threefoldCOMPUTE,
+  tiesdbNOT_DEPIN,
+  thetaFuelCOMPUTE,
   tontineNOT_DEPIN,
   totemNOT_DEPIN,
-  traceAI,
   tresorioCOMPUTE,
-  ubiqnetCOMPUTE,
-  ukatonSENSORS,
   triasNOT_DEPIN,
-  unimoonAI,
+  traceAI,
+  ukatonSENSORS,
+  ubiqnetCOMPUTE,
   ultronglowCOMPUTE,
+  unimoonAI,
   unlockNOT_DEPIN,
-  untangledOTHER,
   uplexaOTHER,
+  terminal3COMPUTE,
+  upfireCOMPUTE,
+  untangledOTHER,
   uprockAI,
   us3rOTHER,
-  usefulSensorsSENSORS,
-  upfireCOMPUTE,
-  vaiotAI,
-  validationCloudOTHER,
-  valistNOT_DEPIN,
   upsocialOTHER,
+  valistNOT_DEPIN,
+  usefulSensorsSENSORS,
+  validationCloudOTHER,
   vastaiCOMPUTE,
-  vayuNOT_DEPIN,
-  vcSpectraNOT_DEPIN,
-  verasityOTHER,
-  vectorspaceAiAI,
   vaxchainOTHER,
+  vcSpectraNOT_DEPIN,
+  vechainWIRELESS,
+  vectorspaceAiAI,
+  vegaProtocolOTHER,
+  verasityOTHER,
   veridaNOT_DEPIN,
-  verisoulOTHER,
   veritreeENERGY,
+  verisoulOTHER,
   vinciWorldAI,
   vip3OTHER,
   viperOTHER,
   visionaryENERGY,
   volatilisOTHER,
-  pocketCOMPUTE,
   vpn3COMPUTE,
+  volmexOTHER,
   vulacoinNOT_DEPIN,
   vulcanForgedNOT_DEPIN,
   vuzecNOT_DEPIN,
-  vegaProtocolOTHER,
-  w3bstreamOTHER,
-  teaProjectCOMPUTE,
-  warpContractsCOMPUTE,
+  vaiotAI,
   waevOTHER,
-  weavechainOTHER,
+  warpContractsCOMPUTE,
   wayruWIRELESS,
-  weatherxmSENSORS,
-  wedatanationOTHER,
-  wefiNOT_DEPIN,
   weatherflowSENSORS,
+  weatherxmSENSORS,
+  neutroonWIRELESS,
+  w3bstreamOTHER,
+  weaverLabsWIRELESS,
+  weavechainOTHER,
+  planetwatchSENSORS,
+  wefiNOT_DEPIN,
   wesenditCOMPUTE,
-  wehealthOTHER,
-  wifiDabbaWIRELESS,
-  wifiMapWIRELESS,
   weveWIRELESS,
-  wifidabbaWIRELESS,
-  wingbitsSENSORS,
+  wehealthOTHER,
   wicryptWIRELESS,
-  winrProtocolNOT_DEPIN,
+  wifidabbaWIRELESS,
+  wifiDabbaWIRELESS,
+  wedatanationOTHER,
   wimanWIRELESS,
+  wingbitsSENSORS,
+  wifiMapWIRELESS,
   wireNOT_DEPIN,
-  vechainWIRELESS,
-  wsbShillsOTHER,
+  winrProtocolNOT_DEPIN,
+  worldMobileWIRELESS,
   wyndWIRELESS,
   xxNOT_DEPIN,
-  worldMobileWIRELESS,
-  tekkonOTHER,
-  xyoSENSORS,
-  yokaiOTHER,
-  ylideProtocolOTHER,
-  zeettasWIRELESS,
-  zeitgeistOTHER,
-  zenithereumAI,
-  zeppelinOTHER,
-  zkpassNOT_DEPIN,
-  zionNOT_DEPIN,
-  volmexOTHER,
-  zusCOMPUTE,
-  zothOTHER,
-  weaverLabsWIRELESS,
-  woollyFarmsOTHER,
-  taxaNOT_DEPIN,
   xnetWIRELESS,
+  xyoSENSORS,
+  ylideProtocolOTHER,
+  woollyFarmsOTHER,
+  zeitgeistOTHER,
+  yokaiOTHER,
+  zeettasWIRELESS,
+  zeppelinOTHER,
+  zenithereumAI,
+  zionNOT_DEPIN,
+  zothOTHER,
+  wsbShillsOTHER,
+  zusCOMPUTE,
+  zkpassNOT_DEPIN,
+  purebetNOT_DEPIN,
+  vayuNOT_DEPIN,
+  sampleProject1WIRELESS,
+  purefiAI,
+  pulsefolioAI,
 ]
 
 export { AdapterProject } from './types'
