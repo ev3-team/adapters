@@ -1,6 +1,5 @@
-import { AdapterInvestor, AdapterProject } from '../dist'
-import { investors } from '../investors'
-import { projects } from '../projects'
+import { AdapterInvestor, investors } from '../investors'
+import { AdapterProject, projects } from '../projects'
 import { createNewId } from './utils'
 
 export const generateInvestorId = () => createNewId()(true, investors)
