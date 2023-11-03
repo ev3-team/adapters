@@ -2,6 +2,7 @@ import * as csv from 'fast-csv'
 import { createReadStream, existsSync } from 'node:fs'
 import fs from 'node:fs/promises'
 import path from 'node:path'
+import { investorToFileName, investorToVarName } from '../helpers'
 import { AdapterInvestor } from '../investors/types'
 
 /** Loop over the projects investors csv to get the total number of invested projects for each investor. */
@@ -40,40 +41,6 @@ export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
       .on('end', () => resolve(investorsProjectsCount))
   })
 }
-
-const investorToFileName = (investor: AdapterInvestor) =>
-  investor.name
-    .trim()
-    .toLowerCase()
-    .replaceAll(' ', '-')
-    .replaceAll('.', '-')
-    .replaceAll('+', '-plus-')
-    .replaceAll("'", '')
-    .replaceAll('&', '-&-')
-    .replaceAll('\\', '-')
-    .replaceAll('!', '-')
-
-const investorToVarName = (investor: AdapterInvestor) =>
-  investor.name
-    .trim()
-    .toLowerCase()
-    .replace(/-([a-z,1-9,A-Z])/g, (g) => g[1].toUpperCase())
-    // if the investor name start with a number then add an underscore as prefix
-    .replace(/^[1-9]/, (g) => `_${g}`)
-    // unexpected characters
-    .replaceAll('(', '')
-    .replaceAll(')', '')
-    .replaceAll('.', '')
-    .replaceAll(' ', '')
-    .replaceAll("'", '')
-    .replaceAll('&', 'And')
-    .replaceAll('\\', '')
-    .replaceAll('!', '')
-    .replaceAll('+', 'Plus')
-    // reserved words
-    .replaceAll('continue', '_continue')
-    .replaceAll('public', '_public')
-    .replaceAll('true', '_true')
 
 /** Loop over the investors csv and updates investors .ts files. */
 async function run() {

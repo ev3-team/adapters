@@ -4,7 +4,8 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import { AdapterProject } from '../projects'
 import { AdapterProjectCategory, AdapterProjectChain, AdapterProjectToken } from '../projects/types'
-import { getProjectCmcIdBySlug } from './utils'
+import { getProjectCmcIdBySlug } from '../helpers/utils'
+import { projectToFileName, projectToVarName } from '../helpers'
 
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
@@ -36,25 +37,6 @@ export function getProjectsInvestors(): Promise<Map<string, string[]>> {
       .on('end', () => resolve(projectsInvestors))
   })
 }
-
-const projectToFileName = (project: AdapterProject) =>
-  project.name.trim().toLowerCase().replaceAll("'", '').replaceAll(' ', '-').replaceAll('.', '-')
-
-const projectToVarName = (project: AdapterProject) =>
-  project.name
-    .trim()
-    .toLowerCase()
-    // unexpected characters
-    .replaceAll('(', '')
-    .replaceAll(')', '')
-    .replaceAll('.', '')
-    .replaceAll("'", '')
-    .replaceAll('&', 'And')
-    .replaceAll(' ', '-')
-    .replace(/-([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
-    // if the project name start with a number then add an underscore as prefix
-    .replace(/^[0-9]/, (g) => `_${g}`)
-    .concat(`${project.category[0]}${project.category.slice(1, project.category.length)}`)
 
 type ParsedProject = Omit<AdapterProject, 'cmcId'> & { cmcSlug: string }
 

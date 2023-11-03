@@ -1,6 +1,5 @@
-import { createNewId } from './utils'
-import { projects } from '../projects'
+import { generateProjectId } from '../helpers'
 
-createNewId()(true, projects).then((id) =>
+generateProjectId().then((id) =>
   console.info(`You can use the following id for your project: "${id}"`)
 )

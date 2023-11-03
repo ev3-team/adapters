@@ -1,6 +1,5 @@
-import { createNewId } from './utils'
-import { investors } from '../investors'
+import { generateInvestorId } from '../helpers'
 
-createNewId()(true, investors).then((id) =>
+generateInvestorId().then((id) =>
   console.info(`You can use the following id for the new investor: "${id}"`)
 )
