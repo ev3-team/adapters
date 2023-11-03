@@ -1,7 +1,9 @@
+import * as csv from 'fast-csv'
 import assert from 'node:assert'
-import { projects } from '../projects'
+import { createReadStream, readdirSync, readFileSync } from 'node:fs'
+import path from 'node:path'
 import { investors } from '../investors'
-import { readdirSync, readFileSync } from 'node:fs'
+import { projects } from '../projects'
 
 const investorsIds = investors.map(({ id }) => id)
 
@@ -36,6 +38,18 @@ const investorsIds = investors.map(({ id }) => id)
     dirs.length,
     'Expected the number of investors exported to be the same as the number of directories under the investors directory.'
   )
+
+  // Validate csv and folder are in sync
+  const investorsNames = investors.map((investor) => investor.name)
+  createReadStream(path.resolve(__dirname, 'data/DePIN-Investors.csv'))
+    .pipe(csv.parse({ headers: true }))
+    .on('error', (error) => console.error(error))
+    .on('data', async (row) => {
+      assert(
+        investorsNames.includes(row.name),
+        `Investor with name: "${row[0]}" found in DePIN-Investors.csv was not found in investors list.  Make sure all investors in the investors csv exist in the investors folder. Run \`pnpm update:investors\` to update investors list.`
+      )
+    })
 }
 
 /** Projects validations */
@@ -91,4 +105,16 @@ const investorsIds = investors.map(({ id }) => id)
       } with investors: ${project.investors.join(', ')}`
     )
   )
+
+  // Validate csv and folder are in sync
+  const projectsNames = projects.map((project) => project.name)
+  createReadStream(path.resolve(__dirname, 'data/DePIN-Projects.csv'))
+    .pipe(csv.parse({ headers: true }))
+    .on('error', (error) => console.error(error))
+    .on('data', async (row) =>
+      assert(
+        projectsNames.includes(row.name),
+        `Project with name: "${row.name}" found in DePIN-Projects.csv was not found in projects list.  Make sure all projects in the projects csv exist in the projects folder. Run \`pnpm update:projects\` to update projects list.`
+      )
+    )
 }
