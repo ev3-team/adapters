@@ -11,4 +11,5 @@ export default {
     'Dinari: dShare Platform with real-world asset backed tokens, granting access to securities on Arbitrum network.',
   investors: [],
   cmcSlug: 'dinari-nvda-dshares',
+  duneQueries: null,
 } satisfies AdapterProject

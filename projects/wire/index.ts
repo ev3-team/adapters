@@ -10,4 +10,5 @@ export default {
   description: 'Wire: blockchain with APOS consensus for user growth.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Decentralized conversation layer powering Web3.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

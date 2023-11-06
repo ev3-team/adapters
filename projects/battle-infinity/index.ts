@@ -11,4 +11,5 @@ export default {
     'Battle Infinity: Metaverse gaming platform with P2E battle games in IBAT Battle Arena.',
   investors: [],
   cmcSlug: 'battle-infinity',
+  duneQueries: null,
 } satisfies AdapterProject

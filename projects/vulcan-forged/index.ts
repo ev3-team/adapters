@@ -11,4 +11,5 @@ export default {
     'Vulcan Studios - web3 gaming, Elysium - carbon-neutral blockchain, MetaScapes - upcoming Metaverse-as-a-Service',
   investors: [],
   cmcSlug: 'vulcan-forged',
+  duneQueries: null,
 } satisfies AdapterProject

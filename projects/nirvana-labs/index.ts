@@ -10,4 +10,5 @@ export default {
   description: 'Nirvana Labs: web3 infrastructure for blockchain apps.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

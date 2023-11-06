@@ -340,6 +340,16 @@ export type AdapterProjectToken =
   | 'ZTG'
   | 'ZION'
 
+export type AdapterProjectDuneQueryIdentifiers = {
+  BURN?: string
+  LOCKED_BALANCE?: string
+  MINT?: string
+  PRICE?: string
+  REVENUE?: string
+  SUPPLY?: string
+  TIME_SERIES?: string
+}
+
 export type AdapterProject = {
   id: string
   category: AdapterProjectCategory
@@ -350,4 +360,5 @@ export type AdapterProject = {
   investors: string[]
   name: string
   token: AdapterProjectToken | null
+  duneQueries: AdapterProjectDuneQueryIdentifiers | null
 }

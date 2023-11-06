@@ -11,4 +11,5 @@ export default {
     'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
   investors: [],
   cmcSlug: 'proximax',
+  duneQueries: null,
 } satisfies AdapterProject

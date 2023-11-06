@@ -10,4 +10,5 @@ export default {
   description: 'Giza is a collaborative platform for the development of AI.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

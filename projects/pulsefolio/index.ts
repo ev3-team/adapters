@@ -10,4 +10,5 @@ export default {
   description: 'Decentralized AI protocol for personalized investment strategies.',
   investors: [],
   cmcSlug: 'pulsefolio',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'AdHash: direct data exchange between publishers and advertisers, no intermediaries',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

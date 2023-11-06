@@ -10,4 +10,10 @@ export default {
   description: 'Helium is a decentralized network for IoT.',
   investors: [],
   cmcSlug: 'helium',
+  duneQueries: {
+    MINT: '2573591',
+    REVENUE: '2944853',
+    SUPPLY: '3043582',
+    TIME_SERIES: '2944860',
+  },
 } satisfies AdapterProject

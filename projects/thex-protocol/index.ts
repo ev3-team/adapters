@@ -11,4 +11,5 @@ export default {
     'Next-gen Web3 protocol for seamless transition, adoption, scalability, security, and user-friendliness.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

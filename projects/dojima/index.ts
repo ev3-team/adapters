@@ -10,4 +10,5 @@ export default {
   description: 'Dojima is an omnichain EVM layer enabling cross-chain applications.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

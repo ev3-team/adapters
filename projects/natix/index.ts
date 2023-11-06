@@ -10,4 +10,5 @@ export default {
   description: 'NATIX is a decentralized real-time mapping & surveillance network.',
   investors: ['hbpmm3', 'a1uyxq', 'w19rhh', 'a0nm72', '3kp2zb', '4dh0t9', 'shd729', '4lr8v7'],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'OxAI: Decentralized AI & blockchain for accessible secure computation.',
   investors: [],
   cmcSlug: 'oxai-com',
+  duneQueries: null,
 } satisfies AdapterProject

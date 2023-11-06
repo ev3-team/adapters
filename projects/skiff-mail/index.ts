@@ -11,4 +11,5 @@ export default {
     'Skiff Mail: Open-source email app with privacy, encryption, and collaboration via Skiff Pages.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -36,4 +36,5 @@ export default {
     'h3vz69',
   ],
   cmcSlug: 'drife',
+  duneQueries: null,
 } satisfies AdapterProject

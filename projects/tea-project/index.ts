@@ -10,4 +10,5 @@ export default {
   description: 'TEA Project: decentralized cloud computing for serverless apps.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

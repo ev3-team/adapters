@@ -10,4 +10,5 @@ export default {
   description: 'Modal Labs offers Modal, a runtime for data teams.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

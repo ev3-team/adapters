@@ -10,4 +10,5 @@ export default {
   description: 'Drop Wireless is a stealth project built on IoTeX.',
   investors: [],
   cmcSlug: 'drop-wireless-infrastructure',
+  duneQueries: null,
 } satisfies AdapterProject

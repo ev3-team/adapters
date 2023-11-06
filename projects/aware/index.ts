@@ -10,4 +10,5 @@ export default {
   description: 'AWARE traces cotton with tracer particles to ensure sustainable textiles.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

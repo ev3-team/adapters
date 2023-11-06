@@ -10,4 +10,5 @@ export default {
   description: 'Hapi Protocol: Cross-chain protocol for DeFi security.',
   investors: [],
   cmcSlug: 'hapi-one',
+  duneQueries: null,
 } satisfies AdapterProject

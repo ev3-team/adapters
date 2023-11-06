@@ -11,4 +11,5 @@ export default {
     'WeSendit is a file transfer service specializing in anonymous data transfer and decentralized storage solutions.',
   investors: [],
   cmcSlug: 'wesendit',
+  duneQueries: null,
 } satisfies AdapterProject

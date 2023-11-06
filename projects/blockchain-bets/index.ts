@@ -11,4 +11,5 @@ export default {
     'Blockchain Bets - decentralized casino & sports betting platform on blockchain for transparency & security.',
   investors: [],
   cmcSlug: 'blockchain-bets',
+  duneQueries: null,
 } satisfies AdapterProject

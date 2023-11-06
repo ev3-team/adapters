@@ -11,4 +11,5 @@ export default {
     'ReapChain: Hybrid blockchain solving trilemma and integrating IoT through distributed storage and PID.',
   investors: [],
   cmcSlug: 'reapchain',
+  duneQueries: null,
 } satisfies AdapterProject

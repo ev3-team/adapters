@@ -21,4 +21,5 @@ export default {
     'tfi9fe',
   ],
   cmcSlug: 'siacoin',
+  duneQueries: null,
 } satisfies AdapterProject

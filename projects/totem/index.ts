@@ -11,4 +11,5 @@ export default {
     'Decentralized ecosystem for game developers, enabling collaboration and revenue earning.',
   investors: [],
   cmcSlug: 'dragonmaster-totem',
+  duneQueries: null,
 } satisfies AdapterProject

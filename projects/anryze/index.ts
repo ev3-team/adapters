@@ -11,4 +11,5 @@ export default {
     'Anryze is a decentralized data processing network where complex tasks can be distributed and run simultaneously.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

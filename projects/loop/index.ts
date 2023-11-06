@@ -10,4 +10,5 @@ export default {
   description: 'Loop is a Layer-1 crypto ecosystem to address scalability in smart contracts.',
   investors: [],
   cmcSlug: 'loopnetwork',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Surge is a decentralized p2p filesharing app that ensures 100% anonymous file transfers through blockchain technology.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

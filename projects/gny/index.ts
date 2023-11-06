@@ -11,4 +11,5 @@ export default {
     'GNY is a ML predictive platform for blockchain, identifying patterns & predicting user behavior for targeted messaging.',
   investors: [],
   cmcSlug: 'gny',
+  duneQueries: null,
 } satisfies AdapterProject

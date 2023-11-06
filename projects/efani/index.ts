@@ -11,4 +11,5 @@ export default {
     'Efani is a provider of secure mobile services that protect high-risk individuals from mobile hacks.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

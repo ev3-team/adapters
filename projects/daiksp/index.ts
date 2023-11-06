@@ -11,4 +11,5 @@ export default {
     'DAIKSP is a decentralized AI platform that combines blockchain technology to revolutionize knowledge sharing.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

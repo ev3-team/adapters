@@ -11,4 +11,5 @@ export default {
     'Chainlink enables connected smart contracts through a decentralized oracle network.',
   investors: [],
   cmcSlug: 'chainlink',
+  duneQueries: null,
 } satisfies AdapterProject

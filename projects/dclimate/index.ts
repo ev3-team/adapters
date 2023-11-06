@@ -11,4 +11,5 @@ export default {
     'dClimate: Decentralized climate data network that standardizes and distributes climate data, forecasts, and models.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

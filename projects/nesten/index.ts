@@ -11,4 +11,5 @@ export default {
     'Nesten - telecom company revolutionizing industry with community-driven network ops & blockchain.',
   investors: [],
   cmcSlug: 'nesten',
+  duneQueries: null,
 } satisfies AdapterProject

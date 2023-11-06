@@ -11,4 +11,5 @@ export default {
     'MetaFlyers: a decentralized rewards marketplace connecting consumers, brands, and NFT communities.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Bostrom is a network focused on Superintelligence, serving as a hub for domain specific networks in the Cyber ecosystem.',
   investors: [],
   cmcSlug: 'bostrom',
+  duneQueries: null,
 } satisfies AdapterProject

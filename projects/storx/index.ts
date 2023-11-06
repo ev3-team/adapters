@@ -11,4 +11,5 @@ export default {
     'StorX is a decentralized cloud storage network enabling permissionless selling/leasing of storage capacity.',
   investors: [],
   cmcSlug: 'storx',
+  duneQueries: null,
 } satisfies AdapterProject

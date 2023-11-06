@@ -10,4 +10,5 @@ export default {
   description: 'Stealth trading system in progress.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'IO.Net is a decentralized computing platform for ML applications built on Solana.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

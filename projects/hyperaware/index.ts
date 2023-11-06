@@ -11,4 +11,5 @@ export default {
     'Hyperaware: a decentralized app for governing connected devices based on location, utilizing IoT and smart contracts.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

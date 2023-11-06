@@ -10,4 +10,5 @@ export default {
   description: 'Decentralized digital inheritance',
   investors: [],
   cmcSlug: 'safe-haven',
+  duneQueries: null,
 } satisfies AdapterProject

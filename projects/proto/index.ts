@@ -11,4 +11,5 @@ export default {
     'Proto is a geospatial data company revolutionizing the industry through a user-generated mapping platform.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

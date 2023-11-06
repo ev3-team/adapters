@@ -10,4 +10,5 @@ export default {
   description: 'SolRazr is a decentralized developer ecosystem for Solana.',
   investors: [],
   cmcSlug: 'solrazr',
+  duneQueries: null,
 } satisfies AdapterProject

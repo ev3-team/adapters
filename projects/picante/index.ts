@@ -11,4 +11,5 @@ export default {
     'PICANTE is a crypto portfolio and treasury management platform for Web3 companies, DAOs and investors.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

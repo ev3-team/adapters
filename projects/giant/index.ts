@@ -11,4 +11,5 @@ export default {
     'GIANT is a blockchain protocol aiming to democratize access to internet and financial services by tokenizing bandwidth.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

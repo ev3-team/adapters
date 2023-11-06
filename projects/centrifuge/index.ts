@@ -10,4 +10,5 @@ export default {
   description: 'Decentralized OS for global financial supply chain, enabling data ownership.',
   investors: [],
   cmcSlug: 'centrifuge',
+  duneQueries: null,
 } satisfies AdapterProject

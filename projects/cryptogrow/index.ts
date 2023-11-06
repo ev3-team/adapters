@@ -11,4 +11,5 @@ export default {
     'CryptoGrow disrupts markets with decentralized hardware for growing cannabis at home and earning crypto.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

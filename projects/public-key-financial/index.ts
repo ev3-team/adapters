@@ -11,4 +11,5 @@ export default {
     'Pioneering a fiat backed, yield-bearing transferable token using a unique US-based regulatory strategy. Their token would bring money market yields on chain, accessible to retail and institutional users worldwide.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

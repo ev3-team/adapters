@@ -10,4 +10,5 @@ export default {
   description: 'Geeq is a multi-blockchain platform secured by Proof of Honesty protocol.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

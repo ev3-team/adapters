@@ -11,4 +11,5 @@ export default {
     'Nutbox is a web3 DAO infrastructure enabling users to easily build blockchain-based organizations.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

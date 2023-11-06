@@ -11,4 +11,5 @@ export default {
     'Shuttle Labs: AI-powered platform that transforms blockchains into accessible sources for analytics and automation.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Advantis AI empowers crypto enthusiasts with innovative solutions like AI Outlook, Scanner, and University.',
   investors: [],
   cmcSlug: 'advantis',
+  duneQueries: null,
 } satisfies AdapterProject

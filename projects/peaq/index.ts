@@ -10,4 +10,5 @@ export default {
   description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

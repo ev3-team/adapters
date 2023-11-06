@@ -11,4 +11,5 @@ export default {
     'Moflix enables telco operators to become the backbone of Web3 by issuing fully regulatory compliant Web3 access to their customers',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

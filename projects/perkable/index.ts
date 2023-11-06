@@ -11,4 +11,5 @@ export default {
     'Perkable is a decentralized advertising network connecting brands to local live events.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

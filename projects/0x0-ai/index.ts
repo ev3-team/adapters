@@ -10,4 +10,5 @@ export default {
   description: '0x0.ai - AI for secure smart contract development',
   investors: [],
   cmcSlug: '0x0-ai-ai-smart-contract',
+  duneQueries: null,
 } satisfies AdapterProject

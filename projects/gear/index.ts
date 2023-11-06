@@ -10,4 +10,5 @@ export default {
   description: 'Gear: smart contracts, user-friendly, secure networks, infinite sharding.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

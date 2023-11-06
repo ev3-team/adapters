@@ -21,4 +21,5 @@ export default {
     'o6u62z',
   ],
   cmcSlug: 'nkn',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Rollbit offers casino games, sportsbook, futures trading, and NFT trading.',
   investors: [],
   cmcSlug: 'rollbit-coin',
+  duneQueries: null,
 } satisfies AdapterProject

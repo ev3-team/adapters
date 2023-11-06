@@ -10,4 +10,5 @@ export default {
   description: 'Dotmoovs uses AI scoring & monetization through $MOOVs investment.',
   investors: [],
   cmcSlug: 'dotmoovs',
+  duneQueries: null,
 } satisfies AdapterProject

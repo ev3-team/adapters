@@ -10,4 +10,5 @@ export default {
   description: 'UBIQnet - decentralized computing with blockchain tech.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

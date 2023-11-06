@@ -21,4 +21,5 @@ export default {
     'mv230f',
   ],
   cmcSlug: 'origintrail',
+  duneQueries: null,
 } satisfies AdapterProject

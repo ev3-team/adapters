@@ -11,4 +11,5 @@ export default {
     'XYO is a blockchain network of 3 million IoT devices that collects and validates geospatial data anonymously.',
   investors: [],
   cmcSlug: 'xyo',
+  duneQueries: null,
 } satisfies AdapterProject

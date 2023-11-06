@@ -10,4 +10,5 @@ export default {
   description: 'Creator-owned dApp protocol revolutionizing IP creation in the Metaverse space.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

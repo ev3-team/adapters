@@ -11,4 +11,5 @@ export default {
     'Streamr is a decentralised protocol providing data pipelines, network analytics, and instant messaging.',
   investors: ['73kuet', 'cm89up'],
   cmcSlug: 'streamr',
+  duneQueries: null,
 } satisfies AdapterProject

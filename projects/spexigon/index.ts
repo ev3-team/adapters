@@ -24,4 +24,5 @@ export default {
     'ot2qso',
   ],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

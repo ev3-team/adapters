@@ -11,4 +11,5 @@ export default {
     'Forta is a real-time detection network for blockchain activity, providing alerts to neutralize threats and prevent loss.',
   investors: [],
   cmcSlug: 'forta',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Goracle is a decentralized oracle network on the Algorand blockchain connecting customers with the algorand blockchain.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

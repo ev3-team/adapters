@@ -10,4 +10,5 @@ export default {
   description: 'Decentralized asset management and trading platform with secure investments.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

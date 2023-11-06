@@ -10,4 +10,5 @@ export default {
   description: 'Hexagon builds and operates decentralized wireless infrastructure.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

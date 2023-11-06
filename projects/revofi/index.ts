@@ -10,4 +10,5 @@ export default {
   description: 'RevoFi is a decentralized wireless infrastructure platform.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

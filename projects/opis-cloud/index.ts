@@ -11,4 +11,5 @@ export default {
     'Opis Group is a British blockchain tech company focusing on computing, cloud and gaming apps. ',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

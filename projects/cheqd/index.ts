@@ -10,4 +10,5 @@ export default {
   description: 'cheqd offers payment rails, decentralized identity, and trusted data.',
   investors: [],
   cmcSlug: 'cheqd-network',
+  duneQueries: null,
 } satisfies AdapterProject

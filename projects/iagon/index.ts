@@ -11,4 +11,5 @@ export default {
     'Iagon is a decentralized cloud network built on Cardano, revolutionizing data storage and processing.',
   investors: [],
   cmcSlug: 'iagon',
+  duneQueries: null,
 } satisfies AdapterProject

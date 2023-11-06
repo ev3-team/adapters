@@ -11,4 +11,5 @@ export default {
     'Artify is a platform for artists to create and sell artwork without any additional costs.',
   investors: [],
   cmcSlug: 'artify',
+  duneQueries: null,
 } satisfies AdapterProject

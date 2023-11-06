@@ -11,4 +11,5 @@ export default {
     'VeChain enables businesses to build decentralized apps for data transfer and supply-chain management.',
   investors: [],
   cmcSlug: 'vechain',
+  duneQueries: null,
 } satisfies AdapterProject

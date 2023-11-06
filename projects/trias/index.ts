@@ -11,4 +11,5 @@ export default {
     'Trias is a cloud infrastructure solution with a native-application-compatible platform and token ecosystem.',
   investors: [],
   cmcSlug: 'trias-token',
+  duneQueries: null,
 } satisfies AdapterProject

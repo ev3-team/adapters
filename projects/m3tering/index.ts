@@ -10,4 +10,5 @@ export default {
   description: 'M3tering incentivizes solar energy investment for underserved regions.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

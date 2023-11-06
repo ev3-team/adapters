@@ -45,4 +45,5 @@ export default {
     '9ptsrm',
   ],
   cmcSlug: 'ankr',
+  duneQueries: null,
 } satisfies AdapterProject

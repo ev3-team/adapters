@@ -11,4 +11,5 @@ export default {
     'Taliot is a job search platform, providing AI-powered tools for efficient and streamlined job hunting.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

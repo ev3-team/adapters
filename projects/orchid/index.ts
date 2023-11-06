@@ -39,4 +39,5 @@ export default {
     '42bud8',
   ],
   cmcSlug: 'orchid-protocol',
+  duneQueries: null,
 } satisfies AdapterProject

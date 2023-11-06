@@ -10,4 +10,5 @@ export default {
   description: 'Datum: Secure, private, and anonymous data storage and trading on blockchain.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

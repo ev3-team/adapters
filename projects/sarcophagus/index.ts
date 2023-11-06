@@ -10,4 +10,5 @@ export default {
   description: "Decentralized dead man's switch",
   investors: [],
   cmcSlug: 'sarcophagus',
+  duneQueries: null,
 } satisfies AdapterProject

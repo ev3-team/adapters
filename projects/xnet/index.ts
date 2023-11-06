@@ -11,4 +11,5 @@ export default {
     'XNET is a blockchain-powered mobile carrier building neutral-host telecommunications infrastructure.',
   investors: ['7zvxz8'],
   cmcSlug: 'xnet-mobile',
+  duneQueries: null,
 } satisfies AdapterProject

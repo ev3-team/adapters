@@ -57,4 +57,5 @@ export default {
     'myul3m',
   ],
   cmcSlug: 'arweave',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Phoenix Global: Blockchain company enabling decentralized AI with AI model compute and federated learning.',
   investors: [],
   cmcSlug: 'phoenix-global',
+  duneQueries: null,
 } satisfies AdapterProject

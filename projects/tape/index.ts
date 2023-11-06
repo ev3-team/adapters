@@ -11,4 +11,5 @@ export default {
     'Discover a new era of content sharing on Lens with Tape. A decentralized, user-centric approach to online media.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

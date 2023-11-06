@@ -11,4 +11,5 @@ export default {
     'DSLA Protocol reduces user exposure to service delays and financial losses through agreements.',
   investors: [],
   cmcSlug: 'stacktical',
+  duneQueries: null,
 } satisfies AdapterProject

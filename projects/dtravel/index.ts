@@ -11,4 +11,5 @@ export default {
     'DTravel is a decentralized platform for home-sharing economy, ensuring easy and secure short and long-term stays.',
   investors: [],
   cmcSlug: 'dtravel',
+  duneQueries: null,
 } satisfies AdapterProject

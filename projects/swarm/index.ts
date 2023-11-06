@@ -21,4 +21,5 @@ export default {
     'e0510f',
   ],
   cmcSlug: 'swarm-bzz',
+  duneQueries: null,
 } satisfies AdapterProject

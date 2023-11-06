@@ -11,4 +11,5 @@ export default {
     'Echo is a decentralized social engagement protocol using Arweave, embedding on-chain comments/likes onto any website.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

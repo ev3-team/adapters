@@ -11,4 +11,5 @@ export default {
     'Dmail is an AI-powered decentralized email platform that empowers users with ownership and control of their data.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

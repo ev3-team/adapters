@@ -11,4 +11,5 @@ export default {
     'CheckDot: decentralized trust protocol for verifying legitimacy of blockchain projects anonymously.',
   investors: [],
   cmcSlug: 'checkdot',
+  duneQueries: null,
 } satisfies AdapterProject

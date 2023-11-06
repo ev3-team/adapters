@@ -11,4 +11,5 @@ export default {
     'Petastic is a blockchain-based platform for Pet Parents, Service Providers, and Brand Companies.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

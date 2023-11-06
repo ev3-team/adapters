@@ -39,4 +39,9 @@ export default {
     'alik4i',
   ],
   cmcSlug: 'livepeer',
+  duneQueries: {
+    MINT: '2944847',
+    REVENUE: '2944851',
+    SUPPLY: '2944838',
+  },
 } satisfies AdapterProject

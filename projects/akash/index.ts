@@ -43,4 +43,5 @@ export default {
     'oblyiu',
   ],
   cmcSlug: 'akash-network',
+  duneQueries: null,
 } satisfies AdapterProject

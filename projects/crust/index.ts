@@ -41,4 +41,5 @@ export default {
     '935mux',
   ],
   cmcSlug: 'crust-network',
+  duneQueries: null,
 } satisfies AdapterProject

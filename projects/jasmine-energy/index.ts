@@ -11,4 +11,5 @@ export default {
     'Jasmine Energy is a decentralized market for claiming, trading, and redeeming renewable energy certificates.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

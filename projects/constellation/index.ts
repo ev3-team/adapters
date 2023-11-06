@@ -21,4 +21,5 @@ export default {
     '4ol13w',
   ],
   cmcSlug: 'constellation-labs',
+  duneQueries: null,
 } satisfies AdapterProject

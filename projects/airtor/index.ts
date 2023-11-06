@@ -10,4 +10,5 @@ export default {
   description: 'AirTor: Proof-of-uptime and relay hardware for passive earning and support of Tor.',
   investors: [],
   cmcSlug: 'airtor-protocol',
+  duneQueries: null,
 } satisfies AdapterProject

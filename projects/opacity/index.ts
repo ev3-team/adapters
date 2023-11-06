@@ -11,4 +11,5 @@ export default {
     'Opacity is a secure, blockchain-based file storage service that ensures anonymity and encryption.',
   investors: [],
   cmcSlug: 'opacity',
+  duneQueries: null,
 } satisfies AdapterProject

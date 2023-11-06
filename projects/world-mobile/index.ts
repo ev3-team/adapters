@@ -10,4 +10,5 @@ export default {
   description: 'World Mobile is a decentralized mobile network operating globally.',
   investors: ['i98114', '5252r4', '997bzs', 'o7axgq'],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

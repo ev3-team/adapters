@@ -10,4 +10,5 @@ export default {
   description: 'Elixir: Decentralized protocol for secure market-making.',
   investors: [],
   cmcSlug: 'elixir-finance',
+  duneQueries: null,
 } satisfies AdapterProject

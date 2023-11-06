@@ -11,4 +11,5 @@ export default {
     'ImpactMarket enables communities to implement financial inclusive mechanisms like Unconditional Basic Income (UBI).',
   investors: [],
   cmcSlug: 'impactmarket',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Taroverse is a cross-platform metaverse platform enabling real-time interaction between players through digital avatars.',
   investors: [],
   cmcSlug: 'taroverse',
+  duneQueries: null,
 } satisfies AdapterProject

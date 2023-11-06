@@ -10,4 +10,5 @@ export default {
   description: 'RSS3 is a next-gen feed protocol for decentralized applications.',
   investors: [],
   cmcSlug: 'rss3',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Autochain is a decentralized platform for authenticating vehicle history through blockchain.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Onocoy is a decentralized GNSS reference station network enabling high-precision geopositioning.',
   investors: ['k9wwxc'],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

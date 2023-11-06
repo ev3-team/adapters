@@ -11,4 +11,5 @@ export default {
     'Apus is a decentralized AI bot creator network that simplifies AI model design using blockchain.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

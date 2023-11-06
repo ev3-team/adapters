@@ -11,4 +11,5 @@ export default {
     'Cryptosat is a satellite company that offers cost-efficient, space-based cryptographic trust infrastructure for Web3.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

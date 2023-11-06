@@ -10,4 +10,5 @@ export default {
   description: 'Fry Foundation is a decentralized aggregator of decentralized networks.',
   investors: [],
   cmcSlug: 'fryscrypto',
+  duneQueries: null,
 } satisfies AdapterProject

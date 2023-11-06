@@ -10,4 +10,5 @@ export default {
   description: 'Koinos is a blockchain network with free-to-use apps and dynamic resource pricing.',
   investors: [],
   cmcSlug: 'koinos',
+  duneQueries: null,
 } satisfies AdapterProject

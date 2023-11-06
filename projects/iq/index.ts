@@ -10,4 +10,5 @@ export default {
   description: 'IQ: AI and blockchain firm with applications like IQ.wiki and HiIQ for staking.',
   investors: [],
   cmcSlug: 'everipedia',
+  duneQueries: null,
 } satisfies AdapterProject

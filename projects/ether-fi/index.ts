@@ -11,4 +11,5 @@ export default {
     'Ether.fi is a non-custodial decentralized ETH staking method that rewards node operators for participating in staking.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

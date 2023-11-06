@@ -11,4 +11,5 @@ export default {
     'Kroo: 5G rooftop connectivity infra for real estate owners, harnessing power of 5G.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

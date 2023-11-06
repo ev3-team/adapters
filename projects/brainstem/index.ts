@@ -11,4 +11,5 @@ export default {
     'Brainstem collects wearable health data to revolutionize healthcare through remote screening and monitoring.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

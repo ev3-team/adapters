@@ -11,4 +11,5 @@ export default {
     'Superalgos: crypto trading platform for open competition, allows traders to earn through signal broadcasting.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

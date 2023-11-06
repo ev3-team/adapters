@@ -22,4 +22,5 @@ export default {
     'x6gv9l',
   ],
   cmcSlug: 'masq',
+  duneQueries: null,
 } satisfies AdapterProject

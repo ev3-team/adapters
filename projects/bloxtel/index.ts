@@ -10,4 +10,5 @@ export default {
   description: 'Bloxtel builds decentralized SIM authentication protocols (dSIM).',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

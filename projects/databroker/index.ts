@@ -10,4 +10,5 @@ export default {
   description: 'Databroker is a secure marketplace for peer-to-peer data exchange.',
   investors: [],
   cmcSlug: 'databroker-dao',
+  duneQueries: null,
 } satisfies AdapterProject

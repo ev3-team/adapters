@@ -10,4 +10,5 @@ export default {
   description: 'ChainML is a decentralized compute network for AI and numerical applications.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

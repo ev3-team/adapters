@@ -11,4 +11,5 @@ export default {
     'Zeetta is a network virtualization company specializing in SDN solutions for enterprise and carrier networks.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

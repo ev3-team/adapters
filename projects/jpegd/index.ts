@@ -11,4 +11,5 @@ export default {
     'JPEGd is a decentralized lending protocol enabling businesses to borrow pETH or PUSd using NFTs as collateral.',
   investors: [],
   cmcSlug: 'jpeg-d',
+  duneQueries: null,
 } satisfies AdapterProject

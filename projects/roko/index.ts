@@ -11,4 +11,5 @@ export default {
     'Roko Roko is a self-organizing human-machine network focused on deep-tech R&D protocol bootstrapping.',
   investors: [],
   cmcSlug: 'roko-network',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -32,4 +32,5 @@ export default {
     'zcdny8',
   ],
   cmcSlug: 'cudos',
+  duneQueries: null,
 } satisfies AdapterProject

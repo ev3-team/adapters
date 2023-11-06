@@ -11,4 +11,5 @@ export default {
     'Vectorspace AI provides correlation matrix datasets for data-driven innovation, with a focus on NLP/NLU.',
   investors: [],
   cmcSlug: 'vectorspace',
+  duneQueries: null,
 } satisfies AdapterProject

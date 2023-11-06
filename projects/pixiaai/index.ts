@@ -11,4 +11,5 @@ export default {
     'PixiaAI: Generates images/videos, collaboratively creates Blind Minting NFTs in minutes.',
   investors: [],
   cmcSlug: 'pixiaai',
+  duneQueries: null,
 } satisfies AdapterProject

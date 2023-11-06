@@ -11,4 +11,5 @@ export default {
     'Astran: Cybersecurity startup with Omnicloud, a decentralized data storage solution.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

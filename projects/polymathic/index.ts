@@ -11,4 +11,5 @@ export default {
     'Polymathic AI develops versatile foundation models for machine learning applications in various scientific fields. These models learn from diverse scientific data and simulations to accelerate scientific discoveries and problem-solving.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

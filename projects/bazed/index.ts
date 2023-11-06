@@ -10,4 +10,5 @@ export default {
   description: 'Bazed is a PvP gaming platform using web3 technology.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',
   investors: [],
   cmcSlug: 'allianceblock',
+  duneQueries: null,
 } satisfies AdapterProject

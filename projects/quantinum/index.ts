@@ -11,4 +11,5 @@ export default {
     'Quantinum: Institutional-grade blockchain, integrating decentralization, scalability, sustainability, and cybersecurity.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

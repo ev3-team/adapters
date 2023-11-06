@@ -10,4 +10,5 @@ export default {
   description: 'UpRock AI revolutionizes decision-making with personalized, real-time insights.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

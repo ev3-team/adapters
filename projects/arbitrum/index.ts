@@ -10,4 +10,5 @@ export default {
   description: 'Arbitrum: Fast, scalable and cost-efficient Ethereum scaling solution.',
   investors: [],
   cmcSlug: 'arbitrum',
+  duneQueries: null,
 } satisfies AdapterProject

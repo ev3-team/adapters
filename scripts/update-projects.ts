@@ -4,7 +4,12 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import { projectToFileName, projectToVarName } from '../helpers'
 import { AdapterProject } from '../projects'
-import { AdapterProjectCategory, AdapterProjectChain, AdapterProjectToken } from '../projects/types'
+import {
+  AdapterProjectCategory,
+  AdapterProjectChain,
+  AdapterProjectDuneQueryIdentifiers,
+  AdapterProjectToken,
+} from '../projects/types'
 
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
@@ -37,7 +42,45 @@ export function getProjectsInvestors(): Promise<Map<string, string[]>> {
   })
 }
 
-type ProjectsCsvRow = {
+type ProjectDuneRow = {
+  name: string
+  id: string
+  BURN?: string
+  LOCKED_BALANCE?: string
+  MINT?: string
+  PRICE?: string
+  REVENUE?: string
+  SUPPLY?: string
+  TIME_SERIES?: string
+}
+
+/** Loop over the projects dune csv to get dune queries ids for each project. */
+export function getProjectsDuneQueries(): Promise<
+  Map<string, AdapterProjectDuneQueryIdentifiers | null>
+> {
+  const projectsDuneQueries = new Map<string, AdapterProjectDuneQueryIdentifiers | null>()
+
+  return new Promise((resolve) => {
+    createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Dune.csv'))
+      .pipe(csv.parse({ headers: true }))
+      .on('error', (error) => console.error(error))
+      .on('data', async (row: ProjectDuneRow) => {
+        const queries: AdapterProjectDuneQueryIdentifiers = {}
+        if (row.BURN) queries.BURN = row.BURN
+        if (row.LOCKED_BALANCE) queries.LOCKED_BALANCE = row.LOCKED_BALANCE
+        if (row.MINT) queries.MINT = row.MINT
+        if (row.PRICE) queries.PRICE = row.PRICE
+        if (row.REVENUE) queries.REVENUE = row.REVENUE
+        if (row.SUPPLY) queries.SUPPLY = row.SUPPLY
+        if (row.TIME_SERIES) queries.TIME_SERIES = row.TIME_SERIES
+
+        projectsDuneQueries.set(row.id, Object.values(queries).length > 0 ? queries : null)
+      })
+      .on('end', () => resolve(projectsDuneQueries))
+  })
+}
+
+type ProjectsRow = {
   name: string
   id: string
   url: string
@@ -59,11 +102,12 @@ type ProjectsCsvRow = {
 async function run() {
   let parsedProjects: AdapterProject[] = []
   const projectsInvestors = await getProjectsInvestors()
+  const projectsDuneQueries = await getProjectsDuneQueries()
 
   createReadStream(path.resolve(__dirname, 'data/DePIN-Projects.csv'))
     .pipe(csv.parse({ headers: true }))
     .on('error', (error) => console.error(error))
-    .on('data', async (row: ProjectsCsvRow) => {
+    .on('data', async (row: ProjectsRow) => {
       const projectId = row.id
       // ignore projects without id
       if (!projectId) {
@@ -81,6 +125,7 @@ async function run() {
         description: row.description,
         investors: projectsInvestors.get(projectId) ?? [],
         cmcSlug: !!row.cmcSlug ? row.cmcSlug : null,
+        duneQueries: projectsDuneQueries.get(projectId) ?? null,
       }
       parsedProjects.push(project)
     })

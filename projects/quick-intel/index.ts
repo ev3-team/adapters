@@ -11,4 +11,5 @@ export default {
     'Quicki is a suite of safety and security multi-chain tools for Blockchain, providing real-time scam detection.',
   investors: [],
   cmcSlug: 'quick-intel',
+  duneQueries: null,
 } satisfies AdapterProject

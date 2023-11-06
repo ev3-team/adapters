@@ -56,4 +56,5 @@ export default {
     'dbr5ig',
   ],
   cmcSlug: 'roso-elite-gamblers-mansion',
+  duneQueries: null,
 } satisfies AdapterProject

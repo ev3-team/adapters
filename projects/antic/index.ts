@@ -10,4 +10,5 @@ export default {
   description: 'Antic: Decentralized co-ownership integration for businesses.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

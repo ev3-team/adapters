@@ -10,4 +10,5 @@ export default {
   description: 'MobiFi rewards users for making smarter mobility decisions.',
   investors: [],
   cmcSlug: 'mobifi',
+  duneQueries: null,
 } satisfies AdapterProject

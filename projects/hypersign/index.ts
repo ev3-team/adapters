@@ -11,4 +11,5 @@ export default {
     'Hypersign is a decentralized identity layer for the internet, giving users control of their personal data and identity whilst digital enabling trust for businesses.',
   investors: [],
   cmcSlug: 'hypersign-identity-token',
+  duneQueries: null,
 } satisfies AdapterProject

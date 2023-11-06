@@ -11,4 +11,5 @@ export default {
     'KWAI develops AI-powered smart assistant for Web3. Offers tools for crypto swapping, staking, and market tracking.',
   investors: [],
   cmcSlug: 'kwai',
+  duneQueries: null,
 } satisfies AdapterProject

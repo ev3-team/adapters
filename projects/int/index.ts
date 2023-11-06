@@ -10,4 +10,5 @@ export default {
   description: 'INT: Intelligent ecosystem enabling free data flow and privacy in IoT.',
   investors: [],
   cmcSlug: 'internet-node-token',
+  duneQueries: null,
 } satisfies AdapterProject

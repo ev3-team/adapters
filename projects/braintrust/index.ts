@@ -25,4 +25,10 @@ export default {
     'mq1e3y',
   ],
   cmcSlug: 'braintrust',
+  duneQueries: {
+    BURN: '3151399',
+    LOCKED_BALANCE: '3168279',
+    MINT: '3168277',
+    PRICE: '3151429',
+  },
 } satisfies AdapterProject

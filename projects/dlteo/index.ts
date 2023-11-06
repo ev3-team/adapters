@@ -10,4 +10,5 @@ export default {
   description: 'DLTEO is a platform to monetize and process Earth Observation Data & AI models.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

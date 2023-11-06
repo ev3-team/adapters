@@ -20,4 +20,5 @@ export default {
     '2lb530',
   ],
   cmcSlug: 'planetwatch',
+  duneQueries: null,
 } satisfies AdapterProject

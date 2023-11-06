@@ -31,4 +31,5 @@ export default {
     'gn3guk',
   ],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Crewdle: Secure, sustainable video conferencing on peer-to-peer network.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

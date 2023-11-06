@@ -11,4 +11,5 @@ export default {
     'Jinni is an AI project making AI accessible to all, revolutionizing the global AI landscape.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

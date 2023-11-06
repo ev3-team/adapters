@@ -10,4 +10,5 @@ export default {
   description: 'Waev is a developer of a trustless data exchange protocol.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

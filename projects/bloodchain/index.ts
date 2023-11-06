@@ -11,4 +11,5 @@ export default {
     'Bloodchain: trustworthy and secure blood donation network with verifiable records for donors and recipients.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

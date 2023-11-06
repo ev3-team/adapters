@@ -11,4 +11,5 @@ export default {
     'SingularityDAO: Decentralized Portfolio Management Protocol for safe and easy crypto asset management.',
   investors: [],
   cmcSlug: 'singularitydao',
+  duneQueries: null,
 } satisfies AdapterProject

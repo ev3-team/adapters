@@ -10,4 +10,5 @@ export default {
   description: 'Verasity is a decentralized ecosystem of digital advertisers and merchants.',
   investors: ['qxuz9y', 'o5kpgb', 'ud2hku', '22s077', 'gr9fsg', '6hvvbi', 's2idi6'],
   cmcSlug: 'verasity',
+  duneQueries: null,
 } satisfies AdapterProject

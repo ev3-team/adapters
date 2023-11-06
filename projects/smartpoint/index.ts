@@ -10,4 +10,5 @@ export default {
   description: 'SmartPoint is a decentralized edge computing network.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

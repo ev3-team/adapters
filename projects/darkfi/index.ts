@@ -11,4 +11,5 @@ export default {
     'DarkFi: secure, anonymous L1 platform for hidden validators & anti-fragile environment for app dev.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

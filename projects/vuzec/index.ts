@@ -11,4 +11,5 @@ export default {
     'Vuzec: Empowering artists with decentralized crowdfunding and royalties distribution.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

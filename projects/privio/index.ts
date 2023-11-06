@@ -10,4 +10,5 @@ export default {
   description: 'Privio: AI B2B SaaS software offering Workflow Mgmt, Timekeeping, CRM, and more.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

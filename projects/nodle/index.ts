@@ -53,4 +53,5 @@ export default {
     'bnhsos',
   ],
   cmcSlug: 'nodle-network',
+  duneQueries: null,
 } satisfies AdapterProject

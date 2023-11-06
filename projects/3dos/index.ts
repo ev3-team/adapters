@@ -8,7 +8,8 @@ export default {
   coingeckoId: null,
   id: '5dho62',
   description:
-    '_3DOS is building a decentralized manufacturing network on Web 3.0 using NFTs as a licensing tool.',
+    '3DOS is building a decentralized manufacturing network on Web 3.0 using NFTs as a licensing tool.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

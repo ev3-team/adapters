@@ -10,4 +10,5 @@ export default {
   description: 'SecondLive: a metaverse for avatars, virtual spaces, art exhibitions, and gaming.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

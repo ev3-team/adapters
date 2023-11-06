@@ -10,4 +10,5 @@ export default {
   description: 'Pollen Mobile sells hand-made rugs.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'MOI Protocol and IOMe: user-owned decentralized identities.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'DeepBrain Chain is a distributed network for AI & Metaverse use cases, offering high-performance computing capabilities.',
   investors: [],
   cmcSlug: 'deepbrain-chain',
+  duneQueries: null,
 } satisfies AdapterProject

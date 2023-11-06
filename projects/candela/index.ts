@@ -11,4 +11,5 @@ export default {
     'Candela is a cryptocurrency that decentralizes solar energy, devices, and software for peer-to-peer energy transfer.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

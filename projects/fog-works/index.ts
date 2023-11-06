@@ -10,4 +10,5 @@ export default {
   description: 'Fog Works: Developer of decentralized storage using blockchain tech.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

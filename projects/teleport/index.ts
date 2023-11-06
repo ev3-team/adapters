@@ -11,4 +11,5 @@ export default {
     'Teleport connects companies, drivers, and riders, promoting local economies and reducing costs.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

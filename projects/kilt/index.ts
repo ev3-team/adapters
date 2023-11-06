@@ -11,4 +11,5 @@ export default {
     'KILT is a blockchain-based identity platform offering decentralized, secure, and scalable solutions.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

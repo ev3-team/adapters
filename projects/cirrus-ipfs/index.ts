@@ -11,4 +11,5 @@ export default {
     'Cirrus IPFS is a company providing an IPFS-based storage platform with advanced security and 3x the capacity of g-drive.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

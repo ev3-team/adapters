@@ -11,4 +11,5 @@ export default {
     'Alethea AI provides Artificial Liquid Intelligence solutions, enabling decentralized ownership in the AI economy.',
   investors: [],
   cmcSlug: 'alethea-artificial-liquid-intelligence-token',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Sitenna streamlines the process of site acquisition, portfolio management and collocation sales for telecom companies. Their cloud based platform reduces deployment and management costs for all parties, rapidly accelerating 5G, EV Charging and Smart Cities technologies',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Upfire is a decentralized protocol for secure P2P file-sharing, enabling users to earn crypto.',
   investors: [],
   cmcSlug: 'upfire',
+  duneQueries: null,
 } satisfies AdapterProject

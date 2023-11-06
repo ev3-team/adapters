@@ -11,4 +11,5 @@ export default {
     'IOTA uses Tangle instead of blockchain, offering faster speeds for the Internet of Things ecosystem.',
   investors: [],
   cmcSlug: 'iota',
+  duneQueries: null,
 } satisfies AdapterProject

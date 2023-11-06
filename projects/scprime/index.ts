@@ -10,4 +10,5 @@ export default {
   description: 'ScPrime is a decentralized network of enterprise-grade cloud storage providers.',
   investors: ['mfsd6d'],
   cmcSlug: 'siaprime-coin',
+  duneQueries: null,
 } satisfies AdapterProject

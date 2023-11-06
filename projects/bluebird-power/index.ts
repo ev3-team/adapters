@@ -10,4 +10,5 @@ export default {
   description: 'Bluebird Power: Decentralized energy management platform.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

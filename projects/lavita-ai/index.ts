@@ -11,4 +11,5 @@ export default {
     'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
   investors: [],
   cmcSlug: 'lavita',
+  duneQueries: null,
 } satisfies AdapterProject

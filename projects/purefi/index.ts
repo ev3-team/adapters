@@ -11,4 +11,5 @@ export default {
     'PureFi: DeFi AML protocol providing cryptoasset analytics and AML/KYC procedures to protect users from risks.',
   investors: [],
   cmcSlug: 'purefi',
+  duneQueries: null,
 } satisfies AdapterProject

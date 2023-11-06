@@ -10,4 +10,5 @@ export default {
   description: 'Kryptview rewards users for analyzing cryptos using P2P and Blockchain mechanisms.',
   investors: [],
   cmcSlug: 'kryptview',
+  duneQueries: null,
 } satisfies AdapterProject

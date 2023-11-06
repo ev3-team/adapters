@@ -11,4 +11,5 @@ export default {
     'WeHealth: Innovative digital solutions for remote patient monitoring and personalized healthcare.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

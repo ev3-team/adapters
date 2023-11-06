@@ -11,4 +11,5 @@ export default {
     'AiONE: AI platform that integrates AI into business workflows. User-friendly AI services, APIs, and tools.',
   investors: [],
   cmcSlug: 'aione',
+  duneQueries: null,
 } satisfies AdapterProject

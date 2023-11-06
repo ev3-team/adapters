@@ -10,4 +10,5 @@ export default {
   description: 'Quant: enhance blockchain communication globally.',
   investors: [],
   cmcSlug: 'quant-network',
+  duneQueries: null,
 } satisfies AdapterProject

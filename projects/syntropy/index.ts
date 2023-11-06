@@ -11,4 +11,5 @@ export default {
     'Syntropy is a multi-chain data availability layer offering decentralized, scalable access to on-chain data.',
   investors: [],
   cmcSlug: 'noia-network',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
   investors: [],
   cmcSlug: 'everdome',
+  duneQueries: null,
 } satisfies AdapterProject

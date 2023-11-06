@@ -10,4 +10,5 @@ export default {
   description: 'MEVFree: Platform for crypto traders with tools and services to maximize profits.',
   investors: [],
   cmcSlug: 'mevfree',
+  duneQueries: null,
 } satisfies AdapterProject

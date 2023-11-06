@@ -11,4 +11,5 @@ export default {
     'Karrier One is a mobile network company running on decentralized telecom infrastructure.',
   investors: ['7zvxz8', '6gj1wa', 'bpq2ge'],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

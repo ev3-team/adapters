@@ -10,4 +10,5 @@ export default {
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
   investors: [],
   cmcSlug: 'quantum-resistant-ledger',
+  duneQueries: null,
 } satisfies AdapterProject

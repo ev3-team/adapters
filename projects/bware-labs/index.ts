@@ -11,4 +11,5 @@ export default {
     'Bware Labs: Web 3 solution solving latency issues with geographically distributed nodes.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

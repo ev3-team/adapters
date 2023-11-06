@@ -11,4 +11,5 @@ export default {
     'Oniri is the world leading app related to dreams, helping people remember, understand and control their dreams.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Blackbird is a loyalty and membership platform for restaurants.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

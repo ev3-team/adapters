@@ -11,4 +11,5 @@ export default {
     'BubbleAI is a fast off-chain data intent trading platform with AI sentiment analysis tools',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

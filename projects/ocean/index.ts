@@ -33,4 +33,5 @@ export default {
     '7800nu',
   ],
   cmcSlug: 'ocean-protocol',
+  duneQueries: null,
 } satisfies AdapterProject

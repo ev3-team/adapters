@@ -11,4 +11,5 @@ export default {
     'Chingari is a fast-growing Web3 Social Media company in India, combining the features of TikTok and OnlyFans.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Piphi is a decentralized environmental data collection network.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

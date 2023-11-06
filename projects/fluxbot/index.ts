@@ -10,4 +10,5 @@ export default {
   description: 'Fluxbot Trading is a Solana-based telegram bot.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

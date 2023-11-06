@@ -11,4 +11,5 @@ export default {
     'Async Labs is a blockchain technology company focused on scaling decentralized computing.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

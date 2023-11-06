@@ -11,4 +11,5 @@ export default {
     'SmartCredit connects lenders and borrowers globally, offering decentralized peer-to-peer lending.',
   investors: [],
   cmcSlug: 'smartcredit-token',
+  duneQueries: null,
 } satisfies AdapterProject

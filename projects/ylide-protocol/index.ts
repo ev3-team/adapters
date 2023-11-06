@@ -10,4 +10,5 @@ export default {
   description: 'Ylide Protocol: secure cross-chain wallet communication for Web3 projects.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

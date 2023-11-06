@@ -11,4 +11,5 @@ export default {
     'Akord: decentralized storage solution giving users control over data. A privacy hub and data marketplace.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

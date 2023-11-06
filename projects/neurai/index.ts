@@ -11,4 +11,5 @@ export default {
     'Neurai: AI, analytics, decision making, predictive modeling, IoT using blockchain assets.',
   investors: [],
   cmcSlug: 'neurai',
+  duneQueries: null,
 } satisfies AdapterProject

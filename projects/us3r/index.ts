@@ -11,4 +11,5 @@ export default {
     'US3R: Dev platform and dApps with composable data using Ceramic for decentralized storage.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'deBridge: blockchain interoperability and liquidity transfer protocol.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

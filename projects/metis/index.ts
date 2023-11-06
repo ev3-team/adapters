@@ -10,4 +10,5 @@ export default {
   description: 'Metis: Scalable platform for Ethereum & infrastructure development',
   investors: [],
   cmcSlug: 'metis-token',
+  duneQueries: null,
 } satisfies AdapterProject

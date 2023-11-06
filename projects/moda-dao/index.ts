@@ -10,4 +10,5 @@ export default {
   description: 'MODA DAO empowers music industry with NFTs, licensing, and DeFi.',
   investors: [],
   cmcSlug: 'moda-dao',
+  duneQueries: null,
 } satisfies AdapterProject

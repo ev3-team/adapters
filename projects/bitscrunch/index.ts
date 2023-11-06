@@ -10,4 +10,5 @@ export default {
   description: 'BitsCrunch: AI-powered, decentralized NFT data for reliable dApps.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

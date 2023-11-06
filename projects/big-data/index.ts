@@ -11,4 +11,5 @@ export default {
     'Big Data is a platform for sharing commercial data and services through DeFi protocol and Web3 marketplace.',
   investors: [],
   cmcSlug: 'big-data-protocol',
+  duneQueries: null,
 } satisfies AdapterProject

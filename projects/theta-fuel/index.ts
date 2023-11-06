@@ -49,4 +49,5 @@ export default {
     'xemx4j',
   ],
   cmcSlug: 'theta-fuel',
+  duneQueries: null,
 } satisfies AdapterProject

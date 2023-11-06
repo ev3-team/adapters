@@ -37,4 +37,5 @@ export default {
     'x9qw9x',
   ],
   cmcSlug: 'hivemapper',
+  duneQueries: null,
 } satisfies AdapterProject

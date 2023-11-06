@@ -11,4 +11,5 @@ export default {
     'Iris Tech: decentralized AI platform with blockchain for data traceability, efficacy, and AI democratization.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

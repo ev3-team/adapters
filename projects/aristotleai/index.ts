@@ -10,4 +10,5 @@ export default {
   description: 'AristotleAI provides personalized learning experiences and insights.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

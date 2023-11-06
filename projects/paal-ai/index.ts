@@ -11,4 +11,5 @@ export default {
     'PAAL AI is a decentralized network of autonomous agents that empowers artificial intelligence technology.',
   investors: [],
   cmcSlug: 'paal-ai',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Hotspotty is a tool for ordering and managing helium hotspots.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

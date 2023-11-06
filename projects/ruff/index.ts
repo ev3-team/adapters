@@ -11,4 +11,5 @@ export default {
     'Ruff is a blockchain-based architecture combining IoT with a public chain and distributed operating system.',
   investors: [],
   cmcSlug: 'ruff',
+  duneQueries: null,
 } satisfies AdapterProject

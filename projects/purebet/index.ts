@@ -11,4 +11,5 @@ export default {
     'Purebet is a cryptocurrency gambling platform that offers secure and transparent betting options for users worldwide.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

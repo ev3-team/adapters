@@ -11,4 +11,5 @@ export default {
     'Shipped is a logistics industry plugin that enables payment for shipping by scanning the barcode on the parcel.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

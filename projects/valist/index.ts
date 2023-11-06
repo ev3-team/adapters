@@ -10,4 +10,5 @@ export default {
   description: 'Valist: Decentralized platform for game deployment on Web2 and Web3.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

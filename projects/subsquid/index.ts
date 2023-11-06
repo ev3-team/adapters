@@ -11,4 +11,5 @@ export default {
     'Subsquid: Open-source framework to extract & present blockchain data as GraphQL APIs for Web3 builders.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

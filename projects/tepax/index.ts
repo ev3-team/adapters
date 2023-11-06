@@ -11,4 +11,5 @@ export default {
     'Tepax AI is a travel assistant company that utilizes artificial intelligence to enhance travel experiences.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

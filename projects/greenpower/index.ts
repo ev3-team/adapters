@@ -10,4 +10,5 @@ export default {
   description: 'GreenPower is a decentralized network of global sustainability activists.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

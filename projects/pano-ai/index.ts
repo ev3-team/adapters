@@ -11,4 +11,5 @@ export default {
     'Pano AI detects wildfires using deep learning AI & computer vision for real-time event identification & classification.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

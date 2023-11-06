@@ -10,4 +10,5 @@ export default {
   description: 'Mawari: Decentralized 3D content delivery platform for mobile XR devices.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

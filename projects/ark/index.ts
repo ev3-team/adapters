@@ -10,4 +10,5 @@ export default {
   description: 'Ark is a layer-2 protocol enabling cheap, anonymous, off-chain Bitcoin payments.',
   investors: ['jqz0zw'],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

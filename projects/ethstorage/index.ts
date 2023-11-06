@@ -10,4 +10,5 @@ export default {
   description: 'Ethstorage is a cost-effective Layer 2 storage rollup solution on Ethereum.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

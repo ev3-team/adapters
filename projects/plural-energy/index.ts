@@ -11,4 +11,5 @@ export default {
     'Plural Energy: Renewable energy investment with blockchain tech for accessible opportunities.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

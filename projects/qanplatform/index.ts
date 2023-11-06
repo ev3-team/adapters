@@ -11,4 +11,5 @@ export default {
     'QANplatform - quantum-resistant Layer 1 hybrid blockchain platform for developers and enterprises to build on top.',
   investors: [],
   cmcSlug: 'qanplatform',
+  duneQueries: null,
 } satisfies AdapterProject

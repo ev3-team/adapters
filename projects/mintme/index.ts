@@ -11,4 +11,5 @@ export default {
     'MintMe secures Smart-Contract-powered DApps using internet-connected devices, leveraging CPU resources.',
   investors: [],
   cmcSlug: 'webchain',
+  duneQueries: null,
 } satisfies AdapterProject

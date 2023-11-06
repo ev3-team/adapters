@@ -10,4 +10,5 @@ export default {
   description: 'Phaver: decentralized social app rewarding users with tokens for sharing content.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

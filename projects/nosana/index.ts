@@ -11,4 +11,5 @@ export default {
     'Nosana is a decentralized crowd computing network revolutionizing the development process of Metaverse projects.',
   investors: [],
   cmcSlug: 'nosana',
+  duneQueries: null,
 } satisfies AdapterProject

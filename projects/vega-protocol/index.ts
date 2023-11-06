@@ -11,4 +11,5 @@ export default {
     'Vega Protocol is a blockchain-backed network enabling automated trading and execution of financial products.',
   investors: [],
   cmcSlug: 'vega-protocol',
+  duneQueries: null,
 } satisfies AdapterProject

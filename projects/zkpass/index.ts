@@ -10,4 +10,5 @@ export default {
   description: 'zkPass is a privacy-preserving protocol for private data verification',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

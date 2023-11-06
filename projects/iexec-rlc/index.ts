@@ -11,4 +11,5 @@ export default {
     'RLC: Monetize or rent out computational resources, datasets, and applications through iExec.',
   investors: ['bwghh0', 'gftio8', 'xgzede', '0f1owq'],
   cmcSlug: 'iexec-rlc',
+  duneQueries: null,
 } satisfies AdapterProject

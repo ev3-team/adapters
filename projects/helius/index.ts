@@ -10,4 +10,5 @@ export default {
   description: 'Helius is the ultimate developer platform for building on Solana.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
     'i2jpqr',
   ],
   cmcSlug: 'stratos',
+  duneQueries: null,
 } satisfies AdapterProject

@@ -10,4 +10,5 @@ export default {
   description: 'Media Network is a decentralized hub for web services.',
   investors: ['b5zojp'],
   cmcSlug: 'media-network',
+  duneQueries: null,
 } satisfies AdapterProject

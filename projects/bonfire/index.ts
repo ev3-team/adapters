@@ -11,4 +11,5 @@ export default {
     'Bonfire allows users to create and control their own digital lives on a federated social network.',
   investors: [],
   cmcSlug: 'bonfire',
+  duneQueries: null,
 } satisfies AdapterProject

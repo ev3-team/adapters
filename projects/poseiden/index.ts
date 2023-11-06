@@ -10,4 +10,5 @@ export default {
   description: 'Poseidon Network is a decentralized global network of idle P2P computing devices.',
   investors: [],
   cmcSlug: 'qqq-token',
+  duneQueries: null,
 } satisfies AdapterProject

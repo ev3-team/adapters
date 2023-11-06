@@ -11,4 +11,5 @@ export default {
     'Emerge Tools is a suite of revolutionary app development products designed to supercharge mobile apps and the teams that build them.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

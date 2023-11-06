@@ -10,4 +10,5 @@ export default {
   description: 'Sonr is an L1 blockchain for self-custody decentralized identity.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

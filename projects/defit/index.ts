@@ -10,4 +10,5 @@ export default {
   description: 'Defit is a fitness web3 brand that rewards users with a Move to Earn movement.',
   investors: [],
   cmcSlug: 'defit',
+  duneQueries: null,
 } satisfies AdapterProject

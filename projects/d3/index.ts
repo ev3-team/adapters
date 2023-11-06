@@ -11,4 +11,5 @@ export default {
     'D3 is a next-generation domains company building interoperable web2<>web3 domain names. Since 2000, we have successfully operated more than 50 registered top-level domains (TLDs), including popular extensions like .com, .net, .org, .xyz, .inc, .tv, and many more.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

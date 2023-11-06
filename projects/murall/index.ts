@@ -11,4 +11,5 @@ export default {
     'MurAll: A blockchain platform for artists to create art using limited token called PAINT.',
   investors: [],
   cmcSlug: 'paint',
+  duneQueries: null,
 } satisfies AdapterProject

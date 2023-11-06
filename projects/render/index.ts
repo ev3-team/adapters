@@ -29,4 +29,5 @@ export default {
     '80bzm6',
   ],
   cmcSlug: 'render-token',
+  duneQueries: null,
 } satisfies AdapterProject

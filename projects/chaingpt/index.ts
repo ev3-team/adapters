@@ -11,4 +11,5 @@ export default {
     'ChainGPT AI for Blockchain and Crypto, providing knowledge and tools with CGPT utility token.',
   investors: [],
   cmcSlug: 'chaingpt',
+  duneQueries: null,
 } satisfies AdapterProject

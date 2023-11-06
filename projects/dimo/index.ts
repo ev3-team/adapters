@@ -37,4 +37,5 @@ export default {
     'q6mnc6',
   ],
   cmcSlug: 'dimo',
+  duneQueries: null,
 } satisfies AdapterProject

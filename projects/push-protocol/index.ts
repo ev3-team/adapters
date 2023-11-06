@@ -10,4 +10,5 @@ export default {
   description: 'Push Protocol: web3 cross-chain network for dapps, wallets, and services.',
   investors: [],
   cmcSlug: 'ethereum-push-notification-service',
+  duneQueries: null,
 } satisfies AdapterProject

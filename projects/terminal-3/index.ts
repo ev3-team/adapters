@@ -11,4 +11,5 @@ export default {
     'Terminal 3: Web3 startup for decentralized data storage, providing privacy and security.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -7,7 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'f5qe2h',
-  description: '_3Num connects mobile subscribers for secure communication.',
+  description: '3Num connects mobile subscribers for secure communication.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'Nosh is a food delivery provider aiming to economically sustain independent restaurants through their delivery service.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

@@ -11,4 +11,5 @@ export default {
     'XX: Blockchain for quantum-resistant and private smartphone communication and value exchange.',
   investors: [],
   cmcSlug: 'xxcoin',
+  duneQueries: null,
 } satisfies AdapterProject

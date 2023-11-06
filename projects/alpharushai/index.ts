@@ -11,4 +11,5 @@ export default {
     'AlphaRush AI: Real-time news, analysis, and personalized trading alpha for cryptocurrency trading.',
   investors: [],
   cmcSlug: 'alpharushai',
+  duneQueries: null,
 } satisfies AdapterProject

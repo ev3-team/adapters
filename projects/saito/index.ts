@@ -11,4 +11,5 @@ export default {
     'Saito: Layer-1 blockchain empowering web 3.0 apps, with distributed infrastructure.',
   investors: [],
   cmcSlug: 'saito',
+  duneQueries: null,
 } satisfies AdapterProject

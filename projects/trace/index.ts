@@ -11,4 +11,5 @@ export default {
     'Trace is a decentralized protocol enabling luxury lifestyle for multichain metaverses with NFTs & digital fashion.',
   investors: [],
   cmcSlug: 'trace-network-labs',
+  duneQueries: null,
 } satisfies AdapterProject

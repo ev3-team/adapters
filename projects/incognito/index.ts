@@ -10,4 +10,5 @@ export default {
   description: 'Incognito is a privacy hub for private shielded cryptocurrency transactions.',
   investors: [],
   cmcSlug: 'incognito-2',
+  duneQueries: null,
 } satisfies AdapterProject

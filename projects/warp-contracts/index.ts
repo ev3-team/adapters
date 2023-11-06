@@ -11,4 +11,5 @@ export default {
     'Warp Contracts is a data processing Smart Contract layer on top of the Arweave data storage chain.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

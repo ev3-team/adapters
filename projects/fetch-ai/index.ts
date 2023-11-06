@@ -24,4 +24,5 @@ export default {
     '44u6gg',
   ],
   cmcSlug: 'fetch-ai',
+  duneQueries: null,
 } satisfies AdapterProject

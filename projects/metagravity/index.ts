@@ -11,4 +11,5 @@ export default {
     'MetaGravity is a company building distributed compute infrastructure for metaverse gaming and virtual world simulations.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

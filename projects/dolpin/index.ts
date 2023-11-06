@@ -11,4 +11,5 @@ export default {
     'Dolphin: Decentralized cloud storage platform for file encryption, access control, and beneficiaries.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

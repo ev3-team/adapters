@@ -11,4 +11,5 @@ export default {
     'Apron is a decentralized infrastructure service network for DApp developers, users, and operators on blockchain.',
   investors: [],
   cmcSlug: 'apron',
+  duneQueries: null,
 } satisfies AdapterProject

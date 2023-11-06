@@ -11,4 +11,5 @@ export default {
     'Agnostiq develops Covalent, an open-source workflow platform for quantum computing and HPC.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject

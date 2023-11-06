@@ -10,4 +10,5 @@ export default {
   description: 'Kandola is a decentralized Chip-to-Cloud IoT Protocol.',
   investors: [],
   cmcSlug: null,
+  duneQueries: null,
 } satisfies AdapterProject
