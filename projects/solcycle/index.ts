@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'jypbh1',
-  iconUrl: null,
-  description: 'Rewards for recycling',
+  description:
+    'SolCycle Rewards incentivizes recycling, promoting sustainability and environmental conservation.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

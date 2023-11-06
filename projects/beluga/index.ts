@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'c9xfts',
-  iconUrl: null,
-  description: '',
+  description:
+    'Beluga is a trusted crypto platform that onboards and guides new users through their crypto journey.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

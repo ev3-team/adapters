@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'tficxt',
-  iconUrl: null,
-  description: '',
+  description: 'VPN3 is a provider of a decentralized VPN protocol',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

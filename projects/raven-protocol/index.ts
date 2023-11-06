@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Raven Protocol',
-  chain: null,
+  chain: 'BINANCE',
   category: 'AI',
-  token: null,
-  coingeckoId: null,
+  token: 'RAVEN',
+  coingeckoId: 'raven-protocol',
   id: 'r3vxyu',
-  iconUrl: null,
   description:
-    'Raven is a decentralized network of compute nodes that utilize idle compute power for AI training where speed is the key',
+    'Raven Protocol is a decentralized compute network using idle power for fast AI training.',
   investors: [],
-  cmcId: 4024,
+  cmcSlug: 'raven-protocol',
 } satisfies AdapterProject

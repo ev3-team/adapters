@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'admvie',
-  iconUrl: null,
   description: 'Sonr is an L1 blockchain for self-custody decentralized identity.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

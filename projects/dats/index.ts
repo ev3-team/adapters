@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'qc35fu',
-  iconUrl: null,
   description:
-    'DATS Project is a company that produces automated vulnerability scanning and cybersecurity solutions with distributed high computing power (D-HPC) for Blockchain and WEB3 security.',
+    'DATS Project: automated vulnerability scanning and cybersecurity solutions with D-HPC for Blockchain and WEB3 security.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

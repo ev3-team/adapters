@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kryptview',
-  chain: null,
+  chain: 'NATIVE',
   category: 'OTHER',
-  token: null,
+  token: 'KVT',
   coingeckoId: null,
   id: '3zopno',
-  iconUrl: null,
-  description:
-    'Kryptview is a data platform dedicated to community research and insight sharing on tokens and cryptos. It uses a Peer-to-Peer model and Blockchain mechanisms to reward users for generating fundamental analysis on cryptos.',
+  description: 'Kryptview rewards users for analyzing cryptos using P2P and Blockchain mechanisms.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'kryptview',
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5ymc3k',
-  iconUrl: null,
   description:
-    'Building a decentralized, energy-efficient cloud computing ecosystem reusing ICT generated heat',
+    'DeepSquare is a company building an energy-efficient cloud computing ecosystem by reusing ICT generated heat.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

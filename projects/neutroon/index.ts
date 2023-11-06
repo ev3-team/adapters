@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'uktna7',
-  iconUrl: null,
   description:
-    "Neutroon is a Network-as-a-Service platform that enables enterprise, cities and private venue's IT teams to seamlessly deploy and manage multi-tenant private cellular networks.",
+    'Neutroon is a Network-as-a-Service platform enabling seamless deployment and management of private cellular networks.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

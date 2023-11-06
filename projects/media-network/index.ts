@@ -2,13 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Media Network',
-  chain: 'SOLANA',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'MEDIA',
   coingeckoId: 'media-network',
   id: 'iqnvgc',
-  iconUrl: null,
-  description: 'Media is a decentralized hub for web services.',
+  description: 'Media Network is a decentralized hub for web services.',
   investors: ['b5zojp'],
-  cmcId: 9524,
+  cmcSlug: 'media-network',
 } satisfies AdapterProject

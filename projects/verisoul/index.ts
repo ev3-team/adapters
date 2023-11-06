@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '2gzcyz',
-  iconUrl: null,
   description:
-    "Developer of a decentralized platform intended to build trust between Web3 businesses and their communities. The company's platform pairs anonymity with accountability and partners with Web3 builders to allow them to discern trusted users from fraudsters, scammers and bots, enabling builders and communities to trust the person on the other end of every interaction without sacrificing user privacy.",
+    'Verisoul: A decentralized platform for trusted Web3 businesses, ensuring privacy and trust.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

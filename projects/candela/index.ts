@@ -7,9 +7,8 @@ export default {
   token: 'CLA',
   coingeckoId: null,
   id: 'd2gqfv',
-  iconUrl: null,
   description:
-    'A cryptocurrency that decentralizes solar energy, as well as devices and software that utilize blockchain technology for peer-to-peer energy transfer.',
+    'Candela is a cryptocurrency that decentralizes solar energy, devices, and software for peer-to-peer energy transfer.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

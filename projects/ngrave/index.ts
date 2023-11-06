@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '4tlww3',
-  iconUrl: null,
-  description:
-    'Ngrave Zero is a blockchain and digital asset security company. Their flagship product is Ngrave Zero wallet which is a durable air-gapped (completely offline) hardware device that offers military-grade security for digital assets. It is arguably the leading next-generation hardware wallet in terms of its core purpose – security.',
+  description: 'NGRAVE is a blockchain company. Ngrave Zero is their air-gapped hardware wallet.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

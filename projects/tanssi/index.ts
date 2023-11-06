@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'zc045a',
-  iconUrl: null,
-  description: 'An appchain infrastructure protocol that aims to simplifie app chain deployment.',
+  description:
+    'Tanssi is a blockchain protocol simplifying app chain deployment for appchain infrastructure.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MintMe',
-  chain: null,
-  category: 'COMPUTE',
+  chain: 'ETHEREUM',
+  category: 'NOT_DEPIN',
   token: 'MINTME',
   coingeckoId: null,
   id: '6927wm',
-  iconUrl: null,
   description:
-    'MintMe.com Coin is a blockchain that makes the most of the untapped CPU resources of internet-connected devices to secure Smart-Contract-powered DApps.',
+    'MintMe secures Smart-Contract-powered DApps using internet-connected devices, leveraging CPU resources.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'webchain',
 } satisfies AdapterProject

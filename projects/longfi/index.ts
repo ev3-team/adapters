@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'nbam9o',
-  iconUrl: null,
-  description:
-    'LongFi Solutions deploys Decentralized Infrastructure to enable low-cost, last-mile connectivity essential for local communities. With the solution they are creating passive profit streams for real estate owners and developers.',
+  description: 'LongFi Solutions: Decentralized Infrastructure for community connectivity',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

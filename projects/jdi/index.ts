@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'cjfsd9',
-  iconUrl: null,
   description:
-    'JDI (Bobber) is a fast-growing blockchain company offering both hardware and software products and services to the Decentralized Wireless Network and Internet of Things space.',
+    'JDI builds hardware and software solutions for the Decentralized Wireless Network and IoT industry.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

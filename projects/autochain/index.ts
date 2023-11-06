@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'dwrle8',
-  iconUrl: null,
   description:
-    'AutoChain is a decentralized platform for the automotive industry, facilitating vehicle sales, leasing, and maintenance services while ensuring the authenticity and history of vehicles through blockchain.',
+    'Autochain is a decentralized platform for authenticating vehicle history through blockchain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

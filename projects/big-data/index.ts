@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Big Data',
-  chain: null,
-  category: 'OTHER',
-  token: null,
+  chain: 'ETHEREUM',
+  category: 'COMPUTE',
+  token: 'BDP',
   coingeckoId: null,
   id: '6ms5ds',
-  iconUrl: null,
   description:
-    'Big Data Protocol is a platform for sharing commercial data and services. It uses DeFi protocol and Web3 marketplace to source commercial data from professional data providers, tokenize it and make it liquid on Uniswap. Users can earn data by providing liquidity to data tokens. Big Data provides three services - data vault, data room and data marketplace.',
+    'Big Data is a platform for sharing commercial data and services through DeFi protocol and Web3 marketplace.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'big-data-protocol',
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ns7fn7',
-  iconUrl: null,
   description:
-    'Dolpin is a decentralized cloud storage built with IPFS & Filecoin. Via Dolpin, users can encrypt files, add beneficiaries - and govern who can access their IPFS storage.',
+    'Dolphin: Decentralized cloud storage platform for file encryption, access control, and beneficiaries.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

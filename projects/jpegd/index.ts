@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: "JPEG'd",
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
-  coingeckoId: null,
+  token: 'JPEG',
+  coingeckoId: 'jpeg-d',
   id: 'ngxl5h',
-  iconUrl: null,
   description:
-    "Developer of a decentralized lending protocol intended to obtain loans using non-fungible tokens (NFTs) as collateral. The company's platform allows users to borrow pETH or PUSd, enabling businesses to unlock instant liquidity and earn income through incentivized curve pools.",
+    'JPEGd is a decentralized lending protocol enabling businesses to borrow pETH or PUSd using NFTs as collateral.',
   investors: [],
-  cmcId: 18439,
+  cmcSlug: 'jpeg-d',
 } satisfies AdapterProject

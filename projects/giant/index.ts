@@ -5,11 +5,10 @@ export default {
   chain: 'POLKADOT',
   category: 'WIRELESS',
   token: 'GIANT',
-  coingeckoId: null,
+  coingeckoId: 'giant',
   id: 'jl19aq',
-  iconUrl: null,
   description:
-    'GIANT (Global Internet Access Network Token) is a blockchain protocol that aims to decentralize and democratize access to internet and financial services, by tokenizing bandwidth.',
+    'GIANT is a blockchain protocol aiming to democratize access to internet and financial services by tokenizing bandwidth.',
   investors: [],
-  cmcId: 24817,
+  cmcSlug: null,
 } satisfies AdapterProject

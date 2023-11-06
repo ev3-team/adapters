@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PKT',
-  chain: null,
+  chain: 'NATIVE',
   category: 'WIRELESS',
-  token: null,
-  coingeckoId: null,
+  token: 'PKT',
+  coingeckoId: 'pkt',
   id: 'v0g1yx',
-  iconUrl: null,
   description:
-    'PKT Pal is a technology that offers businesses an affordable way to provide free internet, gather customer data, and generate revenue through a hotel-style captive portal.',
+    'PKT Pal enables businesses to offer free internet, collect customer data, and earn revenue through captive portals.',
   investors: [],
-  cmcId: 9523,
+  cmcSlug: 'pkt',
 } satisfies AdapterProject

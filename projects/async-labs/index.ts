@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'vggvrz',
-  iconUrl: null,
   description:
-    'Developer of a blockchain technology intended to scale the decentralized computing paradigm',
+    'Async Labs is a blockchain technology company focused on scaling decentralized computing.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

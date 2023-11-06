@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'UltronGlow',
-  chain: null,
+  chain: 'NATIVE',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'UTG',
+  coingeckoId: 'ultronglow',
   id: '4glwdr',
-  iconUrl: null,
   description:
-    'UltronGlow is a decentralized storage network that allows anyone to store their data securely and privately on a network of distributed nodes. Users can earn rewards by contributing extra storage space to the network.',
+    'UltronGlow: decentralized storage network for secure data storage, users earn rewards.',
   investors: [],
-  cmcId: 20237,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '84nnyv',
-  iconUrl: null,
-  description:
-    'Blockride is transforming fractional bus fleets ownership into real and reliable crypto assets, democratizing access to vehicle financing for Africans',
+  description: 'Blockride: democratizing vehicle financing in Africa through crypto assets.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

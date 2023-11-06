@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'teymg6',
-  iconUrl: null,
   description:
-    "One of the world's fastest growing on-chain Web3 Social Media company(India's Tik Tok plus OnlyFans).",
+    'Chingari is a fast-growing Web3 Social Media company in India, combining the features of TikTok and OnlyFans.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

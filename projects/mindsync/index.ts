@@ -5,11 +5,9 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coingeckoId: 'mindsync',
   id: 'gpjz8o',
-  iconUrl: null,
-  description:
-    'Mindsync is a decentralized community-driven platform to help solve business tasks using AI (Machine Learning / Data Science) competitions and utilizing the resources of GPU miners as well as a marketplace for AI solutions and training datasets.',
+  description: 'Mindsync connects AI enthusiasts, miners, and businesses for AI solutions.',
   investors: [],
-  cmcId: 10533,
+  cmcSlug: null,
 } satisfies AdapterProject

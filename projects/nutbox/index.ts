@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '45u6hy',
-  iconUrl: null,
   description:
-    'A web3 DAO infrastructure that enables users to easily build powerful, blockchain-based organization.',
+    'Nutbox is a web3 DAO infrastructure enabling users to easily build blockchain-based organizations.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

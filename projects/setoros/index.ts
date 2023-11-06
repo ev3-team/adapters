@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ulo2gi',
-  iconUrl: null,
-  description:
-    'Setoros is a revolutionary decentralized crypto sportsbook that lets users bet on their favorite teams from anywhere in the world from their own wallet.',
+  description: 'Setoros is a decentralized crypto sportsbook for global betting.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

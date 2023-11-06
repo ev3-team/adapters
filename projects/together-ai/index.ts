@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'rr8fxt',
-  iconUrl: null,
   description:
-    'Together AI is a decentralised cloud platform for that empower developers and researchers at organizations of all sizes to train, fine-tune, and deploy generative AI models.',
+    'Together.ai is a decentralised cloud platform that empowers developers to train and deploy generative AI models.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ProximaX',
-  chain: null,
+  chain: 'BINANCE',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'XPX',
+  coingeckoId: 'proximax',
   id: 'nwrj6s',
-  iconUrl: null,
   description:
-    'ProximaX is a blockchain-based infrastructure and development platform project that combines blockchain technology with distributed service layers. It integrates blockchain with distributed and decentralized storage, streaming, database, and Supercontract (enhanced smart contract) service layers to create an all-in-one, easy-to-use platform.',
+    'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
   investors: [],
-  cmcId: 3126,
+  cmcSlug: 'proximax',
 } satisfies AdapterProject

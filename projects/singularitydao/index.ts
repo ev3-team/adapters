@@ -7,9 +7,8 @@ export default {
   token: 'SDAO',
   coingeckoId: 'singularitydao',
   id: 'g7dhjc',
-  iconUrl: null,
   description:
-    'SingularityDAO is a decentralised Portfolio Management Protocol designed to enable anybody to safely and easily manage crypto assets; smart money, on-chain.',
+    'SingularityDAO: Decentralized Portfolio Management Protocol for safe and easy crypto asset management.',
   investors: [],
-  cmcId: 9638,
+  cmcSlug: 'singularitydao',
 } satisfies AdapterProject

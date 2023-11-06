@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'xh846b',
-  iconUrl: null,
   description:
-    'Woolly is a C2C Customer to Customer urban farming Network. It is a cluster of digital urban farms connected with consumers and woolly empowered growers in a community - intending to build sustainable cities and make ready our food systems for generations',
+    'Woolly Farms - connecting consumers and growers to build sustainable cities and ready our food systems.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

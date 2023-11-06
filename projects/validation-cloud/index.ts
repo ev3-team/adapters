@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Validation Cloud',
   chain: null,
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: 'rzmrjq',
-  iconUrl: null,
-  description: '',
+  description:
+    'Validation Cloud is a Web3 infrastructure platform that delivers elite, high-performance node and staking infrastructure.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ThreeFold',
-  chain: 'BINANCE',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'TFT',
-  coingeckoId: 'threefold-token',
+  coingeckoId: 'threefold',
   id: '7exuma',
-  iconUrl: null,
   description:
-    'ThreeFold is a globally-distributed grid of storage, compute, and network capacity.',
+    'ThreeFold is a globally-distributed grid offering storage, compute, and network capacity.',
   investors: ['i5ii6b', 'u13una'],
-  cmcId: 6500,
+  cmcSlug: 'threefold-token',
 } satisfies AdapterProject

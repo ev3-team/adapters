@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'u2tfjc',
-  iconUrl: null,
-  description: '',
+  description:
+    'Our mission is to make blockchain infrastructure economical and decentralized, ultimately lowering the barriers to entry for web3 engineers.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

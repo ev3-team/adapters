@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WINR Protocol',
-  chain: null,
+  chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'WINR',
-  coingeckoId: null,
+  coingeckoId: 'winr-protocol',
   id: 'jhyqcs',
-  iconUrl: null,
   description:
-    'The WINR Protocol is a blockchain-based platform that allows developers to build fast and secure on-chain games of chance using the WINR SDK. With the help of this platform, developers can focus on creating exciting and engaging games while the WINR Protocol takes care of the rest.',
+    'WINR Protocol is a blockchain-based platform enabling developers to build secure on-chain games with the WINR SDK.',
   investors: [],
-  cmcId: 23681,
+  cmcSlug: 'winr-protocol',
 } satisfies AdapterProject

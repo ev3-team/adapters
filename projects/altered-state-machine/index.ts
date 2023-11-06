@@ -5,11 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ASTO',
-  coingeckoId: 'altered-state-token',
+  coingeckoId: null,
   id: '9limss',
-  iconUrl: null,
   description:
-    'Altered State Machine (ASM) is a decentralised protocol for Non-Fungible Intelligence (NFI) - bringing users and developers the ability to create, own, trade, and train AI agent via NFTs, to power up the metaverse.',
+    'Decentralized AI protocol for NFI, enabling ownership, trading, and training of AI agents through NFTs.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'altered-state-token',
 } satisfies AdapterProject

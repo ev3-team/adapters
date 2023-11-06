@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '69yd7k',
-  iconUrl: null,
-  description: '',
+  description:
+    'We make quantum technology useful for enterprise, government, and research by uniquely addressing the problem of hardware error and instability, entirely through software.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

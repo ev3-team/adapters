@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '11aqyc',
-  iconUrl: null,
-  description: 'Decentralized RHLF',
+  description: 'PublicAI is a decentralized network focused on RHLF.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

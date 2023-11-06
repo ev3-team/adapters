@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'vx7fas',
-  iconUrl: null,
-  description:
-    'Peaq is a Web3 network that offers decentralized infrastructure and tools to builders and users of decentralized applications, or dapps, for machines',
+  description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

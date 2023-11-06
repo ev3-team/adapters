@@ -5,11 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'FOAM',
-  coingeckoId: 'foam-protocol',
+  coingeckoId: 'foam',
   id: 'olxxfj',
-  iconUrl: null,
   description:
-    'FOAM provides the tools to enable a crowdsourced map and decentralized location services.',
+    'Foam is a blockchain-based platform enabling crowdsourced maps and decentralized location services.',
   investors: ['vjpj24', 'bku3ew', 'ujw2s3', 'sknhsa', 'lxw0ql'],
-  cmcId: 3631,
+  cmcSlug: 'foam-protocol',
 } satisfies AdapterProject

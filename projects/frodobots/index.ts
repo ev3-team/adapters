@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'zsejow',
-  iconUrl: null,
-  description: 'Frodobots is a open real-world racing game with sidewalk robots.',
+  description: 'Frodobots is an open real-world racing game with sidewalk robots.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

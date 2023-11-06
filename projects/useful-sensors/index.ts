@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '25vqyc',
-  iconUrl: null,
   description:
-    'Developer of low-cost, easy to integrate hardware modules that bring ML capabilities like gesture recognition, presence detection, and voice interfaces to TVs, laptops, and appliances while preserving users’ privacy.',
+    'Low-cost ML hardware modules for gesture and voice recognition on TVs, laptops, and appliances, ensuring user privacy.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

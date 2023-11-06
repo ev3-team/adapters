@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '6j3y7z',
-  iconUrl: null,
-  description: '',
+  description:
+    'Flai develops a web-based application that automatically turns raw geospatial data into meaningful information.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

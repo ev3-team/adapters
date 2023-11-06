@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'flp6ko',
-  iconUrl: null,
   description:
-    'AscensionWx enables users to earn extra Helium HNT tokens with WeatherMiner rewards.',
+    'AscensionWx is a WeatherMiner platform that allows users to earn Helium HNT tokens by predicting weather conditions.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

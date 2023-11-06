@@ -7,9 +7,8 @@ export default {
   token: 'STORJ',
   coingeckoId: 'storj',
   id: 'arwynb',
-  iconUrl: null,
   description:
-    'Storj is an open-source cloud storage platform that uses a decentralized network of nodes to host user data.',
+    'Storj is a decentralized cloud storage platform using nodes to host user data in an open-source environment.',
   investors: [
     'ka4f30',
     'bwghh0',
@@ -26,5 +25,5 @@ export default {
     '1a1vr9',
     'd7kmmw',
   ],
-  cmcId: 1772,
+  cmcSlug: 'storj',
 } satisfies AdapterProject

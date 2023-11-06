@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'apu26o',
-  iconUrl: null,
   description:
-    'Oort is an AI-powered data cloud that unifies global compute and storage resources, maximizing privacy and savings.',
+    'Oort is an AI-powered data cloud that unifies compute and storage resources, maximizing privacy and savings.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: 'CDT',
   coingeckoId: 'checkdot',
   id: 'dlqv3c',
-  iconUrl: null,
   description:
-    'CheckDot is the first-ever decentralized trust protocol – that allows crypto enthusiasts and firms to ascertain the legitimacy, transparency, and trustworthiness of any crypto project or company on the blockchain, anonymously. The projects include smart contracts, NFTs, codes, and others on the blockchain.',
+    'CheckDot: decentralized trust protocol for verifying legitimacy of blockchain projects anonymously.',
   investors: [],
-  cmcId: 14489,
+  cmcSlug: 'checkdot',
 } satisfies AdapterProject

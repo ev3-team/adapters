@@ -5,13 +5,16 @@ import path from 'node:path'
 import { investors } from '../investors'
 import { projects } from '../projects'
 
-const investorsIds = investors.map(({ id }) => id)
+const projectsList = Object.values(projects)
+const investorsList = Object.values(investors)
+
+const investorsIds = investorsList.map(({ id }) => id)
 
 /** Investors validations */
 {
   // Validate all investors have a unique id
   assert.equal(
-    investors.length,
+    investorsList.length,
     Array.from(new Set(investorsIds)).length,
     'Something went wrong make sure all projects have a unique id. You can generate a new unique id by running "pnpm generate:investor-id"'
   )
@@ -34,13 +37,13 @@ const investorsIds = investors.map(({ id }) => id)
   })
 
   assert.equal(
-    investors.length,
+    investorsList.length,
     dirs.length,
     'Expected the number of investors exported to be the same as the number of directories under the investors directory.'
   )
 
   // Validate csv and folder are in sync
-  const investorsNames = investors.map((investor) => investor.name)
+  const investorsNames = investorsList.map((investor) => investor.name)
   createReadStream(path.resolve(__dirname, 'data/DePIN-Investors.csv'))
     .pipe(csv.parse({ headers: true }))
     .on('error', (error) => console.error(error))
@@ -73,20 +76,20 @@ const investorsIds = investors.map(({ id }) => id)
   })
 
   assert.equal(
-    projects.length,
+    projectsList.length,
     dirs.length,
     'Expected the number of projects exported to be the same as the number of directories under the projects directory.'
   )
 
   // Validate all projects have a unique id
   assert.equal(
-    projects.length,
-    Array.from(new Set(projects.map((p) => p.id))).length,
+    projectsList.length,
+    Array.from(new Set(projectsList.map((p) => p.id))).length,
     'Something went wrong make sure all projects have a unique id. You can generate a new unique id by running "pnpm generate:project-id"'
   )
 
   // Validate all projects investors are unique (the same investor should not appear twice for a project).
-  projects.map((project) =>
+  projectsList.map((project) =>
     assert.equal(
       project.investors.length,
       Array.from(new Set(project.investors)).length,
@@ -97,7 +100,7 @@ const investorsIds = investors.map(({ id }) => id)
   )
 
   // Validate all projects investors exist
-  projects.map((project) =>
+  projectsList.map((project) =>
     assert(
       project.investors.every((investorId) => investorsIds.includes(investorId)),
       `Something went wrong make sure all investors linked to projects exist. Check the project ${
@@ -107,7 +110,7 @@ const investorsIds = investors.map(({ id }) => id)
   )
 
   // Validate csv and folder are in sync
-  const projectsNames = projects.map((project) => project.name)
+  const projectsNames = projectsList.map((project) => project.name)
   createReadStream(path.resolve(__dirname, 'data/DePIN-Projects.csv'))
     .pipe(csv.parse({ headers: true }))
     .on('error', (error) => console.error(error))

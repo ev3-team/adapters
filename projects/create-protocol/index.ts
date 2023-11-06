@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'otw9vc',
-  iconUrl: null,
-  description:
-    'Create Protocol is an advanced multichain creator owned protocol powering the best dapps in the IP/Content/Creation/Music/Metaverse space. They aim to empower the dApps creation journey with unmatched speed & efficiency through the power of their Ecosystem and Decentralized AI advancement.',
+  description: 'Creator-owned dApp protocol revolutionizing IP creation in the Metaverse space.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

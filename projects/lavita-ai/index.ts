@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lavita.AI',
-  chain: null,
+  chain: 'NATIVE',
   category: 'AI',
-  token: null,
+  token: 'LAVITA',
   coingeckoId: null,
   id: 'tylsdp',
-  iconUrl: null,
   description:
-    'LAVITA is a blockchain-AI based next generation healthcare platform, enabling the use of massive biomedical datasets for research while preserving individual privacy and ownership of data',
+    'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'lavita',
 } satisfies AdapterProject

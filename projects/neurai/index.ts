@@ -4,12 +4,11 @@ export default {
   name: 'Neurai',
   chain: null,
   category: 'AI',
-  token: null,
-  coingeckoId: null,
+  token: 'XNA',
+  coingeckoId: 'neurai',
   id: 'kntco7',
-  iconUrl: null,
   description:
-    'Neurai aims to be a platform to enable harnessing the power of AI algorithms for efficient data analytics, predictive modeling, decision making and connectivity to IoT devices using blockchain assets.',
+    'Neurai: AI, analytics, decision making, predictive modeling, IoT using blockchain assets.',
   investors: [],
-  cmcId: 27195,
+  cmcSlug: 'neurai',
 } satisfies AdapterProject

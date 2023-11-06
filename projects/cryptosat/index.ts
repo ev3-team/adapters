@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '9agce6',
-  iconUrl: null,
   description:
-    'Cryptosat builds small, cost-efficient satellites that provide the cryptographic trust infrastructure for Web3 via perfect physical isolation in space.',
+    'Cryptosat is a satellite company that offers cost-efficient, space-based cryptographic trust infrastructure for Web3.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

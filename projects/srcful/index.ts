@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'k7ie81',
-  iconUrl: null,
   description:
-    'Srcful is the first blockchain-enabled Virtual Power Plant that aims to unlock the full potential of Distributed Energy Resources.',
+    'Srcful is a blockchain-enabled Virtual Power Plant maximizing the potential of Distributed Energy Resources.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

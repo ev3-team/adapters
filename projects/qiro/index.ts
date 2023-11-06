@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'alkph8',
-  iconUrl: null,
-  description:
-    'Qiro is a unified credit protocol enabling end-to-end RWA-backed DeFi lending. Seamlessly connecting lenders, asset originators, and borrowers.',
+  description: 'Qiro is a unified credit protocol enabling RWA-backed DeFi lending.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

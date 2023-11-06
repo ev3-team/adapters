@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CPChain',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CPC',
-  coingeckoId: null,
+  coingeckoId: 'cpchain',
   id: 'tlsqnk',
-  iconUrl: null,
   description:
-    'CPChain is a distributed infrastructure for next-generation IoT. It intends to build a fundamental data platform for IoT systems in combination with distributed storage, encryption computation, and blockchain technologies, providing the whole process solution from data acquisition, storage, sharing to application.',
+    'CPChain: IoT infrastructure with storage, computation, and blockchain tech, providing a combined data platform.',
   investors: [],
-  cmcId: 2482,
+  cmcSlug: 'cpchain',
 } satisfies AdapterProject

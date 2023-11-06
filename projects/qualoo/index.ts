@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'cfy81h',
-  iconUrl: null,
-  description:
-    'Qualoo is building the worlds first blockchain based, decentralised, governance and diagnostics layer for the global internet to disrupt the telecommunications industry.',
+  description: 'Qualoo is revolutionizing telecom with global internet governance & diagnostics.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

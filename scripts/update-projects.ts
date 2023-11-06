@@ -2,10 +2,9 @@ import * as csv from 'fast-csv'
 import { createReadStream, existsSync } from 'node:fs'
 import fs from 'node:fs/promises'
 import path from 'node:path'
+import { projectToFileName, projectToVarName } from '../helpers'
 import { AdapterProject } from '../projects'
 import { AdapterProjectCategory, AdapterProjectChain, AdapterProjectToken } from '../projects/types'
-import { getProjectCmcIdBySlug } from '../helpers/utils'
-import { projectToFileName, projectToVarName } from '../helpers'
 
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
@@ -38,59 +37,61 @@ export function getProjectsInvestors(): Promise<Map<string, string[]>> {
   })
 }
 
-type ParsedProject = Omit<AdapterProject, 'cmcId'> & { cmcSlug: string }
+type ProjectsCsvRow = {
+  name: string
+  id: string
+  url: string
+  category: string
+  chain: string
+  token: string
+  coinGeckoID: string
+  cmcSlug: string
+  description: string
+  subcategories: string
+  twitter: string
+  discord: string
+  telegram: string
+  blog: string
+  github: string
+  linkedin: string
+}
 
 async function run() {
-  let index = 0
-  let parsedProjects: ParsedProject[] = []
+  let parsedProjects: AdapterProject[] = []
   const projectsInvestors = await getProjectsInvestors()
 
   createReadStream(path.resolve(__dirname, 'data/DePIN-Projects.csv'))
-    .pipe(csv.parse())
+    .pipe(csv.parse({ headers: true }))
     .on('error', (error) => console.error(error))
-    .on('data', async (row: string[]) => {
-      index++
-      // ignore rows 1
-      if (index === 1) return
-      const projectId = row[1]
+    .on('data', async (row: ProjectsCsvRow) => {
+      const projectId = row.id
       // ignore projects without id
       if (!projectId) {
         console.warn(`[update-projects] ignoring row \n${row}\nBecause there's no project id.`)
         return
       }
 
-      const project: ParsedProject = {
-        name: row[0],
-        chain: !!row[3] ? (row[3] as AdapterProjectChain) : null,
-        category: !!row[2] ? (row[2] as AdapterProjectCategory) : 'OTHER',
-        token: !!row[6] ? (row[6] as AdapterProjectToken) : null,
-        coingeckoId: !!row[5] ? row[5] : null,
+      const project: AdapterProject = {
+        name: row.name,
+        chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
+        category: !!row.category ? (row.category as AdapterProjectCategory) : 'OTHER',
+        token: !!row.token ? (row.token as AdapterProjectToken) : null,
+        coingeckoId: !!row.coinGeckoID ? row.coinGeckoID : null,
         id: projectId,
-        cmcSlug: row[4],
-        iconUrl: !!row[7] ? row[7] : null,
-        description: row[8],
+        description: row.description,
         investors: projectsInvestors.get(projectId) ?? [],
+        cmcSlug: !!row.cmcSlug ? row.cmcSlug : null,
       }
-
       parsedProjects.push(project)
     })
     .on('end', async () => {
       const storedProjects: AdapterProject[] = []
 
-      const cmcIds = await getProjectCmcIdBySlug(
-        parsedProjects.map((pp) => pp.cmcSlug).filter(Boolean) as string[]
-      )
-
-      if (!cmcIds) {
-        console.error('error getting cmc ids')
-        return
-      }
       await Promise.all(
-        parsedProjects.map(async (pp) => {
-          const { cmcSlug, ...p } = pp
-          const project: AdapterProject = { ...p, cmcId: cmcIds.get(cmcSlug) ?? null }
+        parsedProjects.map(async (project) => {
           try {
-            const projectFileName = projectToFileName(project)
+            const projectFileName = projectToFileName(project.name)
+
             if (!existsSync(`./projects/${projectFileName}`)) {
               await fs.mkdir(`./projects/${projectFileName}`)
             }
@@ -116,15 +117,18 @@ async function run() {
         })
       )
 
+      storedProjects.sort((a, b) => a.name.localeCompare(b.name))
+
       await fs.writeFile(
         './projects/index.ts',
         `${storedProjects.map(
-          (p) => `import ${projectToVarName(p)} from './${projectToFileName(p)}'`
+          (p) => `import ${projectToVarName(p.name)} from './${projectToFileName(p.name)}'`
         )}`.replaceAll(',', '\n') +
-          `\n\nexport const projects = [${storedProjects.map(
-            (p) => `${projectToVarName(p)}`
-          )}]\n\nexport { AdapterProject } from './types'`
+          `\n\nexport const projects = {${storedProjects.map(
+            (p) => `${projectToVarName(p.name)}`
+          )}}\n\nexport { AdapterProject } from './types'`
       )
+
       console.log('Successfully updated projects.')
     })
 }

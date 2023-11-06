@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '4kyl37',
-  iconUrl: null,
   description:
-    'Metaweave is a social permadapp designed to allow users to directly interact with the Blockweave using their Arweave wallet',
+    'Metaweave is a social permadapp enabling direct interaction with the Blockweave using Arweave wallet.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

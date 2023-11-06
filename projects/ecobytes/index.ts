@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'p20viq',
-  iconUrl: null,
   description:
-    'EcoBytes is a Re-Fi Platform for Mobile Spectrum Optimization that allows consumers to passively earn rewards for unused mobile data.',
+    'EcoBytes is a Re-Fi Platform that rewards consumers for unused mobile data passively.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Poseiden',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
+  token: 'QQQ',
   coingeckoId: null,
   id: 'ovnogm',
-  iconUrl: null,
-  description:
-    'Poseidon Network is a decentralized global network that collects and distributes idle resources from P2P devices, allowing everyone to build their own services in the fastest and cheapest way',
+  description: 'Poseidon Network is a decentralized global network of idle P2P computing devices.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'qqq-token',
 } satisfies AdapterProject

@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'cqpqpq',
-  iconUrl: null,
-  description:
-    'Ahoy is a next-generation peer-to-peer ecosystem designed for the ownership economy of the marine industry',
+  description: 'AhoyDAO is a peer-to-peer ecosystem for the marine industry ownership economy.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

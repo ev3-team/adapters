@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ld3i07',
-  iconUrl: null,
-  description: 'Trading telegram bot for Solana',
+  description: 'Fluxbot Trading is a Solana-based telegram bot.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

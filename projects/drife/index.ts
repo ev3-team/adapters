@@ -3,11 +3,10 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DRIFE',
   chain: 'BINANCE',
-  category: 'SENSORS',
+  category: 'LABOR',
   token: 'DRF',
   coingeckoId: 'drife',
   id: 'con8un',
-  iconUrl: null,
   description: 'DRIFE is a decentralized ride-hailing platform with 30k+ drivers.',
   investors: [
     'xmw0ev',
@@ -36,5 +35,5 @@ export default {
     'xgjf6h',
     'h3vz69',
   ],
-  cmcId: 10889,
+  cmcSlug: 'drife',
 } satisfies AdapterProject

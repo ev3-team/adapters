@@ -5,11 +5,10 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'DBC',
-  coingeckoId: null,
+  coingeckoId: 'deepbrain-chain',
   id: 'c1de2i',
-  iconUrl: null,
   description:
-    'DeepBrain distributed high-performance computing network for AI & Metaverse use cases.',
+    'DeepBrain Chain is a distributed network for AI & Metaverse use cases, offering high-performance computing capabilities.',
   investors: [],
-  cmcId: 2316,
+  cmcSlug: 'deepbrain-chain',
 } satisfies AdapterProject

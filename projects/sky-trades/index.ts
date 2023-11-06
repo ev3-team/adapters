@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'mfvv88',
-  iconUrl: null,
-  description: '',
+  description:
+    'Sky Trades is a marketplace for air rights for drone traffic that aims to enable the air space to be used with the owners permission, to gain passive income without the ownership of the property changing.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

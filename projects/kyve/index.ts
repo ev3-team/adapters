@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KYVE',
-  chain: null,
+  chain: 'COSMOS',
   category: 'COMPUTE',
-  token: null,
+  token: 'KYVE',
   coingeckoId: null,
   id: 'u6mo76',
-  iconUrl: null,
-  description:
-    "KYVE is an intermediary between a blockchain and a decentralised storage solution, like Arweave. Its objective is to connect a network node to Arweave in a trustless way, thanks to the validators of KYVE protocol that are constantly verifying that the information hasn't been modified before the upload.",
+  description: 'KYVE connects nodes to Arweave storage, ensuring trustless uploads.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'kyve-network',
 } satisfies AdapterProject

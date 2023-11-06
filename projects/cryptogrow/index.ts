@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'j0po1y',
-  iconUrl: null,
   description:
-    'CryptoGrow is a web3-native technology company building cutting-edge hardware to decentralize and disrupt emerging markets. Their genesis product, the CryptoGrow Pod, empowers anyone to grow premium, cost-efficient cannabis in their home at the touch of a button and earn crypto.',
+    'CryptoGrow disrupts markets with decentralized hardware for growing cannabis at home and earning crypto.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

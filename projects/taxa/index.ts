@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5zk1x8',
-  iconUrl: null,
   description:
-    'Taxa Network is a privacy-preserving, computationally powerful, highly developable, blockchain agnostic layer-2 infrastructure.',
+    'Taxa: blockchain agnostic layer-2 infrastructure ensuring privacy, power, and easy development.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

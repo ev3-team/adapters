@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'uPlexa',
-  chain: null,
-  category: 'OTHER',
+  chain: 'NATIVE',
+  category: 'NOT_DEPIN',
   token: 'UPX',
-  coingeckoId: null,
+  coingeckoId: 'uplexa',
   id: '856ev1',
-  iconUrl: null,
-  description:
-    'uPlexa is a peer-to-peer electronic payment system that focuses on harnessing the power of the IoT or Internet of things and privacy. To make life easier, the Internet of Things is a network of physical objects that can interact.',
+  description: 'uPlexa is a peer-to-peer electronic payment system utilizing IoT and privacy.',
   investors: [],
-  cmcId: 3752,
+  cmcSlug: 'uplexa',
 } satisfies AdapterProject

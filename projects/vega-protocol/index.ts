@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vega Protocol',
-  chain: null,
-  category: 'OTHER',
-  token: null,
-  coingeckoId: null,
+  chain: 'ETHEREUM',
+  category: 'NOT_DEPIN',
+  token: 'VEGA',
+  coingeckoId: 'vegaprotocol',
   id: 'ie91s7',
-  iconUrl: null,
   description:
-    'Vega is building an open, blockchain-backed public network for fully automated end-to-end trading and execution of financial products.',
+    'Vega Protocol is a blockchain-backed network enabling automated trading and execution of financial products.',
   investors: [],
-  cmcId: 10223,
+  cmcSlug: 'vega-protocol',
 } satisfies AdapterProject

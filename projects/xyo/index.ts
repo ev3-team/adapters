@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XYO',
-  chain: null,
-  category: 'SENSORS',
+  chain: 'ETHEREUM',
+  category: 'OTHER',
   token: 'XYO',
-  coingeckoId: null,
+  coingeckoId: 'xyo',
   id: '2icwvy',
-  iconUrl: null,
   description:
-    'XYO is an incentive-driven blockchain network of over 3 million IoT devices that anonymously collects and validates geospatial data, or data with a geographic component.',
+    'XYO is a blockchain network of 3 million IoT devices that collects and validates geospatial data anonymously.',
   investors: [],
-  cmcId: 2765,
+  cmcSlug: 'xyo',
 } satisfies AdapterProject

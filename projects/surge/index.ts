@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'wmr4sm',
-  iconUrl: null,
   description:
-    'Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.',
+    'Surge is a decentralized p2p filesharing app that ensures 100% anonymous file transfers through blockchain technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'a4zdzs',
-  iconUrl: null,
-  description: '',
+  description: 'Telegram bot for permissionless communications',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

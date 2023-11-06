@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'x835xi',
-  iconUrl: null,
-  description:
-    'A Blockchain Analytics + Forensics company that also provides an AI-powered, decentralized NFT data platform that enables developers to build reliable NFT applications (dApps) quick and easy.',
+  description: 'BitsCrunch: AI-powered, decentralized NFT data for reliable dApps.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

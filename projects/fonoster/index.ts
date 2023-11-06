@@ -3,13 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Fonoster',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'qn9h4k',
-  iconUrl: null,
   description:
-    'Fonoster is a free open-source platform that allows users to build voice applications and integrate them with your business app. It is the open-source counterpart for the popular Twilio platform.',
+    'Fonoster is a free platform for building voice applications and integrating them with your business app.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

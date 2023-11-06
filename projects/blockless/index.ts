@@ -3,12 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Blockless',
   chain: null,
-  category: 'OTHER',
-  token: null,
+  category: 'NOT_DEPIN',
+  token: 'BLS',
   coingeckoId: null,
   id: '4tmf6y',
-  iconUrl: null,
-  description: '',
+  description: 'Blockless is a customizable execution layer for decentralized serverless apps.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'blockless',
 } satisfies AdapterProject

@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ul9uzl',
-  iconUrl: null,
-  description:
-    'Fluence provides an open-source, permissionless, decentralized platform and a development toolkit for building, hosting, and running peer-to-peer applications and protocols',
+  description: 'Fluence - decentralized platform for creating peer-to-peer apps.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

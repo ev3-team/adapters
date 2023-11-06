@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'h2kze5',
-  iconUrl: null,
-  description: '',
+  description: 'Cryptomate is a decentralized ecosystem of interactive crypto APIs.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

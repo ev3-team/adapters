@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '3zo6h4',
-  iconUrl: null,
   description:
-    'The AI Protocol combines generative AI with the security and benefits of Web3 in an interoperable ecosystem that enables the creation, ownership, tokenization, and monetization of AI models, AI characters, dApps, and AI assets.',
+    'Platform merging AI and Web3 for creation, ownership, tokenization, and monetization of AI assets.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

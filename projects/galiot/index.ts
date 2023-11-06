@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gt13wv',
-  iconUrl: null,
-  description: "A leading company in expanding Helium's decentralized IoT-network in Europe.",
+  description: 'Galiot is a leading company expanding Helium decentralized IoT-network in Europe.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

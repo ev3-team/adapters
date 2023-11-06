@@ -5,11 +5,9 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'UMOON',
-  coingeckoId: 'unimoon-umoon',
+  coingeckoId: null,
   id: '48jwhp',
-  iconUrl: null,
-  description:
-    'Simplified AI-Powered Token Buying for Profitable Returns - UniMoon uses artificial intelligence (AI) to effectively buy new digital tokens on the Ethereum blockchain. Their advanced system analyzes data to make smart decisions, maximizing rewards for their stakers. Their goal is to develop a solid portfolio of promising tokens and hold them through multiples cycles over the next months.',
+  description: 'Unimoon maximizes token rewards using AI on Ethereum.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'unimoon-umoon',
 } satisfies AdapterProject

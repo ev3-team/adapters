@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '560f30',
-  iconUrl: null,
   description:
-    'Hivello is a startup with the goal to increase the helium digital network by supplying Helium hotspots to people.',
+    'Hivello is a startup providing Helium hotspots to expand the helium digital network and increase connectivity.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

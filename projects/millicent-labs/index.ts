@@ -3,12 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Millicent Labs',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 's1f9ke',
-  iconUrl: null,
-  description: '',
+  description: 'Millicent Labs upgrades financial systems with distributed ledger technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '517uvj',
-  iconUrl: null,
   description:
-    'VIP3 is a comprehensive Web3 membership and benefits platform connecting users with active dapps, offering bonuses, discounts, and privileges through on-chain SBT membership cards',
+    'VIP3 is a Web3 membership platform providing bonuses, discounts, and privileges via on-chain SBT membership cards.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

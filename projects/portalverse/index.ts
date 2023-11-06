@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '6uwhcg',
-  iconUrl: null,
-  description:
-    'Portalverse Protocol is a decentralized cloud gaming and rendering network for immersive metaverses that everyone can access at any time, from any device and anywhere',
+  description: 'Decentralized cloud gaming and rendering network for immersive metaverses.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

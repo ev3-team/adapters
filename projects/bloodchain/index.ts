@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'epty1v',
-  iconUrl: null,
-  description: 'Verifiable blood donation network',
+  description:
+    'Bloodchain: trustworthy and secure blood donation network with verifiable records for donors and recipients.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

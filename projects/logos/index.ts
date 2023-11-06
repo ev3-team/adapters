@@ -5,11 +5,10 @@ export default {
   chain: null,
   category: 'OTHER',
   token: null,
-  coingeckoId: null,
+  coingeckoId: 'logos',
   id: 'dojvzb',
-  iconUrl: null,
   description:
-    'Logos is a grassroots movement to provide trust-minimized, corruption-resistant governing services and social institutions to underserved citizens.',
+    'Logos provides trust-minimized, corruption-resistant governing services and institutions for citizens.',
   investors: [],
-  cmcId: 21744,
+  cmcSlug: null,
 } satisfies AdapterProject

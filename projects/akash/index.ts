@@ -3,13 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Akash',
   chain: 'COSMOS',
-  category: 'COMPUTE',
+  category: 'AI',
   token: 'AKT',
   coingeckoId: 'akash-network',
   id: 'qmmyw0',
-  iconUrl: null,
   description:
-    'Akash is open-source supercloud that lets users buy and sell computing resources securely and efficiently.',
+    'Akash is an open-source supercloud that enables secure and efficient buying and selling of computing resources.',
   investors: [
     '5dsvsj',
     'wu15kr',
@@ -43,5 +42,5 @@ export default {
     'fa62pa',
     'oblyiu',
   ],
-  cmcId: 7431,
+  cmcSlug: 'akash-network',
 } satisfies AdapterProject

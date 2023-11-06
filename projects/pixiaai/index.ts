@@ -7,9 +7,8 @@ export default {
   token: 'PIXIA',
   coingeckoId: 'pixiaai',
   id: 'fu1ijd',
-  iconUrl: null,
   description:
-    'An AI that creates images and videos, capable of creating entire collections with your community and deploying Blind Minting NFT collections within minutes.',
+    'PixiaAI: Generates images/videos, collaboratively creates Blind Minting NFTs in minutes.',
   investors: [],
-  cmcId: 23400,
+  cmcSlug: 'pixiaai',
 } satisfies AdapterProject

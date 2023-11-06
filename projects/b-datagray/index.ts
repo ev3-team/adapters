@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 't47npe',
-  iconUrl: null,
-  description: 'Developing a Blockchain infrastructure for decentralized GPU/CPU cloud computing.',
+  description:
+    'B-Datagray is a company developing a Blockchain infrastructure for decentralized GPU/CPU cloud computing.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

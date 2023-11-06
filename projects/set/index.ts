@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'zftfbg',
-  iconUrl: null,
-  description: '',
+  description: 'Set is an onchain indexing protocol',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

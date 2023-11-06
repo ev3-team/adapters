@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hyperbolic',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
+  token: 'HYPE',
   coingeckoId: null,
   id: '8heoo1',
-  iconUrl: null,
   description:
-    'At Hyperbolic Labs, our mission is to build the web for Web3 by developing a decentralized microservices platform,',
+    'Hyperbolic Labs is a decentralized microservices platform building the web for Web3.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'hyperbolic-protocol',
 } satisfies AdapterProject

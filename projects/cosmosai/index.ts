@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'prko1c',
-  iconUrl: null,
   description:
-    'CosmosAI is dedicated to creating a worldwide computational power network, connecting devices globally and enabling the sharing and utilization of of computational resources.',
+    'CosmosAI is a global network creating and sharing computational resources for worldwide utilization.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

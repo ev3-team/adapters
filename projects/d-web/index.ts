@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'kd70oi',
-  iconUrl: null,
-  description: '',
+  description:
+    'DWeb connects the people, projects and protocols essential to building a decentralized web. A web that is more private, reliable, secure and open. A web with many winners—returning to the original vision of the World Wide Web and internet.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: 'DCK',
   coingeckoId: 'dexcheck',
   id: 'wt759c',
-  iconUrl: null,
   description:
-    "DexCheck is a state-of-the-art Crypto and NFT Analytics platform powered by AI, delivering real-time insights, intelligent alerts, and in-depth market analysis to optimize user's trading experience and help them to get the best results.",
+    'DexCheck: AI-powered Crypto & NFT Analytics platform for real-time insights and market analysis.',
   investors: [],
-  cmcId: 20009,
+  cmcSlug: 'dexcheck',
 } satisfies AdapterProject

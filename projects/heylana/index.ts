@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'bonzt3',
-  iconUrl: null,
-  description: 'DePIN smart speaker built on solana',
+  description: 'Heylana offers voice-controlled devices for seamless audio on Solana blockchain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

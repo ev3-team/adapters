@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'd2uaff',
-  iconUrl: null,
-  description:
-    'NetMind is an advanced massively distributed platform where computing resources can be shared, allowing users access to exceptionally large scale networks to collaborate, train and develop deep learning models and build AI applications. NetMind will also be home to a growing AI research community, making large model research available to all.',
+  description: 'NetMind.AI enables deep learning model development for AI applications.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

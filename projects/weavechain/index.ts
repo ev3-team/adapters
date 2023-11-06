@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 's1imi6',
-  iconUrl: null,
   description:
-    'Developer of a Secure Data Exchange Layer that makes it easy to unlock Web3 benefits like immutability, data lineage, data monetization, confidential computing, oracle connections to Web3 natives and more',
+    'Weavechain is a secure data exchange layer that unlocks Web3 immutability and data lineage.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'hjruy9',
-  iconUrl: null,
-  description: '',
+  description: 'Verida is a decentralized data storage, messaging, and single sign-on solution.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

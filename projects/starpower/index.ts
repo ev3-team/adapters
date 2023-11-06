@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '3gatyy',
-  iconUrl: null,
-  description: '',
+  description:
+    'Starpower is an infrastructure company connecting distributed energy resources to decarbonize the energy sector.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

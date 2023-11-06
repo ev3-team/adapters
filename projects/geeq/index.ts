@@ -4,12 +4,10 @@ export default {
   name: 'Geeq',
   chain: null,
   category: 'NOT_DEPIN',
-  token: 'GEEQ',
+  token: null,
   coingeckoId: null,
   id: '5gczqo',
-  iconUrl: null,
-  description:
-    'Geeq is a multi-blockchain platform secured by what the team calls their Proof of Honesty protocolTM (PoH), proclaiming the mechanism to be "safe enough for the most valuable data, cheap enough for IoT, and flexible enough for any use."',
+  description: 'Geeq is a multi-blockchain platform secured by Proof of Honesty protocol.',
   investors: [],
-  cmcId: 6194,
+  cmcSlug: null,
 } satisfies AdapterProject

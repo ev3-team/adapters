@@ -2,13 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Livepeer',
-  chain: 'ARBITRUM',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'LPT',
   coingeckoId: 'livepeer',
   id: '0dpzm4',
-  iconUrl: null,
-  description: 'Livepeer is decentralized network of video encoders & streamers.',
+  description: 'Livepeer is a decentralized network for video encoders and streamers.',
   investors: [
     '5yy6cw',
     '2g0699',
@@ -39,5 +38,5 @@ export default {
     'ybtn6z',
     'alik4i',
   ],
-  cmcId: 3640,
+  cmcSlug: 'livepeer',
 } satisfies AdapterProject

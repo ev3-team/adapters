@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'bdxcwj',
-  iconUrl: null,
   description: 'RevoFi is a decentralized wireless infrastructure platform.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'yb56ub',
-  iconUrl: null,
   description:
-    'weve is a prototype decentralized mail system, running on the Arweave network, according to the Weavemail protocol specifications, built during New York Blockchain Week. It is deployed to the Arweave permaweb, so its messages and the web app itself are permanent and always available',
+    'Weveweve is a decentralized mail system on Arweave network. It ensures permanent availability of messages and web app.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'iaysmn',
-  iconUrl: null,
-  description: '',
+  description:
+    'Purebet is a cryptocurrency gambling platform that offers secure and transparent betting options for users worldwide.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

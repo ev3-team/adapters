@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SAFE',
-  chain: null,
+  chain: 'NATIVE',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'SAFE',
+  coingeckoId: 'safe',
   id: 't4fjen',
-  iconUrl: null,
   description:
-    'The SAFE Network is an open source, decentralized data storage and communications network that replaces data centers and servers with the spare computing resources of its users.',
+    'SAFE Network is a decentralized data storage and communications network that uses spare computing resources of users.',
   investors: [],
-  cmcId: 3918,
+  cmcSlug: null,
 } satisfies AdapterProject

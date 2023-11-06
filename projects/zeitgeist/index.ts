@@ -2,13 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeitgeist',
-  chain: null,
-  category: 'OTHER',
-  token: null,
-  coingeckoId: null,
+  chain: 'POLKADOT',
+  category: 'NOT_DEPIN',
+  token: 'ZTG',
+  coingeckoId: 'zeitgeist',
   id: 'yfqm09',
-  iconUrl: null,
-  description: 'Provider of a decentralized prediction markets software built on Polkadot',
+  description:
+    'Zeitgeist is a provider of decentralized prediction markets software built on Polkadot.',
   investors: [],
-  cmcId: 13628,
+  cmcSlug: 'zeitgeist',
 } satisfies AdapterProject

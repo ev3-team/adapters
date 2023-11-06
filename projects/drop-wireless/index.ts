@@ -5,10 +5,9 @@ export default {
   chain: 'IOTEX',
   category: 'WIRELESS',
   token: 'DWIN',
-  coingeckoId: 'drop-wireless-infrastructure',
+  coingeckoId: null,
   id: 'qnfsx5',
-  iconUrl: null,
   description: 'Drop Wireless is a stealth project built on IoTeX.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'drop-wireless-infrastructure',
 } satisfies AdapterProject

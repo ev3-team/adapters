@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '83jvhp',
-  iconUrl: null,
-  description:
-    "RENATUS is a next-generation logistics system offered by RENATUS ROBOTICS, is the world's first system capable of completing one order at one station.They also building a fully autonomous logistics network through decentralized warehouse automation.",
+  description: 'Renatus is the first logistics system completing orders at one station.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

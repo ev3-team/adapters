@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Moonbeam',
-  chain: null,
+  chain: 'POLKADOT',
   category: 'OTHER',
-  token: null,
+  token: 'GLMR',
   coingeckoId: null,
   id: 'xu30b0',
-  iconUrl: null,
   description:
-    'Moonbeam is a smart contract platform for building cross-chain connected applications that enables users to interact with multiple blockchains at the same time.',
+    'Moonbeam is a cross-chain smart contract platform allowing users to interact with multiple blockchains simultaneously.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'moonbeam',
 } satisfies AdapterProject

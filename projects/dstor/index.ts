@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'p5n1y8',
-  iconUrl: null,
-  description:
-    'dStor is a cloud storage service that stores data on a globally distributed network of computers.',
+  description: 'DStor is a globally-distributed cloud storage network.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Beyond',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'BP',
   coingeckoId: null,
   id: '3kk637',
-  iconUrl: null,
   description:
-    "Beyond Protocol is a layer one blockchain providing a decentralized security layer and smart contract platform for the Internet of Things. From Beyond Protocol's SDK, developers can build DApps on top of any combination of devices, opening up a new world of possibilities for automation and monetization.",
+    'Beyond Protocol is a blockchain for IoT, providing decentralized security layer and smart contracts.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'beyond-protocol',
 } satisfies AdapterProject

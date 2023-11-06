@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'fy5a0a',
-  iconUrl: null,
   description:
-    'A Solana-powered platform turning global voices into actionable insights for governments, making citizen advocacy efficient and borderless',
+    'NomadPetition: Global citizens voices turned into actionable insights for governments.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

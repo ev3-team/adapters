@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Cheeze',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: '9tcuea',
-  iconUrl: null,
-  description: '',
+  description:
+    'Cheeze is a decentralized creator economy platform that enables brand activation for imagery on-chain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

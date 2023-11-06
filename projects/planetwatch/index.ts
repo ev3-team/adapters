@@ -1,14 +1,13 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'PlanetWatch',
+  name: 'Planetwatch',
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PLANETS',
   coingeckoId: 'planetwatch',
   id: 'qxqpla',
-  iconUrl: null,
-  description: 'PlanetWatch is a decentralized network of air quality monitors.',
+  description: 'Planetwatch is a decentralized network of air quality monitors.',
   investors: [
     'buo8ql',
     'te4xtz',
@@ -20,5 +19,5 @@ export default {
     'opbil4',
     '2lb530',
   ],
-  cmcId: 11861,
+  cmcSlug: 'planetwatch',
 } satisfies AdapterProject

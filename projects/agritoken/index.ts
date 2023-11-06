@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gaa7c0',
-  iconUrl: null,
-  description: 'Tokenized crop futures',
+  description:
+    'Agritoken: Tokenizing crop futures for efficient and transparent agricultural investing.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

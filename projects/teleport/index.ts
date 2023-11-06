@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'aehc1q',
-  iconUrl: null,
   description:
-    'Teleport is a rideshare application built on an open protocol that enables different companies, drivers, and riders to work together. By utilizing a network of local, lean rideshare companies, drivers earn more and riders pay less, while the surplus stays within local economies.',
+    'Teleport connects companies, drivers, and riders, promoting local economies and reducing costs.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

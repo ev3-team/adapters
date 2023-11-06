@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'enoo3p',
-  iconUrl: null,
-  description: '',
+  description:
+    'Neutral is an exchange for environmental assets that combine tokenized carbon credits, renewable energy credits, and carbon forwards with specialized market infrastructure to deliver efficiency, transparency, and trust in these markets.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

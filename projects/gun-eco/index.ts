@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'fk3mfi',
-  iconUrl: null,
-  description: 'Developer of a decentralized distributed graph database engine for developers',
+  description: 'Gun.Eco is a decentralized distributed graph database engine for developers.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

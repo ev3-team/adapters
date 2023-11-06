@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'h4cnmu',
-  iconUrl: null,
   description:
-    'Developer of an image generator that allows users to generate high-quality images from text.',
+    'Tao Studio is a developer of a text-based image generator that produces high-quality images.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

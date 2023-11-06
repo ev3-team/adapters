@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'hs6fc5',
-  iconUrl: null,
-  description:
-    'Antic developed an end-to-end decentralized infrastructure enabling any company to integrate co-ownership into its platform within minutes. Antic’s scalable infrastructure is intended for any business seeking the addition of a co-ownership layer to their offerings. Its infrastructure freely enables businesses and individuals to do whatever they want with whatever they own - sell it, provide access to it, add additional co-owners to it and more.',
+  description: 'Antic: Decentralized co-ownership integration for businesses.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

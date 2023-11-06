@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Opacity',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'OPCT',
+  coingeckoId: 'opacity',
   id: '5276zx',
-  iconUrl: null,
   description:
-    'Provider of an anonymous and encrypted file storage service, built on the blockchain',
+    'Opacity is a secure, blockchain-based file storage service that ensures anonymity and encryption.',
   investors: [],
-  cmcId: 3632,
+  cmcSlug: 'opacity',
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'HOT',
-  coingeckoId: 'holotoken',
+  coingeckoId: 'holo',
   id: 'lp1mgw',
-  iconUrl: null,
-  description: 'Holochain is an open-source framework for creating peer-to-peer applications.',
+  description:
+    'Holo: P2P, open-source framework for decentralized applications with a focus on privacy and security.',
   investors: ['pcw959', 'ezlir7', '23uc3k', 'xvgf6w', '2wn9ev', 'yr1qhg', 'fuws95'],
-  cmcId: 2682,
+  cmcSlug: 'holotoken',
 } satisfies AdapterProject

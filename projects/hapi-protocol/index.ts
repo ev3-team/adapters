@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hapi Protocol',
-  chain: null,
-  category: 'OTHER',
-  token: null,
-  coingeckoId: null,
+  chain: 'ETHEREUM',
+  category: 'NOT_DEPIN',
+  token: 'HAPI',
+  coingeckoId: 'hapi-one',
   id: 'um75jm',
-  iconUrl: null,
-  description:
-    'HAPI is a cross-chain protocol, aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.',
+  description: 'Hapi Protocol: Cross-chain protocol for DeFi security.',
   investors: [],
-  cmcId: 8567,
+  cmcSlug: 'hapi-one',
 } satisfies AdapterProject

@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'zk9cf4',
-  iconUrl: null,
-  description: 'Immortalize anything on the blockchain',
+  description:
+    'Sayver is a blockchain-based platform that enables users to immortalize anything on the blockchain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

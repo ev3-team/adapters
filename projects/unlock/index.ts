@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'i7nidt',
-  iconUrl: null,
   description:
-    'Unlock is a protocol which enables creators to monetize their content with a few lines of code in a fully decentralized way.',
+    'Unlock is a protocol for creators to monetize content, using just a few lines of decentralized code.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

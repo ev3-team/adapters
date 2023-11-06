@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '24l8zf',
-  iconUrl: null,
-  description: '',
+  description:
+    'Lighthouse is a permanent file storage protocol allowing one-time payment for storing files forever.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

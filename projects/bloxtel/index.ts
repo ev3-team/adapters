@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '8ukwaw',
-  iconUrl: null,
   description: 'Bloxtel builds decentralized SIM authentication protocols (dSIM).',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

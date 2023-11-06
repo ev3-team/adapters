@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'rowqtv',
-  iconUrl: null,
   description:
-    'DarkFi is an anonymous L1 based on zero-knowledge, multi-party computation and homomorphic encryption. Anonymous proof-of-stake ensures validators are hidden. DarkFi offers an anti-fragile environment to create and run anonymous apps.',
+    'DarkFi: secure, anonymous L1 platform for hidden validators & anti-fragile environment for app dev.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

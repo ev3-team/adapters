@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Public Key Financial',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'my2i81',
-  iconUrl: null,
-  description: '',
+  description:
+    'Pioneering a fiat backed, yield-bearing transferable token using a unique US-based regulatory strategy. Their token would bring money market yields on chain, accessible to retail and institutional users worldwide.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

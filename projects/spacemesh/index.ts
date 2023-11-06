@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ojaphf',
-  iconUrl: null,
-  description:
-    'Spacemesh is a blockmesh operating system powering an energy-efficient, decentralized, secure, and scalable smart contracts global computer and a cryptocurrency in the permissionless settings. The heart of Spacemesh is a new consensus protocol that replaces PoW with Proof of Space Time (PoST), and mesh topology in place of a chain.',
+  description: 'Decentralized, energy-efficient blockmesh with unique consensus.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

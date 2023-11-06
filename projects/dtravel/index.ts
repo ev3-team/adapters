@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DTravel',
-  chain: null,
-  category: 'NOT_DEPIN',
-  token: 'DTRAVEL',
+  chain: 'ETHEREUM',
+  category: 'OTHER',
+  token: 'TRVL',
   coingeckoId: null,
   id: '37xksc',
-  iconUrl: null,
   description:
-    'Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.',
+    'DTravel is a decentralized platform for home-sharing economy, ensuring easy and secure short and long-term stays.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'dtravel',
 } satisfies AdapterProject

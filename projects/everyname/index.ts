@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Everyname',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: '2i6tkv',
-  iconUrl: null,
-  description: '',
+  description:
+    'Everyname is a provider of an advanced protocol for retrieving info from any blockchain name registry.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

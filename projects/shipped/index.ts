@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'v05a0g',
-  iconUrl: null,
   description:
-    "Web3 plugin for logistic industry - release payment for shipping by scanning parcel's barcode.",
+    'Shipped is a logistics industry plugin that enables payment for shipping by scanning the barcode on the parcel.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

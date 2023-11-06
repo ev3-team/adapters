@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'z1mpcu',
-  iconUrl: null,
   description:
-    'Kroo is the rooftop infrastructure connectivity partner, helping real estate owners benefit from the power of 5G.',
+    'Kroo: 5G rooftop connectivity infra for real estate owners, harnessing power of 5G.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

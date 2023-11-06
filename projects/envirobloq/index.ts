@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'czooh2',
-  iconUrl: null,
-  description: 'enviroBLOQ is decentralized network of connected smart home devices.',
+  description: 'EnviroBLOQ is a decentralized network of connected smart home devices.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

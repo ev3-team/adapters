@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'tgalub',
-  iconUrl: null,
   description:
-    'Provider of internet distribution services designed to offer high-speed internet at reduced costs. ',
+    'Andrena is a company offering high-speed internet distribution services with a focus on reduced costs.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

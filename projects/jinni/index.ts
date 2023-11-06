@@ -4,12 +4,11 @@ export default {
   name: 'Jinni',
   chain: null,
   category: 'AI',
-  token: 'JINNI',
-  coingeckoId: null,
+  token: null,
+  coingeckoId: 'jinni-ai',
   id: 'xkquis',
-  iconUrl: null,
   description:
-    '‍Jinni is an AI project aiming to revolutionize the global AI landscape by making artificial intelligence accessible to everyone.',
+    'Jinni is an AI project making AI accessible to all, revolutionizing the global AI landscape.',
   investors: [],
-  cmcId: 26580,
+  cmcSlug: null,
 } satisfies AdapterProject

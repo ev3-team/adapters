@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'x4ccoy',
-  iconUrl: null,
-  description:
-    'Developing a full suite of cloud-based AI B2B SaaS software solutions providing companies with: Workflow Management, Timekeeping & Expense Management, CRM, Job Board/ATS/HRIS, Accounting, and Payroll.',
+  description: 'Privio: AI B2B SaaS software offering Workflow Mgmt, Timekeeping, CRM, and more.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Render',
-  chain: 'SOLANA',
-  category: 'COMPUTE',
+  chain: 'ETHEREUM',
+  category: 'AI',
   token: 'RNDR',
-  coingeckoId: 'render-token',
+  coingeckoId: null,
   id: 'drs2bu',
-  iconUrl: null,
-  description:
-    'Render is a decentralized rendering platform supporting next-generation media production.',
+  description: 'Render is a decentralized rendering platform for next-gen media production.',
   investors: [
     '07pxi6',
     'buo8ql',
@@ -30,5 +28,5 @@ export default {
     'fjrjju',
     '80bzm6',
   ],
-  cmcId: null,
+  cmcSlug: 'render-token',
 } satisfies AdapterProject

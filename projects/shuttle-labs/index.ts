@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'aoo9gh',
-  iconUrl: null,
   description:
-    "Lore Explorer, developed by Shuttle Labs, is an AI-powered analytics platform designed to enhance understanding of EVM-compatible networks. Lore's AI-first approach transforms blockchains into accessible and comprehensible sources of information, offering a unified interface for blockchain data exploration, analytics, and real-time automation.",
+    'Shuttle Labs: AI-powered platform that transforms blockchains into accessible sources for analytics and automation.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

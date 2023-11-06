@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pd96s1',
-  iconUrl: null,
-  description: 'AI models for blockchain games',
+  description:
+    'Vinci World provides AI models for blockchain games, enhancing gaming experiences with cutting-edge technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

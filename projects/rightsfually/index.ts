@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'stk33p',
-  iconUrl: null,
-  description: '',
+  description:
+    'We help usher artists and independent content creators into the world of FAIR content attribution. We simplify the process of NFT rights creation, distribution and consumption for the creator and filmmakers economy.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

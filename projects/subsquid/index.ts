@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'cp4cw6',
-  iconUrl: null,
   description:
-    'Subsquid is the team behind squid SDK, an open-source framework that enables Web3 builders to create scalable and performant indexers which extract, transform, and present blockchain data as GraphQL APIs or in virtually any other format.',
+    'Subsquid: Open-source framework to extract & present blockchain data as GraphQL APIs for Web3 builders.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

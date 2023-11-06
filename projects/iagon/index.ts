@@ -5,10 +5,10 @@ export default {
   chain: 'CARDANO',
   category: 'OTHER',
   token: 'IAG',
-  coingeckoId: null,
+  coingeckoId: 'iagon',
   id: 'omgud6',
-  iconUrl: null,
-  description: 'Iagon is a decentralized cloud network built on Cardano.',
+  description:
+    'Iagon is a decentralized cloud network built on Cardano, revolutionizing data storage and processing.',
   investors: [],
-  cmcId: 11078,
+  cmcSlug: 'iagon',
 } satisfies AdapterProject

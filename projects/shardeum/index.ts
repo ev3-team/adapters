@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Shardeum',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'OTHER',
-  token: null,
+  token: 'SHM',
   coingeckoId: null,
   id: 'g65u6w',
-  iconUrl: null,
-  description:
-    'Shardeum is an EVM-based, linearly scalable smart contract platform that maintains true decentralization and solid security through dynamic state sharding. This means Shardeum can increase its TPS capacity with each validator added to the network to retain low gas fees forever.',
+  description: 'Shardeum: EVM-based platform ensuring decentralization and security.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'shardeum',
 } satisfies AdapterProject

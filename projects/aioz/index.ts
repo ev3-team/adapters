@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AIOZ',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
+  token: 'AIOZ',
   coingeckoId: null,
   id: 'tpqdbi',
-  iconUrl: null,
-  description:
-    'Developing a decentralized content delivery network (dCDN) where users can earn tokens with extra compute/bandwidth by running a node.',
+  description: 'AIOZ is a decentralized content delivery network.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'aioz-network',
 } satisfies AdapterProject

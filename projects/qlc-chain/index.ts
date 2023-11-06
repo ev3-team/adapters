@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'xpng8u',
-  iconUrl: null,
   description:
-    'QLC Chain is the next generation public Blockchain for decentralized Network-as-a-Service. The QLC Chain and supporting ecosystem will enable any individual, business or organization to leverage the infrastructure and their mobile network resources to instantly become a service provider or network operator. Our mission is to bring people online through a simpler, more pleasant, and more secure way with full transparency.',
+    'QLC Chain is a next-gen public Blockchain enabling service providers and network operators.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

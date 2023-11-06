@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 's8n10q',
-  iconUrl: null,
-  description: '',
+  description:
+    'Oniri is the world leading app related to dreams, helping people remember, understand and control their dreams.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

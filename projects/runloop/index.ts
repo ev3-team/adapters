@@ -4,12 +4,11 @@ export default {
   name: 'Runloop',
   chain: null,
   category: 'AI',
-  token: null,
+  token: 'RUX',
   coingeckoId: null,
   id: 'f9rhe0',
-  iconUrl: null,
   description:
-    'Runloop builds simulation environments for DeFi and trains autonomous agents to provide liquidity, manage risk, and discover trading opportunities at scale.',
+    'Runloop builds DeFi simulation environment for training agents in liquidity provision, risk management, and trading.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'uq5rfx',
-  iconUrl: null,
   description:
-    "Proto is revolutionizing the geospatial data industry with its user-generated, token-incentivized mapping platform. By decentralizing data collection, we're able to provide high-quality, real-time map data at a fraction of the cost of traditional methods.",
+    'Proto is a geospatial data company revolutionizing the industry through a user-generated mapping platform.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

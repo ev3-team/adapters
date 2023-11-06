@@ -5,11 +5,9 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BAD',
-  coingeckoId: 'bad-idea-ai',
+  coingeckoId: null,
   id: 'a1y6iz',
-  iconUrl: null,
-  description:
-    "Bad Idea AI is an experimental project that combines blockchain, artificial intelligence (AI), and decentralized autonomous organizations. As an AI-centric project, BAD aims to be the linchpin that connects Shiba Inu's meme coin legacy with the expansive AI ecosystem. In simpler terms, BAD is envisioned to be the bridge that merges the playful nature of meme coins with the serious and transformative potential of artificial intelligence.",
+  description: 'Bad Idea AI connects meme coin culture with artificial intelligence.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'bad-idea-ai',
 } satisfies AdapterProject

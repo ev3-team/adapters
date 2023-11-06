@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'm5egmn',
-  iconUrl: null,
-  description: '',
+  description:
+    'Quantinum: Institutional-grade blockchain, integrating decentralization, scalability, sustainability, and cybersecurity.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

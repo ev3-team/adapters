@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'btj93l',
-  iconUrl: null,
-  description: '',
+  description:
+    'Fungi Cloud is a decentralized data storage and cloud computing company on top of blockchain technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

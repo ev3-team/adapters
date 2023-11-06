@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'c0u4u3',
-  iconUrl: null,
-  description:
-    'Provider of a comprehensive ecosystem that enables individuals and businesses to seamlessly rent, share, and charge electric vehicles through a user-friendly mobile application. A company provides e-car sharing services and EOT, a security token, thats ensure that, in addition to sharing their cars, everyone can also participate in the trip revenues. In this way, all token holders earn a share of the daily car sharing trips.',
+  description: 'ELOOP: Rent, share, and charge electric cars.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

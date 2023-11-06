@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'nyvs73',
-  iconUrl: null,
-  description: '',
+  description:
+    'Weaver Labs is developing an open and shared marketplace of connectivity assets. Their innovative software layer called Cell-Stack aggregates all the necessary components to build Networks and access connectivity on-demand.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

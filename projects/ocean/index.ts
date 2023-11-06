@@ -3,13 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Ocean',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'AI',
   token: 'OCEAN',
   coingeckoId: 'ocean-protocol',
   id: 'qbhkmt',
-  iconUrl: null,
   description:
-    'Ocean is a data exchange protocol that enables decentralized data sharing and monetization.',
+    'Ocean Protocol is a data exchange protocol enabling decentralized data sharing and monetization.',
   investors: [
     'vjpj24',
     'i1x9du',
@@ -33,5 +32,5 @@ export default {
     'k1qvmn',
     '7800nu',
   ],
-  cmcId: 3911,
+  cmcSlug: 'ocean-protocol',
 } satisfies AdapterProject

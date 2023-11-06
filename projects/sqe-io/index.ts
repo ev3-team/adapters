@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ipaf0n',
-  iconUrl: null,
   description:
-    'SQE is the first quantum secure, decentralized blockchain-based platform for industrial, commercial and general public consumption, powered by patent-pending Simulated Quantum Entanglement',
+    'SQE.io is a quantum secure, decentralized blockchain-based platform. It uses Simulated Quantum Entanglement technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

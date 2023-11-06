@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pheffj',
-  iconUrl: null,
-  description: 'Mindland incentivizes meditation via crypto incentives.',
+  description:
+    'Mindland is a meditation incentivization company that uses crypto incentives to encourage meditation practices.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

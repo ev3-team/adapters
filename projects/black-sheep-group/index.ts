@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'dg3bp5',
-  iconUrl: null,
   description:
-    'Black Sheep Group (BSG) is a decentralized marketplace that simplifies investing in Web3 assets',
+    'Black Sheep Group is a decentralized marketplace simplifying investing in Web3 assets.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

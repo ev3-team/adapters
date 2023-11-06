@@ -7,9 +7,7 @@ export default {
   token: 'AR',
   coingeckoId: 'arweave',
   id: '0vks67',
-  iconUrl: 'https://assets.depin.ninja/projects/icons/arweave.png',
-  description:
-    'Arweave is Bitcoin for data: a permanent and decentralized web inside an open ledger.',
+  description: 'Arweave is a permanent and decentralized web inside an open ledger.',
   investors: [
     '07pxi6',
     '2g0699',
@@ -58,5 +56,5 @@ export default {
     '9kybya',
     'myul3m',
   ],
-  cmcId: 5632,
+  cmcSlug: 'arweave',
 } satisfies AdapterProject

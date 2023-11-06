@@ -69,7 +69,7 @@ async function run() {
       const storedInvestors: AdapterInvestor[] = []
       await Promise.all(
         investors.map(async (investor) => {
-          const investorFileName = investorToFileName(investor)
+          const investorFileName = investorToFileName(investor.name)
           if (!existsSync(`./investors/${investorFileName}`)) {
             await fs.mkdir(`./investors/${investorFileName}`)
           }
@@ -85,14 +85,16 @@ async function run() {
         })
       )
 
+      storedInvestors.sort((a, b) => a.name.localeCompare(b.name))
+
       await fs.writeFile(
         './investors/index.ts',
         `${storedInvestors.map(
-          (p) => `import ${investorToVarName(p)} from './${investorToFileName(p)}'`
+          (p) => `import ${investorToVarName(p.name)} from './${investorToFileName(p.name)}'`
         )}`.replaceAll(',', '\n') +
-          `\n\nexport const investors = [${storedInvestors.map(
-            (p) => `${investorToVarName(p)}`
-          )}]\n\nexport { AdapterInvestor } from './types'`
+          `\n\nexport const investors = {${storedInvestors.map(
+            (p) => `${investorToVarName(p.name)}`
+          )}}\n\nexport { AdapterInvestor } from './types'`
       )
       console.log('Successfully updated investors.')
     })

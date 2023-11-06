@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '4loe4v',
-  iconUrl: null,
-  description: 'Poll-based prediction markets',
+  description: 'Griffy is a poll-based prediction markets protocol.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

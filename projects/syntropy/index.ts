@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Syntropy',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
-  coingeckoId: null,
+  token: 'NOIA',
+  coingeckoId: 'syntropy',
   id: 'm9yv19',
-  iconUrl: null,
   description:
-    'Syntropy is building a multi-chain data availability layer, providing a decentralized and scalable way to access, retrieve and interact with real-time and historical on-chain data.',
+    'Syntropy is a multi-chain data availability layer offering decentralized, scalable access to on-chain data.',
   investors: [],
-  cmcId: 4191,
+  cmcSlug: 'noia-network',
 } satisfies AdapterProject

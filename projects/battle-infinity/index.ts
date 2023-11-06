@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Battle Infinity',
-  chain: null,
+  chain: 'BINANCE',
   category: 'OTHER',
-  token: null,
-  coingeckoId: null,
+  token: 'IBAT',
+  coingeckoId: 'battle-infinity',
   id: 'qx4wxc',
-  iconUrl: null,
   description:
-    'Battle Infinity is a gaming platform made up of multiple P2E (Play-to-earn) battle games. All games are integrated within a Metaverse world called the IBAT Battle Arena. In Battle Infinity world, gamers do not only play and battle but can also enjoy and experience the immersive Metaverse world. Here they can interact with each other, perform, watch and explore the Battle Arena virtual world',
+    'Battle Infinity: Metaverse gaming platform with P2E battle games in IBAT Battle Arena.',
   investors: [],
-  cmcId: 21600,
+  cmcSlug: 'battle-infinity',
 } satisfies AdapterProject

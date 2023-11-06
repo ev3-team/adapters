@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nesten',
-  chain: null,
+  chain: 'NATIVE',
   category: 'WIRELESS',
-  token: null,
-  coingeckoId: null,
+  token: 'NIT',
+  coingeckoId: 'nesten',
   id: 'gazzlx',
-  iconUrl: null,
   description:
-    'Building a Decentralized Infrastructure and Ecosystem. Their objective is to revolutionize the telecommunications industry by implementing community-driven network operations that leverage cutting-edge wireless solutions and multi-layer blockchain technologies. Their G1 LoRa node is designed to connect and manage consumer and enterprise devices across cities in the US.',
+    'Nesten - telecom company revolutionizing industry with community-driven network ops & blockchain.',
   investors: [],
-  cmcId: 16825,
+  cmcSlug: 'nesten',
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Totem',
-  chain: null,
+  chain: 'POLYGON',
   category: 'NOT_DEPIN',
-  token: null,
+  token: 'TOTEM',
   coingeckoId: null,
   id: '6y1kh5',
-  iconUrl: null,
   description:
-    'Totem is a decentralized ecosystem by and for indie game developers. It allows them to create their own interconnected game, collaborate with other indies, and earn revenue.',
+    'Decentralized ecosystem for game developers, enabling collaboration and revenue earning.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'dragonmaster-totem',
 } satisfies AdapterProject

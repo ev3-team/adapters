@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'oo2cn2',
-  iconUrl: null,
-  description:
-    'Aethir is a decentralized cloud infrastructure (DCI) company that unlocks content accessibility in the Metaverse by offering real-time rendering capabilities. Their scalable and secure network empowers gaming and AI companies to deliver their products directly to consumers, overcoming hardware and geographical limitations.',
+  description: 'Aethir enables real-time rendering in the Metaverse.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

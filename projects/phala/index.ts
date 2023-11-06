@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phala',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
+  token: 'PHA',
   coingeckoId: null,
   id: '2zgyts',
-  iconUrl: null,
   description:
-    'Phala Network is a decentralised off-chain compute infrastructure. With its off chain programming model Phat Contract running on Phala Network, it enables developers to make smart contracts even smarter.',
+    'Phala Network is a decentralised off-chain compute infrastructure enabling developers to enhance smart contracts.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'pha',
 } satisfies AdapterProject

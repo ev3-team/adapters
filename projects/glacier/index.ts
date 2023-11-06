@@ -5,11 +5,10 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coingeckoId: 'glacier',
   id: '4fstgv',
-  iconUrl: null,
   description:
-    'Glacier is building a composable, modular and scalable L2 data network for large-scale Dapps.',
+    'Glacier is building a composable, modular, and scalable L2 data network for large-scale Dapps.',
   investors: [],
-  cmcId: 24434,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'or2okw',
-  iconUrl: null,
   description:
-    'Building distributed farms catering to urban consumers in an energy efficient manner.',
+    'Raiz Building is a sustainable farming company providing energy efficient urban farms for local consumers.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

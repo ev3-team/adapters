@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'kj3v3r',
-  iconUrl: null,
-  description: '',
+  description: 'Helius is the ultimate developer platform for building on Solana.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

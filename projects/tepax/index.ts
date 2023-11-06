@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pz0ffy',
-  iconUrl: null,
-  description: 'AI powered travel assistant',
+  description:
+    'Tepax AI is a travel assistant company that utilizes artificial intelligence to enhance travel experiences.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

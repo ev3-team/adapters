@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5w860i',
-  iconUrl: null,
   description:
-    'AeroNyx is a cutting-edge, permissionless, decentralized DePIN privacy network protocol developed based on the principles of Web3',
+    'AeroNyx - decentralized DePIN protocol for privacy solutions, using Web3 principles.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

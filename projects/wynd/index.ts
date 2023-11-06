@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '9qbidj',
-  iconUrl: null,
   description:
-    'WyndNetwork is a transparent node marketplace that allows users to earn passive income by monetizing their view of the internet.',
+    'Wynd is a transparent node marketplace enabling users to earn passive income by monetizing their internet view. (99)',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

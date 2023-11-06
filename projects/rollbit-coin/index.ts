@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rollbit Coin',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'RLB',
   coingeckoId: null,
   id: '3m9m9c',
-  iconUrl: null,
-  description:
-    'Rollbit is a rapidly growing online platform that combines gaming and cryptocurrency trading. It offers a wide array of casino games, a sportsbook, futures trading up to 1000x leverage, and NFT trading.',
+  description: 'Rollbit offers casino games, sportsbook, futures trading, and NFT trading.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'rollbit-coin',
 } satisfies AdapterProject

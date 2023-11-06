@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StackOS',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'SFX',
+  coingeckoId: 'stackos',
   id: 'kd6pyc',
-  iconUrl: null,
   description:
-    'StackOS is a cross-chain open infrastructure protocol that allows individuals to collectively offer a decentralized cloud where they can significantly lower their dev-ops costs by deploying any full-stack application, decentralized app, blockchain private nets and mainnet nodes in minutes.',
+    'StackOS is a cross-chain open infrastructure protocol enabling decentralized cloud services.',
   investors: [],
-  cmcId: 9201,
+  cmcSlug: 'stackos',
 } satisfies AdapterProject

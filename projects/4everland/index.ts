@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '0tmpgv',
-  iconUrl: null,
   description:
-    '4EverLand is a decentralized cloud integrating storage, computing, and networking resources.',
+    '4everland is a decentralized cloud provider integrating storage, computing, and networking resources.',
   investors: ['gun7y3', 'wlc0pw', 'baurlm', 'lfbmt3', 'ympohv', 'xcrhi8'],
-  cmcId: 21345,
+  cmcSlug: null,
 } satisfies AdapterProject

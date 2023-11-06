@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'a239fd',
-  iconUrl: null,
-  description: 'Copilot for job searches',
+  description:
+    'Taliot is a job search platform, providing AI-powered tools for efficient and streamlined job hunting.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Streamr',
-  chain: 'POLYGON',
-  category: 'COMPUTE',
+  chain: 'ETHEREUM',
+  category: 'OTHER',
   token: 'DATA',
   coingeckoId: 'streamr',
   id: 'o1pv7k',
-  iconUrl: null,
   description:
-    'Streamr is a decentralised protocol for data pipelines, network analytics and instant messaging.',
+    'Streamr is a decentralised protocol providing data pipelines, network analytics, and instant messaging.',
   investors: ['73kuet', 'cm89up'],
-  cmcId: 2143,
+  cmcSlug: 'streamr',
 } satisfies AdapterProject

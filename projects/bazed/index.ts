@@ -4,12 +4,10 @@ export default {
   name: 'BAZED',
   chain: null,
   category: 'NOT_DEPIN',
-  token: 'BAZED',
+  token: null,
   coingeckoId: null,
   id: 'maga37',
-  iconUrl: null,
-  description:
-    'Bazed is a distinguished online gaming and player-versus-player (PvP) platform empowered by web3 technology.',
+  description: 'Bazed is a PvP gaming platform using web3 technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

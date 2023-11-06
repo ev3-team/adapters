@@ -2,13 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'JobChain',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'OTHER',
-  token: null,
+  token: 'JOB',
   coingeckoId: null,
   id: 'zyhloi',
-  iconUrl: null,
-  description: 'Web3 linkedin',
+  description:
+    'JobChain: Connects job seekers with employers for efficient job search and recruitment processes.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'jobchain',
 } satisfies AdapterProject

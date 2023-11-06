@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'yi3cpi',
-  iconUrl: null,
   description:
-    'Zenithereum is a decentralized AI protocol that focuses on AI research and tool development to improve agent growth in crypto and real-world environments, with a goal to benefit humanity.',
+    'Zenithereum: Decentralized AI for agent growth in crypto and real-world environments.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

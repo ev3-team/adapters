@@ -5,11 +5,9 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'IQ',
-  coingeckoId: 'everipedia',
+  coingeckoId: null,
   id: '8gkezm',
-  iconUrl: null,
-  description:
-    "The IQ token is a cryptocurrency dedicated to building a more intelligent future through artificial intelligence and blockchain technology. The IQ token powers a knowledge ecosystem including applications such as IQ.wiki, the world's largest cryptocurrency and blockchain encyclopedia. IQ.wiki integrates AI for tasks including summarizing wiki articles. IQ is a DeFi and governance token with native staking enabled through HiIQ. The token is governed by BrainDAO which also includes BrainDAO's treasury of digital assets.",
+  description: 'IQ: AI and blockchain firm with applications like IQ.wiki and HiIQ for staking.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'everipedia',
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'l7nsll',
-  iconUrl: null,
   description:
-    'Operator of a fog computing platform intended to recover, store and reuse data. The company designs micro data centers that act as digital boilers using carbon-friendly distributed infrastructure, providing clients with virtual private servers and cloud computing services, to run their computations, 3D rendering scenes, and AI models.',
+    'Tresorio Operator is a fog computing platform providing carbon-friendly micro data centers and cloud computing services.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

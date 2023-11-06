@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '6515yb',
-  iconUrl: null,
   description:
-    'Caldance is a fitness and earn Web 3.0 ecosystem that integrates physical equipment (Machinefi), with Blockchain fitness application, NFT and Gamification.',
+    'Caldance is a Web 3.0 fitness ecosystem integrating Machinefi, Blockchain app, NFT, and Gamification.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

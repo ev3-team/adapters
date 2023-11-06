@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Brastorne',
   chain: null,
-  category: 'OTHER',
+  category: 'WIRELESS',
   token: null,
   coingeckoId: null,
   id: 'g7czmv',
-  iconUrl: null,
-  description: '',
+  description:
+    'Brastorne connects the unconnected, ensuring every African has access to information, markets, and community through easy and affordable internet access.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Push Protocol',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'WIRELESS',
-  token: null,
-  coingeckoId: null,
+  token: 'PUSH',
+  coingeckoId: 'epns',
   id: 'nhurl1',
-  iconUrl: null,
-  description:
-    'Push Protocol is a web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services. They also launched Push Chat, a messaging app that enables native wallet-to-wallet communication between users.',
+  description: 'Push Protocol: web3 cross-chain network for dapps, wallets, and services.',
   investors: [],
-  cmcId: 9111,
+  cmcSlug: 'ethereum-push-notification-service',
 } satisfies AdapterProject

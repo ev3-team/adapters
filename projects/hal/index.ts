@@ -2,13 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hal',
-  chain: 'POLKADOT',
+  chain: null,
   category: 'COMPUTE',
-  token: 'PHA',
+  token: null,
   coingeckoId: null,
   id: '686w74',
-  iconUrl: null,
-  description: 'Phala Network is an off-chain compute network powered by secure enclaves.',
+  description: 'Hal is a chatbot built on BitTensor.',
   investors: [],
-  cmcId: 6841,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,13 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MASQ',
-  chain: 'POLYGON',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'MASQ',
   coingeckoId: 'masq',
   id: '0ezngt',
-  iconUrl: null,
-  description: 'MASQ is a decentralized VPN network built on Polygon.',
+  description:
+    'MASQ is a decentralized VPN network built on Polygon, providing secure and private internet browsing.',
   investors: [
     '5yy6cw',
     'jqz0zw',
@@ -21,5 +21,5 @@ export default {
     'cw96ak',
     'x6gv9l',
   ],
-  cmcId: 8376,
+  cmcSlug: 'masq',
 } satisfies AdapterProject

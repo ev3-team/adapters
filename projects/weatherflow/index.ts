@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '4xa4u6',
-  iconUrl: null,
-  description: 'WeatherFlow is a decentralized weather monitoring network.',
+  description: 'Weatherflow is a decentralized weather monitoring network.',
   investors: ['sg2yly'],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

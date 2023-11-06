@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'zr5vzn',
-  iconUrl: null,
   description:
-    'everVision provides Arweave-based infrastructures for anyone who wants to build on Web3 using everPay, Permaswap, PermaDAO, and the development tool: Web3Infra',
+    'everVision: Blockchain provider for Web3 development, offering everPay, Permaswap, PermaDAO, and Web3Infra.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

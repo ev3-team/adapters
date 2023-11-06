@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nosana',
-  chain: null,
+  chain: 'SOLANA',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'NOS',
+  coingeckoId: 'nosana',
   id: 'hdcghq',
-  iconUrl: null,
   description:
-    'A decentralized crowd computing network revolutionizing the development process of Metaverse projects.',
+    'Nosana is a decentralized crowd computing network revolutionizing the development process of Metaverse projects.',
   investors: [],
-  cmcId: 16612,
+  cmcSlug: 'nosana',
 } satisfies AdapterProject

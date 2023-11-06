@@ -5,11 +5,9 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'PRV',
-  coingeckoId: 'incognito-2',
+  coingeckoId: 'incognito',
   id: 'g8ux2k',
-  iconUrl: null,
-  description:
-    'Incognito is a privacy hub enabling users to conduct private shielded cryptocurrency transactions.',
+  description: 'Incognito is a privacy hub for private shielded cryptocurrency transactions.',
   investors: [],
-  cmcId: 16459,
+  cmcSlug: 'incognito-2',
 } satisfies AdapterProject

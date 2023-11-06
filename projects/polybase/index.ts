@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'a8p168',
-  iconUrl: null,
-  description:
-    'Polybase is the decentralized storage, index and query protocol for structured data',
+  description: 'Polybase is a decentralized storage, index and query protocol for structured data.',
   investors: ['07pxi6', 'ti312b', 'suthoi', 'hol96b', '4bc5rd', '90y066', '7hsriz'],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

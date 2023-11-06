@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'hxfsp3',
-  iconUrl: null,
-  description:
-    'Connect3 is a universal social layer that aggregates, restructures, and distributes decentralized social data on the Open Web. We connect users to people, content, and services they are interested in, and empower builders with next-level social data accessibility and interoperability.',
+  description: 'Connect3 is a decentralized platform connecting users to relevant social data.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

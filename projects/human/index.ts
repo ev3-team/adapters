@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gs9m0p',
-  iconUrl: null,
   description:
-    'Human is a worldwide financial and identity network where every member is a co-owner of its value. Human consists of four components: Human ID, which is a unique digital ID; Human Network, which is a layer-1 blockchain where every Human ID holder is a validator; Human Dollar - a new currency issued to everyone who gets Human ID; and Human App, a mobile wallet app for everyone to participate and to claim Human ID.',
+    'Human is a global financial and identity network with unique digital ID, currency, and mobile wallet app.',
   investors: [],
-  cmcId: 10347,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -3,13 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Shadow Storage',
   chain: null,
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: 'v7lzxm',
-  iconUrl: null,
   description:
-    'Shadow Storage offers a decentralized, secure and private way for users to store their data. Built on Solana.',
+    'Shadow Storage is a decentralized and private data storage company built on Solana blockchain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

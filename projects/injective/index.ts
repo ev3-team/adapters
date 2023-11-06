@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Injective',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'INJ',
   coingeckoId: null,
   id: 't2mgs2',
-  iconUrl: null,
   description:
-    'Injective is a blockchain built for finance. It is an open, interoperable layer-one blockchain powering next-generation DeFi applications, including decentralized spot and derivatives exchanges, prediction markets, lending protocols and more.',
+    'Injective is a finance-oriented blockchain for DeFi apps: exchanges, lending, and prediction markets.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'injective-protocol',
 } satisfies AdapterProject

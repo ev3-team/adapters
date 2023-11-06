@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'epici3',
-  iconUrl: null,
-  description: '',
+  description: 'Stealth trading system in progress.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

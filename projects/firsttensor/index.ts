@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '3b72sd',
-  iconUrl: null,
-  description:
-    'FirstTensor is the 1st Bittensor Validator powered by the people that helps to secure one of the largest decentralized, blockchain-based, neural network. This allows them to actively participate in the consensus mechanism of the network and earn TAO rewards. People can stake/delegate TAO trustlessly to them and earn TAO rewards passively',
+  description: 'FirstTensor is a community-powered Bittensor Validator.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

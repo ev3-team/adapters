@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'jkyr67',
-  iconUrl: null,
   description:
-    'Operator of an on-chain storage platform intended to store data on web3 based storage protocol.',
+    'Banyan Operator is a web3 storage platform for on-chain data storage on a robust storage protocol.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

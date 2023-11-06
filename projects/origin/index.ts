@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5kkva3',
-  iconUrl: null,
-  description: 'Origin Systems makes it easy to get started with LLMs.',
+  description:
+    'Origin Systems is a company that simplifies the process of getting started with LLMs.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

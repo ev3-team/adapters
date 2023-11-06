@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Filebase',
   chain: null,
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: 'ush02g',
-  iconUrl: null,
-  description: 'IPFS pinning service.',
+  description:
+    'Filebase is a reliable IPFS pinning service that provides secure and efficient file storage and management.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

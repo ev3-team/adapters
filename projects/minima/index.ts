@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Minima',
-  chain: null,
+  chain: 'NATIVE',
   category: 'NOT_DEPIN',
-  token: null,
+  token: 'MINIMA',
   coingeckoId: null,
   id: 'w75xgw',
-  iconUrl: null,
-  description:
-    'Minima is a blockchain and peer-to-peer network designed to be accessible to as many people as possible by making it compact enough to run on mobile and IoT devices. It is complete, quantum resistant and secured by every single one of its users.',
+  description: 'Minima: Compact, secure blockchain accessible on mobile & IoT devices.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'minima',
 } satisfies AdapterProject

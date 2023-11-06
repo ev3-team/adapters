@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeSendit',
-  chain: null,
+  chain: 'BINANCE',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'WSI',
+  coingeckoId: 'wesendit',
   id: 'tx9874',
-  iconUrl: null,
   description:
-    'WeSendit is a file transfer service specialising in anonymous data transfer and decentralised storage solutions. WeSendit is currently working on version 3.0 and is developing a new generation of decentralised data processing tools.',
+    'WeSendit is a file transfer service specializing in anonymous data transfer and decentralized storage solutions.',
   investors: [],
-  cmcId: 20848,
+  cmcSlug: 'wesendit',
 } satisfies AdapterProject

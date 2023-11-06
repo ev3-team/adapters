@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GenesysGo',
-  chain: null,
+  chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'SHDW',
-  coingeckoId: null,
+  coingeckoId: 'genesysgo-shadow',
   id: 'p01o2s',
-  iconUrl: null,
-  description:
-    'GenesysGo Shadow is decentralized object storage platform designed for Web3 builders.',
+  description: 'GenesysGo is a decentralized object storage platform for Web3 builders.',
   investors: [],
-  cmcId: 16868,
+  cmcSlug: 'genesysgo-shadow',
 } satisfies AdapterProject

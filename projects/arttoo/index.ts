@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'xa5vpi',
-  iconUrl: null,
-  description: 'Fractionalized trading of physical artwork',
+  description:
+    'Arttoo is a platform that allows for the fractionalized trading of physical artwork.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

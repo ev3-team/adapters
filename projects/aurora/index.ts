@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aurora',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: 'AOA',
-  coingeckoId: null,
+  token: 'AURORA',
+  coingeckoId: 'aurora-near',
   id: 'tfu536',
-  iconUrl: null,
   description:
-    'Aurora is a solution, that allows to execute Ethereum contracts in a more performant environment—NEAR blockchain, a modern layer-1 blockchain which is fast (2-3 second transaction finalization), scalable, and carbon neutral. Aurora is an Ethereum Virtual Machine (EVM) implemented as a smart contract on NEAR Protocol. We are here to help scale Ethereum ecosystem for developers to operate their apps on an Ethereum-compatible, high-throughput, scalable, and future-safe platform, with low transaction costs for their users.',
+    'Aurora is a performant, scalable, and carbon neutral solution that executes Ethereum contracts on the NEAR blockchain.',
   investors: [],
-  cmcId: 14803,
+  cmcSlug: 'aurora-near',
 } satisfies AdapterProject

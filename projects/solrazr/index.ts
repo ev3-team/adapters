@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SolRazr',
-  chain: null,
+  chain: 'SOLANA',
   category: 'NOT_DEPIN',
-  token: null,
-  coingeckoId: null,
+  token: 'SOLR',
+  coingeckoId: 'solrazr',
   id: '0fi9q0',
-  iconUrl: null,
-  description:
-    'SolRazr is the first decentralised developer ecosystem for Solana offering Launchpad, Accelerator, and Developer Tools.',
+  description: 'SolRazr is a decentralized developer ecosystem for Solana.',
   investors: [],
-  cmcId: 12125,
+  cmcSlug: 'solrazr',
 } satisfies AdapterProject

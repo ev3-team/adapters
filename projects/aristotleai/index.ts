@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gtqv1n',
-  iconUrl: null,
-  description: '',
+  description: 'AristotleAI provides personalized learning experiences and insights.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

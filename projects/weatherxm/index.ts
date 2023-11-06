@@ -7,8 +7,7 @@ export default {
   token: 'WXM',
   coingeckoId: null,
   id: 'ff9s3p',
-  iconUrl: null,
   description: 'WeatherXM is a decentralized weather data collection network.',
   investors: ['ti312b', 'buo8ql', 'bku3ew', 'lszufu', 'vh40ts', 'rfveqw', 'n2t98d'],
-  cmcId: null,
+  cmcSlug: 'weatherxm',
 } satisfies AdapterProject

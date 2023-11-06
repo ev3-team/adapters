@@ -2,12 +2,11 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cudos',
-  chain: 'COSMOS',
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CUDOS',
   coingeckoId: 'cudos',
   id: 'jitkjs',
-  iconUrl: null,
   description: 'Cudos is a decentralized cloud computing network.',
   investors: [
     'buo8ql',
@@ -32,5 +31,5 @@ export default {
     'nxirg2',
     'zcdny8',
   ],
-  cmcId: 8258,
+  cmcSlug: 'cudos',
 } satisfies AdapterProject

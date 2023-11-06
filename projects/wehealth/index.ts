@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '80us6v',
-  iconUrl: null,
-  description: '',
+  description:
+    'WeHealth: Innovative digital solutions for remote patient monitoring and personalized healthcare.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

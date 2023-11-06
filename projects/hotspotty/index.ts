@@ -3,13 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hotspotty',
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'WIRELESS',
   token: null,
   coingeckoId: null,
   id: '8hmhev',
-  iconUrl: null,
-  description:
-    'Hotspotty is a tool that helps users to order, deploy and manage their helium hotspots.',
+  description: 'Hotspotty is a tool for ordering and managing helium hotspots.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

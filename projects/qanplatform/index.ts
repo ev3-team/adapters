@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'QANplatform',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
-  coingeckoId: null,
+  token: 'QANX',
+  coingeckoId: 'qanplatform',
   id: 'w0b37b',
-  iconUrl: null,
   description:
-    'QANplatform is the quantum-resistant Layer 1 hybrid blockchain platform that will allow developers and enterprises to build quantum-resistant: smart contract, DApp, DeFi, DAO, token, CBDC, NFT, Metaverse, and Web3 solutions on top of the QAN blockchain platform in any programming language.',
+    'QANplatform - quantum-resistant Layer 1 hybrid blockchain platform for developers and enterprises to build on top.',
   investors: [],
-  cmcId: 5858,
+  cmcSlug: 'qanplatform',
 } satisfies AdapterProject

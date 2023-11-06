@@ -4,12 +4,11 @@ export default {
   name: 'Onocoy',
   chain: 'SOLANA',
   category: 'SENSORS',
-  token: 'ONO',
+  token: 'BONO',
   coingeckoId: null,
   id: 'n77nem',
-  iconUrl: null,
   description:
-    'Onocoy is a decentralized GNSS reference station network enabling high-precisioning geopositioning.',
+    'Onocoy is a decentralized GNSS reference station network enabling high-precision geopositioning.',
   investors: ['k9wwxc'],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Upfire',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'UPR',
+  coingeckoId: 'upfire',
   id: '0e9eh3',
-  iconUrl: null,
   description:
-    'Upfire is a decentralized protocol for secure P2P file-sharing, where users can earn crypto by seeding files – leveraging Binance Smart Chain and to maximize earnings and minimize fees.',
+    'Upfire is a decentralized protocol for secure P2P file-sharing, enabling users to earn crypto.',
   investors: [],
-  cmcId: 9694,
+  cmcSlug: 'upfire',
 } satisfies AdapterProject

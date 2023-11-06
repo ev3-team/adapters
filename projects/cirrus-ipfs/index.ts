@@ -3,13 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Cirrus IPFS',
   chain: null,
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: '0tn3dg',
-  iconUrl: null,
   description:
-    'Cirrus IPFS is a company that provides an IPFS-based storage platform offering 3x storage capacity of g-drive and advanced security features.',
+    'Cirrus IPFS is a company providing an IPFS-based storage platform with advanced security and 3x the capacity of g-drive.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

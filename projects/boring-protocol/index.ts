@@ -7,8 +7,7 @@ export default {
   token: 'BOP',
   coingeckoId: 'boring-protocol',
   id: 'whkmqt',
-  iconUrl: null,
   description: 'Boring is a decentralized VPN and peer-to-peer bandwidth market.',
   investors: ['oigjdf'],
-  cmcId: 11470,
+  cmcSlug: 'boring-protocol',
 } satisfies AdapterProject

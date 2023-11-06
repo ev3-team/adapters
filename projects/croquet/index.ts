@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pl7b4k',
-  iconUrl: null,
-  description: 'Croquet lets developers easily build serverless multiplayer games.',
+  description:
+    'Croquet is a serverless multiplayer game development platform that simplifies building games for developers.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

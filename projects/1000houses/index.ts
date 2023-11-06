@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '2ly60i',
-  iconUrl: null,
-  description: 'Tokenizing rent from real estate',
+  description:
+    '1000Houses is a tokenizing platform for real estate rent, connecting investors and tenants in a streamlined marketplace.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

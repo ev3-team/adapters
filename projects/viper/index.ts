@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '1sbdg8',
-  iconUrl: null,
-  description: 'Decentralized RPC for Solana',
+  description: 'Viper is a decentralized RPC for Solana.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

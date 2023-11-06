@@ -7,9 +7,8 @@ export default {
   token: 'ORAI',
   coingeckoId: 'oraichain-token',
   id: 'qzneji',
-  iconUrl: null,
   description:
-    "Oraichain is the world's first AI-powered oracle and ecosystem for blockchains. Beyond data oracles, Oraichain aims to become the first AI Layer 1 in the Blockchain sphere with a complete AI ecosystem, serving as a foundational layer for the creation of a new generation of smart contracts and Dapps.",
+    'Oraichain: AI oracle and ecosystem aiming to be the first AI Layer 1 in the Blockchain sphere.',
   investors: [],
-  cmcId: 7533,
+  cmcSlug: 'oraichain-token',
 } satisfies AdapterProject

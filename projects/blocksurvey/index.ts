@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'w1c0r2',
-  iconUrl: null,
-  description: 'Tokengated surveys',
+  description:
+    'BlockSurvey offers Tokengated surveys, enabling users to engage in blockchain-based survey participation.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

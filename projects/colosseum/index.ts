@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '3uhgt0',
-  iconUrl: null,
-  description: '',
+  description:
+    'Colosseum is a fully on-chain fighting game company that facilitates bot battles and viewer betting.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

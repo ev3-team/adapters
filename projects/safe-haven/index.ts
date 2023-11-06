@@ -2,13 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Safe Haven',
-  chain: null,
+  chain: 'BINANCE',
   category: 'AI',
-  token: null,
+  token: 'SHA',
   coingeckoId: null,
   id: 'ewlwyh',
-  iconUrl: null,
-  description: '',
+  description: 'Decentralized digital inheritance',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'safe-haven',
 } satisfies AdapterProject

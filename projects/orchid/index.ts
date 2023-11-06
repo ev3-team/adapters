@@ -3,11 +3,10 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Orchid',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'OXT',
-  coingeckoId: 'orchid-protocol',
+  coingeckoId: 'orchid',
   id: 'vg1qec',
-  iconUrl: null,
   description:
     'Orchid is a decentralized onion routing network incentivized through multi-hop VPN clients.',
   investors: [
@@ -39,5 +38,5 @@ export default {
     'ea62bc',
     '42bud8',
   ],
-  cmcId: 5026,
+  cmcSlug: 'orchid-protocol',
 } satisfies AdapterProject

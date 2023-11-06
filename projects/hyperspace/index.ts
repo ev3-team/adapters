@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'oevejl',
-  iconUrl: null,
-  description: 'A decentralized prompt engine to make AI better, faster and cheaper at-scale',
+  description:
+    'Hyperspace is a decentralized prompt engine for making AI better, faster, and cheaper at-scale.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

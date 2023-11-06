@@ -3,12 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'AXIS',
   chain: 'ETHEREUM',
-  category: 'SENSORS',
+  category: 'OTHER',
   token: 'AXIS',
   coingeckoId: 'axis-token',
   id: '56jkto',
-  iconUrl: null,
-  description: 'Axis is a blockchain-powered direct freight network.',
+  description: 'AXIS is a blockchain-powered direct freight network.',
   investors: [],
-  cmcId: 8849,
+  cmcSlug: 'axis-token',
 } satisfies AdapterProject

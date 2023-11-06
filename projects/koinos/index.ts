@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koinos',
-  chain: null,
+  chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'KOIN',
-  coingeckoId: null,
+  coingeckoId: 'koinos',
   id: '83tc81',
-  iconUrl: null,
-  description:
-    'Koinos mainnet is a general purpose blockchain-based decentralized network that allows for free-to-use applications through a “Mana” mechanism that dynamically prices network resources in opportunity cost (not tokens) and allows for free-to-use dApps through Mana “delegation.”',
+  description: 'Koinos is a blockchain network with free-to-use apps and dynamic resource pricing.',
   investors: [],
-  cmcId: 8282,
+  cmcSlug: 'koinos',
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: 'ANKR',
   coingeckoId: 'ankr',
   id: 'hqtk8u',
-  iconUrl: 'https://assets.depin.ninja/projects/icons/ankr.png',
   description:
-    "Ankr's blockchain node infrastructure network enables multi-chain tools across Web3, DeFi, and the crypto economy.",
+    'Ankr is a blockchain node infrastructure network enhancing multi-chain tools for Web3, DeFi, and the crypto economy.',
   investors: [
     '07pxi6',
     'te4xtz',
@@ -45,5 +44,5 @@ export default {
     '7r65uq',
     '9ptsrm',
   ],
-  cmcId: 3783,
+  cmcSlug: 'ankr',
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: 'SC',
   coingeckoId: 'siacoin',
   id: 'esjdj0',
-  iconUrl: null,
   description:
-    'Sia is a decentralized cloud storage network combining PoW with a contract-based storage model.',
+    'Sia is a decentralized cloud storage network combining Proof of Work with a contract-based storage model.',
   investors: [
     'tg9num',
     '92ar5l',
@@ -21,5 +20,5 @@ export default {
     'sdyd3z',
     'tfi9fe',
   ],
-  cmcId: 1042,
+  cmcSlug: 'siacoin',
 } satisfies AdapterProject

@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blackhat',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
+  token: 'BLKC',
   coingeckoId: null,
   id: '3jgdnl',
-  iconUrl: null,
-  description:
-    'Blackhat Game is an AI game in which the player negotiates as a DeFi protocol against ChatGPT who roleplays a hacker. ',
+  description: 'Blackhat cyber game: Players as DeFi protocos v AI hackerChatGPT.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'blackhat-coin',
 } satisfies AdapterProject

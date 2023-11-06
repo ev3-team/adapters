@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Defit',
-  chain: null,
+  chain: 'POLYGON',
   category: 'OTHER',
-  token: null,
+  token: 'DEFIT',
   coingeckoId: null,
   id: 'jmavqd',
-  iconUrl: null,
-  description:
-    "Provider of a fitness web3 lifestyle brand that rewards it's users with a Move to Earn movement powering its ecosystem with its native multi-chain cryptocurrency operating on Ethereum and Polygon blockchains.",
+  description: 'Defit is a fitness web3 brand that rewards users with a Move to Earn movement.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'defit',
 } satisfies AdapterProject

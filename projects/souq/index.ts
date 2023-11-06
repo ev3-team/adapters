@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Souq',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'hprfe1',
-  iconUrl: null,
-  description: '',
+  description:
+    'Souq is a blockchain company developing an NFT AMM aiming to revolutionize the trading dynamics of NFTs.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

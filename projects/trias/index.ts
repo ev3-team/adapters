@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Trias',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TRIAS',
   coingeckoId: null,
   id: 'gcp7d3',
-  iconUrl: null,
   description:
-    "Developer of an all-platform-supported native-application-compatible intended for cloud infrastructure and ecosystem for general-purpose and enterprise-ready applications. The company's platform is public chain system with features such as token ecosystem, software development framework and its's architecture has application, contract and service layer for application and development, enabling user to use native application, green mining, trusted data source and stability.",
+    'Trias is a cloud infrastructure solution with a native-application-compatible platform and token ecosystem.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'trias-token',
 } satisfies AdapterProject

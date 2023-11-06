@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 's3mmvo',
-  iconUrl: null,
-  description: '',
+  description:
+    'Digitize your communications in just a few clicks. The VoIP switchboard that saves you money in call management.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

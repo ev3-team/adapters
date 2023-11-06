@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '46ij86',
-  iconUrl: null,
-  description: 'Event hosting & ticketing platform',
+  description:
+    'iKnowSpots is a versatile event hosting & ticketing platform that simplifies the process for organizers and attendees.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

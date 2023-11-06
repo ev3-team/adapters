@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'pztili',
-  iconUrl: null,
-  description: '',
+  description:
+    'Glowstick is a user-friendly tool enabling easy 3D environment creation and storytelling.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

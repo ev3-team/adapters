@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XX',
-  chain: null,
+  chain: 'NATIVE',
   category: 'NOT_DEPIN',
-  token: null,
+  token: 'XX',
   coingeckoId: null,
   id: '61nayi',
-  iconUrl: null,
   description:
-    'The xx network is the first and only quantum-resistant and privacy-focused blockchain ecosystem. With xx, users can quickly, securely and privately communicate and exchange value on their smartphone.',
+    'XX: Blockchain for quantum-resistant and private smartphone communication and value exchange.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'xxcoin',
 } satisfies AdapterProject

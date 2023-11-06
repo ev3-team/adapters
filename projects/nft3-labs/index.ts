@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'z1ks7o',
-  iconUrl: null,
   description:
-    'NFT3 acts as a unified virtual identity framework across all Web3 application layers and a pathway toward enabling personal monetization and identity-leveraging.',
+    'NFT3 Labs is a virtual identity framework, enabling personal monetization and identity-lveraging in Web3 applications.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

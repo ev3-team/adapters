@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dione',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'DIONE',
   coingeckoId: null,
   id: 'ew04hq',
-  iconUrl: null,
   description:
-    'Dione is a revolutionary L1 blockchain in development enabling renewable energy trade',
+    'Dione Dione is a blockchain company developing renewable energy trading technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'dione',
 } satisfies AdapterProject

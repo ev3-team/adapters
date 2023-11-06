@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'jtrmoh',
-  iconUrl: null,
   description: 'Full-stack supply chain platform for mlik production',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

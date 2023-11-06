@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'qdkzic',
-  iconUrl: null,
   description:
-    'CESS is a decentralized cloud storage network that supports enterprise-level commercial applications. Cumulus Encrypted Storage System is a full-stack solution developed with Substrate, dedicated to building a high-speed, secure, and scalable decentralized cloud storage network for Web3.',
+    'CESS is a decentralized cloud storage network supporting enterprise-level applications.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

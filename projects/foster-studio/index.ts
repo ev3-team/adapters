@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gzq0lf',
-  iconUrl: null,
-  description: 'Phygital NFTs for artist merch',
+  description:
+    'Foster Studio is a platform for creating and selling artist merchandise in the form of Phygital NFTs.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

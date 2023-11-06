@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Genomes.io',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'OTHER',
-  token: null,
+  token: 'GENE',
   coingeckoId: null,
   id: 'lfu9ni',
-  iconUrl: null,
   description:
-    'GenomesDAO is a biotech DAO focused on safe, private & auditable monetization of genomic data using DeFi.',
+    'Genomes.io is a biotech DAO monetizing genomic data securely, privately & audibly via DeFi.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'genomesdao',
 } satisfies AdapterProject

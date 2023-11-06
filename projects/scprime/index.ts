@@ -1,14 +1,13 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'SCPrime',
+  name: 'ScPrime',
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'SCP',
-  coingeckoId: 'siaprime-coin',
+  coingeckoId: 'scprime',
   id: 'ui2nbm',
-  iconUrl: null,
   description: 'ScPrime is a decentralized network of enterprise-grade cloud storage providers.',
   investors: ['mfsd6d'],
-  cmcId: 4074,
+  cmcSlug: 'siaprime-coin',
 } satisfies AdapterProject

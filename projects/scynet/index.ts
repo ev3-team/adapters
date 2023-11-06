@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5kz9p0',
-  iconUrl: null,
   description:
-    'ScyNet is a blockchain protocol and open economic system. It rewards computing nodes for sharing resources in a decentralized network. AI ventures that configure their own AutoML nodes on the system are able to engage with the GPU power to test and improve their models.',
+    'ScyNet is a blockchain and economic system that rewards nodes for sharing resources in a decentralized network.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

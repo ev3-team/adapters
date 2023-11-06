@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'mwkpfa',
-  iconUrl: null,
-  description:
-    'Developer of a Protocol for Trustless Data Exchange. It allows to securely exchange data with sovereignty & interoperability, proof of consent, governance, and provenance all on-chain.',
+  description: 'Waev is a developer of a trustless data exchange protocol.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

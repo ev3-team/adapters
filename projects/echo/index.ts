@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '9zzvik',
-  iconUrl: null,
   description:
-    'Developer of a decentralized social engagement protocol in Web3, that embeds on-chain comments/likes onto any website, based on Arweave.',
+    'Echo is a decentralized social engagement protocol using Arweave, embedding on-chain comments/likes onto any website.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

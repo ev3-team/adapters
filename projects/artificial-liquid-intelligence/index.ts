@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Artificial Liquid Intelligence',
-  chain: 'CRONOS',
+  chain: 'ETHEREUM',
   category: 'AI',
   token: 'ALI',
-  coingeckoId: 'alethea-artificial-liquid-intelligence-token',
+  coingeckoId: null,
   id: 'hp9an1',
-  iconUrl: null,
   description:
-    'The AI Protocol enables decentralized ownership within the Generative AI economy. It provides permissionless access to generative AI systems and allows creators and developers to leverage new models of monetization, user acquisition, interoperability, verification, crowdsourcing, governance, provenance, and more. Product of Alethea AI',
+    'Alethea AI provides Artificial Liquid Intelligence solutions, enabling decentralized ownership in the AI economy.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'alethea-artificial-liquid-intelligence-token',
 } satisfies AdapterProject

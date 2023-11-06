@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'c5xom1',
-  iconUrl: null,
-  description: '',
+  description:
+    'The future of work is pseudonymous and permissionless - aka, purely meritocratic. Anybody in the world, irrespective of their geography, race, sex, background should have equal opportunity to participate in the global economy.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

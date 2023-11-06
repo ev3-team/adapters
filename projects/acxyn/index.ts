@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ktxx7q',
-  iconUrl: null,
   description:
-    'Acxyn is building critical economic infrastructure for games entering intoWeb3 that will not only ease adoption of the decentralised web but also unlock the true economic potential of games, where they have complete ownership of their revenue streams and game communities.',
+    'Acxyn: empowering Web3 games with economic potential and ownership of revenue streams.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -3,11 +3,10 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Deeper',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'DPR',
   coingeckoId: 'deeper-network',
   id: '3s1vpm',
-  iconUrl: null,
   description: 'Deeper is a decentralized VPN and privacy network.',
   investors: [
     'pu3yyr',
@@ -26,5 +25,5 @@ export default {
     'rk3esc',
     'jdil01',
   ],
-  cmcId: 8894,
+  cmcSlug: 'deeper-network',
 } satisfies AdapterProject

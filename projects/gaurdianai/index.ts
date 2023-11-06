@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'l6f0lf',
-  iconUrl: null,
   description:
-    'Guardian AI is your last layer of defense for your DAO or multisig, it uses a network of autonomous agents through the Decentralized AI Network to check that transactions abide by a certain set of rules.',
+    'GuardianAI: Decentralized defense system for DAOs and multisigs, using AI agents from the Decentralized AI Network.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

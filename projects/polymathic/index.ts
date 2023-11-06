@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ba6xjm',
-  iconUrl: null,
-  description: '',
+  description:
+    'Polymathic AI develops versatile foundation models for machine learning applications in various scientific fields. These models learn from diverse scientific data and simulations to accelerate scientific discoveries and problem-solving.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

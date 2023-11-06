@@ -2,13 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Integritee',
-  chain: null,
+  chain: 'POLKADOT',
   category: 'OTHER',
-  token: null,
+  token: 'TEER',
   coingeckoId: null,
   id: '6hlk6x',
-  iconUrl: null,
-  description: '',
+  description:
+    'Integritee provides a platform to enable collaboration between businesses on sensitive data while giving all parties control and transparency about what their data is used for.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'integritee',
 } satisfies AdapterProject

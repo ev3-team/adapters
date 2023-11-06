@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '8y4g79',
-  iconUrl: null,
-  description:
-    'Kandola is a decentralized Chip-to-Cloud IoT Protocol that democratizes loT device manufacturing and solution development by decoupling the dependency on the loT platform.',
+  description: 'Kandola is a decentralized Chip-to-Cloud IoT Protocol.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'cheqd',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
-  coingeckoId: null,
+  token: 'CHEQ',
+  coingeckoId: 'cheqd',
   id: 'o6gk4u',
-  iconUrl: null,
-  description:
-    'cheqd is a public permissionless network built with Self-Sovereign Identity (SSI) and blockchain technologies. It provides first-of-its-kind payment rails, decentralised identity, customisable commercial models, and governance structures for Trusted Data.',
+  description: 'cheqd offers payment rails, decentralized identity, and trusted data.',
   investors: [],
-  cmcId: 12256,
+  cmcSlug: 'cheqd-network',
 } satisfies AdapterProject

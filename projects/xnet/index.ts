@@ -5,11 +5,10 @@ export default {
   chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'XNET',
-  coingeckoId: 'xnet-mobile',
+  coingeckoId: null,
   id: 'pyz7yz',
-  iconUrl: null,
   description:
     'XNET is a blockchain-powered mobile carrier building neutral-host telecommunications infrastructure.',
   investors: ['7zvxz8'],
-  cmcId: null,
+  cmcSlug: 'xnet-mobile',
 } satisfies AdapterProject

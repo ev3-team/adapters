@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gf055c',
-  iconUrl: null,
   description:
-    'A Web3 startup focused on decentralized data storage, providing an alternative to centralized systems that compromise privacy and pose compliance and security challenges for enterprises. Leveraging decentralized storage and zero-knowledge proofs, Terminal 3 aims to enable a fair Web3 environment where user data remains fully private and secure while being freely composable.',
+    'Terminal 3: Web3 startup for decentralized data storage, providing privacy and security.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

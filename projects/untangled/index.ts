@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'xexd0a',
-  iconUrl: null,
-  description: '',
+  description:
+    'Untangled.Finance bridges traditional and decentralized finance, bringing institutional-grade, real-world assets on chain. This expands crypto investment opportunities into high quality assets at scale. We’re currently developing a unique liquidation mechanism for these assets, setting us to overcome a significant hurdle in connecting real-world assets to DeFi. This innovation, alongside our diversified DeFi yield products and bespoke strategies, underscores our commitment to enhancing access to finance around the world.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

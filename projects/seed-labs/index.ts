@@ -3,12 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Seed Labs',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'ixg6ts',
-  iconUrl: null,
-  description: '',
+  description:
+    'Seed Labs is a collectively owned, community-first, open early stage venture capital.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

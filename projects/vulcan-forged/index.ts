@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vulcan Forged',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
+  token: 'PYR',
   coingeckoId: null,
   id: 'y6ydao',
-  iconUrl: null,
   description:
-    'Vulcan Forged is the ultimate web3 ecosystem known for Vulcan Studios, its web3 gaming studio; Elysium, a carbon-neutral Layer-1 blockchain; and MetaScapes, its upcoming Metaverse-as-a-Service project. The ecosystem is powered by $PYR and $LAVA.',
+    'Vulcan Studios - web3 gaming, Elysium - carbon-neutral blockchain, MetaScapes - upcoming Metaverse-as-a-Service',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'vulcan-forged',
 } satisfies AdapterProject

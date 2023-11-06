@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '5ts91p',
-  iconUrl: null,
   description:
-    'BLiNQ Networks is leading the way in high-performance, low-cost 5G ready wireless solutions for fixed and mobile services.',
+    'Blinq offers affordable, high-performance 5G ready wireless solutions company for fixed and mobile services.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

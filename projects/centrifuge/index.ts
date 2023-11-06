@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Centrifuge',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
+  token: 'CFG',
   coingeckoId: null,
   id: 'cosgc8',
-  iconUrl: null,
-  description:
-    'Centrifuge is an open, decentralized operating system to connect the global financial supply chain. It allows participants to transact on a global network while maintaining ownership of their data, including their validated company details, their reputation, business relationships, and subsequent transactions.',
+  description: 'Decentralized OS for global financial supply chain, enabling data ownership.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'centrifuge',
 } satisfies AdapterProject

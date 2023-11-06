@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Quant',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'OTHER',
-  token: null,
+  token: 'QNT',
   coingeckoId: null,
   id: '7u7rag',
-  iconUrl: null,
-  description:
-    'Quant Network is a blockchain and distributed ledger technology (DLT) project with the goal of improving the effectiveness of information communication worldwide.',
+  description: 'Quant: enhance blockchain communication globally.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'quant-network',
 } satisfies AdapterProject

@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ReapChain',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'REAP',
-  coingeckoId: null,
+  coingeckoId: 'reapchain',
   id: '15hta4',
-  iconUrl: null,
   description:
-    'ReapChain is a hybrid blockchain with a Shell-Core Structure. It solves the trilemma of existing blockchains and tries to implement the integration of blockchain and IoT industry by resolving the security and mass data processing problems of the existing IoT market through PID of things and distributed storage service of ReapMiddleChain.',
+    'ReapChain: Hybrid blockchain solving trilemma and integrating IoT through distributed storage and PID.',
   investors: [],
-  cmcId: 7677,
+  cmcSlug: 'reapchain',
 } satisfies AdapterProject

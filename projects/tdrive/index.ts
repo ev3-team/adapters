@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '63c0w9',
-  iconUrl: null,
-  description: 'a decentralized storage platform built on the Telos Blockchain.',
+  description: 'tDrive is a decentralized storage platform built on the Telos Blockchain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

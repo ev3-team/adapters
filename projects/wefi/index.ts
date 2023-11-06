@@ -5,11 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'WEFI',
-  coingeckoId: 'wefi-finance',
+  coingeckoId: 'wefi',
   id: 'wfvjio',
-  iconUrl: null,
   description:
     'WeFi is a decentralized protocol that opens up under collateralized borrowing and lending options in the DeFi space.',
   investors: [],
-  cmcId: 24771,
+  cmcSlug: 'wefi-finance',
 } satisfies AdapterProject

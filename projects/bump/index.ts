@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'urvli0',
-  iconUrl: null,
   description:
-    'Developer of an app based solution that connects users to a peer-to-peer mobile network. Users who share their internet via their phone can earn crypto.',
+    'Bump is a peer-to-peer mobile network connecting users who share their internet via their phone to earn crypto.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

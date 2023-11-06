@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'nlkbyo',
-  iconUrl: null,
-  description:
-    'Building the Open Economy for AI which aims to be an alternative path for the collective development of AI.',
+  description: 'Giza is a collaborative platform for the development of AI.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

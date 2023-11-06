@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Everdome',
-  chain: null,
+  chain: 'BINANCE',
   category: 'NOT_DEPIN',
-  token: null,
-  coingeckoId: null,
+  token: 'DOME',
+  coingeckoId: 'everdome',
   id: 't4w143',
-  iconUrl: null,
-  description:
-    'Everdome is creating the most hyper-realistic Metaverse. Bringing brands and users together in a digital-life meets real-world experience, all with the purpose of interconnecting the digital and physical worlds seamlessly - ultimately creating the most realistic Web3 experience',
+  description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
   investors: [],
-  cmcId: 16432,
+  cmcSlug: 'everdome',
 } satisfies AdapterProject

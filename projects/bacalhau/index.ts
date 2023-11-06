@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'jtoxcg',
-  iconUrl: null,
-  description:
-    'Bacalhau is a platform for fast, cost efficient, and secure computation that enables users to run compute jobs where the data is generated and stored.',
+  description: 'Bacalhau: Fast, efficient, secure computation platform.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

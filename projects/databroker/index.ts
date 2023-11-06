@@ -5,10 +5,9 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'DTX',
-  coingeckoId: 'databroker-dao',
+  coingeckoId: 'databroker',
   id: '08wij5',
-  iconUrl: null,
   description: 'Databroker is a secure marketplace for peer-to-peer data exchange.',
   investors: [],
-  cmcId: 2913,
+  cmcSlug: 'databroker-dao',
 } satisfies AdapterProject

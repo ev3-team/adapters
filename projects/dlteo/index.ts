@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'byzgll',
-  iconUrl: null,
-  description:
-    'A fully open-source & geopolitically neutral platform (dApp) to monetize and process (Earth Observation) Data & AI models',
+  description: 'DLTEO is a platform to monetize and process Earth Observation Data & AI models.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

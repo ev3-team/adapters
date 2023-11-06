@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '44h60y',
-  iconUrl: null,
-  description: '',
+  description:
+    'Your investments are no more subject to market risks. Welcome to an investment solution that is never effected by the market, but always affects the environment.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

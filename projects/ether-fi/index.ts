@@ -3,13 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ether.fi',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: '1agi71',
-  iconUrl: null,
   description:
-    'ether.fi is a non-custodial decentralized ETH staking method that distributes staking to node operators in exchange for rewards.',
+    'Ether.fi is a non-custodial decentralized ETH staking method that rewards node operators for participating in staking.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

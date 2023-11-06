@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'bwhoon',
-  iconUrl: null,
   description:
-    'Jasmine is a decentralized market for climate assets that makes it easy to claim, trade, and redeem renewable energy certificates',
+    'Jasmine Energy is a decentralized market for claiming, trading, and redeeming renewable energy certificates.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

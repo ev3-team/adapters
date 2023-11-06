@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'u43dxj',
-  iconUrl: null,
-  description: '',
+  description: 'We help enterprises deploy fine-tuned LLMs for enterprise analytics.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

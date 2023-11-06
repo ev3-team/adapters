@@ -5,11 +5,10 @@ export default {
   chain: null,
   category: 'OTHER',
   token: null,
-  coingeckoId: null,
+  coingeckoId: 'goracle',
   id: 'x4c5qz',
-  iconUrl: null,
   description:
-    "Goracle is a decentralized oracle network built on the Algorand blockchain. The company's platform uses a decentralized network of feed providers, node runners, and bounty hunters to get feeds onto smart contracts, enabling customers to connect with the algorand blockchain.",
+    'Goracle is a decentralized oracle network on the Algorand blockchain connecting customers with the algorand blockchain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

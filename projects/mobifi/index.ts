@@ -2,14 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MobiFi',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'OTHER',
-  token: null,
-  coingeckoId: null,
+  token: 'MOFI',
+  coingeckoId: 'mobi-finance',
   id: 'ars9qg',
-  iconUrl: null,
-  description:
-    'MobiFi is a next-gen mobility-as-a-service Dapp that rewards users for making smarter mobility and transportation decisions.',
+  description: 'MobiFi rewards users for making smarter mobility decisions.',
   investors: [],
-  cmcId: 9132,
+  cmcSlug: 'mobifi',
 } satisfies AdapterProject

@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'nm1uyh',
-  iconUrl: null,
-  description: 'Switch is a stealth project built on IoTeX.',
+  description: 'Switch Electric Switch is a stealth project built on IoTeX.',
   investors: [],
-  cmcId: 24302,
+  cmcSlug: null,
 } satisfies AdapterProject

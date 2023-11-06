@@ -5,11 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AFY',
-  coingeckoId: 'artify',
+  coingeckoId: 'artify-token',
   id: '22cfnq',
-  iconUrl: null,
   description:
-    'Artify provides a zero-fee gasless NFT mint, allowing artists to easily create and sell their artwork on our platform without incurring any additional costs.',
+    'Artify is a platform for artists to create and sell artwork without any additional costs.',
   investors: [],
-  cmcId: 23666,
+  cmcSlug: 'artify',
 } satisfies AdapterProject

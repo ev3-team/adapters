@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'x94xlf',
-  iconUrl: null,
   description:
-    'Apillon is a Web3 development platform empowering developers to build in the Polkadot ecosystem.',
+    'Apillion is a Web3 development platform enabling developers to build in the Polkadot ecosystem.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

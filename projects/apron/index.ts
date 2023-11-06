@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Apron',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
+  token: 'APN',
   coingeckoId: null,
   id: 'bg8k10',
-  iconUrl: null,
   description:
-    'Apron Network is building a decentralized infrastructure service network for DApp developers, DApp users and infrastructure operators based on a decentralized network of blockchain technology',
+    'Apron is a decentralized infrastructure service network for DApp developers, users, and operators on blockchain.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'apron',
 } satisfies AdapterProject

@@ -2,13 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ReGen',
-  chain: null,
-  category: 'OTHER',
-  token: null,
+  chain: 'COSMOS',
+  category: 'NOT_DEPIN',
+  token: 'REGEN',
   coingeckoId: null,
   id: 'sbgvjh',
-  iconUrl: null,
-  description: 'alternative trading desk for the New Fuel Economy (Hydrogen, Ammonia & Methanol',
+  description: 'ReGen focuses on Hydrogen, Ammonia, and Methanol trading for the New Fuel Economy.',
   investors: [],
-  cmcId: null,
+  cmcSlug: 'regen',
 } satisfies AdapterProject

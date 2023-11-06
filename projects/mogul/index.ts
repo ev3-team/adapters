@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: '129mdn',
-  iconUrl: null,
-  description: '',
+  description:
+    'Mogul is a blockchain-based platform enabling direct investment in cash-flowing properties for as little as $100.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

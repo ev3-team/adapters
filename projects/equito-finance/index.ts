@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: '02ugap',
-  iconUrl: null,
-  description:
-    'Equito Finance is a chain agnostic and open source bridge protocol seeking to expand into ubiquitous network-to-network infrastructure.',
+  description: 'Equito Finance is a chain-agnostic open-source bridge protocol.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

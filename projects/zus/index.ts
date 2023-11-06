@@ -7,9 +7,8 @@ export default {
   token: 'ZCN',
   coingeckoId: '0chain',
   id: 'q97oiz',
-  iconUrl: 'https://assets.depin.ninja/projects/icons/zus.png',
   description:
     'Zus is a decentralized storage network with built-in privacy and security compliance.',
   investors: ['ztpy5d', '2ngx9z', '8a2od5', 'ncj523'],
-  cmcId: 2882,
+  cmcSlug: '0chain',
 } satisfies AdapterProject

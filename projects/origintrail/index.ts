@@ -7,9 +7,8 @@ export default {
   token: 'TRAC',
   coingeckoId: 'origintrail',
   id: 'v9wsjb',
-  iconUrl: null,
   description:
-    'OriginTrail is a decentralized knowledge graph that enable anyone to take part in trustless knowledge sharing.',
+    'OriginTrail is a decentralized knowledge graph enabling trustless knowledge sharing for everyone.',
   investors: [
     'buime9',
     '9n4okv',
@@ -21,5 +20,5 @@ export default {
     'exn39e',
     'mv230f',
   ],
-  cmcId: 2467,
+  cmcSlug: 'origintrail',
 } satisfies AdapterProject

@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'f918a3',
-  iconUrl: null,
-  description:
-    'Ark is a second-layer protocol for making cheap, anonymous, off-chain Bitcoin payments.',
+  description: 'Ark is a layer-2 protocol enabling cheap, anonymous, off-chain Bitcoin payments.',
   investors: ['jqz0zw'],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

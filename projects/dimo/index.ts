@@ -7,8 +7,7 @@ export default {
   token: 'DIMO',
   coingeckoId: 'dimo',
   id: '0wr2ea',
-  iconUrl: null,
-  description: 'DIMO is decentralized network of connected vehicles.',
+  description: 'Dimo is a decentralized ecosystem of connected vehicles.',
   investors: [
     'szfiug',
     'q9qqsj',
@@ -37,5 +36,5 @@ export default {
     'gaps2j',
     'q6mnc6',
   ],
-  cmcId: 22837,
+  cmcSlug: 'dimo',
 } satisfies AdapterProject

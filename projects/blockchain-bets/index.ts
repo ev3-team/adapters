@@ -2,13 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockchain Bets',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BCB',
-  coingeckoId: null,
+  coingeckoId: 'blockchain-bets',
   id: 'afo4li',
-  iconUrl: null,
-  description: 'Decentralised Casino & Sports Betting Platform.',
+  description:
+    'Blockchain Bets - decentralized casino & sports betting platform on blockchain for transparency & security.',
   investors: [],
-  cmcId: 23165,
+  cmcSlug: 'blockchain-bets',
 } satisfies AdapterProject

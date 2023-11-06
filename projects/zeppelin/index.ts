@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'cvzsdf',
-  iconUrl: 'https://assets.depin.ninja/projects/icons/zeppelin.png',
-  description: '',
+  description:
+    'Zeppelin aims to be the global leader in decentralized wireless infrastructure by enabling seamless decentralized wireless connectivity globally by leveraging energy efficient blockchain technology across multiple protocols and multi-cryptocurrency tokenomics to drive network growth.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

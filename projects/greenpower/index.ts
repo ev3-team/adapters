@@ -2,13 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GreenPower',
-  chain: 'BINANCE',
+  chain: null,
   category: 'ENERGY',
-  token: 'GPTT',
+  token: null,
   coingeckoId: null,
   id: '6t7pf0',
-  iconUrl: null,
   description: 'GreenPower is a decentralized network of global sustainability activists.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

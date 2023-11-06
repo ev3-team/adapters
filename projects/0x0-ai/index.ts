@@ -7,9 +7,7 @@ export default {
   token: '_0X0',
   coingeckoId: '0x0-ai-ai-smart-contract',
   id: 'vqpvwd',
-  iconUrl: null,
-  description:
-    '0x0.ai is an AI-powered Solidity Smart Contract Auditor that uses machine learning to analyze code for vulnerabilities, errors, and issues.',
+  description: '0x0.ai - AI for secure smart contract development',
   investors: [],
-  cmcId: 23355,
+  cmcSlug: '0x0-ai-ai-smart-contract',
 } satisfies AdapterProject

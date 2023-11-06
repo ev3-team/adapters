@@ -7,8 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'vwstsz',
-  iconUrl: null,
-  description: 'Already invested',
+  description: 'Hexagon builds and operates decentralized wireless infrastructure.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

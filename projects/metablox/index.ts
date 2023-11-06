@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'k5fxwj',
-  iconUrl: null,
-  description: 'MetaBlox is delivering enterprise-grade WiFi roaming to the public worldwide.',
+  description:
+    'Metablox is a provider of enterprise-grade WiFi roaming solutions, delivering worldwide public access.',
   investors: ['wu15kr', 'zaf9xh', '0z5mdu', 'amj5yq', 'o74yrz', 'rn3dd5', 'xf57bt'],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

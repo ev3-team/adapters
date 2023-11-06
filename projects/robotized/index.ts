@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'n87ym5',
-  iconUrl: null,
-  description: '',
+  description:
+    'Robotiz3d is building the world’s first autonomous road maintenance vehicle to help tackle the spiralling pothole problems. Combining robotics, ai, and autonomous vehicle technologies, their battery powered system can perform driverless patrol of the roads, automatically detecting and repairing surface defects such as cracks and potholes. ',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

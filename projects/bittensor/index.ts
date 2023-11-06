@@ -7,8 +7,7 @@ export default {
   token: 'TAO',
   coingeckoId: 'bittensor',
   id: 'hq4rl7',
-  iconUrl: null,
-  description: 'Bittensor is a decentralized network incentizing machine intelligence.',
+  description: 'Bittensor is a peer-to-peer machine intelligence network.',
   investors: ['5yy6cw', 'tqh3bl', 'rzyh4k'],
-  cmcId: 22974,
+  cmcSlug: 'bittensor',
 } satisfies AdapterProject

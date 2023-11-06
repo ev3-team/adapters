@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'olcvcb',
-  iconUrl: null,
   description:
-    'IOTEdge is a decentralized edge computing network for Internet of Things, built on blockchain technology.',
+    'IoTEdge is a decentralized edge computing network for Internet of Things, built on blockchain technology.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

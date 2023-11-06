@@ -2,13 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sarcophagus',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'OTHER',
-  token: null,
+  token: 'SARCO',
   coingeckoId: null,
   id: 'se7wj7',
-  iconUrl: null,
-  description: '',
+  description: "Decentralized dead man's switch",
   investors: [],
-  cmcId: null,
+  cmcSlug: 'sarcophagus',
 } satisfies AdapterProject

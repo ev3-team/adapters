@@ -2,14 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GamerCoin',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
-  coingeckoId: null,
+  token: 'GHX',
+  coingeckoId: 'gamercoin',
   id: 'z2gapv',
-  iconUrl: null,
   description:
-    'Developer of a blockchain-supported application designed to facilitate the exchange of desktop computing power for various digital goods.',
+    'GamerCoin is a blockchain-supported application that allows users to exchange desktop computing power for digital goods.',
   investors: [],
-  cmcId: 6554,
+  cmcSlug: 'gamercoin',
 } satisfies AdapterProject

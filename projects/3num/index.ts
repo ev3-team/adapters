@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'f5qe2h',
-  iconUrl: null,
-  description:
-    "3NUM is the world's first globally routable web3 mobile number, called a 3NUM Shield bridging 5 billion mobile subscribers into secure and trusted web3 communications!",
+  description: '_3Num connects mobile subscribers for secure communication.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

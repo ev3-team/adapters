@@ -3,13 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'AirTor',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'ATOR',
   coingeckoId: 'airtor-protocol',
   id: 'l9if1e',
-  iconUrl: null,
-  description:
-    "AirTor's proof-of-uptime and relay hardware allow users to earn passively while contributing to Tor.",
+  description: 'AirTor: Proof-of-uptime and relay hardware for passive earning and support of Tor.',
   investors: [],
-  cmcId: 23757,
+  cmcSlug: 'airtor-protocol',
 } satisfies AdapterProject

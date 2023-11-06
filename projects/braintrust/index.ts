@@ -3,13 +3,12 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Braintrust',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'LABOR',
   token: 'BTRST',
-  coingeckoId: null,
+  coingeckoId: 'braintrust',
   id: '8mk3xj',
-  iconUrl: 'https://assets.depin.ninja/projects/icons/braintrust.jpeg',
   description:
-    "Braintrust is the first decentralized Web3 talent network that connects tech freelancers with the world's leading brands",
+    'The Braintrust is a decentralized Web3 talent network linking tech freelancers with top brands worldwide.',
   investors: [
     '2g0699',
     'hbpmm3',
@@ -25,5 +24,5 @@ export default {
     'ybmlzh',
     'mq1e3y',
   ],
-  cmcId: 11584,
+  cmcSlug: 'braintrust',
 } satisfies AdapterProject

@@ -7,9 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'xjyor4',
-  iconUrl: null,
   description:
-    "Spexigon is a decentralized network of drone operators using the world's first fly-to-earn drone imagery platform.",
+    'Spexigon is a decentralized network of drone operators using the first fly-to-earn drone imagery platform.',
   investors: [
     'ti312b',
     'hbpmm3',
@@ -24,5 +23,5 @@ export default {
     '6k3bn6',
     'ot2qso',
   ],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

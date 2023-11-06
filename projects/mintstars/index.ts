@@ -7,8 +7,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'gt1ww4',
-  iconUrl: null,
-  description: '',
+  description:
+    'Mintstars is a subscription-based NFT platform empowering creators to control their content and earnings.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

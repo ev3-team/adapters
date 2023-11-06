@@ -5,11 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'FLUX',
-  coingeckoId: 'zelcash',
+  coingeckoId: 'zel',
   id: '0t3lhn',
-  iconUrl: null,
   description:
-    'Flux is a decentralized compute network designed for cross-platform blockchain applications.',
+    'Flux is a decentralized compute network for cross-platform blockchain applications.',
   investors: ['szfiug', 'mar9ip'],
-  cmcId: 3029,
+  cmcSlug: 'zelcash',
 } satisfies AdapterProject

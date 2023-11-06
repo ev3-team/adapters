@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'sel0t5',
-  iconUrl: null,
-  description:
-    'TEKKON is a Web3 app that promotes social good by empowering users (citizens) to help fix their local community’s infrastructure. Users (Citizens) can earn a token by posting and reviewing infrastructure data.',
+  description: 'TEKKON: Web3 app for citizen-driven infrastructure solutions.',
   investors: [],
-  cmcId: null,
+  cmcSlug: null,
 } satisfies AdapterProject

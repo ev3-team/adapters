@@ -5,11 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CRU',
-  coingeckoId: 'crust-network',
+  coingeckoId: null,
   id: 'x2nise',
-  iconUrl: null,
   description:
-    'Crust Network is a decentralized cloud storage provider supporting multiple underlying storage protocols.',
+    'Crust is a decentralized cloud storage provider supporting multiple storage protocols.',
   investors: [
     '07pxi6',
     '2tgqti',
@@ -41,5 +40,5 @@ export default {
     '4yr483',
     '935mux',
   ],
-  cmcId: null,
+  cmcSlug: 'crust-network',
 } satisfies AdapterProject
