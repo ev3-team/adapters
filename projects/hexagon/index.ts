@@ -9,6 +9,6 @@ export default {
   id: 'vwstsz',
   description: 'Hexagon builds and operates decentralized wireless infrastructure.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,11 +5,11 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: 'jinni-ai',
+  coingeckoId: null,
   id: 'xkquis',
   description:
     'Jinni is an AI project making AI accessible to all, revolutionizing the global AI landscape.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: 26580,
 } satisfies AdapterProject

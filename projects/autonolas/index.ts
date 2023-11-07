@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OLAS',
-  coingeckoId: null,
+  coingeckoId: 'autonolas',
   id: '5wvni1',
   description: 'Autonolas is a decentralized network of autonomous AI agents.',
   investors: [],
-  cmcSlug: 'autonolas',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

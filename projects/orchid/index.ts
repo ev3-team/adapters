@@ -5,7 +5,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'OXT',
-  coingeckoId: 'orchid',
+  coingeckoId: 'orchid-protocol',
   id: 'vg1qec',
   description:
     'Orchid is a decentralized onion routing network incentivized through multi-hop VPN clients.',
@@ -38,6 +38,6 @@ export default {
     'ea62bc',
     '42bud8',
   ],
-  cmcSlug: 'orchid-protocol',
   duneQueries: null,
+  cmcId: 5026,
 } satisfies AdapterProject

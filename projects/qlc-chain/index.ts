@@ -10,6 +10,6 @@ export default {
   description:
     'QLC Chain is a next-gen public Blockchain enabling service providers and network operators.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

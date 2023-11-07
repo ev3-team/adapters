@@ -9,6 +9,6 @@ export default {
   id: 'ul9uzl',
   description: 'Fluence - decentralized platform for creating peer-to-peer apps.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Archon Developer is a decentralized protocol enabling scientific research with secure storage, access, and governance.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

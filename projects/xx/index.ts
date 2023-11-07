@@ -5,11 +5,11 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'XX',
-  coingeckoId: null,
+  coingeckoId: 'xxcoin',
   id: '61nayi',
   description:
     'XX: Blockchain for quantum-resistant and private smartphone communication and value exchange.',
   investors: [],
-  cmcSlug: 'xxcoin',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

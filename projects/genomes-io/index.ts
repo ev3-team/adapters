@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'GENE',
-  coingeckoId: null,
+  coingeckoId: 'genomesdao',
   id: 'lfu9ni',
   description:
     'Genomes.io is a biotech DAO monetizing genomic data securely, privately & audibly via DeFi.',
   investors: [],
-  cmcSlug: 'genomesdao',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

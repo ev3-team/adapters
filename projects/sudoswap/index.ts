@@ -10,6 +10,6 @@ export default {
   description:
     'sudoSwap: A gas-efficient AMM protocol for NFT-to-token swaps with customizable bonding curves. Supports various tokens.',
   investors: [],
-  cmcSlug: 'sudoswap',
   duneQueries: null,
+  cmcId: 21733,
 } satisfies AdapterProject

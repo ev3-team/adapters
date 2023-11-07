@@ -9,6 +9,6 @@ export default {
   id: '6qvjpf',
   description: 'SecondLive: a metaverse for avatars, virtual spaces, art exhibitions, and gaming.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

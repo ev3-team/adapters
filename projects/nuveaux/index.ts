@@ -9,6 +9,6 @@ export default {
   id: 'epici3',
   description: 'Stealth trading system in progress.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

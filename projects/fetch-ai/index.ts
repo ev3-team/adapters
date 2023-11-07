@@ -5,7 +5,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'FET',
-  coingeckoId: 'fetch',
+  coingeckoId: 'fetch-ai',
   id: 'mhpovr',
   description:
     'Fetch.ai: Blockchain-based AI and ML platform connecting devices for market creation and data value addition.',
@@ -23,6 +23,6 @@ export default {
     'dm8n2p',
     '44u6gg',
   ],
-  cmcSlug: 'fetch-ai',
   duneQueries: null,
+  cmcId: 3773,
 } satisfies AdapterProject

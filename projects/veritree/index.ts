@@ -10,6 +10,6 @@ export default {
   description:
     'Veritree is a blockchain company specializing in transparent and durable systems for verifying tree planting & growth.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

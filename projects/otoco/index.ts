@@ -10,6 +10,6 @@ export default {
   description:
     'OtoCo builds tools for forming, funding, and governing legal entities on blockchain.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

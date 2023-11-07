@@ -5,10 +5,10 @@ export default {
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PI',
-  coingeckoId: null,
+  coingeckoId: 'pi-network-iou',
   id: 'xpggzk',
   description: 'Pi is a decentralized environmental data collection network.',
   investors: [],
-  cmcSlug: 'pi-network-iou',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

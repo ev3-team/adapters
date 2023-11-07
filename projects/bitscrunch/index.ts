@@ -9,6 +9,6 @@ export default {
   id: 'x835xi',
   description: 'BitsCrunch: AI-powered, decentralized NFT data for reliable dApps.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

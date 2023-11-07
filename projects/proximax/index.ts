@@ -10,6 +10,6 @@ export default {
   description:
     'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
   investors: [],
-  cmcSlug: 'proximax',
   duneQueries: null,
+  cmcId: 3126,
 } satisfies AdapterProject

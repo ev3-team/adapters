@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'NOIA',
-  coingeckoId: 'syntropy',
+  coingeckoId: 'noia-network',
   id: 'm9yv19',
   description:
     'Syntropy is a multi-chain data availability layer offering decentralized, scalable access to on-chain data.',
   investors: [],
-  cmcSlug: 'noia-network',
   duneQueries: null,
+  cmcId: 4191,
 } satisfies AdapterProject

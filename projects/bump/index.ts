@@ -10,6 +10,6 @@ export default {
   description:
     'Bump is a peer-to-peer mobile network connecting users who share their internet via their phone to earn crypto.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

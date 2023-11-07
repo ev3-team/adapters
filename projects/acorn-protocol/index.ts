@@ -10,6 +10,6 @@ export default {
   description:
     'Acorn Protocol is a data ecosystem that rewards users for contributing and monetizing data value in a vibrant way.',
   investors: [],
-  cmcSlug: 'acorn-protocol',
   duneQueries: null,
+  cmcId: 24070,
 } satisfies AdapterProject

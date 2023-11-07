@@ -9,6 +9,6 @@ export default {
   id: 'cfy81h',
   description: 'Qualoo is revolutionizing telecom with global internet governance & diagnostics.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'khpbec',
   description: 'CroPo collects global data, offers value to participants.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

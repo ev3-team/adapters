@@ -10,6 +10,6 @@ export default {
   description:
     'Human is a global financial and identity network with unique digital ID, currency, and mobile wallet app.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

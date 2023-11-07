@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAINT',
-  coingeckoId: 'murall',
+  coingeckoId: 'paint',
   id: 'kvmdaw',
   description:
     'MurAll: A blockchain platform for artists to create art using limited token called PAINT.',
   investors: [],
-  cmcSlug: 'paint',
   duneQueries: null,
+  cmcId: 8647,
 } satisfies AdapterProject

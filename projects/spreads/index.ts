@@ -9,6 +9,6 @@ export default {
   id: 's74bpn',
   description: 'Spreads: Empowering communities for digital transformation.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

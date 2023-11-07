@@ -5,7 +5,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ROSO',
-  coingeckoId: 'lit',
+  coingeckoId: 'roso-elite-gamblers-mansion',
   id: '36f3to',
   description:
     'Roso is a diverse online casino and gaming platform, offering a wide range of gambling experiences.',
@@ -55,6 +55,6 @@ export default {
     '03zdwj',
     'dbr5ig',
   ],
-  cmcSlug: 'roso-elite-gamblers-mansion',
   duneQueries: null,
+  cmcId: 15784,
 } satisfies AdapterProject

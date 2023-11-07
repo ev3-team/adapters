@@ -5,7 +5,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'BZZ',
-  coingeckoId: 'ethereum-swarm',
+  coingeckoId: 'swarm-bzz',
   id: '8s783v',
   description: 'Swarm is a decentralised data storage and distribution technology.',
   investors: [
@@ -20,6 +20,6 @@ export default {
     'vfifi9',
     'e0510f',
   ],
-  cmcSlug: 'swarm-bzz',
   duneQueries: null,
+  cmcId: 10293,
 } satisfies AdapterProject

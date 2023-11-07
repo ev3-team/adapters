@@ -10,6 +10,6 @@ export default {
   description:
     'PiKNiK is a turnkey Web3 storage provider simplifying storage and facilitating Filecoin network access.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

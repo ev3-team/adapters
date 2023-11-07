@@ -10,6 +10,6 @@ export default {
   description:
     'Bitping is a distributed network intelligence solution that enables users to share CPU and bandwidth for ping tests.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

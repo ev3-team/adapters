@@ -9,6 +9,6 @@ export default {
   id: '1tdy5h',
   description: 'RSS3 is a next-gen feed protocol for decentralized applications.',
   investors: [],
-  cmcSlug: 'rss3',
   duneQueries: null,
+  cmcId: 17917,
 } satisfies AdapterProject

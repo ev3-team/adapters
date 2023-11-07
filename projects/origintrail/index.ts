@@ -20,6 +20,6 @@ export default {
     'exn39e',
     'mv230f',
   ],
-  cmcSlug: 'origintrail',
   duneQueries: null,
+  cmcId: 2467,
 } satisfies AdapterProject

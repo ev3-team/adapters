@@ -10,6 +10,6 @@ export default {
   description:
     'Neural Radiance Fields enables users to generate immersive 3D environments and create realistic videos.',
   investors: [],
-  cmcSlug: 'neural-radiance-field',
   duneQueries: null,
+  cmcId: 23844,
 } satisfies AdapterProject

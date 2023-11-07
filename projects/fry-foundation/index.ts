@@ -9,6 +9,6 @@ export default {
   id: 'jgd2lw',
   description: 'Fry Foundation is a decentralized aggregator of decentralized networks.',
   investors: [],
-  cmcSlug: 'fryscrypto',
   duneQueries: null,
+  cmcId: 24874,
 } satisfies AdapterProject

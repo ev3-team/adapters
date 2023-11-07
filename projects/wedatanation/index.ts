@@ -9,6 +9,6 @@ export default {
   id: 'ah17kx',
   description: 'WeDataNation: Secure platform for user data aggregation.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

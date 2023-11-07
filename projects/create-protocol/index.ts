@@ -9,6 +9,6 @@ export default {
   id: 'otw9vc',
   description: 'Creator-owned dApp protocol revolutionizing IP creation in the Metaverse space.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

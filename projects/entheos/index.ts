@@ -9,6 +9,6 @@ export default {
   id: '0if1hs',
   description: 'Entheos Network: energy solutions & batteries for businesses globally.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

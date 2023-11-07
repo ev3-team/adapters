@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'LINK',
-  coingeckoId: null,
+  coingeckoId: 'chainlink',
   id: 'y9e0mz',
   description:
     'Chainlink enables connected smart contracts through a decentralized oracle network.',
   investors: [],
-  cmcSlug: 'chainlink',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

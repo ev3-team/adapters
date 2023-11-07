@@ -10,6 +10,6 @@ export default {
   description:
     'BlockSurvey offers Tokengated surveys, enabling users to engage in blockchain-based survey participation.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

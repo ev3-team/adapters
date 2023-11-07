@@ -5,11 +5,11 @@ export default {
   chain: 'XDC',
   category: 'COMPUTE',
   token: 'SRX',
-  coingeckoId: 'storx-network',
+  coingeckoId: 'storx',
   id: 't69457',
   description:
     'StorX is a decentralized cloud storage network enabling permissionless selling/leasing of storage capacity.',
   investors: [],
-  cmcSlug: 'storx',
   duneQueries: null,
+  cmcId: 10894,
 } satisfies AdapterProject

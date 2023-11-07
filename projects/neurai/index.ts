@@ -10,6 +10,6 @@ export default {
   description:
     'Neurai: AI, analytics, decision making, predictive modeling, IoT using blockchain assets.',
   investors: [],
-  cmcSlug: 'neurai',
   duneQueries: null,
+  cmcId: 27195,
 } satisfies AdapterProject

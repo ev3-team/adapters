@@ -9,6 +9,6 @@ export default {
   id: 't4w143',
   description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
   investors: [],
-  cmcSlug: 'everdome',
   duneQueries: null,
+  cmcId: 16432,
 } satisfies AdapterProject

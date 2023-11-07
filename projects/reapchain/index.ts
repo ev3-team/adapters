@@ -10,6 +10,6 @@ export default {
   description:
     'ReapChain: Hybrid blockchain solving trilemma and integrating IoT through distributed storage and PID.',
   investors: [],
-  cmcSlug: 'reapchain',
   duneQueries: null,
+  cmcId: 7677,
 } satisfies AdapterProject

@@ -10,8 +10,8 @@ export default {
   description:
     'Althea is a web stack creating a marketplace for building ISPs and providing bandwidth in communities.',
   investors: [],
-  cmcSlug: null,
   duneQueries: {
     REVENUE: '3079022',
   },
+  cmcId: null,
 } satisfies AdapterProject

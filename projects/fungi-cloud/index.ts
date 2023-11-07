@@ -10,6 +10,6 @@ export default {
   description:
     'Fungi Cloud is a decentralized data storage and cloud computing company on top of blockchain technology.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

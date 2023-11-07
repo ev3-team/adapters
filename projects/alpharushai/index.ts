@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'RUSHAI',
-  coingeckoId: null,
+  coingeckoId: 'alpharushai',
   id: 's99udg',
   description:
     'AlphaRush AI: Real-time news, analysis, and personalized trading alpha for cryptocurrency trading.',
   investors: [],
-  cmcSlug: 'alpharushai',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

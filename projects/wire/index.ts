@@ -9,6 +9,6 @@ export default {
   id: 'yih1xv',
   description: 'Wire: blockchain with APOS consensus for user growth.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

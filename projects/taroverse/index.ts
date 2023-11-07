@@ -5,11 +5,11 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'TARO',
-  coingeckoId: null,
+  coingeckoId: 'taroverse',
   id: 'ft0bj6',
   description:
     'Taroverse is a cross-platform metaverse platform enabling real-time interaction between players through digital avatars.',
   investors: [],
-  cmcSlug: 'taroverse',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

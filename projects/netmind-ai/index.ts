@@ -9,6 +9,6 @@ export default {
   id: 'd2uaff',
   description: 'NetMind.AI enables deep learning model development for AI applications.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -19,6 +19,6 @@ export default {
     'opbil4',
     '2lb530',
   ],
-  cmcSlug: 'planetwatch',
   duneQueries: null,
+  cmcId: 11861,
 } satisfies AdapterProject

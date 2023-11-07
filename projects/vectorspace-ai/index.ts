@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'VXV',
-  coingeckoId: 'vectorspace-ai',
+  coingeckoId: 'vectorspace',
   id: 'lzys3d',
   description:
     'Vectorspace AI provides correlation matrix datasets for data-driven innovation, with a focus on NLP/NLU.',
   investors: [],
-  cmcSlug: 'vectorspace',
   duneQueries: null,
+  cmcId: 4441,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Prophetic Prophetic is a tFUS neurotech company pioneering a lucid dream-inducing device.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

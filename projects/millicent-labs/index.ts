@@ -9,6 +9,6 @@ export default {
   id: 's1f9ke',
   description: 'Millicent Labs upgrades financial systems with distributed ledger technology.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

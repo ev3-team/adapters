@@ -9,6 +9,6 @@ export default {
   id: '6e2zu2',
   description: 'Dynex is a decentralized neuromorphic computing protocol.',
   investors: [],
-  cmcSlug: 'dynex',
   duneQueries: null,
+  cmcId: 22858,
 } satisfies AdapterProject

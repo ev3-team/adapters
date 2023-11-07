@@ -10,6 +10,6 @@ export default {
   description:
     'Aston Labs: Decentralized energy & infrastructure network. Aston Tokens = network ownership.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

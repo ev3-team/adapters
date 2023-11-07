@@ -9,6 +9,6 @@ export default {
   id: '686w74',
   description: 'Hal is a chatbot built on BitTensor.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

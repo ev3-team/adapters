@@ -10,6 +10,6 @@ export default {
   description:
     'Runloop builds DeFi simulation environment for training agents in liquidity provision, risk management, and trading.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

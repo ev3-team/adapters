@@ -5,11 +5,11 @@ export default {
   chain: 'NATIVE',
   category: 'OTHER',
   token: 'FACT',
-  coingeckoId: null,
+  coingeckoId: 'fact0rn',
   id: 'w0jykb',
   description:
     'FACT0RN: a blockchain replacing hashing with Integer Factorization as Proof of Work. Forked from bitcoin V22.0.',
   investors: [],
-  cmcSlug: 'fact0rn',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

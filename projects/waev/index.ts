@@ -9,6 +9,6 @@ export default {
   id: 'mwkpfa',
   description: 'Waev is a developer of a trustless data exchange protocol.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

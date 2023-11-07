@@ -10,6 +10,6 @@ export default {
   description:
     'Volmex Finance is a protocol for volatility indices and non-custodial trading built on Ethereum.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

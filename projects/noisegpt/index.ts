@@ -10,6 +10,6 @@ export default {
   description:
     'NoiseGPT: decentralized AI ecosystem, offering unbiased and censorship-free AI tools and services.',
   investors: [],
-  cmcSlug: 'noisegpt',
   duneQueries: null,
+  cmcId: 24489,
 } satisfies AdapterProject

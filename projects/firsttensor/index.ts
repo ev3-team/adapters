@@ -9,6 +9,6 @@ export default {
   id: '3b72sd',
   description: 'FirstTensor is a community-powered Bittensor Validator.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

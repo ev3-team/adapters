@@ -10,6 +10,6 @@ export default {
   description:
     'Shadow Storage is a decentralized and private data storage company built on Solana blockchain.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

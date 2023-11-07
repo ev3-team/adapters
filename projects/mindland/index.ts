@@ -10,6 +10,6 @@ export default {
   description:
     'Mindland is a meditation incentivization company that uses crypto incentives to encourage meditation practices.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

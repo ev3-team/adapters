@@ -10,6 +10,6 @@ export default {
   description:
     'Heata is a green compute network that uses wasted heat from computers to warm water for homes.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

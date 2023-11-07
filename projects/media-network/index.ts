@@ -9,6 +9,6 @@ export default {
   id: 'iqnvgc',
   description: 'Media Network is a decentralized hub for web services.',
   investors: ['b5zojp'],
-  cmcSlug: 'media-network',
   duneQueries: null,
+  cmcId: 9524,
 } satisfies AdapterProject

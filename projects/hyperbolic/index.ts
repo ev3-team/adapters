@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'HYPE',
-  coingeckoId: null,
+  coingeckoId: 'hyperbolic-protocol',
   id: '8heoo1',
   description:
     'Hyperbolic Labs is a decentralized microservices platform building the web for Web3.',
   investors: [],
-  cmcSlug: 'hyperbolic-protocol',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

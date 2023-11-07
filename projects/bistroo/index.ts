@@ -9,6 +9,6 @@ export default {
   id: 'qpkhj7',
   description: 'Bistroo is a decentralized marketplace for food & beverage delivery.',
   investors: [],
-  cmcSlug: 'bistroo',
   duneQueries: null,
+  cmcId: 9889,
 } satisfies AdapterProject

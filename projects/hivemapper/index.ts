@@ -36,6 +36,6 @@ export default {
     'tlb60n',
     'x9qw9x',
   ],
-  cmcSlug: 'hivemapper',
   duneQueries: null,
+  cmcId: 22850,
 } satisfies AdapterProject

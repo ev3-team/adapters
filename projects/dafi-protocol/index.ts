@@ -10,6 +10,6 @@ export default {
   description:
     'DAFI Protocol rewards early adopters with synthetic tokens, redefining Defi and incentivizing bearish markets.',
   investors: [],
-  cmcSlug: 'dafi-protocol',
   duneQueries: null,
+  cmcId: 8874,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ELXR',
-  coingeckoId: null,
+  coingeckoId: 'elixir-finance',
   id: 'wrifq0',
   description: 'Elixir: Decentralized protocol for secure market-making.',
   investors: [],
-  cmcSlug: 'elixir-finance',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Andrena is a company offering high-speed internet distribution services with a focus on reduced costs.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

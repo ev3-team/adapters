@@ -9,6 +9,6 @@ export default {
   id: 'zftfbg',
   description: 'Set is an onchain indexing protocol',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

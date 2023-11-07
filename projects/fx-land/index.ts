@@ -25,6 +25,6 @@ export default {
     'v3sg2g',
     'zj4ect',
   ],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

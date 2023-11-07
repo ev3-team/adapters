@@ -10,6 +10,6 @@ export default {
   description:
     'Seed Labs is a collectively owned, community-first, open early stage venture capital.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

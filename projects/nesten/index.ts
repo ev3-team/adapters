@@ -10,6 +10,6 @@ export default {
   description:
     'Nesten - telecom company revolutionizing industry with community-driven network ops & blockchain.',
   investors: [],
-  cmcSlug: 'nesten',
   duneQueries: null,
+  cmcId: 16825,
 } satisfies AdapterProject

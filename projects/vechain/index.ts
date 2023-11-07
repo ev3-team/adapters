@@ -5,11 +5,11 @@ export default {
   chain: 'VECHAIN',
   category: 'NOT_DEPIN',
   token: 'VET',
-  coingeckoId: null,
+  coingeckoId: 'vechain',
   id: 'ed5hwr',
   description:
     'VeChain enables businesses to build decentralized apps for data transfer and supply-chain management.',
   investors: [],
-  cmcSlug: 'vechain',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

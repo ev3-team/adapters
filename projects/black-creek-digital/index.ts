@@ -10,6 +10,6 @@ export default {
   description:
     'Black Creek Digital is a developer and operator of computing facilities for decentralized and AI apps.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

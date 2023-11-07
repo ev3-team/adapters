@@ -10,6 +10,6 @@ export default {
   description:
     'LocalPro: gamifies experiences, promotes trust, quests, badges, rewards, enhances skills, incentivizes collaboration.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

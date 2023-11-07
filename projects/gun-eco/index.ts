@@ -9,6 +9,6 @@ export default {
   id: 'fk3mfi',
   description: 'Gun.Eco is a decentralized distributed graph database engine for developers.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

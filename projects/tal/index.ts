@@ -9,6 +9,6 @@ export default {
   id: '7et9go',
   description: 'TAL: Decentralized AI verification on Solana.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

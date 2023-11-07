@@ -9,6 +9,6 @@ export default {
   id: 'ulo2gi',
   description: 'Setoros is a decentralized crypto sportsbook for global betting.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

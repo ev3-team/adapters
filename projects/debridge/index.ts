@@ -9,6 +9,6 @@ export default {
   id: 'rhpzul',
   description: 'deBridge: blockchain interoperability and liquidity transfer protocol.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

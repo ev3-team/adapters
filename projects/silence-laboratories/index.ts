@@ -10,6 +10,6 @@ export default {
   description:
     'Silence Labs is a cybersecurity company specializing in decentralized MFA and MPC-based authentication.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

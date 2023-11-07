@@ -10,6 +10,6 @@ export default {
   description:
     'Roam is a crypto-native telco initiative enabling easy setup of mobile networks for 4G or 5G connectivity.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

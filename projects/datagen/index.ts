@@ -10,6 +10,6 @@ export default {
   description:
     'Datagen provides an all-purpose generator of synthetic images of human faces and bodies that empowers engineers to generate cutting edge human-centric synthetic data for computer vision.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

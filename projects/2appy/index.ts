@@ -10,6 +10,6 @@ export default {
   description:
     'Digitize your communications in just a few clicks. The VoIP switchboard that saves you money in call management.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Tresorio Operator is a fog computing platform providing carbon-friendly micro data centers and cloud computing services.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

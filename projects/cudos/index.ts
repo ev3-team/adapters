@@ -31,6 +31,6 @@ export default {
     'nxirg2',
     'zcdny8',
   ],
-  cmcSlug: 'cudos',
   duneQueries: null,
+  cmcId: 8258,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'g9rym4',
   description: 'Eclipse ioFog: Open-source edge computing platform for ECN.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

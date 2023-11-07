@@ -10,6 +10,6 @@ export default {
   description:
     'MetaSpace: Decentralized 3D metaverse for interaction, gaming, concerts, and NFT trading.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

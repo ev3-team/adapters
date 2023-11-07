@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BAD',
-  coingeckoId: null,
+  coingeckoId: 'bad-idea-ai',
   id: 'a1y6iz',
   description: 'Bad Idea AI connects meme coin culture with artificial intelligence.',
   investors: [],
-  cmcSlug: 'bad-idea-ai',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

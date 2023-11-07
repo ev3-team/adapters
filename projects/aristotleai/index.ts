@@ -9,6 +9,6 @@ export default {
   id: 'gtqv1n',
   description: 'AristotleAI provides personalized learning experiences and insights.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

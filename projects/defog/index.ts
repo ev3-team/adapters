@@ -9,6 +9,6 @@ export default {
   id: 'u43dxj',
   description: 'We help enterprises deploy fine-tuned LLMs for enterprise analytics.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'We make quantum technology useful for enterprise, government, and research by uniquely addressing the problem of hardware error and instability, entirely through software.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

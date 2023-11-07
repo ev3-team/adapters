@@ -26,6 +26,6 @@ export default {
     '9e1gk4',
     '331hng',
   ],
-  cmcSlug: 'wicrypt',
   duneQueries: null,
+  cmcId: 11649,
 } satisfies AdapterProject

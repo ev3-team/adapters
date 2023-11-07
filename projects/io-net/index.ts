@@ -9,6 +9,6 @@ export default {
   id: '61zuw7',
   description: 'IO.Net is a decentralized computing platform for ML applications built on Solana.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Intelligence in Motion - We are building a scalable mobile robotics platform using cutting edge bio-inspired sensing, scalable machine learning and purposeful robotic design',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

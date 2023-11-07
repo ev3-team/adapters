@@ -9,6 +9,6 @@ export default {
   id: 'p6m3rb',
   description: 'AdHash: direct data exchange between publishers and advertisers, no intermediaries',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

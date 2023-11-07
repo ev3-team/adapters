@@ -10,6 +10,6 @@ export default {
   description:
     'Photon is a decentralized storage protocol for the metaverse, Web3, and cloud storage.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

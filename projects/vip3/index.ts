@@ -10,6 +10,6 @@ export default {
   description:
     'VIP3 is a Web3 membership platform providing bonuses, discounts, and privileges via on-chain SBT membership cards.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

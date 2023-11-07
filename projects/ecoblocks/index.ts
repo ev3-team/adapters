@@ -10,6 +10,6 @@ export default {
   description:
     'EcoBlocks is a regenerative protocol incentivizing electronic recycling via an escrow based process.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

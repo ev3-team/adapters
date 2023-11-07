@@ -10,6 +10,6 @@ export default {
   description:
     'Foster Studio is a platform for creating and selling artist merchandise in the form of Phygital NFTs.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

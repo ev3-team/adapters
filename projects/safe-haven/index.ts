@@ -5,10 +5,10 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'SHA',
-  coingeckoId: null,
+  coingeckoId: 'safe-haven',
   id: 'ewlwyh',
   description: 'Decentralized digital inheritance',
   investors: [],
-  cmcSlug: 'safe-haven',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

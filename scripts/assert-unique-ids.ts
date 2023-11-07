@@ -50,7 +50,7 @@ const investorsIds = investorsList.map(({ id }) => id)
     .on('data', async (row) => {
       assert(
         investorsNames.includes(row.name),
-        `Investor with name: "${row[0]}" found in DePIN-Investors.csv was not found in investors list.  Make sure all investors in the investors csv exist in the investors folder. Run \`pnpm update:investors\` to update investors list.`
+        `Investor with name: "${row.name}" found in DePIN-Investors.csv was not found in investors list.  Make sure all investors in the investors csv exist in the investors folder. Run \`pnpm update:investors\` to update investors list.`
       )
     })
 }

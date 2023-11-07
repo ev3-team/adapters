@@ -10,6 +10,6 @@ export default {
   description:
     'LENA: Web3 liquidity provider for NFT lending and borrowing. ETH pools, user autonomy.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

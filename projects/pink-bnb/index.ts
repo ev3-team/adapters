@@ -9,6 +9,6 @@ export default {
   id: '9abqiu',
   description: 'Pink BNB categorizes and analyzes data for crypto predictions.',
   investors: [],
-  cmcSlug: 'pink-bnb',
   duneQueries: null,
+  cmcId: 23998,
 } satisfies AdapterProject

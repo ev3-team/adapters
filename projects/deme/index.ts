@@ -9,6 +9,6 @@ export default {
   id: 'oqb51e',
   description: 'DeMe: a user privacy-focused social media with rewards.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

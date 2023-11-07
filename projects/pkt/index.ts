@@ -10,6 +10,6 @@ export default {
   description:
     'PKT Pal enables businesses to offer free internet, collect customer data, and earn revenue through captive portals.',
   investors: [],
-  cmcSlug: 'pkt',
   duneQueries: null,
+  cmcId: 9523,
 } satisfies AdapterProject

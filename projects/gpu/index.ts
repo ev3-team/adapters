@@ -9,6 +9,6 @@ export default {
   id: 'jf4ml9',
   description: 'GPU is a decentralized GPU network for AI training.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

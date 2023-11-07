@@ -9,6 +9,6 @@ export default {
   id: '0g5igr',
   description: 'Coco Swap: Faster and easier token swaps with COCO token and BSC blockchain.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

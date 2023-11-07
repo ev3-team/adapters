@@ -9,6 +9,6 @@ export default {
   id: 'c8xut6',
   description: 'Gear: smart contracts, user-friendly, secure networks, infinite sharding.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

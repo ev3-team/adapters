@@ -10,6 +10,6 @@ export default {
   description:
     'Phisheye is a proactive phishing prevention platform for the Web3 ecosystem, using Proof of Protection and NFT badges.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -36,6 +36,6 @@ export default {
     'gaps2j',
     'q6mnc6',
   ],
-  cmcSlug: 'dimo',
   duneQueries: null,
+  cmcId: 22837,
 } satisfies AdapterProject

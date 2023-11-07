@@ -10,6 +10,6 @@ export default {
   description:
     'Caldance is a Web 3.0 fitness ecosystem integrating Machinefi, Blockchain app, NFT, and Gamification.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

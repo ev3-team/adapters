@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'SMARTCREDIT',
-  coingeckoId: null,
+  coingeckoId: 'smartcredit-token',
   id: 'eiq46d',
   description:
     'SmartCredit connects lenders and borrowers globally, offering decentralized peer-to-peer lending.',
   investors: [],
-  cmcSlug: 'smartcredit-token',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

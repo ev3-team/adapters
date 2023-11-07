@@ -9,6 +9,6 @@ export default {
   id: 'diyark',
   description: 'Mobilian is a blockchain network empowering secure autonomous vehicles.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Saito: Layer-1 blockchain empowering web 3.0 apps, with distributed infrastructure.',
   investors: [],
-  cmcSlug: 'saito',
   duneQueries: null,
+  cmcId: 9194,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'hs6fc5',
   description: 'Antic: Decentralized co-ownership integration for businesses.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

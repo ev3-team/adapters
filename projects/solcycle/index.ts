@@ -10,6 +10,6 @@ export default {
   description:
     'SolCycle Rewards incentivizes recycling, promoting sustainability and environmental conservation.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

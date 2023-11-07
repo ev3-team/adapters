@@ -9,6 +9,6 @@ export default {
   id: 'jtrmoh',
   description: 'Full-stack supply chain platform for mlik production',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

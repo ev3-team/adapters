@@ -42,6 +42,6 @@ export default {
     'fa62pa',
     'oblyiu',
   ],
-  cmcSlug: 'akash-network',
   duneQueries: null,
+  cmcId: 7431,
 } satisfies AdapterProject

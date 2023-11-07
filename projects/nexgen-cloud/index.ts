@@ -9,6 +9,6 @@ export default {
   id: 'gw1fz5',
   description: 'NexGen Cloud: Affordable, sustainable cloud solutions for Web2 & Web3 ecosystems.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

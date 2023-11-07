@@ -9,6 +9,6 @@ export default {
   id: 'zf4ctb',
   description: 'Chirp Wireless is a decentralized wireless network for IoT, mobile, and broadband.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Advantis AI empowers crypto enthusiasts with innovative solutions like AI Outlook, Scanner, and University.',
   investors: [],
-  cmcSlug: 'advantis',
   duneQueries: null,
+  cmcId: 23055,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'AIOZ',
-  coingeckoId: null,
+  coingeckoId: 'aioz-network',
   id: 'tpqdbi',
   description: 'AIOZ is a decentralized content delivery network.',
   investors: [],
-  cmcSlug: 'aioz-network',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

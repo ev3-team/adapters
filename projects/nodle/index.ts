@@ -5,7 +5,7 @@ export default {
   chain: 'POLKADOT',
   category: 'WIRELESS',
   token: 'NODL',
-  coingeckoId: 'nodleiot',
+  coingeckoId: 'nodle-network',
   id: 'znawjs',
   description:
     'Nodle is a smartphone-powered decentralized data network and payment infrastructure for IoT.',
@@ -52,6 +52,6 @@ export default {
     'u1jo7t',
     'bnhsos',
   ],
-  cmcSlug: 'nodle-network',
   duneQueries: null,
+  cmcId: 6837,
 } satisfies AdapterProject

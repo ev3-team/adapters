@@ -9,6 +9,6 @@ export default {
   id: '6la025',
   description: 'Motivus: collaborative HPC for algorithm creation and distribution.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'NATIVE',
   category: 'SENSORS',
   token: 'INT',
-  coingeckoId: 'int-chain',
+  coingeckoId: 'internet-node-token',
   id: 'c77cyh',
   description: 'INT: Intelligent ecosystem enabling free data flow and privacy in IoT.',
   investors: [],
-  cmcSlug: 'internet-node-token',
   duneQueries: null,
+  cmcId: 2399,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Origin Systems is a company that simplifies the process of getting started with LLMs.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

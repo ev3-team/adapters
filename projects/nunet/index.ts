@@ -10,6 +10,6 @@ export default {
   description:
     'NuNet is a computing framework that offers global distributed computing power and storage for decentralized networks.',
   investors: [],
-  cmcSlug: 'nunet',
   duneQueries: null,
+  cmcId: 13198,
 } satisfies AdapterProject

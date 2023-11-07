@@ -9,6 +9,6 @@ export default {
   id: 'w0adea',
   description: 'Cedalio: Auditable apps with real data ownership and GraphQL databases.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

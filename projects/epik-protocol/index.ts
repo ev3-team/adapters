@@ -10,6 +10,6 @@ export default {
   description:
     'EpiK Protocol: Using IPFS, DAO and token economy to build a large-scale knowledge graph.',
   investors: [],
-  cmcSlug: 'epik-protocol',
   duneQueries: null,
+  cmcId: 9537,
 } satisfies AdapterProject

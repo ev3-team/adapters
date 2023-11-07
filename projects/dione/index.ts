@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'DIONE',
-  coingeckoId: null,
+  coingeckoId: 'dione',
   id: 'ew04hq',
   description:
     'Dione Dione is a blockchain company developing renewable energy trading technology.',
   investors: [],
-  cmcSlug: 'dione',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

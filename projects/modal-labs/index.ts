@@ -9,6 +9,6 @@ export default {
   id: 'xegpzk',
   description: 'Modal Labs offers Modal, a runtime for data teams.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

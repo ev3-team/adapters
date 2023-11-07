@@ -10,6 +10,6 @@ export default {
   description:
     'Generaitiv: community-driven AI appstore empowering contributors with scalable approaches.',
   investors: [],
-  cmcSlug: 'generaitiv',
   duneQueries: null,
+  cmcId: 23634,
 } satisfies AdapterProject

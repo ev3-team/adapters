@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PYR',
-  coingeckoId: null,
+  coingeckoId: 'vulcan-forged',
   id: 'y6ydao',
   description:
     'Vulcan Studios - web3 gaming, Elysium - carbon-neutral blockchain, MetaScapes - upcoming Metaverse-as-a-Service',
   investors: [],
-  cmcSlug: 'vulcan-forged',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'MetafourAI is developing telepathy-enabled apps using EEG signals and language models.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

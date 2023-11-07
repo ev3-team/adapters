@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ASTO',
-  coingeckoId: null,
+  coingeckoId: 'altered-state-token',
   id: '9limss',
   description:
     'Decentralized AI protocol for NFI, enabling ownership, trading, and training of AI agents through NFTs.',
   investors: [],
-  cmcSlug: 'altered-state-token',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Wynd is a transparent node marketplace enabling users to earn passive income by monetizing their internet view. (99)',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

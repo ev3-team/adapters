@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'SHM',
-  coingeckoId: null,
+  coingeckoId: 'shardeum',
   id: 'g65u6w',
   description: 'Shardeum: EVM-based platform ensuring decentralization and security.',
   investors: [],
-  cmcSlug: 'shardeum',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

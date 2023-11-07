@@ -10,6 +10,7 @@ import {
   AdapterProjectDuneQueryIdentifiers,
   AdapterProjectToken,
 } from '../projects/types'
+import { getProjectCmcIdBySlug } from '../helpers/utils'
 
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
@@ -79,7 +80,7 @@ export function getProjectsDuneQueries(): Promise<
       .on('end', () => resolve(projectsDuneQueries))
   })
 }
-
+type ParsedProject = Omit<AdapterProject, 'cmcId'> & { cmcSlug: string | null }
 type ProjectsRow = {
   name: string
   id: string
@@ -100,7 +101,7 @@ type ProjectsRow = {
 }
 
 async function run() {
-  let parsedProjects: AdapterProject[] = []
+  let parsedProjects: ParsedProject[] = []
   const projectsInvestors = await getProjectsInvestors()
   const projectsDuneQueries = await getProjectsDuneQueries()
 
@@ -115,7 +116,7 @@ async function run() {
         return
       }
 
-      const project: AdapterProject = {
+      const project: ParsedProject = {
         name: row.name,
         chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
         category: !!row.category ? (row.category as AdapterProjectCategory) : 'OTHER',
@@ -132,8 +133,21 @@ async function run() {
     .on('end', async () => {
       const storedProjects: AdapterProject[] = []
 
+      const cmcIds = await getProjectCmcIdBySlug(
+        parsedProjects.map((pp) => pp.cmcSlug).filter(Boolean) as string[]
+      )
+      if (!cmcIds) {
+        console.error('error getting cmc ids')
+        return
+      }
+
       await Promise.all(
-        parsedProjects.map(async (project) => {
+        parsedProjects.map(async (pp) => {
+          const { cmcSlug, ...p } = pp
+          const project: AdapterProject = {
+            ...p,
+            cmcId: cmcSlug ? cmcIds.get(cmcSlug) ?? null : null,
+          }
           try {
             const projectFileName = projectToFileName(project.name)
 

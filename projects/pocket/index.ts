@@ -10,6 +10,6 @@ export default {
   description:
     'Pocket is a company that empowers developers with reliable and performant RPC access to the open internet.',
   investors: ['jitv3q', '99hm5u', 'j1rzkc'],
-  cmcSlug: 'pocket-network',
   duneQueries: null,
+  cmcId: 11823,
 } satisfies AdapterProject

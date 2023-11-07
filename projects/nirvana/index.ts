@@ -10,6 +10,6 @@ export default {
   description:
     'Our mission is to make blockchain infrastructure economical and decentralized, ultimately lowering the barriers to entry for web3 engineers.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

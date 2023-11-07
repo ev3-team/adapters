@@ -5,10 +5,10 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'SCP',
-  coingeckoId: 'scprime',
+  coingeckoId: 'siaprime-coin',
   id: 'ui2nbm',
   description: 'ScPrime is a decentralized network of enterprise-grade cloud storage providers.',
   investors: ['mfsd6d'],
-  cmcSlug: 'siaprime-coin',
   duneQueries: null,
+  cmcId: 4074,
 } satisfies AdapterProject

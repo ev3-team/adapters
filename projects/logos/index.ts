@@ -5,11 +5,11 @@ export default {
   chain: null,
   category: 'OTHER',
   token: null,
-  coingeckoId: 'logos',
+  coingeckoId: null,
   id: 'dojvzb',
   description:
     'Logos provides trust-minimized, corruption-resistant governing services and institutions for citizens.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: 21744,
 } satisfies AdapterProject

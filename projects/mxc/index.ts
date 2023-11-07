@@ -10,6 +10,6 @@ export default {
   description:
     'MXC enables physical objects to be bridged with the metaverse, DeFi, IoT, and NFT marketplace.',
   investors: [],
-  cmcSlug: 'mxc',
   duneQueries: null,
+  cmcId: 3628,
 } satisfies AdapterProject

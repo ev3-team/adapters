@@ -56,6 +56,6 @@ export default {
     '9kybya',
     'myul3m',
   ],
-  cmcSlug: 'arweave',
   duneQueries: null,
+  cmcId: 5632,
 } satisfies AdapterProject

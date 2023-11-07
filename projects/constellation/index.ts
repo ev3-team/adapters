@@ -5,7 +5,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'DAG',
-  coingeckoId: 'constellation',
+  coingeckoId: 'constellation-labs',
   id: 'ol6f66',
   description: 'Constellation is a decentralized L0 protocol enabling Web3 solutions.',
   investors: [
@@ -20,6 +20,6 @@ export default {
     'pze372',
     '4ol13w',
   ],
-  cmcSlug: 'constellation-labs',
   duneQueries: null,
+  cmcId: 2868,
 } satisfies AdapterProject

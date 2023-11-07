@@ -5,11 +5,11 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'SUPERSTAKE',
-  coingeckoId: null,
+  coingeckoId: 'superstake',
   id: '1dp03n',
   description:
     'Superstake is a staking platform and NFT marketplace for crypto enthusiasts in the SUPERPANCAKE ecosystem.',
   investors: [],
-  cmcSlug: 'superstake',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'SARCO',
-  coingeckoId: null,
+  coingeckoId: 'sarcophagus',
   id: 'se7wj7',
   description: "Decentralized dead man's switch",
   investors: [],
-  cmcSlug: 'sarcophagus',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

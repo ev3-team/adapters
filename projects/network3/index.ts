@@ -9,6 +9,6 @@ export default {
   id: 'a246lv',
   description: 'Network3 enhances network security and privacy through distributed nodes.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'EMT',
-  coingeckoId: null,
+  coingeckoId: 'ethermail',
   id: 'hoaz0e',
   description: 'EtherMail: secure, anonymous email with blockchain rewards.',
   investors: [],
-  cmcSlug: 'ethermail',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

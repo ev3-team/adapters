@@ -9,6 +9,6 @@ export default {
   id: 'vi4exr',
   description: 'Mycelium is an enterprise DePIN deployer and operator of the Mycelium Testbed.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'whkmqt',
   description: 'Boring is a decentralized VPN and peer-to-peer bandwidth market.',
   investors: ['oigjdf'],
-  cmcSlug: 'boring-protocol',
   duneQueries: null,
+  cmcId: 11470,
 } satisfies AdapterProject

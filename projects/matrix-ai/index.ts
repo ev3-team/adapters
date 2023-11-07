@@ -5,11 +5,11 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'MAN',
-  coingeckoId: null,
+  coingeckoId: 'matrix-ai-network',
   id: 'iev3ik',
   description:
     'Matrix combines neuroscience with AI and blockchain to create digital user avatars in the Metaverse.',
   investors: [],
-  cmcSlug: 'matrix-ai-network',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

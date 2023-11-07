@@ -10,6 +10,6 @@ export default {
   description:
     'HollowDB is a decentralized key-value database on Arweave for secure and efficient data storage.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

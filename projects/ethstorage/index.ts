@@ -9,6 +9,6 @@ export default {
   id: '2kn4hu',
   description: 'Ethstorage is a cost-effective Layer 2 storage rollup solution on Ethereum.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

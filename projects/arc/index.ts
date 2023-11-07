@@ -10,6 +10,6 @@ export default {
   description:
     'Arc is a cutting-edge Web3 and AI company offering tools for developing decentralized projects.',
   investors: [],
-  cmcSlug: 'arc',
   duneQueries: null,
+  cmcId: 13051,
 } satisfies AdapterProject

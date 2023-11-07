@@ -9,6 +9,6 @@ export default {
   id: 'v3ycrj',
   description: 'FilSwan: web3 infrastructure for dApp development.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OXAI',
-  coingeckoId: null,
+  coingeckoId: 'oxai-com',
   id: 'x3l1h6',
   description: 'OxAI: Decentralized AI & blockchain for accessible secure computation.',
   investors: [],
-  cmcSlug: 'oxai-com',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

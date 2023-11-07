@@ -20,6 +20,6 @@ export default {
     '24ormv',
     'o6u62z',
   ],
-  cmcSlug: 'nkn',
   duneQueries: null,
+  cmcId: 2780,
 } satisfies AdapterProject

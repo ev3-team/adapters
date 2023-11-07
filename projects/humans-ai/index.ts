@@ -10,6 +10,6 @@ export default {
   description:
     'Humans.ai is a deep-tech company creating an ethical and scalable AI ecosystem on the blockchain.',
   investors: [],
-  cmcSlug: 'humans-ai',
   duneQueries: null,
+  cmcId: 15584,
 } satisfies AdapterProject

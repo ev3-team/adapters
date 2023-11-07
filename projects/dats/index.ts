@@ -10,6 +10,6 @@ export default {
   description:
     'DATS Project: automated vulnerability scanning and cybersecurity solutions with D-HPC for Blockchain and WEB3 security.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

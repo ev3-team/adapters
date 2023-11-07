@@ -10,6 +10,6 @@ export default {
   description:
     'Weveweve is a decentralized mail system on Arweave network. It ensures permanent availability of messages and web app.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

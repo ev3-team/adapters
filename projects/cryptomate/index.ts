@@ -9,6 +9,6 @@ export default {
   id: 'h2kze5',
   description: 'Cryptomate is a decentralized ecosystem of interactive crypto APIs.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'exaBITS is a decentralized infrastructure for AI and computationally intensive applications. It empowers users to contribute to the exaBITS infrastructure and train their unique AI models. ',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

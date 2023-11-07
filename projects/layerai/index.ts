@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'LAI',
-  coingeckoId: 'cryptogpt',
+  coingeckoId: 'cryptogpt-token',
   id: 'y3zupj',
   description:
     'LayerAI is a blockchain for AI dev, providing layer-2 solution for efficient and secure applications.',
   investors: [],
-  cmcSlug: 'cryptogpt-token',
   duneQueries: null,
+  cmcId: 23846,
 } satisfies AdapterProject

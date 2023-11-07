@@ -9,6 +9,6 @@ export default {
   id: 'sel0t5',
   description: 'TEKKON: Web3 app for citizen-driven infrastructure solutions.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

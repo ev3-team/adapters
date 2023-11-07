@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BLKC',
-  coingeckoId: null,
+  coingeckoId: 'blackhat-coin',
   id: '3jgdnl',
   description: 'Blackhat cyber game: Players as DeFi protocos v AI hackerChatGPT.',
   investors: [],
-  cmcSlug: 'blackhat-coin',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

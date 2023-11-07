@@ -5,10 +5,10 @@ export default {
   chain: 'POLYGON',
   category: 'OTHER',
   token: 'DEFIT',
-  coingeckoId: null,
+  coingeckoId: 'defit',
   id: 'jmavqd',
   description: 'Defit is a fitness web3 brand that rewards users with a Move to Earn movement.',
   investors: [],
-  cmcSlug: 'defit',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

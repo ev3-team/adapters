@@ -9,6 +9,6 @@ export default {
   id: 'zug89a',
   description: 'Ylide Protocol: secure cross-chain wallet communication for Web3 projects.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

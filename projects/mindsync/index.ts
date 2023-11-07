@@ -5,10 +5,10 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: 'mindsync',
+  coingeckoId: null,
   id: 'gpjz8o',
   description: 'Mindsync connects AI enthusiasts, miners, and businesses for AI solutions.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: 10533,
 } satisfies AdapterProject

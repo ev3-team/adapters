@@ -5,10 +5,10 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'ZION',
-  coingeckoId: 'zion-token',
+  coingeckoId: 'zion',
   id: '4wmnm0',
   description: 'Zion: decentralized platform for content flow, payments, and ownership (80)',
   investors: [],
-  cmcSlug: 'zion',
   duneQueries: null,
+  cmcId: 25867,
 } satisfies AdapterProject

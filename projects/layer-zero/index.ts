@@ -5,11 +5,11 @@ export default {
   chain: null,
   category: 'OTHER',
   token: 'ZRO',
-  coingeckoId: null,
+  coingeckoId: 'layerzero',
   id: 'cpd9pq',
   description:
     'Layer Zero is an omnichain interoperability protocol that enables the realization of cross-chain applications with a low level communication primitive.',
   investors: [],
-  cmcSlug: 'layerzero',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

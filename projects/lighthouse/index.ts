@@ -10,6 +10,6 @@ export default {
   description:
     'Lighthouse is a permanent file storage protocol allowing one-time payment for storing files forever.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

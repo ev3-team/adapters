@@ -10,6 +10,6 @@ export default {
   description:
     'Brastorne connects the unconnected, ensuring every African has access to information, markets, and community through easy and affordable internet access.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

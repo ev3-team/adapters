@@ -5,11 +5,11 @@ export default {
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'DIS.D',
-  coingeckoId: null,
+  coingeckoId: 'dinari-nvda-dshares',
   id: 'u586qc',
   description:
     'Dinari: dShare Platform with real-world asset backed tokens, granting access to securities on Arbitrum network.',
   investors: [],
-  cmcSlug: 'dinari-nvda-dshares',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

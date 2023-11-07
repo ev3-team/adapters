@@ -9,6 +9,6 @@ export default {
   id: 'cqpqpq',
   description: 'AhoyDAO is a peer-to-peer ecosystem for the marine industry ownership economy.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

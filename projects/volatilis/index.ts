@@ -10,6 +10,6 @@ export default {
   description:
     'Volatilis is a secure and efficient derivatives protocol for digital currency options, ensuring fund integrity.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

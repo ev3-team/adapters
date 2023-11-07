@@ -9,6 +9,6 @@ export default {
   id: 'nlkbyo',
   description: 'Giza is a collaborative platform for the development of AI.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

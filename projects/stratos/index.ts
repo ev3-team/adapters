@@ -21,6 +21,6 @@ export default {
     'udx6pg',
     'i2jpqr',
   ],
-  cmcSlug: 'stratos',
   duneQueries: null,
+  cmcId: 9760,
 } satisfies AdapterProject

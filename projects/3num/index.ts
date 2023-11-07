@@ -9,6 +9,6 @@ export default {
   id: 'f5qe2h',
   description: '3Num connects mobile subscribers for secure communication.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,11 +5,11 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'LAVITA',
-  coingeckoId: null,
+  coingeckoId: 'lavita',
   id: 'tylsdp',
   description:
     'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
   investors: [],
-  cmcSlug: 'lavita',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

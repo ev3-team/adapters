@@ -5,7 +5,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'RNDR',
-  coingeckoId: null,
+  coingeckoId: 'render-token',
   id: 'drs2bu',
   description: 'Render is a decentralized rendering platform for next-gen media production.',
   investors: [
@@ -28,6 +28,6 @@ export default {
     'fjrjju',
     '80bzm6',
   ],
-  cmcSlug: 'render-token',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

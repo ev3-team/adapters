@@ -10,6 +10,6 @@ export default {
   description:
     'Tazz creates capital-efficient debt markets, where borrowers issue debt against long-tail and hard-to-price collateral, and lenders can access market-priced debt opportunities.  For this, they introduce a new DeFi primitive: tradable perpetual debt.  ',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

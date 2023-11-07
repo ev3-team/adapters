@@ -9,6 +9,6 @@ export default {
   id: 'vx7fas',
   description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

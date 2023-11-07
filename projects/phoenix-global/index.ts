@@ -5,11 +5,11 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'PHB',
-  coingeckoId: null,
+  coingeckoId: 'phoenix-global',
   id: 'xper4k',
   description:
     'Phoenix Global: Blockchain company enabling decentralized AI with AI model compute and federated learning.',
   investors: [],
-  cmcSlug: 'phoenix-global',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

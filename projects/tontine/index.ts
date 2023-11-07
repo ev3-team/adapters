@@ -10,6 +10,6 @@ export default {
   description:
     'Tontine: retention-focused platform for web3 dApps, using onchain streaks to gamify user engagement.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

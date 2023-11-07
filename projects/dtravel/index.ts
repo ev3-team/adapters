@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'TRVL',
-  coingeckoId: null,
+  coingeckoId: 'dtravel',
   id: '37xksc',
   description:
     'DTravel is a decentralized platform for home-sharing economy, ensuring easy and secure short and long-term stays.',
   investors: [],
-  cmcSlug: 'dtravel',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

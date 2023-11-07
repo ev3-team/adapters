@@ -9,6 +9,6 @@ export default {
   id: 'rkfiyk',
   description: 'AWARE traces cotton with tracer particles to ensure sustainable textiles.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

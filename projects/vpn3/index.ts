@@ -9,6 +9,6 @@ export default {
   id: 'tficxt',
   description: 'VPN3 is a provider of a decentralized VPN protocol',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

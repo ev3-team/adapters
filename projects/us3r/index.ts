@@ -10,6 +10,6 @@ export default {
   description:
     'US3R: Dev platform and dApps with composable data using Ceramic for decentralized storage.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

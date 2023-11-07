@@ -5,10 +5,10 @@ export default {
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'REGEN',
-  coingeckoId: null,
+  coingeckoId: 'regen',
   id: 'sbgvjh',
   description: 'ReGen focuses on Hydrogen, Ammonia, and Methanol trading for the New Fuel Economy.',
   investors: [],
-  cmcSlug: 'regen',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

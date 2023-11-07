@@ -21,6 +21,6 @@ export default {
     'cw96ak',
     'x6gv9l',
   ],
-  cmcSlug: 'masq',
   duneQueries: null,
+  cmcId: 8376,
 } satisfies AdapterProject

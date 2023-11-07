@@ -23,6 +23,6 @@ export default {
     '6k3bn6',
     'ot2qso',
   ],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

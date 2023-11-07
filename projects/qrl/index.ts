@@ -5,10 +5,10 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'QRL',
-  coingeckoId: null,
+  coingeckoId: 'quantum-resistant-ledger',
   id: 'qc35tq',
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
   investors: [],
-  cmcSlug: 'quantum-resistant-ledger',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

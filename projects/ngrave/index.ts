@@ -9,6 +9,6 @@ export default {
   id: '4tlww3',
   description: 'NGRAVE is a blockchain company. Ngrave Zero is their air-gapped hardware wallet.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

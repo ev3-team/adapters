@@ -9,6 +9,6 @@ export default {
   id: '83tc81',
   description: 'Koinos is a blockchain network with free-to-use apps and dynamic resource pricing.',
   investors: [],
-  cmcSlug: 'koinos',
   duneQueries: null,
+  cmcId: 8282,
 } satisfies AdapterProject

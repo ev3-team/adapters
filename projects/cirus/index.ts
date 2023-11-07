@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CIRUS',
-  coingeckoId: null,
+  coingeckoId: 'cirus',
   id: 'he3mau',
   description: 'CIRUS: Control data, monetize through blockchain.',
   investors: [],
-  cmcSlug: 'cirus',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Arttoo is a platform that allows for the fractionalized trading of physical artwork.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

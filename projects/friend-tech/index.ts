@@ -10,6 +10,6 @@ export default {
   description:
     'Decentralized social media app where users tokenize profiles and buy/sell shares based on influence.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

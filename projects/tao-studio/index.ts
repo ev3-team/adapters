@@ -10,6 +10,6 @@ export default {
   description:
     'Tao Studio is a developer of a text-based image generator that produces high-quality images.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

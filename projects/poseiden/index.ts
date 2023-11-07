@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'QQQ',
-  coingeckoId: null,
+  coingeckoId: 'qqq-token',
   id: 'ovnogm',
   description: 'Poseidon Network is a decentralized global network of idle P2P computing devices.',
   investors: [],
-  cmcSlug: 'qqq-token',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

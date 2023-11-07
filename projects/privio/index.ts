@@ -9,6 +9,6 @@ export default {
   id: 'x4ccoy',
   description: 'Privio: AI B2B SaaS software offering Workflow Mgmt, Timekeeping, CRM, and more.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

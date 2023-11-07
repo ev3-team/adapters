@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'SURE',
-  coingeckoId: null,
+  coingeckoId: 'insure',
   id: 'l4srh8',
   description:
     'inSure: Community-based crypto insurance, distributed ownership risks, dynamic pricing model.',
   investors: [],
-  cmcSlug: 'insure',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'hxfsp3',
   description: 'Connect3 is a decentralized platform connecting users to relevant social data.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

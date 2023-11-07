@@ -5,10 +5,10 @@ export default {
   chain: 'POLYGON',
   category: 'AI',
   token: 'AIMX',
-  coingeckoId: null,
+  coingeckoId: 'aimedis-new',
   id: 'p864om',
   description: 'Aimedis: Blockchain-based eHealth with medical apps and NFT marketplace.',
   investors: [],
-  cmcSlug: 'aimedis-new',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

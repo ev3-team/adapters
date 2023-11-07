@@ -10,6 +10,6 @@ export default {
   description:
     'Sky Trades is a marketplace for air rights for drone traffic that aims to enable the air space to be used with the owners permission, to gain passive income without the ownership of the property changing.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

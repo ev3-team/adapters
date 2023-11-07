@@ -5,10 +5,10 @@ export default {
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'JUNO',
-  coingeckoId: 'juno',
+  coingeckoId: 'juno-network',
   id: 'e277dp',
   description: 'Juno is decentralized network for interoperable apps',
   investors: [],
-  cmcSlug: 'juno-network',
   duneQueries: null,
+  cmcId: 14299,
 } satisfies AdapterProject

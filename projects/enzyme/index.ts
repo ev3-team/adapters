@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'MLN',
-  coingeckoId: null,
+  coingeckoId: 'melon',
   id: 'x7rtjw',
   description:
     'Welcome to the future of asset management. Build, scale and monetise an investment strategy that suits your needs.',
   investors: [],
-  cmcSlug: 'melon',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

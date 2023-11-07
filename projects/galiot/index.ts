@@ -9,6 +9,6 @@ export default {
   id: 'gt13wv',
   description: 'Galiot is a leading company expanding Helium decentralized IoT-network in Europe.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

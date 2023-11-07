@@ -5,11 +5,11 @@ export default {
   chain: 'VECHAIN',
   category: 'OTHER',
   token: 'JUR',
-  coingeckoId: null,
+  coingeckoId: 'jur',
   id: 'y5mzyr',
   description:
     'Jur is a Web3 project building a decentralized protocol for the Digital Economy on the Polkadot ecosystem.',
   investors: [],
-  cmcSlug: 'jur',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

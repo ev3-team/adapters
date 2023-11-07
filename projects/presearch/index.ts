@@ -9,6 +9,6 @@ export default {
   id: '7mrkii',
   description: 'Presearch is a decentralized search engine.',
   investors: ['buime9', 'bry9hm', '9954ez'],
-  cmcSlug: 'presearch',
   duneQueries: null,
+  cmcId: 2245,
 } satisfies AdapterProject

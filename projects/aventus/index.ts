@@ -10,6 +10,6 @@ export default {
   description:
     'Aventus enables scalable, interoperable, and carbon-neutral solutions for companies.',
   investors: [],
-  cmcSlug: 'aventus',
   duneQueries: null,
+  cmcId: 1948,
 } satisfies AdapterProject

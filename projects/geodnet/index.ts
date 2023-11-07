@@ -9,11 +9,11 @@ export default {
   id: 'scli9r',
   description: 'Geodnet is a decentralized network of GNSS reference stations.',
   investors: ['buo8ql'],
-  cmcSlug: 'geodnet',
   duneQueries: {
     BURN: '2944840',
     LOCKED_BALANCE: '2944845',
     MINT: '2944854',
     PRICE: '2944842',
   },
+  cmcId: 20969,
 } satisfies AdapterProject

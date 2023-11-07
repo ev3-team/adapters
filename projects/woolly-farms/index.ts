@@ -10,6 +10,6 @@ export default {
   description:
     'Woolly Farms - connecting consumers and growers to build sustainable cities and ready our food systems.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

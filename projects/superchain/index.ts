@@ -10,6 +10,6 @@ export default {
   description:
     'Developer of Open Index Protocol, an efficient decentralized indexer for on-chain data.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

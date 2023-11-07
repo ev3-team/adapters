@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'PUSH',
-  coingeckoId: 'epns',
+  coingeckoId: 'ethereum-push-notification-service',
   id: 'nhurl1',
   description: 'Push Protocol: web3 cross-chain network for dapps, wallets, and services.',
   investors: [],
-  cmcSlug: 'ethereum-push-notification-service',
   duneQueries: null,
+  cmcId: 9111,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'ojaphf',
   description: 'Decentralized, energy-efficient blockmesh with unique consensus.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

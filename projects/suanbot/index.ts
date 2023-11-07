@@ -9,6 +9,6 @@ export default {
   id: 'a4zdzs',
   description: 'Telegram bot for permissionless communications',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

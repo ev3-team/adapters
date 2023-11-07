@@ -10,6 +10,6 @@ export default {
   description:
     'B-cube.ai: AI platform for clients to create, optimize, and automate customized crypto trading strategies.',
   investors: [],
-  cmcSlug: 'b-cube-ai',
   duneQueries: null,
+  cmcId: 9553,
 } satisfies AdapterProject

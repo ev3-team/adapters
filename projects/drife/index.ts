@@ -35,6 +35,6 @@ export default {
     'xgjf6h',
     'h3vz69',
   ],
-  cmcSlug: 'drife',
   duneQueries: null,
+  cmcId: 10889,
 } satisfies AdapterProject

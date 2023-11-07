@@ -9,6 +9,6 @@ export default {
   id: 'dxk2mc',
   description: 'Wingbits is a decentralized flight tracking network.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'jtoxcg',
   description: 'Bacalhau: Fast, efficient, secure computation platform.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

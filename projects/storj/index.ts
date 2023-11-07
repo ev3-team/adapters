@@ -25,6 +25,6 @@ export default {
     '1a1vr9',
     'd7kmmw',
   ],
-  cmcSlug: 'storj',
   duneQueries: null,
+  cmcId: 1772,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'KNJ',
-  coingeckoId: null,
+  coingeckoId: 'kunji-finance',
   id: '9zg5p3',
   description: 'Kunji Finance: Decentralized asset management platform on Arbitrum chain.',
   investors: [],
-  cmcSlug: 'kunji-finance',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

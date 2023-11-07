@@ -9,6 +9,6 @@ export default {
   id: '02ugap',
   description: 'Equito Finance is a chain-agnostic open-source bridge protocol.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

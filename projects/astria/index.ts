@@ -9,6 +9,6 @@ export default {
   id: 'lgm1f3',
   description: 'Astria Developer: Decentralization platform replacing centralized sequencers.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

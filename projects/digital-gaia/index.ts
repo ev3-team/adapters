@@ -10,6 +10,6 @@ export default {
   description:
     'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

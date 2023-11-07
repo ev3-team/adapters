@@ -20,6 +20,6 @@ export default {
     'sdyd3z',
     'tfi9fe',
   ],
-  cmcSlug: 'siacoin',
   duneQueries: null,
+  cmcId: 1042,
 } satisfies AdapterProject

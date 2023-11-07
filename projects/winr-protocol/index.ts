@@ -10,6 +10,6 @@ export default {
   description:
     'WINR Protocol is a blockchain-based platform enabling developers to build secure on-chain games with the WINR SDK.',
   investors: [],
-  cmcSlug: 'winr-protocol',
   duneQueries: null,
+  cmcId: 23681,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'r1c4n7',
   description: 'Inferix - Decentralized GPU network for 3D rendering, AI training & inference.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

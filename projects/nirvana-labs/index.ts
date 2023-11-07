@@ -9,6 +9,6 @@ export default {
   id: '3fiksg',
   description: 'Nirvana Labs: web3 infrastructure for blockchain apps.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     '4everland is a decentralized cloud provider integrating storage, computing, and networking resources.',
   investors: ['gun7y3', 'wlc0pw', 'baurlm', 'lfbmt3', 'ympohv', 'xcrhi8'],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

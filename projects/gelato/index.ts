@@ -9,6 +9,6 @@ export default {
   id: 'lvwe8x',
   description: 'Gelato Network automates smart contract executions across EVM-based blockchains.',
   investors: [],
-  cmcSlug: 'gelato',
   duneQueries: null,
+  cmcId: 7229,
 } satisfies AdapterProject

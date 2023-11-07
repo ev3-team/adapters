@@ -5,10 +5,10 @@ export default {
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'PCN',
-  coingeckoId: 'pollen',
+  coingeckoId: null,
   id: 'goiapt',
   description: 'Pollen Mobile sells hand-made rugs.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: 10677,
 } satisfies AdapterProject

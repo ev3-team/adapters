@@ -10,6 +10,6 @@ export default {
   description:
     'Synesis One is a data crowdsourcing platform where anyone can earn $SNS by completing micro-tasks that train AI.',
   investors: [],
-  cmcSlug: 'synesis-one',
   duneQueries: null,
+  cmcId: 17231,
 } satisfies AdapterProject

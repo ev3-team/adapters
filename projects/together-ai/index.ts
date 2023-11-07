@@ -10,6 +10,6 @@ export default {
   description:
     'Together.ai is a decentralised cloud platform that empowers developers to train and deploy generative AI models.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

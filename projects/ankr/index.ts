@@ -44,6 +44,6 @@ export default {
     '7r65uq',
     '9ptsrm',
   ],
-  cmcSlug: 'ankr',
   duneQueries: null,
+  cmcId: 3783,
 } satisfies AdapterProject

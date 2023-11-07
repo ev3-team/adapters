@@ -9,6 +9,6 @@ export default {
   id: 'qbgfxz',
   description: 'Decentralized asset management and trading platform with secure investments.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'IQ',
-  coingeckoId: null,
+  coingeckoId: 'everipedia',
   id: '8gkezm',
   description: 'IQ: AI and blockchain firm with applications like IQ.wiki and HiIQ for staking.',
   investors: [],
-  cmcSlug: 'everipedia',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

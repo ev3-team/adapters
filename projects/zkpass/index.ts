@@ -9,6 +9,6 @@ export default {
   id: 'uhupn6',
   description: 'zkPass is a privacy-preserving protocol for private data verification',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

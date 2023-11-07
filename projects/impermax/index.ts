@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'IBEX',
-  coingeckoId: null,
+  coingeckoId: 'impermax-2',
   id: 'd869lq',
   description: 'Impermax: Cross-chain lending protocol offers yield for lenders and borrowers.',
   investors: [],
-  cmcSlug: 'impermax-2',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'eppbxs',
   description: 'OctaSpace is a decentralized cloud computing network.',
   investors: [],
-  cmcSlug: 'octaspace',
   duneQueries: null,
+  cmcId: 24261,
 } satisfies AdapterProject

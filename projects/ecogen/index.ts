@@ -10,6 +10,6 @@ export default {
   description:
     'EcoGen builds sustainable edge computing and renewable energy for cryptocurrency mining.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Lake: Decentralized storage for DApps and Blockchains, incentivizing users to become Storage Servers.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

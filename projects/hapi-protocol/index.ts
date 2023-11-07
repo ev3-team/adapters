@@ -9,6 +9,6 @@ export default {
   id: 'um75jm',
   description: 'Hapi Protocol: Cross-chain protocol for DeFi security.',
   investors: [],
-  cmcSlug: 'hapi-one',
   duneQueries: null,
+  cmcId: 8567,
 } satisfies AdapterProject

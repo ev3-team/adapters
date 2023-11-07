@@ -5,11 +5,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: 'XHV',
-  coingeckoId: null,
+  coingeckoId: 'haven',
   id: '29gzf9',
   description:
     'Haven partners with Anchorage to provide secure staking services for Filecoin tokens.',
   investors: [],
-  cmcSlug: 'haven',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

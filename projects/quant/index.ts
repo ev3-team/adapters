@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'QNT',
-  coingeckoId: null,
+  coingeckoId: 'quant-network',
   id: '7u7rag',
   description: 'Quant: enhance blockchain communication globally.',
   investors: [],
-  cmcSlug: 'quant-network',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

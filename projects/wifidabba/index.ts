@@ -10,6 +10,6 @@ export default {
   description:
     'WifiDabba builds low-cost, scalable, distributed Wi-Fi infrastructure using lasers.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

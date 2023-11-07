@@ -9,6 +9,6 @@ export default {
   id: 'kj3v3r',
   description: 'Helius is the ultimate developer platform for building on Solana.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'NFAI',
-  coingeckoId: null,
+  coingeckoId: 'not-financial-advice',
   id: '40loq1',
   description:
     'NFAi: decentralized hedge fund experiment focused on crypto data science, aiming to establish a profit-sharing fund.',
   investors: [],
-  cmcSlug: 'not-financial-advice',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

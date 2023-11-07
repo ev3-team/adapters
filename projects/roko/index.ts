@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ROKO',
-  coingeckoId: null,
+  coingeckoId: 'roko-network',
   id: 'kz7n8o',
   description:
     'Roko Roko is a self-organizing human-machine network focused on deep-tech R&D protocol bootstrapping.',
   investors: [],
-  cmcSlug: 'roko-network',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

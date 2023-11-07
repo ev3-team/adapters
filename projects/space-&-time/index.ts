@@ -36,6 +36,6 @@ export default {
     'q3nv50',
     '8agdnp',
   ],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

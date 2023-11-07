@@ -10,6 +10,6 @@ export default {
   description:
     'Raven Protocol is a decentralized compute network using idle power for fast AI training.',
   investors: [],
-  cmcSlug: 'raven-protocol',
   duneQueries: null,
+  cmcId: 4024,
 } satisfies AdapterProject

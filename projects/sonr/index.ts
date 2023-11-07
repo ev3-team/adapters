@@ -9,6 +9,6 @@ export default {
   id: 'admvie',
   description: 'Sonr is an L1 blockchain for self-custody decentralized identity.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

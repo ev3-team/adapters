@@ -9,6 +9,6 @@ export default {
   id: '51ffds',
   description: 'Prodia is an easy-to-use Stable Diffusion API for AI-powered image generation.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

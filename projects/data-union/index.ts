@@ -10,6 +10,6 @@ export default {
   description:
     'Data Union incentivizes crowdsourcing for data, enabling x-to-earn models for data unions.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

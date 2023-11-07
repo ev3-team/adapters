@@ -10,6 +10,6 @@ export default {
   description:
     'EZ WiFi is a WiFi management platform helping operators and providers build, monetize, and scale wireless networks.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',
   investors: [],
-  cmcSlug: 'allianceblock',
   duneQueries: null,
+  cmcId: 6957,
 } satisfies AdapterProject

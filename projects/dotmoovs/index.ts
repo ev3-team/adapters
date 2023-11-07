@@ -9,6 +9,6 @@ export default {
   id: 'lipfwr',
   description: 'Dotmoovs uses AI scoring & monetization through $MOOVs investment.',
   investors: [],
-  cmcSlug: 'dotmoovs',
   duneQueries: null,
+  cmcId: 10046,
 } satisfies AdapterProject

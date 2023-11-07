@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'MINTME',
-  coingeckoId: null,
+  coingeckoId: 'webchain',
   id: '6927wm',
   description:
     'MintMe secures Smart-Contract-powered DApps using internet-connected devices, leveraging CPU resources.',
   investors: [],
-  cmcSlug: 'webchain',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

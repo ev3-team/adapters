@@ -9,6 +9,6 @@ export default {
   id: 'vc3622',
   description: 'Aragon is a software tools provider for direct democracy. ',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'oo2cn2',
   description: 'Aethir enables real-time rendering in the Metaverse.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

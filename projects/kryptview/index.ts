@@ -5,10 +5,10 @@ export default {
   chain: 'NATIVE',
   category: 'OTHER',
   token: 'KVT',
-  coingeckoId: null,
+  coingeckoId: 'kryptview',
   id: '3zopno',
   description: 'Kryptview rewards users for analyzing cryptos using P2P and Blockchain mechanisms.',
   investors: [],
-  cmcSlug: 'kryptview',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

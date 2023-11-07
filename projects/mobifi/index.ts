@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'MOFI',
-  coingeckoId: 'mobi-finance',
+  coingeckoId: 'mobifi',
   id: 'ars9qg',
   description: 'MobiFi rewards users for making smarter mobility decisions.',
   investors: [],
-  cmcSlug: 'mobifi',
   duneQueries: null,
+  cmcId: 9132,
 } satisfies AdapterProject

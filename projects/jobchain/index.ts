@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'JOB',
-  coingeckoId: null,
+  coingeckoId: 'jobchain',
   id: 'zyhloi',
   description:
     'JobChain: Connects job seekers with employers for efficient job search and recruitment processes.',
   investors: [],
-  cmcSlug: 'jobchain',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

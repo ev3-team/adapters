@@ -10,6 +10,6 @@ export default {
   description:
     'Srcful is a blockchain-enabled Virtual Power Plant maximizing the potential of Distributed Energy Resources.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,11 +5,11 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'CTXC',
-  coingeckoId: null,
+  coingeckoId: 'cortex',
   id: 'pd82aa',
   description:
     'Cortex Labs: Decentralized blockchain for AI models in smart contracts for enhanced DApps.',
   investors: [],
-  cmcSlug: 'cortex',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

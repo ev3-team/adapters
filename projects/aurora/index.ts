@@ -10,6 +10,6 @@ export default {
   description:
     'Aurora is a performant, scalable, and carbon neutral solution that executes Ethereum contracts on the NEAR blockchain.',
   investors: [],
-  cmcSlug: 'aurora-near',
   duneQueries: null,
+  cmcId: 14803,
 } satisfies AdapterProject

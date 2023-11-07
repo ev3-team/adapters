@@ -10,6 +10,6 @@ export default {
   description:
     'Everyname is a provider of an advanced protocol for retrieving info from any blockchain name registry.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -32,6 +32,6 @@ export default {
     'k1qvmn',
     '7800nu',
   ],
-  cmcSlug: 'ocean-protocol',
   duneQueries: null,
+  cmcId: 3911,
 } satisfies AdapterProject

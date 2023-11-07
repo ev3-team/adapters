@@ -10,6 +10,6 @@ export default {
   description:
     'CPChain: IoT infrastructure with storage, computation, and blockchain tech, providing a combined data platform.',
   investors: [],
-  cmcSlug: 'cpchain',
   duneQueries: null,
+  cmcId: 2482,
 } satisfies AdapterProject

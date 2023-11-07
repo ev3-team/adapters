@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CHER',
-  coingeckoId: null,
+  coingeckoId: 'cherry-network',
   id: 'j6bezo',
   description: 'Cherry: DAO building optimized blockchain for decentralized apps.',
   investors: [],
-  cmcSlug: 'cherry-network',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'kdsx3u',
   description: 'SolanaStock: Decentralized stock photo marketplace monetizes photos with AI.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

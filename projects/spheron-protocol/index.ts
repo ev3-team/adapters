@@ -10,6 +10,6 @@ export default {
   description:
     'Spheron Protocol: decentralized platform for web app deployment with storage, hosting, and compute capabilities.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

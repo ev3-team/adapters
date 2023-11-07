@@ -10,6 +10,6 @@ export default {
   description:
     'Neurosity is a developer of neural devices and applications that translate human brain thoughts into actionable output.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

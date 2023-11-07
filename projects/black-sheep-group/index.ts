@@ -10,6 +10,6 @@ export default {
   description:
     'Black Sheep Group is a decentralized marketplace simplifying investing in Web3 assets.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

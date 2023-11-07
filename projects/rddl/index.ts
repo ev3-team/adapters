@@ -9,6 +9,6 @@ export default {
   id: 'wbocde',
   description: 'RDDL Network is a secure Refi and Defi protocol with trust anchors.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

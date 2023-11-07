@@ -10,6 +10,6 @@ export default {
   description:
     'Mogul is a blockchain-based platform enabling direct investment in cash-flowing properties for as little as $100.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

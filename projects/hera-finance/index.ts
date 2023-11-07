@@ -10,6 +10,6 @@ export default {
   description:
     'Hera Finance is a multichain dex aggregator using AI for the widest token range and best route discovery.',
   investors: [],
-  cmcSlug: 'hera-finance',
   duneQueries: null,
+  cmcId: 19225,
 } satisfies AdapterProject

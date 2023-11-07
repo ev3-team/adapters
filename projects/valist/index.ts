@@ -9,6 +9,6 @@ export default {
   id: 'g2jtmx',
   description: 'Valist: Decentralized platform for game deployment on Web2 and Web3.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

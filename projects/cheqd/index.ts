@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CHEQ',
-  coingeckoId: 'cheqd',
+  coingeckoId: 'cheqd-network',
   id: 'o6gk4u',
   description: 'cheqd offers payment rails, decentralized identity, and trusted data.',
   investors: [],
-  cmcSlug: 'cheqd-network',
   duneQueries: null,
+  cmcId: 12256,
 } satisfies AdapterProject

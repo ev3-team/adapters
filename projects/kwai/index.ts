@@ -5,11 +5,11 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'KWAI',
-  coingeckoId: 'kwai-labs',
+  coingeckoId: 'kwai',
   id: '4ccixw',
   description:
     'KWAI develops AI-powered smart assistant for Web3. Offers tools for crypto swapping, staking, and market tracking.',
   investors: [],
-  cmcSlug: 'kwai',
   duneQueries: null,
+  cmcId: 23260,
 } satisfies AdapterProject

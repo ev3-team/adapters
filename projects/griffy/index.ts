@@ -9,6 +9,6 @@ export default {
   id: '4loe4v',
   description: 'Griffy is a poll-based prediction markets protocol.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Sliceledger is a decentralised Ethereum scaling platform empowering developers to build secure and low-fee dapps.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -5,10 +5,10 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'BLS',
-  coingeckoId: null,
+  coingeckoId: 'blockless',
   id: '4tmf6y',
   description: 'Blockless is a customizable execution layer for decentralized serverless apps.',
   investors: [],
-  cmcSlug: 'blockless',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'b4jy5r',
   description: 'Notus Labs is a decentralized blockchain platform for dapp development.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

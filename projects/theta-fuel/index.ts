@@ -5,7 +5,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'TFUEL',
-  coingeckoId: null,
+  coingeckoId: 'theta-fuel',
   id: 'bsun3b',
   description: 'Theta Fuel is a decentralized video delivery network.',
   investors: [
@@ -48,6 +48,6 @@ export default {
     '6jmeak',
     'xemx4j',
   ],
-  cmcSlug: 'theta-fuel',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

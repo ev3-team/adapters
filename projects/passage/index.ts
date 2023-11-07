@@ -5,10 +5,10 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'PASG',
-  coingeckoId: null,
+  coingeckoId: 'passage',
   id: 'aqaszb',
   description: 'Passage connects virtual and physical experiences through creator-built games.',
   investors: [],
-  cmcSlug: 'passage',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

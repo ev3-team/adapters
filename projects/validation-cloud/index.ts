@@ -10,6 +10,6 @@ export default {
   description:
     'Validation Cloud is a Web3 infrastructure platform that delivers elite, high-performance node and staking infrastructure.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

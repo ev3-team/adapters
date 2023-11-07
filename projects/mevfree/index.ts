@@ -9,6 +9,6 @@ export default {
   id: '8sxorc',
   description: 'MEVFree: Platform for crypto traders with tools and services to maximize profits.',
   investors: [],
-  cmcSlug: 'mevfree',
   duneQueries: null,
+  cmcId: 24031,
 } satisfies AdapterProject

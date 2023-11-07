@@ -10,6 +10,6 @@ export default {
   description:
     'UpSocial: a blockchain-backed decentralized social network with user rewards and token features.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

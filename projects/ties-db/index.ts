@@ -9,6 +9,6 @@ export default {
   id: '4p06pz',
   description: 'Ties.DB: Secure decentralized database for projects.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'nbam9o',
   description: 'LongFi Solutions: Decentralized Infrastructure for community connectivity',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

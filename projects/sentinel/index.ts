@@ -10,6 +10,6 @@ export default {
   description:
     'Sentinel is a global ecosystem of autonomous dVPN apps enabling private censorship-resistant internet access.',
   investors: ['5dsvsj', 'ujw2s3', 'lhs5s8', 'mzqq7s', '2wn9ev', '8e6e1u', '8zo2n4', '8uix7q'],
-  cmcSlug: 'sentinel',
   duneQueries: null,
+  cmcId: 2643,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: '4xa4u6',
   description: 'Weatherflow is a decentralized weather monitoring network.',
   investors: ['sg2yly'],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: '90eym0',
   description: 'Exa Protocol: Decentralized data storage using mobile devices.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

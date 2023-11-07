@@ -25,6 +25,6 @@ export default {
     'rk3esc',
     'jdil01',
   ],
-  cmcSlug: 'deeper-network',
   duneQueries: null,
+  cmcId: 8894,
 } satisfies AdapterProject

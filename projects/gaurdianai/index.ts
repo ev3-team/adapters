@@ -10,6 +10,6 @@ export default {
   description:
     'GuardianAI: Decentralized defense system for DAOs and multisigs, using AI agents from the Decentralized AI Network.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

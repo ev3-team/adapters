@@ -9,6 +9,6 @@ export default {
   id: 'jbyfc1',
   description: 'Yokai Developer: Security network with crowdsourced audit and bug bounty platform.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

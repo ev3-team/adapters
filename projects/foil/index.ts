@@ -9,6 +9,6 @@ export default {
   id: 'wd2g59',
   description: 'Foil: Scalable, secure blockchain for IoT with high-speed transactions.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

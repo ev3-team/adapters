@@ -10,6 +10,6 @@ export default {
   description:
     'Decentralized energy storage solution for clean power supply, managed by cloud service.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

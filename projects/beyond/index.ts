@@ -5,11 +5,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'BP',
-  coingeckoId: null,
+  coingeckoId: 'beyond-protocol',
   id: '3kk637',
   description:
     'Beyond Protocol is a blockchain for IoT, providing decentralized security layer and smart contracts.',
   investors: [],
-  cmcSlug: 'beyond-protocol',
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

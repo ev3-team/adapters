@@ -10,6 +10,6 @@ export default {
   description:
     'Nitro League is a decentralized game where players earn tokens racing futuristic cars and completing missions.',
   investors: [],
-  cmcSlug: 'nitro-league',
   duneQueries: null,
+  cmcId: 16168,
 } satisfies AdapterProject

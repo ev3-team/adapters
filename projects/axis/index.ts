@@ -9,6 +9,6 @@ export default {
   id: '56jkto',
   description: 'AXIS is a blockchain-powered direct freight network.',
   investors: [],
-  cmcSlug: 'axis-token',
   duneQueries: null,
+  cmcId: 8849,
 } satisfies AdapterProject

@@ -10,6 +10,6 @@ export default {
   description:
     'Massive is an SDK enabling developers to offer premium content to users by leveraging their unused processing power.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

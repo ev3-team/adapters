@@ -5,10 +5,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'METIS',
-  coingeckoId: 'metis',
+  coingeckoId: 'metis-token',
   id: '0mfb31',
   description: 'Metis: Scalable platform for Ethereum & infrastructure development',
   investors: [],
-  cmcSlug: 'metis-token',
   duneQueries: null,
+  cmcId: 7778,
 } satisfies AdapterProject

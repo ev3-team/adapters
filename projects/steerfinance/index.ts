@@ -9,6 +9,6 @@ export default {
   id: 'nfdwqm',
   description: 'SteerFinance is a developer of decentralized compute protocols.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject

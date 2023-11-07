@@ -10,6 +10,6 @@ export default {
   description:
     'Blockchain Bets - decentralized casino & sports betting platform on blockchain for transparency & security.',
   investors: [],
-  cmcSlug: 'blockchain-bets',
   duneQueries: null,
+  cmcId: 23165,
 } satisfies AdapterProject

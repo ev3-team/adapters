@@ -10,6 +10,6 @@ export default {
   description:
     'Anchor Wallet is a developer of smart contract wallets, specializing in quantum resistance and Lamport signatures.',
   investors: [],
-  cmcSlug: null,
   duneQueries: null,
+  cmcId: null,
 } satisfies AdapterProject
