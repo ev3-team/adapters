@@ -516,6 +516,7 @@ import runloop from './runloop'
 import safe from './safe'
 import safeHaven from './safe-haven'
 import saito from './saito'
+import sampleProjectWithDuneQueries from './sample-project-with-dune-queries'
 import sarcophagus from './sarcophagus'
 import sayver from './sayver'
 import scprime from './scprime'
@@ -1203,6 +1204,7 @@ export const projects = {
   safe,
   safeHaven,
   saito,
+  sampleProjectWithDuneQueries,
   sarcophagus,
   sayver,
   scprime,
