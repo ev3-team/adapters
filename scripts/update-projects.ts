@@ -2,15 +2,19 @@ import * as csv from 'fast-csv'
 import { createReadStream, existsSync } from 'node:fs'
 import fs from 'node:fs/promises'
 import path from 'node:path'
-import { projectToFileName, projectToVarName } from '../helpers'
+import {
+  AdapterProjectDuneCsvRow,
+  AdaptersProjectCsvRow,
+  projectToFileName,
+  projectToVarName,
+} from '../helpers'
+import { getProjectCmcIdBySlug } from '../helpers/utils'
 import { AdapterProject } from '../projects'
 import {
   AdapterProjectCategory,
   AdapterProjectChain,
   AdapterProjectDuneQueryIdentifiers,
-  AdapterProjectToken,
 } from '../projects/types'
-import { getProjectCmcIdBySlug } from '../helpers/utils'
 
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
@@ -43,18 +47,6 @@ export function getProjectsInvestors(): Promise<Map<string, string[]>> {
   })
 }
 
-type ProjectDuneRow = {
-  name: string
-  id: string
-  BURN?: string
-  LOCKED_BALANCE?: string
-  MINT?: string
-  PRICE?: string
-  REVENUE?: string
-  SUPPLY?: string
-  TIME_SERIES?: string
-}
-
 /** Loop over the projects dune csv to get dune queries ids for each project. */
 export function getProjectsDuneQueries(): Promise<
   Map<string, AdapterProjectDuneQueryIdentifiers | null>
@@ -65,7 +57,7 @@ export function getProjectsDuneQueries(): Promise<
     createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Dune.csv'))
       .pipe(csv.parse({ headers: true }))
       .on('error', (error) => console.error(error))
-      .on('data', async (row: ProjectDuneRow) => {
+      .on('data', async (row: AdapterProjectDuneCsvRow) => {
         const queries: AdapterProjectDuneQueryIdentifiers = {}
         if (row.BURN) queries.BURN = row.BURN
         if (row.LOCKED_BALANCE) queries.LOCKED_BALANCE = row.LOCKED_BALANCE
@@ -81,24 +73,6 @@ export function getProjectsDuneQueries(): Promise<
   })
 }
 type ParsedProject = Omit<AdapterProject, 'cmcId'> & { cmcSlug: string | null }
-type ProjectsRow = {
-  name: string
-  id: string
-  url: string
-  category: string
-  chain: string
-  token: string
-  coinGeckoID: string
-  cmcSlug: string
-  description: string
-  subcategories: string
-  twitter: string
-  discord: string
-  telegram: string
-  blog: string
-  github: string
-  linkedin: string
-}
 
 async function run() {
   let parsedProjects: ParsedProject[] = []
@@ -108,7 +82,7 @@ async function run() {
   createReadStream(path.resolve(__dirname, 'data/DePIN-Projects.csv'))
     .pipe(csv.parse({ headers: true }))
     .on('error', (error) => console.error(error))
-    .on('data', async (row: ProjectsRow) => {
+    .on('data', async (row: AdaptersProjectCsvRow) => {
       const projectId = row.id
       // ignore projects without id
       if (!projectId) {
@@ -120,7 +94,7 @@ async function run() {
         name: row.name,
         chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
         category: !!row.category ? (row.category as AdapterProjectCategory) : 'OTHER',
-        token: !!row.token ? (row.token as AdapterProjectToken) : null,
+        token: !!row.token ? row.token : null,
         coingeckoId: !!row.coinGeckoID ? row.coinGeckoID : null,
         id: projectId,
         description: row.description,
