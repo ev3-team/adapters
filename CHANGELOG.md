@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.4
+
+### Patch Changes
+
+- new projects csv columns and dune queries csv
+
 ## 0.3.3
 
 ### Patch Changes
