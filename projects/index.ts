@@ -214,6 +214,7 @@ import fact0rn from './fact0rn'
 import faye from './faye'
 import fetchai from './fetch-ai'
 import filebase from './filebase'
+import filecoin from './filecoin'
 import filswan from './filswan'
 import finterest from './finterest'
 import firstbatch from './firstbatch'
@@ -900,6 +901,7 @@ export const projects = {
   faye,
   fetchai,
   filebase,
+  filecoin,
   filswan,
   finterest,
   firstbatch,
