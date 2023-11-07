@@ -56,3 +56,41 @@ export const investorToVarName = (investorName: AdapterInvestor['name']) =>
     .replaceAll('continue', '_continue')
     .replaceAll('public', '_public')
     .replaceAll('true', '_true')
+
+export type AdaptersProjectCsvRow = {
+  name: string
+  id: string
+  url: string
+  category: string
+  chain: string
+  token: string
+  coinGeckoID: string
+  cmcSlug: string
+  description: string
+  subcategories: string
+  twitter: string
+  discord: string
+  telegram: string
+  blog: string
+  github: string
+  linkedin: string
+}
+
+/** Generates a row for the projects csv. */
+export const generateProjectsCsvRow = (p: AdaptersProjectCsvRow) =>
+  `${p.name},${p.id},${p.url},${p.category},${p.chain},${p.token},${p.cmcSlug},${p.coinGeckoID},${p.description},${p.subcategories},${p.twitter},${p.discord},${p.telegram},${p.blog},${p.github},${p.linkedin}`
+
+export type AdapterProjectDuneCsvRow = {
+  name: string
+  id: string
+  BURN?: string
+  LOCKED_BALANCE?: string
+  MINT?: string
+  PRICE?: string
+  REVENUE?: string
+  SUPPLY?: string
+  TIME_SERIES?: string
+}
+/** Generates a row for the projects dune csv. */
+export const generateProjectsDuneCsvRow = (p: AdapterProjectDuneCsvRow) =>
+  `${p.name},${p.id},${p.BURN},${p.LOCKED_BALANCE},${p.MINT},${p.PRICE},${p.REVENUE},${p.SUPPLY},${p.TIME_SERIES}`
