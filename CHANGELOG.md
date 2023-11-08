@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.5
+
+### Patch Changes
+
+- remove cmcId from projects
+
 ## 0.3.4
 
 ### Patch Changes
