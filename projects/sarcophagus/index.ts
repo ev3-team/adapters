@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sarcophagus',
-  chain: 'Ethereum',
+  chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'SARCO',
   coingeckoId: 'sarcophagus',
