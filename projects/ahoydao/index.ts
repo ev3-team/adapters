@@ -10,5 +10,4 @@ export default {
   description: 'AhoyDAO is a peer-to-peer ecosystem for the marine industry ownership economy.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

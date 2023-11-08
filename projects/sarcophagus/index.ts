@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sarcophagus',
-  chain: 'ETHEREUM',
+  chain: 'Ethereum',
   category: 'OTHER',
   token: 'SARCO',
   coingeckoId: 'sarcophagus',
@@ -10,5 +10,4 @@ export default {
   description: "Decentralized dead man's switch",
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

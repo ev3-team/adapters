@@ -11,5 +11,4 @@ export default {
     'Glacier is building a composable, modular, and scalable L2 data network for large-scale Dapps.',
   investors: [],
   duneQueries: null,
-  cmcId: 24434,
 } satisfies AdapterProject

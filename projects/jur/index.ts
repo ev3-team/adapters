@@ -11,5 +11,4 @@ export default {
     'Jur is a Web3 project building a decentralized protocol for the Digital Economy on the Polkadot ecosystem.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

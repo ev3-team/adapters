@@ -11,5 +11,4 @@ export default {
     'Atlas Navi: AI navigation app using smartphones to avoid traffic and earn MILE tokens.',
   investors: [],
   duneQueries: null,
-  cmcId: 22892,
 } satisfies AdapterProject

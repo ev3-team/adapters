@@ -10,5 +10,4 @@ export default {
   description: 'DStor is a globally-distributed cloud storage network.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

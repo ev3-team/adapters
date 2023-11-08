@@ -11,5 +11,4 @@ export default {
     'Hyperbolic Labs is a decentralized microservices platform building the web for Web3.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

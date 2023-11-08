@@ -8,8 +8,7 @@ export default {
   coingeckoId: 'peach-inu-bsc',
   id: '3p49fs',
   description:
-    "Peach Inu is a memecoin project that's all about bringing together a community of Princess Peach fans and creating a space for fun and exchange. Their main goal is to create a community where people who share a love for Princess Peach can come together, share their passion, and enjoy the fun.",
+    'Peach Inu is a memecoin bringing together a community of Princess Peach fans and creating a space for fun and exchange.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

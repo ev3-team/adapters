@@ -10,5 +10,4 @@ export default {
   description: 'Bitrock: blockchain with low fees, high speed, and multichain DEX.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

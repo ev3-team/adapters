@@ -11,5 +11,4 @@ export default {
     'Tanssi is a blockchain protocol simplifying app chain deployment for appchain infrastructure.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

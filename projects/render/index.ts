@@ -29,5 +29,4 @@ export default {
     '80bzm6',
   ],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

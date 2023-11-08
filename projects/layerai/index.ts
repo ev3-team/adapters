@@ -11,5 +11,4 @@ export default {
     'LayerAI is a blockchain for AI dev, providing layer-2 solution for efficient and secure applications.',
   investors: [],
   duneQueries: null,
-  cmcId: 23846,
 } satisfies AdapterProject

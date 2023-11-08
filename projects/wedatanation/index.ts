@@ -10,5 +10,4 @@ export default {
   description: 'WeDataNation: Secure platform for user data aggregation.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

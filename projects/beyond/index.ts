@@ -11,5 +11,4 @@ export default {
     'Beyond Protocol is a blockchain for IoT, providing decentralized security layer and smart contracts.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

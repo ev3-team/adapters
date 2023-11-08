@@ -11,5 +11,4 @@ export default {
     'Souq is a blockchain company developing an NFT AMM aiming to revolutionize the trading dynamics of NFTs.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'Unimoon maximizes token rewards using AI on Ethereum.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

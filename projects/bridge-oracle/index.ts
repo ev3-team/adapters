@@ -11,5 +11,4 @@ export default {
     'Bridge Oracle: BNB Chain-based public oracle enabling secure smart contracts with real-world data.',
   investors: [],
   duneQueries: null,
-  cmcId: 7096,
 } satisfies AdapterProject

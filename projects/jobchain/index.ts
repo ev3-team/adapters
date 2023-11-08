@@ -11,5 +11,4 @@ export default {
     'JobChain: Connects job seekers with employers for efficient job search and recruitment processes.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'Viper is a decentralized RPC for Solana.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

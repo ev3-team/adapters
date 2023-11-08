@@ -10,5 +10,4 @@ export default {
   description: 'Blockride: democratizing vehicle financing in Africa through crypto assets.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

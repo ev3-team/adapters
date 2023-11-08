@@ -11,5 +11,4 @@ export default {
     'Flai develops a web-based application that automatically turns raw geospatial data into meaningful information.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'TAL: Decentralized AI verification on Solana.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

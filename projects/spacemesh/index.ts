@@ -10,5 +10,4 @@ export default {
   description: 'Decentralized, energy-efficient blockmesh with unique consensus.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

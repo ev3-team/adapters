@@ -11,5 +11,4 @@ export default {
     'Matrix combines neuroscience with AI and blockchain to create digital user avatars in the Metaverse.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

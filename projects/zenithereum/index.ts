@@ -11,5 +11,4 @@ export default {
     'Zenithereum: Decentralized AI for agent growth in crypto and real-world environments.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

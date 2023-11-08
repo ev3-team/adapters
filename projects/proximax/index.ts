@@ -11,5 +11,4 @@ export default {
     'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
   investors: [],
   duneQueries: null,
-  cmcId: 3126,
 } satisfies AdapterProject

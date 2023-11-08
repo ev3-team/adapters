@@ -11,5 +11,4 @@ export default {
     'Verisoul: A decentralized platform for trusted Web3 businesses, ensuring privacy and trust.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

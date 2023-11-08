@@ -11,5 +11,4 @@ export default {
     'Drone Link uses DePin model to enhance drone performance and accelerate regional expansion.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

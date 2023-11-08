@@ -10,5 +10,4 @@ export default {
   description: 'GenesysGo is a decentralized object storage platform for Web3 builders.',
   investors: [],
   duneQueries: null,
-  cmcId: 16868,
 } satisfies AdapterProject

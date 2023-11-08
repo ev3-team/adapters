@@ -11,5 +11,4 @@ export default {
     'SingularityNET enables easy creation, sharing, and monetization of AI services through its global marketplace.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

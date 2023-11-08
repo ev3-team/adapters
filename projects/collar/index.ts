@@ -11,5 +11,4 @@ export default {
     'Collar Networks is a liquidation-free borrowing solution to solve DeFi borrowing trilemma with high LTV and stability.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

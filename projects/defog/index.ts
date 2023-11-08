@@ -10,5 +10,4 @@ export default {
   description: 'We help enterprises deploy fine-tuned LLMs for enterprise analytics.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

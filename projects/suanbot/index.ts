@@ -10,5 +10,4 @@ export default {
   description: 'Telegram bot for permissionless communications',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

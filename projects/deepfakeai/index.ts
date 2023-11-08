@@ -10,5 +10,4 @@ export default {
   description: 'DeepFakeAI is a deepfake creation program using a Telegram Bot and Web App.',
   investors: [],
   duneQueries: null,
-  cmcId: 26590,
 } satisfies AdapterProject

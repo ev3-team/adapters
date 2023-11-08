@@ -11,5 +11,4 @@ export default {
     'Taxa: blockchain agnostic layer-2 infrastructure ensuring privacy, power, and easy development.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

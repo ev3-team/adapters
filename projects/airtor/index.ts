@@ -10,5 +10,4 @@ export default {
   description: 'AirTor: Proof-of-uptime and relay hardware for passive earning and support of Tor.',
   investors: [],
   duneQueries: null,
-  cmcId: 23757,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Finterest is a decentralized borrowing/lending protocol on The Internet Computer built to support native Bitcoin.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

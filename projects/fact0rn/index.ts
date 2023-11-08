@@ -11,5 +11,4 @@ export default {
     'FACT0RN: a blockchain replacing hashing with Integer Factorization as Proof of Work. Forked from bitcoin V22.0.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

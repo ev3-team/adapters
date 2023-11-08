@@ -10,5 +10,4 @@ export default {
   description: 'PublicAI is a decentralized network focused on RHLF.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

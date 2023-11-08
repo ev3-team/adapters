@@ -11,5 +11,4 @@ export default {
     'Beluga is a trusted crypto platform that onboards and guides new users through their crypto journey.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

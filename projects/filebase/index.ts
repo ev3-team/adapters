@@ -11,5 +11,4 @@ export default {
     'Filebase is a reliable IPFS pinning service that provides secure and efficient file storage and management.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

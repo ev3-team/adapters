@@ -16,5 +16,4 @@ export default {
     MINT: '2944857',
     PRICE: '2944859',
   },
-  cmcId: 24133,
 } satisfies AdapterProject

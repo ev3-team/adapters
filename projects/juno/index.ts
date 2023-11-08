@@ -10,5 +10,4 @@ export default {
   description: 'Juno is decentralized network for interoperable apps',
   investors: [],
   duneQueries: null,
-  cmcId: 14299,
 } satisfies AdapterProject

@@ -48,7 +48,6 @@ export type AdapterProject = {
   id: string
   category: AdapterProjectCategory
   chain: AdapterProjectChain | null
-  cmcId: number | null
   coingeckoId: string | null
   description: string | null
   investors: string[]

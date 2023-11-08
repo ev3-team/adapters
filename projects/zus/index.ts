@@ -11,5 +11,4 @@ export default {
     'Zus is a decentralized storage network with built-in privacy and security compliance.',
   investors: ['ztpy5d', '2ngx9z', '8a2od5', 'ncj523'],
   duneQueries: null,
-  cmcId: 2882,
 } satisfies AdapterProject

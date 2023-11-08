@@ -11,5 +11,4 @@ export default {
     'Shibuya is a web3 platform for film financing & production. Users engage, fund, vote, & become owners of content.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

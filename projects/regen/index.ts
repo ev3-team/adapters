@@ -10,5 +10,4 @@ export default {
   description: 'ReGen focuses on Hydrogen, Ammonia, and Methanol trading for the New Fuel Economy.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

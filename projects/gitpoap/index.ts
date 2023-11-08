@@ -10,5 +10,4 @@ export default {
   description: 'GitPOAP - recognizing contributions on GitHub with POAP issuance',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

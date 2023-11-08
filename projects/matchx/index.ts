@@ -11,5 +11,4 @@ export default {
     'MatchX is a hardware and software company specializing in IoT solutions for the industry.',
   investors: ['73kuet'],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

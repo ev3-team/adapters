@@ -10,5 +10,4 @@ export default {
   description: 'Switch Electric Switch is a stealth project built on IoTeX.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

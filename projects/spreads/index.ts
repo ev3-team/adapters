@@ -10,5 +10,4 @@ export default {
   description: 'Spreads: Empowering communities for digital transformation.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

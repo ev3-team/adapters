@@ -11,5 +11,4 @@ export default {
     'Magnet AI is a scalable, permissionless and cost-efficient platform for accessing compute power for inference.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

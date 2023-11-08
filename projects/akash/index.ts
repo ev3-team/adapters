@@ -43,5 +43,4 @@ export default {
     'oblyiu',
   ],
   duneQueries: null,
-  cmcId: 7431,
 } satisfies AdapterProject

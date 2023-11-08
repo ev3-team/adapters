@@ -10,5 +10,4 @@ export default {
   description: 'Greensparc: Sustainable computing and ESG analytics.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

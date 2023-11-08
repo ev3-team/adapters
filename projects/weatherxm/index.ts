@@ -10,5 +10,4 @@ export default {
   description: 'WeatherXM is a decentralized weather data collection network.',
   investors: ['ti312b', 'buo8ql', 'bku3ew', 'lszufu', 'vh40ts', 'rfveqw', 'n2t98d'],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

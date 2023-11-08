@@ -11,5 +11,4 @@ export default {
     'Acxyn: empowering Web3 games with economic potential and ownership of revenue streams.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

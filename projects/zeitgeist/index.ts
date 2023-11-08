@@ -11,5 +11,4 @@ export default {
     'Zeitgeist is a provider of decentralized prediction markets software built on Polkadot.',
   investors: [],
   duneQueries: null,
-  cmcId: 13628,
 } satisfies AdapterProject

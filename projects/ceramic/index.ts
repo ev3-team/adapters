@@ -37,5 +37,4 @@ export default {
     '8ojtlq',
   ],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'Suptho: Geo-based social app merging digital experiences with in-person events.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

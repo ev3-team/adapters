@@ -10,5 +10,4 @@ export default {
   description: 'EtherMail: secure, anonymous email with blockchain rewards.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

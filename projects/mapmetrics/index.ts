@@ -10,5 +10,4 @@ export default {
   description: 'Mapmetrics is a web3 navigation app that rewards users with tokens and NFTs.',
   investors: [],
   duneQueries: null,
-  cmcId: 18965,
 } satisfies AdapterProject

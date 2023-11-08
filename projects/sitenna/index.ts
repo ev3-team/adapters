@@ -8,8 +8,7 @@ export default {
   coingeckoId: null,
   id: 'xeu3zu',
   description:
-    'Sitenna streamlines the process of site acquisition, portfolio management and collocation sales for telecom companies. Their cloud based platform reduces deployment and management costs for all parties, rapidly accelerating 5G, EV Charging and Smart Cities technologies',
+    'Sitenna streamlines the process of site acquisition, portfolio management and collocation sales for telecom companies.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'WeFi is a decentralized protocol that opens up under collateralized borrowing and lending options in the DeFi space.',
   investors: [],
   duneQueries: null,
-  cmcId: 24771,
 } satisfies AdapterProject

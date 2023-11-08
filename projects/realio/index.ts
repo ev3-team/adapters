@@ -11,5 +11,4 @@ export default {
     'Realio manages real-world assets across multiple chains using Cosmos SDK and Tendermint.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

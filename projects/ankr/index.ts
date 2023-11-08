@@ -45,5 +45,4 @@ export default {
     '9ptsrm',
   ],
   duneQueries: null,
-  cmcId: 3783,
 } satisfies AdapterProject

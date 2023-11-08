@@ -11,5 +11,4 @@ export default {
     'Cazk Via enables proofs of inclusion or exclusion without revealing extra information.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

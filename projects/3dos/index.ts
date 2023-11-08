@@ -11,5 +11,4 @@ export default {
     '3DOS is building a decentralized manufacturing network on Web 3.0 using NFTs as a licensing tool.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

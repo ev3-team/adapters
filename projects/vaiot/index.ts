@@ -11,5 +11,4 @@ export default {
     'Vaiot is a provider of blockchain-based AI Assistants and on-chain Intelligent Contracts for businesses and consumers.',
   investors: [],
   duneQueries: null,
-  cmcId: 8479,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'myMessage is a decentralized data storage protocol enabling secure, low-cost storage and transfer.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

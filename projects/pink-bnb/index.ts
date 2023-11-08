@@ -10,5 +10,4 @@ export default {
   description: 'Pink BNB categorizes and analyzes data for crypto predictions.',
   investors: [],
   duneQueries: null,
-  cmcId: 23998,
 } satisfies AdapterProject

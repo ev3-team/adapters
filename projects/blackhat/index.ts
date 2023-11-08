@@ -10,5 +10,4 @@ export default {
   description: 'Blackhat cyber game: Players as DeFi protocos v AI hackerChatGPT.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

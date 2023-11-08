@@ -11,5 +11,4 @@ export default {
     'AscensionWx is a WeatherMiner platform that allows users to earn Helium HNT tokens by predicting weather conditions.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

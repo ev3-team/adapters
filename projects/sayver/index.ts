@@ -11,5 +11,4 @@ export default {
     'Sayver is a blockchain-based platform that enables users to immortalize anything on the blockchain.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -21,5 +21,4 @@ export default {
     '4ol13w',
   ],
   duneQueries: null,
-  cmcId: 2868,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Cheeze is a decentralized creator economy platform that enables brand activation for imagery on-chain.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

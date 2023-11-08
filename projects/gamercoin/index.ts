@@ -11,5 +11,4 @@ export default {
     'GamerCoin is a blockchain-supported application that allows users to exchange desktop computing power for digital goods.',
   investors: [],
   duneQueries: null,
-  cmcId: 6554,
 } satisfies AdapterProject

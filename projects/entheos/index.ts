@@ -10,5 +10,4 @@ export default {
   description: 'Entheos Network: energy solutions & batteries for businesses globally.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Injective is a finance-oriented blockchain for DeFi apps: exchanges, lending, and prediction markets.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'CryptoAI is an AI accessibility token with buy bots, transaction tracking, and lottery automation.',
   investors: [],
   duneQueries: null,
-  cmcId: 23341,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Koda Koda creates decentralized AI robotic dogs with data stored on IPFS/Filecoin Network.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

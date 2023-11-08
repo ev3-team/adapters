@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'u35fhl',
-  description:
-    'Moflix enables telco operators to become the backbone of Web3 by issuing fully regulatory compliant Web3 access to their customers',
+  description: 'Moflix enables telco operators to become the backbone of Web3.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

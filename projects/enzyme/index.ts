@@ -11,5 +11,4 @@ export default {
     'Welcome to the future of asset management. Build, scale and monetise an investment strategy that suits your needs.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

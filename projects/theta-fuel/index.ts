@@ -49,5 +49,4 @@ export default {
     'xemx4j',
   ],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

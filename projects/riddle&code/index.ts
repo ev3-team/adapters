@@ -11,5 +11,4 @@ export default {
     'Riddle&Code: Connecting physical assets with Web3 technology for secure communication and transactions.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

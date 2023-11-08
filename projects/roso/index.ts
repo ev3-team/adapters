@@ -56,5 +56,4 @@ export default {
     'dbr5ig',
   ],
   duneQueries: null,
-  cmcId: 15784,
 } satisfies AdapterProject

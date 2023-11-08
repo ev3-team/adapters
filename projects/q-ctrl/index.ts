@@ -8,8 +8,7 @@ export default {
   coingeckoId: null,
   id: '69yd7k',
   description:
-    'We make quantum technology useful for enterprise, government, and research by uniquely addressing the problem of hardware error and instability, entirely through software.',
+    'Q-ctrl uniquely addresses the problem of hardware error and instability in quantum computing, entirely through software.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

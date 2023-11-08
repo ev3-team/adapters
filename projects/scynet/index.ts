@@ -11,5 +11,4 @@ export default {
     'ScyNet is a blockchain and economic system that rewards nodes for sharing resources in a decentralized network.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

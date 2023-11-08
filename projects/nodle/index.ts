@@ -53,5 +53,4 @@ export default {
     'bnhsos',
   ],
   duneQueries: null,
-  cmcId: 6837,
 } satisfies AdapterProject

@@ -32,5 +32,4 @@ export default {
     'zcdny8',
   ],
   duneQueries: null,
-  cmcId: 8258,
 } satisfies AdapterProject

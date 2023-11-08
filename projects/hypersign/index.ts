@@ -7,9 +7,7 @@ export default {
   token: 'HID',
   coingeckoId: 'hypersign-identity-token',
   id: 'nir8er',
-  description:
-    'Hypersign is a decentralized identity layer for the internet, giving users control of their personal data and identity whilst digital enabling trust for businesses.',
+  description: 'Hypersign is a decentralized identity layer for the internet.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

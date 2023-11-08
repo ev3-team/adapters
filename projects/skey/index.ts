@@ -11,5 +11,4 @@ export default {
     'Skey is a blockchain-based company connecting decentralized finance and IoT, enabling a new economy of physical assets.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

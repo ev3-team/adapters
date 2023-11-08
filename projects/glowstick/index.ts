@@ -11,5 +11,4 @@ export default {
     'Glowstick is a user-friendly tool enabling easy 3D environment creation and storytelling.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

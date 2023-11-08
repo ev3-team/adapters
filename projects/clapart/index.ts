@@ -10,5 +10,4 @@ export default {
   description: 'CLAPART empowers creators and fans for project funding.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Vast.ai is a GPU rental marketplace enabling users to rent their own GPU or rent GPUs from others.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

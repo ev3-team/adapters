@@ -11,5 +11,4 @@ export default {
     'Flux is a decentralized compute network for cross-platform blockchain applications.',
   investors: ['szfiug', 'mar9ip'],
   duneQueries: null,
-  cmcId: 3029,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Hyperspace is a decentralized prompt engine for making AI better, faster, and cheaper at-scale.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

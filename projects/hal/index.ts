@@ -10,5 +10,4 @@ export default {
   description: 'Hal is a chatbot built on BitTensor.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

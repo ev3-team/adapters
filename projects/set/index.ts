@@ -10,5 +10,4 @@ export default {
   description: 'Set is an onchain indexing protocol',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

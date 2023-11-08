@@ -11,5 +11,4 @@ export default {
     'Quadency simplifies crypto trading. It offers portfolio management, trading bots, and automation.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

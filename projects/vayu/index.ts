@@ -8,8 +8,7 @@ export default {
   coingeckoId: null,
   id: 'c6954r',
   description:
-    'Intelligence in Motion - We are building a scalable mobile robotics platform using cutting edge bio-inspired sensing, scalable machine learning and purposeful robotic design',
+    'Vayu is building a scalable mobile robotics platform using cutting edge bio-inspired sensing, ML, and robotics.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'HOPR connects unused internet bandwidth for monetization.',
   investors: [],
   duneQueries: null,
-  cmcId: 6520,
 } satisfies AdapterProject

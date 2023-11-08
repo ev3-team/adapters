@@ -10,5 +10,4 @@ export default {
   description: 'LongFi Solutions: Decentralized Infrastructure for community connectivity',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

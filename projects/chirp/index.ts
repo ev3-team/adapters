@@ -10,5 +10,4 @@ export default {
   description: 'Chirp Wireless is a decentralized wireless network for IoT, mobile, and broadband.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Relay is a provider of tools for DeWi deployers and WISPs, facilitating telecom network building and management.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

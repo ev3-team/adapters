@@ -11,5 +11,4 @@ export default {
     'Cortex Labs: Decentralized blockchain for AI models in smart contracts for enhanced DApps.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

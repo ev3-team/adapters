@@ -11,5 +11,4 @@ export default {
     'MicroVisionChain: UTXO-based public blockchain with PoW, high-concurrency, Layer-1 smart contracts, and DID solution.',
   investors: [],
   duneQueries: null,
-  cmcId: 24193,
 } satisfies AdapterProject

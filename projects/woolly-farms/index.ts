@@ -11,5 +11,4 @@ export default {
     'Woolly Farms - connecting consumers and growers to build sustainable cities and ready our food systems.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

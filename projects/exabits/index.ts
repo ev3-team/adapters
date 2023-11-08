@@ -8,8 +8,7 @@ export default {
   coingeckoId: null,
   id: 'ks1fra',
   description:
-    'exaBITS is a decentralized infrastructure for AI and computationally intensive applications. It empowers users to contribute to the exaBITS infrastructure and train their unique AI models. ',
+    'exaBITS is a decentralized infrastructure for AI and computationally intensive applications.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

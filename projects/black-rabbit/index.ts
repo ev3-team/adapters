@@ -11,5 +11,4 @@ export default {
     'Black Rabbit AI is an AI platform that aggregates tools, making it easy to get effective results with optimized prompts.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

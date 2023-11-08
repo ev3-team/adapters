@@ -11,5 +11,4 @@ export default {
     'ETHforestAI is a Web3 learning platform with an integrated AI chatbot and Learn-To-Earn features.',
   investors: [],
   duneQueries: null,
-  cmcId: 24030,
 } satisfies AdapterProject

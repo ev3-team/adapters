@@ -11,5 +11,4 @@ export default {
     'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

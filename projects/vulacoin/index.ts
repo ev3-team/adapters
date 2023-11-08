@@ -10,5 +10,4 @@ export default {
   description: 'VulaCoin digitizes prepaid cash with stable coin for mobile wallets.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

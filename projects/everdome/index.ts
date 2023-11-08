@@ -10,5 +10,4 @@ export default {
   description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
   investors: [],
   duneQueries: null,
-  cmcId: 16432,
 } satisfies AdapterProject

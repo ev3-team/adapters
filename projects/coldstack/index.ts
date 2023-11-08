@@ -11,5 +11,4 @@ export default {
     'ColdStack: A unified API and billing solution for Filecoin, SIA, Arweave, and Storj.',
   investors: [],
   duneQueries: null,
-  cmcId: 9562,
 } satisfies AdapterProject

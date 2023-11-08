@@ -3,13 +3,11 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pyse',
   chain: null,
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: '44h60y',
-  description:
-    'Your investments are no more subject to market risks. Welcome to an investment solution that is never effected by the market, but always affects the environment.',
+  description: 'Pyse enables retail investing in renewable energy assets.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

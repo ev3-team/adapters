@@ -10,5 +10,4 @@ export default {
   description: 'Pi is a decentralized environmental data collection network.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

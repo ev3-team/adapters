@@ -11,5 +11,4 @@ export default {
     'Canvas is a peer-to-peer architecture and developer platform for decentralized applications.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

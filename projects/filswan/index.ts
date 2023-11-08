@@ -10,5 +10,4 @@ export default {
   description: 'FilSwan: web3 infrastructure for dApp development.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

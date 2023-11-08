@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Peaq',
-  chain: null,
+  chain: 'PEAQ',
   category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
@@ -10,5 +10,4 @@ export default {
   description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

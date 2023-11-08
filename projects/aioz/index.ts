@@ -10,5 +10,4 @@ export default {
   description: 'AIOZ is a decentralized content delivery network.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

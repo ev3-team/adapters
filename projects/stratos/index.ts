@@ -22,5 +22,4 @@ export default {
     'i2jpqr',
   ],
   duneQueries: null,
-  cmcId: 9760,
 } satisfies AdapterProject

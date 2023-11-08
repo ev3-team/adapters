@@ -10,5 +10,4 @@ export default {
   description: 'Aethir enables real-time rendering in the Metaverse.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

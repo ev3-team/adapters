@@ -10,5 +10,4 @@ export default {
   description: 'Decentralized cloud gaming and rendering network for immersive metaverses.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

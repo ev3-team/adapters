@@ -11,5 +11,4 @@ export default {
     'inSure: Community-based crypto insurance, distributed ownership risks, dynamic pricing model.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

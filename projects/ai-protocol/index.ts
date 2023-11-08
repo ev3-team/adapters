@@ -11,5 +11,4 @@ export default {
     'Platform merging AI and Web3 for creation, ownership, tokenization, and monetization of AI assets.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

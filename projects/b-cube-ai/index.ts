@@ -11,5 +11,4 @@ export default {
     'B-cube.ai: AI platform for clients to create, optimize, and automate customized crypto trading strategies.',
   investors: [],
   duneQueries: null,
-  cmcId: 9553,
 } satisfies AdapterProject

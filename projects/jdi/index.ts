@@ -11,5 +11,4 @@ export default {
     'JDI builds hardware and software solutions for the Decentralized Wireless Network and IoT industry.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

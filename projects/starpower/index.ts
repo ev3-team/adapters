@@ -11,5 +11,4 @@ export default {
     'Starpower is an infrastructure company connecting distributed energy resources to decarbonize the energy sector.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

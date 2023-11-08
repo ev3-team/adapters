@@ -10,5 +10,4 @@ export default {
   description: 'Aimedis: Blockchain-based eHealth with medical apps and NFT marketplace.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

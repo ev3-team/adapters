@@ -10,5 +10,4 @@ export default {
   description: 'ELOOP: Rent, share, and charge electric cars.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

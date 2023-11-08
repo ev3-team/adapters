@@ -10,5 +10,4 @@ export default {
   description: 'CroPo collects global data, offers value to participants.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

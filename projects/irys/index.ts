@@ -11,5 +11,4 @@ export default {
     'Irys is a multi-chain solution for Arweave, enabling native support for Arweave storage on different blockchains.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Bird is a decentralized oracle providing blockchain developers with analytics products for web platforms.',
   investors: [],
   duneQueries: null,
-  cmcId: 7795,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'Verida is a decentralized data storage, messaging, and single sign-on solution.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

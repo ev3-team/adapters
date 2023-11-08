@@ -10,5 +10,4 @@ export default {
   description: 'Millicent Labs upgrades financial systems with distributed ledger technology.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

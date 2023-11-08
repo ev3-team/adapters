@@ -10,5 +10,4 @@ export default {
   description: 'NeuralAgent is a global network of low-cost transportation infrastructure.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

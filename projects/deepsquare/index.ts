@@ -11,5 +11,4 @@ export default {
     'DeepSquare is a company building an energy-efficient cloud computing ecosystem by reusing ICT generated heat.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

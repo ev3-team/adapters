@@ -11,5 +11,4 @@ export default {
     'Ukaton is a footwear company developing programmable insoles for health, VR/AR, and human interaction.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

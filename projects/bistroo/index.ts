@@ -10,5 +10,4 @@ export default {
   description: 'Bistroo is a decentralized marketplace for food & beverage delivery.',
   investors: [],
   duneQueries: null,
-  cmcId: 9889,
 } satisfies AdapterProject

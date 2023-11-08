@@ -10,5 +10,4 @@ export default {
   description: 'SelfKey is a blockchain-based identity platform.',
   investors: [],
   duneQueries: null,
-  cmcId: 2398,
 } satisfies AdapterProject

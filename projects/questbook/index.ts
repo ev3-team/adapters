@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'c5xom1',
-  description:
-    'The future of work is pseudonymous and permissionless - aka, purely meritocratic. Anybody in the world, irrespective of their geography, race, sex, background should have equal opportunity to participate in the global economy.',
+  description: 'Grants program management software.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

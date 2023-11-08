@@ -11,5 +11,4 @@ export default {
     'Inheritance Art aims to be the largest NFT/AI-NFT producer and studio for mixed reality and hyper realistic productions.',
   investors: [],
   duneQueries: null,
-  cmcId: 18745,
 } satisfies AdapterProject

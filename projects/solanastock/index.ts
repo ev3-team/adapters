@@ -10,5 +10,4 @@ export default {
   description: 'SolanaStock: Decentralized stock photo marketplace monetizes photos with AI.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'Renatus is the first logistics system completing orders at one station.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

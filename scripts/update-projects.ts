@@ -72,10 +72,9 @@ export function getProjectsDuneQueries(): Promise<
       .on('end', () => resolve(projectsDuneQueries))
   })
 }
-type ParsedProject = Omit<AdapterProject, 'cmcId'> & { cmcSlug: string | null }
 
 async function run() {
-  let parsedProjects: ParsedProject[] = []
+  let parsedProjects: AdapterProject[] = []
   const projectsInvestors = await getProjectsInvestors()
   const projectsDuneQueries = await getProjectsDuneQueries()
 
@@ -90,7 +89,7 @@ async function run() {
         return
       }
 
-      const project: ParsedProject = {
+      parsedProjects.push({
         name: row.name,
         chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
         category: !!row.category ? (row.category as AdapterProjectCategory) : 'OTHER',
@@ -99,29 +98,14 @@ async function run() {
         id: projectId,
         description: row.description,
         investors: projectsInvestors.get(projectId) ?? [],
-        cmcSlug: !!row.cmcSlug ? row.cmcSlug : null,
         duneQueries: projectsDuneQueries.get(projectId) ?? null,
-      }
-      parsedProjects.push(project)
+      })
     })
     .on('end', async () => {
       const storedProjects: AdapterProject[] = []
 
-      const cmcIds = await getProjectCmcIdBySlug(
-        parsedProjects.map((pp) => pp.cmcSlug).filter(Boolean) as string[]
-      )
-      if (!cmcIds) {
-        console.error('error getting cmc ids')
-        return
-      }
-
       await Promise.all(
-        parsedProjects.map(async (pp) => {
-          const { cmcSlug, ...p } = pp
-          const project: AdapterProject = {
-            ...p,
-            cmcId: cmcSlug ? cmcIds.get(cmcSlug) ?? null : null,
-          }
+        parsedProjects.map(async (project) => {
           try {
             const projectFileName = projectToFileName(project.name)
 

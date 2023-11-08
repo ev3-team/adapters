@@ -10,5 +10,4 @@ export default {
   description: 'Gelato Network automates smart contract executions across EVM-based blockchains.',
   investors: [],
   duneQueries: null,
-  cmcId: 7229,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'Blockless is a customizable execution layer for decentralized serverless apps.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

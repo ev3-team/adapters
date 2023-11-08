@@ -11,5 +11,4 @@ export default {
     'Silencio rewards users for providing hyper-local noise pollution data from smartphones.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

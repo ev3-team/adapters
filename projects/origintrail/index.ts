@@ -21,5 +21,4 @@ export default {
     'mv230f',
   ],
   duneQueries: null,
-  cmcId: 2467,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Dione Dione is a blockchain company developing renewable energy trading technology.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

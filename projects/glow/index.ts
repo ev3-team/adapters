@@ -11,5 +11,4 @@ export default {
     'Glow Energy rewards solar panel operators with tokens, encouraging carbon credit creation.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

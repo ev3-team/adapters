@@ -10,5 +10,4 @@ export default {
   description: 'Jim is an AI Bot that responds intelligently on social platforms.',
   investors: [],
   duneQueries: null,
-  cmcId: 26376,
 } satisfies AdapterProject

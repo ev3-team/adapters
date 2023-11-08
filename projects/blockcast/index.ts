@@ -11,5 +11,4 @@ export default {
     'Blockcast is a CDN and marketplace for broadcast capacity, optimizing network traffic.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

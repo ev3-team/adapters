@@ -10,5 +10,4 @@ export default {
   description: 'Network3 enhances network security and privacy through distributed nodes.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

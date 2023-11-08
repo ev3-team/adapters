@@ -10,5 +10,4 @@ export default {
   description: 'Orchai: AI-powered DeFi platform optimizing asset flow.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'EcoBytes is a Re-Fi Platform that rewards consumers for unused mobile data passively.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'NFT3 Labs is a virtual identity framework, enabling personal monetization and identity-lveraging in Web3 applications.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

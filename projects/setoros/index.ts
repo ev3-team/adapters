@@ -10,5 +10,4 @@ export default {
   description: 'Setoros is a decentralized crypto sportsbook for global betting.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

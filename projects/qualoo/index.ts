@@ -10,5 +10,4 @@ export default {
   description: 'Qualoo is revolutionizing telecom with global internet governance & diagnostics.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

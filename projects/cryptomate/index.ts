@@ -10,5 +10,4 @@ export default {
   description: 'Cryptomate is a decentralized ecosystem of interactive crypto APIs.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

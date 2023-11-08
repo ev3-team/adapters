@@ -10,5 +10,4 @@ export default {
   description: 'KYVE connects nodes to Arweave storage, ensuring trustless uploads.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

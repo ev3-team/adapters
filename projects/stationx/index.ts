@@ -10,5 +10,4 @@ export default {
   description: 'StationX is a protocol for swiftly creating and overseeing DAOs in under a minute.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

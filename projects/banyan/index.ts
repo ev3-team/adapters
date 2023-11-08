@@ -11,5 +11,4 @@ export default {
     'Banyan Operator is a web3 storage platform for on-chain data storage on a robust storage protocol.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

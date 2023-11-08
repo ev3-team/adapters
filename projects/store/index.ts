@@ -8,8 +8,7 @@ export default {
   coingeckoId: null,
   id: 'nb0mpn',
   description:
-    'STORE is a new layer zero staking protocol at the intersection of cloud computing and WEB3. Secured by Dynamic Proof-ofStake (DyPos) - a novel STORE algorithm. ',
+    'STORE is a new layer zero staking protocol at the intersection of cloud computing and WEB3.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

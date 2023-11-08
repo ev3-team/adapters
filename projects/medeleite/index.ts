@@ -10,5 +10,4 @@ export default {
   description: 'Full-stack supply chain platform for mlik production',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

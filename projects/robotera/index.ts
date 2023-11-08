@@ -10,5 +10,4 @@ export default {
   description: 'RobotEra: play-to-earn gaming with NFTs and metaverse world-building.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

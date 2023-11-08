@@ -10,5 +10,4 @@ export default {
   description: 'Shardeum: EVM-based platform ensuring decentralization and security.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

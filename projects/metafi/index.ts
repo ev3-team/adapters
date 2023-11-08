@@ -11,5 +11,4 @@ export default {
     'Metafi enables embeded wallets, broadcast transactions, indexing on-chain events, and more for web3 game developers.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'GonnaMakeIt is a social network that allows competitors and organizers to earn money through event betting.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

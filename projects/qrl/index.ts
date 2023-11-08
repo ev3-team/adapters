@@ -10,5 +10,4 @@ export default {
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

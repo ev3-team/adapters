@@ -10,5 +10,4 @@ export default {
   description: 'Gun.Eco is a decentralized distributed graph database engine for developers.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

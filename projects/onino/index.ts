@@ -10,5 +10,4 @@ export default {
   description: 'ONINO enables developers to create identity-based dapps with privacy by default.',
   investors: [],
   duneQueries: null,
-  cmcId: 17601,
 } satisfies AdapterProject

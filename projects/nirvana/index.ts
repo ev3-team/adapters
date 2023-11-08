@@ -7,9 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'u2tfjc',
-  description:
-    'Our mission is to make blockchain infrastructure economical and decentralized, ultimately lowering the barriers to entry for web3 engineers.',
+  description: 'Nirvana Labs: web3 infrastructure for blockchain apps.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'AeroNyx - decentralized DePIN protocol for privacy solutions, using Web3 principles.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

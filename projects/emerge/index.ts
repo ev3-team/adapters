@@ -8,8 +8,7 @@ export default {
   coingeckoId: null,
   id: 'dmf572',
   description:
-    'Emerge Tools is a suite of revolutionary app development products designed to supercharge mobile apps and the teams that build them.',
+    'Emerge is a suite of app development products designed to supercharge mobile apps and the teams that build them.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

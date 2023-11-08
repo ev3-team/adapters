@@ -43,5 +43,4 @@ export default {
     REVENUE: '2944851',
     SUPPLY: '2944838',
   },
-  cmcId: 3640,
 } satisfies AdapterProject

@@ -10,5 +10,4 @@ export default {
   description: 'Autonolas is a decentralized network of autonomous AI agents.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

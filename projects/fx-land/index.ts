@@ -26,5 +26,4 @@ export default {
     'zj4ect',
   ],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

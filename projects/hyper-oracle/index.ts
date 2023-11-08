@@ -11,5 +11,4 @@ export default {
     'Hyper Oracle: Programmable zkOracle for blockchain security and developer empowerment.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

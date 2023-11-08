@@ -11,5 +11,4 @@ export default {
     'Phantasma is a scalable layer 1 smart contract blockchain designed for Gaming, Smart NFTs, and dApp integration.',
   investors: [],
   duneQueries: null,
-  cmcId: 2827,
 } satisfies AdapterProject

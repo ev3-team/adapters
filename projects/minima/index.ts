@@ -10,5 +10,4 @@ export default {
   description: 'Minima: Compact, secure blockchain accessible on mobile & IoT devices.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

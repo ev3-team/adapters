@@ -10,5 +10,4 @@ export default {
   description: 'Bad Idea AI connects meme coin culture with artificial intelligence.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

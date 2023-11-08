@@ -11,5 +11,4 @@ export default {
     'Moonbeam is a cross-chain smart contract platform allowing users to interact with multiple blockchains simultaneously.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

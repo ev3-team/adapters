@@ -11,5 +11,4 @@ export default {
     'IPXS is a decentralised proxy marketplace connecting users peer-to-peer for monetizing unused IPs.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

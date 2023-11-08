@@ -11,5 +11,4 @@ export default {
     'Genomes.io is a biotech DAO monetizing genomic data securely, privately & audibly via DeFi.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

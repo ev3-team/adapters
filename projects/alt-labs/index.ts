@@ -11,5 +11,4 @@ export default {
     'Alt Labs builds Web3 infrastructure user-friendly tools and interfaces for decentralized storage networks.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

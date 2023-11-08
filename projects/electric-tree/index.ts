@@ -8,8 +8,7 @@ export default {
   coingeckoId: null,
   id: 'xhfj9r',
   description:
-    'Electric Tree is a decentralized climate finance platform and community built to bridge the climate financing gap and foster the development of emerging carbon removal technologies.',
+    'Electric Tree is a decentralized climate finance platform built to bridge the climate financing gap for carbon removal.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

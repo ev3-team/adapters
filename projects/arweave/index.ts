@@ -57,5 +57,4 @@ export default {
     'myul3m',
   ],
   duneQueries: null,
-  cmcId: 5632,
 } satisfies AdapterProject

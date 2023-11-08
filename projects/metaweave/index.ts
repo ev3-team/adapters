@@ -11,5 +11,4 @@ export default {
     'Metaweave is a social permadapp enabling direct interaction with the Blockweave using Arweave wallet.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

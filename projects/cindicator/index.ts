@@ -11,5 +11,4 @@ export default {
     'Cindicator uses Hybrid Intelligence for stocks and crypto, with Bloomberg and Stoic as platforms.',
   investors: [],
   duneQueries: null,
-  cmcId: 2043,
 } satisfies AdapterProject

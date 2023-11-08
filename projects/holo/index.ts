@@ -11,5 +11,4 @@ export default {
     'Holo: P2P, open-source framework for decentralized applications with a focus on privacy and security.',
   investors: ['pcw959', 'ezlir7', '23uc3k', 'xvgf6w', '2wn9ev', 'yr1qhg', 'fuws95'],
   duneQueries: null,
-  cmcId: 2682,
 } satisfies AdapterProject

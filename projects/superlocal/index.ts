@@ -11,5 +11,4 @@ export default {
     'Superlocal is a social network and game that rewards you with points for checking in at various places.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

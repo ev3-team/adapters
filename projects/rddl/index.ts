@@ -10,5 +10,4 @@ export default {
   description: 'RDDL Network is a secure Refi and Defi protocol with trust anchors.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

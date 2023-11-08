@@ -11,5 +11,4 @@ export default {
     'MetaSpace: Decentralized 3D metaverse for interaction, gaming, concerts, and NFT trading.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

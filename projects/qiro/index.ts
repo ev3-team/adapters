@@ -10,5 +10,4 @@ export default {
   description: 'Qiro is a unified credit protocol enabling RWA-backed DeFi lending.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

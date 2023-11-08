@@ -11,5 +11,4 @@ export default {
     'Decentralized social media app where users tokenize profiles and buy/sell shares based on influence.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

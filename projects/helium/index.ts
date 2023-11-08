@@ -15,5 +15,4 @@ export default {
     SUPPLY: '3043582',
     TIME_SERIES: '2944860',
   },
-  cmcId: 5665,
 } satisfies AdapterProject

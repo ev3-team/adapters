@@ -10,5 +10,4 @@ export default {
   description: 'cheqd offers payment rails, decentralized identity, and trusted data.',
   investors: [],
   duneQueries: null,
-  cmcId: 12256,
 } satisfies AdapterProject

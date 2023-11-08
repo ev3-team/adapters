@@ -10,5 +10,4 @@ export default {
   description: 'Zion: decentralized platform for content flow, payments, and ownership (80)',
   investors: [],
   duneQueries: null,
-  cmcId: 25867,
 } satisfies AdapterProject

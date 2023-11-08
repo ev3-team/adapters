@@ -11,5 +11,4 @@ export default {
     'Logos provides trust-minimized, corruption-resistant governing services and institutions for citizens.',
   investors: [],
   duneQueries: null,
-  cmcId: 21744,
 } satisfies AdapterProject

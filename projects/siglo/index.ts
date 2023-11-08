@@ -10,5 +10,4 @@ export default {
   description: 'Siglo is a wireless internet service provider.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

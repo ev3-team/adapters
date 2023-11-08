@@ -11,5 +11,4 @@ export default {
     'everVision: Blockchain provider for Web3 development, offering everPay, Permaswap, PermaDAO, and Web3Infra.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Bitnost.re bridges Bittensor AI to Nostr social media protocol, building an access backbone for AI interaction.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

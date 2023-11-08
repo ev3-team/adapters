@@ -10,5 +10,4 @@ export default {
   description: 'tDrive is a decentralized storage platform built on the Telos Blockchain.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

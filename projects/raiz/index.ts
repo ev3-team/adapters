@@ -11,5 +11,4 @@ export default {
     'Raiz Building is a sustainable farming company providing energy efficient urban farms for local consumers.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

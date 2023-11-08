@@ -10,5 +10,4 @@ export default {
   description: 'Fluence - decentralized platform for creating peer-to-peer apps.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

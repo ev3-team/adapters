@@ -10,5 +10,4 @@ export default {
   description: 'Impermax: Cross-chain lending protocol offers yield for lenders and borrowers.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -41,5 +41,4 @@ export default {
     '935mux',
   ],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

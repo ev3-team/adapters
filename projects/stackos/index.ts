@@ -11,5 +11,4 @@ export default {
     'StackOS is a cross-chain open infrastructure protocol enabling decentralized cloud services.',
   investors: [],
   duneQueries: null,
-  cmcId: 9201,
 } satisfies AdapterProject

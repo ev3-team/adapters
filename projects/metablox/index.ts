@@ -11,5 +11,4 @@ export default {
     'Metablox is a provider of enterprise-grade WiFi roaming solutions, delivering worldwide public access.',
   investors: ['wu15kr', 'zaf9xh', '0z5mdu', 'amj5yq', 'o74yrz', 'rn3dd5', 'xf57bt'],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

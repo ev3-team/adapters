@@ -10,5 +10,4 @@ export default {
   description: 'ScPrime is a decentralized network of enterprise-grade cloud storage providers.',
   investors: ['mfsd6d'],
   duneQueries: null,
-  cmcId: 4074,
 } satisfies AdapterProject

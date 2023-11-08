@@ -10,5 +10,4 @@ export default {
   description: 'CIRUS: Control data, monetize through blockchain.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

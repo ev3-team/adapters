@@ -7,8 +7,8 @@ export default {
   token: 'QNT',
   coingeckoId: 'quant-network',
   id: '7u7rag',
-  description: 'Quant: enhance blockchain communication globally.',
+  description:
+    'Quant is a blockchain project aiming to improve global information communication efficiency.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

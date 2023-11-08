@@ -11,5 +11,4 @@ export default {
     'HealthBlocks is a decentralized health-oriented community that rewards users for a healthy lifestyle.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

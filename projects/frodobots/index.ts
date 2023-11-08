@@ -10,5 +10,4 @@ export default {
   description: 'Frodobots is an open real-world racing game with sidewalk robots.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

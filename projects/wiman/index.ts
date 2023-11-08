@@ -10,5 +10,4 @@ export default {
   description: 'Wiman offers global mobile WiFi for the sharing economy.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

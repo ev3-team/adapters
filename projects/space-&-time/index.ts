@@ -37,5 +37,4 @@ export default {
     '8agdnp',
   ],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

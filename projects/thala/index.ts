@@ -7,9 +7,7 @@ export default {
   token: 'THL',
   coingeckoId: 'thala',
   id: 'rrvozj',
-  description:
-    'Thala is a decentralized finance (DeFi) protocol native to the Aptos blockchain. The protocol revolves around two key products: Move Dollar and Thala Swap. ',
+  description: 'Thala is a DeFi protocol native to the Aptos blockchain.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

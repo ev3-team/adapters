@@ -10,5 +10,4 @@ export default {
   description: 'Mindsync connects AI enthusiasts, miners, and businesses for AI solutions.',
   investors: [],
   duneQueries: null,
-  cmcId: 10533,
 } satisfies AdapterProject

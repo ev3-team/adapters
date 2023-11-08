@@ -11,5 +11,4 @@ export default {
     'DexCheck: AI-powered Crypto & NFT Analytics platform for real-time insights and market analysis.',
   investors: [],
   duneQueries: null,
-  cmcId: 20009,
 } satisfies AdapterProject

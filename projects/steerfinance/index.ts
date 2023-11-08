@@ -10,5 +10,4 @@ export default {
   description: 'SteerFinance is a developer of decentralized compute protocols.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

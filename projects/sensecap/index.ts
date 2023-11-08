@@ -11,5 +11,4 @@ export default {
     'Sensecap: LoRaWAN IoT hardware for Helium hotspots, building decentralized networks.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

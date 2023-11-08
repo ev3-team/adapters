@@ -26,5 +26,4 @@ export default {
     'jdil01',
   ],
   duneQueries: null,
-  cmcId: 8894,
 } satisfies AdapterProject

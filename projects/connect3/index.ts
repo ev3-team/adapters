@@ -10,5 +10,4 @@ export default {
   description: 'Connect3 is a decentralized platform connecting users to relevant social data.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

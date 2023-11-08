@@ -10,5 +10,4 @@ export default {
   description: 'Decentralized AI protocol for personalized investment strategies.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

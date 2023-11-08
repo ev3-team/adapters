@@ -10,5 +10,4 @@ export default {
   description: 'Astria Developer: Decentralization platform replacing centralized sequencers.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

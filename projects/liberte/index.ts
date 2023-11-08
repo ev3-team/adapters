@@ -10,5 +10,4 @@ export default {
   description: 'Liberte is a DePIN compute framework for on-chain games.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

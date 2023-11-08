@@ -10,5 +10,4 @@ export default {
   description: 'Cherry: DAO building optimized blockchain for decentralized apps.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

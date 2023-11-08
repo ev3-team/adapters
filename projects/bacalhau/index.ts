@@ -10,5 +10,4 @@ export default {
   description: 'Bacalhau: Fast, efficient, secure computation platform.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

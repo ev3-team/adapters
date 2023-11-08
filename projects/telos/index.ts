@@ -11,5 +11,4 @@ export default {
     'Telos is a Layer-1 EVM blockchain with a DPoS consensus mechanism. It is EMV-compatible and powered by AntelopeIO.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

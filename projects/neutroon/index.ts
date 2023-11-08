@@ -11,5 +11,4 @@ export default {
     'Neutroon is a Network-as-a-Service platform enabling seamless deployment and management of private cellular networks.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Botto is a decentralized autonomous artist creating 350 art pieces/week, guided by community voting.',
   investors: [],
   duneQueries: null,
-  cmcId: 14345,
 } satisfies AdapterProject

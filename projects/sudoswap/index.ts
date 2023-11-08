@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'sudoswap',
+  name: 'Sudoswap',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SUDO',
@@ -11,5 +11,4 @@ export default {
     'sudoSwap: A gas-efficient AMM protocol for NFT-to-token swaps with customizable bonding curves. Supports various tokens.',
   investors: [],
   duneQueries: null,
-  cmcId: 21733,
 } satisfies AdapterProject

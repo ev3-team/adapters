@@ -11,5 +11,4 @@ export default {
     'Generaitiv: community-driven AI appstore empowering contributors with scalable approaches.',
   investors: [],
   duneQueries: null,
-  cmcId: 23634,
 } satisfies AdapterProject

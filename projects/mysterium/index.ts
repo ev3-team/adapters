@@ -10,5 +10,4 @@ export default {
   description: 'Mysterium is a decentralized wireless network.',
   investors: ['ujw2s3'],
   duneQueries: null,
-  cmcId: 1721,
 } satisfies AdapterProject

@@ -11,5 +11,4 @@ export default {
     'Colosseum is a fully on-chain fighting game company that facilitates bot battles and viewer betting.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

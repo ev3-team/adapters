@@ -13,5 +13,4 @@ export default {
   duneQueries: {
     REVENUE: '3079022',
   },
-  cmcId: null,
 } satisfies AdapterProject

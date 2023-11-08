@@ -11,5 +11,4 @@ export default {
     'Phala Network is a decentralised off-chain compute infrastructure enabling developers to enhance smart contracts.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

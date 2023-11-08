@@ -11,5 +11,4 @@ export default {
     'NomadPetition: Global citizens voices turned into actionable insights for governments.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

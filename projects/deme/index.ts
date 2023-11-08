@@ -10,5 +10,4 @@ export default {
   description: 'DeMe: a user privacy-focused social media with rewards.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

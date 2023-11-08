@@ -11,5 +11,4 @@ export default {
     'Agritoken: Tokenizing crop futures for efficient and transparent agricultural investing.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

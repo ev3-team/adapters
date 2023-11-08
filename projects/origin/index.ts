@@ -11,5 +11,4 @@ export default {
     'Origin Systems is a company that simplifies the process of getting started with LLMs.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject

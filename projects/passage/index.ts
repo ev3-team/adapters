@@ -10,5 +10,4 @@ export default {
   description: 'Passage connects virtual and physical experiences through creator-built games.',
   investors: [],
   duneQueries: null,
-  cmcId: null,
 } satisfies AdapterProject
