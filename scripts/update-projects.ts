@@ -8,7 +8,6 @@ import {
   projectToFileName,
   projectToVarName,
 } from '../helpers'
-import { getProjectCmcIdBySlug } from '../helpers/utils'
 import { AdapterProject } from '../projects'
 import {
   AdapterProjectCategory,
