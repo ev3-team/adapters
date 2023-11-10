@@ -96,7 +96,7 @@ export const generateProjectsDuneCsvRow = (p: AdapterProjectDuneCsvRow) =>
 
 /** Generates a row for the investors csv. */
 export const generateInvestorCsvRow = (i: Pick<AdapterInvestor, 'id' | 'name'>) =>
-  `${i.id},${i.name}`
+  `${i.name},${i.id}`
 
 type GenerateInvestorProjectsCsvRowArgs = {
   investor: Pick<AdapterInvestor, 'id' | 'name'>
@@ -114,6 +114,6 @@ export const generateInvestorProjectsCsvRow = ({
   projectsInvestedIds,
   projectIdColumns,
 }: GenerateInvestorProjectsCsvRowArgs) =>
-  `${investor.id},${investor.name},${projectIdColumns
+  `${investor.name},${investor.id},${projectIdColumns
     .map((projectIdColumn) => (projectsInvestedIds.includes(projectIdColumn) ? '1' : ''))
     .join(',')}`

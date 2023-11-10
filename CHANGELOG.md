@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.6
+
+### Patch Changes
+
+- investor CSVs row generators
+
 ## 0.3.5
 
 ### Patch Changes
