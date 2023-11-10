@@ -9,6 +9,6 @@ export default {
   id: 'k270zx',
   description:
     'Nosh is a food delivery provider aiming to economically sustain independent restaurants through their delivery service.',
-  investors: [],
+  investors: ['7zvxz8', 'q9qqsj'],
   duneQueries: null,
 } satisfies AdapterProject

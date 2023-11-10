@@ -9,7 +9,7 @@ export default {
   id: 'xz6ffz',
   description:
     'WiFi Map is a decentralized connectivity ecosystem mapping 10m+ WiFi hotspots globally.',
-  investors: ['7zvxz8', 'i98114', 'p99cdg'],
+  investors: ['i98114', '7zvxz8', 'p99cdg'],
   duneQueries: {
     BURN: '2944858',
     LOCKED_BALANCE: '2944856',

@@ -11,12 +11,12 @@ export default {
     'OriginTrail is a decentralized knowledge graph enabling trustless knowledge sharing for everyone.',
   investors: [
     'buime9',
-    '9n4okv',
     'll751s',
     'wbcogs',
     'ihu5wn',
     'mzkbyc',
     'l3ticj',
+    '9n4okv',
     'exn39e',
     'mv230f',
   ],

@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'bittensor',
   id: 'hq4rl7',
   description: 'Bittensor is a peer-to-peer machine intelligence network.',
-  investors: ['5yy6cw', 'tqh3bl', 'rzyh4k'],
+  investors: ['5yy6cw', 'rzyh4k', 'tqh3bl'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: '3gatyy',
   description:
     'Starpower is an infrastructure company connecting distributed energy resources to decarbonize the energy sector.',
-  investors: [],
+  investors: ['hhudw8'],
   duneQueries: null,
 } satisfies AdapterProject

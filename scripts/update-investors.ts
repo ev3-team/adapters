@@ -8,7 +8,6 @@ import { AdapterInvestor } from '../investors/types'
 /** Loop over the projects investors csv to get the total number of invested projects for each investor. */
 export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
   let index = 0
-  let investorsIds: string[] = []
   const investorsProjectsCount = new Map<string, number>()
 
   return new Promise((resolve) => {
@@ -17,26 +16,8 @@ export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
       .on('error', (error) => console.error(error))
       .on('data', async (row: string[]) => {
         index++
-
-        if (index === 1) {
-          investorsIds = row.slice(3, row.length)
-          row.slice(3, row.length).forEach((investorId) => {
-            investorsProjectsCount.set(investorId, 0)
-          })
-          return
-        }
-
-        // ignore rows 2 and 3
-        if (index === 2 || index === 3) return
-
-        row.slice(3, row.length).forEach((flag, idx) => {
-          const isActive = Boolean(flag)
-          if (isActive) {
-            const investorId = investorsIds[idx]
-            const currentValue = Number(investorsProjectsCount.get(investorId))
-            investorsProjectsCount.set(investorId, currentValue + 1)
-          }
-        })
+        if (index === 1 || index === 2) return
+        investorsProjectsCount.set(row[1], row.slice(2, row.length).filter(Boolean).length)
       })
       .on('end', () => resolve(investorsProjectsCount))
   })

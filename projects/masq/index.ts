@@ -10,12 +10,12 @@ export default {
   description:
     'MASQ is a decentralized VPN network built on Polygon, providing secure and private internet browsing.',
   investors: [
-    '5yy6cw',
-    'jqz0zw',
-    '7ygqh2',
     '6ueww6',
-    'n5z0zx',
+    '7ygqh2',
     'gjt0lb',
+    '5yy6cw',
+    'n5z0zx',
+    'jqz0zw',
     'jynpbk',
     'aj1xux',
     'cw96ak',

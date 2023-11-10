@@ -9,6 +9,6 @@ export default {
   id: 'olxxfj',
   description:
     'Foam is a blockchain-based platform enabling crowdsourced maps and decentralized location services.',
-  investors: ['vjpj24', 'bku3ew', 'ujw2s3', 'sknhsa', 'lxw0ql'],
+  investors: ['sknhsa', 'lxw0ql', 'ujw2s3', 'vjpj24', 'bku3ew'],
   duneQueries: null,
 } satisfies AdapterProject

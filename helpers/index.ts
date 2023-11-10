@@ -93,3 +93,27 @@ export type AdapterProjectDuneCsvRow = {
 /** Generates a row for the projects dune csv. */
 export const generateProjectsDuneCsvRow = (p: AdapterProjectDuneCsvRow) =>
   `${p.name},${p.id},${p.BURN},${p.LOCKED_BALANCE},${p.MINT},${p.PRICE},${p.REVENUE},${p.SUPPLY},${p.TIME_SERIES}`
+
+/** Generates a row for the investors csv. */
+export const generateInvestorCsvRow = (i: Pick<AdapterInvestor, 'id' | 'name'>) =>
+  `${i.id},${i.name}`
+
+type GenerateInvestorProjectsCsvRowArgs = {
+  investor: Pick<AdapterInvestor, 'id' | 'name'>
+
+  /** The list of ids the given projects has invested in. */
+  projectsInvestedIds: string[]
+
+  /** List of existing projects ids at `DePIN-Projects-Investors.csv` (second row) */
+  projectIdColumns: string[]
+}
+
+/** Generates a row for the investors/projects csv. */
+export const generateInvestorProjectsCsvRow = ({
+  investor,
+  projectsInvestedIds,
+  projectIdColumns,
+}: GenerateInvestorProjectsCsvRowArgs) =>
+  `${investor.id},${investor.name},${projectIdColumns
+    .map((projectIdColumn) => (projectsInvestedIds.includes(projectIdColumn) ? '1' : ''))
+    .join(',')}`

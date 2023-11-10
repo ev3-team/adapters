@@ -18,7 +18,7 @@ import {
 /** Loop over the projects investors csv to get investors for each project. */
 export function getProjectsInvestors(): Promise<Map<string, string[]>> {
   let index = 0
-  let investorsIds: string[] = []
+  let projectsIds: string[] = []
   const projectsInvestors = new Map<string, string[]>()
 
   return new Promise((resolve) => {
@@ -27,20 +27,26 @@ export function getProjectsInvestors(): Promise<Map<string, string[]>> {
       .on('error', (error) => console.error(error))
       .on('data', async (row: string[]) => {
         index++
-        if (index === 1) {
-          investorsIds = row.slice(3, row.length)
+        // ignore row 1
+        if (index === 1) return
+
+        if (index === 2) {
+          projectsIds = row.slice(3, row.length)
+          row.slice(3, row.length).forEach((projectId) => {
+            projectsInvestors.set(projectId, [])
+          })
           return
         }
 
-        // ignore rows 2 and 3
-        if (index === 2 || index === 3) return
-        const projectId = row[1]
-        const investors = row
-          .slice(3, row.length)
-          .map((value, idx) => (Boolean(value) ? investorsIds[idx] : undefined))
-          .filter(Boolean)
-
-        projectsInvestors.set(projectId, investors as string[])
+        row.slice(3, row.length).forEach((flag, idx) => {
+          const isActive = Boolean(flag)
+          if (isActive) {
+            const investorId = row[1]
+            const projectId = projectsIds[idx]
+            const currentValue = projectsInvestors.get(projectId) ?? []
+            projectsInvestors.set(projectId, currentValue.concat(investorId))
+          }
+        })
       })
       .on('end', () => resolve(projectsInvestors))
   })

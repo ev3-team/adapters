@@ -10,13 +10,13 @@ export default {
   description:
     'Storj is a decentralized cloud storage platform using nodes to host user data in an open-source environment.',
   investors: [
-    'ka4f30',
     'bwghh0',
-    'gftio8',
     'dj1vvq',
     'mcmawl',
     'tkprcc',
+    'gftio8',
     'poi7q4',
+    'ka4f30',
     '93y2fv',
     'vwcz53',
     'yvvzur',

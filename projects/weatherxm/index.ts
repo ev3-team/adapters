@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'weatherxm',
   id: 'ff9s3p',
   description: 'WeatherXM is a decentralized weather data collection network.',
-  investors: ['ti312b', 'buo8ql', 'bku3ew', 'lszufu', 'vh40ts', 'rfveqw', 'n2t98d'],
+  investors: ['buo8ql', 'vh40ts', 'rfveqw', 'n2t98d', 'lszufu', 'bku3ew', 'ti312b'],
   duneQueries: null,
 } satisfies AdapterProject

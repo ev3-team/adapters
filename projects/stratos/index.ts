@@ -10,16 +10,16 @@ export default {
   description:
     'Stratos is a decentralized computing network for efficient and secure data processing.',
   investors: [
-    'wu15kr',
-    'gj9v6c',
-    'gun7y3',
     'go7fr1',
-    'n5z0zx',
-    'eud02c',
+    'gun7y3',
     'w5zdpw',
+    'n5z0zx',
     'micofj',
     'udx6pg',
     'i2jpqr',
+    'wu15kr',
+    'gj9v6c',
+    'eud02c',
   ],
   duneQueries: null,
 } satisfies AdapterProject

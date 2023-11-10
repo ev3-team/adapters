@@ -24,6 +24,9 @@ export type AdapterProjectChain =
   | 'GNOSIS'
   | 'FILECOIN'
   | 'VECHAIN'
+  | 'PEAQ'
+  | 'XDC'
+  | 'APTOS'
 
 export type AdapterProjectDuneQueryIdentifiers = {
   BURN?: string

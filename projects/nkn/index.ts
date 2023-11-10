@@ -10,13 +10,13 @@ export default {
   description:
     'NKN is a peer-to-peer network connectivity protocol that enables decentralized and secure communication between devices.',
   investors: [
-    '07pxi6',
-    'ztpy5d',
-    '35e9e6',
-    '52fjgj',
-    'wlc0pw',
     'ezlir7',
+    'ztpy5d',
     'addxil',
+    '35e9e6',
+    'wlc0pw',
+    '07pxi6',
+    '52fjgj',
     '24ormv',
     'o6u62z',
   ],
