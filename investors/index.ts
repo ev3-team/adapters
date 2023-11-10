@@ -85,6 +85,7 @@ import benjamincrane from './benjamin-crane'
 import benjaminjacobs from './benjamin-jacobs'
 import beringwaters from './bering-waters'
 import bessemer from './bessemer'
+import bestinvestorever from './best-investor-ever'
 import betoken from './betoken'
 import bigbrain from './big-brain'
 import binance from './binance'
@@ -843,6 +844,7 @@ export const investors = {
   benjaminjacobs,
   beringwaters,
   bessemer,
+  bestinvestorever,
   betoken,
   bigbrain,
   binance,

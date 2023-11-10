@@ -55,6 +55,7 @@ export default {
     'vuz4in',
     '9kybya',
     'myul3m',
+    'g9ymb3',
   ],
   duneQueries: null,
 } satisfies AdapterProject

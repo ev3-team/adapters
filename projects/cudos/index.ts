@@ -30,6 +30,7 @@ export default {
     'vjpj24',
     'nxirg2',
     'zcdny8',
+    'g9ymb3',
   ],
   duneQueries: null,
 } satisfies AdapterProject
