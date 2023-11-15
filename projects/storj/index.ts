@@ -25,5 +25,8 @@ export default {
     '1a1vr9',
     'd7kmmw',
   ],
-  duneQueries: null,
+  duneQueries: {
+    BURN: '3202771',
+    PRICE: '3202773',
+  },
 } satisfies AdapterProject
