@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.7
+
+### Patch Changes
+
+- add storj dune queries
+
 ## 0.3.6
 
 ### Patch Changes
