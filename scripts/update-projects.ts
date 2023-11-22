@@ -71,6 +71,7 @@ export function getProjectsDuneQueries(): Promise<
         if (row.REVENUE) queries.REVENUE = row.REVENUE
         if (row.SUPPLY) queries.SUPPLY = row.SUPPLY
         if (row.TIME_SERIES) queries.TIME_SERIES = row.TIME_SERIES
+        if (row.KEY_METRIC) queries.KEY_METRIC = row.KEY_METRIC
 
         projectsDuneQueries.set(row.id, Object.values(queries).length > 0 ? queries : null)
       })
