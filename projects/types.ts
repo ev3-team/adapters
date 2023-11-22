@@ -36,6 +36,7 @@ export type AdapterProjectDuneQueryIdentifiers = {
   REVENUE?: string
   SUPPLY?: string
   TIME_SERIES?: string
+  KEY_METRIC?: string
 }
 
 export type AdapterProject = {

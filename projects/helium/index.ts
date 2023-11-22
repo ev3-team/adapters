@@ -14,5 +14,6 @@ export default {
     REVENUE: '2944853',
     SUPPLY: '3043582',
     TIME_SERIES: '2944860',
+    KEY_METRIC: '3223298',
   },
 } satisfies AdapterProject
