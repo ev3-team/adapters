@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.8
+
+### Patch Changes
+
+- add dune query with new colume - KEY_METRIC
+
 ## 0.3.7
 
 ### Patch Changes
