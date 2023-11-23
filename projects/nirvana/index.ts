@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'u2tfjc',
   description: 'Nirvana Labs: web3 infrastructure for blockchain apps.',
-  investors: [],
+  investors: ['q9qqsj', '6mh2rx'],
   duneQueries: null,
 } satisfies AdapterProject

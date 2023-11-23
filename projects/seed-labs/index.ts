@@ -9,6 +9,6 @@ export default {
   id: 'ixg6ts',
   description:
     'Seed Labs is a collectively owned, community-first, open early stage venture capital.',
-  investors: [],
+  investors: ['qrf4l1'],
   duneQueries: null,
 } satisfies AdapterProject

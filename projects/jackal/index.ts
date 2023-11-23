@@ -9,6 +9,6 @@ export default {
   id: '127k4x',
   description:
     'Jackal is a decentralized cloud storage network designed to safeguard extremely sensitive data.',
-  investors: ['n01vko', 'hqx0t6', '2bl1fj', 'tgz7v9'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'yih1xv',
   description: 'Wire: blockchain with APOS consensus for user growth.',
-  investors: [],
+  investors: ['buime9'],
   duneQueries: null,
 } satisfies AdapterProject

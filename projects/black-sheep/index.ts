@@ -9,6 +9,6 @@ export default {
   id: 'dg3bp5',
   description:
     'Black Sheep Group is a decentralized marketplace simplifying investing in Web3 assets.',
-  investors: [],
+  investors: ['hfmbi5'],
   duneQueries: null,
 } satisfies AdapterProject

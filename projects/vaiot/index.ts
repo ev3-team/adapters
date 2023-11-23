@@ -9,6 +9,6 @@ export default {
   id: 'sa6vqu',
   description:
     'Vaiot is a provider of blockchain-based AI Assistants and on-chain Intelligent Contracts for businesses and consumers.',
-  investors: [],
+  investors: ['5252r4'],
   duneQueries: null,
 } satisfies AdapterProject

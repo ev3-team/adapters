@@ -9,6 +9,6 @@ export default {
   id: 'm5egmn',
   description:
     'Quantinum: Institutional-grade blockchain, integrating decentralization, scalability, sustainability, and cybersecurity.',
-  investors: [],
+  investors: ['7zvxz8'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: '8deftt',
   description: 'NeuralAgent is a global network of low-cost transportation infrastructure.',
-  investors: [],
+  investors: ['vmmb09'],
   duneQueries: null,
 } satisfies AdapterProject

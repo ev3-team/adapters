@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'h56lyg',
   description: 'Bluebird Power: Decentralized energy management platform.',
-  investors: [],
+  investors: ['ot98pp'],
   duneQueries: null,
 } satisfies AdapterProject

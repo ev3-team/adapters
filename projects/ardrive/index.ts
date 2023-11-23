@@ -1,0 +1,36 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'ArDrive',
+  chain: null,
+  category: 'COMPUTE',
+  token: null,
+  coingeckoId: null,
+  id: 'e9qw0z',
+  description:
+    'ar.io is a network of decentralized gateways and permanent domains for the Arweave ecosystem.',
+  investors: [
+    'bspyld',
+    'zloyr1',
+    'hhudw8',
+    'te4xtz',
+    'ri09e0',
+    'maid89',
+    'm6mz4i',
+    'b1hrk6',
+    'qxxzbk',
+    'uktppp',
+    'wir0cg',
+    'vkntey',
+    'i1x9du',
+    'po8xe3',
+    'thxgaw',
+    'bah2fw',
+    'aly00l',
+    'ukwp87',
+    '06o6kd',
+    'cgmkn8',
+    'pu3yyr',
+  ],
+  duneQueries: null,
+} satisfies AdapterProject

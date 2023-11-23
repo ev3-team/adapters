@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: '61zuw7',
   description: 'IO.Net is a decentralized computing platform for ML applications built on Solana.',
-  investors: [],
+  investors: ['2g0699'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'v81ftp',
   name: 'GSR',
-  investedProjectsCount: 2,
+  investedProjectsCount: 12,
 } satisfies AdapterInvestor

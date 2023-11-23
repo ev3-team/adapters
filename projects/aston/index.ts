@@ -9,6 +9,6 @@ export default {
   id: '7wi7uw',
   description:
     'Aston Labs: Decentralized energy & infrastructure network. Aston Tokens = network ownership.',
-  investors: [],
+  investors: ['4zunln', 'dc47oz', 'o217a6', 'lcoyia'],
   duneQueries: null,
 } satisfies AdapterProject

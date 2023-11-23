@@ -9,6 +9,6 @@ export default {
   id: '80us6v',
   description:
     'WeHealth: Innovative digital solutions for remote patient monitoring and personalized healthcare.',
-  investors: [],
+  investors: ['trl8xo'],
   duneQueries: null,
 } satisfies AdapterProject

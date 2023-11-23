@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'xemx4j',
   name: 'ZMT',
-  investedProjectsCount: 1,
+  investedProjectsCount: 4,
 } satisfies AdapterInvestor

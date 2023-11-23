@@ -9,6 +9,6 @@ export default {
   id: 'zc045a',
   description:
     'Tanssi is a blockchain protocol simplifying app chain deployment for appchain infrastructure.',
-  investors: [],
+  investors: ['csfyvy', 'buo8ql', 'h97beq', 'm6mz4i', 'mywjsu', 'nxzb7m', 'vkntey', '8zouxb'],
   duneQueries: null,
 } satisfies AdapterProject

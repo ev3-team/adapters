@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'cvzsdf',
   description: 'Zeppelin aims to be the global leader in decentralized wireless infrastructure.',
-  investors: [],
+  investors: ['hol96b', 'rmj9ht', 'v81ftp'],
   duneQueries: null,
 } satisfies AdapterProject

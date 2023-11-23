@@ -9,6 +9,6 @@ export default {
   id: 'ks1fra',
   description:
     'exaBITS is a decentralized infrastructure for AI and computationally intensive applications.',
-  investors: [],
+  investors: ['yont93', 'vjpj24', '9cx2zp'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'g7czmv',
   description:
     'Brastorne proves access to information, markets, and community through easy and affordable internet access in Africa.',
-  investors: [],
+  investors: ['8n52xb', 'rwkoys', 'yont93', '7iz9rv'],
   duneQueries: null,
 } satisfies AdapterProject

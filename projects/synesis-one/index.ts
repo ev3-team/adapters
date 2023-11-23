@@ -9,6 +9,6 @@ export default {
   id: 'mhf5jn',
   description:
     'Synesis One is a data crowdsourcing platform where anyone can earn $SNS by completing micro-tasks that train AI.',
-  investors: [],
+  investors: ['5qx1w8'],
   duneQueries: null,
 } satisfies AdapterProject

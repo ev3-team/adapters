@@ -9,6 +9,6 @@ export default {
   id: '2qrtt6',
   description:
     'Privasea is a privacy-focused AI network utilizing Fully Homomorphic Encryption to secure data during computations.',
-  investors: [],
+  investors: ['mrgeec', 'gi55pp', 'e0wtte'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: '9093bo',
   description:
     'Alt Labs builds Web3 infrastructure user-friendly tools and interfaces for decentralized storage networks.',
-  investors: [],
+  investors: ['iebjfe'],
   duneQueries: null,
 } satisfies AdapterProject

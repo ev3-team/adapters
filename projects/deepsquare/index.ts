@@ -9,6 +9,6 @@ export default {
   id: '5ymc3k',
   description:
     'DeepSquare is a company building an energy-efficient cloud computing ecosystem by reusing ICT generated heat.',
-  investors: [],
+  investors: ['akmu2d', 'vjpj24', 'nnrh00'],
   duneQueries: null,
 } satisfies AdapterProject

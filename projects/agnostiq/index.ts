@@ -9,6 +9,19 @@ export default {
   id: 'anzeat',
   description:
     'Agnostiq develops Covalent, an open-source workflow platform for quantum computing and HPC.',
-  investors: [],
+  investors: [
+    '3l4dh0',
+    'ymiffp',
+    '94mx0d',
+    '6erxyq',
+    'lod09d',
+    'ambkkn',
+    'nj1mri',
+    'wpxgx7',
+    'r8l1ds',
+    'i4yuim',
+    'dwir0a',
+    'zhen2r',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

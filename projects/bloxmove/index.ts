@@ -1,0 +1,14 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'bloXmove',
+  chain: 'ETHEREUM',
+  category: 'OTHER',
+  token: 'BLXM',
+  coingeckoId: 'bloxmove-erc20',
+  id: '3xdu4v',
+  description:
+    'bloXmove is developing a Mobility Blockchain Platform. The open mobility protocol is based on the BLXM token. By earning or holding this token, companies can connect their vehicles to bloXmove to offer decentralized mobility services. Users can consume these services with BLXM.',
+  investors: ['m8rgyb', 'pbunpe', 'n01vko', 'xgnbev', 'h8sw72', 'vjpj24', 'w19rhh', 'r0huce'],
+  duneQueries: null,
+} satisfies AdapterProject

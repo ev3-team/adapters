@@ -9,6 +9,6 @@ export default {
   id: 'hq0zgu',
   description:
     'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',
-  investors: [],
+  investors: ['9jairy'],
   duneQueries: null,
 } satisfies AdapterProject

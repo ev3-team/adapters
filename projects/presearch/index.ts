@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'presearch',
   id: '7mrkii',
   description: 'Presearch is a decentralized search engine.',
-  investors: ['bry9hm', 'buime9', '9954ez'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

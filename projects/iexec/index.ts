@@ -9,6 +9,6 @@ export default {
   id: '2drl3l',
   description:
     'RLC: Monetize or rent out computational resources, datasets, and applications through iExec.',
-  investors: ['bwghh0', '0f1owq', 'gftio8', 'xgzede'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

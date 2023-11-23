@@ -8,7 +8,7 @@ export default {
   coingeckoId: null,
   id: 'jduldq',
   description:
-    'Opis Group is a British blockchain tech company focusing on computing, cloud and gaming apps. ',
+    'Opis Group is a British blockchain tech company focusing on computing, cloud and gaming apps.',
   investors: [],
   duneQueries: null,
 } satisfies AdapterProject

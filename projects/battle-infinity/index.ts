@@ -9,6 +9,6 @@ export default {
   id: 'qx4wxc',
   description:
     'Battle Infinity: Metaverse gaming platform with P2E battle games in IBAT Battle Arena.',
-  investors: [],
+  investors: ['dmrl2k'],
   duneQueries: null,
 } satisfies AdapterProject

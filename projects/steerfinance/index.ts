@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'nfdwqm',
   description: 'SteerFinance is a developer of decentralized compute protocols.',
-  investors: [],
+  investors: ['4l8mmr', 'j1rzkc', 'unykak'],
   duneQueries: null,
 } satisfies AdapterProject

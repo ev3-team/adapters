@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'u43dxj',
   description: 'We help enterprises deploy fine-tuned LLMs for enterprise analytics.',
-  investors: [],
+  investors: ['jt8hmb', 'dvmxh1', 'wdtkj1'],
   duneQueries: null,
 } satisfies AdapterProject

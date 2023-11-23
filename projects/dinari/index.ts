@@ -9,6 +9,6 @@ export default {
   id: 'u586qc',
   description:
     'Dinari: dShare Platform with real-world asset backed tokens, granting access to securities on Arbitrum network.',
-  investors: [],
+  investors: ['vmqmcr', 'jtzx5o', '896jil', 'lv72w4', 'ga1lv7', 'fa49nd', '9kybya'],
   duneQueries: null,
 } satisfies AdapterProject

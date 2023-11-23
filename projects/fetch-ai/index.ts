@@ -21,7 +21,7 @@ export default {
     '948drp',
     'vjpj24',
     '44u6gg',
-    'gj9v6c',
+    'pyukl2',
   ],
   duneQueries: null,
 } satisfies AdapterProject

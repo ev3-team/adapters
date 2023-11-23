@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'aimedis-new',
   id: 'p864om',
   description: 'Aimedis: Blockchain-based eHealth with medical apps and NFT marketplace.',
-  investors: [],
+  investors: ['jkryns', 'imxksv'],
   duneQueries: null,
 } satisfies AdapterProject

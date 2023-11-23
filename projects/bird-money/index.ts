@@ -9,6 +9,6 @@ export default {
   id: '64mpyg',
   description:
     'Bird is a decentralized oracle providing blockchain developers with analytics products for web platforms.',
-  investors: [],
+  investors: ['mrgeec'],
   duneQueries: null,
 } satisfies AdapterProject

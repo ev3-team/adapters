@@ -6,9 +6,9 @@ export default {
   category: 'OTHER',
   token: null,
   coingeckoId: null,
-  id: '53gxbb',
+  id: 'aexn5y',
   description:
     'Rymedi is a blockchain-enabled platform empowering health workers and patients to improve the quality of care.',
-  investors: [],
+  investors: ['ltitbn', 'hbpmm3', 'spe24s', 'l2sa3p', 'pixi8p', 'o3c9bd'],
   duneQueries: null,
 } satisfies AdapterProject

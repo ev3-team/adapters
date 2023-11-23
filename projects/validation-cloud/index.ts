@@ -9,6 +9,6 @@ export default {
   id: 'rzmrjq',
   description:
     'Validation Cloud is a Web3 infrastructure platform that delivers elite, high-performance node and staking infrastructure.',
-  investors: [],
+  investors: ['nk4njt', '6bvve4'],
   duneQueries: null,
 } satisfies AdapterProject

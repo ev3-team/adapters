@@ -7,7 +7,7 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'vc3622',
-  description: 'Aragon is a software tools provider for direct democracy. ',
+  description: 'Aragon is a software tools provider for direct democracy.',
   investors: [],
   duneQueries: null,
 } satisfies AdapterProject

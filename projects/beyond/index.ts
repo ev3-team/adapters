@@ -9,6 +9,6 @@ export default {
   id: '3kk637',
   description:
     'Beyond Protocol is a blockchain for IoT, providing decentralized security layer and smart contracts.',
-  investors: [],
+  investors: ['9edg3l', 'gkv33p'],
   duneQueries: null,
 } satisfies AdapterProject

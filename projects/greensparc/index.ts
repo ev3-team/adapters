@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'j8knk9',
   description: 'Greensparc: Sustainable computing and ESG analytics.',
-  investors: [],
+  investors: ['pkaqi7', 'a3dnz6'],
   duneQueries: null,
 } satisfies AdapterProject

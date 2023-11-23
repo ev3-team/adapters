@@ -9,6 +9,6 @@ export default {
   id: 'xexd0a',
   description:
     'Untangled.Finance bridges traditional and DeFi, bringing institutional-grade, real-world assets on chain.',
-  investors: [],
+  investors: ['5sjxy4', 'njueo3'],
   duneQueries: null,
 } satisfies AdapterProject

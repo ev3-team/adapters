@@ -9,6 +9,6 @@ export default {
   id: 'o1pv7k',
   description:
     'Streamr is a decentralised protocol providing data pipelines, network analytics, and instant messaging.',
-  investors: ['73kuet', 'cm89up'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

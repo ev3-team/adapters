@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 's1f9ke',
   description: 'Millicent Labs upgrades financial systems with distributed ledger technology.',
-  investors: [],
+  investors: ['94mx0d'],
   duneQueries: null,
 } satisfies AdapterProject

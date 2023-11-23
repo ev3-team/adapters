@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'ethermail',
   id: 'hoaz0e',
   description: 'EtherMail: secure, anonymous email with blockchain rewards.',
-  investors: [],
+  investors: ['q8to28', 'uwmmpg', '4x7qfo', 'wir0cg', 'uv5644', 'qmxifm', 'hcdvrk', 'beuueu'],
   duneQueries: null,
 } satisfies AdapterProject

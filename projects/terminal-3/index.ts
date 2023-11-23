@@ -9,6 +9,6 @@ export default {
   id: 'gf055c',
   description:
     'Terminal 3: Web3 startup for decentralized data storage, providing privacy and security.',
-  investors: [],
+  investors: ['vmqmcr', 'gun7y3', '7fb6dj', 'xs4jo6', 'l70dye', 'vh40ts', 'qreqzv', '9n4okv'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'pyz7yz',
   description:
     'XNET is a blockchain-powered mobile carrier building neutral-host telecommunications infrastructure.',
-  investors: ['7zvxz8'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

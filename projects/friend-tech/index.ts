@@ -9,6 +9,6 @@ export default {
   id: 'w9son4',
   description:
     'Decentralized social media app where users tokenize profiles and buy/sell shares based on influence.',
-  investors: [],
+  investors: ['tfi9fe'],
   duneQueries: null,
 } satisfies AdapterProject

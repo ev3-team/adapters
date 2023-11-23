@@ -9,6 +9,6 @@ export default {
   id: 'hqj4vb',
   description:
     'US3R: Dev platform and dApps with composable data using Ceramic for decentralized storage.',
-  investors: [],
+  investors: ['772xwk'],
   duneQueries: null,
 } satisfies AdapterProject

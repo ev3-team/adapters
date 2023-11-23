@@ -9,6 +9,6 @@ export default {
   id: 's1imi6',
   description:
     'Weavechain is a secure data exchange layer that unlocks Web3 immutability and data lineage.',
-  investors: [],
+  investors: ['idlbd7', 'uoqi1k', '1vwual', 'zxs7x9'],
   duneQueries: null,
 } satisfies AdapterProject
