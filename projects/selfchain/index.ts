@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'SelfChain',
   chain: null,
-  category: 'Ai',
+  category: 'AI',
   token: null,
   coingeckoId: null,
   id: '151ado',
