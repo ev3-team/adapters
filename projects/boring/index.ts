@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'boring-protocol',
   id: 'whkmqt',
   description: 'Boring is a decentralized VPN and peer-to-peer bandwidth market.',
-  investors: ['oigjdf'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

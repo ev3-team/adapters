@@ -1,0 +1,37 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'MetaEngine',
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coingeckoId: null,
+  id: 'l7klou',
+  description:
+    'MetaEngine is a decentralized all-in-one platform for the development and publishing of GameFi / Metaverse games and apps.',
+  investors: [
+    's7b833',
+    'm8rgyb',
+    'f9c32j',
+    'kk3ihr',
+    'n01vko',
+    '98rame',
+    '5d2mm5',
+    'zyxvem',
+    'wc20rz',
+    'zr0rlv',
+    'jcbbxl',
+    '97h38q',
+    '4ssdn4',
+    'qqc9zd',
+    'kjm7ph',
+    'rd2mzf',
+    'rio4tg',
+    '8agdnp',
+    'unykak',
+    '03zdwj',
+    '3qflb4',
+    '2wn9ev',
+  ],
+  duneQueries: null,
+} satisfies AdapterProject

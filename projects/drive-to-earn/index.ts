@@ -6,7 +6,7 @@ export default {
   category: 'LABOR',
   token: 'DTE',
   coingeckoId: 'drive-to-earn',
-  id: '7v7go4',
+  id: 'bj8kjt',
   description: 'Drive to Earn is Web3.0 project that will revolutionize the drive market.',
   investors: [],
   duneQueries: null,

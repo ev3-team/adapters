@@ -9,6 +9,6 @@ export default {
   id: '0tmpgv',
   description:
     '4everland is a decentralized cloud provider integrating storage, computing, and networking resources.',
-  investors: ['ympohv', 'gun7y3', 'lfbmt3', 'wlc0pw', 'baurlm', 'xcrhi8'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

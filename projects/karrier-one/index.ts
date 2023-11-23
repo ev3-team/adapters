@@ -9,6 +9,6 @@ export default {
   id: 'j9n1l6',
   description:
     'Karrier One is a mobile network company running on decentralized telecom infrastructure.',
-  investors: ['7zvxz8', '6gj1wa', 'bpq2ge'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

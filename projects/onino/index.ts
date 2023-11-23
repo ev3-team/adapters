@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'oni-token',
   id: 'vybtqu',
   description: 'ONINO enables developers to create identity-based dapps with privacy by default.',
-  investors: [],
+  investors: ['9cbuy7'],
   duneQueries: null,
 } satisfies AdapterProject

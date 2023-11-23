@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'f5qe2h',
   description: '3Num connects mobile subscribers for secure communication.',
-  investors: [],
+  investors: ['zpuq9r', 'ibk8eu', 'jo973z', 't105wi'],
   duneQueries: null,
 } satisfies AdapterProject

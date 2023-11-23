@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'world-mobile-token',
   id: 'fo1iua',
   description: 'World Mobile is a decentralized mobile network operating globally.',
-  investors: ['997bzs', 'i98114', '5252r4', 'o7axgq'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

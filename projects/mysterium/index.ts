@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'mysterium',
   id: '8ci5ud',
   description: 'Mysterium is a decentralized wireless network.',
-  investors: ['ujw2s3'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

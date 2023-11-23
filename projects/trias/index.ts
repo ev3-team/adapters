@@ -9,6 +9,6 @@ export default {
   id: 'gcp7d3',
   description:
     'Trias is a cloud infrastructure solution with a native-application-compatible platform and token ecosystem.',
-  investors: [],
+  investors: ['772xwk', '9p60sa', '07pxi6', 'pyukl2'],
   duneQueries: null,
 } satisfies AdapterProject

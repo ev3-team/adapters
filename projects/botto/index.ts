@@ -9,6 +9,6 @@ export default {
   id: 'uyclvb',
   description:
     'Botto is a decentralized autonomous artist creating 350 art pieces/week, guided by community voting.',
-  investors: [],
+  investors: ['ubuz3j'],
   duneQueries: null,
 } satisfies AdapterProject

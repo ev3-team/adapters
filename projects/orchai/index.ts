@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'h6vfie',
   description: 'Orchai: AI-powered DeFi platform optimizing asset flow.',
-  investors: [],
+  investors: ['9e7ewb'],
   duneQueries: null,
 } satisfies AdapterProject

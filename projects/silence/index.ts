@@ -9,6 +9,16 @@ export default {
   id: 'j2py3v',
   description:
     'Silence Labs is a cybersecurity company specializing in decentralized MFA and MPC-based authentication.',
-  investors: [],
+  investors: [
+    'yp152d',
+    'c7zvou',
+    'oxwb9m',
+    '26rhvc',
+    'w9dy7u',
+    'llw1q8',
+    'pbk8is',
+    'rnspgp',
+    'm8xiuk',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

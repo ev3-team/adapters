@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'juno-network',
   id: 'e277dp',
   description: 'Juno is decentralized network for interoperable apps',
-  investors: [],
+  investors: ['vxxepe'],
   duneQueries: null,
 } satisfies AdapterProject

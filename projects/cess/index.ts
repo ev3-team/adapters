@@ -9,6 +9,6 @@ export default {
   id: 'qdkzic',
   description:
     'CESS is a decentralized cloud storage network supporting enterprise-level applications.',
-  investors: [],
+  investors: ['w9rvnt', '870le2'],
   duneQueries: null,
 } satisfies AdapterProject

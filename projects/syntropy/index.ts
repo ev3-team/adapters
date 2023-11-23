@@ -9,6 +9,19 @@ export default {
   id: 'm9yv19',
   description:
     'Syntropy is a multi-chain data availability layer offering decentralized, scalable access to on-chain data.',
-  investors: [],
+  investors: [
+    'buime9',
+    'kmkpmm',
+    'nx7p3n',
+    'k8v3go',
+    '0jqary',
+    'xfwkcl',
+    '7e0mh4',
+    '6uctn4',
+    'xgzede',
+    'mc0vmp',
+    '4rmqk4',
+    '5rmf8c',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

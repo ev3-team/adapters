@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: '51ffds',
   description: 'Prodia is an easy-to-use Stable Diffusion API for AI-powered image generation.',
-  investors: [],
+  investors: ['ztdj15', 'hqx0t6', 'lay4ny'],
   duneQueries: null,
 } satisfies AdapterProject

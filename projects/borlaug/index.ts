@@ -9,6 +9,6 @@ export default {
   id: 'g2f9pf',
   description:
     'Borlaug Web Services is a purpose-built blockchain SaaS platform for agriculture value chains.',
-  investors: [],
+  investors: ['8vrydr', 'tl1am3', 'z4ibhx'],
   duneQueries: null,
 } satisfies AdapterProject

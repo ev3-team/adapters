@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'mobifi',
   id: 'ars9qg',
   description: 'MobiFi rewards users for making smarter mobility decisions.',
-  investors: [],
+  investors: ['h2wgzg'],
   duneQueries: null,
 } satisfies AdapterProject

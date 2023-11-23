@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: '4xa4u6',
   description: 'Weatherflow is a decentralized weather monitoring network.',
-  investors: ['sg2yly'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

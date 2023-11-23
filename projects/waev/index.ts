@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'mwkpfa',
   description: 'Waev is a developer of a trustless data exchange protocol.',
-  investors: [],
+  investors: ['dnl49s', 'lhs5s8'],
   duneQueries: null,
 } satisfies AdapterProject

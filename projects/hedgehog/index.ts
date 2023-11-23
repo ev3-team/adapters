@@ -9,6 +9,6 @@ export default {
   id: 'r7jfzw',
   description:
     'Hedgehog enables Cloud Native apps on edge compute and distributed cloud infrastructure.',
-  investors: [],
+  investors: ['keqf0l', 'p13mb7'],
   duneQueries: null,
 } satisfies AdapterProject

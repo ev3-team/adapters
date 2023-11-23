@@ -8,6 +8,16 @@ export default {
   coingeckoId: null,
   id: 'h2kze5',
   description: 'Cryptomate is a decentralized ecosystem of interactive crypto APIs.',
-  investors: [],
+  investors: [
+    'h09snm',
+    '92vkcn',
+    'ajzzhi',
+    'dc1d3b',
+    'wln03g',
+    'nxzb7m',
+    'b1i2hy',
+    '6od4bx',
+    'g0a0pq',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

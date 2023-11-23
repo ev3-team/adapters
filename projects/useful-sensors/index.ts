@@ -9,6 +9,6 @@ export default {
   id: '25vqyc',
   description:
     'Low-cost ML hardware modules for gesture and voice recognition on TVs, laptops, and appliances, ensuring user privacy.',
-  investors: [],
+  investors: ['owqq3p', '7v9s89', 'a1wztr', 'ymiffp', 'f9vl35', 'tgyjdv'],
   duneQueries: null,
 } satisfies AdapterProject

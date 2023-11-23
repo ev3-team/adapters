@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'gw1fz5',
   description: 'NexGen Cloud: Affordable, sustainable cloud solutions for Web2 & Web3 ecosystems.',
-  investors: [],
+  investors: ['kv8oq2'],
   duneQueries: null,
 } satisfies AdapterProject

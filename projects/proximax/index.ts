@@ -9,6 +9,6 @@ export default {
   id: 'nwrj6s',
   description:
     'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
-  investors: [],
+  investors: ['2q8xba', 'pcw959'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'aqg014',
   description: 'Fog Works: Developer of decentralized storage using blockchain tech.',
-  investors: [],
+  investors: ['caojlf', '6q7dh3', 'smqwtv'],
   duneQueries: null,
 } satisfies AdapterProject

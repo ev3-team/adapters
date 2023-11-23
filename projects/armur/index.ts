@@ -1,0 +1,14 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Armur',
+  chain: null,
+  category: 'AI',
+  token: null,
+  coingeckoId: null,
+  id: 'ka2bzq',
+  description:
+    'Armur Ai is a web3 cybersecurity product suite/platform that helps secure decentralized applications and blockchain solutions. The solutioon offers custom AI models, pre-trained with blockchain data, standard and custom use cases, platform for developers to build their own tools and a marketplace for these tools as APIs and as Bots.',
+  investors: ['vjpj24', 'a1uyxq'],
+  duneQueries: null,
+} satisfies AdapterProject

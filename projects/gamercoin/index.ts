@@ -9,6 +9,6 @@ export default {
   id: 'z2gapv',
   description:
     'GamerCoin is a blockchain-supported application that allows users to exchange desktop computing power for digital goods.',
-  investors: [],
+  investors: ['y2bxy5'],
   duneQueries: null,
 } satisfies AdapterProject

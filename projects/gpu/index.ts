@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'jf4ml9',
   description: 'GPU is a decentralized GPU network for AI training.',
-  investors: [],
+  investors: ['bah2fw'],
   duneQueries: null,
 } satisfies AdapterProject

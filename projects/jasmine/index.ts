@@ -9,6 +9,17 @@ export default {
   id: 'bwhoon',
   description:
     'Jasmine Energy is a decentralized market for claiming, trading, and redeeming renewable energy certificates.',
-  investors: [],
+  investors: [
+    '9jairy',
+    '4zunln',
+    'zaf9xh',
+    'rmj9ht',
+    '4ufrbu',
+    'v81ftp',
+    '6otq8c',
+    'q0cuxs',
+    '1f9kgy',
+    'wdtkj1',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

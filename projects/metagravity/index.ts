@@ -9,6 +9,20 @@ export default {
   id: 'jvfvyy',
   description:
     'MetaGravity is a company building distributed compute infrastructure for metaverse gaming and virtual world simulations.',
-  investors: [],
+  investors: [
+    'v5aw83',
+    'bxcu1r',
+    '8v67z1',
+    'bqmpxo',
+    '3x72a9',
+    'q8aum6',
+    'n16trk',
+    '4dh0t9',
+    'pr3bit',
+    'y6oua0',
+    '5mg8ss',
+    '06o6kd',
+    'pgoyl5',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

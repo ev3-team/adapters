@@ -9,6 +9,6 @@ export default {
   id: 'hhtpfc',
   description:
     'Veritree is a blockchain company specializing in transparent and durable systems for verifying tree planting & growth.',
-  investors: [],
+  investors: ['xgfw21', 'o0iklv', 'jp3dfy'],
   duneQueries: null,
 } satisfies AdapterProject

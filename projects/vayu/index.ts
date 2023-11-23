@@ -9,6 +9,6 @@ export default {
   id: 'c6954r',
   description:
     'Vayu is building a scalable mobile robotics platform using cutting edge bio-inspired sensing, ML, and robotics.',
-  investors: [],
+  investors: ['4bc5rd', 's5s0ze', 'q7n0kr', 'kh5hbg'],
   duneQueries: null,
 } satisfies AdapterProject

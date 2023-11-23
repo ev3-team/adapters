@@ -8,6 +8,16 @@ export default {
   coingeckoId: 'aioz-network',
   id: 'tpqdbi',
   description: 'AIOZ is a decentralized content delivery network.',
-  investors: [],
+  investors: [
+    'i98114',
+    'okjrd0',
+    'lsc0yi',
+    'jw4wz7',
+    'snubsq',
+    'ka4f30',
+    'tqc1qx',
+    'nwl5v7',
+    '0nsbs7',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

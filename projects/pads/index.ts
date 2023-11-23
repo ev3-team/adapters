@@ -6,7 +6,7 @@ export default {
   category: 'OTHER',
   token: null,
   coingeckoId: null,
-  id: '15ilc9',
+  id: 'dqmv0o',
   description: 'Pads Financial is a Montreal based Fintech startup serving Canadian homeowners.',
   investors: [],
   duneQueries: null,

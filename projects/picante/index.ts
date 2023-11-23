@@ -9,6 +9,6 @@ export default {
   id: 'nu6vir',
   description:
     'PICANTE is a crypto portfolio and treasury management platform for Web3 companies, DAOs and investors.',
-  investors: [],
+  investors: ['6gj1wa'],
   duneQueries: null,
 } satisfies AdapterProject

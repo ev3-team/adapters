@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'g2jtmx',
   description: 'Valist: Decentralized platform for game deployment on Web2 and Web3.',
-  investors: [],
+  investors: ['dsinl9', 'fbn00x', 'vh40ts'],
   duneQueries: null,
 } satisfies AdapterProject

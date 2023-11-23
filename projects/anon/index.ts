@@ -9,6 +9,6 @@ export default {
   id: '6mqswi',
   description:
     'Anon enables developers to securely request and authenticate data from the most popular sites on the internet.',
-  investors: [],
+  investors: ['cx2bjt'],
   duneQueries: null,
 } satisfies AdapterProject

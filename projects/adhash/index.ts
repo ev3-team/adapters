@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'p6m3rb',
   description: 'AdHash: direct data exchange between publishers and advertisers, no intermediaries',
-  investors: [],
+  investors: ['2w7ubz', 'b2ybqs', 'p6iv9v', 'h8sw72', 'qbk051', 'ryj5he'],
   duneQueries: null,
 } satisfies AdapterProject

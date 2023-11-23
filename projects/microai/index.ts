@@ -9,6 +9,6 @@ export default {
   id: 'a69lpw',
   description:
     'MicroAI is an Edge AI-enablement company for the Manufacturing, O&G, Automotive, Telecom, and Silicon sectors.',
-  investors: [],
+  investors: ['kxfsjf', 'mave87'],
   duneQueries: null,
 } satisfies AdapterProject

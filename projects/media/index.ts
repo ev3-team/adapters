@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'media-network',
   id: 'iqnvgc',
   description: 'Media Network is a decentralized hub for web services.',
-  investors: ['b5zojp'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

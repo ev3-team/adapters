@@ -9,6 +9,6 @@ export default {
   id: 'mcke93',
   description:
     'Heata is a green compute network that uses wasted heat from computers to warm water for homes.',
-  investors: [],
+  investors: ['ac14rq', 'g1hgzb', '5e17r6', 'udus4e'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'siaprime-coin',
   id: 'ui2nbm',
   description: 'ScPrime is a decentralized network of enterprise-grade cloud storage providers.',
-  investors: ['mfsd6d'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

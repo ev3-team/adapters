@@ -9,6 +9,6 @@ export default {
   id: 'oazct0',
   description:
     'EZ WiFi is a WiFi management platform helping operators and providers build, monetize, and scale wireless networks.',
-  investors: [],
+  investors: ['sk71ns', '0vb3rq', 'a1uyxq'],
   duneQueries: null,
 } satisfies AdapterProject

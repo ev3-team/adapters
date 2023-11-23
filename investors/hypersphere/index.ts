@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'vkntey',
   name: 'Hypersphere',
-  investedProjectsCount: 1,
+  investedProjectsCount: 13,
 } satisfies AdapterInvestor

@@ -9,6 +9,6 @@ export default {
   id: 'nyvs73',
   description:
     'Weaver Labs is developing an open and shared marketplace of connectivity assets, Cell-Stack.',
-  investors: [],
+  investors: ['vjpj24'],
   duneQueries: null,
 } satisfies AdapterProject

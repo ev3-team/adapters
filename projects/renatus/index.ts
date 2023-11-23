@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: '83jvhp',
   description: 'Renatus is the first logistics system completing orders at one station.',
-  investors: [],
+  investors: ['my802w', '9yr6ry'],
   duneQueries: null,
 } satisfies AdapterProject

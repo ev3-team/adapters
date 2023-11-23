@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Databroker',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'OTHER',
   token: 'DTX',
   coingeckoId: 'databroker-dao',
   id: '08wij5',

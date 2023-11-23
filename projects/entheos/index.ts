@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: '0if1hs',
   description: 'Entheos Network: energy solutions & batteries for businesses globally.',
-  investors: [],
+  investors: ['wb49st', 'ltitbn', '566vlr'],
   duneQueries: null,
 } satisfies AdapterProject
