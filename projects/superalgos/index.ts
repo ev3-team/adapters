@@ -9,6 +9,6 @@ export default {
   id: '3sy850',
   description:
     'Superalgos: crypto trading platform for open competition, allows traders to earn through signal broadcasting.',
-  investors: [],
+  investors: ['hyymt5'],
   duneQueries: null,
 } satisfies AdapterProject

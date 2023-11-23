@@ -9,6 +9,6 @@ export default {
   id: 'c1de2i',
   description:
     'DeepBrain Chain is a distributed network for AI & Metaverse use cases, offering high-performance computing capabilities.',
-  investors: [],
+  investors: ['3wgvij', 'v81ftp', 'f5avgu', 'b2zac5', 'sveznn', '0hmeqs'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: '61nayi',
   description:
     'XX: Blockchain for quantum-resistant and private smartphone communication and value exchange.',
-  investors: [],
+  investors: ['pqox07', 'd94gym', 'sjrb8d', 'laupoy', 'myxtw6', 'yasin4'],
   duneQueries: null,
 } satisfies AdapterProject

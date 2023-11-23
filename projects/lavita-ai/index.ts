@@ -9,6 +9,6 @@ export default {
   id: 'tylsdp',
   description:
     'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
-  investors: [],
+  investors: ['772xwk'],
   duneQueries: null,
 } satisfies AdapterProject

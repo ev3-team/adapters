@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'selfkey',
   id: 'b12fse',
   description: 'SelfKey is a blockchain-based identity platform.',
-  investors: [],
+  investors: ['6s7v1l', '44u6gg'],
   duneQueries: null,
 } satisfies AdapterProject

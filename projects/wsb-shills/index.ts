@@ -9,6 +9,6 @@ export default {
   id: 'knsxty',
   description:
     'WSB Shills is a decentralised prediction market platform, allowing users to predict outcomes and earn rewards.',
-  investors: [],
+  investors: ['5tgbgd', '4lf3qu'],
   duneQueries: null,
 } satisfies AdapterProject

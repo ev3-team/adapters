@@ -1,0 +1,35 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Skiff',
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coingeckoId: null,
+  id: 'bts0sr',
+  description:
+    'Skiff is an end-to-end encrypted platform that supports collaboration, email, and messaging and gives users the power to communicate freely.',
+  investors: [
+    'frkhnw',
+    'w0s9ub',
+    '896jil',
+    'maljzp',
+    'whakn0',
+    '92cnhz',
+    'lhx9kn',
+    '5sc7r6',
+    '8fec61',
+    '4nzcwa',
+    'xrje2b',
+    '6ban6b',
+    '737vw6',
+    '2vxsqs',
+    '57ktg0',
+    'z7jgni',
+    'vacncr',
+    'uaa0gq',
+    'vf0qg4',
+    'k1e97y',
+  ],
+  duneQueries: null,
+} satisfies AdapterProject

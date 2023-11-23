@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'qqq-token',
   id: 'ovnogm',
   description: 'Poseidon Network is a decentralized global network of idle P2P computing devices.',
-  investors: [],
+  investors: ['po8xe3'],
   duneQueries: null,
 } satisfies AdapterProject

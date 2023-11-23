@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'vwstsz',
   description: 'Hexagon builds and operates decentralized wireless infrastructure.',
-  investors: [],
+  investors: ['vkntey', 'pmx14k', 'ulvyo3', '3ftss8'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -6,7 +6,13 @@ export const generateInvestorId = () => createNewId()(true, Object.values(invest
 export const generateProjectId = () => createNewId()(true, Object.values(projects))
 
 export const projectToFileName = (projectName: AdapterProject['name']) =>
-  projectName.trim().toLowerCase().replaceAll("'", '').replaceAll(' ', '-').replaceAll('.', '-')
+  projectName
+    .trim()
+    .toLowerCase()
+    .replaceAll("'", '')
+    .replaceAll(' ', '-')
+    .replaceAll('.', '-')
+    .replaceAll(',', '-')
 
 export const projectToVarName = (projectName: AdapterProject['name']) =>
   projectName
@@ -17,6 +23,8 @@ export const projectToVarName = (projectName: AdapterProject['name']) =>
     .replaceAll(')', '')
     .replaceAll('.', '')
     .replaceAll("'", '')
+    .replaceAll('!', '')
+    .replaceAll('^', '')
     .replaceAll('&', 'And')
     .replaceAll(' ', '-')
     .replace(/-([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
@@ -34,28 +42,42 @@ export const investorToFileName = (investorName: AdapterInvestor['name']) =>
     .replaceAll('&', '-&-')
     .replaceAll('\\', '-')
     .replaceAll('!', '-')
+    .replaceAll(',', '-')
+    .replace(/^[0-9]/, (g) => `_${g}`)
+    // reserved words
+    .replaceAll('index', '_index')
 
 export const investorToVarName = (investorName: AdapterInvestor['name']) =>
   investorName
     .trim()
     .toLowerCase()
-    .replace(/-([a-z,1-9,A-Z])/g, (g) => g[1].toUpperCase())
+    .replace(/\.([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
+    .replace(/\[([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
+    .replace(/\]([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
+    .replace(/-([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
+    .replace(/\s([a-z,0-9,A-Z])/g, (g) => g[1].toUpperCase())
     // if the investor name start with a number then add an underscore as prefix
-    .replace(/^[1-9]/, (g) => `_${g}`)
+    .replace(/^[0-9]/, (g) => `_${g}`)
     // unexpected characters
     .replaceAll('(', '')
     .replaceAll(')', '')
-    .replaceAll('.', '')
-    .replaceAll(' ', '')
+    .replaceAll('[', '')
+    .replaceAll(']', '')
     .replaceAll("'", '')
     .replaceAll('&', 'And')
     .replaceAll('\\', '')
     .replaceAll('!', '')
     .replaceAll('+', 'Plus')
+    .replaceAll(' ', '')
+    .replaceAll(',', '')
+    .replaceAll('.', '')
+    .replaceAll('#', '')
     // reserved words
     .replaceAll('continue', '_continue')
     .replaceAll('public', '_public')
     .replaceAll('true', '_true')
+    .replaceAll('index', '_index')
+    .replaceAll('super', '_super')
 
 export type AdaptersProjectCsvRow = {
   name: string

@@ -9,6 +9,6 @@ export default {
   id: '8tp7y2',
   description:
     'Quadency simplifies crypto trading. It offers portfolio management, trading bots, and automation.',
-  investors: [],
+  investors: ['4dqura'],
   duneQueries: null,
 } satisfies AdapterProject

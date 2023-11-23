@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'twhfdd',
   description: 'Really Wireless is a decentralized mobile network based in Austin, Texas.',
-  investors: ['fyqab6', 'hioyn9', 'cnb4rh', 'ojolgz', 'tqh3bl'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

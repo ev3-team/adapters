@@ -9,6 +9,18 @@ export default {
   id: 'w1c0r2',
   description:
     'BlockSurvey offers Tokengated surveys, enabling users to engage in blockchain-based survey participation.',
-  investors: [],
+  investors: [
+    '7bn5bf',
+    '1aatyr',
+    '8uu9kr',
+    '1yjwza',
+    'jkb7hq',
+    'rlo5x9',
+    'dc1d3b',
+    '9r6aaf',
+    '6od4bx',
+    'nr6cj9',
+    'wa3eqd',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: 'gt1ww4',
   description:
     'Mintstars is a subscription-based NFT platform empowering creators to control their content and earnings.',
-  investors: [],
+  investors: ['7zvxz8', '8agdnp', 'ju3e71'],
   duneQueries: null,
 } satisfies AdapterProject

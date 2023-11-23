@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'zy7wfi',
   description: 'Crewdle: Secure, sustainable video conferencing on peer-to-peer network.',
-  investors: [],
+  investors: ['j8kxto'],
   duneQueries: null,
 } satisfies AdapterProject

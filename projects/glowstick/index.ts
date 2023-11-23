@@ -9,6 +9,6 @@ export default {
   id: 'pztili',
   description:
     'Glowstick is a user-friendly tool enabling easy 3D environment creation and storytelling.',
-  investors: [],
+  investors: ['7ny99e', '7zvxz8', 'amuto4', 'cx2bjt', 'gfcglj'],
   duneQueries: null,
 } satisfies AdapterProject

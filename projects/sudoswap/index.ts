@@ -9,6 +9,6 @@ export default {
   id: 'ea506r',
   description:
     'sudoSwap: A gas-efficient AMM protocol for NFT-to-token swaps with customizable bonding curves. Supports various tokens.',
-  investors: [],
+  investors: ['ubuz3j'],
   duneQueries: null,
 } satisfies AdapterProject

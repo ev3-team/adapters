@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: '5gczqo',
   description: 'Geeq is a multi-blockchain platform secured by Proof of Honesty protocol.',
-  investors: [],
+  investors: ['mkgpcb', 'c6y1mj', '5xh3qr', 'nwl5v7', '6xb157'],
   duneQueries: null,
 } satisfies AdapterProject

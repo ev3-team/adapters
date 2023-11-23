@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'pi-network-iou',
   id: 'xpggzk',
   description: 'Pi is a decentralized environmental data collection network.',
-  investors: [],
+  investors: ['2p0n8o'],
   duneQueries: null,
 } satisfies AdapterProject

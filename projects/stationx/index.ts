@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'osv0he',
   description: 'StationX is a protocol for swiftly creating and overseeing DAOs in under a minute.',
-  investors: [],
+  investors: ['vjpj24'],
   duneQueries: null,
 } satisfies AdapterProject

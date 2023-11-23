@@ -9,6 +9,21 @@ export default {
   id: 'zr5vzn',
   description:
     'everVision: Blockchain provider for Web3 development, offering everPay, Permaswap, PermaDAO, and Web3Infra.',
-  investors: [],
+  investors: [
+    '1zgufc',
+    'hhudw8',
+    '4l8mmr',
+    'm6mz4i',
+    'b1hrk6',
+    'zirsty',
+    'us9d7q',
+    'nxzb7m',
+    'b5zicz',
+    't7xkdd',
+    'thxgaw',
+    'jhl62h',
+    'smqwtv',
+    'pu3yyr',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

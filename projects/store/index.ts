@@ -9,6 +9,16 @@ export default {
   id: 'nb0mpn',
   description:
     'STORE is a new layer zero staking protocol at the intersection of cloud computing and WEB3.',
-  investors: [],
+  investors: [
+    'o5kpgb',
+    '9xan1p',
+    'p0l4xh',
+    'cpymss',
+    '6hezki',
+    'udnk74',
+    'zge5vh',
+    'rnxt65',
+    'el8e09',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

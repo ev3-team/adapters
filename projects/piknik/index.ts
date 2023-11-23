@@ -9,6 +9,6 @@ export default {
   id: '9ixfcz',
   description:
     'PiKNiK is a turnkey Web3 storage provider simplifying storage and facilitating Filecoin network access.',
-  investors: [],
+  investors: ['3bni11'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'l84cmm',
   description: 'TEMPO’s allows anyone to have their own electric vehicle.',
-  investors: [],
+  investors: ['ajzzhi', '6i9wk0'],
   duneQueries: null,
 } satisfies AdapterProject

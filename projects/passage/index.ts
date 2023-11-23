@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'passage',
   id: 'aqaszb',
   description: 'Passage connects virtual and physical experiences through creator-built games.',
-  investors: [],
+  investors: ['jefc9a', 'la4mmt', 'bxcu1r', '67afgf', '78w4y0', 'j1rzkc', 'w9rvnt', 'gftio8'],
   duneQueries: null,
 } satisfies AdapterProject

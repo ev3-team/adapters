@@ -9,6 +9,18 @@ export default {
   id: '6y7ind',
   description:
     'D3 is a next-generation domains company building interoperable web2<>web3 domain names.',
-  investors: [],
+  investors: [
+    '7job29',
+    'h97beq',
+    '9oo0xs',
+    'fxmvug',
+    '3wmu8j',
+    'tf8yn4',
+    'asmbxg',
+    'huo2cs',
+    'aowm9c',
+    'lhs5s8',
+    'wzua9l',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

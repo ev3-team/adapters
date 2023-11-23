@@ -9,6 +9,6 @@ export default {
   id: 'ush02g',
   description:
     'Filebase is a reliable IPFS pinning service that provides secure and efficient file storage and management.',
-  investors: [],
+  investors: ['2g0699', '6iy81o', '9kybya'],
   duneQueries: null,
 } satisfies AdapterProject

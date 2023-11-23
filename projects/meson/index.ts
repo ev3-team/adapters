@@ -6,7 +6,7 @@ export default {
   category: 'COMPUTE',
   token: null,
   coingeckoId: null,
-  id: 'sf8dei',
+  id: 'wop23m',
   description: 'Meson is building a decentralized CDN and Bandwidth Exchange.',
   investors: [],
   duneQueries: null,

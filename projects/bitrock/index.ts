@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'bitrock',
   id: 'fy70r2',
   description: 'Bitrock: blockchain with low fees, high speed, and multichain DEX.',
-  investors: [],
+  investors: ['xy5g8f'],
   duneQueries: null,
 } satisfies AdapterProject

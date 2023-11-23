@@ -1,0 +1,14 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'delta.theta',
+  chain: 'ETHEREUM',
+  category: 'OTHER',
+  token: 'DLTA',
+  coingeckoId: 'delta-theta',
+  id: '88l6l8',
+  description:
+    'delta.theta is a Peer-to-peer asset options trading platform. The platform consists of the following modules: delta.theta Smart Contracts; LITE terminal for farmers; PRO terminal for traders; $DLTA token to fuel the ecosystem',
+  investors: ['r0huce'],
+  duneQueries: null,
+} satisfies AdapterProject

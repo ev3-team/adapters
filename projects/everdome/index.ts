@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'everdome',
   id: 't4w143',
   description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
-  investors: [],
+  investors: ['mrgeec', '9sg91a', 'm65oq5', 'smqwtv'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,6 +9,6 @@ export default {
   id: '5fwdog',
   description:
     'Akord: decentralized storage solution giving users control over data. A privacy hub and data marketplace.',
-  investors: [],
+  investors: ['hhudw8', 'm6mz4i', 'nio0gx', 'xgzede', 'pu3yyr'],
   duneQueries: null,
 } satisfies AdapterProject

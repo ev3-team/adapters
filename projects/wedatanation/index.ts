@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'ah17kx',
   description: 'WeDataNation: Secure platform for user data aggregation.',
-  investors: [],
+  investors: ['ryj5he'],
   duneQueries: null,
 } satisfies AdapterProject

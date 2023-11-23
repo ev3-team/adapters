@@ -9,6 +9,6 @@ export default {
   id: 'vltnk6',
   description:
     'Archon Developer is a decentralized protocol enabling scientific research with secure storage, access, and governance.',
-  investors: [],
+  investors: ['4lf3qu', '1rsbr7'],
   duneQueries: null,
 } satisfies AdapterProject

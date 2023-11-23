@@ -9,6 +9,16 @@ export default {
   id: 'zgvzl4',
   description:
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',
-  investors: [],
+  investors: [
+    'mrgeec',
+    'k1qvmn',
+    'ghumon',
+    'oyirya',
+    'bah2fw',
+    'dczz01',
+    'xvgf6w',
+    'nwl5v7',
+    '2wn9ev',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

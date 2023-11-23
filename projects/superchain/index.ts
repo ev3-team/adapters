@@ -9,6 +9,6 @@ export default {
   id: '0k93rc',
   description:
     'Developer of Open Index Protocol, an efficient decentralized indexer for on-chain data.',
-  investors: [],
+  investors: ['te4xtz', '5sjxy4', 'j471wi', 'ujw2s3', 'xgzede', 'rh7r97'],
   duneQueries: null,
 } satisfies AdapterProject

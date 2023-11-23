@@ -9,6 +9,6 @@ export default {
   id: 'l6awms',
   description:
     'Hyper Oracle: Programmable zkOracle for blockchain security and developer empowerment.',
-  investors: [],
+  investors: ['r54jbx', 'uktppp', '6c0yfx', '3xr5rh', 'pu3yyr', 'km32gq'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'zion',
   id: '4wmnm0',
   description: 'Zion: decentralized platform for content flow, payments, and ownership (80)',
-  investors: [],
+  investors: ['t3h1fz', 'vy72su', 'o1unbe', 'fyqab6', 'bo9kmm', 'tgsbeu', '60o8uo'],
   duneQueries: null,
 } satisfies AdapterProject

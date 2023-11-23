@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'goiapt',
   description: 'Pollen Mobile sells hand-made rugs.',
-  investors: ['718jpu', '8grx0k', '67mqz0', '1cpcix', 'eblqs1', 'ooq1d1', 'mwblt4'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

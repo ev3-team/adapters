@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'quantum-resistant-ledger',
   id: 'qc35tq',
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
-  investors: [],
+  investors: ['aj65x1'],
   duneQueries: null,
 } satisfies AdapterProject

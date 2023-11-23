@@ -8,6 +8,16 @@ export default {
   coingeckoId: null,
   id: '2fl69i',
   description: 'GitPOAP - recognizing contributions on GitHub with POAP issuance',
-  investors: [],
+  investors: [
+    'cd2nay',
+    'abvcou',
+    '896jil',
+    'e7om6t',
+    'sk9qn6',
+    'mlsidm',
+    '3xs22l',
+    'ti312b',
+    '3j2gta',
+  ],
   duneQueries: null,
 } satisfies AdapterProject

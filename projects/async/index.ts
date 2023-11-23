@@ -9,6 +9,6 @@ export default {
   id: 'vggvrz',
   description:
     'Async Labs is a blockchain technology company focused on scaling decentralized computing.',
-  investors: [],
+  investors: ['rd2mzf', 'uw2lru', 'tau7dj'],
   duneQueries: null,
 } satisfies AdapterProject

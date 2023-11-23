@@ -9,6 +9,6 @@ export default {
   id: '560f30',
   description:
     'Hivello is a startup providing Helium hotspots to expand the helium digital network and increase connectivity.',
-  investors: [],
+  investors: ['4xnix2', '3eyneg'],
   duneQueries: null,
 } satisfies AdapterProject

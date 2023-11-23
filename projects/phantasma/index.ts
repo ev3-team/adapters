@@ -9,6 +9,6 @@ export default {
   id: '37fysf',
   description:
     'Phantasma is a scalable layer 1 smart contract blockchain designed for Gaming, Smart NFTs, and dApp integration.',
-  investors: [],
+  investors: ['e7zfe7', 'bv2lun', '44u6gg'],
   duneQueries: null,
 } satisfies AdapterProject

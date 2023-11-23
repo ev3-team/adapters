@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'u35fhl',
   description: 'Moflix enables telco operators to become the backbone of Web3.',
-  investors: [],
+  investors: ['jy83oo'],
   duneQueries: null,
 } satisfies AdapterProject

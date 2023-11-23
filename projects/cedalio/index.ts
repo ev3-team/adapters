@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'w0adea',
   description: 'Cedalio: Auditable apps with real data ownership and GraphQL databases.',
-  investors: [],
+  investors: ['8krsge', 'eofkvo', 'g0e1qt', 'wdtkj1'],
   duneQueries: null,
 } satisfies AdapterProject

@@ -9,16 +9,6 @@ export default {
   id: 'v9wsjb',
   description:
     'OriginTrail is a decentralized knowledge graph enabling trustless knowledge sharing for everyone.',
-  investors: [
-    'buime9',
-    'll751s',
-    'wbcogs',
-    'ihu5wn',
-    'mzkbyc',
-    'l3ticj',
-    '9n4okv',
-    'exn39e',
-    'mv230f',
-  ],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

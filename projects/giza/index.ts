@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'nlkbyo',
   description: 'Giza is a collaborative platform for the development of AI.',
-  investors: [],
+  investors: ['csfyvy', 'szfiug', 'szeaj0', '6wptir', 'vrsed8', 'z845oa'],
   duneQueries: null,
 } satisfies AdapterProject

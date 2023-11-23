@@ -9,6 +9,6 @@ export default {
   id: 'i7nidt',
   description:
     'Unlock is a protocol for creators to monetize content, using just a few lines of decentralized code.',
-  investors: [],
+  investors: ['tn6s29'],
   duneQueries: null,
 } satisfies AdapterProject

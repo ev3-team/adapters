@@ -8,6 +8,6 @@ export default {
   coingeckoId: null,
   id: 'zsejow',
   description: 'Frodobots is an open real-world racing game with sidewalk robots.',
-  investors: ['4l8mmr', '7zvxz8'],
+  investors: [],
   duneQueries: null,
 } satisfies AdapterProject

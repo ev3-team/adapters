@@ -8,6 +8,6 @@ export default {
   coingeckoId: 'impermax-2',
   id: 'd869lq',
   description: 'Impermax: Cross-chain lending protocol offers yield for lenders and borrowers.',
-  investors: [],
+  investors: ['8nclhv', 'wxcf8r', 'okjrd0', 'ka4f30', '7xqu4s'],
   duneQueries: null,
 } satisfies AdapterProject

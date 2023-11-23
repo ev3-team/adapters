@@ -9,6 +9,6 @@ export default {
   id: '74rmzw',
   description:
     'Lunyr is a blockchain-based world knowledge base that rewards users for peer-reviewing and contributing information.',
-  investors: [],
+  investors: ['v2r2oo'],
   duneQueries: null,
 } satisfies AdapterProject

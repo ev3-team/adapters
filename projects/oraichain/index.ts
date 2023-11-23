@@ -9,6 +9,6 @@ export default {
   id: 'qzneji',
   description:
     'Oraichain: AI oracle and ecosystem aiming to be the first AI Layer 1 in the Blockchain sphere.',
-  investors: [],
+  investors: ['i98114'],
   duneQueries: null,
 } satisfies AdapterProject
