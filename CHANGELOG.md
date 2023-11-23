@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.9
+
+### Patch Changes
+
+- batch of projects and investors data.
+
 ## 0.3.8
 
 ### Patch Changes
