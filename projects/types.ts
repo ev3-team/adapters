@@ -41,16 +41,16 @@ export type AdapterProjectDuneQueryIdentifiers = {
 
 export type AdapterProject = {
   id: string
+  blog: string | null
   category: AdapterProjectCategory
   chain: AdapterProjectChain | null
   coingeckoId: string | null
   description: string | null
+  duneQueries: AdapterProjectDuneQueryIdentifiers | null
+  github: string | null
   investors: string[]
   name: string
-  token: string | null
-  duneQueries: AdapterProjectDuneQueryIdentifiers | null
-  twitter: string | null
-  github: string | null
   telegram: string | null
-  blog: string | null
+  token: string | null
+  twitter: string | null
 }
