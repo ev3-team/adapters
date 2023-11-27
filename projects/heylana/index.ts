@@ -10,4 +10,8 @@ export default {
   description: 'Heylana offers voice-controlled devices for seamless audio on Solana blockchain.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

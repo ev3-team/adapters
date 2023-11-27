@@ -29,4 +29,8 @@ export default {
     'o7xcsr',
   ],
   duneQueries: null,
+  blog: 'https://koii-network.medium.com/',
+  github: 'https://github.com/koii-network/',
+  telegram: 'https://t.me/koiinetwork',
+  twitter: 'https://twitter.com/KoiiNetwork',
 } satisfies AdapterProject

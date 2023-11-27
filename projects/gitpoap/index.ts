@@ -20,4 +20,8 @@ export default {
     '3j2gta',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/gitpoap',
+  github: 'https://github.com/gitpoap',
+  telegram: null,
+  twitter: 'https://twitter.com/gitpoap',
 } satisfies AdapterProject

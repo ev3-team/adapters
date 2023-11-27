@@ -11,4 +11,8 @@ export default {
     'ReapChain: Hybrid blockchain solving trilemma and integrating IoT through distributed storage and PID.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/reapchain',
+  github: 'https://github.com/reapchain/testnets',
+  telegram: 'https://t.me/ReapchianOfficial',
+  twitter: 'https://twitter.com/ReapChain',
 } satisfies AdapterProject

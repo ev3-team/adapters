@@ -10,4 +10,8 @@ export default {
   description: 'SolRazr is a decentralized developer ecosystem for Solana.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@RazrFi/solrazr-2021-in-review-5ba669ed2efc',
+  github: 'https://github.com/solrazr-app',
+  telegram: 'https://t.me/s/solrazr_app',
+  twitter: 'https://mobile.twitter.com/CSolrazr',
 } satisfies AdapterProject

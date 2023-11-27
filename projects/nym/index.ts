@@ -32,4 +32,8 @@ export default {
     'llojfj',
   ],
   duneQueries: null,
+  blog: 'https://blog.nymtech.net/',
+  github: 'https://github.com/nymtech',
+  telegram: 'https://t.me/nymchan',
+  twitter: 'https://twitter.com/nymproject',
 } satisfies AdapterProject

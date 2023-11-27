@@ -21,4 +21,8 @@ export default {
     '6x8jib',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/mawarijp',
 } satisfies AdapterProject

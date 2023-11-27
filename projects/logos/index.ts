@@ -11,4 +11,8 @@ export default {
     'Logos provides trust-minimized, corruption-resistant governing services and institutions for citizens.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/logos-co',
+  telegram: null,
+  twitter: 'https://twitter.com/Logos_state',
 } satisfies AdapterProject

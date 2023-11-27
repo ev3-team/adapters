@@ -11,4 +11,8 @@ export default {
     'Roso is a diverse online casino and gaming platform, offering a wide range of gambling experiences.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

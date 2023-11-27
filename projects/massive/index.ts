@@ -40,4 +40,8 @@ export default {
     '78enfd',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/topics/massive',
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

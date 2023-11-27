@@ -25,4 +25,8 @@ export default {
     'k8lm1b',
   ],
   duneQueries: null,
+  blog: 'https://blog.smlxl.io/',
+  github: 'https://github.com/smlxl',
+  telegram: null,
+  twitter: 'https://twitter.com/smlxldotio',
 } satisfies AdapterProject

@@ -41,4 +41,8 @@ export default {
     '3c4o3d',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@SpaceandTimeDB',
+  github: 'https://github.com/spaceandtimelabs',
+  telegram: 'https://t.me/spaceandtimedb',
+  twitter: 'https://twitter.com/SpaceTimeMedia/',
 } satisfies AdapterProject

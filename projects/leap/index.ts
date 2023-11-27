@@ -33,4 +33,8 @@ export default {
     'tt96oi',
   ],
   duneQueries: null,
+  blog: 'https://www.leap.energy/blog',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/leapdex',
 } satisfies AdapterProject

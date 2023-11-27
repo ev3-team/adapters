@@ -10,4 +10,8 @@ export default {
   description: 'Hexagon builds and operates decentralized wireless infrastructure.',
   investors: ['vkntey', 'pmx14k', 'ulvyo3', '3ftss8'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/hexagonkt',
+  telegram: 'https://t.me/s/hexsecret?before=27',
+  twitter: 'https://twitter.com/hexagonab?lang=en',
 } satisfies AdapterProject

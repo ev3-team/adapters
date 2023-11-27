@@ -11,4 +11,8 @@ export default {
     'Croquet is a serverless multiplayer game development platform that simplifies building games for developers.',
   investors: ['ii5tnv', '2ms2ep', 'rv0fmm'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/CroquetIO',
 } satisfies AdapterProject

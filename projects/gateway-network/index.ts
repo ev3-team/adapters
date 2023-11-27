@@ -27,4 +27,8 @@ export default {
     'xt0vj3',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/Gateway-DAO',
+  telegram: null,
+  twitter: 'https://twitter.com/gateway_xyz',
 } satisfies AdapterProject

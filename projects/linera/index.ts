@@ -31,4 +31,8 @@ export default {
     'due5zk',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@linera',
+  github: null,
+  telegram: 'https://t.me/linera_official',
+  twitter: 'https://twitter.com/linera_io',
 } satisfies AdapterProject

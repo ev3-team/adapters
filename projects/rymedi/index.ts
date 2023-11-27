@@ -11,4 +11,8 @@ export default {
     'Rymedi is a blockchain-enabled platform empowering health workers and patients to improve the quality of care.',
   investors: ['ltitbn', 'hbpmm3', 'spe24s', 'l2sa3p', 'pixi8p', 'o3c9bd'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Pollen Mobile sells hand-made rugs.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@pollenmobile',
+  github: 'https://github.com/pollen-mobile',
+  telegram: null,
+  twitter: 'https://twitter.com/PollenMobile',
 } satisfies AdapterProject

@@ -49,4 +49,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/injective-labs',
+  github: 'https://github.com/InjectiveLabs',
+  telegram: 'https://t.me/joininjective',
+  twitter: 'https://twitter.com/Injective_',
 } satisfies AdapterProject

@@ -30,4 +30,9 @@ export default {
     'mwx1nm',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@gelatonetwork',
+  github: 'https://github.com/gelatodigital',
+  telegram: 'https://t.me/gelatonetwork',
+  twitter:
+    'https://twitter.com/gelatonetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Spreads: Empowering communities for digital transformation.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Mint_HNT',
 } satisfies AdapterProject

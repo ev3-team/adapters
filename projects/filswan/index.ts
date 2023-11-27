@@ -10,4 +10,8 @@ export default {
   description: 'FilSwan: web3 infrastructure for dApp development.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@swanchain',
+  github: 'https://github.com/filswan',
+  telegram: 'https://t.me/swan_chain/1',
+  twitter: 'https://twitter.com/swan_chain',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Robotiz3d is building the world’s first autonomous road maintenance vehicle to help tackle the pothole problem.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

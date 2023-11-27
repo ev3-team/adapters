@@ -11,4 +11,8 @@ export default {
     'IoTEdge is a decentralized edge computing network for Internet of Things, built on blockchain technology.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/IotedgeOfficalEN',
+  twitter: 'https://twitter.com/iotedgechain',
 } satisfies AdapterProject

@@ -28,4 +28,8 @@ export default {
     'q6mxh8',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@SecondLiveReal',
+  github: 'https://github.com/SecondLive23',
+  telegram: 'https://t.me/SecondLiveCommunity',
+  twitter: 'https://twitter.com/SecondLiveReal',
 } satisfies AdapterProject

@@ -35,4 +35,8 @@ export default {
     '3qflb4',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/nillionnetwork',
+  twitter: 'https://twitter.com/nillionnetwork',
 } satisfies AdapterProject

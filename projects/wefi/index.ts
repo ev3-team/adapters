@@ -24,4 +24,8 @@ export default {
     '71p088',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/wefi',
+  telegram: null,
+  twitter: 'https://twitter.com/wefi?lang=en',
 } satisfies AdapterProject

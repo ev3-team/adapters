@@ -26,4 +26,8 @@ export default {
     '5gfs0n',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@FedML',
+  github: 'https://github.com/FedML-AI/FedML',
+  telegram: null,
+  twitter: 'https://twitter.com/fedml_ai',
 } satisfies AdapterProject

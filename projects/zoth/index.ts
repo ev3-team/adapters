@@ -28,4 +28,8 @@ export default {
     'v450ah',
   ],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/zoth-io',
+  github: null,
+  telegram: 'https://telegram.me/+nFUrC_I1hA1iNWU9',
+  twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2Fzothdotio',
 } satisfies AdapterProject

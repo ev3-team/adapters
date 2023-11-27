@@ -10,4 +10,9 @@ export default {
   description: 'NATIX is a decentralized real-time mapping & surveillance network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/natix-io',
+  github: 'https://github.com/natix-io',
+  telegram: 'https://discord.com/invite/ZqrCX9HBx6',
+  twitter:
+    'https://twitter.com/NATIXNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

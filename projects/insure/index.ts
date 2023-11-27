@@ -11,4 +11,8 @@ export default {
     'inSure: Community-based crypto insurance, distributed ownership risks, dynamic pricing model.',
   investors: [],
   duneQueries: null,
+  blog: 'https://insureteam.medium.com/',
+  github: 'https://github.com/inSureToken/SmartContract/blob/master/inSure.sol',
+  telegram: 'https://t.me/insuredefi',
+  twitter: 'https://twitter.com/InsureToken',
 } satisfies AdapterProject

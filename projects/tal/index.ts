@@ -10,4 +10,8 @@ export default {
   description: 'TAL: Decentralized AI verification on Solana.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@thevaizman',
+  github: 'https://github.com/topics/tal',
+  telegram: null,
+  twitter: 'https://twitter.com/talwilkenfeld?lang=en',
 } satisfies AdapterProject

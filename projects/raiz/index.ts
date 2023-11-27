@@ -11,4 +11,8 @@ export default {
     'Raiz Building is a sustainable farming company providing energy efficient urban farms for local consumers.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/nearweek/an-introduction-to-raiz-vertical-farms-the-farms-of-the-future-e62094b782c3',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/RaizFarms',
 } satisfies AdapterProject

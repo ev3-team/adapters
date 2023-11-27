@@ -10,4 +10,8 @@ export default {
   description: '',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Sollinked_com',
 } satisfies AdapterProject

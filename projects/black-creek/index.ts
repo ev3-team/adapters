@@ -11,4 +11,8 @@ export default {
     'Black Creek Digital is a developer and operator of computing facilities for decentralized and AI apps.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/BlackCreekDig',
 } satisfies AdapterProject

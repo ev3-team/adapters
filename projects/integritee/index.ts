@@ -29,4 +29,8 @@ export default {
     'pu3yyr',
   ],
   duneQueries: null,
+  blog: 'https://www.integritee.network/blog',
+  github: null,
+  telegram: 'https://t.me/Integritee_Official',
+  twitter: 'https://twitter.com/integri_t_e_e',
 } satisfies AdapterProject

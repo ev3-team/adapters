@@ -11,4 +11,8 @@ export default {
     'The Dimitra (DMTR) is a blockchain platform that is democratizing the Agricultural Technology space for smallholder farmers globally. Dimitra provides access to the blockchain, machine learning, Internet of Things sensors, and Satellite Technology through a mobile platform that helps farmers globally increase their yield, reduce costs and mitigate risks.',
   investors: ['m65oq5'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

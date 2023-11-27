@@ -11,4 +11,8 @@ export default {
     'Unlock is a protocol for creators to monetize content, using just a few lines of decentralized code.',
   investors: ['tn6s29'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/unlock-protocol',
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

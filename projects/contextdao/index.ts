@@ -11,4 +11,8 @@ export default {
     'ContextDao is a decentralized data storage protocol similar to the blockchain that enables on-chain data storage.',
   investors: [],
   duneQueries: null,
+  blog: 'https://twitter.com/ContextDao',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2FContextDao',
 } satisfies AdapterProject

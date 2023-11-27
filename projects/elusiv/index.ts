@@ -24,4 +24,8 @@ export default {
     'p3lgat',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/elusiv-privacy',
+  github: 'https://github.com/elusiv-privacy',
+  telegram: null,
+  twitter: 'https://twitter.com/elusivprivacy',
 } satisfies AdapterProject

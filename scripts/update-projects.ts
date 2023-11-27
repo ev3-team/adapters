@@ -105,6 +105,10 @@ async function run() {
         description: row.description,
         investors: projectsInvestors.get(projectId) ?? [],
         duneQueries: projectsDuneQueries.get(projectId) ?? null,
+        blog: !!row.blog ? row.blog : null,
+        github: !!row.github ? row.github : null,
+        telegram: !!row.telegram ? row.telegram : null,
+        twitter: !!row.twitter ? row.twitter : null,
       })
     })
     .on('end', async () => {

@@ -45,4 +45,8 @@ export default {
     '2wn9ev',
   ],
   duneQueries: null,
+  blog: 'https://bware.page.link/medium',
+  github: 'https://bware.page.link/github',
+  telegram: 'https://bware.page.link/telegram',
+  twitter: 'https://bware.page.link/twitter',
 } satisfies AdapterProject

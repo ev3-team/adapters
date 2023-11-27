@@ -76,4 +76,8 @@ export default {
     'e0wtte',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@subquery',
+  github: 'https://github.com/OnFinality-io/subql',
+  telegram: 'https://t.me/subquerynetwork',
+  twitter: 'https://twitter.com/SubQueryNetwork',
 } satisfies AdapterProject

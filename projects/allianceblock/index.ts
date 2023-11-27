@@ -21,4 +21,8 @@ export default {
     '2wn9ev',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/allianceblock/allianceblock-the-next-era-of-allianceblock-eabb78b29ac3',
+  github: 'https://github.com/Stichting-AllianceBlock-Foundation/',
+  telegram: 'https://t.me/allianceblock',
+  twitter: 'https://twitter.com/allianceblock',
 } satisfies AdapterProject

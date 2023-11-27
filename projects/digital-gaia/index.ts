@@ -11,4 +11,8 @@ export default {
     'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',
   investors: ['9jairy'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/_digitalgaia',
 } satisfies AdapterProject

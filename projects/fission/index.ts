@@ -23,4 +23,8 @@ export default {
     '1im0oz',
   ],
   duneQueries: null,
+  blog: 'https://fission.codes/blog/',
+  github: 'https://github.com/fission-codes/',
+  telegram: null,
+  twitter: 'https://twitter.com/FISSIONcodes',
 } satisfies AdapterProject

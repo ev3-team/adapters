@@ -11,4 +11,8 @@ export default {
     'Anon enables developers to securely request and authenticate data from the most popular sites on the internet.',
   investors: ['cx2bjt'],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/anon-dot-com/about/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/anonplatform',
 } satisfies AdapterProject

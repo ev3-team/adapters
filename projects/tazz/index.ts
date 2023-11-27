@@ -11,4 +11,8 @@ export default {
     'Tazz creates capital-efficient debt markets, where borrowers issue debt against long-tail and hard-to-price collateral.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

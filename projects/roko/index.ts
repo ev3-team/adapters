@@ -11,4 +11,8 @@ export default {
     'Roko Roko is a self-organizing human-machine network focused on deep-tech R&D protocol bootstrapping.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/RokoNetwork',
+  twitter: null,
 } satisfies AdapterProject

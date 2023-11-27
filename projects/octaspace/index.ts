@@ -10,4 +10,8 @@ export default {
   description: 'OctaSpace is a decentralized cloud computing network.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

@@ -23,4 +23,8 @@ export default {
     'mebhr4',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

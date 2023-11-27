@@ -26,4 +26,8 @@ export default {
     'z86cg4',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@ingonyama',
+  github: 'https://github.com/ingonyama-zk',
+  telegram: null,
+  twitter: 'https://twitter.com/Ingo_zk',
 } satisfies AdapterProject

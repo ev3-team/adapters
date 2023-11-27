@@ -10,4 +10,8 @@ export default {
   description: 'Products and solutions for every stage of your app development journey!',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/_firethree',
 } satisfies AdapterProject

@@ -26,4 +26,8 @@ export default {
     'wdtkj1',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/hashtag/siglobar',
 } satisfies AdapterProject

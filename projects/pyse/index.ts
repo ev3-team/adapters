@@ -10,4 +10,8 @@ export default {
   description: 'Pyse enables retail investing in renewable energy assets.',
   investors: [],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/pysefin',
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

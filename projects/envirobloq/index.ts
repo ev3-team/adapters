@@ -10,4 +10,8 @@ export default {
   description: 'EnviroBLOQ is a decentralized network of connected smart home devices.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

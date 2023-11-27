@@ -24,4 +24,8 @@ export default {
     'bt1i9c',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/the-cirus-foundation',
+  github: null,
+  telegram: 'https://en.telghub.com/content?id=16359',
+  twitter: 'http://www.twitter.com/Cirusfoundation',
 } satisfies AdapterProject

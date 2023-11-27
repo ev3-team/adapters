@@ -11,4 +11,8 @@ export default {
     'Dupe Fi is a platform that provides tokenization infrastructure for web2 gaming assets, starting with CSGO.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

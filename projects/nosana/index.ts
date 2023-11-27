@@ -11,4 +11,8 @@ export default {
     'Nosana is a decentralized crowd computing network revolutionizing the development process of Metaverse projects.',
   investors: [],
   duneQueries: null,
+  blog: 'https://nosana.medium.com/',
+  github: 'https://github.com/nosana-ci',
+  telegram: 'https://t.me/NosanaCI',
+  twitter: 'https://twitter.com/nosana_ci',
 } satisfies AdapterProject

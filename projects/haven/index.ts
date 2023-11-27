@@ -11,4 +11,8 @@ export default {
     'Haven partners with Anchorage to provide secure staking services for Filecoin tokens.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

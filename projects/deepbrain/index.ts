@@ -11,4 +11,8 @@ export default {
     'DeepBrain Chain is a distributed network for AI & Metaverse use cases, offering high-performance computing capabilities.',
   investors: ['3wgvij', 'v81ftp', 'f5avgu', 'b2zac5', 'sveznn', '0hmeqs'],
   duneQueries: null,
+  blog: 'https://medium.com/@DeepBrainChainGlobal',
+  github: 'https://www.github.com/DeepBrainChain',
+  telegram: 'https://t.me/deepbrainchainglobal',
+  twitter: 'https://twitter.com/DeepBrainChain',
 } satisfies AdapterProject

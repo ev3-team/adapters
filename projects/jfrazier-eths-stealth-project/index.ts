@@ -11,4 +11,8 @@ export default {
     'Developing a project that currently exploring new ways to architect how blockchains can handle AI-training data.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

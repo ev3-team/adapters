@@ -10,4 +10,8 @@ export default {
   description: '0x0.ai - AI for secure smart contract development',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@privacy0x0',
+  github: 'https://github.com/0x0exchange',
+  telegram: 'https://t.me/Portal0x0',
+  twitter: 'https://twitter.com/0x0audits',
 } satisfies AdapterProject

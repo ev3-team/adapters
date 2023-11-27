@@ -36,4 +36,8 @@ export default {
     '935mux',
   ],
   duneQueries: null,
+  blog: 'https://vechainofficial.medium.com/',
+  github: 'https://github.com/vechain',
+  telegram: 'https://t.me/s/vechainannouncement',
+  twitter: 'https://twitter.com/vechainofficial?lang=en',
 } satisfies AdapterProject

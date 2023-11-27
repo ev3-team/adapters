@@ -35,4 +35,8 @@ export default {
     '9ltipb',
   ],
   duneQueries: null,
+  blog: 'https://datagen.tech/blog/',
+  github: 'https://github.com/DatagenTech',
+  telegram: null,
+  twitter: 'https://twitter.com/datagentech',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'SweetyAI: Decentralized dating game dApp with AI-driven virtual girlfriends (NFTs) on Solana.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/SweetHentaiAI',
 } satisfies AdapterProject

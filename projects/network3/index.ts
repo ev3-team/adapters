@@ -10,4 +10,8 @@ export default {
   description: 'Network3 enhances network security and privacy through distributed nodes.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@network3',
+  github: null,
+  telegram: 'https://t.me/network3official',
+  twitter: 'https://twitter.com/network3_com',
 } satisfies AdapterProject

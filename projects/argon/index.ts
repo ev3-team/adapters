@@ -10,4 +10,8 @@ export default {
   description: 'Aragon is a software tools provider for direct democracy.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/alex-dp/solana-democracy',
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

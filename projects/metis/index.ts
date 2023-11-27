@@ -57,4 +57,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://metisdao.medium.com/',
+  github: 'https://github.com/MetisProtocol',
+  telegram: 'https://t.me/MetisDAO',
+  twitter: 'https://twitter.com/MetisDAO',
 } satisfies AdapterProject

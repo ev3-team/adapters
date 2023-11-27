@@ -11,4 +11,8 @@ export default {
     'CROSSTECH develops an autonomous decentralized storage-integrated public blockchain that enables true digital asset issuance.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

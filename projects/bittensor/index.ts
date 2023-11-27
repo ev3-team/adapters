@@ -10,4 +10,8 @@ export default {
   description: 'Bittensor is a peer-to-peer machine intelligence network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://bittensor.medium.com/',
+  github: 'https://github.com/topics/bittensor',
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

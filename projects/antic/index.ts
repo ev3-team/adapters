@@ -10,4 +10,8 @@ export default {
   description: 'Antic: Decentralized co-ownership integration for businesses.',
   investors: ['2mccdz', 'zfetjw', 'ozeg73', '3coq1f', '80hqah', 'lb80u5', '3mv99i', 'z8j32q'],
   duneQueries: null,
+  blog: 'https://medium.com/multeez',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Getantic',
 } satisfies AdapterProject

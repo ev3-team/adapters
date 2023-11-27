@@ -10,4 +10,8 @@ export default {
   description: 'Weatherflow is a decentralized weather monitoring network.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/WeatherFlow',
+  telegram: null,
+  twitter: 'https://twitter.com/weatherflow',
 } satisfies AdapterProject

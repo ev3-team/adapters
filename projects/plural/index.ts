@@ -11,4 +11,8 @@ export default {
     'Plural Energy: Renewable energy investment with blockchain tech for accessible opportunities.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Drife_official',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'VPN3 is a provider of a decentralized VPN protocol',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

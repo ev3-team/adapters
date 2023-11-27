@@ -10,4 +10,8 @@ export default {
   description: 'Defit is a fitness web3 brand that rewards users with a Move to Earn movement.',
   investors: [],
   duneQueries: null,
+  blog: 'https://defitofficial.medium.com/',
+  github: null,
+  telegram: 'https://t.me/DEFITofficial',
+  twitter: 'https://twitter.com/DEFITofficial',
 } satisfies AdapterProject

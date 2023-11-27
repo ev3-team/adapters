@@ -37,4 +37,8 @@ export default {
     'nlvx3r',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@dmail_official',
+  github: 'https://github.com/dmailofficial/dmail',
+  telegram: 'https://t.me/dmailofficial',
+  twitter: 'https://twitter.com/dmailofficial',
 } satisfies AdapterProject

@@ -24,4 +24,8 @@ export default {
     'q48ben',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/astriaorg',
+  telegram: null,
+  twitter: 'https://twitter.com/AstriaOrg',
 } satisfies AdapterProject

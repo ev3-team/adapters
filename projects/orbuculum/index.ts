@@ -11,4 +11,8 @@ export default {
     'Orbuculum is a fully open-source and geopolitically neutral platform (dApp) to monetize and process (Earth Observation) Data & AI models.',
   investors: ['rxw3id'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/dlt_eo',
 } satisfies AdapterProject

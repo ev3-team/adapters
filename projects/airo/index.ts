@@ -10,4 +10,8 @@ export default {
   description: 'AIRO is a decentralized air quality monitoring network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@airo.network',
+  github: 'https://github.com/airo',
+  telegram: null,
+  twitter: 'https://twitter.com/AIRO_MU',
 } satisfies AdapterProject

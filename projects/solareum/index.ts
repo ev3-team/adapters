@@ -11,4 +11,8 @@ export default {
     'Solareum is a renewable energy generation-based blockchain and a decentralized network where producers and consumers can trade renewable energy peer-to-peer on a decentralized renewable energy marketplace without intermediaries. It allows renewable energy to be generated, used, stored, distributed, governed, and monetized in a trustless way.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

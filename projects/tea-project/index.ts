@@ -22,4 +22,8 @@ export default {
     'pcw959',
   ],
   duneQueries: null,
+  blog: 'https://teaproject.medium.com/',
+  github: null,
+  telegram: 'https://t.me/teaprojectorg',
+  twitter: 'https://twitter.com/teaprojectorg',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Developer of an innovative AI blockchain that combines cutting-edge technology with the power of AI. Their platform provides a robust infrastructure for AI-based applications, enabling developers to build and deploy smart contracts and decentralized applications (dApps) with ease.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/Three69AI',
+  twitter: 'https://twitter.com/Three69AI',
 } satisfies AdapterProject

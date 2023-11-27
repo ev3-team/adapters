@@ -11,4 +11,8 @@ export default {
     'Aston Labs: Decentralized energy & infrastructure network. Aston Tokens = network ownership.',
   investors: ['4zunln', 'dc47oz', 'o217a6', 'lcoyia'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

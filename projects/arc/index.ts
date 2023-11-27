@@ -11,4 +11,8 @@ export default {
     'Arc is a cutting-edge Web3 and AI company offering tools for developing decentralized projects.',
   investors: [],
   duneQueries: null,
+  blog: 'https://arc-market.medium.com/',
+  github: 'https://github.com/ARC-MARKET/',
+  telegram: null,
+  twitter: 'https://twitter.com/defi_arc',
 } satisfies AdapterProject

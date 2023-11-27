@@ -27,4 +27,8 @@ export default {
     'urug6u',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

@@ -35,4 +35,8 @@ export default {
     'nj1v3c',
   ],
   duneQueries: null,
+  blog: 'https://cherryproject.medium.com/',
+  github: 'https://github.com/CherryNetwork',
+  telegram: 'https://t.me/cherrynetwork',
+  twitter: 'https://twitter.com/Cherry_Network',
 } satisfies AdapterProject

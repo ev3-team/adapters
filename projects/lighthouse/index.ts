@@ -11,4 +11,8 @@ export default {
     'Lighthouse is a permanent file storage protocol allowing one-time payment for storing files forever.',
   investors: ['896jil', 'yoijyl', 'po8xe3', '07pxi6', 'ti312b'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/GoogleChrome/lighthouse',
+  telegram: 'https://t.me/LighthouseStorage',
+  twitter: 'https://twitter.com/lhediscovery',
 } satisfies AdapterProject

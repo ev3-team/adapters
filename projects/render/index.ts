@@ -10,4 +10,8 @@ export default {
   description: 'Render is a decentralized rendering platform for next-gen media production.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@rendernetwork',
+  github: 'https://github.com/rendernetwork/',
+  telegram: 'https://t.me/rendernetwork',
+  twitter: 'https://twitter.com/rendernetwork',
 } satisfies AdapterProject

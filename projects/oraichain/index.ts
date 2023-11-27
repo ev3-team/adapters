@@ -11,4 +11,8 @@ export default {
     'Oraichain: AI oracle and ecosystem aiming to be the first AI Layer 1 in the Blockchain sphere.',
   investors: ['i98114'],
   duneQueries: null,
+  blog: 'https://oraichain.medium.com/',
+  github: 'https://github.com/oraichain',
+  telegram: 'https://t.me/oraichain',
+  twitter: 'https://twitter.com/oraichain',
 } satisfies AdapterProject

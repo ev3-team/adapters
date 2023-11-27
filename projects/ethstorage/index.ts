@@ -25,4 +25,8 @@ export default {
     'mo34ru',
   ],
   duneQueries: null,
+  blog: 'https://ethstorage.medium.com/',
+  github: 'https://github.com/ethstorage/',
+  telegram: 'https://t.me/ethstorage',
+  twitter: 'https://twitter.com/EthStorage',
 } satisfies AdapterProject

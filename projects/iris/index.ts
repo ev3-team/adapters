@@ -11,4 +11,8 @@ export default {
     'Iris Tech: decentralized AI platform with blockchain for data traceability, efficacy, and AI democratization.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@iriswrites',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/iris_technology',
 } satisfies AdapterProject

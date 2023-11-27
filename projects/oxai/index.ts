@@ -10,4 +10,8 @@ export default {
   description: 'OxAI: Decentralized AI & blockchain for accessible secure computation.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/oxai',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/oxfordai',
 } satisfies AdapterProject

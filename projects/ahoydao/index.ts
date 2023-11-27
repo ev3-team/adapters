@@ -10,4 +10,8 @@ export default {
   description: 'AhoyDAO is a peer-to-peer ecosystem for the marine industry ownership economy.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/ahoy-cli/ahoy',
+  telegram: null,
+  twitter: 'https://twitter.com/ahoy_dao',
 } satisfies AdapterProject

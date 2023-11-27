@@ -11,4 +11,8 @@ export default {
     "Hello is the world's first user-controlled, open-source, encrypted, geo-redundant decentralized storage software/ infrastructure.",
   investors: ['ogm8ug', '6q3rb7', '4vwd01'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/hello-storage',
+  telegram: null,
+  twitter: 'https://twitter.com/joinhelloapp',
 } satisfies AdapterProject

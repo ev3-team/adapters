@@ -28,4 +28,8 @@ export default {
     'eseesx',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/dClimate',
+  telegram: 'http://t.me/dclimatechat-',
+  twitter: 'https://twitter.com/dClimateDAO',
 } satisfies AdapterProject

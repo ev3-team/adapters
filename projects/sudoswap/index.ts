@@ -11,4 +11,8 @@ export default {
     'sudoSwap: A gas-efficient AMM protocol for NFT-to-token swaps with customizable bonding curves. Supports various tokens.',
   investors: ['ubuz3j'],
   duneQueries: null,
+  blog: 'https://blog.sudoswap.xyz/',
+  github: 'https://github.com/sudoswap',
+  telegram: null,
+  twitter: 'https://twitter.com/sudoswap',
 } satisfies AdapterProject

@@ -24,4 +24,8 @@ export default {
     'urug6u',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/GlitterProtocol',
 } satisfies AdapterProject

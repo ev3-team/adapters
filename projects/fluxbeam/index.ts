@@ -10,4 +10,8 @@ export default {
   description: '',
   investors: [],
   duneQueries: null,
+  blog: 'https://solana.com/news',
+  github: 'https://solana.com/github',
+  telegram: 'https://solana.com/telegram',
+  twitter: 'https://solana.com/discord',
 } satisfies AdapterProject

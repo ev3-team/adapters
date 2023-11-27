@@ -10,4 +10,8 @@ export default {
   description: 'VO2 is a platform for fans to become stakeholders in their favourite athletes.',
   investors: ['3hpi7k', 'v0jbet', 'mifera', 'a1uyxq'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

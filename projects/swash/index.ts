@@ -40,4 +40,8 @@ export default {
     'gy5k6a',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/swashapp',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/swashapp',
 } satisfies AdapterProject

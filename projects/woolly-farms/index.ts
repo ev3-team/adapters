@@ -11,4 +11,8 @@ export default {
     'Woolly Farms - connecting consumers and growers to build sustainable cities and ready our food systems.',
   investors: ['tp1utn', 'q2yhs8', 'jjax7d', 'w3mg1d', 'iy5jcg', 'jo3t4g', 'do6tql'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/woollyfarms',
 } satisfies AdapterProject

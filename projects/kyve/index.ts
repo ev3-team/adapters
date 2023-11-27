@@ -61,4 +61,8 @@ export default {
     'urug6u',
   ],
   duneQueries: null,
+  blog: 'https://kyve.medium.com/',
+  github: 'https://github.com/KYVENetwork',
+  telegram: 'https://t.me/kyvenet',
+  twitter: 'https://twitter.com/KYVENetwork',
 } satisfies AdapterProject

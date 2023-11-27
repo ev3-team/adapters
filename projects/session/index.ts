@@ -11,4 +11,8 @@ export default {
     'Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.',
   investors: [],
   duneQueries: null,
+  blog: 'https://getsession.org/blog',
+  github: 'https://github.com/oxen-io',
+  telegram: null,
+  twitter: 'https://twitter.com/session_app',
 } satisfies AdapterProject

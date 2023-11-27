@@ -24,4 +24,8 @@ export default {
     '6qm53b',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/mxc',
+  github: 'https://github.com/mxc-foundation',
+  telegram: 'https://t.me/mxcfoundation',
+  twitter: 'https://twitter.com/mxcfoundation',
 } satisfies AdapterProject

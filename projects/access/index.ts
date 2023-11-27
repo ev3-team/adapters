@@ -11,4 +11,8 @@ export default {
     'ACCESS Protocol lays the foundation for digital content monetization using a web3 wallet.',
   investors: ['q4ztc2', 'n0g582', 'qcgxlc', 'cvjbhg'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

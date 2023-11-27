@@ -22,4 +22,8 @@ export default {
     '60xzyd',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/topics/giant',
+  telegram: 'https://t.me/giantprotocol',
+  twitter: 'https://twitter.com/giantprotocol',
 } satisfies AdapterProject

@@ -43,4 +43,8 @@ export default {
     't44ifr',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

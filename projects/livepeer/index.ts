@@ -14,4 +14,8 @@ export default {
     REVENUE: '2944851',
     SUPPLY: '2944838',
   },
+  blog: 'https://medium.com/livepeer-blog',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/livepeerorg',
 } satisfies AdapterProject

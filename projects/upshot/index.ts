@@ -11,4 +11,8 @@ export default {
     'Upshot is a decentralized AI platform enabling efficient financial markets for anything. They combine their experience building novel crowdsourcing infrastructure and industry-leading ML models to create a scalable, self-improving network of collective machine intelligence.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

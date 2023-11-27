@@ -10,4 +10,8 @@ export default {
   description: 'Drop Wireless is a stealth project built on IoTeX.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/timogiles/wireless-dead-drop',
+  telegram: null,
+  twitter: 'https://mobile.twitter.com/dropwireless',
 } satisfies AdapterProject

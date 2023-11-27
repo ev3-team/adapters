@@ -22,4 +22,8 @@ export default {
     '2nph6s',
   ],
   duneQueries: null,
+  blog: 'https://piratenation.medium.com/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/ProofOfPlay/',
 } satisfies AdapterProject

@@ -44,4 +44,8 @@ export default {
     'ffz00y',
   ],
   duneQueries: null,
+  blog: 'https://www.archblock.com/blog',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/archblock_',
 } satisfies AdapterProject

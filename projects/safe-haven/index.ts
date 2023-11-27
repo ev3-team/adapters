@@ -10,4 +10,8 @@ export default {
   description: 'Decentralized digital inheritance',
   investors: [],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/safe-haven-sha',
+  github: null,
+  telegram: 'https://t.me/safehavenio',
+  twitter: 'https://twitter.com/safeHavenio',
 } satisfies AdapterProject

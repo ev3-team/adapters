@@ -10,4 +10,8 @@ export default {
   description: 'Yokai Developer: Security network with crowdsourced audit and bug bounty platform.',
   investors: ['jtzx5o', '6nxw7d', 'bxcu1r', '7vs71r', 'o76txg'],
   duneQueries: null,
+  blog: 'https://yokainetwork.medium.com/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/yokai_network',
 } satisfies AdapterProject

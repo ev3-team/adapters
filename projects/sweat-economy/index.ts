@@ -11,4 +11,8 @@ export default {
     'Sweat Economy is a blockchain-based movement-to-earn system that offers a novel solution by incentivizing physical activity with its cryptocurrency, $SWEAT,',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

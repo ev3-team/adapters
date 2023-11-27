@@ -34,4 +34,8 @@ export default {
     'kic36s',
   ],
   duneQueries: null,
+  blog: 'https://blog.cheqd.io/',
+  github: 'https://github.com/cheqd',
+  telegram: 'https://t.me/cheqd',
+  twitter: 'https://twitter.com/cheqd_io',
 } satisfies AdapterProject

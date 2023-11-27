@@ -31,4 +31,8 @@ export default {
     'ka28kz',
   ],
   duneQueries: null,
+  blog: 'https://blog.humanode.io/',
+  github: 'https://github.com/humanode-network',
+  telegram: 'https://t.me/humanode',
+  twitter: 'https://twitter.com/humanode_io',
 } satisfies AdapterProject

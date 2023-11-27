@@ -10,4 +10,8 @@ export default {
   description: 'Geeq is a multi-blockchain platform secured by Proof of Honesty protocol.',
   investors: ['mkgpcb', 'c6y1mj', '5xh3qr', 'nwl5v7', '6xb157'],
   duneQueries: null,
+  blog: 'https://medium.com/@geeqofficial.crypto',
+  github: null,
+  telegram: 'https://t.me/GeeqOfficial',
+  twitter: 'https://twitter.com/GeeqOfficial',
 } satisfies AdapterProject

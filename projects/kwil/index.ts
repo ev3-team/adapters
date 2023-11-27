@@ -30,4 +30,8 @@ export default {
     'gn3guk',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/kwildb',
+  github: 'https://github.com/kwilteam',
+  telegram: null,
+  twitter: 'https://twitter.com/KwilTeam',
 } satisfies AdapterProject

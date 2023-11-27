@@ -35,4 +35,8 @@ export default {
     'lll7yl',
   ],
   duneQueries: null,
+  blog: 'https://subsquid.medium.com/',
+  github: 'https://github.com/subsquid',
+  telegram: 'https://t.me/subsquid',
+  twitter: 'https://twitter.com/subsquid',
 } satisfies AdapterProject

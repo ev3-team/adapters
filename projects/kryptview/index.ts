@@ -21,4 +21,8 @@ export default {
     '2xfkvg',
   ],
   duneQueries: null,
+  blog: 'https://kryptview.medium.com/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/thekryptview?lang=en',
 } satisfies AdapterProject

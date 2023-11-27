@@ -11,4 +11,8 @@ export default {
     'JobChain: Connects job seekers with employers for efficient job search and recruitment processes.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/JobchainOfficial',
+  twitter: 'https://twitter.com/antigravity1729',
 } satisfies AdapterProject

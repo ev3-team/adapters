@@ -11,4 +11,8 @@ export default {
     'JurnyOn AI is a ticketing app for train and bus travel, delivering digital access to Transport for Wales railcards.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

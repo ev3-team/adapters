@@ -10,4 +10,8 @@ export default {
   description: 'User consent & data integrity guaranteed cryptographically.',
   investors: [],
   duneQueries: null,
+  blog: 'https://blog.reclaimprotocol.org/',
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

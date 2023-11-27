@@ -11,4 +11,8 @@ export default {
     'Pocket is a company that empowers developers with reliable and performant RPC access to the open internet.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@POKTnetwork',
+  github: 'https://github.com/pokt-network',
+  telegram: 'https://t.me/POKTnetwork',
+  twitter: 'https://twitter.com/POKTnetwork',
 } satisfies AdapterProject

@@ -118,4 +118,8 @@ export default {
     'gduv1m',
   ],
   duneQueries: null,
+  blog: 'https://xmtp.org/blog',
+  github: 'https://github.com/xmtp',
+  telegram: null,
+  twitter: 'https://twitter.com/xmtp_',
 } satisfies AdapterProject

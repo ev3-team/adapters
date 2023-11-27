@@ -11,4 +11,8 @@ export default {
     'Vectorspace AI provides correlation matrix datasets for data-driven innovation, with a focus on NLP/NLU.',
   investors: [],
   duneQueries: null,
+  blog: 'https://spacebiosciences.medium.com/',
+  github: 'https://github.com/vectorspace-ai',
+  telegram: 'https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA',
+  twitter: 'https://twitter.com/VectorSpaceBio',
 } satisfies AdapterProject

@@ -38,4 +38,8 @@ export default {
     'gasfop',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/farcasterxyz',
+  telegram: 'https://t.me/farcasterdevchat',
+  twitter: 'https://twitter.com/farcaster_xyz',
 } satisfies AdapterProject

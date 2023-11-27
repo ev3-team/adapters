@@ -11,4 +11,8 @@ export default {
     'Hedgehog enables Cloud Native apps on edge compute and distributed cloud infrastructure.',
   investors: ['keqf0l', 'p13mb7'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/githedgehog',
+  telegram: null,
+  twitter: 'https://twitter.com/githedgehog',
 } satisfies AdapterProject

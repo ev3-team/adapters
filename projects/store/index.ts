@@ -21,4 +21,8 @@ export default {
     'el8e09',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

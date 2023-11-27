@@ -25,4 +25,8 @@ export default {
     'pgoyl5',
   ],
   duneQueries: null,
+  blog: 'https://metagravity.medium.com/',
+  github: null,
+  telegram: 'https://t.me/Felikxz',
+  twitter: 'https://twitter.com/MetaGravity_',
 } satisfies AdapterProject

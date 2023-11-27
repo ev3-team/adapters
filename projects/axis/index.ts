@@ -10,4 +10,8 @@ export default {
   description: 'AXIS is a blockchain-powered direct freight network.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/laneaxis/axisToken_smart_contact',
+  telegram: 'https://t.me/laneaxis',
+  twitter: 'https://twitter.com/axis_token',
 } satisfies AdapterProject

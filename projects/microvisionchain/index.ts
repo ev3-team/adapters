@@ -11,4 +11,8 @@ export default {
     'MicroVisionChain: UTXO-based public blockchain with PoW, high-concurrency, Layer-1 smart contracts, and DID solution.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/mvc-labs/microvisionchain',
+  telegram: 'https://t.me/mvcofficial',
+  twitter: 'https://twitter.com/mvcglobal',
 } satisfies AdapterProject

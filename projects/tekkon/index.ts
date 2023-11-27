@@ -10,4 +10,8 @@ export default {
   description: 'TEKKON: Web3 app for citizen-driven infrastructure solutions.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@Tekkon',
+  github: null,
+  telegram: 'https://t.me/TEKKONOfficial',
+  twitter: 'https://twitter.com/TEKKON_official',
 } satisfies AdapterProject

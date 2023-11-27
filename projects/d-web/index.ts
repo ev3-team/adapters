@@ -11,4 +11,8 @@ export default {
     'DWeb connects the people, projects and protocols essential to building a decentralized web.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

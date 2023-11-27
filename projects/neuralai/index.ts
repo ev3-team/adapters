@@ -11,4 +11,8 @@ export default {
     'NeuralAgent connects systems and people globally through the utilization of existing transportation assets.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

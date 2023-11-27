@@ -10,4 +10,8 @@ export default {
   description: 'Eclipse ioFog: Open-source edge computing platform for ECN.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

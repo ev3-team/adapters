@@ -47,4 +47,8 @@ export default {
     'mwx1nm',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/offchainlabs',
+  github: null,
+  telegram: 'https://t.me/s/arbitrum',
+  twitter: 'https://twitter.com/arbitrum',
 } satisfies AdapterProject

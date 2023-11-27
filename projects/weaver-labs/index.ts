@@ -11,4 +11,8 @@ export default {
     'Weaver Labs is developing an open and shared marketplace of connectivity assets, Cell-Stack.',
   investors: ['vjpj24'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

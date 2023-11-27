@@ -10,4 +10,8 @@ export default {
   description: 'Katzentracker is a developer of a cat tracker system powered by Helium.',
   investors: [],
   duneQueries: null,
+  blog: 'https://blog.berlintracker.de/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/katzentracker',
 } satisfies AdapterProject

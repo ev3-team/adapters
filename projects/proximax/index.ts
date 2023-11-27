@@ -11,4 +11,8 @@ export default {
     'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
   investors: ['2q8xba', 'pcw959'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/proximax-storage',
+  telegram: null,
+  twitter: 'https://twitter.com/ProximaXGang',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'M3tering incentivizes solar energy investment for underserved regions.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/whyNotSwitch',
 } satisfies AdapterProject

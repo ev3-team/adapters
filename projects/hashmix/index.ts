@@ -29,4 +29,8 @@ export default {
     'brmebh',
   ],
   duneQueries: null,
+  blog: 'https://hashmix.medium.com/',
+  github: 'https://github.com/HashMixProject',
+  telegram: 'https://t.me/HashMixChannel',
+  twitter: 'https://twitter.com/HashMixOfficial',
 } satisfies AdapterProject

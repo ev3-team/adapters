@@ -10,4 +10,8 @@ export default {
   description: 'Galiot is a leading company expanding Helium decentralized IoT-network in Europe.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@galiot.io',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/galiotio?lang=en',
 } satisfies AdapterProject

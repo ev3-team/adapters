@@ -10,4 +10,8 @@ export default {
   description: 'Decentralized AI protocol for personalized investment strategies.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/PulsefolioPortal',
+  twitter: 'https://twitter.com/PulseFolio/',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'TEMPO’s allows anyone to have their own electric vehicle.',
   investors: ['ajzzhi', '6i9wk0'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

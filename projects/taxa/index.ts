@@ -28,4 +28,8 @@ export default {
     'xemx4j',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/taxanetwork',
+  twitter: 'https://twitter.com/taxanetwork',
 } satisfies AdapterProject

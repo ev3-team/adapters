@@ -41,4 +41,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://www.covalenthq.com/blog/',
+  github: 'https://github.com/covalenthq/',
+  telegram: 'https://t.me/CovalentHQ',
+  twitter: 'https://twitter.com/Covalent_HQ',
 } satisfies AdapterProject

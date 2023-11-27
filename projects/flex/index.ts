@@ -10,4 +10,8 @@ export default {
   description: '"Digital wallet from the future"',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

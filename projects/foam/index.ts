@@ -11,4 +11,8 @@ export default {
     'Foam is a blockchain-based platform enabling crowdsourced maps and decentralized location services.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/f-o-a-m/',
+  telegram: null,
+  twitter: 'https://twitter.com/foamspace',
 } satisfies AdapterProject

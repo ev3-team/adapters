@@ -16,4 +16,8 @@ export default {
     TIME_SERIES: '2944860',
     KEY_METRIC: '3223298',
   },
+  blog: 'https://heliuminc.medium.com/',
+  github: 'https://github.com/helium',
+  telegram: 'https://telegram.me/s/HELIUM',
+  twitter: 'http://twitter.com/helium',
 } satisfies AdapterProject

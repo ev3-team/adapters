@@ -10,4 +10,8 @@ export default {
   description: 'Aimedis: Blockchain-based eHealth with medical apps and NFT marketplace.',
   investors: ['jkryns', 'imxksv'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/AimedisOfficialEnglish',
+  twitter: 'https://twitter.com/AimedisGlobal',
 } satisfies AdapterProject

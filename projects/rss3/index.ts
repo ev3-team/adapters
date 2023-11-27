@@ -44,4 +44,8 @@ export default {
     'pcw959',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/tag/rss3',
+  github: 'https://github.com/NaturalSelectionLabs',
+  telegram: 'https://bit.ly/3e6FZoV',
+  twitter: 'https://twitter.com/RSS3_',
 } satisfies AdapterProject

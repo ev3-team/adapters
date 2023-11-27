@@ -10,4 +10,8 @@ export default {
   description: 'AristotleAI provides personalized learning experiences and insights.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/0xAristotleAI',
 } satisfies AdapterProject

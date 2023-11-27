@@ -10,4 +10,8 @@ export default {
   description: 'WeDataNation: Secure platform for user data aggregation.',
   investors: ['ryj5he'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/wedatanation',
 } satisfies AdapterProject

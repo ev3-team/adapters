@@ -36,4 +36,8 @@ export default {
     'ms8eng',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@eywaprotocol',
+  github: 'https://github.com/eywa-protocol',
+  telegram: 'https://t.me/eywa_en',
+  twitter: 'https://twitter.com/eywaprotocol',
 } satisfies AdapterProject

@@ -30,4 +30,8 @@ export default {
     'rwh53e',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

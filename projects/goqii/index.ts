@@ -63,4 +63,8 @@ export default {
     'yzkp63',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/GOQii',
 } satisfies AdapterProject

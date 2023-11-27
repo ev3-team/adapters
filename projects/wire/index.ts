@@ -10,4 +10,8 @@ export default {
   description: 'Wire: blockchain with APOS consensus for user growth.',
   investors: ['buime9'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/wireapp',
+  telegram: null,
+  twitter: 'https://twitter.com/wire',
 } satisfies AdapterProject

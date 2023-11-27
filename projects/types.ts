@@ -49,4 +49,8 @@ export type AdapterProject = {
   name: string
   token: string | null
   duneQueries: AdapterProjectDuneQueryIdentifiers | null
+  twitter: string | null
+  github: string | null
+  telegram: string | null
+  blog: string | null
 }

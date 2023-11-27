@@ -31,4 +31,8 @@ export default {
     'xemx4j',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/hoprnet',
+  github: 'https://github.com/hoprnet',
+  telegram: 'https://t.me/hoprnet',
+  twitter: 'https://twitter.com/hoprnet',
 } satisfies AdapterProject

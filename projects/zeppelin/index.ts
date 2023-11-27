@@ -10,4 +10,8 @@ export default {
   description: 'Zeppelin aims to be the global leader in decentralized wireless infrastructure.',
   investors: ['hol96b', 'rmj9ht', 'v81ftp'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

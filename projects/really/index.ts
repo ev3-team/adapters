@@ -10,4 +10,8 @@ export default {
   description: 'Really Wireless is a decentralized mobile network based in Austin, Texas.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/reallywireless',
 } satisfies AdapterProject

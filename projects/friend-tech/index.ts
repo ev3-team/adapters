@@ -11,4 +11,8 @@ export default {
     'Decentralized social media app where users tokenize profiles and buy/sell shares based on influence.',
   investors: ['tfi9fe'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

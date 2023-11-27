@@ -16,4 +16,8 @@ export default {
     MINT: '2944857',
     PRICE: '2944859',
   },
+  blog: 'https://medium.com/@wifimap',
+  github: null,
+  telegram: 'https://t.me/+GhVechqawKk5OTk0',
+  twitter: 'https://twitter.com/wifimapapp',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'iKnowSpots is a versatile event hosting & ticketing platform that simplifies the process for organizers and attendees.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/iknowspots',
 } satisfies AdapterProject

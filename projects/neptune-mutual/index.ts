@@ -48,4 +48,8 @@ export default {
     'gy5k6a',
   ],
   duneQueries: null,
+  blog: 'https://neptunemutual.com/blog/',
+  github: 'https://github.com/neptune-mutual-blue',
+  telegram: 'https://t.me/neptunemutual',
+  twitter: 'https://twitter.com/neptunemutual',
 } satisfies AdapterProject

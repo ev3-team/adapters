@@ -50,4 +50,8 @@ export default {
     'urug6u',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@Vega_Protocol',
+  github: 'https://github.com/vegaprotocol',
+  telegram: 'https://t.me/vegacommunity/',
+  twitter: 'https://twitter.com/vegaprotocol',
 } satisfies AdapterProject

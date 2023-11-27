@@ -11,4 +11,8 @@ export default {
     'ImgnAI’s flagship product “Nai” turns anything you write into an anime, 3D, or hyper-realistic image.',
   investors: [],
   duneQueries: null,
+  blog: 'https://imgnai.medium.com/',
+  github: 'https://github.com/search?q=nirvana+labs',
+  telegram: 'https://t.me/imgnAI',
+  twitter: 'https://twitter.com/imgn_ai',
 } satisfies AdapterProject

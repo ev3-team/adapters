@@ -22,4 +22,8 @@ export default {
     '03zdwj',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@superlocalapp',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/joinsuperlocal',
 } satisfies AdapterProject

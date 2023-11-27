@@ -20,4 +20,8 @@ export default {
     'v6xlk7',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/EveripediaNetwork',
+  telegram: 'https://t.me/everipedia',
+  twitter: 'https://twitter.com/everipedia',
 } satisfies AdapterProject

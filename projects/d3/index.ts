@@ -23,4 +23,8 @@ export default {
     'wzua9l',
   ],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/d3inc',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/d3corp',
 } satisfies AdapterProject

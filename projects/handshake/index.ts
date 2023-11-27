@@ -32,4 +32,8 @@ export default {
     'dl3888',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/handshake-org/hsd',
+  telegram: 'https://t.me/handshake_hns',
+  twitter: 'https://twitter.com/hns',
 } satisfies AdapterProject

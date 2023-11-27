@@ -11,4 +11,8 @@ export default {
     'PAAL AI is a decentralized network of autonomous agents that empowers artificial intelligence technology.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/paal_ai',
+  twitter: 'https://twitter.com/PaalMind',
 } satisfies AdapterProject

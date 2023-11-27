@@ -10,4 +10,9 @@ export default {
   description: 'Dimo is a decentralized ecosystem of connected vehicles.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/dimo-network',
+  github: null,
+  telegram: null,
+  twitter:
+    'https://twitter.com/DIMO_Network?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

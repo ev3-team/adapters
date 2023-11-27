@@ -10,4 +10,8 @@ export default {
   description: 'N/A',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

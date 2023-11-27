@@ -11,4 +11,8 @@ export default {
     'Sitenna streamlines the process of site acquisition, portfolio management and collocation sales for telecom companies.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Fonoster is a free platform for building voice applications and integrating them with your business app.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/fonoster',
+  telegram: null,
+  twitter: 'https://twitter.com/fonoster',
 } satisfies AdapterProject

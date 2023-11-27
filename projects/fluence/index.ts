@@ -25,4 +25,8 @@ export default {
     'bix4ir',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/fluence-network',
+  github: 'https://github.com/fluencelabs',
+  telegram: 'https://t.me/fluence_project',
+  twitter: 'https://twitter.com/fluence_project',
 } satisfies AdapterProject

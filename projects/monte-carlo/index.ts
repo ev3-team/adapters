@@ -11,4 +11,8 @@ export default {
     'Monte Carlo is a decentralized computing power protocol that incentivizes miners to provide off-chain computing power.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/montecarlostyle',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Fraction AI is developing a web3 platform that enables anyone to generate high-quality labelled data for AI models, using blockchain, smart contracts, and gamification',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

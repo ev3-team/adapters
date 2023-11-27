@@ -11,4 +11,8 @@ export default {
     'PixiaAI: Generates images/videos, collaboratively creates Blind Minting NFTs in minutes.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/vendettadao-blog/partnership-announcement-pixia-ai-37d71a071717',
+  github: null,
+  telegram: 'https://t.me/PixiaAi',
+  twitter: 'https://twitter.com/PixiaAi',
 } satisfies AdapterProject

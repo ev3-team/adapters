@@ -20,4 +20,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/aioz-network',
+  github: null,
+  telegram: 'https://t.me/s/aiozofficial',
+  twitter: 'https://twitter.com/aioznetwork?lang=en',
 } satisfies AdapterProject

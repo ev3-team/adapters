@@ -11,4 +11,8 @@ export default {
     'Kosen Labs aims to be at the intersection of AI and web3. Their mission is to bring the benefits of advanced AI to the blockchain space to develop the decentralised future.',
   investors: ['26x5nn', 'ynh9fg', '6ln74n', 'yx4w71', 'ti312b'],
   duneQueries: null,
+  blog: 'https://medium.com/kosenlabs',
+  github: 'https://github.com/kosen-labs',
+  telegram: null,
+  twitter: 'https://twitter.com/kosenlabs?lang=en',
 } satisfies AdapterProject

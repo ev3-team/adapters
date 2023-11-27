@@ -16,4 +16,8 @@ export default {
     MINT: '3168410',
     PRICE: '3168415',
   },
+  blog: 'https://medium.com/graphprotocol',
+  github: 'https://github.com/graphprotocol',
+  telegram: 'https://t.me/graphprotocol',
+  twitter: 'https://twitter.com/graphprotocol',
 } satisfies AdapterProject

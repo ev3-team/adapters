@@ -10,4 +10,8 @@ export default {
   description: 'AirTor: Proof-of-uptime and relay hardware for passive earning and support of Tor.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@ZeroSumTrayder/ator-protocol-the-next-big-thing-6d67a87243e2',
+  github: 'https://github.com/ATOR-Development',
+  telegram: 'https://t.me/atorcommunityportal',
+  twitter: 'https://twitter.com/atorprotocol',
 } satisfies AdapterProject

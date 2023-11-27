@@ -10,4 +10,8 @@ export default {
   description: 'Drive to Earn is Web3.0 project that will revolutionize the drive market.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

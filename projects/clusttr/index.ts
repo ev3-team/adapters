@@ -11,4 +11,8 @@ export default {
     'Clusttr is a marketplace for real estate investment through fractional ownership(real estate tokens).',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/clusttr_io',
 } satisfies AdapterProject

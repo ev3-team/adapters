@@ -11,4 +11,8 @@ export default {
     'Nesten - telecom company revolutionizing industry with community-driven network ops & blockchain.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

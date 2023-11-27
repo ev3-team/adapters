@@ -11,4 +11,8 @@ export default {
     'B-cube.ai: AI platform for clients to create, optimize, and automate customized crypto trading strategies.',
   investors: ['ihu5wn'],
   duneQueries: null,
+  blog: 'https://bcubeai.medium.com/',
+  github: 'https://github.com/b-cube-ai',
+  telegram: null,
+  twitter: 'https://twitter.com/Bcubeai',
 } satisfies AdapterProject

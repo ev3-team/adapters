@@ -11,4 +11,8 @@ export default {
     'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
   investors: ['772xwk'],
   duneQueries: null,
+  blog: 'https://lavita-ai.medium.com/',
+  github: null,
+  telegram: 'https://t.me/Lavita_AI',
+  twitter: 'https://twitter.com/LavitaAI',
 } satisfies AdapterProject

@@ -10,4 +10,9 @@ export default {
   description: 'Decentralized asset management and trading platform with secure investments.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter:
+    'https://twitter.com/spectravcfund?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

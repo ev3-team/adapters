@@ -23,4 +23,8 @@ export default {
     'pp6ut1',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/hyperspaceorg',
 } satisfies AdapterProject

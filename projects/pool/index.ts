@@ -22,4 +22,8 @@ export default {
     'zj4ect',
   ],
   duneQueries: null,
+  blog: 'https://www.pooldata.io/blog',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/pooldata',
 } satisfies AdapterProject

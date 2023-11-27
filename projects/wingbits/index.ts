@@ -10,4 +10,8 @@ export default {
   description: 'Wingbits is a decentralized flight tracking network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@wingbits',
+  github: 'https://github.com/wingbit',
+  telegram: null,
+  twitter: 'https://twitter.com/wingbits',
 } satisfies AdapterProject

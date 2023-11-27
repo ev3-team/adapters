@@ -11,4 +11,8 @@ export default {
     'Guardian AI is a network that safeguards DAOs and multisigs with decentralized AI agents.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

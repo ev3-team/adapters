@@ -11,4 +11,8 @@ export default {
     'QANplatform - quantum-resistant Layer 1 hybrid blockchain platform for developers and enterprises to build on top.',
   investors: ['poal5z', '8nclhv', '35e9e6', 'zdzojb', '97h38q', 'wri2vw'],
   duneQueries: null,
+  blog: 'https://qanplatform.medium.com/',
+  github: 'https://github.com/QANplatform',
+  telegram: 'https://t.me/QANplatform',
+  twitter: 'https://twitter.com/QANplatform',
 } satisfies AdapterProject

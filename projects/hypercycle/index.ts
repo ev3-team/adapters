@@ -11,4 +11,8 @@ export default {
     "Hypercycle is a new blockchain network designed to supply massively scalable, low-cost infrastructure for decentralized AI, and other, applications. HyperCycle's tiny but essential component enables AI Machines to transact with other AI machines in a sub-second finality.",
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/hypercycle_ai',
+  twitter: 'https://twitter.com/hypercycle_ai',
 } satisfies AdapterProject

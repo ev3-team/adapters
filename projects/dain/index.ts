@@ -11,4 +11,8 @@ export default {
     "DAIN is constructing a decentralized Al network infrastructure, consisting of nodes and services that collaborate to deliver the best possible information. Collectively, these nodes serve as integral components that drive the network's operation and functionality.",
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/buildontal',
 } satisfies AdapterProject

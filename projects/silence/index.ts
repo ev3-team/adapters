@@ -21,4 +21,8 @@ export default {
     'm8xiuk',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/silence-laboratories',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/silentauth',
 } satisfies AdapterProject

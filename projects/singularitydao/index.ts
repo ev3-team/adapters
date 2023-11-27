@@ -29,4 +29,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/singularitydao',
+  github: null,
+  telegram: 'https://t.me/SingDAO',
+  twitter: 'https://twitter.com/SingularityDao',
 } satisfies AdapterProject

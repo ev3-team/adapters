@@ -33,4 +33,8 @@ export default {
     'pu3yyr',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/ar-io',
+  telegram: null,
+  twitter: 'https://twitter.com/ar_io_network',
 } satisfies AdapterProject

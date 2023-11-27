@@ -11,4 +11,8 @@ export default {
     'SAFE Network is a decentralized data storage and communications network that uses spare computing resources of users.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/safenetwork/about',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/safenetworktech?lang=en',
 } satisfies AdapterProject

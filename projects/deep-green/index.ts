@@ -11,4 +11,8 @@ export default {
     'Deep Green develops carbon-neutral compute systems & data centers, specializing in metro-edge computing.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/topics/deep-green',
+  telegram: null,
+  twitter: 'https://twitter.com/DeepGreenEnergy',
 } satisfies AdapterProject

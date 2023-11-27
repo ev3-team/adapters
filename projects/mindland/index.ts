@@ -11,4 +11,8 @@ export default {
     'Mindland is a meditation incentivization company that uses crypto incentives to encourage meditation practices.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/MndlndOfficial',
 } satisfies AdapterProject

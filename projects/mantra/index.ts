@@ -29,4 +29,8 @@ export default {
     '935mux',
   ],
   duneQueries: null,
+  blog: 'https://mantraomniverse.medium.com/',
+  github: null,
+  telegram: 'https://t.me/MANTRA_omniverse',
+  twitter: 'https://twitter.com/MANTRAOMniverse',
 } satisfies AdapterProject

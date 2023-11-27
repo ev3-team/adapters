@@ -11,4 +11,8 @@ export default {
     'Riddle&Code: Connecting physical assets with Web3 technology for secure communication and transactions.',
   investors: ['cm89up'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/riddleandcode',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Seed Labs is a collectively owned, community-first, open early stage venture capital.',
   investors: ['qrf4l1'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

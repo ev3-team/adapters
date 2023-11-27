@@ -11,4 +11,8 @@ export default {
     'GonnaMakeIt is a social network that allows competitors and organizers to earn money through event betting.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/energicryptocurrency',
+  telegram: 'https://t.me/GonnaMakeitNFTs',
+  twitter: 'https://twitter.com/GonnaMakeItNFTs',
 } satisfies AdapterProject

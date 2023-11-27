@@ -51,4 +51,8 @@ export default {
     'gduv1m',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/centrifuge',
+  github: 'https://github.com/centrifuge/',
+  telegram: 'https://t.me/centrifuge_chat',
+  twitter: 'https://twitter.com/centrifuge',
 } satisfies AdapterProject

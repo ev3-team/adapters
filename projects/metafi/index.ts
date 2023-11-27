@@ -26,4 +26,8 @@ export default {
     'brmebh',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/easify-network/a-brief-about-metafi-cf3f1736e930',
+  github: 'https://github.com/metafiofficial',
+  telegram: null,
+  twitter: 'https://twitter.com/MetaFi_Official',
 } satisfies AdapterProject

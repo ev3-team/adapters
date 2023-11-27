@@ -11,4 +11,8 @@ export default {
     'AlphaRush AI: Real-time news, analysis, and personalized trading alpha for cryptocurrency trading.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

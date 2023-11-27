@@ -30,4 +30,8 @@ export default {
     '44u6gg',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/aurora-platform',
+  github: 'https://github.com/aurora-is-near',
+  telegram: 'https://t.me/auroraisnear',
+  twitter: 'https://twitter.com/auroraisnear',
 } satisfies AdapterProject

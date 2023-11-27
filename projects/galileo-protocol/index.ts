@@ -11,4 +11,8 @@ export default {
     'The Galileo Protocol is a cutting-edge tokenisation platform that aims to revolutionise the authentication and ownership of luxury goods and real-world assets.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

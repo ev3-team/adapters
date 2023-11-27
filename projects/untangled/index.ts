@@ -11,4 +11,8 @@ export default {
     'Untangled.Finance bridges traditional and DeFi, bringing institutional-grade, real-world assets on chain.',
   investors: ['5sjxy4', 'njueo3'],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/untangled-finance/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/untangledfin',
 } satisfies AdapterProject

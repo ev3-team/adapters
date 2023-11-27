@@ -11,4 +11,8 @@ export default {
     'exaBITS is a decentralized infrastructure for AI and computationally intensive applications.',
   investors: ['yont93', 'vjpj24', '9cx2zp'],
   duneQueries: null,
+  blog: 'https://medium.com/decentralizedcomputing',
+  github: null,
+  telegram: 'https://t.me/+D0CulDl9udZjMWIx',
+  twitter: 'https://twitter.com/exa_bits',
 } satisfies AdapterProject

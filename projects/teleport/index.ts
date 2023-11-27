@@ -24,4 +24,8 @@ export default {
     'jyihc4',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/teleportxyz',
 } satisfies AdapterProject

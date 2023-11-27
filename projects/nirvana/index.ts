@@ -10,4 +10,8 @@ export default {
   description: 'Nirvana Labs: web3 infrastructure for blockchain apps.',
   investors: ['q9qqsj', '6mh2rx'],
   duneQueries: null,
+  blog: 'https://blog.nirvanalabs.io/',
+  github: 'https://github.com/search?q=nirvana+labs',
+  telegram: null,
+  twitter: 'https://twitter.com/nirvanalabsai',
 } satisfies AdapterProject

@@ -27,4 +27,8 @@ export default {
     'e0510f',
   ],
   duneQueries: null,
+  blog: 'https://news.verida.io/',
+  github: null,
+  telegram: 'https://t.me/verida_community',
+  twitter: 'https://twitter.com/verida_io',
 } satisfies AdapterProject

@@ -26,4 +26,8 @@ export default {
     '935mux',
   ],
   duneQueries: null,
+  blog: 'https://apron-network.medium.com/',
+  github: 'https://github.com/Apron-Network/',
+  telegram: null,
+  twitter: 'https://twitter.com/apronofficial1',
 } satisfies AdapterProject

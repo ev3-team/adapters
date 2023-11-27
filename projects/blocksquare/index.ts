@@ -11,4 +11,8 @@ export default {
     'Blocksquare is a developer of the world’s leading blockchain-based real estate tokenization system.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

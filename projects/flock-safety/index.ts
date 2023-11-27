@@ -31,4 +31,8 @@ export default {
     'hhcvbz',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Flock_Safety',
 } satisfies AdapterProject

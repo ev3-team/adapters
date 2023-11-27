@@ -10,4 +10,8 @@ export default {
   description: 'The first content prediction marketplace.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/kizzymobile',
 } satisfies AdapterProject

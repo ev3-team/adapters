@@ -11,4 +11,8 @@ export default {
     'WEB3 BASED SERVERLESS SECURE Remote Private Network Achieve high security standards with the power of blockchain Remotely access your apps, devices and business',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

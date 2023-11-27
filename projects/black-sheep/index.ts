@@ -11,4 +11,8 @@ export default {
     'Black Sheep Group is a decentralized marketplace simplifying investing in Web3 assets.',
   investors: ['hfmbi5'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/blacksheep_g',
+  twitter: 'https://twitter.com/theblacksheepg',
 } satisfies AdapterProject

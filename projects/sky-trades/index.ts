@@ -10,4 +10,8 @@ export default {
   description: 'Sky Trades is a marketplace for air rights for drone traffic.',
   investors: [],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/skytrades',
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

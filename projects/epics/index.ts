@@ -11,4 +11,8 @@ export default {
     'Epics is a decentralized build to earn platform for open source software development.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/epics-base',
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

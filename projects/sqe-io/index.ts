@@ -11,4 +11,8 @@ export default {
     'SQE.io is a quantum secure, decentralized blockchain-based platform. It uses Simulated Quantum Entanglement technology.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/TheSQE',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'The most comprehensive suite of tools for smart contract development',
   investors: ['p7lpx4'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/trufflesuite',
 } satisfies AdapterProject

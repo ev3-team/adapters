@@ -10,4 +10,8 @@ export default {
   description: 'Foil: Scalable, secure blockchain for IoT with high-speed transactions.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/FoilNetwork',
 } satisfies AdapterProject

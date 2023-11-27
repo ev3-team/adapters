@@ -11,4 +11,8 @@ export default {
     "BOINC AI aims to solve the impossible triangle between blockchain and AI and aims to build the world's largest decentralised cloud computing platform and AI public chain system.",
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/boincaienglish',
+  twitter: 'https://twitter.com/BOINCAI',
 } satisfies AdapterProject

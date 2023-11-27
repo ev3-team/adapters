@@ -24,4 +24,9 @@ export default {
     '4yr483',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/Phala-Network',
+  telegram: null,
+  twitter:
+    'https://twitter.com/PhalaNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'uPlexa is a peer-to-peer electronic payment system utilizing IoT and privacy.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@uplexa',
+  github: 'https://github.com/uPlexa',
+  telegram: 'https://t.me/uplexaOfficial',
+  twitter: 'https://twitter.com/uPlexaCoin',
 } satisfies AdapterProject

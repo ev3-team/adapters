@@ -20,4 +20,8 @@ export default {
     'g0a0pq',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@CryptoMateLATAM',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/CryptoMateLatam',
 } satisfies AdapterProject
