@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'fhd6hx',
   name: 'Laser Digital',
-  investedProjectsCount: 1,
+  investedProjectsCount: 0,
 } satisfies AdapterInvestor

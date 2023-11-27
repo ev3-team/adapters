@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'mkgpcb',
   name: 'Chateau Crypto',
-  investedProjectsCount: 5,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

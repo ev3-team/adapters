@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: '9205ui',
   name: 'LinkVC',
-  investedProjectsCount: 4,
+  investedProjectsCount: 2,
 } satisfies AdapterInvestor

@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'hbpmm3',
   name: 'Blockchange',
-  investedProjectsCount: 8,
+  investedProjectsCount: 5,
 } satisfies AdapterInvestor
