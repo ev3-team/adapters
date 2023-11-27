@@ -42,4 +42,8 @@ export default {
     'xemx4j',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/CortexOfficialEN',
+  twitter: 'https://twitter.com/CTXCBlockchain',
 } satisfies AdapterProject

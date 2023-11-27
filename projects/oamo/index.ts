@@ -11,4 +11,8 @@ export default {
     'Oamo is a decentralized data broker that empowers internet users to own and monetize the value of their data',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@Oamo_io',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Oamo_io',
 } satisfies AdapterProject

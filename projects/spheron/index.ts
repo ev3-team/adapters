@@ -11,4 +11,8 @@ export default {
     'Spheron Protocol: decentralized platform for web app deployment with storage, hosting, and compute capabilities.',
   investors: [],
   duneQueries: null,
+  blog: 'https://spheron.medium.com/',
+  github: 'https://github.com/spheronFdn',
+  telegram: null,
+  twitter: 'https://twitter.com/SpheronFDN',
 } satisfies AdapterProject

@@ -21,4 +21,8 @@ export default {
     'v4za8v',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/kreskofi',
+  github: 'https://github.com/kreskohq/',
+  telegram: 'https://t.me/kreskofi',
+  twitter: 'https://twitter.com/kreskofi',
 } satisfies AdapterProject

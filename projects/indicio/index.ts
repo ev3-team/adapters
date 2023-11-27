@@ -29,4 +29,8 @@ export default {
     'jwwrd3',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/indicioid?lang=en',
 } satisfies AdapterProject

@@ -27,4 +27,8 @@ export default {
     'v6xlk7',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/mynaswap',
 } satisfies AdapterProject

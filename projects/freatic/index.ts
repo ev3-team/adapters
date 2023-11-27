@@ -23,4 +23,8 @@ export default {
     'kpp3he',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@freaticteam',
+  github: 'https://github.com/freatic',
+  telegram: null,
+  twitter: 'https://twitter.com/intent/user?screen_name=freaticteam',
 } satisfies AdapterProject

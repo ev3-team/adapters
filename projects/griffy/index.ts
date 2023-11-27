@@ -10,4 +10,8 @@ export default {
   description: 'Griffy is a poll-based prediction markets protocol.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

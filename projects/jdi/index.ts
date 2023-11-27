@@ -11,4 +11,8 @@ export default {
     'JDI builds hardware and software solutions for the Decentralized Wireless Network and IoT industry.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@jdi.gwh/about',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/jdiyield',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'We create phenomenal NFT experiences with exceptional creators and brands.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/supermetafi',
+  twitter: 'https://twitter.com/supermetafi',
 } satisfies AdapterProject

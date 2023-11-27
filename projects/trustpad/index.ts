@@ -25,4 +25,8 @@ export default {
     '3qflb4',
   ],
   duneQueries: null,
+  blog: 'https://trustpad.medium.com/',
+  github: null,
+  telegram: 'https://t.me/TrustPad',
+  twitter: 'https://twitter.com/TrustPad',
 } satisfies AdapterProject

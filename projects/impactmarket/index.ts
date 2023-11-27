@@ -22,4 +22,8 @@ export default {
     's7rn7t',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/impactmarket',
+  github: 'https://github.com/impactMarket',
+  telegram: 'https://t.me/impactMarketOfficial',
+  twitter: 'https://twitter.com/impactmarket',
 } satisfies AdapterProject

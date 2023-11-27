@@ -20,4 +20,8 @@ export default {
     'rewcp7',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/blocklessnetwork',
+  telegram: 'https://t.me/blocklessofficial',
+  twitter: 'https://x.com/theblockless',
 } satisfies AdapterProject

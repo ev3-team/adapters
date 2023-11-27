@@ -11,4 +11,8 @@ export default {
     'Emerge is a suite of app development products designed to supercharge mobile apps and the teams that build them.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/emergetools',
 } satisfies AdapterProject

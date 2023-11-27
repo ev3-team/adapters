@@ -11,4 +11,8 @@ export default {
     'Invision AI enables real-time object detection and tracking on mainstream processors.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'http://twitter.com/invisionai',
 } satisfies AdapterProject

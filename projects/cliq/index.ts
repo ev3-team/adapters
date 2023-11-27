@@ -11,4 +11,8 @@ export default {
     'Cliq is an anonymous forum for verified Web3 professionals to share insight and seek advice in a trustless manner',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/CliqNetwork',
 } satisfies AdapterProject

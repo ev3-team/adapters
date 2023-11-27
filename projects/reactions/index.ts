@@ -11,4 +11,8 @@ export default {
     'Reactions is a decentralized social curation protocol that let users react to NFTs, allowing consumers to build influence and earn with communities.',
   investors: ['eqr6sq', '04mlyu'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/reactions_lab',
 } satisfies AdapterProject

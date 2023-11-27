@@ -32,4 +32,8 @@ export default {
     'k1e97y',
   ],
   duneQueries: null,
+  blog: 'https://skiff.com/blog',
+  github: 'https://github.com/skiff-org',
+  telegram: null,
+  twitter: 'https://twitter.com/skiffprivacy',
 } satisfies AdapterProject

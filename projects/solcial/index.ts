@@ -11,4 +11,8 @@ export default {
     'Solcial is a decentralised social network on the Solana blockchain. Solcial allows anyone to share content in a fully permissionless way, avoiding censorship, and rewarding users and content creators in a fair manner. An open crypto platform for social networking and monetisation.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

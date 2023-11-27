@@ -10,4 +10,8 @@ export default {
   description: 'Equito Finance is a chain-agnostic open-source bridge protocol.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/EquitoBridge',
+  telegram: null,
+  twitter: 'https://twitter.com/EquitoFinance',
 } satisfies AdapterProject

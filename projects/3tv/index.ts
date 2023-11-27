@@ -10,4 +10,8 @@ export default {
   description: 'The best place for groups to connect in web3',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/3tv_chat?s=11',
 } satisfies AdapterProject

@@ -22,4 +22,8 @@ export default {
     'tm95um',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/etherfi',
+  github: null,
+  telegram: 'https://t.me/+C3fpSjmPqzA5NTVh',
+  twitter: 'https://twitter.com/ether_fi',
 } satisfies AdapterProject

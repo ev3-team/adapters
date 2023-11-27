@@ -42,4 +42,8 @@ export default {
     'zmowee',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/spacemesh',
+  github: 'https://github.com/spacemeshos',
+  telegram: null,
+  twitter: 'https://twitter.com/teamspacemesh',
 } satisfies AdapterProject

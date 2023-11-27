@@ -10,4 +10,8 @@ export default {
   description: 'Humcen is the world’s first cross border IP aggregator.',
   investors: [],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/humcen-co',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Humceng',
 } satisfies AdapterProject

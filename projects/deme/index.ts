@@ -10,4 +10,8 @@ export default {
   description: 'DeMe: a user privacy-focused social media with rewards.',
   investors: ['28j4vq'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/DecentralisedMe',
 } satisfies AdapterProject

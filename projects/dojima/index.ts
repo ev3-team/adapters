@@ -28,4 +28,8 @@ export default {
     '24ormv',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/dojimanetwork',
+  telegram: null,
+  twitter: 'https://twitter.com/dojimanetwork',
 } satisfies AdapterProject

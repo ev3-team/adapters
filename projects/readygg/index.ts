@@ -22,4 +22,8 @@ export default {
     'gduv1m',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/readygamesofficial',
+  twitter: 'https://twitter.com/TheReadyGames',
 } satisfies AdapterProject

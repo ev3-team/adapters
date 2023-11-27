@@ -10,4 +10,8 @@ export default {
   description: 'Jim is an AI Bot that responds intelligently on social platforms.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/RoastHimJim',
+  twitter: 'https://twitter.com/JimAIstudios',
 } satisfies AdapterProject

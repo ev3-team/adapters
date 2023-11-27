@@ -11,4 +11,8 @@ export default {
     'Element is a Matrix-based end-to-end encrypted communications platform. It’s decentralised so that users can be digitally sovereign (own and control their own data). Element can be self-hosted, or through a hosting service such as Element Matrix Services. Element operates on the open Matrix network to provide interoperability between other messenger and collaboration apps.',
   investors: [],
   duneQueries: null,
+  blog: 'https://element.io/blog/',
+  github: 'https://github.com/vector-im',
+  telegram: null,
+  twitter: 'https://twitter.com/element_hq',
 } satisfies AdapterProject

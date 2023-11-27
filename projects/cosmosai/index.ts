@@ -11,4 +11,8 @@ export default {
     'CosmosAI is a global network creating and sharing computational resources for worldwide utilization.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/',
 } satisfies AdapterProject

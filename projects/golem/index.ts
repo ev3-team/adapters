@@ -11,4 +11,8 @@ export default {
     'Golem is a decentralized computing marketplace. It consists of a network of nodes that implement the Golem network protocol.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

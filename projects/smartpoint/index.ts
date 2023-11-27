@@ -10,4 +10,8 @@ export default {
   description: 'SmartPoint is a decentralized edge computing network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://github.com/topics/smartpoint-cloud-platform',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/SmartPointIO',
 } satisfies AdapterProject

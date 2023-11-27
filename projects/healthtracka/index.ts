@@ -21,4 +21,8 @@ export default {
     'a1uyxq',
   ],
   duneQueries: null,
+  blog: 'https://blog.healthtracka.com/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/healthtracka?lang=en',
 } satisfies AdapterProject

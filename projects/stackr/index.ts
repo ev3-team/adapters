@@ -28,4 +28,8 @@ export default {
     'vrvfoj',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/0xStackr',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Juno is decentralized network for interoperable apps',
   investors: ['vxxepe'],
   duneQueries: null,
+  blog: 'https://medium.com/@JunoNetwork',
+  github: 'https://github.com/CosmosContracts',
+  telegram: 'https://t.me/JunoNetwork',
+  twitter: 'https://twitter.com/JunoNetwork',
 } satisfies AdapterProject

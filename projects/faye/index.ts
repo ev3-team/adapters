@@ -11,4 +11,8 @@ export default {
     'Faye is a self-learning AI chatbot for accurate, relevant, and on-chain troubleshooting of smart contracts.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/faye_digital',
 } satisfies AdapterProject

@@ -24,4 +24,8 @@ export default {
     'wdtkj1',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/dialect-labs',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/saydialect',
 } satisfies AdapterProject

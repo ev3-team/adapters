@@ -14,4 +14,8 @@ export default {
     BURN: '3202771',
     PRICE: '3202773',
   },
+  blog: 'https://medium.com/@storjproject',
+  github: 'https://github.com/Storj/',
+  telegram: 'https://telegram.me/StorjProject',
+  twitter: 'https://twitter.com/storj',
 } satisfies AdapterProject

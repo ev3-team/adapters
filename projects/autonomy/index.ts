@@ -31,4 +31,8 @@ export default {
     '0rtomp',
   ],
   duneQueries: null,
+  blog: 'https://blog.autonomynetwork.io/',
+  github: 'https://github.com/Autonomy-Network',
+  telegram: null,
+  twitter: 'https://twitter.com/AutonomyNetwork',
 } satisfies AdapterProject

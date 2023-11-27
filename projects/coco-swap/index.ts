@@ -10,4 +10,8 @@ export default {
   description: 'Coco Swap: Faster and easier token swaps with COCO token and BSC blockchain.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

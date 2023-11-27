@@ -22,4 +22,8 @@ export default {
     'gmweh7',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/zeeta',
+  telegram: 'https://t.me/s/ZeetaaProjects?before=209',
+  twitter: 'https://twitter.com/zeettas?lang=en',
 } satisfies AdapterProject

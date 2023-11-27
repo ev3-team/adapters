@@ -24,4 +24,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://officialroyale.medium.com/',
+  github: null,
+  telegram: 'https://t.me/RoyaleFinance',
+  twitter: 'https://twitter.com/Royale_Finance',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Arctail is builduing a new infrastructure for on-chain finance.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

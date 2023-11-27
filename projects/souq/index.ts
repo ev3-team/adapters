@@ -28,4 +28,8 @@ export default {
     'rfnurr',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

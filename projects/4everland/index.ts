@@ -11,4 +11,8 @@ export default {
     '4everland is a decentralized cloud provider integrating storage, computing, and networking resources.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/4everland_org/status/1658444206254469126',
 } satisfies AdapterProject

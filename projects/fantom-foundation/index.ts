@@ -11,4 +11,8 @@ export default {
     'Fantom is a decentralized, open-source, smart contract platform that aims to provide fast, secure, and scalable infrastructure for decentralized applications (dApps). Through its proof-of-stake, aBFT consensus protocol, Lachesis, Fantom attempts to solve the blockchain trilemma, which is a tradeoff between decentralization, security, and scalability that many networks face.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

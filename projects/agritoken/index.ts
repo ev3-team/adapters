@@ -11,4 +11,8 @@ export default {
     'Agritoken: Tokenizing crop futures for efficient and transparent agricultural investing.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/AgriToken',
 } satisfies AdapterProject

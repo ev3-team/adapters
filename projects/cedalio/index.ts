@@ -10,4 +10,8 @@ export default {
   description: 'Cedalio: Auditable apps with real data ownership and GraphQL databases.',
   investors: ['8krsge', 'eofkvo', 'g0e1qt', 'wdtkj1'],
   duneQueries: null,
+  blog: 'https://medium.com/@cedalio',
+  github: 'https://github.com/cedalio',
+  telegram: null,
+  twitter: 'https://twitter.com/CedalioTech',
 } satisfies AdapterProject

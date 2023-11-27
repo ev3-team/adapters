@@ -11,4 +11,8 @@ export default {
     'XCAD Network is a platform harnessing the value of Content Creator audiences via Creator tokenization, viewers earn rewards used for fan governance.',
   investors: ['ia20oh', 'rlo5x9', 'okjrd0', 'qqc9zd', 'bah2fw', 'zv7rue'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

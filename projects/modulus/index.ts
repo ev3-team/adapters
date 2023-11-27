@@ -21,4 +21,8 @@ export default {
     'ubuz3j',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@ModulusLabs',
+  github: 'https://github.com/Modulus-Labs',
+  telegram: null,
+  twitter: 'https://twitter.com/ModulusLabs',
 } satisfies AdapterProject

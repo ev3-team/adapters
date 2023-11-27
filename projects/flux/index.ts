@@ -11,4 +11,8 @@ export default {
     'Flux is a decentralized compute network for cross-platform blockchain applications.',
   investors: [],
   duneQueries: null,
+  blog: 'https://fluxofficial.medium.com/',
+  github: 'https://github.com/fluxcd/flux',
+  telegram: 'https://t.me/careerflux',
+  twitter: 'https://twitter.com/RunOnFlux?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

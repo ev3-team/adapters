@@ -10,4 +10,8 @@ export default {
   description: 'Kunji Finance: Decentralized asset management platform on Arbitrum chain.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@Kunjifinance',
+  github: null,
+  telegram: 'https://t.me/+qUmTI8yQNQozNTc1',
+  twitter: 'https://twitter.com/kunjitweets',
 } satisfies AdapterProject

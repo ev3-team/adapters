@@ -13,4 +13,8 @@ export default {
   duneQueries: {
     REVENUE: '3079022',
   },
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

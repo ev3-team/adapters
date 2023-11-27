@@ -41,4 +41,8 @@ export default {
     'pcw959',
   ],
   duneQueries: null,
+  blog: 'https://blog.hubbleprotocol.io/',
+  github: 'https://github.com/hubbleprotocol',
+  telegram: 'https://t.me/hubbleprotocol',
+  twitter: 'https://twitter.com/hubbleprotocol',
 } satisfies AdapterProject

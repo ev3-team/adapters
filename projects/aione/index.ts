@@ -11,4 +11,8 @@ export default {
     'AiONE: AI platform that integrates AI into business workflows. User-friendly AI services, APIs, and tools.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/aionelab',
+  twitter: 'https://twitter.com/aionelab',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Decentralized conversation layer powering Web3.',
   investors: ['vh40ts', 'wjmt17', '44e83n', '2vjau8', 'ti312b', 'tla1v2'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/anudit/convo',
+  telegram: null,
+  twitter: 'https://twitter.com/0xConvo',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'NKN is a peer-to-peer network connectivity protocol that enables decentralized and secure communication between devices.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/nknorg',
+  telegram: 'https://t.me/nknorg',
+  twitter: 'https://twitter.com/NKN_ORG',
 } satisfies AdapterProject

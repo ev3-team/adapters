@@ -11,4 +11,8 @@ export default {
     'ZeroSync has designed and is currently implementing a Layer 2 protocol that has remarkable privacy and scalability properties, enabling Bitcoin to process more than 100 token transactions per second.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/ZeroSync/ZeroSync',
+  telegram: 'https://t.me/zerosync_chat',
+  twitter: 'https://twitter.com/zerosync_',
 } satisfies AdapterProject

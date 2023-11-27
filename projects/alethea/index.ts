@@ -44,4 +44,8 @@ export default {
     'o3c9bd',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/AletheaAI',
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

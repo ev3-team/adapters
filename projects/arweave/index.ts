@@ -10,4 +10,8 @@ export default {
   description: 'Arweave is a permanent and decentralized web inside an open ledger.',
   investors: [],
   duneQueries: null,
+  blog: 'https://arweave.medium.com/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/ArweaveTeam',
 } satisfies AdapterProject

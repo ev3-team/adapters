@@ -26,4 +26,8 @@ export default {
     '7qvbir',
   ],
   duneQueries: null,
+  blog: 'https://switchboardxyz.medium.com/',
+  github: 'https://github.com/switchboard-xyz',
+  telegram: 'https://t.me/switchboardxyz',
+  twitter: 'https://twitter.com/switchboardxyz',
 } satisfies AdapterProject

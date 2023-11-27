@@ -11,4 +11,8 @@ export default {
     'Bittensor is a decentralized, blockchain-based machine learning network that powers Neural Internet, an AI R&D DAO.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@neuralinternet',
+  github: 'https://github.com/neuralinternet',
+  telegram: null,
+  twitter: 'https://twitter.com/neural_internet',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Hub3 is a social-fi platform that enables creators to monetize their content and connect with exclusive communities while utilizing token-gated communities, one key ahead.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/hub3official',
+  twitter: 'https://twitter.com/hub3ee',
 } satisfies AdapterProject

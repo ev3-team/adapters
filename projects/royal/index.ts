@@ -36,4 +36,8 @@ export default {
     'dn6pok',
   ],
   duneQueries: null,
+  blog: 'https://support.royal.io/hc/en-us',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/join_royal',
 } satisfies AdapterProject

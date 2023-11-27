@@ -11,4 +11,8 @@ export default {
     'FX Land is a decentralized storage network utilizing IPFS, providing secure and encrypted file storage.',
   investors: [],
   duneQueries: null,
+  blog: 'https://fx.land/blog/',
+  github: 'https://github.com/functionland/docs',
+  telegram: 'https://t.me/functionland',
+  twitter: 'https://twitter.com/functionland',
 } satisfies AdapterProject

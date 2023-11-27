@@ -24,4 +24,8 @@ export default {
     'z5gcrq',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

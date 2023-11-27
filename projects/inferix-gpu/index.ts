@@ -10,4 +10,8 @@ export default {
   description: 'Inferix - Decentralized GPU network for 3D rendering, AI training & inference.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@inferixgpu',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/inferixgpu',
 } satisfies AdapterProject

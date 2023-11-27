@@ -60,4 +60,8 @@ export default {
     'e0wtte',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@Shardeum',
+  github: 'https://github.com/shardeum/',
+  telegram: 'https://telegram.me/shardeum',
+  twitter: 'https://twitter.com/shardeum',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'WSB Shills is a decentralised prediction market platform, allowing users to predict outcomes and earn rewards.',
   investors: ['5tgbgd', '4lf3qu'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/wsbsh',
+  twitter: 'https://twitter.com/wsb_sh?s=21',
 } satisfies AdapterProject

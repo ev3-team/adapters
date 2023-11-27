@@ -22,4 +22,8 @@ export default {
     't6992i',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/agrotoken',
 } satisfies AdapterProject

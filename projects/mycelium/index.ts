@@ -10,4 +10,8 @@ export default {
   description: 'Mycelium is an enterprise DePIN deployer and operator of the Mycelium Testbed.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@MyceliumX',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/myceliumx',
 } satisfies AdapterProject

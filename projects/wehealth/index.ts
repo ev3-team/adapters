@@ -11,4 +11,8 @@ export default {
     'WeHealth: Innovative digital solutions for remote patient monitoring and personalized healthcare.',
   investors: ['trl8xo'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/WeHealthOrg',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Neutral is an exchange for environmental assets.',
   investors: [],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/neutral-exchange/about/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/NeutralExchange',
 } satisfies AdapterProject

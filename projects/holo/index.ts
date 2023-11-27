@@ -11,4 +11,8 @@ export default {
     'Holo: P2P, open-source framework for decentralized applications with a focus on privacy and security.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/holochain',
+  github: 'https://github.com/holochain',
+  telegram: null,
+  twitter: 'https://twitter.com/holochain',
 } satisfies AdapterProject

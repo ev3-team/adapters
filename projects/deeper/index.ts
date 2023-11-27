@@ -10,4 +10,8 @@ export default {
   description: 'Deeper is a decentralized VPN and privacy network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://deeper-network.medium.com/',
+  github: null,
+  telegram: 'https://tlgrm.eu/channels/@pornodrive/46977',
+  twitter: 'https://twitter.com/deeper_official?lang=en',
 } satisfies AdapterProject

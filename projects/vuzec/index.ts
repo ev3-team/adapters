@@ -11,4 +11,8 @@ export default {
     'Vuzec: Empowering artists with decentralized crowdfunding and royalties distribution.',
   investors: [],
   duneQueries: null,
+  blog: 'https://vuzecmx.medium.com/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/vuzecmx',
 } satisfies AdapterProject

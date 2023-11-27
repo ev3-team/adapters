@@ -10,4 +10,8 @@ export default {
   description: 'Koinos is a blockchain network with free-to-use apps and dynamic resource pricing.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/koinosnetwork/tagged/koinos',
+  github: 'https://github.com/koinos',
+  telegram: 'https://t.me/joinchat/SXe6mLnb8Ssywlq9',
+  twitter: 'https://twitter.com/koinosnetwork',
 } satisfies AdapterProject

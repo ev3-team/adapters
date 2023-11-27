@@ -40,4 +40,8 @@ export default {
     '9yjtz6',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'http://twitter.com/togethercompute',
 } satisfies AdapterProject

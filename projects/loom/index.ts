@@ -25,4 +25,8 @@ export default {
     'pcw959',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/loom-network',
+  github: 'https://github.com/loomnetwork',
+  telegram: 'https://t.me/loomnetwork',
+  twitter: 'https://twitter.com/loomnetwork',
 } satisfies AdapterProject

@@ -29,4 +29,8 @@ export default {
     'u2j4by',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/dtravel-community',
+  github: 'https://github.com/dTravel',
+  telegram: 'https://t.me/dtravelcommunity',
+  twitter: 'https://twitter.com/DtravelDAO',
 } satisfies AdapterProject

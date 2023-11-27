@@ -48,4 +48,8 @@ export default {
     'urug6u',
   ],
   duneQueries: null,
+  blog: 'https://mantanetwork.medium.com/',
+  github: 'https://github.com/manta-network',
+  telegram: 'https://www.t.me/mantanetworkofficial',
+  twitter: 'https://twitter.com/mantanetwork',
 } satisfies AdapterProject

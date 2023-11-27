@@ -11,4 +11,8 @@ export default {
     'ThreeFold is a globally-distributed grid offering storage, compute, and network capacity.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/threefoldfoundation',
+  telegram: 'https://t.me/threefoldnews',
+  twitter: 'https://twitter.com/threefold_io',
 } satisfies AdapterProject

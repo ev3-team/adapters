@@ -26,4 +26,8 @@ export default {
     'pu3yyr',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/everFinance',
+  telegram: null,
+  twitter: 'https://twitter.com/everVisionHQ',
 } satisfies AdapterProject

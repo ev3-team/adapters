@@ -64,4 +64,8 @@ export default {
     'uwd92p',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/altstatemachine',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Provider of a provision infrastructure that allows developers to connect to protocols, and deploy to decentralized networks with one unified development workflow. The solution offers Authentication, Identity, Distributed Storage, Access Controls, Smart Contracts and Cryptographic Ceremonies.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

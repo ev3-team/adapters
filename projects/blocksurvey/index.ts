@@ -23,4 +23,8 @@ export default {
     'wa3eqd',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/BlockSurvey',
+  telegram: null,
+  twitter: 'https://twitter.com/blocksurvey',
 } satisfies AdapterProject

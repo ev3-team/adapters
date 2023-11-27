@@ -11,4 +11,8 @@ export default {
     'MicroAI is an Edge AI-enablement company for the Manufacturing, O&G, Automotive, Telecom, and Silicon sectors.',
   investors: ['kxfsjf', 'mave87'],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/microai-ai/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/gomicroai?s=11',
 } satisfies AdapterProject

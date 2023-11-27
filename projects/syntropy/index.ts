@@ -24,4 +24,8 @@ export default {
     '5rmf8c',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/SyntropyNet',
+  telegram: 'https://t.me/SyntropyNet',
+  twitter: 'https://twitter.com/Syntropynet',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Empowering a new frontier of Solana NFT use-cases with ephemeral epNFTs',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

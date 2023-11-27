@@ -10,4 +10,8 @@ export default {
   description: 'Rumi is a permissionless platform for DeFi asset management.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/rumilabs/status/1325733403686133760',
 } satisfies AdapterProject

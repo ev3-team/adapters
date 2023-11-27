@@ -29,4 +29,8 @@ export default {
     '32ha77',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/nitroleaguegame',
+  twitter: 'https://twitter.com/nitroleaguegame',
 } satisfies AdapterProject

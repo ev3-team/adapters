@@ -11,4 +11,8 @@ export default {
     'Peach Inu is a memecoin bringing together a community of Princess Peach fans and creating a space for fun and exchange.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

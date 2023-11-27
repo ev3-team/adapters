@@ -10,4 +10,8 @@ export default {
   description: 'FirstTensor is a community-powered Bittensor Validator.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/firsttensor',
+  twitter: 'https://twitter.com/firsttensor',
 } satisfies AdapterProject

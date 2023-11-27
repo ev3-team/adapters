@@ -11,4 +11,8 @@ export default {
     'Zephyr Protocol is a cryptocurrency protocol aiming to combine and refine the best proven privacy and stablecoin protocols. It utilizes a triple asset model consisting of ZEPH, ZephUSD, and ZephRSV. ZEPH is the native currency of the network, ZephUSD is the stablecoin pegged to the value of the USD, and ZephRSV acts as a reserve token for reserve providers.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

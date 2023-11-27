@@ -30,4 +30,8 @@ export default {
     'tmyvo7',
   ],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/growfitter.com',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/growfitter?lang=en',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'GPU is a decentralized GPU network for AI training.',
   investors: ['bah2fw'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

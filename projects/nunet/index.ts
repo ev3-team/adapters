@@ -21,4 +21,8 @@ export default {
     'tktadr',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/nunet',
+  github: null,
+  telegram: 'https://t.me/NuNet_community',
+  twitter: 'https://twitter.com/nunet_global',
 } satisfies AdapterProject

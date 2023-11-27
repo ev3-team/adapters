@@ -11,4 +11,8 @@ export default {
     'Vinci World provides AI models for blockchain games, enhancing gaming experiences with cutting-edge technology.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/VinciWorld',
 } satisfies AdapterProject

@@ -20,4 +20,8 @@ export default {
     'ur9o63',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/introducing-suptho',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/SupthoApp',
 } satisfies AdapterProject

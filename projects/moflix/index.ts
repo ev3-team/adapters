@@ -10,4 +10,8 @@ export default {
   description: 'Moflix enables telco operators to become the backbone of Web3.',
   investors: ['jy83oo'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

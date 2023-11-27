@@ -10,4 +10,8 @@ export default {
   description: 'Incognito is a privacy hub for private shielded cryptocurrency transactions.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@incognitochain',
+  github: 'https://github.com/incognitochain',
+  telegram: 'https://t.me/incognitochain',
+  twitter: 'https://twitter.com/IncognitoChain',
 } satisfies AdapterProject

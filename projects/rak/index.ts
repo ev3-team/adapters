@@ -11,4 +11,8 @@ export default {
     'RAKwireless is an industrial-leading connectivity provider that builds infrastructures and Modular Edge devices for IoT, Smart City, and Smart Agriculture markets with in-house developed solutions, utilizing LPWA (Low Power Wide Area) technologies. Network partners for companies like Helium, AWS, Chirp, etc)',
   investors: ['gyce3n', 'ztuz2u', 'yv9j5t', 'u98nrn'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/RAKWireless',
+  telegram: null,
+  twitter: 'https://twitter.com/RAKwireless',
 } satisfies AdapterProject

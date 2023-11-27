@@ -36,4 +36,8 @@ export default {
     'brmebh',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/coldstack',
+  github: 'https://github.com/ColdStack-Network/',
+  telegram: 'https://t.me/coldstackio',
+  twitter: 'https://twitter.com/coldstack_io',
 } satisfies AdapterProject

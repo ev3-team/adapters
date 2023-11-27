@@ -47,4 +47,8 @@ export default {
     'ixxo16',
   ],
   duneQueries: null,
+  blog: 'https://blog.audius.co/',
+  github: null,
+  telegram: 'https://t.me/audius',
+  twitter: 'https://twitter.com/audius',
 } satisfies AdapterProject

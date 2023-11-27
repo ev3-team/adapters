@@ -42,4 +42,8 @@ export default {
     'yviisw',
   ],
   duneQueries: null,
+  blog: 'https://blog.bitscrunch.com/',
+  github: null,
+  telegram: 'https://t.me/bitsCrunch/',
+  twitter: 'https://twitter.com/bitscrunch/',
 } satisfies AdapterProject

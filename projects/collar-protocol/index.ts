@@ -11,4 +11,8 @@ export default {
     "Collar Protocol is aliquidation-free borrowing solution. They've built Collar in order to solve the liquidation problem and DeFi’s borrowing trilemma (stability of borrowed assets, liquidation of collateral, high LTV). They do this by helping connect borrowers with marketmakers via an on-chain request-for-quote (RFQ) process, resulting in a “COLlaborative Lending ARrangement” (Collar).",
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

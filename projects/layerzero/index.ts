@@ -10,4 +10,8 @@ export default {
   description: 'LayerZero builds DeWi infrastructure in LA.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

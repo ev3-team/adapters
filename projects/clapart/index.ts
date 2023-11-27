@@ -10,4 +10,8 @@ export default {
   description: 'CLAPART empowers creators and fans for project funding.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/CLAPART_Announcements',
+  twitter: 'https://twitter.com/clapartofficial',
 } satisfies AdapterProject

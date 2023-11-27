@@ -11,4 +11,8 @@ export default {
     'XYO is a blockchain network of 3 million IoT devices that collects and validates geospatial data anonymously.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/xyonetwork',
+  twitter: 'https://twitter.com/OfficialXYO',
 } satisfies AdapterProject

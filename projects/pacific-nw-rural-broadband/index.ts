@@ -11,4 +11,8 @@ export default {
     'The Pacific Northwest Rural Broadband Alliance is a registered non-profit ISP dedicated to facilitate the adoption of next generation blockhain-based decentralized infrastructure technologies to solve the ever widening digital divide created by big telecom ignoring the needs of our rural communities.',
   investors: ['ii5tnv'],
   duneQueries: null,
+  blog: 'https://nwba.medium.com/',
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

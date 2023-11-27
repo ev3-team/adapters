@@ -11,4 +11,8 @@ export default {
     'Heata is a green compute network that uses wasted heat from computers to warm water for homes.',
   investors: ['ac14rq', 'g1hgzb', '5e17r6', 'udus4e'],
   duneQueries: null,
+  blog: 'https://medium.com/@heata_cloud_compute',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/heatacompute',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Developer of Open Index Protocol, an efficient decentralized indexer for on-chain data.',
   investors: ['te4xtz', '5sjxy4', 'j471wi', 'ujw2s3', 'xgzede', 'rh7r97'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/SuperChainNetwork',
+  telegram: null,
+  twitter: 'https://twitter.com/OpenSuperchain',
 } satisfies AdapterProject

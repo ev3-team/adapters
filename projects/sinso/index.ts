@@ -30,4 +30,8 @@ export default {
     'ka28kz',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

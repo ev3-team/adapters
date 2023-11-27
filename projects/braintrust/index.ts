@@ -16,4 +16,8 @@ export default {
     MINT: '3168277',
     PRICE: '3151429',
   },
+  blog: 'https://medium.com/tag/braintrust',
+  github: null,
+  telegram: null,
+  twitter: 'https://t.me/braintrustofficial',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'Go! is a blockchain powering universal basic services.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/gobyhealthhero',
+  twitter: 'https://twitter.com/GoHealthHero',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'ChainGPT AI for Blockchain and Crypto, providing knowledge and tools with CGPT utility token.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@chaingpt',
+  github: 'https://github.com/ChainGPT-org',
+  telegram: 'https://t.me/chaingpt',
+  twitter: 'https://twitter.com/Chain_GPT',
 } satisfies AdapterProject

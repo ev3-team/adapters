@@ -41,4 +41,8 @@ export default {
     'e0wtte',
   ],
   duneQueries: null,
+  blog: 'https://debridge.finance/blog/',
+  github: 'https://github.com/debridge-finance/',
+  telegram: 'https://t.me/deBridge_finance',
+  twitter: 'https://twitter.com/deBridgeFinance',
 } satisfies AdapterProject

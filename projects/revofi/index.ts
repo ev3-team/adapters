@@ -10,4 +10,8 @@ export default {
   description: 'RevoFi is a decentralized wireless infrastructure platform.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/revofico?lang=en',
 } satisfies AdapterProject

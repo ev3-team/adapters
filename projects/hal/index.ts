@@ -10,4 +10,8 @@ export default {
   description: 'Hal is a chatbot built on BitTensor.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://chatwithhal.vercel.app/platforms/telegram',
+  twitter: 'https://chatwithhal.vercel.app/platforms/twitter',
 } satisfies AdapterProject

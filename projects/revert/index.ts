@@ -10,4 +10,8 @@ export default {
   description: 'Revert makes it incredibly easy to build integrations with any third party API.',
   investors: [],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/90436779/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/revertdotdev',
 } satisfies AdapterProject

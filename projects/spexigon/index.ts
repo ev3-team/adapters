@@ -11,4 +11,8 @@ export default {
     'Spexigon is a decentralized network of drone operators using the first fly-to-earn drone imagery platform.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/spexigon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

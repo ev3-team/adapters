@@ -30,4 +30,8 @@ export default {
     '7q5pnm',
   ],
   duneQueries: null,
+  blog: 'https://invarch.medium.com/',
+  github: null,
+  telegram: 'https://t.me/InvArch',
+  twitter: 'https://twitter.com/InvArchNetwork',
 } satisfies AdapterProject

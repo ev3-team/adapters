@@ -11,4 +11,8 @@ export default {
     'Superstake is a staking platform and NFT marketplace for crypto enthusiasts in the SUPERPANCAKE ecosystem.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

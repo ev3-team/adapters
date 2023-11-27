@@ -11,4 +11,8 @@ export default {
     'Advantis AI empowers crypto enthusiasts with innovative solutions like AI Outlook, Scanner, and University.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@advantisai',
+  github: null,
+  telegram: 'https://t.me/advantisai',
+  twitter: 'https://twitter.com/AdvantisToken',
 } satisfies AdapterProject

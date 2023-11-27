@@ -24,4 +24,8 @@ export default {
     'ubuz3j',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/fwbtweets',
 } satisfies AdapterProject

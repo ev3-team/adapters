@@ -10,4 +10,8 @@ export default {
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
   investors: ['aj65x1'],
   duneQueries: null,
+  blog: 'https://medium.com/@QRL',
+  github: 'https://github.com/topics/qrl',
+  telegram: null,
+  twitter: 'https://twitter.com/QRLedger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

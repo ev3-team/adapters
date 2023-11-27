@@ -10,4 +10,8 @@ export default {
   description: 'Greensparc: Sustainable computing and ESG analytics.',
   investors: ['pkaqi7', 'a3dnz6'],
   duneQueries: null,
+  blog: 'https://www.greensparc.com/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/greensparc',
 } satisfies AdapterProject

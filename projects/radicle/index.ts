@@ -34,4 +34,8 @@ export default {
     'gduv1m',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/radicle',
 } satisfies AdapterProject

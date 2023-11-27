@@ -10,4 +10,8 @@ export default {
   description: 'Datum: Secure, private, and anonymous data storage and trading on blockchain.',
   investors: ['t8rmuj'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/datumnetwork',
 } satisfies AdapterProject

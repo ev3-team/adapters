@@ -110,4 +110,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://near.org/blog',
+  github: 'https://github.com/near/dx',
+  telegram: 'https://t.me/cryptonear',
+  twitter: 'https://twitter.com/nearprotocol',
 } satisfies AdapterProject

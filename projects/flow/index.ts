@@ -37,4 +37,8 @@ export default {
     'pcw959',
   ],
   duneQueries: null,
+  blog: 'https://flow.com/blog',
+  github: 'https://github.com/onflow',
+  telegram: null,
+  twitter: 'https://twitter.com/flow_blockchain',
 } satisfies AdapterProject

@@ -21,4 +21,8 @@ export default {
     'bix4ir',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@photon.storage',
+  github: 'https://github.com/photon-storage',
+  telegram: 'https://t.me/photonstorage',
+  twitter: 'https://twitter.com/photon_storage',
 } satisfies AdapterProject

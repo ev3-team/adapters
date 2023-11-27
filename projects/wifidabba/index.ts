@@ -11,4 +11,8 @@ export default {
     'WifiDabba builds low-cost, scalable, distributed Wi-Fi infrastructure using lasers.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/WifiDabba',
 } satisfies AdapterProject

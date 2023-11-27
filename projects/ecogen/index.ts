@@ -11,4 +11,8 @@ export default {
     'EcoGen builds sustainable edge computing and renewable energy for cryptocurrency mining.',
   investors: [],
   duneQueries: null,
+  blog: 'https://miavass.medium.com/ecogen-technologies-launch-4a942446630e',
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

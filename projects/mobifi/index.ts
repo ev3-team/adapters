@@ -10,4 +10,8 @@ export default {
   description: 'MobiFi rewards users for making smarter mobility decisions.',
   investors: ['h2wgzg'],
   duneQueries: null,
+  blog: 'https://medium.com/mobifi',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/mobifi',
 } satisfies AdapterProject

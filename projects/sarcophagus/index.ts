@@ -21,4 +21,8 @@ export default {
     'bku3ew',
   ],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/sarcophagusio',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/sarcophagusio',
 } satisfies AdapterProject

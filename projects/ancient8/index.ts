@@ -53,4 +53,8 @@ export default {
     '4pj3dm',
   ],
   duneQueries: null,
+  blog: 'https://blog.ancient8.gg/',
+  github: null,
+  telegram: 'https://t.me/ancient8_gg',
+  twitter: 'https://twitter.com/Ancient8_gg',
 } satisfies AdapterProject

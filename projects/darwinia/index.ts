@@ -10,4 +10,8 @@ export default {
   description: 'Darwinia is a open cross-chain bridge protocol based on Substrate.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/darwinianetwork',
+  github: 'https://github.com/darwinia-network',
+  telegram: 'https://t.me/DarwiniaNetwork',
+  twitter: 'https://twitter.com/DarwiniaNetwork',
 } satisfies AdapterProject

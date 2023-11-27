@@ -26,4 +26,8 @@ export default {
     'pcw959',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Aethir_',
 } satisfies AdapterProject

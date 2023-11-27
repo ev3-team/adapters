@@ -11,4 +11,8 @@ export default {
     'Chainlink enables connected smart contracts through a decentralized oracle network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/swlh/chainlink-decentralized-network-of-oracles-6844ff96f47f',
+  github: null,
+  telegram: 'https://t.me/chainlinkofficial',
+  twitter: 'https://twitter.com/chainlink',
 } satisfies AdapterProject

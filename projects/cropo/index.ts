@@ -10,4 +10,8 @@ export default {
   description: 'CroPo collects global data, offers value to participants.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/cropo_data',
 } satisfies AdapterProject

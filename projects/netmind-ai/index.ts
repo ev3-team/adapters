@@ -10,4 +10,8 @@ export default {
   description: 'NetMind.AI enables deep learning model development for AI applications.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/protagolabs',
+  telegram: null,
+  twitter: 'https://twitter.com/NetMindAi',
 } satisfies AdapterProject

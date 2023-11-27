@@ -11,4 +11,8 @@ export default {
     'Dione Dione is a blockchain company developing renewable energy trading technology.',
   investors: [],
   duneQueries: null,
+  blog: 'https://github.com/DioneProtocol/Dione',
+  github: null,
+  telegram: 'https://t.me/DioneProtocol',
+  twitter: 'https://twitter.com/firstone_DIONE',
 } satisfies AdapterProject

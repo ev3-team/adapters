@@ -24,4 +24,8 @@ export default {
     'zhen2r',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/agnostiqHQ/covalent',
+  telegram: null,
+  twitter: 'https://twitter.com/agnostiqHQ',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Polymathic AI develops versatile foundation models for machine learning applications in various scientific fields.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/PolymathicAI',
 } satisfies AdapterProject

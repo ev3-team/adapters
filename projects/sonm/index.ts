@@ -22,4 +22,8 @@ export default {
     'nopne6',
   ],
   duneQueries: null,
+  blog: 'https://sonm.medium.com/',
+  github: 'https://github.com/sonm-io',
+  telegram: 'https://t.me/sonm_eng',
+  twitter: 'https://twitter.com/sonmdevelopment',
 } satisfies AdapterProject

@@ -41,4 +41,8 @@ export default {
     '9ltipb',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/modal-labs',
+  telegram: null,
+  twitter: 'https://twitter.com/modal_labs',
 } satisfies AdapterProject

@@ -10,4 +10,8 @@ export default {
   description: 'DRIFE is a decentralized ride-hailing platform with 30k+ drivers.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/Drife_officialchat',
+  twitter: 'https://twitter.com/Drife_official',
 } satisfies AdapterProject

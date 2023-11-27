@@ -30,4 +30,8 @@ export default {
     'h8bix0',
   ],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/pitchhq',
+  github: 'https://pitch.com/blog',
+  telegram: null,
+  twitter: 'https://www.twitter.com/pitch',
 } satisfies AdapterProject

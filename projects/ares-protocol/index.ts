@@ -30,4 +30,8 @@ export default {
     'o7xcsr',
   ],
   duneQueries: null,
+  blog: 'https://aresprotocollab.medium.com/',
+  github: 'https://github.com/aresprotocols',
+  telegram: 'https://t.me/AresProtocolLab',
+  twitter: 'https://twitter.com/AresProtocolLab',
 } satisfies AdapterProject

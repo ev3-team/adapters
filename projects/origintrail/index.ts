@@ -11,4 +11,8 @@ export default {
     'OriginTrail is a decentralized knowledge graph enabling trustless knowledge sharing for everyone.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/origintrail',
+  github: 'https://github.com/OriginTrail',
+  telegram: 'https://t.me/origintrail',
+  twitter: 'https://twitter.com/origin_trail',
 } satisfies AdapterProject

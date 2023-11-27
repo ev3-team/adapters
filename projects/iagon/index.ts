@@ -30,4 +30,8 @@ export default {
     'brmebh',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/Iagon_official',
+  twitter: 'https://twitter.com/IagonOfficial',
 } satisfies AdapterProject

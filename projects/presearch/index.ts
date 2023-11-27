@@ -10,4 +10,8 @@ export default {
   description: 'Presearch is a decentralized search engine.',
   investors: [],
   duneQueries: null,
+  blog: '-vhttps://news.presearch.io/-',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/presearchnews',
 } satisfies AdapterProject

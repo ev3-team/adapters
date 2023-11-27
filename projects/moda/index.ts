@@ -32,4 +32,8 @@ export default {
     'o7xcsr',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/modadao',
+  twitter: 'https://twitter.com/moda_dao',
 } satisfies AdapterProject

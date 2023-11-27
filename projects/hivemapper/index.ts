@@ -10,4 +10,8 @@ export default {
   description: 'Hivemapper is a decentralized network for street-level imaging and mapping.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@hivemapper',
+  github: 'https://github.com/hivemapper',
+  telegram: null,
+  twitter: 'https://twitter.com/Hivemapper',
 } satisfies AdapterProject

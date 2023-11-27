@@ -27,4 +27,8 @@ export default {
     'h25e6r',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@zeitgeist.pro',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/zeitgeist_xyz?lang=en',
 } satisfies AdapterProject

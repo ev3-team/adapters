@@ -35,4 +35,8 @@ export default {
     '5lxjr4',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/getbeluga',
 } satisfies AdapterProject

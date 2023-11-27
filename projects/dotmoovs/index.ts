@@ -22,4 +22,8 @@ export default {
     'pyukl2',
   ],
   duneQueries: null,
+  blog: 'https://dotmoovs.medium.com/',
+  github: 'https://github.com/dotmoovs',
+  telegram: 'https://t.me/s/dotmoovs_announcements?before=1038',
+  twitter: 'https://twitter.com/dotmoovs',
 } satisfies AdapterProject

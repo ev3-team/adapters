@@ -11,4 +11,8 @@ export default {
     'Numeraire Numerai is an Ethereum-based platform for developers to experiment and create machine learning models.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/numerai',
+  github: 'https://github.com/numerai',
+  telegram: 'https://t.me/NMR_Official',
+  twitter: 'https://twitter.com/numerai',
 } satisfies AdapterProject

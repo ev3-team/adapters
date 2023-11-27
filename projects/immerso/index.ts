@@ -10,4 +10,8 @@ export default {
   description: 'O IMMERSO É UMA NOVA PROPOSTA DE HOSPITALIDADE',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

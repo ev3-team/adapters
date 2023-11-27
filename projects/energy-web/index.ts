@@ -31,4 +31,8 @@ export default {
     'puhefe',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

@@ -35,4 +35,8 @@ export default {
     'hhcvbz',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Pano_AI',
 } satisfies AdapterProject

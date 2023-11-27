@@ -10,4 +10,8 @@ export default {
   description: 'Databroker is a secure marketplace for peer-to-peer data exchange.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Databroker',
 } satisfies AdapterProject

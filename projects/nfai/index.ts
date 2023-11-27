@@ -11,4 +11,8 @@ export default {
     'NFAi: decentralized hedge fund experiment focused on crypto data science, aiming to establish a profit-sharing fund.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@nfalabs',
+  github: null,
+  telegram: 'https://t.me/nfalabs',
+  twitter: 'https://twitter.com/nfalabs',
 } satisfies AdapterProject

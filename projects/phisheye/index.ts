@@ -11,4 +11,8 @@ export default {
     'Phisheye is a proactive phishing prevention platform for the Web3 ecosystem, using Proof of Protection and NFT badges.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

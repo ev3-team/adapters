@@ -11,4 +11,8 @@ export default {
     'Mintstars is a subscription-based NFT platform empowering creators to control their content and earnings.',
   investors: ['7zvxz8', '8agdnp', 'ju3e71'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/MintStarsReal',
 } satisfies AdapterProject

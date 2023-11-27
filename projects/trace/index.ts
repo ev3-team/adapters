@@ -33,4 +33,8 @@ export default {
     'pyukl2',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@tracenetwork',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/trace_network',
 } satisfies AdapterProject

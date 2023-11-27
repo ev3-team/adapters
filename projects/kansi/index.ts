@@ -11,4 +11,8 @@ export default {
     'Kansi Solutions is a DePIN hosting platform offering mining opportunities for end-users to earn passive income.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/KanisiTech',
+  telegram: 'https://t.me/s/kansi_hilfestellung?before=27',
+  twitter: 'https://twitter.com/kanisolutions?lang=en',
 } satisfies AdapterProject

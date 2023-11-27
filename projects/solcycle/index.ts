@@ -11,4 +11,8 @@ export default {
     'SolCycle Rewards incentivizes recycling, promoting sustainability and environmental conservation.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/soulcycle',
 } satisfies AdapterProject

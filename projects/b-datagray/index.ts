@@ -11,4 +11,8 @@ export default {
     'B-Datagray is a company developing a Blockchain infrastructure for decentralized GPU/CPU cloud computing.',
   investors: ['4l8mmr', 'x2hmqv', '8agdnp', 'hgmxdl', 'iov8qk'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/Datagen-Project',
+  telegram: 'https://t.me/bdatagray',
+  twitter: 'https://twitter.com/b_datagray',
 } satisfies AdapterProject

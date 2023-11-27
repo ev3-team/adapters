@@ -10,4 +10,8 @@ export default {
   description: 'Media Network is a decentralized hub for web services.',
   investors: [],
   duneQueries: null,
+  blog: 'https://mediafoundation.medium.com/',
+  github: 'https://github.com/mediafoundation',
+  telegram: 'https://t.me/Media_FDN',
+  twitter: 'https://twitter.com/Media_FDN',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'RLC: Monetize or rent out computational resources, datasets, and applications through iExec.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/iex-ec',
+  github: 'https://github.com/iExecBlockchainComputing',
+  telegram: 'https://t.me/iexec_rlc_official',
+  twitter: 'https://twitter.com/iEx_ec',
 } satisfies AdapterProject

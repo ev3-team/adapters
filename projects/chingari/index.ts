@@ -96,4 +96,8 @@ export default {
     'qqxhld',
   ],
   duneQueries: null,
+  blog: 'https://chingariapp.medium.com/',
+  github: 'https://github.com/CodeTheChangeUBC/Chingari/projects/2',
+  telegram: null,
+  twitter: 'https://twitter.com/Chingari_IN',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Apillion is a Web3 development platform enabling developers to build in the Polkadot ecosystem.',
   investors: ['4l8mmr', '0hfvt9', '6uuq9l', '6hezki', 'uilrdd', 'nj1v3c', 'ka28kz'],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/Apillon',
+  telegram: null,
+  twitter: 'https://twitter.com/Apillon',
 } satisfies AdapterProject

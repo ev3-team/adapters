@@ -11,4 +11,8 @@ export default {
     'lilAI is an AI powered, smart automated community management solution built on Arbitrum. The $LILAI token lives at the heart of all lilAI services, and act as the vehicle for any consumer of lilAI products.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

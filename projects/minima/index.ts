@@ -25,4 +25,8 @@ export default {
     'natuqc',
   ],
   duneQueries: null,
+  blog: 'https://www.minima.global/',
+  github: 'https://github.com/minima-global',
+  telegram: 'https://t.me/Minima_Global',
+  twitter: 'https://twitter.com/Minima_Global',
 } satisfies AdapterProject

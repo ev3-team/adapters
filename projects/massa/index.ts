@@ -11,4 +11,8 @@ export default {
     "Massa is a new blockchain based on a multithreaded technology that supports more than 10'000 transactions per second in a fully decentralized network with thousands of nodes.",
   investors: ['ibk8eu', '14mgz0', 'jo973z', 'nzxtym'],
   duneQueries: null,
+  blog: 'https://massalabs.medium.com/',
+  github: 'https://github.com/massalabs/massa',
+  telegram: 'https://t.me/massanetwork',
+  twitter: 'https://twitter.com/massalabs',
 } satisfies AdapterProject

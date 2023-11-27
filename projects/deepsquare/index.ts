@@ -11,4 +11,8 @@ export default {
     'DeepSquare is a company building an energy-efficient cloud computing ecosystem by reusing ICT generated heat.',
   investors: ['akmu2d', 'vjpj24', 'nnrh00'],
   duneQueries: null,
+  blog: 'https://medium.com/@DeepSquare.io',
+  github: 'https://github.com/deepsquare-io',
+  telegram: null,
+  twitter: 'https://twitter.com/DeepSQUAREio',
 } satisfies AdapterProject

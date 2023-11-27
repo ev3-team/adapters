@@ -11,4 +11,8 @@ export default {
     'LUKSO is a next generation EVM blockchain based on Casper PoS and will be the foundation for the New Creative Economy. The LUKSO network is designed specifically for the creative economies in lifestyle, fashion, media, and design, offering a decentralized platform for creators to innovate, manage assets, and interact with communities without traditional centralized gatekeepers. It leverages crypto-economics to foster a new discourse in creativity and technology, enabling peer production, transparent interactions, and sustainable, self-sovereign identities for a more direct and collaborative creative process.',
   investors: ['eq458r', 'gduv1m'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

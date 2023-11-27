@@ -10,4 +10,8 @@ export default {
   description: 'Pink BNB categorizes and analyzes data for crypto predictions.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@pnbworld',
+  github: null,
+  telegram: 'https://t.me/pnbworld',
+  twitter: 'https://twitter.com/pnbworld',
 } satisfies AdapterProject

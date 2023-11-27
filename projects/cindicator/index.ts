@@ -22,4 +22,8 @@ export default {
     'o6u62z',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@Cindicator',
+  github: null,
+  telegram: 'https://t.me/cindicator_news',
+  twitter: 'https://twitter.com/Crowd_indicator',
 } satisfies AdapterProject

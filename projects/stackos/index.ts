@@ -35,4 +35,8 @@ export default {
     'dovucn',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/stackos',
+  github: 'https://github.com/stackosofficial',
+  telegram: 'https://t.me/DeployOnStackOS',
+  twitter: 'https://twitter.com/DeployOnStackOS',
 } satisfies AdapterProject

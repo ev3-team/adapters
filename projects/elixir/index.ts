@@ -30,4 +30,8 @@ export default {
     'nlvx3r',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: 'https://t.me/elixirprotocol',
+  twitter: 'https://twitter.com/ElixirProtocol',
 } satisfies AdapterProject

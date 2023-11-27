@@ -51,4 +51,8 @@ export default {
     'wdtkj1',
   ],
   duneQueries: null,
+  blog: 'http://www.linkedin.com/company/imbue-ai',
+  github: 'https://imbue.com/blog/',
+  telegram: null,
+  twitter: 'https://twitter.com/imbue_ai',
 } satisfies AdapterProject

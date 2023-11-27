@@ -11,4 +11,8 @@ export default {
     'Platform merging AI and Web3 for creation, ownership, tokenization, and monetization of AI assets.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@protocolai_ready',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/ProtocolAI1',
 } satisfies AdapterProject

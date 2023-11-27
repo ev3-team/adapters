@@ -11,4 +11,8 @@ export default {
     'SmartCredit connects lenders and borrowers globally, offering decentralized peer-to-peer lending.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/smartcredit-io',
+  github: 'https://github.com/SmartCredit-io',
+  telegram: 'https://t.me/SmartCredit_Community',
+  twitter: 'https://twitter.com/Smartcredit_io',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Our disruptive innovation reduces the dependence on travel and paper. To optimize costs and control the carbon footprint with a virtual shopping platform.',
   investors: ['pr1zjq'],
   duneQueries: null,
+  blog: 'https://ethglobal.medium.com/',
+  github: 'https://github.com/ethglobal',
+  telegram: null,
+  twitter: 'https://twitter.com/ETHGlobal',
 } satisfies AdapterProject

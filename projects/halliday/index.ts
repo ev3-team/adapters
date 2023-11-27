@@ -11,4 +11,8 @@ export default {
     'Halliday provides a programmable ERC-4337 Smart Accounts that are fully non-custodial, built to scale, and most importantly, designed specifically for games.',
   investors: ['92ar5l', '26x5nn', 'ja2261', 's2rvpp', 'jn1ani', 'h2kgqh', 'k1e97y'],
   duneQueries: null,
+  blog: 'https://medium.com/@HallidayHQ',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/HallidayHQ',
 } satisfies AdapterProject

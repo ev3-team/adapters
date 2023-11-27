@@ -32,4 +32,8 @@ export default {
     'xvgf6w',
   ],
   duneQueries: null,
+  blog: 'https://kilt-protocol.medium.com/',
+  github: 'https://github.com/KILTprotocol',
+  telegram: null,
+  twitter: 'https://twitter.com/Kiltprotocol',
 } satisfies AdapterProject

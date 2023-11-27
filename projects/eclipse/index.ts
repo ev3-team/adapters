@@ -32,4 +32,8 @@ export default {
     'qr2jg3',
   ],
   duneQueries: null,
+  blog: 'https://www.eclipse.builders/blog',
+  github: null,
+  telegram: 'https://t.me/eclipse_labs',
+  twitter: 'https://twitter.com/EclipseFND',
 } satisfies AdapterProject

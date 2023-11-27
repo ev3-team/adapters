@@ -11,4 +11,8 @@ export default {
     'Digitize your communications in just a few clicks. The VoIP switchboard that saves you money in call management.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

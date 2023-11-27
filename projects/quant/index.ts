@@ -22,4 +22,8 @@ export default {
     'lmuq6h',
   ],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/quant_network',
 } satisfies AdapterProject

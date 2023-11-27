@@ -11,4 +11,8 @@ export default {
     'Sia is a decentralized cloud storage network combining Proof of Work with a contract-based storage model.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/SiaFoundation',
+  telegram: null,
+  twitter: 'https://twitter.com/sia__foundation',
 } satisfies AdapterProject

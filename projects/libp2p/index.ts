@@ -11,4 +11,8 @@ export default {
     'Libp2p is an open-source network stack that lets you build modern, fully distributed applications. It provides a common set of tools for building peer-to-peer applications and services, like chat and file sharing, that work together seamlessly. Libp2p is the foundation for IPFS, but can also be used in other applications that require a network stack',
   investors: [],
   duneQueries: null,
+  blog: 'https://blog.libp2p.io/',
+  github: 'https://github.com/libp2p',
+  telegram: null,
+  twitter: 'https://twitter.com/libp2p',
 } satisfies AdapterProject

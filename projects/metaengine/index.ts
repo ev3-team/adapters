@@ -34,4 +34,8 @@ export default {
     '2wn9ev',
   ],
   duneQueries: null,
+  blog: 'https://metaengine.medium.com/',
+  github: null,
+  telegram: 'https://t.me/metaEngine_Community',
+  twitter: 'https://twitter.com/meta_engine',
 } satisfies AdapterProject

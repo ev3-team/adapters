@@ -53,4 +53,8 @@ export default {
     'dovucn',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@SupraOracles',
+  github: null,
+  telegram: 'https://t.me/SupraOracles',
+  twitter: 'https://twitter.com/SupraOracles',
 } satisfies AdapterProject

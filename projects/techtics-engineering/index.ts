@@ -11,4 +11,8 @@ export default {
     'Techtics Engineering is a specialized hardware manufacturer for decentralized physical infrastructure networks. They also provide services from "research stage till the customers doormat".',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

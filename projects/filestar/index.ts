@@ -11,4 +11,8 @@ export default {
     'FileStar is a Web 3.0 decentralized storage, verifiable computation, and measurable bandwith network infrastructure.',
   investors: ['nxzb7m'],
   duneQueries: null,
+  blog: 'https://filestarofficial.medium.com/',
+  github: 'https://github.com/filestar-project',
+  telegram: 'https://t.me/filestarofficial',
+  twitter: 'https://twitter.com/FileStarProject',
 } satisfies AdapterProject

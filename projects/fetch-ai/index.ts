@@ -24,4 +24,8 @@ export default {
     'pyukl2',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/fetch-ai',
+  github: 'https://github.com/fetchai?utm_source=Website',
+  telegram: 'https://t.me/fetch_ai?utm_source=website',
+  twitter: 'https://twitter.com/Fetch_ai',
 } satisfies AdapterProject

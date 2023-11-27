@@ -41,4 +41,8 @@ export default {
     'nzxtym',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/redstone-finance',
+  telegram: 'https://t.me/redstonefinance/',
+  twitter: 'https://twitter.com/redstone_defi',
 } satisfies AdapterProject

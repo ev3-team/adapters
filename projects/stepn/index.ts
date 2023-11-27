@@ -38,4 +38,8 @@ export default {
     'urug6u',
   ],
   duneQueries: null,
+  blog: 'https://stepnofficial.medium.com/',
+  github: null,
+  telegram: 'https://t.me/STEPNofficial',
+  twitter: 'https://twitter.com/Stepnofficial',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Superalgos: crypto trading platform for open competition, allows traders to earn through signal broadcasting.',
   investors: ['hyymt5'],
   duneQueries: null,
+  blog: 'https://medium.com/superalgos',
+  github: 'https://github.com/Superalgos/Superalgos',
+  telegram: null,
+  twitter: 'https://twitter.com/superalgos',
 } satisfies AdapterProject

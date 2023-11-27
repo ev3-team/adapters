@@ -28,4 +28,8 @@ export default {
     'mej3v6',
   ],
   duneQueries: null,
+  blog: 'https://epikprotocol.medium.com/',
+  github: 'https://github.com/EpiK-Protocol',
+  telegram: 'https://t.me/EpikProtocol',
+  twitter: 'https://twitter.com/EpikProtocol',
 } satisfies AdapterProject

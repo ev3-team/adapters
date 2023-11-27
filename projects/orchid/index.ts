@@ -11,4 +11,8 @@ export default {
     'Orchid is a decentralized onion routing network incentivized through multi-hop VPN clients.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/OrchidTechnologies',
+  telegram: 'https://www.t.me/OrchidOfficial',
+  twitter: 'https://twitter.com/OrchidProtocol',
 } satisfies AdapterProject

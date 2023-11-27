@@ -11,4 +11,8 @@ export default {
     'Hivello is a startup providing Helium hotspots to expand the helium digital network and increase connectivity.',
   investors: ['4xnix2', '3eyneg'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

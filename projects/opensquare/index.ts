@@ -11,4 +11,8 @@ export default {
     'Opensquare is building a decentralized, trusted collaboration network. The collaboration data will be stored on blockchain, and personal credit will be built on it. This will empower the credible profiles and reduce the cost for collaborations.',
   investors: ['ck6wgr', 'o7xcsr'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

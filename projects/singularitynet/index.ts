@@ -30,4 +30,8 @@ export default {
     'myul3m',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/tag/singularitynet',
+  github: 'https://github.com/singnet',
+  telegram: 'https://telegram.me/singularitynet',
+  twitter: 'https://twitter.com/singularitynet',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Decentralized ecosystem for game developers, enabling collaboration and revenue earning.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/Totem-gdn',
+  telegram: null,
+  twitter: 'https://twitter.com/TotemGDN',
 } satisfies AdapterProject

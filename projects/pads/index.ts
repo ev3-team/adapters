@@ -10,4 +10,8 @@ export default {
   description: 'Pads Financial is a Montreal based Fintech startup serving Canadian homeowners.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

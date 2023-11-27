@@ -10,4 +10,8 @@ export default {
   description: 'Mande is a decentralized reputation & credibility network.',
   investors: [],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/mande-chain/',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/MandeNetwork',
 } satisfies AdapterProject

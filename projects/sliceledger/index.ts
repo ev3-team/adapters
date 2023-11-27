@@ -11,4 +11,8 @@ export default {
     'Sliceledger is a decentralised Ethereum scaling platform empowering developers to build secure and low-fee dapps.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://mobile.twitter.com/ledgerslice',
 } satisfies AdapterProject

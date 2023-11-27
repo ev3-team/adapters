@@ -11,4 +11,8 @@ export default {
     'Arkreen is a Web3-powered digital infrastructure for global distributed renewable energy resources.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/@arkreen',
+  github: 'https://github.com/arkreen',
+  telegram: 'https://t.me/arkreen_network',
+  twitter: 'https://twitter.com/arkreen_network',
 } satisfies AdapterProject

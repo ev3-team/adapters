@@ -22,4 +22,8 @@ export default {
     'ti312b',
   ],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/topics/wave?l=html',
+  telegram: 'https://medium.com/cryptosatellite',
+  twitter: 'https://twitter.com/cryptosat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
 } satisfies AdapterProject

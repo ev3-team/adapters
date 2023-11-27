@@ -33,4 +33,8 @@ export default {
     '0nsbs7',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@myMessage',
+  github: 'https://github.com/myMessageio',
+  telegram: 'https://t.me/mymessageEN',
+  twitter: 'https://twitter.com/myMessageOS',
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'Weavechain is a secure data exchange layer that unlocks Web3 immutability and data lineage.',
   investors: ['idlbd7', 'uoqi1k', '1vwual', 'zxs7x9'],
   duneQueries: null,
+  blog: 'https://medium.com/weavechain',
+  github: 'https://github.com/weavechain',
+  telegram: null,
+  twitter: 'https://twitter.com/weavechainweb3?lang=en',
 } satisfies AdapterProject

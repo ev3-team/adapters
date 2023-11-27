@@ -22,4 +22,8 @@ export default {
     'd3ronc',
   ],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/company/q-ctrl/?_ga=2.200893288.772806730.1652587339-513873128.1652348755',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/qctrlHQ?_ga=2.200893288.772806730.1652587339-513873128.1652348755',
 } satisfies AdapterProject

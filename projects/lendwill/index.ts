@@ -11,4 +11,8 @@ export default {
     'Lendwill uses blockchain for global credit profile. P2P model with verifiable data & credit history on blockchain.',
   investors: ['zz62f0', '2xll81', '2v43df', 'c13n8x', 'jzr2i9', '25yhn5', 'p436ux'],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/lendwill',
 } satisfies AdapterProject

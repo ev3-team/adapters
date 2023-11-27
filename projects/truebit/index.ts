@@ -11,4 +11,8 @@ export default {
     'Truebit is an outsourced computation protocol that aims to take off-chain large computation tasks such as complex smart contracts. Truebit can be considered as a marketplace where Task Givers (Organized in Task Owners and Task Submitters) request computation from Solvers and Verifiers.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/truebit',
+  github: 'https://github.com/TruebitProtocol',
+  telegram: null,
+  twitter: 'https://twitter.com/Truebitprotocol',
 } satisfies AdapterProject

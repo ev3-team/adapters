@@ -10,4 +10,8 @@ export default {
   description: 'Boring is a decentralized VPN and peer-to-peer bandwidth market.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: 'https://github.com/boringprotocol/',
+  telegram: null,
+  twitter: 'https://twitter.com/BoringProtocol',
 } satisfies AdapterProject

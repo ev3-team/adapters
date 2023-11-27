@@ -11,4 +11,8 @@ export default {
     'UltronGlow: decentralized storage network for secure data storage, users earn rewards.',
   investors: [],
   duneQueries: null,
+  blog: 'https://ultronglow.medium.com/',
+  github: 'https://github.com/UltronGlow',
+  telegram: 'https://t.me/UltronGlowOfficial',
+  twitter: 'https://twitter.com/ultronglow',
 } satisfies AdapterProject

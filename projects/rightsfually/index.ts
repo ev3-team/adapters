@@ -11,4 +11,8 @@ export default {
     'We help usher artists and independent content creators into the world of FAIR content attribution.',
   investors: [],
   duneQueries: null,
+  blog: 'https://www.linkedin.com/showcase/rightsfually/?trk=organization_guest_main-feed-card_reshare-text',
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/RightsfuAlly?t=CF-wuGubyRb9dG8K_dnP5Q&s=08',
 } satisfies AdapterProject

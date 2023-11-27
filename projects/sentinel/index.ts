@@ -11,4 +11,8 @@ export default {
     'Sentinel is a global ecosystem of autonomous dVPN apps enabling private censorship-resistant internet access.',
   investors: [],
   duneQueries: null,
+  blog: 'https://medium.com/sentinel',
+  github: 'https://github.com/sentinel-official',
+  telegram: 'https://t.me/sentinel_co',
+  twitter: 'https://twitter.com/Sentinel_co',
 } satisfies AdapterProject

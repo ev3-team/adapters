@@ -20,4 +20,8 @@ export default {
     '9e1gk4',
   ],
   duneQueries: null,
+  blog: 'https://medium.com/@KandolaNetwork',
+  github: null,
+  telegram: 'https://web.telegram.org/a/',
+  twitter: 'https://twitter.com/KandolaNetwork',
 } satisfies AdapterProject

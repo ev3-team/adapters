@@ -11,4 +11,8 @@ export default {
     'PKT Pal enables businesses to offer free internet, collect customer data, and earn revenue through captive portals.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

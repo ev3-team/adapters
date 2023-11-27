@@ -10,4 +10,8 @@ export default {
   description: 'Meson is building a decentralized CDN and Bandwidth Exchange.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
 } satisfies AdapterProject

@@ -11,4 +11,8 @@ export default {
     'GuardianAI: Decentralized defense system for DAOs and multisigs, using AI agents from the Decentralized AI Network.',
   investors: [],
   duneQueries: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/guardian',
 } satisfies AdapterProject

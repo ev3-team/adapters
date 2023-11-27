@@ -15,4 +15,8 @@ export default {
     MINT: '2944854',
     PRICE: '2944842',
   },
+  blog: 'https://medium.com/geodnet/geodnet-revolutionizes-the-global-positioning-industry-with-real-world-web3-reference-network-21183b0ad7eb',
+  github: 'https://github.com/geodnet/whitepaper',
+  telegram: 'https://t.me/geodnet',
+  twitter: 'https://twitter.com/geodnetinfo?lang=en',
 } satisfies AdapterProject
