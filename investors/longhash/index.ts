@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'po8xe3',
   name: 'LongHash',
-  investedProjectsCount: 13,
+  investedProjectsCount: 9,
 } satisfies AdapterInvestor

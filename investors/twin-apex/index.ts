@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'wpvtch',
   name: 'Twin Apex',
-  investedProjectsCount: 1,
+  investedProjectsCount: 0,
 } satisfies AdapterInvestor

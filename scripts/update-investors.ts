@@ -4,20 +4,37 @@ import fs from 'node:fs/promises'
 import path from 'node:path'
 import { investorToFileName, investorToVarName } from '../helpers'
 import { AdapterInvestor } from '../investors/types'
+import { projects } from '../projects'
 
 /** Loop over the projects investors csv to get the total number of invested projects for each investor. */
 export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
   let index = 0
+  let projectsColumns: string[] = []
   const investorsProjectsCount = new Map<string, number>()
-
   return new Promise((resolve) => {
     createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
       .pipe(csv.parse())
       .on('error', (error) => console.error(error))
       .on('data', async (row: string[]) => {
         index++
-        if (index === 1 || index === 2) return
-        investorsProjectsCount.set(row[1], row.slice(2, row.length).filter(Boolean).length)
+        if (index === 1) return
+        if (index === 2) {
+          projectsColumns = row.slice(2, row.length)
+          return
+        }
+
+        const investorProjects = row
+          .slice(2, row.length)
+          .map((active, idx) => {
+            if (active === '1')
+              return Object.values(projects).find((project) => project.id === projectsColumns[idx])
+            return null
+          })
+          .filter(Boolean)
+          // Exclude projects that are not depin
+          .filter((p) => p?.category !== 'NOT_DEPIN')
+
+        investorsProjectsCount.set(row[1], investorProjects.length)
       })
       .on('end', () => resolve(investorsProjectsCount))
   })

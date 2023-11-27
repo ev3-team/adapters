@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'b8exwz',
   name: 'Omni Chain',
-  investedProjectsCount: 1,
+  investedProjectsCount: 0,
 } satisfies AdapterInvestor

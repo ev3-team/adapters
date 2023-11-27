@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'tzyxtr',
   name: 'Mapleblock',
-  investedProjectsCount: 8,
+  investedProjectsCount: 4,
 } satisfies AdapterInvestor
