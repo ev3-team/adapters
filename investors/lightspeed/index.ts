@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'rwhpsx',
   name: 'Lightspeed',
-  investedProjectsCount: 4,
+  investedProjectsCount: 0,
 } satisfies AdapterInvestor

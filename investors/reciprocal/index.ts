@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'bmsbeq',
   name: 'Reciprocal',
-  investedProjectsCount: 1,
+  investedProjectsCount: 0,
 } satisfies AdapterInvestor

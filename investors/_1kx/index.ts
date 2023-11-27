@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'bspyld',
   name: '1kx',
-  investedProjectsCount: 8,
+  investedProjectsCount: 7,
 } satisfies AdapterInvestor
