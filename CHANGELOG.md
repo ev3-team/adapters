@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.11
+
+### Patch Changes
+
+- add social links to projects.
+
 ## 0.3.10
 
 ### Patch Changes
