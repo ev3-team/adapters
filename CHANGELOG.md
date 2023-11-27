@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.10
+
+### Patch Changes
+
+- Exclude projects that are not depin from investors projects count.
+
 ## 0.3.9
 
 ### Patch Changes
