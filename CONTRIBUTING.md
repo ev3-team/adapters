@@ -83,6 +83,16 @@ git push -u origin HEAD
 9. We will review your Pull Request and either merge it, request changes to it, or close it with an
    explanation. Please email ninja@ev3.xyz with any questions.
 
+## Publishing a new version
+
+In order to see the changes reflected in the frontend you'll have to publish a new package version, we are using changeset and github actions to do this, you can follow the next steps if you want to publish a new version:
+
+- Make sure you’re in staging branch with latest changes: `git checkout staging && git pull`
+- Run `pnpm changeset` and fill in the two fields: 1. What kind of change is this.. and 2. Summary confirm changeset. (this step will generate a .md file in the .changeset folder )
+- Then run `pnpm changeset version` this command will use the generated .md file to update the package.json with the new version and the update the CHANGELOG.md file with the new version description.
+- Then commit and push this changes to staging.
+- After you have all your changes ready to publish then merge staging into main, this step will trigger the publish ci job.
+
 ## Contribute from a browser IDE
 
 Make changes and contribute in a single click with an **already setup and ready to code developer environment** using Gitpod !
