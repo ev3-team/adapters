@@ -31,4 +31,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://rhino.fi/',
 } satisfies AdapterProject

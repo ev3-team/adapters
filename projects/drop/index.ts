@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/timogiles/wireless-dead-drop',
   telegram: null,
   twitter: 'https://mobile.twitter.com/dropwireless',
+  url: 'https://dropwireless.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/arkreen',
   telegram: 'https://t.me/arkreen_network',
   twitter: 'https://twitter.com/arkreen_network',
+  url: 'https://arkreen.com/',
 } satisfies AdapterProject

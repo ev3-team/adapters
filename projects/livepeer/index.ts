@@ -18,4 +18,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/livepeerorg',
+  url: 'https://livepeer.org/',
 } satisfies AdapterProject

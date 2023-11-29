@@ -24,4 +24,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/CryptoMateLatam',
+  url: 'https://cryptomate.me/',
 } satisfies AdapterProject

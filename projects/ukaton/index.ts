@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Ukaton-Inc',
   telegram: null,
   twitter: 'https://twitter.com/ConcreteSciFi',
+  url: 'https://ukaton.com/',
 } satisfies AdapterProject

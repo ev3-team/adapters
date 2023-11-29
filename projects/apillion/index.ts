@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Apillon',
   telegram: null,
   twitter: 'https://twitter.com/Apillon',
+  url: 'https://apillon.io/',
 } satisfies AdapterProject

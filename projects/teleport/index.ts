@@ -28,4 +28,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/teleportxyz',
+  url: 'https://www.teleport.xyz/',
 } satisfies AdapterProject

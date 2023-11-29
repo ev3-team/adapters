@@ -45,4 +45,5 @@ export default {
   github: 'https://github.com/redstone-finance',
   telegram: 'https://t.me/redstonefinance/',
   twitter: 'https://twitter.com/redstone_defi',
+  url: 'https://redstone.finance/',
 } satisfies AdapterProject

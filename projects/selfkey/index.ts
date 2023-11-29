@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/SelfKeyFoundation',
   telegram: 'https://t.me/selfkeyfoundation',
   twitter: 'https://twitter.com/selfkey',
+  url: 'https://selfkey.org/',
 } satisfies AdapterProject

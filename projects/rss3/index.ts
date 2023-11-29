@@ -48,4 +48,5 @@ export default {
   github: 'https://github.com/NaturalSelectionLabs',
   telegram: 'https://bit.ly/3e6FZoV',
   twitter: 'https://twitter.com/RSS3_',
+  url: 'https://rss3.io/',
 } satisfies AdapterProject

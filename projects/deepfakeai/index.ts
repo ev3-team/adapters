@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/FakeAI',
   twitter: 'https://twitter.com/DeepFakeAI_',
+  url: 'https://fakeai.io/',
 } satisfies AdapterProject

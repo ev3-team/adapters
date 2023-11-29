@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/useorigin',
+  url: 'https://originsystems.xyz/',
 } satisfies AdapterProject

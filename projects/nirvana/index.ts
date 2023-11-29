@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/search?q=nirvana+labs',
   telegram: null,
   twitter: 'https://twitter.com/nirvanalabsai',
+  url: 'https://nirvanalabs.io/',
 } satisfies AdapterProject

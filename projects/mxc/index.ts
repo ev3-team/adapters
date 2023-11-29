@@ -28,4 +28,5 @@ export default {
   github: 'https://github.com/mxc-foundation',
   telegram: 'https://t.me/mxcfoundation',
   twitter: 'https://twitter.com/mxcfoundation',
+  url: 'https://www.mxc.org/',
 } satisfies AdapterProject

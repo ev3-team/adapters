@@ -32,4 +32,5 @@ export default {
   github: 'https://github.com/EpiK-Protocol',
   telegram: 'https://t.me/EpikProtocol',
   twitter: 'https://twitter.com/EpikProtocol',
+  url: 'https://www.epik-protocol.io/',
 } satisfies AdapterProject

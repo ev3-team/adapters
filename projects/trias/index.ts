@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/trias-lab/Documentation',
   telegram: 'https://t.me/triaslab',
   twitter: 'https://twitter.com/triaslab',
+  url: 'https://www.trias.one/',
 } satisfies AdapterProject

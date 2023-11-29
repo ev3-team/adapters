@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/0chain',
   telegram: 'https://t.me/zus_network',
   twitter: 'https://twitter.com/zus_network',
+  url: 'https://zus.network/',
 } satisfies AdapterProject

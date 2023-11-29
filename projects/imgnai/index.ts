@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/search?q=nirvana+labs',
   telegram: 'https://t.me/imgnAI',
   twitter: 'https://twitter.com/imgn_ai',
+  url: 'https://imgnai.com/',
 } satisfies AdapterProject

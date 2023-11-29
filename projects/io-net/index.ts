@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/ionet-official',
   telegram: 'https://t.me/ionet_official',
   twitter: 'https://discord.com/invite/kqFzFK7fg2',
+  url: 'https://io.net/',
 } satisfies AdapterProject

@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: 'https://t.me/+C3fpSjmPqzA5NTVh',
   twitter: 'https://twitter.com/ether_fi',
+  url: 'https://ether.fi/',
 } satisfies AdapterProject

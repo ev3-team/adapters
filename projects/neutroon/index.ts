@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/neutron-org',
   telegram: 'https://t.me/NeutronCoin',
   twitter: 'https://twitter.com/Neutron_org',
+  url: 'https://www.neutroon.com/',
 } satisfies AdapterProject

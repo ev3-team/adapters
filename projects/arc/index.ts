@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ARC-MARKET/',
   telegram: null,
   twitter: 'https://twitter.com/defi_arc',
+  url: 'https://arc.market/',
 } satisfies AdapterProject

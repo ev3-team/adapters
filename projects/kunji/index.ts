@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/+qUmTI8yQNQozNTc1',
   twitter: 'https://twitter.com/kunjitweets',
+  url: 'https://www.kunji.finance/',
 } satisfies AdapterProject

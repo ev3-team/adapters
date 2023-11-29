@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'http://www.zyber365.com/',
 } satisfies AdapterProject

@@ -39,4 +39,5 @@ export default {
   github: 'https://github.com/stackosofficial',
   telegram: 'https://t.me/DeployOnStackOS',
   twitter: 'https://twitter.com/DeployOnStackOS',
+  url: 'https://www.stackos.io/',
 } satisfies AdapterProject

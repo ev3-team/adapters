@@ -33,4 +33,5 @@ export default {
   github: 'https://github.com/dTravel',
   telegram: 'https://t.me/dtravelcommunity',
   twitter: 'https://twitter.com/DtravelDAO',
+  url: 'https://www.dtravel.com/',
 } satisfies AdapterProject

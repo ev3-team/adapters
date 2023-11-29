@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/silentlink1',
+  url: 'https://silent.link/',
 } satisfies AdapterProject

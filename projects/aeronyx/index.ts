@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Aeronyx9',
+  url: 'https://aeronyx.network/',
 } satisfies AdapterProject

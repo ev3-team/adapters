@@ -50,4 +50,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://questbook.app/',
 } satisfies AdapterProject

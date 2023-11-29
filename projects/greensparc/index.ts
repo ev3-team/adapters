@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/greensparc',
+  url: 'https://www.greensparc.com/',
 } satisfies AdapterProject

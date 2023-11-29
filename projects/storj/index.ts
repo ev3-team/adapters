@@ -18,4 +18,5 @@ export default {
   github: 'https://github.com/Storj/',
   telegram: 'https://telegram.me/StorjProject',
   twitter: 'https://twitter.com/storj',
+  url: 'https://www.storj.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/stratosnet',
   telegram: 'https://t.me/Stratos_announcement',
   twitter: 'https://twitter.com/Stratos_Network',
+  url: 'https://www.thestratos.org/',
 } satisfies AdapterProject

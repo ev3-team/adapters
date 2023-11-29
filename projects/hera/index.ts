@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/heraaggregator',
   telegram: 'https://t.me/heraaggregator',
   twitter: 'https://twitter.com/heraaggregator',
+  url: 'https://hera.finance/',
 } satisfies AdapterProject

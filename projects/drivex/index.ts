@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/DriveXProtocol',
+  url: 'https://www.drivex.zone/',
 } satisfies AdapterProject

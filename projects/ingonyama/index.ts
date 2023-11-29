@@ -30,4 +30,5 @@ export default {
   github: 'https://github.com/ingonyama-zk',
   telegram: null,
   twitter: 'https://twitter.com/Ingo_zk',
+  url: 'https://www.ingonyama.com/',
 } satisfies AdapterProject

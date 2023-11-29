@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Akord-com',
   telegram: null,
   twitter: 'https://twitter.com/AkordTeam',
+  url: 'https://akord.com/',
 } satisfies AdapterProject

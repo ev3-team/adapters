@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: 'https://t.me/readygamesofficial',
   twitter: 'https://twitter.com/TheReadyGames',
+  url: 'https://ready.gg/',
 } satisfies AdapterProject

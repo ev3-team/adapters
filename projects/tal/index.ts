@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/topics/tal',
   telegram: null,
   twitter: 'https://twitter.com/talwilkenfeld?lang=en',
+  url: 'https://buildontal.com/',
 } satisfies AdapterProject

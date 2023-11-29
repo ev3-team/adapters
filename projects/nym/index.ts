@@ -36,4 +36,5 @@ export default {
   github: 'https://github.com/nymtech',
   telegram: 'https://t.me/nymchan',
   twitter: 'https://twitter.com/nymproject',
+  url: 'https://nymtech.net/',
 } satisfies AdapterProject

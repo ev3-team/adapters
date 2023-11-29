@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/VayuRobotics/status/1709162252866355627',
+  url: 'https://www.vayurobotics.com/press-releases/vayu-robotics-emerges-from-stealth-with-12-7-million-in-seed-funding-from-khosla-ventures-and-lockheed-martin-ventures',
 } satisfies AdapterProject

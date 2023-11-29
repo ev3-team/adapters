@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/hexagonkt',
   telegram: 'https://t.me/s/hexsecret?before=27',
   twitter: 'https://twitter.com/hexagonab?lang=en',
+  url: 'https://www.hexagonwireless.com/',
 } satisfies AdapterProject

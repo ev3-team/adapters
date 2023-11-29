@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/wimanwifi',
   telegram: null,
   twitter: 'https://twitter.com/UN_Women',
+  url: 'https://www.wiman.me/',
 } satisfies AdapterProject

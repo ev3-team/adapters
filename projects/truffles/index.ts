@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/trufflesuite',
+  url: 'https://trufflesuite.com/',
 } satisfies AdapterProject

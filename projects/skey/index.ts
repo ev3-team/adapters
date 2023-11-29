@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/skey-network',
   telegram: 'https://t.me/SkeyNetworkNews',
   twitter: 'https://twitter.com/skeynetwork',
+  url: 'https://skey.network/',
 } satisfies AdapterProject

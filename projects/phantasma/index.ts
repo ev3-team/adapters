@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/phantasma_io',
   twitter: 'https://twitter.com/PhantasmaChain',
+  url: 'https://phantasma.io/',
 } satisfies AdapterProject

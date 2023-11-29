@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/krestnetwork',
+  url: 'https://krest.peaq.network/',
 } satisfies AdapterProject

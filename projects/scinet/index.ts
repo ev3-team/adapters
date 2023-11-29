@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/scinet_inc',
+  url: 'https://www.scinet.one/',
 } satisfies AdapterProject

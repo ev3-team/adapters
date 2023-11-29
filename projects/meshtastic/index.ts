@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/meshtastic',
   telegram: null,
   twitter: 'https://twitter.com/TheMeshtastic',
+  url: 'https://meshtastic.org/',
 } satisfies AdapterProject

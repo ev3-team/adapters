@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/BlackRabbitAIPortal',
   twitter: 'https://twitter.com/BlackRabbitAI',
+  url: 'https://blackrabbitai.com/',
 } satisfies AdapterProject

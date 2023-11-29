@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/woollyfarms',
+  url: 'https://woolly.io/',
 } satisfies AdapterProject

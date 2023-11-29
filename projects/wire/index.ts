@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/wireapp',
   telegram: null,
   twitter: 'https://twitter.com/wire',
+  url: 'https://wire.network/',
 } satisfies AdapterProject

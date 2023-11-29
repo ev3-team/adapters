@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/BitpingApp',
   telegram: 'https://t.me/bitping',
   twitter: 'https://twitter.com/BitpingApp',
+  url: 'https://bitping.com/',
 } satisfies AdapterProject

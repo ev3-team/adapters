@@ -27,4 +27,5 @@ export default {
   github: 'https://github.com/BlockSurvey',
   telegram: null,
   twitter: 'https://twitter.com/blocksurvey',
+  url: 'https://blocksurvey.io/',
 } satisfies AdapterProject

@@ -37,4 +37,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/trace_network',
+  url: 'https://trace.network/',
 } satisfies AdapterProject

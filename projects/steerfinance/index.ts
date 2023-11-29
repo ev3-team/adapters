@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/steerprotocol',
   telegram: null,
   twitter: 'https://twitter.com/steerprotocol?lang=en',
+  url: 'https://steer.finance/',
 } satisfies AdapterProject

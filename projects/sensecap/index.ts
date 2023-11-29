@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://www.sensecapmx.com/blogs/',
+  url: 'https://www.sensecapmx.com/',
 } satisfies AdapterProject

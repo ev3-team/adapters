@@ -24,4 +24,5 @@ export default {
   github: 'https://github.com/gitpoap',
   telegram: null,
   twitter: 'https://twitter.com/gitpoap',
+  url: 'https://www.gitpoap.io/',
 } satisfies AdapterProject

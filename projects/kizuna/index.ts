@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/KizunaToken',
+  url: 'https://kizunatoken.io/',
 } satisfies AdapterProject

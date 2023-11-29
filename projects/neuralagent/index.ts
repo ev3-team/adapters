@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/neuralagent',
   telegram: null,
   twitter: 'https://twitter.com/i/web/status/1608355280286351362?lang=ar-x-fm',
+  url: 'https://neuralagent.ai/',
 } satisfies AdapterProject

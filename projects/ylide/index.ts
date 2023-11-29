@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/ylide-io',
   telegram: 'https://t.me/ylide_chat',
   twitter: 'https://twitter.com/ylide_',
+  url: 'http://www.ylide.io/',
 } satisfies AdapterProject

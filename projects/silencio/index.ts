@@ -16,4 +16,5 @@ export default {
   telegram: 'https://telegram.me/silencio17',
   twitter:
     'https://twitter.com/silencioNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  url: 'https://www.silencio.network/',
 } satisfies AdapterProject

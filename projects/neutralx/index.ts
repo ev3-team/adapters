@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/NeutralExchange',
+  url: 'https://www.neutralx.com/',
 } satisfies AdapterProject

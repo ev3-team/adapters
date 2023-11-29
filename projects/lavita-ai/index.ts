@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/Lavita_AI',
   twitter: 'https://twitter.com/LavitaAI',
+  url: 'https://www.lavita.ai/',
 } satisfies AdapterProject

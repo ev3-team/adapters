@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/complex_labs',
+  url: 'https://www.complexlabs.co/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/EquitoBridge',
   telegram: null,
   twitter: 'https://twitter.com/EquitoFinance',
+  url: 'https://equitofinance.com/',
 } satisfies AdapterProject

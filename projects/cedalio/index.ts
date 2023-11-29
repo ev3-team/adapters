@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/cedalio',
   telegram: null,
   twitter: 'https://twitter.com/CedalioTech',
+  url: 'https://cedalio.com/',
 } satisfies AdapterProject

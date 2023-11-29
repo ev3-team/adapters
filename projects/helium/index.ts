@@ -20,4 +20,5 @@ export default {
   github: 'https://github.com/helium',
   telegram: 'https://telegram.me/s/HELIUM',
   twitter: 'http://twitter.com/helium',
+  url: 'https://www.helium.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Dolphin_Emu',
+  url: 'https://dolpin.io/',
 } satisfies AdapterProject

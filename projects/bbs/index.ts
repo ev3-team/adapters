@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/BBSnetworkIO',
+  url: 'https://www.bbsnetwork.io/',
 } satisfies AdapterProject

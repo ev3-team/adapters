@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/SitePen/dstore/blob/master/docs/Store.md',
   telegram: null,
   twitter: 'https://twitter.com/dstor',
+  url: 'https://dstor.cloud/',
 } satisfies AdapterProject

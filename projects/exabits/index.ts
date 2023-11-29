@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/+D0CulDl9udZjMWIx',
   twitter: 'https://twitter.com/exa_bits',
+  url: 'https://www.exabits.ai/',
 } satisfies AdapterProject

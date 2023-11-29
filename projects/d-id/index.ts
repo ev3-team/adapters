@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/intent/follow?screen_name=DIDbased',
+  url: 'https://d.id/',
 } satisfies AdapterProject

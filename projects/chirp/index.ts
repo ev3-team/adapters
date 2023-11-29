@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/topics/chirp?o=desc&s=forks',
   telegram: null,
   twitter: 'https://twitter.com/ChirpDeWi',
+  url: 'https://chirpwireless.io/commercial',
 } satisfies AdapterProject

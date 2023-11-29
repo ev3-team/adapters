@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/diodechain',
   telegram: 'https://t.me/diode_chain',
   twitter: 'https://twitter.com/diode_chain',
+  url: 'https://diode.io/',
 } satisfies AdapterProject

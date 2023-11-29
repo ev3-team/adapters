@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2FFishcoinNetwork',
+  url: 'https://fishcoin.co/',
 } satisfies AdapterProject

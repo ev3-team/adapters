@@ -25,4 +25,5 @@ export default {
   github: 'https://github.com/photon-storage',
   telegram: 'https://t.me/photonstorage',
   twitter: 'https://twitter.com/photon_storage',
+  url: 'https://www.photon.storage/',
 } satisfies AdapterProject

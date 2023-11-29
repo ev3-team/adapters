@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/stampDOTnetwork',
+  url: 'https://www.stamp.network/',
 } satisfies AdapterProject

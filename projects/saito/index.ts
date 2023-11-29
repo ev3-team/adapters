@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/SaitoIO',
   twitter: 'https://twitter.com/SaitoOfficial',
+  url: 'https://saito.tech/',
 } satisfies AdapterProject

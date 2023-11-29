@@ -57,4 +57,5 @@ export default {
   github: null,
   telegram: 'https://t.me/SupraOracles',
   twitter: 'https://twitter.com/SupraOracles',
+  url: 'https://supraoracles.com/',
 } satisfies AdapterProject

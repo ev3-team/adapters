@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/montecarlostyle',
+  url: 'https://monte-carlo.ai/',
 } satisfies AdapterProject

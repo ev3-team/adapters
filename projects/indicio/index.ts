@@ -33,4 +33,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/indicioid?lang=en',
+  url: 'https://indicio.tech/',
 } satisfies AdapterProject

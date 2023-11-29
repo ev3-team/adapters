@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/winrprotocol/WINR_Protocol',
   telegram: 'https://t.me/WINRProtocol',
   twitter: 'https://twitter.com/WINRProtocol',
+  url: 'https://winr.games/',
 } satisfies AdapterProject

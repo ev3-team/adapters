@@ -26,4 +26,5 @@ export default {
   github: 'https://github.com/ngraveio',
   telegram: null,
   twitter: 'https://twitter.com/ngrave_official',
+  url: 'https://www.ngrave.io/',
 } satisfies AdapterProject

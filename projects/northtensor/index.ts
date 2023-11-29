@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/NorthTensorAI',
+  url: 'https://www.northtensor.ai/',
 } satisfies AdapterProject

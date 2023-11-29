@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/Portalverse-Network',
   telegram: null,
   twitter: 'https://twitter.com/Portalverse_Net',
+  url: 'https://www.portalverse.net/',
 } satisfies AdapterProject

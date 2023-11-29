@@ -45,4 +45,5 @@ export default {
   github: 'https://github.com/debridge-finance/',
   telegram: 'https://t.me/deBridge_finance',
   twitter: 'https://twitter.com/deBridgeFinance',
+  url: 'https://debridge.finance/',
 } satisfies AdapterProject

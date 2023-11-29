@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/SiaFoundation',
   telegram: null,
   twitter: 'https://twitter.com/sia__foundation',
+  url: 'https://sia.tech/',
 } satisfies AdapterProject

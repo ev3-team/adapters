@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/taoshiio?s=11',
+  url: 'https://www.taoshi.io/',
 } satisfies AdapterProject

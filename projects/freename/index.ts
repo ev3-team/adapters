@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/freenameio',
+  url: 'https://www.freename.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://www.twitter.com/bump_xyz/',
+  url: 'https://www.bumpapp.xyz/',
 } satisfies AdapterProject

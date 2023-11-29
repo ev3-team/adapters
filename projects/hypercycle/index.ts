@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/hypercycle_ai',
   twitter: 'https://twitter.com/hypercycle_ai',
+  url: 'https://www.hypercycle.ai/',
 } satisfies AdapterProject

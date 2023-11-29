@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/kosen-labs',
   telegram: null,
   twitter: 'https://twitter.com/kosenlabs?lang=en',
+  url: 'https://www.kosen.ai/',
 } satisfies AdapterProject

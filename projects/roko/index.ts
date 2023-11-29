@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/RokoNetwork',
   twitter: null,
+  url: 'https://roko.network/',
 } satisfies AdapterProject

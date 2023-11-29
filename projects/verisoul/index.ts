@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/verisoul',
   telegram: 'https://t.me/Verisoul',
   twitter: 'https://twitter.com/verisoulxyz',
+  url: 'https://www.verisoul.ai/',
 } satisfies AdapterProject

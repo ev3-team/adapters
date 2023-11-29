@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/epics-base',
   telegram: null,
   twitter: null,
+  url: 'https://epics.dev/en/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/canvas?lang=en',
+  url: 'https://www.canvas.xyz/',
 } satisfies AdapterProject

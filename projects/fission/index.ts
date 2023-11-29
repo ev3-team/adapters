@@ -27,4 +27,5 @@ export default {
   github: 'https://github.com/fission-codes/',
   telegram: null,
   twitter: 'https://twitter.com/FISSIONcodes',
+  url: 'https://fission.codes/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/MillicentLabs',
+  url: 'https://www.millicent.io/',
 } satisfies AdapterProject

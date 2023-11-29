@@ -55,4 +55,5 @@ export default {
   github: 'https://github.com/centrifuge/',
   telegram: 'https://t.me/centrifuge_chat',
   twitter: 'https://twitter.com/centrifuge',
+  url: 'https://centrifuge.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Drife_official',
+  url: 'https://www.pluralenergy.co/',
 } satisfies AdapterProject

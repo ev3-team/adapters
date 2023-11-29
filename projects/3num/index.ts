@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/3numdao',
   telegram: null,
   twitter: 'https://twitter.com/3numdao',
+  url: 'https://www.3num.co/',
 } satisfies AdapterProject

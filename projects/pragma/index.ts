@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Astraly-Labs/Pragma',
   telegram: null,
   twitter: 'https://twitter.com/PragmaOracle',
+  url: 'https://www.pragmaoracle.com/',
 } satisfies AdapterProject

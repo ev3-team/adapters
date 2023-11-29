@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/armur_ai',
+  url: 'https://armur.ai/',
 } satisfies AdapterProject

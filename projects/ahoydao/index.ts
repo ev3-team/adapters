@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/ahoy-cli/ahoy',
   telegram: null,
   twitter: 'https://twitter.com/ahoy_dao',
+  url: 'https://www.ahoy.org/',
 } satisfies AdapterProject

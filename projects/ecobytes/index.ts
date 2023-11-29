@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/EcoBytes1',
+  url: 'https://3cobytes.com/',
 } satisfies AdapterProject

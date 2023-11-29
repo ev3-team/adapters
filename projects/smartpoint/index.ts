@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/SmartPointIO',
+  url: 'https://smartpoint.io/',
 } satisfies AdapterProject

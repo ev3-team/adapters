@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/loopnetwork',
   twitter: 'https://twitter.com/loopnetwork3',
+  url: 'https://www.theloopnetwork.org/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/GoogleChrome/lighthouse',
   telegram: 'https://t.me/LighthouseStorage',
   twitter: 'https://twitter.com/lhediscovery',
+  url: 'https://www.lighthouse.storage/',
 } satisfies AdapterProject

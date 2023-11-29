@@ -31,4 +31,5 @@ export default {
   github: 'https://github.com/Gateway-DAO',
   telegram: null,
   twitter: 'https://twitter.com/gateway_xyz',
+  url: 'https://www.mygateway.xyz/',
 } satisfies AdapterProject

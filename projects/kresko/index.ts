@@ -25,4 +25,5 @@ export default {
   github: 'https://github.com/kreskohq/',
   telegram: 'https://t.me/kreskofi',
   twitter: 'https://twitter.com/kreskofi',
+  url: 'https://www.kresko.fi/',
 } satisfies AdapterProject

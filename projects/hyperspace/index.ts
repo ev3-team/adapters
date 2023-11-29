@@ -27,4 +27,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/hyperspaceorg',
+  url: 'https://hyperspace.foundation/',
 } satisfies AdapterProject

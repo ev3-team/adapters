@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/dafiprotocol',
   twitter: 'https://twitter.com/dafiprotocol',
+  url: 'https://www.dafiprotocol.io/',
 } satisfies AdapterProject

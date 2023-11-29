@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/cropo_data',
+  url: 'https://www.cropo.network/',
 } satisfies AdapterProject

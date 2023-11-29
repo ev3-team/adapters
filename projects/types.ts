@@ -53,4 +53,5 @@ export type AdapterProject = {
   telegram: string | null
   token: string | null
   twitter: string | null
+  url: string | null
 }

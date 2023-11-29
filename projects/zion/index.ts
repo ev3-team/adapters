@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/getzion/',
   telegram: null,
   twitter: 'https://twitter.com/get_zion',
+  url: 'http://www.zion.fyi/',
 } satisfies AdapterProject

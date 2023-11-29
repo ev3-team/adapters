@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/MandeNetwork',
+  url: 'https://www.mande.network/',
 } satisfies AdapterProject

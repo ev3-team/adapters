@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/boincaienglish',
   twitter: 'https://twitter.com/BOINCAI',
+  url: 'https://www.boincai.com/',
 } satisfies AdapterProject

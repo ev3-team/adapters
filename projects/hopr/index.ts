@@ -35,4 +35,5 @@ export default {
   github: 'https://github.com/hoprnet',
   telegram: 'https://t.me/hoprnet',
   twitter: 'https://twitter.com/hoprnet',
+  url: 'https://hoprnet.org/',
 } satisfies AdapterProject

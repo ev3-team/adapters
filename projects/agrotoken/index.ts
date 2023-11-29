@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/agrotoken',
+  url: 'https://agrotoken.com/es/',
 } satisfies AdapterProject

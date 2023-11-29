@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/kwai_labs_announcement',
   twitter: 'https://twitter.com/kwai_labs',
+  url: 'https://kwailabs.com/',
 } satisfies AdapterProject

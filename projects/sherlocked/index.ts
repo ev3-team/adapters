@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: null,
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/aionelab',
   twitter: 'https://twitter.com/aionelab',
+  url: 'https://ai.one/',
 } satisfies AdapterProject

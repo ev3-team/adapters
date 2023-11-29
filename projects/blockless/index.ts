@@ -24,4 +24,5 @@ export default {
   github: 'https://github.com/blocklessnetwork',
   telegram: 'https://t.me/blocklessofficial',
   twitter: 'https://x.com/theblockless',
+  url: 'https://blockless.network/',
 } satisfies AdapterProject

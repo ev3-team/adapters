@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/WeatherFlow',
   telegram: null,
   twitter: 'https://twitter.com/weatherflow',
+  url: 'https://weatherflow.com/',
 } satisfies AdapterProject

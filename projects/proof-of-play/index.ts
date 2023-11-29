@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/ProofOfPlay/',
+  url: 'https://www.proofofplay.com/',
 } satisfies AdapterProject

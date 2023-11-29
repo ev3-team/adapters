@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/MysteriumNetwork',
   telegram: 'https://t.me/mysterium_network',
   twitter: 'https://twitter.com/MysteriumNet',
+  url: 'https://www.mysterium.network/',
 } satisfies AdapterProject

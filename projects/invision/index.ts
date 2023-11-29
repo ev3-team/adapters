@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'http://twitter.com/invisionai',
+  url: 'https://invision.ai/',
 } satisfies AdapterProject

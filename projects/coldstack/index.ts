@@ -40,4 +40,5 @@ export default {
   github: 'https://github.com/ColdStack-Network/',
   telegram: 'https://t.me/coldstackio',
   twitter: 'https://twitter.com/coldstack_io',
+  url: 'https://coldstack.io/',
 } satisfies AdapterProject

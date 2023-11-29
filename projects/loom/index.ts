@@ -29,4 +29,5 @@ export default {
   github: 'https://github.com/loomnetwork',
   telegram: 'https://t.me/loomnetwork',
   twitter: 'https://twitter.com/loomnetwork',
+  url: 'https://loomx.io/',
 } satisfies AdapterProject

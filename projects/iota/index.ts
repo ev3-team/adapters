@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/iotaledger',
   telegram: null,
   twitter: 'https://twitter.com/iota',
+  url: 'https://www.iota.org/',
 } satisfies AdapterProject

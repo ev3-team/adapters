@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/mindsync-ai',
   telegram: 'https://t.me/mindsyncai',
   twitter: 'https://twitter.com/mind_sync',
+  url: 'https://mindsync.ai/',
 } satisfies AdapterProject

@@ -39,4 +39,5 @@ export default {
   github: 'https://github.com/DatagenTech',
   telegram: null,
   twitter: 'https://twitter.com/datagentech',
+  url: 'https://datagen.tech/',
 } satisfies AdapterProject

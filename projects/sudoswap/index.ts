@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/sudoswap',
   telegram: null,
   twitter: 'https://twitter.com/sudoswap',
+  url: 'https://sudoswap.xyz/#/',
 } satisfies AdapterProject

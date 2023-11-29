@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/Gitopia',
   twitter: 'https://twitter.com/gitopiaDAO',
+  url: 'https://gitopia.com/',
 } satisfies AdapterProject

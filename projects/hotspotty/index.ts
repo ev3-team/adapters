@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/hotspotty',
   telegram: null,
   twitter: 'https://twitter.com/hotspotty',
+  url: 'https://hotspotty.net/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/notus-labs',
   telegram: null,
   twitter: 'https://twitter.com/NotusLabs',
+  url: 'https://notuslabs.org/',
 } satisfies AdapterProject

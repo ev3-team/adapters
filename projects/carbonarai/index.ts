@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/slavni96/carbonarai',
   telegram: null,
   twitter: null,
+  url: 'https://github.com/slavni96/carbonarai',
 } satisfies AdapterProject

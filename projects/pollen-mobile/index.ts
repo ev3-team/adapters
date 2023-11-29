@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/pollen-mobile',
   telegram: null,
   twitter: 'https://twitter.com/PollenMobile',
+  url: 'https://www.pollenmobile.io/',
 } satisfies AdapterProject

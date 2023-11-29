@@ -114,4 +114,5 @@ export default {
   github: 'https://github.com/near/dx',
   telegram: 'https://t.me/cryptonear',
   twitter: 'https://twitter.com/nearprotocol',
+  url: 'https://near.org/',
 } satisfies AdapterProject

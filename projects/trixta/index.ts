@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/TrixtaTeam',
+  url: 'https://trixta.ai/',
 } satisfies AdapterProject

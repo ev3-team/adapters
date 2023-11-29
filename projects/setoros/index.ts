@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/setoros-group',
   telegram: null,
   twitter: 'https://twitter.com/setoros',
+  url: 'https://setoros.com/',
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   github: 'https://github.com/graphprotocol',
   telegram: 'https://t.me/graphprotocol',
   twitter: 'https://twitter.com/graphprotocol',
+  url: 'https://thegraph.com/',
 } satisfies AdapterProject

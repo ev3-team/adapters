@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://tlgrm.eu/channels/@pornodrive/46977',
   twitter: 'https://twitter.com/deeper_official?lang=en',
+  url: 'https://www.deeper.network/',
 } satisfies AdapterProject

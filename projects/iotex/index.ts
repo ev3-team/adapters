@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/iotexproject',
   telegram: 'https://t.me/IoTeXGroup',
   twitter: 'https://twitter.com/iotex_io',
+  url: 'https://iotex.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/propheticai?s=21&t=fIjcfJIO-bBnd1u8k55iLQ',
+  url: 'https://propheticai.co/',
 } satisfies AdapterProject

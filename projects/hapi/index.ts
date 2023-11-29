@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/HAPIprotocol',
   telegram: 'https://t.me/hapiHF',
   twitter: 'https://twitter.com/i_am_hapi_one',
+  url: 'https://hapi.one/',
 } satisfies AdapterProject

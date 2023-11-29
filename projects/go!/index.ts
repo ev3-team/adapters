@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/gobyhealthhero',
   twitter: 'https://twitter.com/GoHealthHero',
+  url: 'https://t.co/QiGg27OEIj',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Totem-gdn',
   telegram: null,
   twitter: 'https://twitter.com/TotemGDN',
+  url: 'https://www.totem.gdn/bin/view/Main/',
 } satisfies AdapterProject

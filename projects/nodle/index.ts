@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/NodleCode',
   telegram: 'https://telegram.me/nodlecommunity',
   twitter: 'https://twitter.com/nodlenetwork',
+  url: 'https://www.nodle.com/',
 } satisfies AdapterProject

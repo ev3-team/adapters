@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ruuvi',
   telegram: 'https://t.me/ruuvicom',
   twitter: 'https://twitter.com/ruuvicom',
+  url: 'https://ruuvi.com/',
 } satisfies AdapterProject

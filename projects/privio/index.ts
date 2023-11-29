@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/PrivioTech',
+  url: 'https://privio.co/',
 } satisfies AdapterProject

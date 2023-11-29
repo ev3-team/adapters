@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/solidusaichat',
   twitter: 'https://twitter.com/AITECHio',
+  url: 'https://www.aitech.io/',
 } satisfies AdapterProject

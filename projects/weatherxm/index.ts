@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/weatherxm?lang=en',
+  url: 'https://weatherxm.com/',
 } satisfies AdapterProject

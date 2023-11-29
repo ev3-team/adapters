@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/renatusgaming?lang=en',
+  url: 'https://www.renatus-robotics.com/',
 } satisfies AdapterProject

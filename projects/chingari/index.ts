@@ -100,4 +100,5 @@ export default {
   github: 'https://github.com/CodeTheChangeUBC/Chingari/projects/2',
   telegram: null,
   twitter: 'https://twitter.com/Chingari_IN',
+  url: 'https://chingari.io/',
 } satisfies AdapterProject

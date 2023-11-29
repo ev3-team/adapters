@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/borlaug_ws',
+  url: 'https://www.borlaug.ws/',
 } satisfies AdapterProject

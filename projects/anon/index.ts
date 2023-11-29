@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/anonplatform',
+  url: 'https://www.anon.com/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/motivus',
   telegram: null,
   twitter: 'https://twitter.com/motivushpcn',
+  url: 'http://motivus.cl/',
 } satisfies AdapterProject

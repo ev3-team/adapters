@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/bottoproject',
   telegram: null,
   twitter: 'https://twitter.com/bottoproject',
+  url: 'https://botto.com/about',
 } satisfies AdapterProject

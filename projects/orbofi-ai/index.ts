@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/orbofi',
   twitter: 'https://twitter.com/Orbofi',
+  url: 'https://www.orbofi.com/',
 } satisfies AdapterProject

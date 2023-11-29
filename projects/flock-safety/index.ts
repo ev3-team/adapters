@@ -35,4 +35,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Flock_Safety',
+  url: 'https://www.flocksafety.com/',
 } satisfies AdapterProject

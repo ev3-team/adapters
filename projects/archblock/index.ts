@@ -48,4 +48,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/archblock_',
+  url: 'https://www.archblock.com/',
 } satisfies AdapterProject

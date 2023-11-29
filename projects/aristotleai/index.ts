@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/0xAristotleAI',
+  url: 'https://www.aristotle-ai.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/TheoInTech/daocre8',
   telegram: null,
   twitter: 'https://twitter.com/DAOCre8',
+  url: 'https://demo.daocre8.com/',
 } satisfies AdapterProject

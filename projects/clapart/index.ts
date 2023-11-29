@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/CLAPART_Announcements',
   twitter: 'https://twitter.com/clapartofficial',
+  url: 'https://www.clapart.com/?locale=en-US',
 } satisfies AdapterProject

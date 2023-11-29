@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/AdHashProtocol',
   telegram: 'https://t.me/adhashprotocol',
   twitter: null,
+  url: 'https://adhash.com/',
 } satisfies AdapterProject

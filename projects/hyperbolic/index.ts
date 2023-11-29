@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/hyperbolic_labs',
+  url: 'https://hyperbolic.xyz/',
 } satisfies AdapterProject

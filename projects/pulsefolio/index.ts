@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/PulsefolioPortal',
   twitter: 'https://twitter.com/PulseFolio/',
+  url: 'https://pulsefolios.com/',
 } satisfies AdapterProject

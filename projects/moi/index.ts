@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://iome.ai/',
 } satisfies AdapterProject

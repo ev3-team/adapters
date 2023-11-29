@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/EMCProtocol-dev',
   telegram: 'https://t.me/+NGI26KSbBpA3YzA0',
   twitter: 'https://twitter.com/EMCprotocol',
+  url: 'https://www.edgematrix.pro/',
 } satisfies AdapterProject

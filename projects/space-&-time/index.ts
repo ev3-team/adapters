@@ -45,4 +45,5 @@ export default {
   github: 'https://github.com/spaceandtimelabs',
   telegram: 'https://t.me/spaceandtimedb',
   twitter: 'https://twitter.com/SpaceTimeMedia/',
+  url: 'https://www.spaceandtime.io/',
 } satisfies AdapterProject

@@ -45,4 +45,5 @@ export default {
   github: 'https://github.com/hubbleprotocol',
   telegram: 'https://t.me/hubbleprotocol',
   twitter: 'https://twitter.com/hubbleprotocol',
+  url: 'https://hubbleprotocol.io/',
 } satisfies AdapterProject

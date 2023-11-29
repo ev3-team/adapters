@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/oxfordai',
+  url: 'https://oxai.com/',
 } satisfies AdapterProject

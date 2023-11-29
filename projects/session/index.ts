@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/oxen-io',
   telegram: null,
   twitter: 'https://twitter.com/session_app',
+  url: 'https://getsession.org/',
 } satisfies AdapterProject

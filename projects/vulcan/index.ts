@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/s/VulcanAnnouncements?before=1565',
   twitter: 'https://twitter.com/VulcanForged',
+  url: 'https://vulcanforged.com/',
 } satisfies AdapterProject

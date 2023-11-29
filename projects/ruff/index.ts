@@ -28,4 +28,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'http://ruffchain.com',
 } satisfies AdapterProject

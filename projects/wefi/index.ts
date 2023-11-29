@@ -28,4 +28,5 @@ export default {
   github: 'https://github.com/wefi',
   telegram: null,
   twitter: 'https://twitter.com/wefi?lang=en',
+  url: 'https://wefi.xyz/',
 } satisfies AdapterProject

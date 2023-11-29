@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://lilai.co/',
 } satisfies AdapterProject

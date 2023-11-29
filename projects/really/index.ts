@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/reallywireless',
+  url: 'https://www.really.com/',
 } satisfies AdapterProject

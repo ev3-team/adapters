@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/JackalLabs',
   telegram: 'https://twitter.com/jackal_protocol?lang=en',
   twitter: 'https://twitter.com/jackal_labs?lang=en',
+  url: 'https://jackalprotocol.com/',
 } satisfies AdapterProject

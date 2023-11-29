@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/WifiDabba',
+  url: 'https://www.wifidabba.com/',
 } satisfies AdapterProject

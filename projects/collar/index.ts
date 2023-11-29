@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/CollarProtocol',
+  url: 'https://www.collarnetworks.com/',
 } satisfies AdapterProject

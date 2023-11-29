@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/CloudNexgen',
+  url: 'https://www.nexgencloud.com/',
 } satisfies AdapterProject

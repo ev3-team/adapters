@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/Privasea_ai',
   twitter: 'https://twitter.com/Privasea_tech',
+  url: 'https://www.privasea.ai/',
 } satisfies AdapterProject

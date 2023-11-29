@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/RightsfuAlly?t=CF-wuGubyRb9dG8K_dnP5Q&s=08',
+  url: 'https://rightsfually.com/en/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/MASQ-Project',
   telegram: 'https://t.me/MASQ_ai',
   twitter: 'https://twitter.com/MASQ_ai',
+  url: 'https://masq.ai/',
 } satisfies AdapterProject

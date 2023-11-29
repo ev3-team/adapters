@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/ArweaveTeam',
+  url: 'https://www.arweave.org/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/MetaSpace_Metaverse',
   twitter: 'https://twitter.com/metaspace_verse',
+  url: 'https://www.metaspacechain.com/',
 } satisfies AdapterProject

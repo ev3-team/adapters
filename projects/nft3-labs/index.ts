@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/nft3labs',
   telegram: 'https://t.me/nft3com',
   twitter: 'https://twitter.com/nft3com',
+  url: 'https://nft3.com/',
 } satisfies AdapterProject

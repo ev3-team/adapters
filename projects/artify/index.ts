@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/artifylabs',
   twitter: 'https://twitter.com/artifyerc',
+  url: 'https://artifylabs.io/',
 } satisfies AdapterProject

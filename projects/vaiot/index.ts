@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/VAIoT',
   telegram: 'https://t.me/VAIOT_Community',
   twitter: 'https://twitter.com/VAIOT_LTD',
+  url: 'https://vaiot.ai/',
 } satisfies AdapterProject

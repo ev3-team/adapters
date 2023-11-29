@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/quadency',
   telegram: 'https://t.me/joinchat/Fbj0HRHlGePeT8QeV-4uBg',
   twitter: 'https://twitter.com/quadency',
+  url: 'https://quadency.com/',
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
   github: 'https://github.com/elusiv-privacy',
   telegram: null,
   twitter: 'https://twitter.com/elusivprivacy',
+  url: 'https://www.elusiv.io/',
 } satisfies AdapterProject

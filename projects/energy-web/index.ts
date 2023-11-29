@@ -35,4 +35,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.energyweb.org/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/unimoonportal',
   twitter: 'https://twitter.com/Unimoonofficial',
+  url: 'https://unimoon.ai/',
 } satisfies AdapterProject

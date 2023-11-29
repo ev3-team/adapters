@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/thexprotocol',
   twitter: 'https://twitter.com/txprotocol',
+  url: 'https://thexprotocol.com/',
 } satisfies AdapterProject

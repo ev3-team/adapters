@@ -28,4 +28,5 @@ export default {
   github: 'https://github.com/agnostiqHQ/covalent',
   telegram: null,
   twitter: 'https://twitter.com/agnostiqHQ',
+  url: 'https://agnostiq.ai/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/Three69AI',
   twitter: 'https://twitter.com/Three69AI',
+  url: 'https://three69.io/',
 } satisfies AdapterProject

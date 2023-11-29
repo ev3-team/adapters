@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/TresorioCloud',
+  url: 'https://www.tresorio.com/',
 } satisfies AdapterProject

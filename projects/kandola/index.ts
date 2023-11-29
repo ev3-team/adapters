@@ -24,4 +24,5 @@ export default {
   github: null,
   telegram: 'https://web.telegram.org/a/',
   twitter: 'https://twitter.com/KandolaNetwork',
+  url: 'https://kandola.network/',
 } satisfies AdapterProject

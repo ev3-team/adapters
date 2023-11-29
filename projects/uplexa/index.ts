@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/uPlexa',
   telegram: 'https://t.me/uplexaOfficial',
   twitter: 'https://twitter.com/uPlexaCoin',
+  url: 'https://uplexa.com/',
 } satisfies AdapterProject

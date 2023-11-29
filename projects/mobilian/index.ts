@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/mobiliancoin',
   twitter: 'https://twitter.com/MobilianCoin',
+  url: 'https://mobiliancoin.com/',
 } satisfies AdapterProject

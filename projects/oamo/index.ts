@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Oamo_io',
+  url: 'https://www.oamo.io/',
 } satisfies AdapterProject

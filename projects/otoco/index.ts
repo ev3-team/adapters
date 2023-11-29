@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/otoco-io',
   telegram: 'https://t.me/TheRoadToOtoco',
   twitter: 'https://twitter.com/otoco_io',
+  url: 'https://otoco.io/',
 } satisfies AdapterProject

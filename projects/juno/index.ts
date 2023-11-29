@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/CosmosContracts',
   telegram: 'https://t.me/JunoNetwork',
   twitter: 'https://twitter.com/JunoNetwork',
+  url: 'https://junonetwork.io/',
 } satisfies AdapterProject

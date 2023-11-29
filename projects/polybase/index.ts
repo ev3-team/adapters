@@ -15,4 +15,5 @@ export default {
   telegram: 'https://twitter.com/polybase_xyz?lang=en',
   twitter:
     'https://twitter.com/polybase_xyz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  url: 'https://polybase.xyz/',
 } satisfies AdapterProject

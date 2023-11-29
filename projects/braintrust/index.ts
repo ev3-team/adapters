@@ -20,4 +20,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://t.me/braintrustofficial',
+  url: 'https://www.usebraintrust.com/',
 } satisfies AdapterProject

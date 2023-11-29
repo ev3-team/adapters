@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/solsplits',
   telegram: null,
   twitter: 'https://twitter.com/solsplits',
+  url: 'https://solsplits.xyz/',
 } satisfies AdapterProject

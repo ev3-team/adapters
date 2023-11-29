@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/boringprotocol/',
   telegram: null,
   twitter: 'https://twitter.com/BoringProtocol',
+  url: 'https://boringprotocol.io/',
 } satisfies AdapterProject

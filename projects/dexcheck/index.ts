@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/dexcheck',
   twitter: 'https://twitter.com/DexCheck_io',
+  url: 'https://dexcheck.ai/',
 } satisfies AdapterProject

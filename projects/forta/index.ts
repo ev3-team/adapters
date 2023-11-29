@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/forta-network',
   telegram: 'https://t.me/s/Forta_Network_Official?before=30',
   twitter: 'https://twitter.com/FortaNetwork',
+  url: 'https://forta.org/',
 } satisfies AdapterProject

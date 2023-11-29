@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/nride',
   telegram: null,
   twitter: 'https://twitter.com/nRide12',
+  url: 'https://www.nride.com/',
 } satisfies AdapterProject

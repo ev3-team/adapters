@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Medium',
+  url: 'https://www.tanssi.network/',
 } satisfies AdapterProject

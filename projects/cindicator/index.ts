@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: 'https://t.me/cindicator_news',
   twitter: 'https://twitter.com/Crowd_indicator',
+  url: 'https://cindicator.com/',
 } satisfies AdapterProject

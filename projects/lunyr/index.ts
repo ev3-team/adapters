@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/lunyrcommunity',
   twitter: 'https://twitter.com/LunyrInc',
+  url: 'https://lunyr.com/',
 } satisfies AdapterProject

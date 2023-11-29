@@ -28,4 +28,5 @@ export default {
   github: 'https://github.com/astriaorg',
   telegram: null,
   twitter: 'https://twitter.com/AstriaOrg',
+  url: 'https://www.astria.org/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/gear-tech',
   telegram: 'https://t.me/gear_tech',
   twitter: 'https://twitter.com/Gear_Foundation',
+  url: 'https://gear.foundation/',
 } satisfies AdapterProject

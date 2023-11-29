@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/sentinel-official',
   telegram: 'https://t.me/sentinel_co',
   twitter: 'https://twitter.com/Sentinel_co',
+  url: 'https://sentinel.co/',
 } satisfies AdapterProject

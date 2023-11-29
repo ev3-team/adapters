@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/bloxmove-com',
   telegram: 'https://t.me/bloXmoveCommunity',
   twitter: 'https://twitter.com/bloxmove',
+  url: 'https://bloxmove.com/',
 } satisfies AdapterProject

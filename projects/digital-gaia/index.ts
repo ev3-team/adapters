@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/_digitalgaia',
+  url: 'https://www.digitalgaia.earth/',
 } satisfies AdapterProject

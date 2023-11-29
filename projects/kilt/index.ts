@@ -36,4 +36,5 @@ export default {
   github: 'https://github.com/KILTprotocol',
   telegram: null,
   twitter: 'https://twitter.com/Kiltprotocol',
+  url: 'https://www.kilt.io/',
 } satisfies AdapterProject

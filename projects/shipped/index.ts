@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://www.twitter.com/shippedcom',
+  url: 'https://shipped.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'http://www.arttoo.network/',
 } satisfies AdapterProject

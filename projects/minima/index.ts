@@ -29,4 +29,5 @@ export default {
   github: 'https://github.com/minima-global',
   telegram: 'https://t.me/Minima_Global',
   twitter: 'https://twitter.com/Minima_Global',
+  url: 'https://www.minima.global/',
 } satisfies AdapterProject

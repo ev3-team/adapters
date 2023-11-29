@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/finterestICP',
+  url: 'https://finterest.gitbook.io/product-docs/',
 } satisfies AdapterProject

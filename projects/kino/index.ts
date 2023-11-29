@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/kinomakesmovies',
+  url: 'https://www.kino.studio/',
 } satisfies AdapterProject

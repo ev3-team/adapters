@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/bsnsupport',
   twitter: 'https://twitter.com/bsnbase',
+  url: 'https://bsnbase.io/g/main/index',
 } satisfies AdapterProject

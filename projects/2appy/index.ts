@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.2appy.it/',
 } satisfies AdapterProject

@@ -46,4 +46,5 @@ export default {
   github: 'https://github.com/spacemeshos',
   telegram: null,
   twitter: 'https://twitter.com/teamspacemesh',
+  url: 'https://spacemesh.io/',
 } satisfies AdapterProject

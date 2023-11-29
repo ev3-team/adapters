@@ -80,4 +80,5 @@ export default {
   github: 'https://github.com/OnFinality-io/subql',
   telegram: 'https://t.me/subquerynetwork',
   twitter: 'https://twitter.com/SubQueryNetwork',
+  url: 'https://www.subquery.network/',
 } satisfies AdapterProject

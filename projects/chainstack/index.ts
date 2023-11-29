@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/chainstack',
   twitter: 'https://twitter.com/ChainstackHQ',
+  url: 'https://chainstack.com/',
 } satisfies AdapterProject

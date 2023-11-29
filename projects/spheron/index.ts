@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/spheronFdn',
   telegram: null,
   twitter: 'https://twitter.com/SpheronFDN',
+  url: 'https://spheron.network/',
 } satisfies AdapterProject

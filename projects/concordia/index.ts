@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/debridge-finance/',
   telegram: null,
   twitter: 'https://twitter.com/deBridgeFinance',
+  url: 'https://www.concordia.systems/',
 } satisfies AdapterProject

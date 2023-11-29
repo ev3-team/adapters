@@ -36,4 +36,5 @@ export default {
   github: 'https://github.com/handshake-org/hsd',
   telegram: 'https://t.me/handshake_hns',
   twitter: 'https://twitter.com/hns',
+  url: 'https://handshake.org/',
 } satisfies AdapterProject

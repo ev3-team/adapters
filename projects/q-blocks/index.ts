@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/blocks_q',
+  url: 'https://qblocks.cloud/',
 } satisfies AdapterProject

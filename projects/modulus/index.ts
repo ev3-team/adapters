@@ -25,4 +25,5 @@ export default {
   github: 'https://github.com/Modulus-Labs',
   telegram: null,
   twitter: 'https://twitter.com/ModulusLabs',
+  url: 'https://www.moduluslabs.xyz/',
 } satisfies AdapterProject

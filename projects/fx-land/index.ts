@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/functionland/docs',
   telegram: 'https://t.me/functionland',
   twitter: 'https://twitter.com/functionland',
+  url: 'https://fx.land/',
 } satisfies AdapterProject

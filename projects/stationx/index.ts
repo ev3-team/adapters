@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/StationXnetwork',
   twitter: 'https://twitter.com/stationxnetwork',
+  url: 'https://www.stationx.network/',
 } satisfies AdapterProject

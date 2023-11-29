@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/beyondprotocol',
   telegram: 'http://t.me/beyondprotocol',
   twitter: 'https://twitter.com/beyondprotocol1',
+  url: 'https://beyond.link/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/f-o-a-m/',
   telegram: null,
   twitter: 'https://twitter.com/foamspace',
+  url: 'https://foam.space/',
 } satisfies AdapterProject

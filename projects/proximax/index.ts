@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/proximax-storage',
   telegram: null,
   twitter: 'https://twitter.com/ProximaXGang',
+  url: 'https://www.proximax.ltd/en/',
 } satisfies AdapterProject

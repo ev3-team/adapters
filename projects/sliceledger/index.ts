@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://mobile.twitter.com/ledgerslice',
+  url: 'https://sliceledger.io/',
 } satisfies AdapterProject

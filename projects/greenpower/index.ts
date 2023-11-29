@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/laurentphilippe/greenpower',
   telegram: null,
   twitter: 'https://twitter.com/Greenpowertrus',
+  url: 'https://www.greenpowern.com/',
 } satisfies AdapterProject

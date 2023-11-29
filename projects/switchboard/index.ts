@@ -30,4 +30,5 @@ export default {
   github: 'https://github.com/switchboard-xyz',
   telegram: 'https://t.me/switchboardxyz',
   twitter: 'https://twitter.com/switchboardxyz',
+  url: 'https://switchboard.xyz/',
 } satisfies AdapterProject

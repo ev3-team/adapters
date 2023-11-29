@@ -36,4 +36,5 @@ export default {
   github: 'https://github.com/skiff-org',
   telegram: null,
   twitter: 'https://twitter.com/skiffprivacy',
+  url: 'http://www.skiff.com/',
 } satisfies AdapterProject

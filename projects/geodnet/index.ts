@@ -19,4 +19,5 @@ export default {
   github: 'https://github.com/geodnet/whitepaper',
   telegram: 'https://t.me/geodnet',
   twitter: 'https://twitter.com/geodnetinfo?lang=en',
+  url: 'https://geodnet.com/',
 } satisfies AdapterProject

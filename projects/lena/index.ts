@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/LENA_Network',
+  url: 'https://www.lena.network/',
 } satisfies AdapterProject

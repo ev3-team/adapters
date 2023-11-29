@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/protico_io',
+  url: 'https://protico.io/',
 } satisfies AdapterProject

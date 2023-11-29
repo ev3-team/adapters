@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/threefoldfoundation',
   telegram: 'https://t.me/threefoldnews',
   twitter: 'https://twitter.com/threefold_io',
+  url: 'https://threefold.io/',
 } satisfies AdapterProject

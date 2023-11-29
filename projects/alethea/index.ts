@@ -48,4 +48,5 @@ export default {
   github: 'https://github.com/AletheaAI',
   telegram: null,
   twitter: null,
+  url: 'https://aiprotocol.info/',
 } satisfies AdapterProject

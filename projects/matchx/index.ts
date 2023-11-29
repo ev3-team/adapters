@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/matchx_iot',
+  url: 'https://matchx.io/',
 } satisfies AdapterProject

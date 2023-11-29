@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/faye_digital',
+  url: 'https://www.faye.xyz/',
 } satisfies AdapterProject

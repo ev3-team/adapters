@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/exaprotocol',
   twitter: 'https://twitter.com/ExaProtocol',
+  url: 'https://www.exaprotocol.com/',
 } satisfies AdapterProject

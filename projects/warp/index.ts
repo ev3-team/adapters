@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/warp-contracts',
   telegram: null,
   twitter: 'https://twitter.com/warp_contracts',
+  url: 'https://warp.cc/',
 } satisfies AdapterProject

@@ -25,4 +25,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://storecloud.org/',
 } satisfies AdapterProject

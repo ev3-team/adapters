@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/TEKKONOfficial',
   twitter: 'https://twitter.com/TEKKON_official',
+  url: 'https://tekkon.com/',
 } satisfies AdapterProject

@@ -41,4 +41,5 @@ export default {
   github: 'https://github.com/onflow',
   telegram: null,
   twitter: 'https://twitter.com/flow_blockchain',
+  url: 'https://flow.com/',
 } satisfies AdapterProject

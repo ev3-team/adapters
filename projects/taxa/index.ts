@@ -32,4 +32,5 @@ export default {
   github: null,
   telegram: 'https://t.me/taxanetwork',
   twitter: 'https://twitter.com/taxanetwork',
+  url: 'https://taxa.network/',
 } satisfies AdapterProject

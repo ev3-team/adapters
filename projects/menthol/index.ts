@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/mentholprotocolfoundation',
   telegram: 'https://t.me/mentholprotocol',
   twitter: 'https://twitter.com/MentholProtocol',
+  url: 'https://www.mentholprotocol.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/BridgeOracle/',
   telegram: 'https://t.me/BridgeOracle',
   twitter: 'https://twitter.com/bridge_oracle',
+  url: 'https://bridge.link/',
 } satisfies AdapterProject

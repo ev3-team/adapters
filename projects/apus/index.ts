@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/apuslabs',
   telegram: 'https://t.me/+AWdHtLSl2m4yM2I1',
   twitter: 'https://twitter.com/apus_network',
+  url: 'https://www.apus.network/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/filswan',
   telegram: 'https://t.me/swan_chain/1',
   twitter: 'https://twitter.com/swan_chain',
+  url: 'https://www.filswan.com/homepage',
 } satisfies AdapterProject

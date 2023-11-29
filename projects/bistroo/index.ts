@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/bistroo',
   telegram: null,
   twitter: 'https://twitter.com/BistrooIO',
+  url: 'https://www.bistroo.io/',
 } satisfies AdapterProject

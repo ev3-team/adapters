@@ -39,4 +39,5 @@ export default {
   github: 'https://github.com/CherryNetwork',
   telegram: 'https://t.me/cherrynetwork',
   twitter: 'https://twitter.com/Cherry_Network',
+  url: 'https://www.cherry.network/',
 } satisfies AdapterProject

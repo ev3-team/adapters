@@ -25,4 +25,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/thekryptview?lang=en',
+  url: 'https://kryptview.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/fonoster',
   telegram: null,
   twitter: 'https://twitter.com/fonoster',
+  url: 'https://fonoster.com/',
 } satisfies AdapterProject

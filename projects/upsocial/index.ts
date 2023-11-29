@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/0l6/up',
   telegram: null,
   twitter: 'https://twitter.com/UpSocialBCN',
+  url: 'https://upsocial.com/',
 } satisfies AdapterProject

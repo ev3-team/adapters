@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/relationlabs',
   telegram: 'https://t.me/therelationlabs',
   twitter: 'https://twitter.com/relationlabs',
+  url: 'https://www.relationlabs.ai/home',
 } satisfies AdapterProject

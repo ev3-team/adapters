@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/GravitonINC',
   telegram: null,
   twitter: 'https://twitter.com/Graviton_XYZ',
+  url: 'https://graviton.xyz/',
 } satisfies AdapterProject

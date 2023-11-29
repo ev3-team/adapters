@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/TruebitProtocol',
   telegram: null,
   twitter: 'https://twitter.com/Truebitprotocol',
+  url: 'https://truebit.io/',
 } satisfies AdapterProject

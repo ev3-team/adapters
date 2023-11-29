@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/ProtocolAI1',
+  url: 'https://www.aiprotocol.info/',
 } satisfies AdapterProject

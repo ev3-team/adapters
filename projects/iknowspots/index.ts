@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/iknowspots',
+  url: 'https://solana.iknowspots.com/',
 } satisfies AdapterProject

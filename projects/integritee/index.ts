@@ -33,4 +33,5 @@ export default {
   github: null,
   telegram: 'https://t.me/Integritee_Official',
   twitter: 'https://twitter.com/integri_t_e_e',
+  url: 'https://www.integritee.network/',
 } satisfies AdapterProject

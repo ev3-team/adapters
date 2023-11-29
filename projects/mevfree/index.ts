@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/mevfree',
   telegram: 'https://t.me/MevFree',
   twitter: 'https://twitter.com/mevfree',
+  url: 'https://mevfree.com/',
 } satisfies AdapterProject

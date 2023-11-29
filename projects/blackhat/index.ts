@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/BlackHatEvents',
+  url: 'https://blackhatco.in/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/maxgillett/giza',
   telegram: null,
   twitter: 'https://twitter.com/gizatechxyz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  url: 'https://www.gizatech.xyz/',
 } satisfies AdapterProject

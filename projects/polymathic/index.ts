@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/PolymathicAI',
+  url: 'https://polymathic-ai.org/',
 } satisfies AdapterProject

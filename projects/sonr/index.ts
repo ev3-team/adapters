@@ -14,4 +14,5 @@ export default {
   github: 'https://sonr.io/github',
   telegram: null,
   twitter: 'https://sonr.io/twitter',
+  url: 'https://sonr.io/home',
 } satisfies AdapterProject

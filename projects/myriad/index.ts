@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/myriadsocial',
   telegram: 'https://t.me/myriadsocial',
   twitter: 'https://twitter.com/myriad_social',
+  url: 'https://www.myriad.social/',
 } satisfies AdapterProject

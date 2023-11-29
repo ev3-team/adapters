@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/WysdomXyz',
+  url: 'https://wysdom.xyz/',
 } satisfies AdapterProject

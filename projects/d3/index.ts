@@ -27,4 +27,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/d3corp',
+  url: 'https://d3.inc/',
 } satisfies AdapterProject

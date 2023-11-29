@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/ValidationCloud',
+  url: 'https://www.validationcloud.io/',
 } satisfies AdapterProject

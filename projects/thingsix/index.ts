@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ThingsIXfoundation',
   telegram: null,
   twitter: 'https://twitter.com/Things_IX',
+  url: 'https://www.thingsix.com/',
 } satisfies AdapterProject

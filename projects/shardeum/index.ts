@@ -64,4 +64,5 @@ export default {
   github: 'https://github.com/shardeum/',
   telegram: 'https://telegram.me/shardeum',
   twitter: 'https://twitter.com/shardeum',
+  url: 'https://shardeum.org/',
 } satisfies AdapterProject

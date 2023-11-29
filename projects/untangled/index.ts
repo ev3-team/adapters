@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/untangledfin',
+  url: 'https://www.untangled.finance/',
 } satisfies AdapterProject

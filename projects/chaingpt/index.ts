@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ChainGPT-org',
   telegram: 'https://t.me/chaingpt',
   twitter: 'https://twitter.com/Chain_GPT',
+  url: 'https://www.chaingpt.org/',
 } satisfies AdapterProject

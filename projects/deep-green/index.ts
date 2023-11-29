@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/topics/deep-green',
   telegram: null,
   twitter: 'https://twitter.com/DeepGreenEnergy',
+  url: 'https://www.deepgreen.energy/',
 } satisfies AdapterProject

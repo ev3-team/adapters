@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/Impermax-Finance',
   telegram: null,
   twitter: 'https://twitter.com/ImpermaxFinance',
+  url: 'http://www.impermax.finance/',
 } satisfies AdapterProject

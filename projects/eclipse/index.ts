@@ -36,4 +36,5 @@ export default {
   github: null,
   telegram: 'https://t.me/eclipse_labs',
   twitter: 'https://twitter.com/EclipseFND',
+  url: 'https://www.eclipse.builders/',
 } satisfies AdapterProject

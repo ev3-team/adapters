@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/XNET_Mobile',
+  url: 'https://xnet.company/',
 } satisfies AdapterProject

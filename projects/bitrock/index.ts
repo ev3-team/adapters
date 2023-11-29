@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/BitrockChain',
   telegram: 'https://t.me/Bitrockchain',
   twitter: 'https://twitter.com/BitRockChain',
+  url: 'https://bit-rock.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Brainstemhealth',
+  url: 'https://brainstem.health/',
 } satisfies AdapterProject

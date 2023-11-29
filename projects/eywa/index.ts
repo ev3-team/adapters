@@ -40,4 +40,5 @@ export default {
   github: 'https://github.com/eywa-protocol',
   telegram: 'https://t.me/eywa_en',
   twitter: 'https://twitter.com/eywaprotocol',
+  url: 'https://eywa.fi/',
 } satisfies AdapterProject

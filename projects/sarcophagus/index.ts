@@ -25,4 +25,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/sarcophagusio',
+  url: 'https://sarcophagus.io/',
 } satisfies AdapterProject

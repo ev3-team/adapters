@@ -34,4 +34,5 @@ export default {
   github: 'https://pitch.com/blog',
   telegram: null,
   twitter: 'https://www.twitter.com/pitch',
+  url: 'https://pitch.com/',
 } satisfies AdapterProject

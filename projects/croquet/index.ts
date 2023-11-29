@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/CroquetIO',
+  url: 'https://croquet.io/',
 } satisfies AdapterProject

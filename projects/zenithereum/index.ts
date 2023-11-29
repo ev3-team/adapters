@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/ZenithereumAIofficial',
   twitter: 'https://twitter.com/zenithereum',
+  url: 'https://zenithereum.ai/',
 } satisfies AdapterProject

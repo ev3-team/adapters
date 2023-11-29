@@ -68,4 +68,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/altstatemachine',
+  url: 'https://www.alteredstatemachine.xyz/',
 } satisfies AdapterProject

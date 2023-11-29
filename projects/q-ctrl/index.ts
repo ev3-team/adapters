@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/qctrlHQ?_ga=2.200893288.772806730.1652587339-513873128.1652348755',
+  url: 'https://q-ctrl.com/',
 } satisfies AdapterProject

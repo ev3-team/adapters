@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/nfalabs',
   twitter: 'https://twitter.com/nfalabs',
+  url: 'https://nfa.ai/',
 } satisfies AdapterProject

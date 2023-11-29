@@ -30,4 +30,5 @@ export default {
   github: 'https://github.com/everFinance',
   telegram: null,
   twitter: 'https://twitter.com/everVisionHQ',
+  url: 'https://ever.vision/',
 } satisfies AdapterProject

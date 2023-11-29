@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/usefulsensors',
   telegram: null,
   twitter: null,
+  url: 'https://usefulsensors.com/',
 } satisfies AdapterProject

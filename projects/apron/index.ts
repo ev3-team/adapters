@@ -30,4 +30,5 @@ export default {
   github: 'https://github.com/Apron-Network/',
   telegram: null,
   twitter: 'https://twitter.com/apronofficial1',
+  url: 'https://apron.network/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/AtlasNaviApp',
   twitter: 'https://twitter.com/AtlasNavi',
+  url: 'https://www.atlasnavi.com/',
 } satisfies AdapterProject

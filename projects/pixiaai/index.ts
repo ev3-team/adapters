@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/PixiaAi',
   twitter: 'https://twitter.com/PixiaAi',
+  url: 'https://pixia.ai/',
 } satisfies AdapterProject

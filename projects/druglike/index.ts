@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/druglike_io',
+  url: 'https://druglike.com/',
 } satisfies AdapterProject

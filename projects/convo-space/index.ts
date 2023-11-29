@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/anudit/convo',
   telegram: null,
   twitter: 'https://twitter.com/0xConvo',
+  url: 'https://theconvo.space/',
 } satisfies AdapterProject

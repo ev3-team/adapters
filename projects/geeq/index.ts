@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/GeeqOfficial',
   twitter: 'https://twitter.com/GeeqOfficial',
+  url: 'https://geeq.io/',
 } satisfies AdapterProject

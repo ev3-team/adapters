@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/us3r-network',
   telegram: null,
   twitter: 'https://twitter.com/getus3r',
+  url: 'https://us3r.co/',
 } satisfies AdapterProject

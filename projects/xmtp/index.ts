@@ -122,4 +122,5 @@ export default {
   github: 'https://github.com/xmtp',
   telegram: null,
   twitter: 'https://twitter.com/xmtp_',
+  url: 'https://xmtp.org/',
 } satisfies AdapterProject

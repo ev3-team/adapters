@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/subconsciousnetwork',
   telegram: null,
   twitter: null,
+  url: 'https://subconscious.network/',
 } satisfies AdapterProject

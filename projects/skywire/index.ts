@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/skycoin',
   telegram: 'https://t.me/Skycoin',
   twitter: 'https://twitter.com/SkycoinProject',
+  url: 'https://www.skycoin.com/',
 } satisfies AdapterProject

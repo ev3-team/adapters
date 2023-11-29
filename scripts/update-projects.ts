@@ -109,6 +109,7 @@ async function run() {
         github: !!row.github ? row.github : null,
         telegram: !!row.telegram ? row.telegram : null,
         twitter: !!row.twitter ? row.twitter : null,
+        url: !!row.url ? row.url : null,
       })
     })
     .on('end', async () => {

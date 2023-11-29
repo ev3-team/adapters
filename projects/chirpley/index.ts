@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/chirpley',
   telegram: 'http://t.me/chirpley',
   twitter: 'https://twitter.com/chirpley',
+  url: 'https://chirpley.ai/',
 } satisfies AdapterProject

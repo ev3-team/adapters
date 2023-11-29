@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/IronEagleCapital',
   telegram: 'https://t.me/officialnucocloudgroup',
   twitter: 'https://twitter.com/nucocloud',
+  url: 'https://nuco.cloud/',
 } satisfies AdapterProject

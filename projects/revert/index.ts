@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/revertdotdev',
+  url: 'https://www.revert.dev/',
 } satisfies AdapterProject

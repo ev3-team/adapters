@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ethglobal',
   telegram: null,
   twitter: 'https://twitter.com/ETHGlobal',
+  url: 'https://www.shopconnect.live/',
 } satisfies AdapterProject

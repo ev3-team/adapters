@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/+Xk2-5Sa02yFjMDE0',
   twitter: 'https://twitter.com/roam_network',
+  url: 'https://www.roamnetwork.xyz/',
 } satisfies AdapterProject

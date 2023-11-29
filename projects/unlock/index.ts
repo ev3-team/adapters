@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/unlock-protocol',
   telegram: null,
   twitter: null,
+  url: 'https://unlock-protocol.com/',
 } satisfies AdapterProject

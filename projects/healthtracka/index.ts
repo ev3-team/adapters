@@ -25,4 +25,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/healthtracka?lang=en',
+  url: 'https://www.healthtracka.com/',
 } satisfies AdapterProject

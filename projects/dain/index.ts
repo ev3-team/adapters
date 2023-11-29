@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/buildontal',
+  url: 'https://dain.org/',
 } satisfies AdapterProject

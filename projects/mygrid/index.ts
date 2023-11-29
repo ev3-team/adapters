@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/mygridgreen',
+  url: 'https://www.mygrid.energy/',
 } satisfies AdapterProject

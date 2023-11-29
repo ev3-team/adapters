@@ -53,4 +53,5 @@ export default {
   github: 'https://github.com/thetatoken',
   telegram: 'https://t.me/s/thetanetwork_announcements?before=516',
   twitter: 'https://twitter.com/Theta_Network',
+  url: 'https://thetatoken.org/',
 } satisfies AdapterProject

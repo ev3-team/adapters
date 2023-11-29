@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/firstbatchxyz',
   telegram: null,
   twitter: 'https://twitter.com/firstbatchxyz_?lang=en',
+  url: 'https://www.firstbatch.xyz/',
 } satisfies AdapterProject

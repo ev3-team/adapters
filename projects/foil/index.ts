@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/FoilNetwork',
+  url: 'https://foil.network/',
 } satisfies AdapterProject

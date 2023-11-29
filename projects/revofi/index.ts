@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/revofico?lang=en',
+  url: 'https://revofi.com/',
 } satisfies AdapterProject

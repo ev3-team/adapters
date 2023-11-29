@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/topics/scprime',
   telegram: null,
   twitter: 'https://twitter.com/ScPrimeCloud',
+  url: 'https://scpri.me/',
 } satisfies AdapterProject

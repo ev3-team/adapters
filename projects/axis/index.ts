@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/laneaxis/axisToken_smart_contact',
   telegram: 'https://t.me/laneaxis',
   twitter: 'https://twitter.com/axis_token',
+  url: 'https://axistoken.io/',
 } satisfies AdapterProject

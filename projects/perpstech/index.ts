@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/perpstech',
   twitter: 'https://twitter.com/perpstech',
+  url: 'https://www.perps.tech/',
 } satisfies AdapterProject

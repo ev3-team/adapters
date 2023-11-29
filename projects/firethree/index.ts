@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/_firethree',
+  url: 'https://www.firethree.xyz/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/GoraNetwork',
   twitter: 'https://twitter.com/goranetwork',
+  url: 'https://www.goracle.io/',
 } satisfies AdapterProject

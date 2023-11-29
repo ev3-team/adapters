@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/topics/jpeg-decoder',
   telegram: null,
   twitter: 'https://twitter.com/JPEGd_69',
+  url: 'https://jpegd.io/',
 } satisfies AdapterProject

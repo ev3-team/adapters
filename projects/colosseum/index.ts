@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Colosseum',
+  url: 'https://www.colosseumpro.com/',
 } satisfies AdapterProject

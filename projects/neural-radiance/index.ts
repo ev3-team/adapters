@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Nerfbotxyz/',
   telegram: 'https://t.me/NERFERC20',
   twitter: 'https://twitter.com/nerf_erc20',
+  url: 'https://www.nerfbot.io/',
 } satisfies AdapterProject

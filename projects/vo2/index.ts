@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.vo2.fans/',
 } satisfies AdapterProject

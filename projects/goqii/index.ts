@@ -67,4 +67,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/GOQii',
+  url: 'https://goqii.com/in-en',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/nevermined-io',
   telegram: null,
   twitter: 'https://twitter.com/Nevermined_io',
+  url: 'https://nevermined.io/',
 } satisfies AdapterProject

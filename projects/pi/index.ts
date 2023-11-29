@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/PiCoreTeam',
+  url: 'https://minepi.com/',
 } satisfies AdapterProject

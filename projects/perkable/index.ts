@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/perkableco',
+  url: 'https://www.perkable.co/',
 } satisfies AdapterProject

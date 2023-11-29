@@ -30,4 +30,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/hashtag/siglobar',
+  url: 'https://siglo.com/',
 } satisfies AdapterProject

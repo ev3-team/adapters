@@ -24,4 +24,5 @@ export default {
   github: 'https://github.com/EveripediaNetwork',
   telegram: 'https://t.me/everipedia',
   twitter: 'https://twitter.com/everipedia',
+  url: 'https://iq.wiki/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/whyNotSwitch',
+  url: 'https://m3tering.whynotswitch.com/',
 } satisfies AdapterProject
