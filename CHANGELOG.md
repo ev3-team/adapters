@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.13
+
+### Patch Changes
+
+- Dimo dune query
+
 ## 0.3.12
 
 ### Patch Changes
