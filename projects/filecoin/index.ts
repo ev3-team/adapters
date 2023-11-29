@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Filecoin',
   chain: null,
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: 'FIL',
   coingeckoId: 'filecoin',
   id: 'r1uv9t',
