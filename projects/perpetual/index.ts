@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/perpetualprotocol',
   twitter: 'https://twitter.com/perpprotocol',
+  url: 'https://perp.com/',
 } satisfies AdapterProject

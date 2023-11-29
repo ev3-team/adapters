@@ -32,4 +32,5 @@ export default {
   github: 'https://github.com/SecondLive23',
   telegram: 'https://t.me/SecondLiveCommunity',
   twitter: 'https://twitter.com/SecondLiveReal',
+  url: 'https://secondlive.world/',
 } satisfies AdapterProject

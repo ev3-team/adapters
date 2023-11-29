@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/dlt_eo',
+  url: 'https://www.dlteo.com/',
 } satisfies AdapterProject

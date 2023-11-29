@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/MetaBloxIO',
   telegram: null,
   twitter: 'https://twitter.com/metablox',
+  url: 'https://metablox.io/',
 } satisfies AdapterProject

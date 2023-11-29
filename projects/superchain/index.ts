@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/SuperChainNetwork',
   telegram: null,
   twitter: 'https://twitter.com/OpenSuperchain',
+  url: 'https://www.superchain.network/',
 } satisfies AdapterProject

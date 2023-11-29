@@ -38,4 +38,5 @@ export default {
   github: 'https://github.com/cheqd',
   telegram: 'https://t.me/cheqd',
   twitter: 'https://twitter.com/cheqd_io',
+  url: 'https://cheqd.io/',
 } satisfies AdapterProject

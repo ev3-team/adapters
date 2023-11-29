@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/tiesnetwork',
   telegram: 'https://t.me/tiesdb',
   twitter: 'https://twitter.com/tiesnetwork-',
+  url: 'https://tiesdb.com/',
 } satisfies AdapterProject

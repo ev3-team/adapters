@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Stacktical',
   telegram: 'https://t.me/stacktical',
   twitter: 'https://twitter.com/willitscale',
+  url: 'https://stacktical.com/',
 } satisfies AdapterProject

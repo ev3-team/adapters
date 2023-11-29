@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Openfabric',
   telegram: 'https://t.me/OpenFabricAI',
   twitter: 'https://twitter.com/openfabricai',
+  url: 'https://openfabric.ai/',
 } satisfies AdapterProject

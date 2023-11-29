@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/wesenditcom',
   twitter: 'https://twitter.com/WeSendit',
+  url: 'https://wesendit.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/mvc-labs/microvisionchain',
   telegram: 'https://t.me/mvcofficial',
   twitter: 'https://twitter.com/mvcglobal',
+  url: 'https://www.microvisionchain.com/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/ATOR-Development',
   telegram: 'https://t.me/atorcommunityportal',
   twitter: 'https://twitter.com/atorprotocol',
+  url: 'https://ator.io/',
 } satisfies AdapterProject

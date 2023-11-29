@@ -28,4 +28,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://cheeze.com/',
 } satisfies AdapterProject

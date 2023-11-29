@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ip-exchange',
   telegram: 'https://t.me/IPExchange',
   twitter: 'https://twitter.com/ipexchange1',
+  url: 'https://ip.sx/',
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/fwbtweets',
+  url: 'https://www.fwb.help/',
 } satisfies AdapterProject

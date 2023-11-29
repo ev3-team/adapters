@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/guardian',
+  url: null,
 } satisfies AdapterProject

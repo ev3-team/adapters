@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/comrade-coop/scynet',
   telegram: null,
   twitter: 'https://twitter.com/ScynetAI',
+  url: 'https://scynet.ai/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/metaflyers',
+  url: 'https://www.metaflyers.xyz',
 } satisfies AdapterProject

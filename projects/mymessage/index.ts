@@ -37,4 +37,5 @@ export default {
   github: 'https://github.com/myMessageio',
   telegram: 'https://t.me/mymessageEN',
   twitter: 'https://twitter.com/myMessageOS',
+  url: 'https://www.mymessage.io/',
 } satisfies AdapterProject

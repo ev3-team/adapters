@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/libp2p',
   telegram: null,
   twitter: 'https://twitter.com/libp2p',
+  url: 'https://libp2p.io/',
 } satisfies AdapterProject

@@ -51,4 +51,5 @@ export default {
   github: null,
   telegram: 'https://t.me/audius',
   twitter: 'https://twitter.com/audius',
+  url: 'https://audius.co/',
 } satisfies AdapterProject

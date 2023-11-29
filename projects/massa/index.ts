@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/massalabs/massa',
   telegram: 'https://t.me/massanetwork',
   twitter: 'https://twitter.com/massalabs',
+  url: 'https://massa.net/',
 } satisfies AdapterProject

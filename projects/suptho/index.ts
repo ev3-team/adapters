@@ -24,4 +24,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/SupthoApp',
+  url: 'https://www.suptho.xyz/',
 } satisfies AdapterProject

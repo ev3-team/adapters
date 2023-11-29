@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/relativefi',
   telegram: 'https://t.me/RelativeFinance',
   twitter: 'https://twitter.com/relativefi',
+  url: 'https://relative.fi/',
 } satisfies AdapterProject

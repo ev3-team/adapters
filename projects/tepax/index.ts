@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/tepax_',
+  url: null,
 } satisfies AdapterProject

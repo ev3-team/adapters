@@ -15,4 +15,5 @@ export default {
   telegram: 'https://t.me/s/ARK_Trading_Desk?before=3180',
   twitter:
     'https://twitter.com/survivetheark?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  url: 'https://ark.io/',
 } satisfies AdapterProject

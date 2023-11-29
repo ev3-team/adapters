@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/fluxcd/flux',
   telegram: 'https://t.me/careerflux',
   twitter: 'https://twitter.com/RunOnFlux?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  url: 'https://runonflux.io/',
 } satisfies AdapterProject

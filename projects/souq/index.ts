@@ -32,4 +32,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.souq.finance/',
 } satisfies AdapterProject

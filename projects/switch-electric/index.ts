@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/WhyNotSwitch',
   telegram: null,
   twitter: 'https://twitter.com/whyNotSwitch',
+  url: 'https://www.whynotswitch.com/',
 } satisfies AdapterProject

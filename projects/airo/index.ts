@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/airo',
   telegram: null,
   twitter: 'https://twitter.com/AIRO_MU',
+  url: 'https://www.airo.network/',
 } satisfies AdapterProject

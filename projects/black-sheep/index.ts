@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/blacksheep_g',
   twitter: 'https://twitter.com/theblacksheepg',
+  url: 'https://www.theblacksheep.io/',
 } satisfies AdapterProject

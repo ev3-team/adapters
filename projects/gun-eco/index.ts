@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/topics/gunjs',
   telegram: null,
   twitter: 'https://twitter.com/databasegun?lang=en',
+  url: 'https://gun.eco/',
 } satisfies AdapterProject

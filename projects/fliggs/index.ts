@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/fliggs_mobile',
+  url: 'https://fliggs.com/en',
 } satisfies AdapterProject

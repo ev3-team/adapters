@@ -33,4 +33,5 @@ export default {
   github: 'https://github.com/koii-network/',
   telegram: 'https://t.me/koiinetwork',
   twitter: 'https://twitter.com/KoiiNetwork',
+  url: 'https://www.koii.network/',
 } satisfies AdapterProject

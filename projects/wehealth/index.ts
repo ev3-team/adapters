@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/WeHealthOrg',
+  url: 'https://www.wehealth.org/',
 } satisfies AdapterProject

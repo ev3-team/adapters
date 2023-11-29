@@ -51,4 +51,5 @@ export default {
   github: null,
   telegram: 'https://t.me/s/arbitrum',
   twitter: 'https://twitter.com/arbitrum',
+  url: 'https://arbitrum.io/',
 } satisfies AdapterProject

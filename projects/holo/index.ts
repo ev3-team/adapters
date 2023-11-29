@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/holochain',
   telegram: null,
   twitter: 'https://twitter.com/holochain',
+  url: 'https://www.holochain.org/',
 } satisfies AdapterProject

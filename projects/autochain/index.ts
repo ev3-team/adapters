@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/forethought_ai',
+  url: 'https://autochain.info/',
 } satisfies AdapterProject

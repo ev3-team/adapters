@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Polkamarkets',
   telegram: 'https://t.me/polkamarkets_announcements',
   twitter: 'https://twitter.com/polkamarkets',
+  url: 'https://www.polkamarkets.com/',
 } satisfies AdapterProject

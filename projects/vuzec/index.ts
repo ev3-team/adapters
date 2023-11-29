@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/vuzecmx',
+  url: 'https://www.vuzec.com/work',
 } satisfies AdapterProject

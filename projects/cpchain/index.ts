@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/CPChain',
   telegram: 'https://t.me/cpchain_official',
   twitter: 'https://twitter.com/cpchain_io',
+  url: 'https://cpchain.io/#/',
 } satisfies AdapterProject

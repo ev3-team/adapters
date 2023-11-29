@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ipfs',
   telegram: null,
   twitter: 'https://twitter.com/ipfs',
+  url: 'https://ipfs.tech/',
 } satisfies AdapterProject

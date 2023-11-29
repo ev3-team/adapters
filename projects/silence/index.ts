@@ -25,4 +25,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/silentauth',
+  url: 'https://www.silencelaboratories.com/',
 } satisfies AdapterProject

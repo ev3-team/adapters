@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/cryptoai_erc',
   twitter: 'https://twitter.com/cryptoai_erc',
+  url: 'https://crypto-ai.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/ownfriday',
+  url: 'https://www.myfriday.io/',
 } satisfies AdapterProject

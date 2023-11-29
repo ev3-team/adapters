@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/terminal3gaming?lang=en',
+  url: 'https://www.terminal3.io/',
 } satisfies AdapterProject

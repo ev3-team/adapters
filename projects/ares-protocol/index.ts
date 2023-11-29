@@ -34,4 +34,5 @@ export default {
   github: 'https://github.com/aresprotocols',
   telegram: 'https://t.me/AresProtocolLab',
   twitter: 'https://twitter.com/AresProtocolLab',
+  url: 'https://www.aresprotocol.io/',
 } satisfies AdapterProject

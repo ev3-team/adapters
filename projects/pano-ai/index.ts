@@ -39,4 +39,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Pano_AI',
+  url: 'https://www.pano.ai/',
 } satisfies AdapterProject

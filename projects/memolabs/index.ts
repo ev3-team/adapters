@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/memoio',
   telegram: null,
   twitter: 'https://twitter.com/MemoLabsOrg',
+  url: 'https://www.memolabs.org/',
 } satisfies AdapterProject

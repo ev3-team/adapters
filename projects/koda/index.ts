@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/KodaRobotDog',
+  url: 'https://www.koda9.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.flai.ai/',
 } satisfies AdapterProject

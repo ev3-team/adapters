@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/supermetafi',
   twitter: 'https://twitter.com/supermetafi',
+  url: 'https://www.supermetaplus.com/',
 } satisfies AdapterProject

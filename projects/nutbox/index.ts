@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/nutbox-dao',
   telegram: 'https://t.me/nutbox_defi',
   twitter: 'https://twitter.com/NutboxDao',
+  url: 'https://nutbox.io/',
 } satisfies AdapterProject

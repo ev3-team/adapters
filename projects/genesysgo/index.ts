@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/GenesysGo/',
   telegram: null,
   twitter: 'https://twitter.com/genesysgo',
+  url: 'https://www.shadow.cloud/',
 } satisfies AdapterProject

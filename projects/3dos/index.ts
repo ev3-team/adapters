@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/3DOSNetwork',
+  url: 'https://3dos.io/',
 } satisfies AdapterProject

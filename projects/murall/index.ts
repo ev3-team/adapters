@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/murall-art',
   telegram: 'https://t.me/MurALLart',
   twitter: 'https://twitter.com/MurAll_art',
+  url: 'https://murall.art/home',
 } satisfies AdapterProject

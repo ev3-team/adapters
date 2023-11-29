@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Chia-Network',
   telegram: null,
   twitter: 'https://twitter.com/chia_project',
+  url: 'https://www.chia.net/',
 } satisfies AdapterProject

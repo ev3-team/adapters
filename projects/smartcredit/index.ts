@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/SmartCredit-io',
   telegram: 'https://t.me/SmartCredit_Community',
   twitter: 'https://twitter.com/Smartcredit_io',
+  url: 'https://smartcredit.io/',
 } satisfies AdapterProject

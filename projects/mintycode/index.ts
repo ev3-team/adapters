@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/mintycodedao',
   twitter: 'https://twitter.com/MintyCodeDao',
+  url: 'https://mintycode.io/',
 } satisfies AdapterProject

@@ -55,4 +55,5 @@ export default {
   github: 'https://imbue.com/blog/',
   telegram: null,
   twitter: 'https://twitter.com/imbue_ai',
+  url: 'https://imbue.com/',
 } satisfies AdapterProject

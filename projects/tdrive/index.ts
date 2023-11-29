@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/linagora/TDrive',
   telegram: null,
   twitter: 'https://twitter.com/mytdrive_id?lang=en',
+  url: 'https://tdrive.io/',
 } satisfies AdapterProject

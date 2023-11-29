@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/telosnetwork',
   telegram: 'https://t.me/HelloTelos',
   twitter: 'https://twitter.com/HelloTelos',
+  url: 'https://www.telos.net/',
 } satisfies AdapterProject

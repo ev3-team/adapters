@@ -25,4 +25,5 @@ export default {
   github: null,
   telegram: 'https://t.me/NuNet_community',
   twitter: 'https://twitter.com/nunet_global',
+  url: 'https://www.nunet.io/',
 } satisfies AdapterProject

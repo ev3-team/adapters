@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/Synesis_One',
   twitter: 'https://twitter.com/synesis_one',
+  url: 'https://www.synesis.one/',
 } satisfies AdapterProject

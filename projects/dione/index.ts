@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/DioneProtocol',
   twitter: 'https://twitter.com/firstone_DIONE',
+  url: 'https://www.dioneprotocol.com/',
 } satisfies AdapterProject

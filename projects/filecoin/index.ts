@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/filecoin-project',
   telegram: 'https://t.me/filecoinio',
   twitter: 'https://twitter.com/Filecoin',
+  url: 'https://filecoin.io/',
 } satisfies AdapterProject

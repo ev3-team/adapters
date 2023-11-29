@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/VitreusChainTG',
   twitter: 'https://twitter.com/VitreusChain',
+  url: 'https://vitreus.io/',
 } satisfies AdapterProject

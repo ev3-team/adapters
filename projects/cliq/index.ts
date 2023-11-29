@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/CliqNetwork',
+  url: 'https://www.cliqnetwork.xyz/',
 } satisfies AdapterProject

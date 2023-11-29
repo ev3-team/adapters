@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/DeFliTeam',
   telegram: null,
   twitter: 'https://twitter.com/Defli_Networks',
+  url: 'https://defli.network/',
 } satisfies AdapterProject

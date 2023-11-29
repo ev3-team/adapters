@@ -38,4 +38,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/0xintuition',
+  url: 'https://intuition.systems/',
 } satisfies AdapterProject

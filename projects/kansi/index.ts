@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/KanisiTech',
   telegram: 'https://t.me/s/kansi_hilfestellung?before=27',
   twitter: 'https://twitter.com/kanisolutions?lang=en',
+  url: 'https://www.kansi-solutions.de/',
 } satisfies AdapterProject

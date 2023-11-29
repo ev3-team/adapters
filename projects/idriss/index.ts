@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/IDriss_xyz',
+  url: 'https://www.idriss.xyz/',
 } satisfies AdapterProject

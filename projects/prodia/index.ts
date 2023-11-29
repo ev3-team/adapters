@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/prodialabs',
+  url: 'https://prodia.com/',
 } satisfies AdapterProject

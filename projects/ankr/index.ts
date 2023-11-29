@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Ankr-network',
   telegram: 'https://t.me/ankrnetwork',
   twitter: 'http://www.twitter.com/getankr',
+  url: 'https://www.ankr.com/',
 } satisfies AdapterProject

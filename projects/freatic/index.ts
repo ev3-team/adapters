@@ -27,4 +27,5 @@ export default {
   github: 'https://github.com/freatic',
   telegram: null,
   twitter: 'https://twitter.com/intent/user?screen_name=freaticteam',
+  url: 'https://freatic.team/',
 } satisfies AdapterProject

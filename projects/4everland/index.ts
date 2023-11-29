@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/4everland_org/status/1658444206254469126',
+  url: 'https://www.4everland.org/',
 } satisfies AdapterProject

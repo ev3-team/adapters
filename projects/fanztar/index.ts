@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2Fjoin_fanztar',
+  url: 'https://fanztar.com/',
 } satisfies AdapterProject

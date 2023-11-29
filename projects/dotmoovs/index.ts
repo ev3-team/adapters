@@ -26,4 +26,5 @@ export default {
   github: 'https://github.com/dotmoovs',
   telegram: 'https://t.me/s/dotmoovs_announcements?before=1038',
   twitter: 'https://twitter.com/dotmoovs',
+  url: 'https://dotmoovs.com/',
 } satisfies AdapterProject

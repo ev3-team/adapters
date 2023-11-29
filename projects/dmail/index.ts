@@ -41,4 +41,5 @@ export default {
   github: 'https://github.com/dmailofficial/dmail',
   telegram: 'https://t.me/dmailofficial',
   twitter: 'https://twitter.com/dmailofficial',
+  url: 'https://dmail.ai/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/darwinia-network',
   telegram: 'https://t.me/DarwiniaNetwork',
   twitter: 'https://twitter.com/DarwiniaNetwork',
+  url: 'https://darwinia.network/',
 } satisfies AdapterProject

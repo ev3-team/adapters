@@ -15,4 +15,5 @@ export default {
   telegram: 'https://discord.com/invite/ZqrCX9HBx6',
   twitter:
     'https://twitter.com/NATIXNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  url: 'https://www.natix.network/',
 } satisfies AdapterProject

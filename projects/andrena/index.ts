@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/andrena_wifi?lang=en',
+  url: 'https://andrena.com/',
 } satisfies AdapterProject

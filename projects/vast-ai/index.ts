@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/vast-ai',
   telegram: null,
   twitter: 'https://twitter.com/vast_ai',
+  url: 'https://vast.ai/',
 } satisfies AdapterProject

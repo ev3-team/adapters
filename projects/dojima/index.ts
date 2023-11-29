@@ -32,4 +32,5 @@ export default {
   github: 'https://github.com/dojimanetwork',
   telegram: null,
   twitter: 'https://twitter.com/dojimanetwork',
+  url: 'https://www.dojima.network/',
 } satisfies AdapterProject

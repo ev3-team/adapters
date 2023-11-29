@@ -44,4 +44,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'http://twitter.com/togethercompute',
+  url: 'https://together.ai/',
 } satisfies AdapterProject

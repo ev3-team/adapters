@@ -34,4 +34,5 @@ export default {
   github: 'https://github.com/aurora-is-near',
   telegram: 'https://t.me/auroraisnear',
   twitter: 'https://twitter.com/auroraisnear',
+  url: 'https://aurora.dev/',
 } satisfies AdapterProject

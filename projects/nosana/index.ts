@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/nosana-ci',
   telegram: 'https://t.me/NosanaCI',
   twitter: 'https://twitter.com/nosana_ci',
+  url: 'https://www.nosana.io/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/rddl-network',
   telegram: null,
   twitter: 'http://twitter.com/RDDLNetwork',
+  url: 'https://www.rddl.io/',
 } satisfies AdapterProject

@@ -45,4 +45,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://astar.network/',
 } satisfies AdapterProject

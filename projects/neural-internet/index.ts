@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/neuralinternet',
   telegram: null,
   twitter: 'https://twitter.com/neural_internet',
+  url: 'https://neuralinternet.ai/',
 } satisfies AdapterProject

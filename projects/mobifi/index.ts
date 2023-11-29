@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/mobifi',
+  url: 'https://mobifi.io/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/iris_technology',
+  url: 'https://www.poweredbyiris.com/',
 } satisfies AdapterProject

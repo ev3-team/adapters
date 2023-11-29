@@ -34,4 +34,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.sinso.io/',
 } satisfies AdapterProject

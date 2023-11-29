@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Crewdle_app',
+  url: 'https://crewdle.com/peers',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/hivemapper',
   telegram: null,
   twitter: 'https://twitter.com/Hivemapper',
+  url: 'https://hivemapper.com/explorer',
 } satisfies AdapterProject

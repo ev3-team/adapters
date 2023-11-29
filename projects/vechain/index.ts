@@ -40,4 +40,5 @@ export default {
   github: 'https://github.com/vechain',
   telegram: 'https://t.me/s/vechainannouncement',
   twitter: 'https://twitter.com/vechainofficial?lang=en',
+  url: 'https://www.vechain.org/',
 } satisfies AdapterProject

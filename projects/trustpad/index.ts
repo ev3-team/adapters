@@ -29,4 +29,5 @@ export default {
   github: null,
   telegram: 'https://t.me/TrustPad',
   twitter: 'https://twitter.com/TrustPad',
+  url: 'https://trustpad.io/',
 } satisfies AdapterProject

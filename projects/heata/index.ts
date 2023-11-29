@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/heatacompute',
+  url: 'https://www.heata.co/',
 } satisfies AdapterProject

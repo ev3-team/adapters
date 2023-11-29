@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/karrier_one?lang=en',
+  url: 'https://karrier.one/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/alex-dp/solana-democracy',
   telegram: null,
   twitter: null,
+  url: 'https://www.argonsuite.org/',
 } satisfies AdapterProject

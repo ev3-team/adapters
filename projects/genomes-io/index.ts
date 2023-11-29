@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/genomesio',
   telegram: null,
   twitter: 'https://twitter.com/genomesdao',
+  url: 'https://genomes.io/',
 } satisfies AdapterProject

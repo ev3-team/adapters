@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/checkdot',
   telegram: 'https://t.me/checkdot',
   twitter: 'https://twitter.com/Checkdot_proto',
+  url: 'https://checkdot.io/',
 } satisfies AdapterProject

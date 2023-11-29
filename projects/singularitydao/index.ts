@@ -33,4 +33,5 @@ export default {
   github: null,
   telegram: 'https://t.me/SingDAO',
   twitter: 'https://twitter.com/SingularityDao',
+  url: 'https://www.singularitydao.ai/',
 } satisfies AdapterProject

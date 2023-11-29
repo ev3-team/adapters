@@ -29,4 +29,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/blackbirdvc',
+  url: 'https://www.blackbird.xyz/',
 } satisfies AdapterProject

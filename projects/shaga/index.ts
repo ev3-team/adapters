@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ShagaDAO/Shaga-Monorepo',
   telegram: null,
   twitter: 'https://twitter.com/Web3Shaga',
+  url: 'https://linktr.ee/web3shaga',
 } satisfies AdapterProject

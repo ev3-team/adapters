@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/dotoracle/dotoracle-website',
   telegram: 'https://t.me/dotoracle',
   twitter: 'https://twitter.com/DotOracle',
+  url: 'https://dotoracle.network/',
 } satisfies AdapterProject

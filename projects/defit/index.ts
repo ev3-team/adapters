@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/DEFITofficial',
   twitter: 'https://twitter.com/DEFITofficial',
+  url: 'https://app.defit.com/',
 } satisfies AdapterProject

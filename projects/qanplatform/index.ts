@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/QANplatform',
   telegram: 'https://t.me/QANplatform',
   twitter: 'https://twitter.com/QANplatform',
+  url: 'https://qanplatform.com/en',
 } satisfies AdapterProject

@@ -27,4 +27,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.everyname.xyz/',
 } satisfies AdapterProject

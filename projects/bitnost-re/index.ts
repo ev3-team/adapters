@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/bitnostre',
+  url: 'https://bitnost.re/',
 } satisfies AdapterProject

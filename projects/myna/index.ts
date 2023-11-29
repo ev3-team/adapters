@@ -31,4 +31,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/mynaswap',
+  url: 'https://www.myna.co/',
 } satisfies AdapterProject

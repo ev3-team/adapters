@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/shibuyaxyz',
+  url: 'https://www.shibuya.xyz/',
 } satisfies AdapterProject

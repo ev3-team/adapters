@@ -65,4 +65,5 @@ export default {
   github: 'https://github.com/KYVENetwork',
   telegram: 'https://t.me/kyvenet',
   twitter: 'https://twitter.com/KYVENetwork',
+  url: 'https://www.kyve.network/',
 } satisfies AdapterProject

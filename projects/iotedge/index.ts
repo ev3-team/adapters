@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/IotedgeOfficalEN',
   twitter: 'https://twitter.com/iotedgechain',
+  url: 'https://iotedge.co/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://immerso.pt/?utm_source=gmb&utm_medium=gmb',
 } satisfies AdapterProject

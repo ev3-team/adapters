@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/riddleandcode',
+  url: 'https://www.riddleandcode.com/',
 } satisfies AdapterProject

@@ -29,4 +29,5 @@ export default {
   github: null,
   telegram: 'https://t.me/Felikxz',
   twitter: 'https://twitter.com/MetaGravity_',
+  url: 'https://www.metagravity.com/',
 } satisfies AdapterProject

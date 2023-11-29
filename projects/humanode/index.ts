@@ -35,4 +35,5 @@ export default {
   github: 'https://github.com/humanode-network',
   telegram: 'https://t.me/humanode',
   twitter: 'https://twitter.com/humanode_io',
+  url: 'https://humanode.io/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/katzentracker',
+  url: 'https://katzentracker.com/',
 } satisfies AdapterProject

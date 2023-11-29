@@ -54,4 +54,5 @@ export default {
   github: 'https://github.com/vegaprotocol',
   telegram: 'https://t.me/vegacommunity/',
   twitter: 'https://twitter.com/vegaprotocol',
+  url: 'https://vega.xyz/',
 } satisfies AdapterProject

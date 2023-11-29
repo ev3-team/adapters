@@ -33,4 +33,5 @@ export default {
   github: null,
   telegram: 'https://t.me/nitroleaguegame',
   twitter: 'https://twitter.com/nitroleaguegame',
+  url: 'https://www.nitroleague.com/',
 } satisfies AdapterProject

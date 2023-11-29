@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/lyzislabsoff',
   twitter: 'https://twitter.com/lyzislabs',
+  url: 'https://www.lyzis.tech/',
 } satisfies AdapterProject

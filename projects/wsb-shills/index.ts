@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/wsbsh',
   twitter: 'https://twitter.com/wsb_sh?s=21',
+  url: 'https://www.wsb.sh/',
 } satisfies AdapterProject

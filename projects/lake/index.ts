@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/lakenetwork',
   twitter: 'https://twitter.com/_lakenetwork',
+  url: 'https://lakenetwork.io/',
 } satisfies AdapterProject

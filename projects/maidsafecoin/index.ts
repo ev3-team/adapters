@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/maidsafe/maidsafe.net',
   telegram: 'https://t.me/safenetwork',
   twitter: 'https://twitter.com/maidsafe',
+  url: 'https://maidsafe.net/',
 } satisfies AdapterProject

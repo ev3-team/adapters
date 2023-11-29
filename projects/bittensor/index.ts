@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/topics/bittensor',
   telegram: null,
   twitter: null,
+  url: 'https://bittensor.com/',
 } satisfies AdapterProject

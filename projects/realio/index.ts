@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/realiotech',
   telegram: 'https://en.telghub.com/content?id=43971',
   twitter: 'https://twitter.com/realio_network',
+  url: 'https://realio.network/',
 } satisfies AdapterProject

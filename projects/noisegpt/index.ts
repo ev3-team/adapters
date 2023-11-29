@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/noisegpt',
+  url: 'https://noisegpt.com/',
 } satisfies AdapterProject

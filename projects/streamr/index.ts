@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/streamr-dev',
   telegram: 'https://t.me/streamrdata',
   twitter: 'https://twitter.com/streamr',
+  url: 'https://streamr.network/',
 } satisfies AdapterProject

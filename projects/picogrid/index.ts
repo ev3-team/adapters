@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/zanemountcastle',
   telegram: null,
   twitter: 'https://twitter.com/zanemountcastle',
+  url: 'https://picogrid.com/',
 } satisfies AdapterProject

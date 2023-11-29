@@ -34,4 +34,5 @@ export default {
   github: 'https://github.com/singnet',
   telegram: 'https://telegram.me/singularitynet',
   twitter: 'https://twitter.com/singularitynet',
+  url: 'https://singularitynet.io/',
 } satisfies AdapterProject

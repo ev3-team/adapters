@@ -25,4 +25,5 @@ export default {
   github: 'https://github.com/Stichting-AllianceBlock-Foundation/',
   telegram: 'https://t.me/allianceblock',
   twitter: 'https://twitter.com/allianceblock',
+  url: 'https://allianceblock.io/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/worldmobilegroup',
   telegram: 'https://t.me/WorldMobileTeam',
   twitter: 'https://twitter.com/WorldMobileTeam/',
+  url: 'https://worldmobile.io/',
 } satisfies AdapterProject

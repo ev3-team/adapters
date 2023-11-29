@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/hello-storage',
   telegram: null,
   twitter: 'https://twitter.com/joinhelloapp',
+  url: 'https://hello.app/',
 } satisfies AdapterProject

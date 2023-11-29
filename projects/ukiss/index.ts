@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://www.ukiss.io/',
 } satisfies AdapterProject

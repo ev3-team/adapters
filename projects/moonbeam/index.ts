@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/moonbeamnetwork',
+  url: 'https://moonbeam.network/',
 } satisfies AdapterProject

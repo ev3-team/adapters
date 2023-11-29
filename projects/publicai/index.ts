@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/PublicAI01',
   telegram: 'https://t.me/Public_AI',
   twitter: 'https://twitter.com/PublicAI_',
+  url: 'https://www.publicai.io/',
 } satisfies AdapterProject

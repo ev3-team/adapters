@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/JurProject',
+  url: 'https://jur.io/',
 } satisfies AdapterProject

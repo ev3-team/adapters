@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Sollinked_com',
+  url: 'https://sollinked.com/',
 } satisfies AdapterProject

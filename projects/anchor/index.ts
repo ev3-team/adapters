@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/pauli_group',
+  url: 'https://www.greymass.com/anchor',
 } satisfies AdapterProject

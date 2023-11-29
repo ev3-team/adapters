@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/bubble',
+  url: 'https://bubbleai.xyz/',
 } satisfies AdapterProject

@@ -32,4 +32,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/0xStackr',
+  url: 'http://www.stackrlabs.xyz/',
 } satisfies AdapterProject

@@ -35,4 +35,5 @@ export default {
   github: 'https://github.com/Autonomy-Network',
   telegram: null,
   twitter: 'https://twitter.com/AutonomyNetwork',
+  url: 'https://www.autonomynetwork.io/',
 } satisfies AdapterProject

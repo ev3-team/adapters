@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/MatrixAINetwork',
   telegram: 'https://t.me/matrixainetwork',
   twitter: 'https://twitter.com/MatrixAINetwork',
+  url: 'https://www.matrix.io/',
 } satisfies AdapterProject

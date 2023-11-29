@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/eloopone',
   twitter: null,
+  url: 'https://eloop.one/en/',
 } satisfies AdapterProject

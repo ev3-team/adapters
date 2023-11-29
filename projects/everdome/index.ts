@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/everdome',
   twitter: 'https://twitter.com/Everdome_io',
+  url: 'https://everdome.io/',
 } satisfies AdapterProject

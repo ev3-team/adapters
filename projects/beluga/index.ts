@@ -39,4 +39,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://x.com/getbeluga',
+  url: 'https://heybeluga.com/',
 } satisfies AdapterProject

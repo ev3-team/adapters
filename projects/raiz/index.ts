@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/RaizFarms',
+  url: 'https://www.raiz.farm/',
 } satisfies AdapterProject

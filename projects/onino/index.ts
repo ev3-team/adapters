@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/ONINO-IO',
   telegram: null,
   twitter: 'https://twitter.com/onino_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  url: 'https://www.onino.io/',
 } satisfies AdapterProject

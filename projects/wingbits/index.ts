@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/wingbit',
   telegram: null,
   twitter: 'https://twitter.com/wingbits',
+  url: 'https://wingbits.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Acxynteam',
+  url: 'https://www.acxyn.xyz/',
 } satisfies AdapterProject

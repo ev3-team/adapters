@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/DockHive/dht',
   telegram: 'https://t.me/Dockhive',
   twitter: 'https://twitter.com/dockhive',
+  url: 'https://dockhive.io/',
 } satisfies AdapterProject

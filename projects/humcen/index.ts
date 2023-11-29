@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Humceng',
+  url: 'https://humcen.com/',
 } satisfies AdapterProject

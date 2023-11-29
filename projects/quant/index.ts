@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/quant_network',
+  url: 'https://quant.network/',
 } satisfies AdapterProject

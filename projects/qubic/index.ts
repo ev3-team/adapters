@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/qubic-li',
   telegram: null,
   twitter: 'https://twitter.com/qubic_network',
+  url: 'https://web.qubic.li/',
 } satisfies AdapterProject

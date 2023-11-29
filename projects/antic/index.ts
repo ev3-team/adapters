@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Getantic',
+  url: 'https://www.antic.xyz/',
 } satisfies AdapterProject

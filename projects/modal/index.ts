@@ -45,4 +45,5 @@ export default {
   github: 'https://github.com/modal-labs',
   telegram: null,
   twitter: 'https://twitter.com/modal_labs',
+  url: 'https://modal.com/',
 } satisfies AdapterProject

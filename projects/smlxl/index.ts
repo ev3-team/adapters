@@ -29,4 +29,5 @@ export default {
   github: 'https://github.com/smlxl',
   telegram: null,
   twitter: 'https://twitter.com/smlxldotio',
+  url: 'https://smlxl.io/',
 } satisfies AdapterProject

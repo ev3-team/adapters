@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/AquaSave-io',
   telegram: null,
   twitter: 'https://twitter.com/AquaSaveCrypto',
+  url: 'https://aquasave.io/',
 } satisfies AdapterProject

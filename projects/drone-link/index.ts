@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/DronelinkHQ/',
+  url: 'https://www.dronelink.com/',
 } satisfies AdapterProject

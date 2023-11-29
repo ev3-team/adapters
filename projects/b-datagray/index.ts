@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Datagen-Project',
   telegram: 'https://t.me/bdatagray',
   twitter: 'https://twitter.com/b_datagray',
+  url: 'https://www.b-datagray.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/joinradius',
+  url: 'https://www.radius.space/',
 } satisfies AdapterProject

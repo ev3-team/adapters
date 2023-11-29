@@ -46,4 +46,5 @@ export default {
   github: null,
   telegram: 'https://t.me/CortexOfficialEN',
   twitter: 'https://twitter.com/CTXCBlockchain',
+  url: 'https://www.cortexlabs.ai/',
 } satisfies AdapterProject

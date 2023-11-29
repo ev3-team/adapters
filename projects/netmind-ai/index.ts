@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/protagolabs',
   telegram: null,
   twitter: 'https://twitter.com/NetMindAi',
+  url: 'https://netmind.ai/home',
 } satisfies AdapterProject

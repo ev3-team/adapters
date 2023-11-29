@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/+_wOHpPocsxE3NjBh',
   twitter: 'https://twitter.com/robotera_io',
+  url: 'https://robotera.io/',
 } satisfies AdapterProject

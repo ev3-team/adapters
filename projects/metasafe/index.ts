@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/+qAdGHkxRl_RjMjAx',
   twitter: null,
+  url: 'https://metasafe.one/',
 } satisfies AdapterProject

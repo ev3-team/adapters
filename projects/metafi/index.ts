@@ -30,4 +30,5 @@ export default {
   github: 'https://github.com/metafiofficial',
   telegram: null,
   twitter: 'https://twitter.com/MetaFi_Official',
+  url: 'https://www.metafi.org/',
 } satisfies AdapterProject

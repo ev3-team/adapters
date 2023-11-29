@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/rendernetwork/',
   telegram: 'https://t.me/rendernetwork',
   twitter: 'https://twitter.com/rendernetwork',
+  url: 'http://renderfoundation.com/',
 } satisfies AdapterProject

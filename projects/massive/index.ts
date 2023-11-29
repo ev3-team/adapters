@@ -44,4 +44,5 @@ export default {
   github: 'https://github.com/topics/massive',
   telegram: null,
   twitter: null,
+  url: 'https://www.joinmassive.com/',
 } satisfies AdapterProject

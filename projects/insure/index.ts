@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/inSureToken/SmartContract/blob/master/inSure.sol',
   telegram: 'https://t.me/insuredefi',
   twitter: 'https://twitter.com/InsureToken',
+  url: 'https://insuretoken.net/',
 } satisfies AdapterProject

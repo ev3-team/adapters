@@ -39,4 +39,5 @@ export default {
   github: null,
   telegram: 'https://t.me/nillionnetwork',
   twitter: 'https://twitter.com/nillionnetwork',
+  url: 'https://www.nillion.com/',
 } satisfies AdapterProject

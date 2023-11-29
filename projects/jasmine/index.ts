@@ -26,4 +26,5 @@ export default {
   github: 'https://github.com/jasmine',
   telegram: null,
   twitter: 'https://twitter.com/Jasmine_Energy',
+  url: 'https://www.jasmine.energy/',
 } satisfies AdapterProject

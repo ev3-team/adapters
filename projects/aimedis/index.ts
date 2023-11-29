@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/AimedisOfficialEnglish',
   twitter: 'https://twitter.com/AimedisGlobal',
+  url: 'https://aimedis.com/',
 } satisfies AdapterProject

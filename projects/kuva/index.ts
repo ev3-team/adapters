@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/kuvanetwork',
   twitter: 'https://twitter.com/KuvaNet',
+  url: 'https://kuva.com/',
 } satisfies AdapterProject

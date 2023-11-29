@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/dinaricrypto',
   telegram: 'https://t.me/dinariglobal',
   twitter: 'https://twitter.com/DinariGlobal',
+  url: 'https://www.dinari.com/',
 } satisfies AdapterProject

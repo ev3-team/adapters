@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/rumilabs/status/1325733403686133760',
+  url: 'https://www.rumi.finance/',
 } satisfies AdapterProject

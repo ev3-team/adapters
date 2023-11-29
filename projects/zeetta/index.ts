@@ -26,4 +26,5 @@ export default {
   github: 'https://github.com/zeeta',
   telegram: 'https://t.me/s/ZeetaaProjects?before=209',
   twitter: 'https://twitter.com/zeettas?lang=en',
+  url: 'https://zeetta.com/',
 } satisfies AdapterProject

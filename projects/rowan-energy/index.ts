@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/RowanRewards',
+  url: 'https://www.rowanenergy.com/',
 } satisfies AdapterProject

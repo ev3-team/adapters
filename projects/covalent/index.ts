@@ -45,4 +45,5 @@ export default {
   github: 'https://github.com/covalenthq/',
   telegram: 'https://t.me/CovalentHQ',
   twitter: 'https://twitter.com/Covalent_HQ',
+  url: 'https://www.covalenthq.com/',
 } satisfies AdapterProject

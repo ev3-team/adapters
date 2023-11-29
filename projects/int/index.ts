@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/intfoundation',
   telegram: 'https://t.me/INTchain_officialtelegram',
   twitter: 'https://twitter.com/INTCHAIN',
+  url: 'https://intchain.io/#/',
 } satisfies AdapterProject

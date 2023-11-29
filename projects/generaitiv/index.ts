@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/generaitiv',
   twitter: 'https://twitter.com/generaitiv',
+  url: 'https://generaitiv.xyz/',
 } satisfies AdapterProject

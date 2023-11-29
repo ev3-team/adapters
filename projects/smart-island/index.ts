@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/smartislandibz',
+  url: 'http://smartislandibiza.com/',
 } satisfies AdapterProject

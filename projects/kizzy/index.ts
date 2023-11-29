@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/kizzymobile',
+  url: 'https://www.kizzy.io/',
 } satisfies AdapterProject

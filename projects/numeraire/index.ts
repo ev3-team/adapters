@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/numerai',
   telegram: 'https://t.me/NMR_Official',
   twitter: 'https://twitter.com/numerai',
+  url: 'https://numer.ai/',
 } satisfies AdapterProject

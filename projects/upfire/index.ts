@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/UpfireHQ/upfire',
   telegram: 'https://t.me/UpfireOfficial',
   twitter: 'https://twitter.com/UpfireHQ',
+  url: 'https://upfire.com/',
 } satisfies AdapterProject

@@ -33,4 +33,5 @@ export default {
   github: 'https://github.com/HashMixProject',
   telegram: 'https://t.me/HashMixChannel',
   twitter: 'https://twitter.com/HashMixOfficial',
+  url: 'https://www.hashmix.org/en/#intro',
 } satisfies AdapterProject

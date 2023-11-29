@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/bird-money',
   telegram: 'https://t.me/joinchat/AAAAAEzyFurRdr3sZZnrBw',
   twitter: 'https://twitter.com/_birdmoney',
+  url: 'https://bird.money/',
 } satisfies AdapterProject

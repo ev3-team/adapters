@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/topics/data-unions',
   telegram: null,
   twitter: 'https://twitter.com/dataunions',
+  url: 'https://dataunions.org/',
 } satisfies AdapterProject

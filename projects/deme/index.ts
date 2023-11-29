@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/DecentralisedMe',
+  url: 'https://deme.social/#',
 } satisfies AdapterProject

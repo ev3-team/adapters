@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/LayerAI_org',
   twitter: 'https://twitter.com/LayerAIorg',
+  url: 'https://layerai.org/',
 } satisfies AdapterProject

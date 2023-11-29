@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/alephim',
   twitter: 'https://twitter.com/aleph_im',
+  url: 'https://aleph.im/',
 } satisfies AdapterProject

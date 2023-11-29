@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/akash-network',
   telegram: null,
   twitter: 'https://twitter.com/akashnet_',
+  url: 'https://akash.network/',
 } satisfies AdapterProject

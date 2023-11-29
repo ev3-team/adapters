@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/humansdotai',
   twitter: 'https://twitter.com/humansdotai',
+  url: 'https://humans.ai/',
 } satisfies AdapterProject

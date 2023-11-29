@@ -34,4 +34,5 @@ export default {
   github: null,
   telegram: 'https://t.me/elixirprotocol',
   twitter: 'https://twitter.com/ElixirProtocol',
+  url: 'http://www.elixir.finance/',
 } satisfies AdapterProject

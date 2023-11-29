@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/gpuaudio',
+  url: 'https://www.gpu.audio/',
 } satisfies AdapterProject

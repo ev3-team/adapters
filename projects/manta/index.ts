@@ -52,4 +52,5 @@ export default {
   github: 'https://github.com/manta-network',
   telegram: 'https://www.t.me/mantanetworkofficial',
   twitter: 'https://twitter.com/mantanetwork',
+  url: 'https://manta.network/',
 } satisfies AdapterProject

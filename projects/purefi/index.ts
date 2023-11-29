@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/purefiprotocol',
   twitter: 'https://twitter.com/Purefi_Protocol',
+  url: 'https://purefi.io/',
 } satisfies AdapterProject

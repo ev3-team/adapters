@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/darkrenaissance/darkfi',
   telegram: 'https://t.me/darkfichat',
   twitter: 'https://twitter.com/DarkFiSquad',
+  url: 'https://dark.fi/',
 } satisfies AdapterProject

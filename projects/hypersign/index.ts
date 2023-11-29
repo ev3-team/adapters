@@ -14,4 +14,5 @@ export default {
   github: 'https://hypersign.id/blogs',
   telegram: 'https://t.me/hypersignchain',
   twitter: 'https://twitter.com/hypersignchain',
+  url: 'https://hypersign.id/',
 } satisfies AdapterProject

@@ -38,4 +38,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/radicle',
+  url: 'https://radicle.xyz/',
 } satisfies AdapterProject

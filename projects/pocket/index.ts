@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/pokt-network',
   telegram: 'https://t.me/POKTnetwork',
   twitter: 'https://twitter.com/POKTnetwork',
+  url: 'https://www.pokt.network/',
 } satisfies AdapterProject

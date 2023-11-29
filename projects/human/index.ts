@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/joinhuman',
   telegram: 'https://t.me/joinhmn',
   twitter: 'https://twitter.com/humanapp',
+  url: 'https://joinhuman.com/',
 } satisfies AdapterProject

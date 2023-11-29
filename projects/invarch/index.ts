@@ -34,4 +34,5 @@ export default {
   github: null,
   telegram: 'https://t.me/InvArch',
   twitter: 'https://twitter.com/InvArchNetwork',
+  url: 'https://www.invarch.network/',
 } satisfies AdapterProject

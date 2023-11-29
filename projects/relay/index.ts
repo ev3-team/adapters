@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/relay-tools',
   telegram: null,
   twitter: 'https://twitter.com/relaydevice',
+  url: 'https://www.relaywireless.com/',
 } satisfies AdapterProject

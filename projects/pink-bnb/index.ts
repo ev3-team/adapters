@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/pnbworld',
   twitter: 'https://twitter.com/pnbworld',
+  url: 'https://pnb.world/',
 } satisfies AdapterProject

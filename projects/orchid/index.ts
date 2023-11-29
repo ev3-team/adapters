@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/OrchidTechnologies',
   telegram: 'https://www.t.me/OrchidOfficial',
   twitter: 'https://twitter.com/OrchidProtocol',
+  url: 'https://www.orchid.com/',
 } satisfies AdapterProject

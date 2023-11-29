@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/ETHforestAI',
   twitter: 'https://twitter.com/ETHforestAI',
+  url: 'https://ethforest.ai/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/oceanprotocol',
   telegram: 'https://t.me/OceanProtocol_Community',
   twitter: 'https://twitter.com/oceanprotocol',
+  url: 'https://oceanprotocol.com/',
 } satisfies AdapterProject

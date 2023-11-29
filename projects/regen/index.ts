@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/regen_pk',
+  url: 'https://www.regen.network/',
 } satisfies AdapterProject

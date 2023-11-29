@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/jinni',
   telegram: null,
   twitter: 'https://twitter.com/jinnidotcom',
+  url: 'http://www.jinni.com/',
 } satisfies AdapterProject

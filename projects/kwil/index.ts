@@ -34,4 +34,5 @@ export default {
   github: 'https://github.com/kwilteam',
   telegram: null,
   twitter: 'https://twitter.com/KwilTeam',
+  url: 'https://www.kwil.com/',
 } satisfies AdapterProject

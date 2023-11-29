@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/astran_',
+  url: 'https://astran.io/',
 } satisfies AdapterProject

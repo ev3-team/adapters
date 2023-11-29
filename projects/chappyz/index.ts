@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/ChappyzOfficial',
   twitter: 'https://twitter.com/Chappyzcom',
+  url: 'https://chappyz.com/',
 } satisfies AdapterProject

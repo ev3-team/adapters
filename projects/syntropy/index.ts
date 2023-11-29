@@ -28,4 +28,5 @@ export default {
   github: 'https://github.com/SyntropyNet',
   telegram: 'https://t.me/SyntropyNet',
   twitter: 'https://twitter.com/Syntropynet',
+  url: 'https://www.syntropynet.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Aventus',
   telegram: null,
   twitter: 'https://twitter.com/aventusnetwork?lang=en',
+  url: 'https://aventus.io/',
 } satisfies AdapterProject

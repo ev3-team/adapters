@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/JobchainOfficial',
   twitter: 'https://twitter.com/antigravity1729',
+  url: 'https://www.jobchain.com/',
 } satisfies AdapterProject

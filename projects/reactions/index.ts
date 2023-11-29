@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/reactions_lab',
+  url: 'https://reactions.wtf/',
 } satisfies AdapterProject

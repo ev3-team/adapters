@@ -37,4 +37,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/leapdex',
+  url: 'https://www.leap.energy/',
 } satisfies AdapterProject

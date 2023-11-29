@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://chatwithhal.vercel.app/platforms/telegram',
   twitter: 'https://chatwithhal.vercel.app/platforms/twitter',
+  url: 'https://chatwithhal.vercel.app/',
 } satisfies AdapterProject

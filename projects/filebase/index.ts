@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/filebase',
   telegram: null,
   twitter: 'https://twitter.com/filebase',
+  url: 'https://filebase.com/',
 } satisfies AdapterProject

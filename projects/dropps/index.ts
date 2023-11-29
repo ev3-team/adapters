@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/dropps-io',
   telegram: null,
   twitter: 'https://twitter.com/dropps_io',
+  url: 'https://www.dropps.io/',
 } satisfies AdapterProject

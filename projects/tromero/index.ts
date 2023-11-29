@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/TromeroAI',
+  url: 'https://www.tromero.org/',
 } satisfies AdapterProject

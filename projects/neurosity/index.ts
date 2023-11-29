@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/neurosity',
   telegram: null,
   twitter: 'https://twitter.com/neurosity',
+  url: 'https://neurosity.co/',
 } satisfies AdapterProject

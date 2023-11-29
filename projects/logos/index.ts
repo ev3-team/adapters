@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/logos-co',
   telegram: null,
   twitter: 'https://twitter.com/Logos_state',
+  url: 'https://logos.co/',
 } satisfies AdapterProject

@@ -33,4 +33,5 @@ export default {
   github: null,
   telegram: 'https://t.me/MANTRA_omniverse',
   twitter: 'https://twitter.com/MANTRAOMniverse',
+  url: 'https://www.mantraomniverse.com/',
 } satisfies AdapterProject

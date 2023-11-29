@@ -40,4 +40,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/join_royal',
+  url: 'https://royal.io/',
 } satisfies AdapterProject

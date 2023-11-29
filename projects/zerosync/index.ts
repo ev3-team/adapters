@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/ZeroSync/ZeroSync',
   telegram: 'https://t.me/zerosync_chat',
   twitter: 'https://twitter.com/zerosync_',
+  url: 'https://zerosync.org/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/efani',
+  url: 'https://www.efani.com/',
 } satisfies AdapterProject

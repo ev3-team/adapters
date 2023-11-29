@@ -15,4 +15,5 @@ export default {
   github: 'https://ummafinance.substack.com/',
   telegram: 'https://t.me/ummafinancechat',
   twitter: 'https://twitter.com/UmmaFinance',
+  url: 'https://umma.finance/',
 } satisfies AdapterProject

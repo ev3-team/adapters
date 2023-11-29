@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/MorpheusAIs/Morpheus/blob/main/ollama_instructions_in_pictures.md',
   telegram: 'https://t.me/MorpheusNetworkAnnouncements',
   twitter: 'https://twitter.com/MNWSupplyChain',
+  url: 'https://www.morpheusai.org/',
 } satisfies AdapterProject

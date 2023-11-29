@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/BlackCreekDig',
+  url: 'https://www.blackcreekdigital.com/',
 } satisfies AdapterProject

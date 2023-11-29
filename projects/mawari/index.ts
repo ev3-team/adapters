@@ -25,4 +25,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/mawarijp',
+  url: 'https://www.mawari.io/',
 } satisfies AdapterProject

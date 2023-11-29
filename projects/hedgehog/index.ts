@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/githedgehog',
   telegram: null,
   twitter: 'https://twitter.com/githedgehog',
+  url: 'https://githedgehog.com/',
 } satisfies AdapterProject

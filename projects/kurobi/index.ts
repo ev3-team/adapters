@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/kurobi_io',
   twitter: 'https://twitter.com/kurobi_io',
+  url: 'https://kurobi.io/',
 } satisfies AdapterProject

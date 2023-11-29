@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/energicryptocurrency',
   telegram: 'https://t.me/GonnaMakeitNFTs',
   twitter: 'https://twitter.com/GonnaMakeItNFTs',
+  url: 'https://gonnamakeit.io/',
 } satisfies AdapterProject

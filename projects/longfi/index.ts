@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/topics/longfi',
   telegram: null,
   twitter: 'https://twitter.com/LongFiSolutions',
+  url: 'https://www.longfisolutions.com/',
 } satisfies AdapterProject

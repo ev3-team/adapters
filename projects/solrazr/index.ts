@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/solrazr-app',
   telegram: 'https://t.me/s/solrazr_app',
   twitter: 'https://mobile.twitter.com/CSolrazr',
+  url: 'https://razrfi.ai/',
 } satisfies AdapterProject

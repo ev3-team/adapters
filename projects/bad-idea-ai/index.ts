@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/badideaai',
   twitter: 'https://www.twitter.com/badideaai',
+  url: 'https://www.badidea.ai/',
 } satisfies AdapterProject

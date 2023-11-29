@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/ethersphere',
   telegram: null,
   twitter: 'https://twitter.com/ethswarm',
+  url: 'https://www.ethswarm.org/',
 } satisfies AdapterProject

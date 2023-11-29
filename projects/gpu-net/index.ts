@@ -15,4 +15,5 @@ export default {
   github: 'https://medium.com/@GPUnet',
   telegram: 'https://t.me/brahm_gan',
   twitter: 'https://twitter.com/gpunet',
+  url: 'https://www.gpu.net/',
 } satisfies AdapterProject

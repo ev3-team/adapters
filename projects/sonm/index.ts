@@ -26,4 +26,5 @@ export default {
   github: 'https://github.com/sonm-io',
   telegram: 'https://t.me/sonm_eng',
   twitter: 'https://twitter.com/sonmdevelopment',
+  url: 'https://sonm.com/',
 } satisfies AdapterProject

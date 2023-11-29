@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/kie478/vaxchain',
   telegram: null,
   twitter: 'https://twitter.com/devpost',
+  url: 'https://devpost.com/software/vaxchain',
 } satisfies AdapterProject

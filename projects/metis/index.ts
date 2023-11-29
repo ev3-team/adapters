@@ -61,4 +61,5 @@ export default {
   github: 'https://github.com/MetisProtocol',
   telegram: 'https://t.me/MetisDAO',
   twitter: 'https://twitter.com/MetisDAO',
+  url: 'https://www.metis.io/',
 } satisfies AdapterProject

@@ -26,4 +26,5 @@ export default {
   github: 'https://github.com/impactMarket',
   telegram: 'https://t.me/impactMarketOfficial',
   twitter: 'https://twitter.com/impactmarket',
+  url: 'https://www.impactmarket.com/',
 } satisfies AdapterProject

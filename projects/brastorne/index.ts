@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Brastorne_',
+  url: 'https://www.brastorne.com/',
 } satisfies AdapterProject

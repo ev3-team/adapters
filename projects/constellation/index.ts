@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/Constellation-Labs/tessellation',
   telegram: 'https://t.me/constellationcommunity',
   twitter: 'https://twitter.com/Conste11ation',
+  url: 'https://constellationnetwork.io/',
 } satisfies AdapterProject

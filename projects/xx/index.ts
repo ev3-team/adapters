@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/xx-labs',
   telegram: null,
   twitter: 'https://twitter.com/xx_network',
+  url: 'https://xx.network/',
 } satisfies AdapterProject

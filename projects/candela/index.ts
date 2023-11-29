@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/candela?lang=en',
+  url: 'https://www.candelacoin.com/',
 } satisfies AdapterProject

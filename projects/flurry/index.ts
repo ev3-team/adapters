@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/FlurryFinance_Official',
   twitter: 'https://twitter.com/FlurryFi',
+  url: 'https://www.flurry.finance/',
 } satisfies AdapterProject

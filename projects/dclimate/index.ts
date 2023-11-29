@@ -32,4 +32,5 @@ export default {
   github: 'https://github.com/dClimate',
   telegram: 'http://t.me/dclimatechat-',
   twitter: 'https://twitter.com/dClimateDAO',
+  url: 'https://www.dclimate.net/',
 } satisfies AdapterProject

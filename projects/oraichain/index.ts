@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/oraichain',
   telegram: 'https://t.me/oraichain',
   twitter: 'https://twitter.com/oraichain',
+  url: 'https://orai.io/',
 } satisfies AdapterProject

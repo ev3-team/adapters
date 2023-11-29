@@ -59,4 +59,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/vaxchain',
+  url: 'https://albedo.com/',
 } satisfies AdapterProject

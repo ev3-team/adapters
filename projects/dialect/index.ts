@@ -28,4 +28,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/saydialect',
+  url: 'https://www.dialect.to/',
 } satisfies AdapterProject

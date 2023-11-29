@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/weavechain',
   telegram: null,
   twitter: 'https://twitter.com/weavechainweb3?lang=en',
+  url: 'https://www.weavechain.com/',
 } satisfies AdapterProject

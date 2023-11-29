@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/incognitochain',
   telegram: 'https://t.me/incognitochain',
   twitter: 'https://twitter.com/IncognitoChain',
+  url: 'https://incognito.org/',
 } satisfies AdapterProject

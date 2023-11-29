@@ -24,4 +24,5 @@ export default {
   github: null,
   telegram: 'https://t.me/s/aiozofficial',
   twitter: 'https://twitter.com/aioznetwork?lang=en',
+  url: 'https://aioz.network/',
 } satisfies AdapterProject

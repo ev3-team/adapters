@@ -53,4 +53,5 @@ export default {
   github: 'https://github.com/InjectiveLabs',
   telegram: 'https://t.me/joininjective',
   twitter: 'https://twitter.com/Injective_',
+  url: 'https://injective.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/HallidayHQ',
+  url: 'https://www.halliday.xyz/',
 } satisfies AdapterProject

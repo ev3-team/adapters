@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/nknorg',
   telegram: 'https://t.me/nknorg',
   twitter: 'https://twitter.com/NKN_ORG',
+  url: 'https://nkn.org/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/TheSQE',
+  url: 'https://www.sqe.io/',
 } satisfies AdapterProject

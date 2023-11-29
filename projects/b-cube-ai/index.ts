@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/b-cube-ai',
   telegram: null,
   twitter: 'https://twitter.com/Bcubeai',
+  url: 'https://www.b-cube.ai/',
 } satisfies AdapterProject

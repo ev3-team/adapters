@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/RAKWireless',
   telegram: null,
   twitter: 'https://twitter.com/RAKwireless',
+  url: 'https://www.rakwireless.com/en-us',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/reapchain/testnets',
   telegram: 'https://t.me/ReapchianOfficial',
   twitter: 'https://twitter.com/ReapChain',
+  url: 'https://reapchain.com/',
 } satisfies AdapterProject

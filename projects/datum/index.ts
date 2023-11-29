@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/datumnetwork',
+  url: 'https://datum.org/',
 } satisfies AdapterProject

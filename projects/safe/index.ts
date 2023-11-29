@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/safenetworktech?lang=en',
+  url: 'https://safenetwork.org/',
 } satisfies AdapterProject

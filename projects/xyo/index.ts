@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/xyonetwork',
   twitter: 'https://twitter.com/OfficialXYO',
+  url: 'https://xyo.network/',
 } satisfies AdapterProject

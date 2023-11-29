@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/mediafoundation',
   telegram: 'https://t.me/Media_FDN',
   twitter: 'https://twitter.com/Media_FDN',
+  url: 'https://www.media.network/',
 } satisfies AdapterProject

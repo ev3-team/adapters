@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/orchaiofficial',
   twitter: 'https://twitter.com/orchai_protocol',
+  url: 'https://orchai.io/',
 } satisfies AdapterProject

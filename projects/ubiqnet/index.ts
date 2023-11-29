@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/ubiqnet',
   telegram: null,
   twitter: 'https://twitter.com/UBIQ_net',
+  url: 'https://ubiqnet.io/',
 } satisfies AdapterProject

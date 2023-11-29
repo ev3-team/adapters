@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/chainml_',
+  url: 'https://t.co/RdwLhkOJ65',
 } satisfies AdapterProject

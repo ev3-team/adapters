@@ -29,4 +29,5 @@ export default {
   github: 'https://github.com/fluencelabs',
   telegram: 'https://t.me/fluence_project',
   twitter: 'https://twitter.com/fluence_project',
+  url: 'https://fluence.network/',
 } satisfies AdapterProject

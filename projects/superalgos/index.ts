@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/Superalgos/Superalgos',
   telegram: null,
   twitter: 'https://twitter.com/superalgos',
+  url: 'https://superalgos.org/',
 } satisfies AdapterProject

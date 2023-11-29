@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/UltronGlow',
   telegram: 'https://t.me/UltronGlowOfficial',
   twitter: 'https://twitter.com/ultronglow',
+  url: 'https://www.ultronglow.io/',
 } satisfies AdapterProject

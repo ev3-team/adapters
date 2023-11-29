@@ -31,4 +31,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/zeitgeist_xyz?lang=en',
+  url: 'https://zeitgeist.pm/',
 } satisfies AdapterProject

@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: 'https://t.me/teaprojectorg',
   twitter: 'https://twitter.com/teaprojectorg',
+  url: 'https://teaproject.org/',
 } satisfies AdapterProject

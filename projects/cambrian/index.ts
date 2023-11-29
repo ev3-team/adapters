@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/cambrian-protocol/cambrian',
   telegram: null,
   twitter: 'https://twitter.com/cambrian_eth',
+  url: 'https://cambrianprotocol.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/deepsquare-io',
   telegram: null,
   twitter: 'https://twitter.com/DeepSQUAREio',
+  url: 'https://deepsquare.io/',
 } satisfies AdapterProject

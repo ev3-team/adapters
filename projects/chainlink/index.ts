@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/chainlinkofficial',
   twitter: 'https://twitter.com/chainlink',
+  url: 'https://chain.link/',
 } satisfies AdapterProject

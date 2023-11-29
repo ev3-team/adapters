@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/rollbitcom',
+  url: 'https://rollbit.com/',
 } satisfies AdapterProject

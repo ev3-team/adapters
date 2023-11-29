@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/paal_ai',
   twitter: 'https://twitter.com/PaalMind',
+  url: 'https://paalai.io/',
 } satisfies AdapterProject

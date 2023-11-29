@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/GNYIO',
   telegram: null,
   twitter: 'https://twitter.com/gny_io',
+  url: 'http://www.gny.io/',
 } satisfies AdapterProject

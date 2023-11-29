@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/runloop?lang=en',
+  url: 'https://runloop.xyz/',
 } satisfies AdapterProject

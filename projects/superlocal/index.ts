@@ -26,4 +26,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/joinsuperlocal',
+  url: 'https://www.superlocal.com/',
 } satisfies AdapterProject

@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/trudenty',
+  url: 'https://trudenty.com/',
 } satisfies AdapterProject

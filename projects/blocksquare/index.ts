@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
+  url: 'https://blocksquare.io/',
 } satisfies AdapterProject

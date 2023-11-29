@@ -30,4 +30,5 @@ export default {
   github: 'https://github.com/FedML-AI/FedML',
   telegram: null,
   twitter: 'https://twitter.com/fedml_ai',
+  url: 'https://www.fedml.ai/',
 } satisfies AdapterProject

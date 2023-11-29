@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/filestar-project',
   telegram: 'https://t.me/filestarofficial',
   twitter: 'https://twitter.com/FileStarProject',
+  url: 'https://filestar.net/en',
 } satisfies AdapterProject

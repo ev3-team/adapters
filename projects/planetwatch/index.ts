@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/planetwatch',
   twitter: 'https://twitter.com/planetwatchsas',
+  url: 'https://www.planetwatch.io/',
 } satisfies AdapterProject

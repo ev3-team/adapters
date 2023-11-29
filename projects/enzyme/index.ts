@@ -15,4 +15,5 @@ export default {
   github: 'https://medium.com/enzymefinance',
   telegram: 'https://telegram.enzyme.finance/',
   twitter: 'https://twitter.com/enzymefinance',
+  url: 'https://enzyme.finance/',
 } satisfies AdapterProject

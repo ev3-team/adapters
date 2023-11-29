@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/topics/blockcast',
   telegram: 'https://t.me/blockcastit',
   twitter: null,
+  url: 'https://blockcast.net/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/topics/connect3',
   telegram: null,
   twitter: 'https://twitter.com/connect3world',
+  url: 'https://connect3.world/en/about',
 } satisfies AdapterProject

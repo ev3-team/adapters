@@ -15,4 +15,5 @@ export default {
   github: 'https://github.com/vectorspace-ai',
   telegram: 'https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA',
   twitter: 'https://twitter.com/VectorSpaceBio',
+  url: 'https://vectorspacebio.science/',
 } satisfies AdapterProject

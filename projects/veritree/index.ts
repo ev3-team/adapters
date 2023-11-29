@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/veritree_',
+  url: 'https://www.veritree.com/',
 } satisfies AdapterProject

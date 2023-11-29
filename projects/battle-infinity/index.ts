@@ -16,4 +16,5 @@ export default {
     'https://github.com/solidproof/projects/blob/main/Battle%20Infinity/SmartContract_Audit_Solidproof_IBAT.pdf',
   telegram: 'https://t.me/battleinfinity',
   twitter: 'https://twitter.com/ibatofficial',
+  url: 'https://battleinfinity.io/',
 } satisfies AdapterProject

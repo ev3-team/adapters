@@ -14,4 +14,5 @@ export default {
   github: 'https://www.helius.dev/blog',
   telegram: '--',
   twitter: 'https://twitter.com/heliuslabs',
+  url: 'https://www.helius.dev/',
 } satisfies AdapterProject

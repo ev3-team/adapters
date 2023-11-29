@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/3tv_chat?s=11',
+  url: 'https://twitter.com/3tv_chat?s=11',
 } satisfies AdapterProject

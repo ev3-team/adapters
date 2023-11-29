@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/neurai_io',
+  url: 'https://neurai.org/',
 } satisfies AdapterProject

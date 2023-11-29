@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/network3official',
   twitter: 'https://twitter.com/network3_com',
+  url: 'https://network3.io/',
 } satisfies AdapterProject

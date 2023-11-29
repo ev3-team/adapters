@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/#!/Mitch_Stephen',
+  url: 'https://www.1kh.org/',
 } satisfies AdapterProject

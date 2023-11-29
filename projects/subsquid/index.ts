@@ -39,4 +39,5 @@ export default {
   github: 'https://github.com/subsquid',
   telegram: 'https://t.me/subsquid',
   twitter: 'https://twitter.com/subsquid',
+  url: 'https://www.subsquid.io/',
 } satisfies AdapterProject

@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/myceliumx',
+  url: 'https://www.myceliumnetworks.com/',
 } satisfies AdapterProject

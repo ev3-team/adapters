@@ -14,4 +14,5 @@ export default {
   github: 'https://defog.ai/blog/',
   telegram: null,
   twitter: 'https://twitter.com/defogdata?lang=en',
+  url: 'https://defog.ai/blog/agents/',
 } satisfies AdapterProject

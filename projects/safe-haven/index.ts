@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/safehavenio',
   twitter: 'https://twitter.com/safeHavenio',
+  url: 'https://safehaven.io/',
 } satisfies AdapterProject

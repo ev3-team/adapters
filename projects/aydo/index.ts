@@ -14,4 +14,5 @@ export default {
   github: 'https://github.com/AYDOAI',
   telegram: 'https://t.me/aydoai',
   twitter: 'https://x.com/AYDO_AI?s=20',
+  url: 'https://www.aydo.ai/',
 } satisfies AdapterProject

@@ -26,4 +26,5 @@ export default {
   github: 'https://github.com/topics/giant',
   telegram: 'https://t.me/giantprotocol',
   twitter: 'https://twitter.com/giantprotocol',
+  url: 'https://giantprotocol.org/',
 } satisfies AdapterProject

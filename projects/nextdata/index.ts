@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/nextdatatec',
+  url: 'https://www.nextdata.com/',
 } satisfies AdapterProject

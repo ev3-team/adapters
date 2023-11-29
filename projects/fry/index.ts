@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/FrysCrypto',
+  url: 'https://www.fryfoundation.com/',
 } satisfies AdapterProject

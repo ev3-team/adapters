@@ -14,4 +14,5 @@ export default {
   github: null,
   telegram: 'https://t.me/RoastHimJim',
   twitter: 'https://twitter.com/JimAIstudios',
+  url: 'https://www.jimaistudios.com/',
 } satisfies AdapterProject

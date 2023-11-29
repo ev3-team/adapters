@@ -15,4 +15,5 @@ export default {
   github: null,
   telegram: 'https://t.me/hub3official',
   twitter: 'https://twitter.com/hub3ee',
+  url: 'https://hub3.ee/',
 } satisfies AdapterProject
