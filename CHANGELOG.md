@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.12
+
+### Patch Changes
+
+- add url to projects & change filecoin category from OTHER to COMPUTE.
+
 ## 0.3.11
 
 ### Patch Changes
