@@ -9,7 +9,9 @@ export default {
   id: '0wr2ea',
   description: 'Dimo is a decentralized ecosystem of connected vehicles.',
   investors: [],
-  duneQueries: null,
+  duneQueries: {
+    KEY_METRIC: '3241310',
+  },
   blog: 'https://medium.com/dimo-network',
   github: null,
   telegram: null,
