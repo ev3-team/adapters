@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.16
+
+### Patch Changes
+
+- remove another whitespace
+
 ## 0.3.15
 
 ### Patch Changes
