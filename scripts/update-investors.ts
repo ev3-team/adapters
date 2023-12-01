@@ -10,6 +10,7 @@ import { projects } from '../projects'
 export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
   let index = 0
   let projectsColumns: string[] = []
+  const projectsInvestorsCsvRows: string[] = []
   const investorsProjectsCount = new Map<string, number>()
   return new Promise((resolve) => {
     createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
@@ -17,6 +18,7 @@ export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
       .on('error', (error) => console.error(error))
       .on('data', async (row: string[]) => {
         index++
+        projectsInvestorsCsvRows.push(row.map((cell) => cell.replaceAll('"', `\"`)).join(','))
         if (index === 1) return
         if (index === 2) {
           projectsColumns = row.slice(2, row.length)
@@ -36,7 +38,16 @@ export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
 
         investorsProjectsCount.set(row[1], investorProjects.length)
       })
-      .on('end', () => resolve(investorsProjectsCount))
+      .on('end', async () => {
+        // Update projects investors csv constants used to create/update csv rows programmatically.
+        await fs.writeFile(
+          `./helpers/constants.ts`,
+          `/** This file is auto generated don't edit manually. */
+          \nexport const projectsInvestorsCsv = ${JSON.stringify(projectsInvestorsCsvRows)}`
+        )
+
+        resolve(investorsProjectsCount)
+      })
   })
 }
 

@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.14
+
+### Patch Changes
+
+- export `Projects-Investors` csv due to github API limitations.
+
 ## 0.3.13
 
 ### Patch Changes
