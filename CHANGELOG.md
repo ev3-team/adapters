@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.17
+
+### Patch Changes
+
+- add dune query for the new project - Autonolas
+
 ## 0.3.16
 
 ### Patch Changes
