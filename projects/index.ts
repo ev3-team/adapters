@@ -278,6 +278,7 @@ import epics from './epics'
 import epik from './epik'
 import epplex from './epplex'
 import equito from './equito'
+import er from './er'
 import etherfi from './ether-fi'
 import ethermail from './ethermail'
 import ethernityCloud from './ethernity-cloud'
@@ -1254,6 +1255,7 @@ export const projects = {
   epik,
   epplex,
   equito,
+  er,
   etherfi,
   ethermail,
   ethernityCloud,
