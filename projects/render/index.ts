@@ -9,7 +9,9 @@ export default {
   id: 'drs2bu',
   description: 'Render is a decentralized rendering platform for next-gen media production.',
   investors: [],
-  duneQueries: null,
+  duneQueries: {
+    REVENUE: '3264048',
+  },
   blog: 'https://medium.com/@rendernetwork',
   github: 'https://github.com/rendernetwork/',
   telegram: 'https://t.me/rendernetwork',
