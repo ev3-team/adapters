@@ -9,7 +9,9 @@ export default {
   id: 'gaa7c0',
   description:
     'Agritoken: Tokenizing crop futures for efficient and transparent agricultural investing.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/agritoken/?originalSubdomain=br',
   duneQueries: null,
   blog: null,
   github: null,

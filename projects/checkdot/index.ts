@@ -9,7 +9,9 @@ export default {
   id: 'dlqv3c',
   description:
     'CheckDot: decentralized trust protocol for verifying legitimacy of blockchain projects anonymously.',
+  discord: 'https://discord.com/invite/xhCfXtBW5e',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/checkdot',
   duneQueries: null,
   blog: 'https://checkdot.medium.com/',
   github: 'https://github.com/checkdot',

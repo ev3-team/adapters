@@ -9,6 +9,7 @@ export default {
   id: '111p2s',
   description:
     'Pano AI detects wildfires using deep learning AI & computer vision for real-time event identification & classification.',
+  discord: null,
   investors: [
     'uog43p',
     'dbnjzb',
@@ -34,6 +35,7 @@ export default {
     'qf539o',
     'hhcvbz',
   ],
+  linkedin: 'https://www.linkedin.com/company/pano-ai/about/',
   duneQueries: null,
   blog: null,
   github: null,

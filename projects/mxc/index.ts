@@ -9,6 +9,7 @@ export default {
   id: 'h1l8jh',
   description:
     'MXC enables physical objects to be bridged with the metaverse, DeFi, IoT, and NFT marketplace.',
+  discord: 'https://discord.com/invite/mxcfoundation',
   investors: [
     '1ifr28',
     'nxcix5',
@@ -23,6 +24,7 @@ export default {
     'gdno5k',
     '6qm53b',
   ],
+  linkedin: 'http://www.linkedin.com/company/mxc-foundation',
   duneQueries: null,
   blog: 'https://medium.com/mxc',
   github: 'https://github.com/mxc-foundation',

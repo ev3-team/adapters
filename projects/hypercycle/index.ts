@@ -9,7 +9,9 @@ export default {
   id: 'cs121o',
   description:
     "Hypercycle is a new blockchain network designed to supply massively scalable, low-cost infrastructure for decentralized AI, and other, applications. HyperCycle's tiny but essential component enables AI Machines to transact with other AI machines in a sub-second finality.",
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/hypercycle-ai/',
   duneQueries: null,
   blog: null,
   github: null,

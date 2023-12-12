@@ -9,6 +9,7 @@ export default {
   id: 't2mgs2',
   description:
     'Injective is a finance-oriented blockchain for DeFi apps: exchanges, lending, and prediction markets.',
+  discord: 'https://discord.com/invite/NK4qdbv',
   investors: [
     'xmw0ev',
     'ajbv45',
@@ -48,6 +49,7 @@ export default {
     '24ormv',
     '0nsbs7',
   ],
+  linkedin: 'http://www.linkedin.com/company/injective-labs',
   duneQueries: null,
   blog: 'https://medium.com/injective-labs',
   github: 'https://github.com/InjectiveLabs',

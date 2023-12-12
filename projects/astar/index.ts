@@ -9,6 +9,7 @@ export default {
   id: 'j764ic',
   description:
     'Astar Network is a decentralized blockchain platform for Web3 innovations. It supports both EVM and WebAssembly environments, allowing for interoperability between them. Developers can earn incentives through the Build2Earn program by building decentralized apps. Astar aims to create a scalable network that powers a global vision for Web3. It runs in conjunction with Ethereum, Polkadot, and Cosmos, enabling the free flow of assets and communications between different ecosystems.',
+  discord: null,
   investors: [
     'opiq98',
     'xmw0ev',
@@ -40,6 +41,7 @@ export default {
     'gduv1m',
     'pmwiko',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

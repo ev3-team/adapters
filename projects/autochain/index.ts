@@ -9,7 +9,9 @@ export default {
   id: 'dwrle8',
   description:
     'Autochain is a decentralized platform for authenticating vehicle history through blockchain.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/forethought-ai/',
   duneQueries: null,
   blog: null,
   github: null,

@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'ethereum-push-notification-service',
   id: 'nhurl1',
   description: 'Push Protocol: web3 cross-chain network for dapps, wallets, and services.',
+  discord: 'https://discord.com/invite/pushprotocol',
   investors: [
     '92ar5l',
     'h6uwpw',
@@ -72,6 +73,7 @@ export default {
     '71p088',
     'urug6u',
   ],
+  linkedin: 'https://www.linkedin.com/company/push-protocol',
   duneQueries: null,
   blog: 'https://medium.com/push-protocol',
   github: null,

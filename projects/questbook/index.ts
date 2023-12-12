@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'c5xom1',
   description: 'Grants program management software.',
+  discord: null,
   investors: [
     'y04p2x',
     'kli6og',
@@ -45,6 +46,7 @@ export default {
     'a1da8k',
     'wdtkj1',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

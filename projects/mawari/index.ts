@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'ygaj99',
   description: 'Mawari: Decentralized 3D content delivery platform for mobile XR devices.',
+  discord: null,
   investors: [
     'muqrv1',
     'qzewsg',
@@ -20,6 +21,7 @@ export default {
     '4219d0',
     '6x8jib',
   ],
+  linkedin: 'https://www.linkedin.com/company/mawari/',
   duneQueries: null,
   blog: null,
   github: null,

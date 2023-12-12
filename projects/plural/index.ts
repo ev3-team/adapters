@@ -9,7 +9,9 @@ export default {
   id: '5uioqo',
   description:
     'Plural Energy: Renewable energy investment with blockchain tech for accessible opportunities.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/drifeofficial',
   duneQueries: null,
   blog: null,
   github: null,

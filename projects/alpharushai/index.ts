@@ -9,7 +9,9 @@ export default {
   id: 's99udg',
   description:
     'AlphaRush AI: Real-time news, analysis, and personalized trading alpha for cryptocurrency trading.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

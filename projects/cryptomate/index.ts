@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'h2kze5',
   description: 'Cryptomate is a decentralized ecosystem of interactive crypto APIs.',
+  discord: null,
   investors: [
     'h09snm',
     '92vkcn',
@@ -19,6 +20,7 @@ export default {
     '6od4bx',
     'g0a0pq',
   ],
+  linkedin: 'https://www.linkedin.com/company/crypto-mate/',
   duneQueries: null,
   blog: 'https://medium.com/@CryptoMateLATAM',
   github: null,

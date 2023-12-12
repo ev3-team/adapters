@@ -9,6 +9,7 @@ export default {
   id: '6wpm8m',
   description:
     'NuNet is a computing framework that offers global distributed computing power and storage for decentralized networks.',
+  discord: 'https://discord.com/invite/8S7JNRBHJa',
   investors: [
     'o5kpgb',
     'nrotlx',
@@ -20,6 +21,7 @@ export default {
     '65epfb',
     'tktadr',
   ],
+  linkedin: 'https://www.linkedin.com/company/nunet-global/',
   duneQueries: null,
   blog: 'https://medium.com/nunet',
   github: null,

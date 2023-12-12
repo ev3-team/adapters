@@ -9,7 +9,9 @@ export default {
   id: '5276zx',
   description:
     'Opacity is a secure, blockchain-based file storage service that ensures anonymity and encryption.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

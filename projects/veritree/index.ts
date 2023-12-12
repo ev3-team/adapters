@@ -9,7 +9,9 @@ export default {
   id: 'hhtpfc',
   description:
     'Veritree is a blockchain company specializing in transparent and durable systems for verifying tree planting & growth.',
+  discord: null,
   investors: ['xgfw21', 'o0iklv', 'jp3dfy'],
+  linkedin: 'https://ca.linkedin.com/company/veritree',
   duneQueries: null,
   blog: 'https://medium.veritree.com/',
   github: null,

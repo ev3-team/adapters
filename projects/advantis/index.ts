@@ -9,7 +9,9 @@ export default {
   id: 'qvo0gi',
   description:
     'Advantis AI empowers crypto enthusiasts with innovative solutions like AI Outlook, Scanner, and University.',
+  discord: 'https://discord.com/invite/advantisai',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/advantisai',
   duneQueries: null,
   blog: 'https://medium.com/@advantisai',
   github: null,

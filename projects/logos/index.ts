@@ -9,7 +9,9 @@ export default {
   id: 'dojvzb',
   description:
     'Logos provides trust-minimized, corruption-resistant governing services and institutions for citizens.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/logos-internet-marketing-experts',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/logos-co',

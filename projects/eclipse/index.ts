@@ -9,6 +9,7 @@ export default {
   id: 'dgqlyo',
   description:
     "Eclipse is Ethereum's fastest L2, powered by the Solana Virtual Machine. Eclipse makes it possible to build applications that can coordinate masses of people and scale with any developer’s needs.",
+  discord: 'https://discord.com/invite/PVcbxdqj6r',
   investors: [
     'idlbd7',
     'nxop7l',
@@ -31,6 +32,7 @@ export default {
     'due5zk',
     'qr2jg3',
   ],
+  linkedin: 'https://www.linkedin.com/company/eclipse-laboratories/',
   duneQueries: null,
   blog: 'https://www.eclipse.builders/blog',
   github: null,

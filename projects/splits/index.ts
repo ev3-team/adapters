@@ -9,7 +9,9 @@ export default {
   id: '4p461t',
   description:
     '0xSplits is a set of composable, open-source(opens in a new tab), and audited(opens in a new tab) smart contracts that make it easy to split onchain payments.',
+  discord: null,
   investors: ['wjmt17', 's2rvpp', '0jtsyn'],
+  linkedin: 'https://www.linkedin.com/company/0xsplits/about/',
   duneQueries: null,
   blog: 'https://splits.org/blog/',
   github: 'https://github.com/0xSplits',

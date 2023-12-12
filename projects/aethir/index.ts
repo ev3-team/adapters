@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'oo2cn2',
   description: 'Aethir enables real-time rendering in the Metaverse.',
+  discord: 'https://discord.com/invite/6KDKznaRTr',
   investors: [
     'gjt0lb',
     '4l8mmr',
@@ -25,6 +26,7 @@ export default {
     'lzpnns',
     'pcw959',
   ],
+  linkedin: 'https://www.linkedin.com/company/aethir-limited',
   duneQueries: null,
   blog: null,
   github: null,

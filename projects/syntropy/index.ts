@@ -9,6 +9,7 @@ export default {
   id: 'm9yv19',
   description:
     'Syntropy is a multi-chain data availability layer offering decentralized, scalable access to on-chain data.',
+  discord: 'https://discord.com/invite/Ze7Kswye8B',
   investors: [
     'buime9',
     'kmkpmm',
@@ -23,6 +24,7 @@ export default {
     '4rmqk4',
     '5rmf8c',
   ],
+  linkedin: 'https://www.linkedin.com/company/syntropynet/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/SyntropyNet',

@@ -9,6 +9,7 @@ export default {
   id: 'g4borf',
   description:
     'Flow is a permissionless layer 1 blockchain, empowering developers to create limitless Web3 apps for mainstream adoption',
+  discord: 'https://discord.com/invite/J6fFnh2xx6',
   investors: [
     'spurmc',
     'onvq9f',
@@ -36,6 +37,7 @@ export default {
     'gduv1m',
     'pcw959',
   ],
+  linkedin: 'https://www.linkedin.com/company/flow-blockchain/?originalSubdomain=ca',
   duneQueries: null,
   blog: 'https://flow.com/blog',
   github: 'https://github.com/onflow',

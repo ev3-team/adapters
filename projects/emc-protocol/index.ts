@@ -9,7 +9,9 @@ export default {
   id: '2l10iw',
   description:
     'EMC is a decentralized GPU computing network supported by EVM and multi-chain, serving as the gateway for Computing Power and Web3 in the AI era',
+  discord: 'https://discord.com/invite/qg6QXBqB7r',
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/@EMCProtocol',
   github: 'https://github.com/EMCProtocol-dev',

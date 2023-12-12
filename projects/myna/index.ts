@@ -9,6 +9,7 @@ export default {
   id: 'wqoxyk',
   description:
     'Myna is a platform built by collectors, for collectors, that empowers goods to be traded beyond their physical form. Myna Swap allows users to trade in real-time with other collectors around the globe without the hassle of managing the logistics of physical assets.',
+  discord: null,
   investors: [
     '47vy1z',
     'dczq0j',
@@ -26,6 +27,7 @@ export default {
     'pgoyl5',
     'v6xlk7',
   ],
+  linkedin: 'https://www.linkedin.com/company/mynaswap/',
   duneQueries: null,
   blog: null,
   github: null,

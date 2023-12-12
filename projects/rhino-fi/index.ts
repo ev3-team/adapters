@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'd3ignz',
   description: 'rhino.fi is the ultimate Layer 2 bridge for effortless multi-chain token movement.',
+  discord: null,
   investors: [
     '9ns4s9',
     '3rh50q',
@@ -26,6 +27,7 @@ export default {
     'vrsed8',
     'urug6u',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

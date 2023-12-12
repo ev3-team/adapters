@@ -9,7 +9,9 @@ export default {
   id: 'h4cnmu',
   description:
     'Tao Studio is a developer of a text-based image generator that produces high-quality images.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/tao-studio/about/',
   duneQueries: null,
   blog: null,
   github: null,

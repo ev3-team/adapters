@@ -9,6 +9,7 @@ export default {
   id: 'rvdlk1',
   description:
     'The Extensible Message Transport Protocol (XMTP) is a secure messaging protocol that enables communication between blockchain accounts. XMTP is implemented within a progressively decentralized communication network (XMTP network) that exists alongside, though independent of, blockchain networks such as Ethereum, Solana, and others, to introduce the ability to securely communicate between their accounts.',
+  discord: 'https://discord.com/invite/xmtp',
   investors: [
     'm21s7e',
     'y2y3vv',
@@ -117,6 +118,7 @@ export default {
     '35j3pt',
     'gduv1m',
   ],
+  linkedin: 'https://www.linkedin.com/company/xmtp-labs/',
   duneQueries: null,
   blog: 'https://xmtp.org/blog',
   github: 'https://github.com/xmtp',

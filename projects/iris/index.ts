@@ -9,7 +9,9 @@ export default {
   id: 'otau6o',
   description:
     'Iris Tech: decentralized AI platform with blockchain for data traceability, efficacy, and AI democratization.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/iristechnology/',
   duneQueries: null,
   blog: 'https://medium.com/@iriswrites',
   github: null,

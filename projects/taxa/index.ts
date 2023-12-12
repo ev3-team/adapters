@@ -9,6 +9,7 @@ export default {
   id: '5zk1x8',
   description:
     'Taxa: blockchain agnostic layer-2 infrastructure ensuring privacy, power, and easy development.',
+  discord: 'https://discord.com/invite/BusRMXf',
   investors: [
     '2q8xba',
     'oq9fz1',
@@ -27,6 +28,7 @@ export default {
     'ocqa20',
     'xemx4j',
   ],
+  linkedin: 'https://linkedin.com/company/taxanetwork',
   duneQueries: null,
   blog: null,
   github: null,

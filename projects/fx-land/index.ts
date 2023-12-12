@@ -9,7 +9,9 @@ export default {
   id: '4z5caf',
   description:
     'FX Land is a decentralized storage network utilizing IPFS, providing secure and encrypted file storage.',
+  discord: 'https://discord.com/invite/k9UybUBdBB',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/functionland/',
   duneQueries: null,
   blog: 'https://fx.land/blog/',
   github: 'https://github.com/functionland/docs',

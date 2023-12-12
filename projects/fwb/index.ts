@@ -9,6 +9,7 @@ export default {
   id: 'kcidbl',
   description:
     'Friends With Benefits is a new kind of social network made up of creatives and builders who believe in the promise of a better internet. They all hold $FWB tokens as a way to collectively fund and govern their community endeavors and co-own what they create together.',
+  discord: 'https://discord.com/invite/3jCyswsKFn',
   investors: [
     '26x5nn',
     '73opsz',
@@ -23,6 +24,7 @@ export default {
     'v35xwk',
     'ubuz3j',
   ],
+  linkedin: 'https://www.linkedin.com/company/fwb-pro/',
   duneQueries: null,
   blog: null,
   github: null,

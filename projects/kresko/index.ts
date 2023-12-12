@@ -9,6 +9,7 @@ export default {
   id: 'pks4ee',
   description:
     'Making wealth accessible to anyone, anywhere. An open platform for synthetic stocks, commodities, and crypto.',
+  discord: 'https://discord.com/invite/FG3AuCaHRz',
   investors: [
     '7065hj',
     'z6cdtc',
@@ -20,6 +21,7 @@ export default {
     'nlvx3r',
     'v4za8v',
   ],
+  linkedin: 'https://www.linkedin.com/company/kreskolabs/',
   duneQueries: null,
   blog: 'https://medium.com/kreskofi',
   github: 'https://github.com/kreskohq/',

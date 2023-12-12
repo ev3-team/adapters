@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'integritee',
   id: '6hlk6x',
   description: 'Integritee is a TEE-based secure computation platform.',
+  discord: 'https://discord.com/invite/wwGcqhfXtZ',
   investors: [
     'gvqos9',
     'xmw0ev',
@@ -28,6 +29,7 @@ export default {
     'smqwtv',
     'pu3yyr',
   ],
+  linkedin: 'http://www.linkedin.com/company/integritee',
   duneQueries: null,
   blog: 'https://www.integritee.network/blog',
   github: null,

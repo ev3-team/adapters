@@ -9,6 +9,7 @@ export default {
   id: '2i6tkv',
   description:
     'Everyname is a provider of an advanced protocol for retrieving info from any blockchain name registry.',
+  discord: null,
   investors: [
     '1wfwc9',
     'x3ijol',
@@ -22,6 +23,7 @@ export default {
     '7ovkfo',
     'mebhr4',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

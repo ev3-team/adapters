@@ -9,7 +9,9 @@ export default {
   id: '77pefj',
   description:
     'CarbonarAI is a tool that helps in decision making processes. Through a friendly web interface, AI and ML algorithms, it provides a natural way of querying on chain data.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: 'https://github.com/slavni96/carbonarai',

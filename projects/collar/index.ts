@@ -9,7 +9,9 @@ export default {
   id: 'n8tbun',
   description:
     'Collar Networks is a liquidation-free borrowing solution to solve DeFi borrowing trilemma with high LTV and stability.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

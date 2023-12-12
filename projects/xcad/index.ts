@@ -9,7 +9,9 @@ export default {
   id: 'xpvsgg',
   description:
     'XCAD Network is a platform harnessing the value of Content Creator audiences via Creator tokenization, viewers earn rewards used for fan governance.',
+  discord: null,
   investors: ['ia20oh', 'rlo5x9', 'okjrd0', 'qqc9zd', 'bah2fw', 'zv7rue'],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

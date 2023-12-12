@@ -9,6 +9,7 @@ export default {
   id: 'w1c0r2',
   description:
     'BlockSurvey offers Tokengated surveys, enabling users to engage in blockchain-based survey participation.',
+  discord: null,
   investors: [
     '7bn5bf',
     '1aatyr',
@@ -22,6 +23,7 @@ export default {
     'nr6cj9',
     'wa3eqd',
   ],
+  linkedin: 'https://www.linkedin.com/company/blocksurvey/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/BlockSurvey',

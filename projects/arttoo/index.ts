@@ -9,7 +9,9 @@ export default {
   id: 'xa5vpi',
   description:
     'Arttoo is a platform that allows for the fractionalized trading of physical artwork.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

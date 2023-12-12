@@ -9,7 +9,9 @@ export default {
   id: '5kkva3',
   description:
     'Origin Systems is a company that simplifies the process of getting started with LLMs.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/origin-financialsf/',
   duneQueries: null,
   blog: null,
   github: null,

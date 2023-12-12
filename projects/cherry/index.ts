@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'cherry-network',
   id: 'j6bezo',
   description: 'Cherry: DAO building optimized blockchain for decentralized apps.',
+  discord: 'https://discord.com/invite/KAwC9aafWa',
   investors: [
     'kyzttp',
     '1e5ima',
@@ -34,6 +35,7 @@ export default {
     '6mh2rx',
     'nj1v3c',
   ],
+  linkedin: 'http://www.linkedin.com/company/cherrynetwork',
   duneQueries: null,
   blog: 'https://cherryproject.medium.com/',
   github: 'https://github.com/CherryNetwork',

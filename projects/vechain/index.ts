@@ -9,6 +9,7 @@ export default {
   id: 'ed5hwr',
   description:
     'VeChain enables businesses to build decentralized apps for data transfer and supply-chain management.',
+  discord: 'https://discord.com/invite/vechain',
   investors: [
     '8nclhv',
     '3gin8b',
@@ -35,6 +36,7 @@ export default {
     '24ormv',
     '935mux',
   ],
+  linkedin: 'http://www.linkedin.com/company/vechain-foundation',
   duneQueries: null,
   blog: 'https://vechainofficial.medium.com/',
   github: 'https://github.com/vechain',

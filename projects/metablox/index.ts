@@ -9,7 +9,9 @@ export default {
   id: 'k5fxwj',
   description:
     'Metablox is a provider of enterprise-grade WiFi roaming solutions, delivering worldwide public access.',
+  discord: 'https://discord.com/invite/metablox',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/metablox/',
   duneQueries: null,
   blog: 'https://metabloxnetwork.medium.com/metablox-x-cryptolab-ama-recap-highlights-ba556d3ce506',
   github: 'https://github.com/MetaBloxIO',

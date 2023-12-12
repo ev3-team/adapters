@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'sarcophagus',
   id: 'se7wj7',
   description: "Decentralized dead man's switch",
+  discord: 'https://discord.com/invite/5XkvsEmMab',
   investors: [
     'hhudw8',
     'hbpmm3',
@@ -20,6 +21,7 @@ export default {
     'xnftxc',
     'bku3ew',
   ],
+  linkedin: 'https://github.com/sarcophagus-org',
   duneQueries: null,
   blog: 'http://www.linkedin.com/company/sarcophagusio',
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: '0pgbgt',
   description:
     'LocalPro: gamifies experiences, promotes trust, quests, badges, rewards, enhances skills, incentivizes collaboration.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/localpro-x',
   duneQueries: null,
   blog: null,
   github: null,

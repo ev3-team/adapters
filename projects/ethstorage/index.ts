@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: '2kn4hu',
   description: 'Ethstorage is a cost-effective Layer 2 storage rollup solution on Ethereum.',
+  discord: 'https://discord.com/invite/xhCwaMp7ps',
   investors: [
     '0bp83l',
     '4huuqd',
@@ -24,6 +25,7 @@ export default {
     'r57gpz',
     'mo34ru',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://ethstorage.medium.com/',
   github: 'https://github.com/ethstorage/',

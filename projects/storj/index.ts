@@ -9,7 +9,9 @@ export default {
   id: 'arwynb',
   description:
     'Storj is a decentralized cloud storage platform using nodes to host user data in an open-source environment.',
+  discord: 'https://forum.storj.io/t/unofficial-discord-for-sno-s/10943',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/storj/about/',
   duneQueries: {
     BURN: '3202771',
     PRICE: '3202773',

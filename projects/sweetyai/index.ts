@@ -9,7 +9,9 @@ export default {
   id: 'hqx94b',
   description:
     'SweetyAI: Decentralized dating game dApp with AI-driven virtual girlfriends (NFTs) on Solana.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

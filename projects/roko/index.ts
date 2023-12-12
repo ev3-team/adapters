@@ -9,7 +9,9 @@ export default {
   id: 'kz7n8o',
   description:
     'Roko Roko is a self-organizing human-machine network focused on deep-tech R&D protocol bootstrapping.',
+  discord: 'https://discord.com/invite/fZXkYMAchQ',
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

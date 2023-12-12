@@ -9,7 +9,9 @@ export default {
   id: 'h8fk7d',
   description:
     'OtoCo builds tools for forming, funding, and governing legal entities on blockchain.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/otoco',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/otoco-io',

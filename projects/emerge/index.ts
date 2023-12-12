@@ -9,7 +9,9 @@ export default {
   id: 'dmf572',
   description:
     'Emerge is a suite of app development products designed to supercharge mobile apps and the teams that build them.',
+  discord: null,
   investors: [],
+  linkedin: 'https://github.com/EmergeTools/',
   duneQueries: null,
   blog: null,
   github: null,

@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'vhqz3k',
   description: 'Blackbird is a loyalty and membership platform for restaurants.',
+  discord: 'https://discord.com/invite/ysHrDPrJYr',
   investors: [
     'g1jnat',
     '26x5nn',
@@ -24,6 +25,7 @@ export default {
     'vuz4in',
     'ubuz3j',
   ],
+  linkedin: 'https://www.linkedin.com/company/blackbirdvc',
   duneQueries: null,
   blog: null,
   github: null,

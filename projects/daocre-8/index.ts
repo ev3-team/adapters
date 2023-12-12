@@ -9,7 +9,9 @@ export default {
   id: 'qy5sl8',
   description:
     'DAOCre-8 is a platform that combines traditional crowdfunding with decentralized governance, empowering both creators and backers to influence project decisions through unique DAOs, Milestone-based funding, and AI-powered analytics.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/daocre8/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/TheoInTech/daocre8',

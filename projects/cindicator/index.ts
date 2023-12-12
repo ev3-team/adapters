@@ -9,6 +9,7 @@ export default {
   id: 'cor8db',
   description:
     'Cindicator uses Hybrid Intelligence for stocks and crypto, with Bloomberg and Stoic as platforms.',
+  discord: null,
   investors: [
     'bv2lun',
     '984ydi',
@@ -21,6 +22,7 @@ export default {
     'wpsmos',
     'o6u62z',
   ],
+  linkedin: 'http://www.linkedin.com/company/vote-',
   duneQueries: null,
   blog: 'https://medium.com/@Cindicator',
   github: null,

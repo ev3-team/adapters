@@ -9,6 +9,7 @@ export default {
   id: 'rq4805',
   description:
     "Archblock is a decentralized alternatives marketplace built on TrueFi's open, transparent and immutable financial infrastructure. Archblock offers globally accessible, diversified investment opportunities.",
+  discord: null,
   investors: [
     '2q8xba',
     '7jssah',
@@ -43,6 +44,7 @@ export default {
     'xt0vj3',
     'ffz00y',
   ],
+  linkedin: 'https://www.linkedin.com/company/archblock/',
   duneQueries: null,
   blog: 'https://www.archblock.com/blog',
   github: null,

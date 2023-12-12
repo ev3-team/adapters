@@ -9,7 +9,9 @@ export default {
   id: 'tg1g7b',
   description:
     'Realio manages real-world assets across multiple chains using Cosmos SDK and Tendermint.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/realio',
   duneQueries: null,
   blog: 'https://medium.com/@Realio_Network',
   github: 'https://github.com/realiotech',

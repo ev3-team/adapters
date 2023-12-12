@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'gelato',
   id: 'lvwe8x',
   description: 'Gelato Network automates smart contract executions across EVM-based blockchains.',
+  discord: 'https://discord.com/invite/ApbA39BKyJ',
   investors: [
     'hol96b',
     'ykzwbk',
@@ -29,6 +30,7 @@ export default {
     'e2dh7y',
     'mwx1nm',
   ],
+  linkedin: 'https://no.linkedin.com/company/gelato',
   duneQueries: null,
   blog: 'https://medium.com/@gelatonetwork',
   github: 'https://github.com/gelatodigital',

@@ -9,6 +9,7 @@ export default {
   id: '9agce6',
   description:
     'Cryptosat is a satellite company that offers cost-efficient, space-based cryptographic trust infrastructure for Web3.',
+  discord: null,
   investors: [
     'h4v7bw',
     'wxro8b',
@@ -21,6 +22,7 @@ export default {
     'tnkrzw',
     'ti312b',
   ],
+  linkedin: 'https://www.linkedin.com/company/cryptosat',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/topics/wave?l=html',

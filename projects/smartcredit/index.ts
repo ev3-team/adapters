@@ -9,7 +9,9 @@ export default {
   id: 'eiq46d',
   description:
     'SmartCredit connects lenders and borrowers globally, offering decentralized peer-to-peer lending.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/smartcredit-io/',
   duneQueries: null,
   blog: 'https://medium.com/smartcredit-io',
   github: 'https://github.com/SmartCredit-io',

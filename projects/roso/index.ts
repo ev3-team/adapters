@@ -9,7 +9,9 @@ export default {
   id: '36f3to',
   description:
     'Roso is a diverse online casino and gaming platform, offering a wide range of gambling experiences.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

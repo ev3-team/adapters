@@ -9,7 +9,9 @@ export default {
   id: 'x94xlf',
   description:
     'Apillion is a Web3 development platform enabling developers to build in the Polkadot ecosystem.',
+  discord: null,
   investors: ['4l8mmr', '0hfvt9', '6uuq9l', '6hezki', 'uilrdd', 'nj1v3c', 'ka28kz'],
+  linkedin: 'https://www.linkedin.com/company/apillon/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/Apillon',

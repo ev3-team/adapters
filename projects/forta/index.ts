@@ -9,7 +9,9 @@ export default {
   id: 'jed7z0',
   description:
     'Forta is a real-time detection network for blockchain activity, providing alerts to neutralize threats and prevent loss.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/fortafoundation',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/forta-network',

@@ -9,7 +9,9 @@ export default {
   id: 'fxg6py',
   description:
     'Blockcast is a CDN and marketplace for broadcast capacity, optimizing network traffic.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/sat-blockcast/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/topics/blockcast',

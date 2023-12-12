@@ -9,6 +9,7 @@ export default {
   id: '93up2s',
   description:
     'An on-chain AI company that aims to bring AI on-chain with the world’s only ZKML prover',
+  discord: null,
   investors: [
     'bspyld',
     '7ygqh2',
@@ -20,6 +21,7 @@ export default {
     'rnfx5j',
     'ubuz3j',
   ],
+  linkedin: 'https://www.linkedin.com/company/moduluslabs/about/',
   duneQueries: null,
   blog: 'https://medium.com/@ModulusLabs',
   github: 'https://github.com/Modulus-Labs',

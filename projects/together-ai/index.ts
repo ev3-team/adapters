@@ -9,6 +9,7 @@ export default {
   id: 'rr8fxt',
   description:
     'Together.ai is a decentralised cloud platform that empowers developers to train and deploy generative AI models.',
+  discord: 'https://discord.com/invite/9Rk6sSeWEG',
   investors: [
     '0zuwkc',
     '1crmhb',
@@ -39,6 +40,7 @@ export default {
     '3mawmt',
     '9yjtz6',
   ],
+  linkedin: 'http://www.linkedin.com/company/togethercomputer',
   duneQueries: null,
   blog: null,
   github: null,

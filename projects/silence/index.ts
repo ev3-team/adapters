@@ -9,6 +9,7 @@ export default {
   id: 'j2py3v',
   description:
     'Silence Labs is a cybersecurity company specializing in decentralized MFA and MPC-based authentication.',
+  discord: null,
   investors: [
     'yp152d',
     'c7zvou',
@@ -20,6 +21,7 @@ export default {
     'rnspgp',
     'm8xiuk',
   ],
+  linkedin: 'https://www.linkedin.com/company/silencelaboratories/',
   duneQueries: null,
   blog: 'https://medium.com/silence-laboratories',
   github: null,

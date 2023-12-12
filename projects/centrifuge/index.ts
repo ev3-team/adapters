@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'centrifuge',
   id: 'cosgc8',
   description: 'Decentralized OS for global financial supply chain, enabling data ownership.',
+  discord: 'https://discord.com/invite/yEzyUq5gxF',
   investors: [
     '6pb6ea',
     '1ifr28',
@@ -50,6 +51,7 @@ export default {
     'p3lgat',
     'gduv1m',
   ],
+  linkedin: 'http://www.linkedin.com/company/centrifugehq',
   duneQueries: null,
   blog: 'https://medium.com/centrifuge',
   github: 'https://github.com/centrifuge/',

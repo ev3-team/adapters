@@ -9,6 +9,7 @@ export default {
   id: 'dka3hq',
   description:
     'ColdStack: A unified API and billing solution for Filecoin, SIA, Arweave, and Storj.',
+  discord: null,
   investors: [
     'xnheko',
     'yxetck',
@@ -35,6 +36,7 @@ export default {
     'nwl5v7',
     'brmebh',
   ],
+  linkedin: 'http://www.linkedin.com/company/coldstack',
   duneQueries: null,
   blog: 'https://medium.com/coldstack',
   github: 'https://github.com/ColdStack-Network/',

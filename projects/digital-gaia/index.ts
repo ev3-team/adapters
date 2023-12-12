@@ -9,7 +9,9 @@ export default {
   id: 'hq0zgu',
   description:
     'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',
+  discord: null,
   investors: ['9jairy'],
+  linkedin: 'http://www.linkedin.com/company/digital-gaia',
   duneQueries: null,
   blog: null,
   github: null,

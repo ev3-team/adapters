@@ -9,6 +9,7 @@ export default {
   id: 's4glrh',
   description:
     'Massive is an SDK enabling developers to offer premium content to users by leveraging their unused processing power.',
+  discord: null,
   investors: [
     'gow2jo',
     'ei0xwd',
@@ -39,6 +40,7 @@ export default {
     'bm9s6p',
     '78enfd',
   ],
+  linkedin: 'https://www.linkedin.com/company/massive/about/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/topics/massive',

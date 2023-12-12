@@ -9,6 +9,7 @@ export default {
   id: 'omgud6',
   description:
     'Iagon is a decentralized cloud network built on Cardano, revolutionizing data storage and processing.',
+  discord: 'https://discord.com/invite/TCS23VWuWm',
   investors: [
     'o5kpgb',
     'xmw0ev',
@@ -29,6 +30,7 @@ export default {
     'dd10pl',
     'brmebh',
   ],
+  linkedin: 'https://www.linkedin.com/company/iagon/',
   duneQueries: null,
   blog: null,
   github: null,

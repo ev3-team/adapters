@@ -9,6 +9,7 @@ export default {
   id: 'hvnixv',
   description:
     'A blockchain-based data platform to help applications store, manage and elevate the world’s data in Web3 way. Additionally, Glitter proposes a tokenomics model that encourages developers on the network to contribute and collaborate on the platform, ultimately accelerating the whole Web3 world to creating and sharing data, and helping users gain more value from the data',
+  discord: null,
   investors: [
     'z5oj4n',
     '2ckrz9',
@@ -23,6 +24,7 @@ export default {
     'pcw959',
     'urug6u',
   ],
+  linkedin: 'https://www.linkedin.com/company/glitterprotocol/about/',
   duneQueries: null,
   blog: null,
   github: null,

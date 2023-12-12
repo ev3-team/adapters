@@ -9,7 +9,9 @@ export default {
   id: '3mrg2q',
   description:
     'Ruuvi creates simple and powerful environmental sensor products for consumers and businesses.The Ruuvi sensors measure air temperature, humidity, pressure, and acceleration, depending on the models. More precise specifications are provided on the product page. They send the data via Bluetooth either to the Ruuvi Gateway or to the Ruuvi Station mobile app.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/ruuvi',
   duneQueries: null,
   blog: 'https://ruuvi.com/blog/',
   github: 'https://github.com/ruuvi',

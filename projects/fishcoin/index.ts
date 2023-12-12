@@ -9,7 +9,9 @@ export default {
   id: '0uzrya',
   description:
     'Fishcoin is a blockchain based traceability and data ecosystem designed specifically for the global seafood industry.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/fishcoin',
   duneQueries: null,
   blog: 'https://medium.com/fishcoin',
   github: null,

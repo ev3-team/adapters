@@ -9,6 +9,7 @@ export default {
   id: '9tcuea',
   description:
     'Cheeze is a decentralized creator economy platform that enables brand activation for imagery on-chain.',
+  discord: null,
   investors: [
     '2mccdz',
     'rjcwff',
@@ -23,6 +24,7 @@ export default {
     'bb8u86',
     'z5gcrq',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

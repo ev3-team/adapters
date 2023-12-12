@@ -9,6 +9,7 @@ export default {
   id: 'anzeat',
   description:
     'Agnostiq develops Covalent, an open-source workflow platform for quantum computing and HPC.',
+  discord: null,
   investors: [
     '3l4dh0',
     'ymiffp',
@@ -23,6 +24,7 @@ export default {
     'dwir0a',
     'zhen2r',
   ],
+  linkedin: 'https://www.linkedin.com/company/agnostiq/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/agnostiqHQ/covalent',

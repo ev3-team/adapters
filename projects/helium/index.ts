@@ -8,7 +8,9 @@ export default {
   coingeckoId: 'helium',
   id: '5bm99m',
   description: 'Helium is a decentralized network for IoT.',
+  discord: 'https://discord.com/invite/helium',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/heliumnetwork',
   duneQueries: {
     MINT: '2573591',
     REVENUE: '2944853',

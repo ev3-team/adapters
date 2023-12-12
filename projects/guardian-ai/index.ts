@@ -9,7 +9,9 @@ export default {
   id: 'dcth80',
   description:
     'Guardian AI is a network that safeguards DAOs and multisigs with decentralized AI agents.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

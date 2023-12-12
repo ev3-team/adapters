@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: '7gjqft',
   description: 'Siglo is a wireless internet service provider.',
+  discord: null,
   investors: [
     'ibk8eu',
     'l6myld',
@@ -25,6 +26,7 @@ export default {
     'rgrylg',
     'wdtkj1',
   ],
+  linkedin: 'http://www.linkedin.com/company/siglointernet',
   duneQueries: null,
   blog: null,
   github: null,

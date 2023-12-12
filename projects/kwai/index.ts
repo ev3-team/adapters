@@ -9,7 +9,9 @@ export default {
   id: '4ccixw',
   description:
     'KWAI develops AI-powered smart assistant for Web3. Offers tools for crypto swapping, staking, and market tracking.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://kwailabs.medium.com/',
   github: null,

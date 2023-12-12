@@ -9,7 +9,9 @@ export default {
   id: 'mhf5jn',
   description:
     'Synesis One is a data crowdsourcing platform where anyone can earn $SNS by completing micro-tasks that train AI.',
+  discord: 'https://discord.com/invite/synesisone',
   investors: ['5qx1w8'],
+  linkedin: 'http://www.linkedin.com/company/synesisone',
   duneQueries: null,
   blog: 'https://medium.com/@synesisone',
   github: null,

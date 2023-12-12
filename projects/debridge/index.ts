@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'rhpzul',
   description: 'deBridge: blockchain interoperability and liquidity transfer protocol.',
+  discord: 'https://discord.com/invite/debridge',
   investors: [
     'gjt0lb',
     'csfyvy',
@@ -40,6 +41,7 @@ export default {
     '7r9603',
     'e0wtte',
   ],
+  linkedin: 'https://www.linkedin.com/company/debridge-finance/',
   duneQueries: null,
   blog: 'https://debridge.finance/blog/',
   github: 'https://github.com/debridge-finance/',

@@ -9,7 +9,9 @@ export default {
   id: 'r1uv9t',
   description:
     'Filecoin is the largest decentralized data storage marketplace, protocol, & cryptocurrency.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://filecoin.io/blog/',
   github: 'https://github.com/filecoin-project',

@@ -9,7 +9,9 @@ export default {
   id: 'axpwbs',
   description:
     'Complex Labs offers a modular software stack that enables integrations to your existing data into Web3.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://www.linkedin.com/company/complexlabsweb3',
   github: null,

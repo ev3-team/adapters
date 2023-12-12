@@ -9,6 +9,7 @@ export default {
   id: 'l7klou',
   description:
     'MetaEngine is a decentralized all-in-one platform for the development and publishing of GameFi / Metaverse games and apps.',
+  discord: 'https://discord.com/invite/rDqmrJrQeG',
   investors: [
     's7b833',
     'm8rgyb',
@@ -33,6 +34,7 @@ export default {
     '3qflb4',
     '2wn9ev',
   ],
+  linkedin: 'https://www.linkedin.com/company/metaengine/',
   duneQueries: null,
   blog: 'https://metaengine.medium.com/',
   github: null,

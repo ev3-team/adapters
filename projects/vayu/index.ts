@@ -9,7 +9,9 @@ export default {
   id: 'c6954r',
   description:
     'Vayu is building a scalable mobile robotics platform using cutting edge bio-inspired sensing, ML, and robotics.',
+  discord: null,
   investors: ['4bc5rd', 's5s0ze', 'q7n0kr', 'kh5hbg'],
+  linkedin: null,
   duneQueries: null,
   blog: 'http://www.linkedin.com/company/vayu-robotics',
   github: null,

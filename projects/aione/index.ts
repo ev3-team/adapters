@@ -9,7 +9,9 @@ export default {
   id: 'oqs9xj',
   description:
     'AiONE: AI platform that integrates AI into business workflows. User-friendly AI services, APIs, and tools.',
+  discord: 'https://discord.com/invite/HDcDbjUUhY',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/aionelabs',
   duneQueries: null,
   blog: null,
   github: null,

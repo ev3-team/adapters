@@ -9,7 +9,9 @@ export default {
   id: '5ymc3k',
   description:
     'DeepSquare is a company building an energy-efficient cloud computing ecosystem by reusing ICT generated heat.',
+  discord: null,
   investors: ['akmu2d', 'vjpj24', 'nnrh00'],
+  linkedin: 'https://linkedin.com/company/deepsquare-association',
   duneQueries: null,
   blog: 'https://medium.com/@DeepSquare.io',
   github: 'https://github.com/deepsquare-io',

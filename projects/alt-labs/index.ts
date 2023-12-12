@@ -9,7 +9,9 @@ export default {
   id: '9093bo',
   description:
     'Alt Labs builds Web3 infrastructure user-friendly tools and interfaces for decentralized storage networks.',
+  discord: null,
   investors: ['iebjfe'],
+  linkedin: 'https://uk.linkedin.com/company/alt-labs',
   duneQueries: null,
   blog: 'https://medium.com/@alt_labs',
   github: 'https://github.com/RVA-ALT-Lab',

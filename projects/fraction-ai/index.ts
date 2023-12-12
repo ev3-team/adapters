@@ -9,7 +9,9 @@ export default {
   id: 'ehsx57',
   description:
     'Fraction AI is developing a web3 platform that enables anyone to generate high-quality labelled data for AI models, using blockchain, smart contracts, and gamification',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

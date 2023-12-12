@@ -9,7 +9,9 @@ export default {
   id: 'cxzwvp',
   description:
     'Skiff Mail: Open-source email app with privacy, encryption, and collaboration via Skiff Pages.',
+  discord: 'https://discord.com/invite/skiff',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/skiffprivacy',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/skiff-org',

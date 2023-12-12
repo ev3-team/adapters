@@ -9,7 +9,9 @@ export default {
   id: '2drl3l',
   description:
     'RLC: Monetize or rent out computational resources, datasets, and applications through iExec.',
+  discord: 'https://discord.com/invite/pbt9m98wnU',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/iex.ec',
   duneQueries: null,
   blog: 'https://medium.com/iex-ec',
   github: 'https://github.com/iExecBlockchainComputing',

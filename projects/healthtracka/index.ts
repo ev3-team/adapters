@@ -9,6 +9,7 @@ export default {
   id: 'mq0qgk',
   description:
     'Healthtracka is a health tech startup decentralizing lab testing in Africa with at-home testing and digital results.',
+  discord: null,
   investors: [
     'abopk7',
     'nsa30e',
@@ -20,6 +21,7 @@ export default {
     '7rsmts',
     'a1uyxq',
   ],
+  linkedin: 'https://www.linkedin.com/company/healthtracka/',
   duneQueries: null,
   blog: 'https://blog.healthtracka.com/',
   github: null,

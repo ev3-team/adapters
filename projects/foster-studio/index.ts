@@ -9,7 +9,9 @@ export default {
   id: 'gzq0lf',
   description:
     'Foster Studio is a platform for creating and selling artist merchandise in the form of Phygital NFTs.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/fosterstudios/',
   duneQueries: null,
   blog: null,
   github: null,

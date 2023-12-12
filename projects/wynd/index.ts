@@ -9,7 +9,9 @@ export default {
   id: '9qbidj',
   description:
     'Wynd is a transparent node marketplace enabling users to earn passive income by monetizing their internet view. (99)',
+  discord: null,
   investors: ['4l8mmr', 'agwzs7'],
+  linkedin: 'https://www.linkedin.com/company/wynd-technologies-inc./',
   duneQueries: null,
   blog: 'https://medium.com/@wyndnetwork/',
   github: null,

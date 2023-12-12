@@ -9,7 +9,9 @@ export default {
   id: 'y3zupj',
   description:
     'LayerAI is a blockchain for AI dev, providing layer-2 solution for efficient and secure applications.',
+  discord: 'https://discord.com/invite/cryptogpt',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/layeraiorg',
   duneQueries: null,
   blog: 'https://layeraiorg.medium.com/layerai-the-technology-ecosystem-for-the-data-first-age-8ffe4f25e236',
   github: null,

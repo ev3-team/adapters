@@ -9,6 +9,7 @@ export default {
   id: 'oane9t',
   description:
     'M^ZERO Labs aims to develop a decentralized network enabling institutional participants to reliably link assets to a decentralized infrastructure. The M^ZERO network will provide participants with the liquidity, transparency, composability, and governance required for sophisticated on-chain monetary transactions.',
+  discord: null,
   investors: [
     'y8my2p',
     'wux3o5',
@@ -20,6 +21,7 @@ export default {
     'aq52wc',
     'v35xwk',
   ],
+  linkedin: 'https://www.linkedin.com/company/m-zero-labs/?originalSubdomain=de',
   duneQueries: null,
   blog: null,
   github: null,

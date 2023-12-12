@@ -9,7 +9,9 @@ export default {
   id: '234u26',
   description:
     'Arc is a cutting-edge Web3 and AI company offering tools for developing decentralized projects.',
+  discord: 'https://discord.com/invite/arcdefi',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/arcdefi',
   duneQueries: null,
   blog: 'https://arc-market.medium.com/',
   github: 'https://github.com/ARC-MARKET/',

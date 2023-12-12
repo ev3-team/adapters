@@ -9,7 +9,9 @@ export default {
   id: 'xeu3zu',
   description:
     'Sitenna streamlines the process of site acquisition, portfolio management and collocation sales for telecom companies.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/sitenna',
   duneQueries: null,
   blog: null,
   github: null,

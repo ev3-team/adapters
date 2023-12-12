@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'oumqih',
   description: 'Phaver: decentralized social app rewarding users with tokens for sharing content.',
+  discord: 'https://discord.com/invite/phaver',
   investors: [
     'ujq536',
     '6nxw7d',
@@ -24,6 +25,7 @@ export default {
     'otzp4l',
     'uzi60w',
   ],
+  linkedin: 'https://fi.linkedin.com/company/phaver',
   duneQueries: null,
   blog: null,
   github: null,

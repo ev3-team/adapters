@@ -9,6 +9,7 @@ export default {
   id: '1rcuf0',
   description:
     'myMessage is a decentralized data storage protocol enabling secure, low-cost storage and transfer.',
+  discord: 'https://discord.com/invite/BCKyD3HxRh',
   investors: [
     'xmw0ev',
     'oaw1ui',
@@ -32,6 +33,7 @@ export default {
     'brmebh',
     '0nsbs7',
   ],
+  linkedin: 'https://linkedin.com/company/mymessageofficial',
   duneQueries: null,
   blog: 'https://medium.com/@myMessage',
   github: 'https://github.com/myMessageio',

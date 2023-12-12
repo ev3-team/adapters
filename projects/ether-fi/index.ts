@@ -9,6 +9,7 @@ export default {
   id: '1agi71',
   description:
     'Ether.fi is a non-custodial decentralized ETH staking method that rewards node operators for participating in staking.',
+  discord: 'https://discord.com/invite/zqGzcuQWvD',
   investors: [
     'csfyvy',
     '7job29',
@@ -21,6 +22,7 @@ export default {
     '9kybya',
     'tm95um',
   ],
+  linkedin: 'http://www.linkedin.com/company/etherfi',
   duneQueries: null,
   blog: 'https://medium.com/etherfi',
   github: null,

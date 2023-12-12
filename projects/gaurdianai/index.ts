@@ -9,7 +9,9 @@ export default {
   id: 'l6f0lf',
   description:
     'GuardianAI: Decentralized defense system for DAOs and multisigs, using AI agents from the Decentralized AI Network.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/theguardian',
   duneQueries: null,
   blog: null,
   github: null,

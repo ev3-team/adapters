@@ -9,7 +9,9 @@ export default {
   id: 'ws7n8t',
   description:
     'EcoBlocks is a regenerative protocol incentivizing electronic recycling via an escrow based process.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/eco-block-distribution-pty-ltd',
   duneQueries: null,
   blog: null,
   github: null,

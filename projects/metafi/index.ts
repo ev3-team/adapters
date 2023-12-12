@@ -9,6 +9,7 @@ export default {
   id: 'cu6hqb',
   description:
     'Metafi enables embeded wallets, broadcast transactions, indexing on-chain events, and more for web3 game developers.',
+  discord: 'https://discord.com/invite/metafi',
   investors: [
     'fue5t7',
     'rvqbxw',
@@ -25,6 +26,7 @@ export default {
     'yv799p',
     'brmebh',
   ],
+  linkedin: 'https://uk.linkedin.com/company/meta-fi',
   duneQueries: null,
   blog: 'https://medium.com/easify-network/a-brief-about-metafi-cf3f1736e930',
   github: 'https://github.com/metafiofficial',

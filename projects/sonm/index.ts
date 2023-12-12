@@ -9,6 +9,7 @@ export default {
   id: 'qjzgqy',
   description:
     'SONM is a decentralized worldwide fog supercomputer for general purpose computing from site hosting to scientific calculations.',
+  discord: null,
   investors: [
     'k9zddv',
     'fdepqs',
@@ -21,6 +22,7 @@ export default {
     't1lahd',
     'nopne6',
   ],
+  linkedin: 'https://www.linkedin.com/company/sonm/about/',
   duneQueries: null,
   blog: 'https://sonm.medium.com/',
   github: 'https://github.com/sonm-io',

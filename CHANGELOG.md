@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.19
+
+### Patch Changes
+
+- Add discord and linkedin to projects.
+
 ## 0.3.18
 
 ### Patch Changes

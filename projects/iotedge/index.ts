@@ -9,7 +9,9 @@ export default {
   id: 'olcvcb',
   description:
     'IoTEdge is a decentralized edge computing network for Internet of Things, built on blockchain technology.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

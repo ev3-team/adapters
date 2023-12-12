@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'cirus',
   id: 'he3mau',
   description: 'CIRUS: Control data, monetize through blockchain.',
+  discord: 'https://discord.com/invite/cAvfNMACEW',
   investors: [
     'xmw0ev',
     'oaw1ui',
@@ -23,6 +24,7 @@ export default {
     'tdw5kr',
     'bt1i9c',
   ],
+  linkedin: 'http://www.linkedin.com/company/cirus-foundation',
   duneQueries: null,
   blog: 'https://medium.com/the-cirus-foundation',
   github: null,

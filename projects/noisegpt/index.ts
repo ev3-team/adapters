@@ -9,7 +9,9 @@ export default {
   id: '58bzlt',
   description:
     'NoiseGPT: decentralized AI ecosystem, offering unbiased and censorship-free AI tools and services.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/noisegpt',
   duneQueries: null,
   blog: 'https://medium.com/@noisegpt',
   github: null,

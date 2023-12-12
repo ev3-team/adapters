@@ -9,6 +9,7 @@ export default {
   id: 'ful6z6',
   description:
     'Humanode is the first human-powered crypto-biometric network, where 1 human = 1 node = 1 vote. Humanode is a new-age decentralized crypto-biometric network that integrates pioneering cryptography with private biometrics and blockchain technology. The project aims to create a strong and sustainable decentralized system that is grounded on the existence of unique human beings.',
+  discord: 'https://discord.com/invite/8my5gbgptx',
   investors: [
     'xmw0ev',
     'ltitbn',
@@ -30,6 +31,7 @@ export default {
     's812zr',
     'ka28kz',
   ],
+  linkedin: 'https://www.linkedin.com/company/human-node/',
   duneQueries: null,
   blog: 'https://blog.humanode.io/',
   github: 'https://github.com/humanode-network',

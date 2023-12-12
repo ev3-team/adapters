@@ -9,7 +9,9 @@ export default {
   id: 'oogh3l',
   description:
     'Vuzec: Empowering artists with decentralized crowdfunding and royalties distribution.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/vuzec',
   duneQueries: null,
   blog: 'https://vuzecmx.medium.com/',
   github: null,

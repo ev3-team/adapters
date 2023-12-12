@@ -9,7 +9,9 @@ export default {
   id: '3jrl09',
   description:
     'Kansi Solutions is a DePIN hosting platform offering mining opportunities for end-users to earn passive income.',
+  discord: null,
   investors: [],
+  linkedin: 'https://in.linkedin.com/company/kansi-solutions',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/KanisiTech',

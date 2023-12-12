@@ -9,7 +9,9 @@ export default {
   id: 'n08otn',
   description:
     'Prophetic Prophetic is a tFUS neurotech company pioneering a lucid dream-inducing device.',
+  discord: null,
   investors: ['q8z49k', '7zvxz8', 'tm04se', 'dwir0a'],
+  linkedin: 'https://www.linkedin.com/company/propheticai/',
   duneQueries: null,
   blog: null,
   github: null,

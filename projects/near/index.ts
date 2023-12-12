@@ -9,6 +9,7 @@ export default {
   id: 'dnmt6p',
   description:
     'NEAR is a layer one, sharded, proof-of-stake blockchain built with usability in mind. It allows developers to create and distribute decentralized apps on any blockchain',
+  discord: 'https://discord.com/invite/zfhfRpaM4m',
   investors: [
     'r1a7zj',
     'cvqnc5',
@@ -109,6 +110,7 @@ export default {
     '935mux',
     '0nsbs7',
   ],
+  linkedin: 'https://www.linkedin.com/company/near-protocol-project/',
   duneQueries: null,
   blog: 'https://near.org/blog',
   github: 'https://github.com/near/dx',

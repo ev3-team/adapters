@@ -9,6 +9,7 @@ export default {
   id: 'qb5fdz',
   description:
     'Nillion is a distributed computing platform that expands trustless infrastructure into new use cases and verticals. It is a decentralized network (but not a layer 1 or blockchain) that utilizes a novel primitive, Nil Message Compute (NMC). NMC innovates on the foundations of Multi-Party Computation (MPC) and Homomorphic Encryption to unlock the secure storage and processing of high value data. The Nillion network invites new decentralized use cases such as machine learning on invisible datasets, quantum secure messaging, smart custody of digital assets, distributed biometric authentication, verifiable dark pools, collaborative block building and composable digital identity – enabling developers to create applications across industries like retail, medical, legal, banking and AI.',
+  discord: 'https://discord.com/invite/nillionnetwork',
   investors: [
     'ii5tnv',
     'xmw0ev',
@@ -34,6 +35,7 @@ export default {
     'nlvx3r',
     '3qflb4',
   ],
+  linkedin: 'https://www.linkedin.com/company/nillionnetwork/?originalSubdomain=ch',
   duneQueries: null,
   blog: null,
   github: null,

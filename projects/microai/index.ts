@@ -9,7 +9,9 @@ export default {
   id: 'a69lpw',
   description:
     'MicroAI is an Edge AI-enablement company for the Manufacturing, O&G, Automotive, Telecom, and Silicon sectors.',
+  discord: null,
   investors: ['kxfsjf', 'mave87'],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://www.linkedin.com/company/microai-ai/',
   github: null,

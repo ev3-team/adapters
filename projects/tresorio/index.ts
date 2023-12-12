@@ -9,7 +9,9 @@ export default {
   id: 'l7nsll',
   description:
     'Tresorio Operator is a fog computing platform providing carbon-friendly micro data centers and cloud computing services.',
+  discord: null,
   investors: ['5ryb7f', 'zbuynd', '9ell91'],
+  linkedin: 'https://www.linkedin.com/company/tresoriocloud/',
   duneQueries: null,
   blog: null,
   github: null,

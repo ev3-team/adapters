@@ -9,6 +9,7 @@ export default {
   id: 'bts0sr',
   description:
     'Skiff is an end-to-end encrypted platform that supports collaboration, email, and messaging and gives users the power to communicate freely.',
+  discord: 'https://discord.gg/skiff',
   investors: [
     'frkhnw',
     'w0s9ub',
@@ -31,6 +32,7 @@ export default {
     'vf0qg4',
     'k1e97y',
   ],
+  linkedin: 'https://www.linkedin.com/company/skiffprivacy/',
   duneQueries: null,
   blog: 'https://skiff.com/blog',
   github: 'https://github.com/skiff-org',

@@ -9,7 +9,9 @@ export default {
   id: 'x3ay3v',
   description:
     'The Graph: a blockchain indexing protocol, providing efficient GraphQL-based access to blockchain data.',
+  discord: 'https://discord.com/invite/vtvv7FP',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/thegraph/',
   duneQueries: {
     BURN: '3168402',
     LOCKED_BALANCE: '3168407',

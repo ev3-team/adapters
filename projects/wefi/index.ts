@@ -9,6 +9,7 @@ export default {
   id: 'wfvjio',
   description:
     'WeFi is a decentralized protocol that opens up under collateralized borrowing and lending options in the DeFi space.',
+  discord: 'https://discord.com/invite/B6U6kectbV',
   investors: [
     '7ht6fr',
     '0ppjh7',
@@ -23,6 +24,7 @@ export default {
     'onzcv5',
     '71p088',
   ],
+  linkedin: 'https://www.linkedin.com/company/wefi',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/wefi',

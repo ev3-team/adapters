@@ -9,6 +9,7 @@ export default {
   id: 'r4h43s',
   description:
     'Neptune Mutual is the first parametric insurance protocol created for Ethereum. Neptune Mutual platform explores new avenues to creating user-centric risk protection products on the blockchain. By offering stablecoin-based cover pools for accurate risk management, they aim to attract a steady userbase and growing liquidity to the platform.',
+  discord: 'https://discord.com/invite/2qMGTtJtnW',
   investors: [
     'o5kpgb',
     'gjt0lb',
@@ -47,6 +48,7 @@ export default {
     'knhtue',
     'gy5k6a',
   ],
+  linkedin: 'https://www.linkedin.com/company/neptune-mutual',
   duneQueries: null,
   blog: 'https://neptunemutual.com/blog/',
   github: 'https://github.com/neptune-mutual-blue',

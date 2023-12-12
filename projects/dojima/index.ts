@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'aomkd4',
   description: 'Dojima is an omnichain EVM layer enabling cross-chain applications.',
+  discord: 'https://discord.com/invite/6fQWukdgbM',
   investors: [
     '62da1y',
     'zloyr1',
@@ -27,6 +28,7 @@ export default {
     'jofsd4',
     '24ormv',
   ],
+  linkedin: 'https://www.linkedin.com/company/dojimanetwork',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/dojimanetwork',

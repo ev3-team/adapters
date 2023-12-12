@@ -9,6 +9,7 @@ export default {
   id: '8ve4hw',
   description:
     'Growfitter is a gamified digital health reward platform that adds financial benefits to your physical activity.',
+  discord: null,
   investors: [
     '4p826x',
     'rgrbi1',
@@ -29,6 +30,7 @@ export default {
     'ms3jph',
     'tmyvo7',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'http://www.linkedin.com/company/growfitter.com',
   github: null,

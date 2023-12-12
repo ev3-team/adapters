@@ -9,7 +9,9 @@ export default {
   id: 'stk33p',
   description:
     'We help usher artists and independent content creators into the world of FAIR content attribution.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://www.linkedin.com/showcase/rightsfually/?trk=organization_guest_main-feed-card_reshare-text',
   github: null,

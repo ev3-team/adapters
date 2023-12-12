@@ -9,7 +9,9 @@ export default {
   id: 'pd96s1',
   description:
     'Vinci World provides AI models for blockchain games, enhancing gaming experiences with cutting-edge technology.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

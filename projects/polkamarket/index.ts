@@ -9,7 +9,9 @@ export default {
   id: 'qybaeu',
   description:
     'Polkamarket is an Autonomous Prediction Market Protocol, an EVM protocol solution for the Polkadot Ecosystem that allows users to place forecasts, create prediction markets, and resolve markets to earn rewards.',
+  discord: 'https://discord.com/invite/polkamarkets',
   investors: ['6s7v1l', 'qxuz9y', 'n73vnt', 'k9u90q', '07pxi6', 'pyukl2', 'fuws95'],
+  linkedin: 'https://www.linkedin.com/company/polkamarkets/',
   duneQueries: null,
   blog: 'https://medium.com/polkamarkets',
   github: 'https://github.com/Polkamarkets',

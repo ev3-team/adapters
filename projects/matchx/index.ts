@@ -9,7 +9,9 @@ export default {
   id: 'sr6yh3',
   description:
     'MatchX is a hardware and software company specializing in IoT solutions for the industry.',
+  discord: 'https://discord.com/invite/cgW7sDa',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/matchx/',
   duneQueries: null,
   blog: null,
   github: null,

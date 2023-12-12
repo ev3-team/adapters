@@ -9,7 +9,9 @@ export default {
   id: 'nwrj6s',
   description:
     'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
+  discord: null,
   investors: ['2q8xba', 'pcw959'],
+  linkedin: 'https://www.linkedin.com/company/proximaxltd',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/proximax-storage',

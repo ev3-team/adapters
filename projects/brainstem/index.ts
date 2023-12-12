@@ -9,7 +9,9 @@ export default {
   id: 'w49a1x',
   description:
     'Brainstem collects wearable health data to revolutionize healthcare through remote screening and monitoring.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/brainstemdigitalhealth',
   duneQueries: null,
   blog: 'https://medium.com/@BrainstemDigitalHealth',
   github: null,

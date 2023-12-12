@@ -9,7 +9,9 @@ export default {
   id: 'zanbgd',
   description:
     'Black Rabbit AI is an AI platform that aggregates tools, making it easy to get effective results with optimized prompts.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://blackrabbitai.medium.com/',
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'xjyor4',
   description:
     'Spexigon is a decentralized network of drone operators using the first fly-to-earn drone imagery platform.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/spexigon',
   duneQueries: null,
   blog: null,
   github: null,

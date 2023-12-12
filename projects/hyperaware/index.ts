@@ -9,7 +9,9 @@ export default {
   id: 'x2zh3j',
   description:
     'Hyperaware: a decentralized app for governing connected devices based on location, utilizing IoT and smart contracts.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

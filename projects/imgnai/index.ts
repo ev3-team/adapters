@@ -9,7 +9,9 @@ export default {
   id: 'du3f01',
   description:
     'ImgnAI’s flagship product “Nai” turns anything you write into an anime, 3D, or hyper-realistic image.',
+  discord: 'https://discord.com/invite/imgnai',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/imgnai',
   duneQueries: null,
   blog: 'https://imgnai.medium.com/',
   github: 'https://github.com/search?q=nirvana+labs',

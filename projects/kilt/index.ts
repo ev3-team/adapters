@@ -9,6 +9,7 @@ export default {
   id: 'bcanxl',
   description:
     'KILT is a blockchain-based identity platform offering decentralized, secure, and scalable solutions.',
+  discord: 'https://discord.com/invite/HztRqvzbhG',
   investors: [
     'gvqos9',
     'pbunpe',
@@ -31,6 +32,7 @@ export default {
     'm2z4hv',
     'xvgf6w',
   ],
+  linkedin: 'https://in.linkedin.com/company/kilt',
   duneQueries: null,
   blog: 'https://kilt-protocol.medium.com/',
   github: 'https://github.com/KILTprotocol',

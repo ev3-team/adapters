@@ -9,6 +9,7 @@ export default {
   id: 'jvfvyy',
   description:
     'MetaGravity is a company building distributed compute infrastructure for metaverse gaming and virtual world simulations.',
+  discord: 'https://discord.com/invite/MetaGravity',
   investors: [
     'v5aw83',
     'bxcu1r',
@@ -24,6 +25,7 @@ export default {
     '06o6kd',
     'pgoyl5',
   ],
+  linkedin: 'https://www.linkedin.com/company/metagravityltd',
   duneQueries: null,
   blog: 'https://metagravity.medium.com/',
   github: null,

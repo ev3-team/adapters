@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'kyve-network',
   id: 'u6mo76',
   description: 'KYVE connects nodes to Arweave storage, ensuring trustless uploads.',
+  discord: 'https://discord.com/invite/PATvZvEmxF',
   investors: [
     '4j4oj3',
     '5g3hyv',
@@ -60,6 +61,7 @@ export default {
     'eo7aux',
     'urug6u',
   ],
+  linkedin: 'http://www.linkedin.com/company/kyve',
   duneQueries: null,
   blog: 'https://kyve.medium.com/',
   github: 'https://github.com/KYVENetwork',

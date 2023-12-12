@@ -9,6 +9,7 @@ export default {
   id: 'tbwx5g',
   description:
     'EYWA is a genuinely decentralized medium for transferring data between blockchains and creating aggregated cross-chain assets.',
+  discord: 'https://discord.com/invite/eywaprotocol',
   investors: [
     's7b833',
     'tvu1r6',
@@ -35,6 +36,7 @@ export default {
     'nj1v3c',
     'ms8eng',
   ],
+  linkedin: 'https://www.linkedin.com/company/eywa-protocol/',
   duneQueries: null,
   blog: 'https://medium.com/@eywaprotocol',
   github: 'https://github.com/eywa-protocol',

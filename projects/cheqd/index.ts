@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'cheqd-network',
   id: 'o6gk4u',
   description: 'Cheqd offers infrastructure for trusted data markets.',
+  discord: 'https://discord.com/invite/zjNCNZRZb6',
   investors: [
     'e4xh6i',
     'kans6x',
@@ -33,6 +34,7 @@ export default {
     'oxft8q',
     'kic36s',
   ],
+  linkedin: 'http://www.linkedin.com/company/cheqd-identity',
   duneQueries: null,
   blog: 'https://blog.cheqd.io/',
   github: 'https://github.com/cheqd',

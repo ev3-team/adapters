@@ -9,7 +9,9 @@ export default {
   id: '64mpyg',
   description:
     'Bird is a decentralized oracle providing blockchain developers with analytics products for web platforms.',
+  discord: 'https://discord.com/invite/Z2BeCnS',
   investors: ['mrgeec'],
+  linkedin: 'https://www.linkedin.com/company/birdmoney/',
   duneQueries: null,
   blog: 'https://medium.com/bird-money',
   github: 'https://github.com/bird-money',

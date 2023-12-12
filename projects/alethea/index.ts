@@ -9,6 +9,7 @@ export default {
   id: 'hp9an1',
   description:
     'Alethea AI provides Artificial Liquid Intelligence solutions, enabling decentralized ownership in the AI economy.',
+  discord: 'https://discord.com/invite/aiprotocol',
   investors: [
     'hol96b',
     'b5zojp',
@@ -43,6 +44,7 @@ export default {
     'gduv1m',
     'o3c9bd',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: 'https://github.com/AletheaAI',

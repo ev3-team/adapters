@@ -9,7 +9,9 @@ export default {
   id: 'yb56ub',
   description:
     'Weveweve is a decentralized mail system on Arweave network. It ensures permanent availability of messages and web app.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/weve/',
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'g2f9pf',
   description:
     'Borlaug Web Services is a purpose-built blockchain SaaS platform for agriculture value chains.',
+  discord: null,
   investors: ['8vrydr', 'tl1am3', 'z4ibhx'],
+  linkedin: 'https://github.com/BorlaugWebServices/borlaug',
   duneQueries: null,
   blog: 'http://www.linkedin.com/company/borlaug-ws',
   github: null,

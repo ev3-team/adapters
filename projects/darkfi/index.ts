@@ -9,7 +9,9 @@ export default {
   id: 'rowqtv',
   description:
     'DarkFi: secure, anonymous L1 platform for hidden validators & anti-fragile environment for app dev.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/dark-oy',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/darkrenaissance/darkfi',

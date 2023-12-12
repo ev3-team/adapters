@@ -9,7 +9,9 @@ export default {
   id: 'eipbv3',
   description:
     'NeuralAgent connects systems and people globally through the utilization of existing transportation assets.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

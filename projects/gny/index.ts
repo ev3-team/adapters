@@ -9,7 +9,9 @@ export default {
   id: 'wjtb2f',
   description:
     'GNY is a ML predictive platform for blockchain, identifying patterns & predicting user behavior for targeted messaging.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/gny-io',
   duneQueries: null,
   blog: 'https://medium.com/@james_62282',
   github: 'https://github.com/GNYIO',

@@ -9,6 +9,7 @@ export default {
   id: 'n2u1ny',
   description:
     'Radicle is a peer-to-peer stack for building software together. Radicle functions as a peer-to-peer protocol where each user on the network runs identical software, known as the Radicle Stack. This stack primarily consists of a command line interface and a networked service called the Radicle Node. Nodes exchange data through a gossip protocol, forming a resilient, disruption-tolerant network. Radicle enables users to run their own nodes, ensuring censorship-resistant code collaboration and fostering a resilient network without reliance on third-parties.',
+  discord: null,
   investors: [
     '896jil',
     'jo973z',
@@ -33,6 +34,7 @@ export default {
     'bku3ew',
     'gduv1m',
   ],
+  linkedin: 'https://www.linkedin.com/company/radicleproject/',
   duneQueries: null,
   blog: null,
   github: null,

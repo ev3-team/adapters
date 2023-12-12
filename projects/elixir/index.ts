@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'elixir-finance',
   id: 'wrifq0',
   description: 'Elixir: Decentralized protocol for secure market-making.',
+  discord: 'https://discord.com/invite/GeKAZFjYT3',
   investors: [
     '7job29',
     'dczq0j',
@@ -29,6 +30,7 @@ export default {
     'n6jtgl',
     'nlvx3r',
   ],
+  linkedin: 'http://www.linkedin.com/company/elixir-protocol',
   duneQueries: null,
   blog: null,
   github: null,

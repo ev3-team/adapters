@@ -9,7 +9,9 @@ export default {
   id: 'iaysmn',
   description:
     'Purebet is a cryptocurrency gambling platform that offers secure and transparent betting options for users worldwide.',
+  discord: 'https://discord.com/invite/22tr2FYAh9',
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://purebet.medium.com/',
   github: null,

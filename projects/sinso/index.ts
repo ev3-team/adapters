@@ -9,6 +9,7 @@ export default {
   id: 'tde0ef',
   description:
     'Sinso is a Web3.0 Infrastructure Simplifying Decentralized HotData Cache and Data Governance. SINSO has four major economic models, the SINSO Getway, the Distributed Cache Nodes Network, SINSO DAPP Cube, SINSO Donors Network, and SINSO DAC.',
+  discord: null,
   investors: [
     'ovna62',
     's8v8am',
@@ -29,6 +30,7 @@ export default {
     'nj1v3c',
     'ka28kz',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'ads6qy',
   description: 'Somos Internet provides prepaid high-speed internet services in Latin America.',
+  discord: null,
   investors: [
     'fxvy7i',
     'ynh9fg',
@@ -21,6 +22,7 @@ export default {
     'ed6r4e',
     'wdtkj1',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

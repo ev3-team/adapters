@@ -9,7 +9,9 @@ export default {
   id: 'b5sx93',
   description:
     'The Galileo Protocol is a cutting-edge tokenisation platform that aims to revolutionise the authentication and ownership of luxury goods and real-world assets.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,6 +9,7 @@ export default {
   id: 'mhpovr',
   description:
     'Fetch.ai: Blockchain-based AI and ML platform connecting devices for market creation and data value addition.',
+  discord: 'https://discord.com/invite/fetchai',
   investors: [
     'fj88qi',
     'o3xe28',
@@ -23,6 +24,7 @@ export default {
     '44u6gg',
     'pyukl2',
   ],
+  linkedin: 'http://www.linkedin.com/company/fetch-ai',
   duneQueries: null,
   blog: 'https://medium.com/fetch-ai',
   github: 'https://github.com/fetchai?utm_source=Website',

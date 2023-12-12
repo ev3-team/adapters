@@ -9,6 +9,7 @@ export default {
   id: '7055ri',
   description:
     'Volmex Finance is a protocol for volatility indices and non-custodial trading built on Ethereum.',
+  discord: 'https://discord.com/invite/volmex',
   investors: [
     'b8gebp',
     'ovfuq8',
@@ -29,6 +30,7 @@ export default {
     'lq00qd',
     'rwh53e',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,6 +9,7 @@ export default {
   id: 'r2yc3l',
   description:
     'Agrotoken allows you to do more and better business with agrocommodities, creating a simpler, more efficient and technological ecosystem. We are the new dimension of agribusiness',
+  discord: null,
   investors: [
     's7b833',
     '7puspk',
@@ -21,6 +22,7 @@ export default {
     'gnqpgc',
     't6992i',
   ],
+  linkedin: 'https://www.linkedin.com/company/agrotoken/',
   duneQueries: null,
   blog: null,
   github: null,

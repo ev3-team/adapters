@@ -9,7 +9,9 @@ export default {
   id: 'olxxfj',
   description:
     'Foam is a blockchain-based platform enabling crowdsourced maps and decentralized location services.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/foam-corp',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/f-o-a-m/',

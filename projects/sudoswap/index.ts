@@ -9,7 +9,9 @@ export default {
   id: 'ea506r',
   description:
     'sudoSwap: A gas-efficient AMM protocol for NFT-to-token swaps with customizable bonding curves. Supports various tokens.',
+  discord: 'https://discord.com/invite/KWHFhVnfue',
   investors: ['ubuz3j'],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://blog.sudoswap.xyz/',
   github: 'https://github.com/sudoswap',

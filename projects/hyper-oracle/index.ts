@@ -9,7 +9,9 @@ export default {
   id: 'l6awms',
   description:
     'Hyper Oracle: Programmable zkOracle for blockchain security and developer empowerment.',
+  discord: 'https://discord.com/invite/MgyYbW9dQj',
   investors: ['r54jbx', 'uktppp', '6c0yfx', '3xr5rh', 'pu3yyr', 'km32gq'],
+  linkedin: 'http://www.linkedin.com/company/hyperoracle',
   duneQueries: null,
   blog: 'https://hyperoracle.medium.com/',
   github: 'https://github.com/hyperoracle',

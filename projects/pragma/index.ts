@@ -9,7 +9,9 @@ export default {
   id: 'yt094j',
   description:
     'Pragma is a decentralized oracle network that enhances the transparency and reliability of accessing real-world data for smart contracts while leveraging zero-knowledge cryptography for security.',
+  discord: 'https://discord.com/invite/N7sM7VzfJB',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/pragma-oracle/about/',
   duneQueries: null,
   blog: 'https://mirror.xyz/pragmagic.eth',
   github: 'https://github.com/Astraly-Labs/Pragma',

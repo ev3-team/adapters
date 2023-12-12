@@ -9,7 +9,9 @@ export default {
   id: 'btj93l',
   description:
     'Fungi Cloud is a decentralized data storage and cloud computing company on top of blockchain technology.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/fungiprotocol/',
   duneQueries: null,
   blog: null,
   github: null,

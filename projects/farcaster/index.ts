@@ -9,6 +9,7 @@ export default {
   id: 'qbrxm3',
   description:
     'Farcaster is a sufficiently decentralized protocol for building social apps. Sufficient decentralization means that two people who want to communicate can always do so. It also means developers have permissionless access to public data on the network.',
+  discord: null,
   investors: [
     'mp2gqb',
     '0ga0g3',
@@ -37,6 +38,7 @@ export default {
     'i9mcxw',
     'gasfop',
   ],
+  linkedin: 'https://www.linkedin.com/company/farcaster/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/farcasterxyz',

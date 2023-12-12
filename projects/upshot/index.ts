@@ -9,7 +9,9 @@ export default {
   id: '2ne1u8',
   description:
     'Upshot is a decentralized AI platform enabling efficient financial markets for anything. They combine their experience building novel crowdsourcing infrastructure and industry-leading ML models to create a scalable, self-improving network of collective machine intelligence.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

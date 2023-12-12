@@ -46,9 +46,11 @@ export type AdapterProject = {
   chain: AdapterProjectChain | null
   coingeckoId: string | null
   description: string | null
+  discord: string | null
   duneQueries: AdapterProjectDuneQueryIdentifiers | null
   github: string | null
   investors: string[]
+  linkedin: string | null
   name: string
   telegram: string | null
   token: string | null

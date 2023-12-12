@@ -9,6 +9,7 @@ export default {
   id: 'hprfe1',
   description:
     'Souq is a blockchain company developing an NFT AMM aiming to revolutionize the trading dynamics of NFTs.',
+  discord: 'https://discord.com/invite/clubsouq',
   investors: [
     'hw3u73',
     '7dhoqw',
@@ -27,6 +28,7 @@ export default {
     'molo3g',
     'rfnurr',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

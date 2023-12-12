@@ -9,7 +9,9 @@ export default {
   id: '6mqswi',
   description:
     'Anon enables developers to securely request and authenticate data from the most popular sites on the internet.',
+  discord: null,
   investors: ['cx2bjt'],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://www.linkedin.com/company/anon-dot-com/about/',
   github: null,

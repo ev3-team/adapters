@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'i8a066',
   description: 'Imbue trains foundation models to create practically useful AI agents.',
+  discord: null,
   investors: [
     'h09snm',
     '3jocjo',
@@ -50,6 +51,7 @@ export default {
     'num220',
     'wdtkj1',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'http://www.linkedin.com/company/imbue-ai',
   github: 'https://imbue.com/blog/',

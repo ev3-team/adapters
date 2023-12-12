@@ -9,6 +9,7 @@ export default {
   id: '84v1j0',
   description:
     'Dmail is an AI-powered decentralized email platform that empowers users with ownership and control of their data.',
+  discord: 'https://discord.com/invite/QbvaeqwMFg',
   investors: [
     'oq9fz1',
     'gun7y3',
@@ -36,6 +37,7 @@ export default {
     'nj1v3c',
     'nlvx3r',
   ],
+  linkedin: 'http://www.linkedin.com/company/dmail-idee-utili-e-introvabili',
   duneQueries: null,
   blog: 'https://medium.com/@dmail_official',
   github: 'https://github.com/dmailofficial/dmail',

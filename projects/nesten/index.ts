@@ -9,7 +9,9 @@ export default {
   id: 'gazzlx',
   description:
     'Nesten - telecom company revolutionizing industry with community-driven network ops & blockchain.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

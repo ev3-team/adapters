@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: '4tlww3',
   description: 'NGRAVE is a blockchain company. Ngrave Zero is their air-gapped hardware wallet.',
+  discord: 'https://discord.com/invite/gapxmWEBNJ',
   investors: [
     'pbunpe',
     'mrgeec',
@@ -21,6 +22,7 @@ export default {
     'pyukl2',
     '2wn9ev',
   ],
+  linkedin: 'https://www.linkedin.com/company/ngrave/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/ngraveio',

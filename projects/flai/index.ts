@@ -9,7 +9,9 @@ export default {
   id: '6j3y7z',
   description:
     'Flai develops a web-based application that automatically turns raw geospatial data into meaningful information.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/flai-ai',
   duneQueries: null,
   blog: 'https://www.flai.ai/blog',
   github: null,

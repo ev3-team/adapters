@@ -9,6 +9,7 @@ export default {
   id: 'cfxf9v',
   description:
     'Covalent is a decentralized data infrastructure that enables users to seamlessly access blockchain data that is otherwise inaccessible. Covalent has indexed entire blockchain histories and has transformed these data in a way that is standardized and truly interoperable. Users can leverage a unified API to query virtually any data on a given blockchain.',
+  discord: 'https://discord.com/invite/VHgmzB9973',
   investors: [
     'bspyld',
     'spurmc',
@@ -40,6 +41,7 @@ export default {
     '2wn9ev',
     '0nsbs7',
   ],
+  linkedin: 'https://www.linkedin.com/company/covalenthq/',
   duneQueries: null,
   blog: 'https://www.covalenthq.com/blog/',
   github: 'https://github.com/covalenthq/',

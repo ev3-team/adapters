@@ -9,6 +9,7 @@ export default {
   id: 'heeyow',
   description:
     'Space & Time is a decentralized replacement for blockchain indexing, database, data warehouse, and API servers.',
+  discord: 'https://discord.com/invite/spaceandtimeDB',
   investors: [
     'opiq98',
     '7ygqh2',
@@ -40,6 +41,7 @@ export default {
     'wu15kr',
     '3c4o3d',
   ],
+  linkedin: 'https://www.linkedin.com/company/space-and-time-media/',
   duneQueries: null,
   blog: 'https://medium.com/@SpaceandTimeDB',
   github: 'https://github.com/spaceandtimelabs',

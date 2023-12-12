@@ -9,7 +9,9 @@ export default {
   id: '75exdm',
   description:
     'Developing a project that currently exploring new ways to architect how blockchains can handle AI-training data.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'yidy7d',
   description:
     'DriveX is a decentralized marketplace for vehicle data that unlocks new revenue and financing opportunities for owners and operators, creating a more innovative and vibrant ecosystem for mobility and transportation.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

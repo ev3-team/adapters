@@ -8,7 +8,9 @@ export default {
   coingeckoId: 'geodnet',
   id: 'scli9r',
   description: 'Geodnet is a decentralized network of GNSS reference stations.',
+  discord: 'https://discord.com/invite/geodnet',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/geodnet/',
   duneQueries: {
     BURN: '2944840',
     LOCKED_BALANCE: '2944845',

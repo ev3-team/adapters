@@ -9,6 +9,7 @@ export default {
   id: '5v5xcz',
   description:
     'HashMix is a fully decentralized hash power tokenization and circulation platform. HashMix proposes a tokenization scheme suitable for arbitrary hash power, implements a set of universal decentralized cloud hash power trading, lending, and swapping protocols to solve hash power fraud, hash power oversold, over-simplified product design, and lack of liquidity and flexibility in the current market, enables the free redistribution of global hash power.',
+  discord: 'https://discord.com/invite/bWfFB5v48r',
   investors: [
     '1zgufc',
     's16t1q',
@@ -28,6 +29,7 @@ export default {
     'pu3yyr',
     'brmebh',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://hashmix.medium.com/',
   github: 'https://github.com/HashMixProject',

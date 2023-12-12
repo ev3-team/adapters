@@ -9,7 +9,9 @@ export default {
   id: 'm2236c',
   description:
     'Hub3 is a social-fi platform that enables creators to monetize their content and connect with exclusive communities while utilizing token-gated communities, one key ahead.',
+  discord: 'https://discord.com/invite/fD5gwNjcZJ',
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,6 +9,7 @@ export default {
   id: 'nzimvj',
   description:
     "Boson Protocol's Web3 Commerce Layer enables the tokenization, transfer and trade of any physical thing as a redeemable NFT.",
+  discord: null,
   investors: [
     'ycxcre',
     'cvqnc5',
@@ -42,6 +43,7 @@ export default {
     'e0510f',
     't44ifr',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

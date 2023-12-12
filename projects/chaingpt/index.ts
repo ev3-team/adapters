@@ -9,7 +9,9 @@ export default {
   id: 'yi1bv4',
   description:
     'ChainGPT AI for Blockchain and Crypto, providing knowledge and tools with CGPT utility token.',
+  discord: 'https://discord.com/invite/sv2NfqSgVW',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/chaingpt',
   duneQueries: null,
   blog: 'https://medium.com/@chaingpt',
   github: 'https://github.com/ChainGPT-org',

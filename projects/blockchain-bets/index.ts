@@ -9,7 +9,9 @@ export default {
   id: 'afo4li',
   description:
     'Blockchain Bets - decentralized casino & sports betting platform on blockchain for transparency & security.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

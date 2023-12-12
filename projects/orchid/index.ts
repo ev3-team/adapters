@@ -9,7 +9,9 @@ export default {
   id: 'vg1qec',
   description:
     'Orchid is a decentralized onion routing network incentivized through multi-hop VPN clients.',
+  discord: 'https://discord.com/invite/GDbxmjxX9F',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/orchidprotocol',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/OrchidTechnologies',

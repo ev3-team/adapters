@@ -9,7 +9,9 @@ export default {
   id: 'q5prya',
   description:
     'Silent Link provides global mobile 4G/5G Internet access and burner phone numbers on any eSIM-compatible smartphone.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

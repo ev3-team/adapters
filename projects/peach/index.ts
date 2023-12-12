@@ -9,7 +9,9 @@ export default {
   id: '3p49fs',
   description:
     'Peach Inu is a memecoin bringing together a community of Princess Peach fans and creating a space for fun and exchange.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

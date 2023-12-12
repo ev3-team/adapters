@@ -9,6 +9,7 @@ export default {
   id: 'm3djiu',
   description:
     'Manta utilises zero-knowledge proofs (ZKPs) to guarantee the secure and private minting of NFTs and SBTs while maintaining the confidentiality of crypto assets. The platform promises to reveal only the validity of the transaction and no other additional information.',
+  discord: 'https://discord.com/invite/mantanetwork',
   investors: [
     'b8gebp',
     '7bn5bf',
@@ -47,6 +48,7 @@ export default {
     'pvr738',
     'urug6u',
   ],
+  linkedin: 'https://www.linkedin.com/company/mantanetwork',
   duneQueries: null,
   blog: 'https://mantanetwork.medium.com/',
   github: 'https://github.com/manta-network',

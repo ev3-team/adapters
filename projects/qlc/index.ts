@@ -9,7 +9,9 @@ export default {
   id: 'xpng8u',
   description:
     'QLC Chain is a next-gen public Blockchain enabling service providers and network operators.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/qlcchain',
   duneQueries: null,
   blog: 'https://keppleio.medium.com/',
   github: null,

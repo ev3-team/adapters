@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'blockless',
   id: '4tmf6y',
   description: 'Blockless is a customizable execution layer for decentralized serverless apps.',
+  discord: 'https://discord.com/invite/9eeRHxSCTZ',
   investors: [
     'ympohv',
     'bxcu1r',
@@ -19,6 +20,7 @@ export default {
     '8dhvoo',
     'rewcp7',
   ],
+  linkedin: 'http://www.linkedin.com/company/blockless',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/blocklessnetwork',

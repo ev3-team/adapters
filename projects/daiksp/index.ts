@@ -9,7 +9,9 @@ export default {
   id: 'xsdljc',
   description:
     'DAIKSP is a decentralized AI platform that combines blockchain technology to revolutionize knowledge sharing.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

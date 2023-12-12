@@ -9,6 +9,7 @@ export default {
   id: 'l3144f',
   description:
     'Stackr SDK is a framework to build app-specific micro-rollups in web2 programming languages.',
+  discord: 'https://discord.com/invite/PY4nhg7bcc',
   investors: [
     '26x5nn',
     'f7094w',
@@ -27,6 +28,7 @@ export default {
     't9j2qz',
     'vrvfoj',
   ],
+  linkedin: 'https://www.linkedin.com/company/stackr-labs/about/',
   duneQueries: null,
   blog: null,
   github: null,

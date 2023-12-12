@@ -9,7 +9,9 @@ export default {
   id: '3wnonl',
   description:
     'Nextdata is unlocking the AI revolution with an operating system for decentralized data at scale. It delivers a native platform for data developers to simplify the process of sharing, connecting and discovering enterprise data for AI and analytics. Its proprietary platform – Nextdata OS – is a data-mesh-native toolset for creating, sharing, discovering and using data across systems and boundaries without sacrificing governance and quality.',
+  discord: null,
   investors: ['ww4ojj', '4vsf2b'],
+  linkedin: 'https://www.linkedin.com/company/nextdata-technologies/about/',
   duneQueries: null,
   blog: null,
   github: null,

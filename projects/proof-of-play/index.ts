@@ -9,6 +9,7 @@ export default {
   id: 'f0g5ra',
   description:
     'Proof of Play is a game studio and blockchain technology company that makes decentralized games and gaming infrastructure.',
+  discord: 'https://discord.com/invite/piratenation',
   investors: [
     '26x5nn',
     '896jil',
@@ -21,6 +22,7 @@ export default {
     'co49ki',
     '2nph6s',
   ],
+  linkedin: 'https://www.linkedin.com/company/proof-of-play/',
   duneQueries: null,
   blog: 'https://piratenation.medium.com/',
   github: null,

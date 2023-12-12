@@ -9,7 +9,9 @@ export default {
   id: 'ush02g',
   description:
     'Filebase is a reliable IPFS pinning service that provides secure and efficient file storage and management.',
+  discord: 'https://discord.com/invite/rPwkxwJEDZ',
   investors: ['2g0699', '6iy81o', '9kybya'],
+  linkedin: 'https://linkedin.com/company/filebase',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/filebase',

@@ -9,7 +9,9 @@ export default {
   id: '0w936j',
   description:
     'Drone Link uses DePin model to enhance drone performance and accelerate regional expansion.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/dronelink/',
   duneQueries: null,
   blog: null,
   github: null,

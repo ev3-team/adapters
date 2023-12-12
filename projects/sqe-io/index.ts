@@ -9,7 +9,9 @@ export default {
   id: 'ipaf0n',
   description:
     'SQE.io is a quantum secure, decentralized blockchain-based platform. It uses Simulated Quantum Entanglement technology.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/sqe-io',
   duneQueries: null,
   blog: null,
   github: null,

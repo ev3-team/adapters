@@ -9,7 +9,9 @@ export default {
   id: 'l4srh8',
   description:
     'inSure: Community-based crypto insurance, distributed ownership risks, dynamic pricing model.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/insure-technologies',
   duneQueries: null,
   blog: 'https://insureteam.medium.com/',
   github: 'https://github.com/inSureToken/SmartContract/blob/master/inSure.sol',

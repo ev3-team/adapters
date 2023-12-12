@@ -9,7 +9,9 @@ export default {
   id: 'ktxx7q',
   description:
     'Acxyn: empowering Web3 games with economic potential and ownership of revenue streams.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/acxyn',
   duneQueries: null,
   blog: null,
   github: null,

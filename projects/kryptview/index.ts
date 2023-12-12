@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'kryptview',
   id: '3zopno',
   description: 'Kryptview rewards users for analyzing cryptos using P2P and Blockchain mechanisms.',
+  discord: 'https://discord.com/invite/PRvUfY7Vjf',
   investors: [
     'mrgeec',
     '6jvbqx',
@@ -20,6 +21,7 @@ export default {
     'jr9bwv',
     '2xfkvg',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://kryptview.medium.com/',
   github: null,

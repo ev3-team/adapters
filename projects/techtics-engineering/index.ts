@@ -9,7 +9,9 @@ export default {
   id: '1wmf1w',
   description:
     'Techtics Engineering is a specialized hardware manufacturer for decentralized physical infrastructure networks. They also provide services from "research stage till the customers doormat".',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

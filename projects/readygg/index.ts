@@ -9,6 +9,7 @@ export default {
   id: 'wjko90',
   description:
     'READYgg is a Layer3 gaming infrastructure for the Web3 creator economy. They aim to give every developer, creator, and player the power of shared ownership through blockchain technology, token economy, and cross-game NFT assets',
+  discord: 'https://discord.com/invite/BqHs8cMVEG',
   investors: [
     'y69z86',
     'iu4bcb',
@@ -21,6 +22,7 @@ export default {
     'jvtn60',
     'gduv1m',
   ],
+  linkedin: 'https://www.linkedin.com/company/ready-makers-inc/',
   duneQueries: null,
   blog: null,
   github: null,

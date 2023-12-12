@@ -9,7 +9,9 @@ export default {
   id: 'ba6xjm',
   description:
     'Polymathic AI develops versatile foundation models for machine learning applications in various scientific fields.',
+  discord: null,
   investors: [],
+  linkedin: 'https://github.com/PolymathicAI',
   duneQueries: null,
   blog: null,
   github: null,

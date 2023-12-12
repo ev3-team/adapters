@@ -9,6 +9,7 @@ export default {
   id: '3czn02',
   description:
     'Superlocal is a social network and game that rewards you with points for checking in at various places.',
+  discord: null,
   investors: [
     'zmy4gp',
     'jtci9b',
@@ -21,6 +22,7 @@ export default {
     'k1e97y',
     '03zdwj',
   ],
+  linkedin: 'https://www.linkedin.com/company/superlocalapp/',
   duneQueries: null,
   blog: 'https://medium.com/@superlocalapp',
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: '5w860i',
   description:
     'AeroNyx - decentralized DePIN protocol for privacy solutions, using Web3 principles.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/aeronyx/',
   duneQueries: null,
   blog: null,
   github: null,

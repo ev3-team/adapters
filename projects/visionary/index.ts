@@ -9,7 +9,9 @@ export default {
   id: 'zwpehj',
   description:
     'Decentralized energy storage solution for clean power supply, managed by cloud service.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/visionaryis/',
   duneQueries: null,
   blog: 'https://medium.com/@almehawas',
   github: null,

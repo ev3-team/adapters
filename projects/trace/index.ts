@@ -9,6 +9,7 @@ export default {
   id: 'bjvhmg',
   description:
     'Trace is a decentralized protocol enabling luxury lifestyle for multichain metaverses with NFTs & digital fashion.',
+  discord: 'https://discord.com/invite/SF3xyD7xPb',
   investors: [
     'bf6y5u',
     'n6kqj7',
@@ -32,6 +33,7 @@ export default {
     '9e1gk4',
     'pyukl2',
   ],
+  linkedin: 'http://www.linkedin.com/company/trace-network-labs',
   duneQueries: null,
   blog: 'https://medium.com/@tracenetwork',
   github: null,

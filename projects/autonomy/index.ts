@@ -9,6 +9,7 @@ export default {
   id: 'jow0l5',
   description:
     'Autonomy is a decentralized automation protocol designed for Web3 builders. It allows DApps to add features like stop losses and limit orders for DEXes, levels the playing field between centralized and decentralized exchanges, and brings a powerful suite of tools to NFT creators and communities—all through on-chain, conditional execution.',
+  discord: 'https://discord.com/invite/kbDwaW7jfv',
   investors: [
     'onvq9f',
     '3rh50q',
@@ -30,6 +31,7 @@ export default {
     'najniu',
     '0rtomp',
   ],
+  linkedin: 'https://www.linkedin.com/company/autonomynetwork/',
   duneQueries: null,
   blog: 'https://blog.autonomynetwork.io/',
   github: 'https://github.com/Autonomy-Network',

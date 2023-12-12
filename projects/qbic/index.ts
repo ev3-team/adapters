@@ -9,7 +9,9 @@ export default {
   id: 'bpbzym',
   description:
     'Qubic is a cutting-edge cryptocurrency platform utilizing a quorum-based computation system for executing smart contracts with high efficiency and minimal energy consumption. It aims to stand out with its Useful Proof-of-Work for AI training and efficient Computor ranking.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

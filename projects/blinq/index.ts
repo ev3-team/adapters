@@ -9,7 +9,9 @@ export default {
   id: '5ts91p',
   description:
     'Blinq offers affordable, high-performance 5G ready wireless solutions company for fixed and mobile services.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/blinq-networks/',
   duneQueries: null,
   blog: null,
   github: null,

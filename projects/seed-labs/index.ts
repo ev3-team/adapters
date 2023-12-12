@@ -9,7 +9,9 @@ export default {
   id: 'ixg6ts',
   description:
     'Seed Labs is a collectively owned, community-first, open early stage venture capital.',
+  discord: null,
   investors: ['qrf4l1'],
+  linkedin: 'https://www.linkedin.com/in/seed-lab-my-9246951a8/',
   duneQueries: null,
   blog: null,
   github: null,

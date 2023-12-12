@@ -9,7 +9,9 @@ export default {
   id: 'sx32rg',
   description:
     'CryptoAI is an AI accessibility token with buy bots, transaction tracking, and lottery automation.',
+  discord: 'https://discord.com/invite/cryptoai',
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/@Crypto_AI/growth-the-next-phase-of-cryptoai-2be02b964e2',
   github: null,

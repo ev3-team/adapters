@@ -9,7 +9,9 @@ export default {
   id: 'vzfbpq',
   description:
     'Openfabric is a decentralized AI platform where the collaboration between AI innovators, data providers, businesses, and infrastructure providers will facilitate the creation and use of new intelligent algorithms and services.',
+  discord: 'https://discord.com/invite/EMHN5VQYSx',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/openfabricai/',
   duneQueries: null,
   blog: 'https://openfabric.ai/blog',
   github: 'https://github.com/Openfabric',

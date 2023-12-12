@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: '4l25dn',
   description: 'Zoth is an on-chain marketplace for Real World Assets (RWAs).',
+  discord: null,
   investors: [
     'oixym4',
     'wv0c6u',
@@ -27,6 +28,7 @@ export default {
     'p65ot4',
     'v450ah',
   ],
+  linkedin: 'https://github.com/0xZothio',
   duneQueries: null,
   blog: 'http://www.linkedin.com/company/zoth-io',
   github: null,

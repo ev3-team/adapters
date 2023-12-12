@@ -9,7 +9,9 @@ export default {
   id: 'gvclfq',
   description:
     "Kizuna is the first token built from Decentralized AI, inspired by Ryoshi's principles of decentralized maximalism",
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://kizunatoken.medium.com/',
   github: null,

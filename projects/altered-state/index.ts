@@ -9,6 +9,7 @@ export default {
   id: '9limss',
   description:
     'Decentralized AI protocol for NFI, enabling ownership, trading, and training of AI agents through NFTs.',
+  discord: 'https://discord.com/invite/therootnetwork',
   investors: [
     'k93k29',
     'hol96b',
@@ -63,6 +64,7 @@ export default {
     'v6xlk7',
     'uwd92p',
   ],
+  linkedin: 'https://www.linkedin.com/company/altered-state-machine/',
   duneQueries: null,
   blog: null,
   github: null,

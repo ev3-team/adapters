@@ -9,7 +9,9 @@ export default {
   id: 's8n10q',
   description:
     'Oniri is the world leading app related to dreams, helping people remember, understand and control their dreams.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/oniriapp',
   duneQueries: null,
   blog: null,
   github: null,

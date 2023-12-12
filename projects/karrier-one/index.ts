@@ -9,7 +9,9 @@ export default {
   id: 'j9n1l6',
   description:
     'Karrier One is a mobile network company running on decentralized telecom infrastructure.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/karrier-one/',
   duneQueries: null,
   blog: 'https://karrier-one.medium.com/celebrating-q1-2023-milestones-expanding-karrier-ones-global-wireless-telecom-network-33977918e52d',
   github: null,

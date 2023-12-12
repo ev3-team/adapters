@@ -9,7 +9,9 @@ export default {
   id: '74rmzw',
   description:
     'Lunyr is a blockchain-based world knowledge base that rewards users for peer-reviewing and contributing information.',
+  discord: 'https://discord.com/invite/Vaw5MWD',
   investors: ['v2r2oo'],
+  linkedin: 'https://www.linkedin.com/company/lunyr/about/',
   duneQueries: null,
   blog: 'https://medium.com/lunyr',
   github: null,

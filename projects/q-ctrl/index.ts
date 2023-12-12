@@ -9,6 +9,7 @@ export default {
   id: '69yd7k',
   description:
     'Q-ctrl uniquely addresses the problem of hardware error and instability in quantum computing, entirely through software.',
+  discord: null,
   investors: [
     'rz0q81',
     '4bc5rd',
@@ -21,6 +22,7 @@ export default {
     'ilwy9t',
     'd3ronc',
   ],
+  linkedin: 'https://github.com/qctrl?_ga=2.200893288.772806730.1652587339-513873128.1652348755',
   duneQueries: null,
   blog: 'https://www.linkedin.com/company/q-ctrl/?_ga=2.200893288.772806730.1652587339-513873128.1652348755',
   github: null,

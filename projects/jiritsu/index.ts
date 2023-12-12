@@ -9,6 +9,7 @@ export default {
   id: 'j68t8z',
   description:
     'Jiritsu is a decentralized protocol enabling verifiable compute. Jiritsu allows one to orchestrate and verify any computational workflow, integrating any combination of L1, L2 and Middleware.',
+  discord: null,
   investors: [
     'mzqq7s',
     'k0celj',
@@ -25,6 +26,7 @@ export default {
     'ga1lv7',
     'qpv2lq',
   ],
+  linkedin: 'https://www.linkedin.com/company/jiritsunetwork/',
   duneQueries: null,
   blog: null,
   github: null,

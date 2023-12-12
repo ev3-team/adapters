@@ -9,7 +9,9 @@ export default {
   id: '0ezngt',
   description:
     'MASQ is a decentralized VPN network built on Polygon, providing secure and private internet browsing.',
+  discord: 'https://discord.com/invite/masq',
   investors: [],
+  linkedin: 'https://linkedin.com/company/masqproject',
   duneQueries: null,
   blog: 'https://medium.com/masq-project',
   github: 'https://github.com/MASQ-Project',

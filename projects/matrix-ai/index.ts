@@ -9,7 +9,9 @@ export default {
   id: 'iev3ik',
   description:
     'Matrix combines neuroscience with AI and blockchain to create digital user avatars in the Metaverse.',
+  discord: 'https://discord.com/invite/pz3a3GDGj8',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/matrixainetwork',
   duneQueries: null,
   blog: 'https://matrixainetwork.medium.com/',
   github: 'https://github.com/MatrixAINetwork',

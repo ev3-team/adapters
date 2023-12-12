@@ -9,7 +9,9 @@ export default {
   id: '9zzvik',
   description:
     'Echo is a decentralized social engagement protocol using Arweave, embedding on-chain comments/likes onto any website.',
+  discord: 'https://discord.com/invite/KFxyaw9Wdj',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/echo-',
   duneQueries: null,
   blog: 'https://medium.com/@bestvideomovies',
   github: null,

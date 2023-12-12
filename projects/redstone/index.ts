@@ -9,6 +9,7 @@ export default {
   id: 'ap3amn',
   description:
     'RedStone is an Oracle that delivers frequently updated, reliable, and diverse data feeds for your dApp and smart contracts on multiple L1s & L2s.',
+  discord: 'https://discord.com/invite/PVxBZKFr46',
   investors: [
     'bspyld',
     '4j4oj3',
@@ -40,6 +41,7 @@ export default {
     'ffngjj',
     'nzxtym',
   ],
+  linkedin: 'https://www.linkedin.com/company/redstone-finance/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/redstone-finance',

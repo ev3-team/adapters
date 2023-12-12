@@ -9,7 +9,9 @@ export default {
   id: 'wyn0zn',
   description:
     'Arkreen is a Web3-powered digital infrastructure for global distributed renewable energy resources.',
+  discord: 'https://discord.com/invite/j5fSNRKGme',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/arkreen/',
   duneQueries: null,
   blog: 'https://medium.com/@arkreen',
   github: 'https://github.com/arkreen',

@@ -9,6 +9,7 @@ export default {
   id: '3wkk5f',
   description:
     'Elusiv is building Web3’s universal encryption layer empowering the decentralized world. Elusiv Protocol aims to revolutionizing the world of blockchain transactions by providing a much-needed privacy layer through the use of Zero-Knowledge proofs.',
+  discord: 'https://discord.com/invite/elusivprivacy',
   investors: [
     'fahk60',
     '4l8mmr',
@@ -23,6 +24,7 @@ export default {
     'gmkv01',
     'p3lgat',
   ],
+  linkedin: 'https://www.linkedin.com/company/elusiv/',
   duneQueries: null,
   blog: 'https://medium.com/elusiv-privacy',
   github: 'https://github.com/elusiv-privacy',

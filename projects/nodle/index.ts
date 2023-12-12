@@ -9,7 +9,9 @@ export default {
   id: 'znawjs',
   description:
     'Nodle is a smartphone-powered decentralized data network and payment infrastructure for IoT.',
+  discord: 'https://discord.com/invite/GDbxmjxX9F',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/nodle',
   duneQueries: null,
   blog: 'https://nodle.medium.com/',
   github: 'https://github.com/NodleCode',

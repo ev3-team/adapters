@@ -9,7 +9,9 @@ export default {
   id: 'cmvmnd',
   description:
     'Developer of a decentralized infrastructure for the new creative economy intended to build d-apps and protocols that leverage emerging market opportunities, making use of the tools and standards created by LUKSO.',
+  discord: 'https://discord.com/invite/nzn3BGHyYH',
   investors: ['goajo6', 'oonxc5', 'pbxwvb', '6ln47x', '7t2d0s', 'vy2caq'],
+  linkedin: 'https://www.linkedin.com/company/dropps-io/',
   duneQueries: null,
   blog: 'https://medium.com/dropps',
   github: 'https://github.com/dropps-io',

@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'utndo1',
   description: 'Pitch is the collaborative presentation software for modern teams.',
+  discord: null,
   investors: [
     '2046fz',
     'ca0yhb',
@@ -29,6 +30,7 @@ export default {
     'pl6fqf',
     'h8bix0',
   ],
+  linkedin: 'https://github.com/pitch-io',
   duneQueries: null,
   blog: 'https://www.linkedin.com/company/pitchhq',
   github: 'https://pitch.com/blog',

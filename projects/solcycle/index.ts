@@ -9,7 +9,9 @@ export default {
   id: 'jypbh1',
   description:
     'SolCycle Rewards incentivizes recycling, promoting sustainability and environmental conservation.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/soulcycle',
   duneQueries: null,
   blog: null,
   github: null,

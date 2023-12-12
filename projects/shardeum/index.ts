@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'shardeum',
   id: 'g65u6w',
   description: 'Shardeum: EVM-based platform ensuring decentralization and security.',
+  discord: 'https://discord.com/invite/shardeum',
   investors: [
     'oixym4',
     'z37132',
@@ -59,6 +60,7 @@ export default {
     '71p088',
     'e0wtte',
   ],
+  linkedin: 'http://www.linkedin.com/company/shardeum',
   duneQueries: null,
   blog: 'https://medium.com/@Shardeum',
   github: 'https://github.com/shardeum/',

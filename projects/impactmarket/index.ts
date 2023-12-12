@@ -9,6 +9,7 @@ export default {
   id: 'p19y87',
   description:
     'ImpactMarket enables communities to implement financial inclusive mechanisms like Unconditional Basic Income (UBI).',
+  discord: 'https://discord.com/invite/V6JWbM4ZQ3',
   investors: [
     'hpndgr',
     'q8to28',
@@ -21,6 +22,7 @@ export default {
     'tk2v6b',
     's7rn7t',
   ],
+  linkedin: 'https://www.linkedin.com/company/impactmarket',
   duneQueries: null,
   blog: 'https://medium.com/impactmarket',
   github: 'https://github.com/impactMarket',

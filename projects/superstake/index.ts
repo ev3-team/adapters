@@ -9,7 +9,9 @@ export default {
   id: '1dp03n',
   description:
     'Superstake is a staking platform and NFT marketplace for crypto enthusiasts in the SUPERPANCAKE ecosystem.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

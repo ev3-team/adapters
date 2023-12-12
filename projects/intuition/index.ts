@@ -9,6 +9,7 @@ export default {
   id: 'kx9y1a',
   description:
     "Operator of a decentralized identity company intended to help users to create attestations about any subject, storing the information in such a way that it's easily navigable, queryable, and leveraged by other applications.",
+  discord: 'https://discord.com/invite/0xintuition',
   investors: [
     'f7094w',
     'zloyr1',
@@ -33,6 +34,7 @@ export default {
     'e2dh7y',
     't44ifr',
   ],
+  linkedin: 'https://www.linkedin.com/company/0xintuition/',
   duneQueries: null,
   blog: 'https://medium.com/0xintuition',
   github: null,

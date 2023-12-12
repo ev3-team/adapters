@@ -9,6 +9,7 @@ export default {
   id: 'obq296',
   description:
     'Ares is an on-chain-verified oracle platform that provides secure and reliable data services for the Polkadot DeFi ecosystem',
+  discord: 'https://discord.com/invite/cqduK4ZNaY',
   investors: [
     'perhf5',
     'h3elac',
@@ -29,6 +30,7 @@ export default {
     'nwl5v7',
     'o7xcsr',
   ],
+  linkedin: 'https://www.linkedin.com/company/aresprotocol/',
   duneQueries: null,
   blog: 'https://aresprotocollab.medium.com/',
   github: 'https://github.com/aresprotocols',

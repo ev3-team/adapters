@@ -9,7 +9,9 @@ export default {
   id: 'm5egmn',
   description:
     'Quantinum: Institutional-grade blockchain, integrating decentralization, scalability, sustainability, and cybersecurity.',
+  discord: null,
   investors: ['7zvxz8'],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'h7mk5k',
   description:
     'FileStar is a Web 3.0 decentralized storage, verifiable computation, and measurable bandwith network infrastructure.',
+  discord: null,
   investors: ['nxzb7m'],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://filestarofficial.medium.com/',
   github: 'https://github.com/filestar-project',

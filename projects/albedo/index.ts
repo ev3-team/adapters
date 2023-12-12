@@ -9,6 +9,7 @@ export default {
   id: 'iqd05g',
   description:
     "Albedo's low-flying satellites capture visible and thermal imagery at the highest resolution commercially available.",
+  discord: null,
   investors: [
     't5ccvg',
     'dnl49s',
@@ -54,6 +55,7 @@ export default {
     '2zjum0',
     'wdtkj1',
   ],
+  linkedin: 'https://www.linkedin.com/company/albedo-space/',
   duneQueries: null,
   blog: null,
   github: null,

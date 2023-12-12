@@ -9,7 +9,9 @@ export default {
   id: '345ael',
   description:
     'Roam is a crypto-native telco initiative enabling easy setup of mobile networks for 4G or 5G connectivity.',
+  discord: 'https://discord.com/invite/ZKhhX7BKvP',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/roamnetwork',
   duneQueries: null,
   blog: 'https://medium.com/@Roam_Network',
   github: null,

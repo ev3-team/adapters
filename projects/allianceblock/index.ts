@@ -9,6 +9,7 @@ export default {
   id: 'zgvzl4',
   description:
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',
+  discord: 'https://discord.com/invite/fB4tkF52H5',
   investors: [
     'mrgeec',
     'k1qvmn',
@@ -20,6 +21,7 @@ export default {
     'nwl5v7',
     '2wn9ev',
   ],
+  linkedin: 'http://www.linkedin.com/company/allianceblock',
   duneQueries: null,
   blog: 'https://medium.com/allianceblock/allianceblock-the-next-era-of-allianceblock-eabb78b29ac3',
   github: 'https://github.com/Stichting-AllianceBlock-Foundation/',

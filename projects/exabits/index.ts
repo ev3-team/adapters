@@ -9,7 +9,9 @@ export default {
   id: 'ks1fra',
   description:
     'exaBITS is a decentralized infrastructure for AI and computationally intensive applications.',
+  discord: 'https://discord.com/invite/exabits',
   investors: ['yont93', 'vjpj24', '9cx2zp'],
+  linkedin: 'http://www.linkedin.com/company/exabits',
   duneQueries: null,
   blog: 'https://medium.com/decentralizedcomputing',
   github: null,

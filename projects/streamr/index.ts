@@ -9,7 +9,9 @@ export default {
   id: 'o1pv7k',
   description:
     'Streamr is a decentralised protocol providing data pipelines, network analytics, and instant messaging.',
+  discord: 'https://discord.com/invite/gZAm8P7hK8',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/streamr-network/',
   duneQueries: null,
   blog: 'https://medium.com/streamrblog',
   github: 'https://github.com/streamr-dev',

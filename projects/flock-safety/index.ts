@@ -9,6 +9,7 @@ export default {
   id: 'kcetq1',
   description:
     'Developer of camera technology designed to capture images to eliminate crime while protecting privacy.',
+  discord: null,
   investors: [
     '26x5nn',
     '7bywo5',
@@ -30,6 +31,7 @@ export default {
     'wdtkj1',
     'hhcvbz',
   ],
+  linkedin: 'https://www.linkedin.com/company/flock-safety/',
   duneQueries: null,
   blog: null,
   github: null,

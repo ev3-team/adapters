@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'minima',
   id: 'w75xgw',
   description: 'Minima: Compact, secure blockchain accessible on mobile & IoT devices.',
+  discord: 'https://discord.com/invite/minima',
   investors: [
     'mzqq7s',
     'ug1ce2',
@@ -24,6 +25,7 @@ export default {
     'tktadr',
     'natuqc',
   ],
+  linkedin: 'http://www.linkedin.com/company/minimaglobal',
   duneQueries: null,
   blog: 'https://www.minima.global/',
   github: 'https://github.com/minima-global',

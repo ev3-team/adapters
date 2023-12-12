@@ -9,7 +9,9 @@ export default {
   id: 'w1b0je',
   description:
     'Efani is a provider of secure mobile services that protect high-risk individuals from mobile hacks.',
+  discord: null,
   investors: ['bqjhhg', 'stpica', 'uzt9g9', '66zxk8', 'o4h84m', 'yixidg', 'xt0vj3'],
+  linkedin: 'https://www.linkedin.com/company/efani/',
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'njhr2m',
   description:
     'ETHforestAI is a Web3 learning platform with an integrated AI chatbot and Learn-To-Earn features.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/@ethforestai',
   github: null,

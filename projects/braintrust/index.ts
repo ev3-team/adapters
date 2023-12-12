@@ -9,7 +9,9 @@ export default {
   id: '8mk3xj',
   description:
     'The Braintrust is a decentralized Web3 talent network linking tech freelancers with top brands worldwide.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/usebraintrust/',
   duneQueries: {
     BURN: '3151399',
     LOCKED_BALANCE: '3168279',

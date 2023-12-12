@@ -9,7 +9,9 @@ export default {
   id: 'nyvs73',
   description:
     'Weaver Labs is developing an open and shared marketplace of connectivity assets, Cell-Stack.',
+  discord: null,
   investors: ['vjpj24'],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'xlbuml',
   description:
     'HyperCycle is building a tiny but essential component that enables AI Machines to transact with other AI machines in a sub-second finality which results in unprecedented emergence',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/railbird/',
   duneQueries: null,
   blog: null,
   github: null,

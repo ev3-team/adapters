@@ -9,7 +9,9 @@ export default {
   id: 'tgalub',
   description:
     'Andrena is a company offering high-speed internet distribution services with a focus on reduced costs.',
+  discord: null,
   investors: ['7zvxz8'],
+  linkedin: 'https://www.linkedin.com/company/andrenainternet/',
   duneQueries: null,
   blog: null,
   github: null,

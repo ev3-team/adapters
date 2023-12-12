@@ -9,7 +9,9 @@ export default {
   id: 'v05a0g',
   description:
     'Shipped is a logistics industry plugin that enables payment for shipping by scanning the barcode on the parcel.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/shipped-com',
   duneQueries: null,
   blog: 'https://shipped.com/blog/',
   github: null,

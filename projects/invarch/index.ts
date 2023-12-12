@@ -9,6 +9,7 @@ export default {
   id: 'm2541n',
   description:
     'InvArch allows organizations & individuals to manage assets & execute transactions across any blockchain using a single non-custodial account. Powered by the network’s breakthrough Saturn Multisig protocol, InvArch Network users can deploy self-sovereign accounts which may be controlled either individually, by multiple parties, or as a digitally-native organization.',
+  discord: 'https://discord.com/invite/invarch',
   investors: [
     'wsbapa',
     'gvqos9',
@@ -29,6 +30,7 @@ export default {
     'o7xcsr',
     '7q5pnm',
   ],
+  linkedin: 'https://www.linkedin.com/company/invarch/',
   duneQueries: null,
   blog: 'https://invarch.medium.com/',
   github: null,

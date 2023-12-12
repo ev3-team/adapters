@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'xmaehz',
   description: 'TEA Project: decentralized cloud computing for serverless apps.',
+  discord: 'https://discord.com/invite/nvtaneQgGb',
   investors: [
     'h2tvqq',
     'y7zqs7',
@@ -21,6 +22,7 @@ export default {
     '3qflb4',
     'pcw959',
   ],
+  linkedin: 'https://www.linkedin.com/company/tea-project/about/',
   duneQueries: null,
   blog: 'https://teaproject.medium.com/',
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'uyclvb',
   description:
     'Botto is a decentralized autonomous artist creating 350 art pieces/week, guided by community voting.',
+  discord: 'https://discord.com/invite/botto',
   investors: ['ubuz3j'],
+  linkedin: 'http://www.linkedin.com/company/bottoproject',
   duneQueries: null,
   blog: 'https://medium.com/@iambotto',
   github: 'https://github.com/bottoproject',

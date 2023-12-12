@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'arbitrum',
   id: 'v0j5p5',
   description: 'Arbitrum: Fast, scalable and cost-efficient Ethereum scaling solution.',
+  discord: 'https://discord.com/invite/arbitrum',
   investors: [
     '0ga0g3',
     '7ygqh2',
@@ -46,6 +47,7 @@ export default {
     'ywa2is',
     'mwx1nm',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/offchainlabs',
   github: null,

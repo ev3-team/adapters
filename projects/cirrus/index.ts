@@ -9,7 +9,9 @@ export default {
   id: '0tn3dg',
   description:
     'Cirrus IPFS is a company providing an IPFS-based storage platform with advanced security and 3x the capacity of g-drive.',
+  discord: null,
   investors: [],
+  linkedin: 'https://in.linkedin.com/company/cirrusipfs',
   duneQueries: null,
   blog: null,
   github: null,

@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'ojaphf',
   description: 'Decentralized, energy-efficient blockmesh with unique consensus.',
+  discord: 'https://discord.com/invite/yVhQ7rC',
   investors: [
     'bspyld',
     'x2iw8r',
@@ -41,6 +42,7 @@ export default {
     'qpv2lq',
     'zmowee',
   ],
+  linkedin: 'http://www.linkedin.com/company/spacemesh',
   duneQueries: null,
   blog: 'https://medium.com/spacemesh',
   github: 'https://github.com/spacemeshos',

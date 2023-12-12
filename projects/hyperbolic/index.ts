@@ -9,7 +9,9 @@ export default {
   id: '8heoo1',
   description:
     'Hyperbolic Labs is a decentralized microservices platform building the web for Web3.',
+  discord: null,
   investors: ['gwix1y', '1im0oz'],
+  linkedin: 'http://www.linkedin.com/company/hyperbolic-labs',
   duneQueries: null,
   blog: null,
   github: null,

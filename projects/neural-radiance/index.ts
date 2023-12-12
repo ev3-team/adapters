@@ -9,7 +9,9 @@ export default {
   id: 'p8tp6s',
   description:
     'Neural Radiance Fields enables users to generate immersive 3D environments and create realistic videos.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/@NeRF_ERC20/nerf-bot-enabling-neural-radiance-fields-for-the-masses-aaa7bb63c4ab',
   github: 'https://github.com/Nerfbotxyz/',

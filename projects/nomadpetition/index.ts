@@ -9,7 +9,9 @@ export default {
   id: 'fy5a0a',
   description:
     'NomadPetition: Global citizens voices turned into actionable insights for governments.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,6 +9,7 @@ export default {
   id: '0k8gq4',
   description:
     'Photon is a decentralized storage protocol for the metaverse, Web3, and cloud storage.',
+  discord: null,
   investors: [
     '1zgufc',
     'h2tvqq',
@@ -20,6 +21,7 @@ export default {
     '3dhuwv',
     'bix4ir',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/@photon.storage',
   github: 'https://github.com/photon-storage',

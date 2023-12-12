@@ -9,7 +9,9 @@ export default {
   id: 'tlwvl7',
   description:
     "Galxe develops a credential infrastructure that all Web3 developers can access. Galxe's credential data network is open to all developers in Web3. This infrastructure addresses the needs of both on-chain and off-chain communities, empowering them to curate and contribute digital credentials to the network. For off-chain credentials, Galxe integrates data sources from many orgs, including Snapshot, Twitter, and GitHub.",
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

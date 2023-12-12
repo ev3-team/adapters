@@ -9,7 +9,9 @@ export default {
   id: 'm5pwg0',
   description:
     'Glow Energy rewards solar panel operators with tokens, encouraging carbon credit creation.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

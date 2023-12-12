@@ -9,6 +9,7 @@ export default {
   id: 'nb0mpn',
   description:
     'STORE is a new layer zero staking protocol at the intersection of cloud computing and WEB3.',
+  discord: null,
   investors: [
     'o5kpgb',
     '9xan1p',
@@ -20,6 +21,7 @@ export default {
     'rnxt65',
     'el8e09',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

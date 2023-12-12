@@ -9,7 +9,9 @@ export default {
   id: 'gle4b5',
   description:
     'Anchor Wallet is a developer of smart contract wallets, specializing in quantum resistance and Lamport signatures.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/pauli-group',
   duneQueries: null,
   blog: null,
   github: null,

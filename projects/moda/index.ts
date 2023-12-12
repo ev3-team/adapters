@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'moda-dao',
   id: 'qwsoln',
   description: 'MODA DAO empowers music industry with NFTs, licensing, and DeFi.',
+  discord: 'https://discord.com/invite/gbm2ZNjGPK',
   investors: [
     'ycxcre',
     '8nclhv',
@@ -31,6 +32,7 @@ export default {
     'bt1i9c',
     'o7xcsr',
   ],
+  linkedin: 'https://www.linkedin.com/company/moda-foundation/',
   duneQueries: null,
   blog: null,
   github: null,

@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'theta-fuel',
   id: 'bsun3b',
   description: 'Theta Fuel is a decentralized video delivery network.',
+  discord: null,
   investors: [
     '2gx4h3',
     '8si3f3',
@@ -48,6 +49,7 @@ export default {
     '6jmeak',
     'xemx4j',
   ],
+  linkedin: 'http://www.linkedin.com/company/theta-labs-inc',
   duneQueries: null,
   blog: 'https://medium.com/theta-network',
   github: 'https://github.com/thetatoken',

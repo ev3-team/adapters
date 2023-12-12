@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: '6qvjpf',
   description: 'SecondLive: a metaverse for avatars, virtual spaces, art exhibitions, and gaming.',
+  discord: 'https://discord.com/invite/secondlive',
   investors: [
     'zloyr1',
     'mrgeec',
@@ -27,6 +28,7 @@ export default {
     'oa0h6s',
     'q6mxh8',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/@SecondLiveReal',
   github: 'https://github.com/SecondLive23',

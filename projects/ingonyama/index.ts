@@ -9,6 +9,7 @@ export default {
   id: 'cv434n',
   description:
     'A next-generation semiconductor company that focus on finding and solving computational bottlenecks in ZKP. ICICLE is an open-source library for ZK acceleration using CUDA-enabled GPUs. It is an essential tool for ZK developers and researchers focused on advancing Zero Knowledge Proofs using GPU.Blaze is a Rust library for ZK acceleration on FPGAs, providing access to primitives like MSM, NTT, and Poseidon hash. It simplifies FPGA integration for high-performance, developer-friendly ZK applications.',
+  discord: 'https://discord.com/invite/qkBVXBpFc4',
   investors: [
     'l18dl4',
     'jo973z',
@@ -25,6 +26,7 @@ export default {
     'jzvvbx',
     'z86cg4',
   ],
+  linkedin: 'https://www.linkedin.com/company/ingonyama/',
   duneQueries: null,
   blog: 'https://medium.com/@ingonyama',
   github: 'https://github.com/ingonyama-zk',

@@ -9,7 +9,9 @@ export default {
   id: 'tylsdp',
   description:
     'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
+  discord: null,
   investors: ['772xwk'],
+  linkedin: 'http://www.linkedin.com/company/lavita-ai',
   duneQueries: null,
   blog: 'https://lavita-ai.medium.com/',
   github: null,

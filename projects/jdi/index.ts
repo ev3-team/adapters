@@ -9,7 +9,9 @@ export default {
   id: 'cjfsd9',
   description:
     'JDI builds hardware and software solutions for the Decentralized Wireless Network and IoT industry.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/jdi-data',
   duneQueries: null,
   blog: 'https://medium.com/@jdi.gwh/about',
   github: null,

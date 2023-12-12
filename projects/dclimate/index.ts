@@ -9,6 +9,7 @@ export default {
   id: 'a5w7th',
   description:
     'dClimate: Decentralized climate data network that standardizes and distributes climate data, forecasts, and models.',
+  discord: 'https://discord.com/invite/bYWVdNDMpe',
   investors: [
     'oi4yuk',
     '2enw83',
@@ -27,6 +28,7 @@ export default {
     'sbxp1t',
     'eseesx',
   ],
+  linkedin: 'https://linkedin.com/company/dclimatenet',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/dClimate',

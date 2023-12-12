@@ -9,7 +9,9 @@ export default {
   id: 'kbkdc9',
   description:
     'Cazk Via enables proofs of inclusion or exclusion without revealing extra information.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: '7z84do',
   description:
     'Koda Koda creates decentralized AI robotic dogs with data stored on IPFS/Filecoin Network.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/kodarobot',
   duneQueries: null,
   blog: null,
   github: null,

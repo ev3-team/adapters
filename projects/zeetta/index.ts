@@ -9,6 +9,7 @@ export default {
   id: '6gz71b',
   description:
     'Zeetta is a network virtualization company specializing in SDN solutions for enterprise and carrier networks.',
+  discord: null,
   investors: [
     'e59pqh',
     'v28p9a',
@@ -21,6 +22,7 @@ export default {
     'kxmrz5',
     'gmweh7',
   ],
+  linkedin: 'https://uk.linkedin.com/company/zeetta',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/zeeta',

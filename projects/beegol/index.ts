@@ -9,7 +9,9 @@ export default {
   id: 'qvuc9n',
   description:
     'Beegol is a machine learning-based platform for monitoring and improving broadband and Wi-Fi customer experience.',
+  discord: null,
   investors: ['q7rgtl', '867w8g', 'dqo8t4', 'etf466', 'qkix5k'],
+  linkedin: 'https://www.linkedin.com/company/beegol/',
   duneQueries: null,
   blog: null,
   github: null,

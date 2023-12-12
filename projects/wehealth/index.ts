@@ -9,7 +9,9 @@ export default {
   id: '80us6v',
   description:
     'WeHealth: Innovative digital solutions for remote patient monitoring and personalized healthcare.',
+  discord: null,
   investors: ['trl8xo'],
+  linkedin: 'https://www.linkedin.com/company/wehealthorg/',
   duneQueries: null,
   blog: null,
   github: null,

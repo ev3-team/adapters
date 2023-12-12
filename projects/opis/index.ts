@@ -9,7 +9,9 @@ export default {
   id: 'jduldq',
   description:
     'Opis Group is a British blockchain tech company focusing on computing, cloud and gaming apps.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/opis-group-ltd/?originalSubdomain=uk',
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,6 +9,7 @@ export default {
   id: '913hpf',
   description:
     'FedML provides an open-source community and an enterprise platform for decentralized and collaborative AI, and a web 3 AI marketplace for everyone to monetize their data, ML models, and AI applications.',
+  discord: 'https://discord.com/invite/9xkW8ae6RV',
   investors: [
     'ibk8eu',
     'vrla7z',
@@ -25,6 +26,7 @@ export default {
     'dpxpnd',
     '5gfs0n',
   ],
+  linkedin: 'https://www.linkedin.com/company/79483881/',
   duneQueries: null,
   blog: 'https://medium.com/@FedML',
   github: 'https://github.com/FedML-AI/FedML',

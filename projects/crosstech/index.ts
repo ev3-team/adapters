@@ -9,7 +9,9 @@ export default {
   id: 'yblr8e',
   description:
     'CROSSTECH develops an autonomous decentralized storage-integrated public blockchain that enables true digital asset issuance.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

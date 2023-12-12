@@ -9,6 +9,7 @@ export default {
   id: 'csbwex',
   description:
     'Provider of cross-chain decentralized finance services intended to serve the iGaming industry. The company creates Web 3.0 smart-backed liquidity that allows iGaming entrepreneurs to bootstrap innovation with the security and transparency of the blockchain, enabling entrepreneurs to fund their bankroll via a network of participants rewarded to provide capital.',
+  discord: null,
   investors: [
     'o5kpgb',
     'xmw0ev',
@@ -23,6 +24,7 @@ export default {
     'p5t7hp',
     '0nsbs7',
   ],
+  linkedin: 'https://www.linkedin.com/company/officialroyale/about/',
   duneQueries: null,
   blog: 'https://officialroyale.medium.com/',
   github: null,

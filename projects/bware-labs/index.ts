@@ -9,6 +9,7 @@ export default {
   id: 'udxaxs',
   description:
     'Bware Labs: Web 3 solution solving latency issues with geographically distributed nodes.',
+  discord: 'https://discord.com/invite/VPkWESgtvV',
   investors: [
     'ilq2gw',
     'b2wxdu',
@@ -44,6 +45,7 @@ export default {
     'o7xcsr',
     '2wn9ev',
   ],
+  linkedin: 'https://bware.page.link/linkedin',
   duneQueries: null,
   blog: 'https://bware.page.link/medium',
   github: 'https://bware.page.link/github',

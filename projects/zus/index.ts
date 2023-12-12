@@ -9,7 +9,9 @@ export default {
   id: 'q97oiz',
   description:
     'Zus is a decentralized storage network with built-in privacy and security compliance.',
+  discord: 'https://discord.com/invite/h3BFjdtCp4',
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/zusnetwork',
   duneQueries: null,
   blog: 'https://medium.com/0chain',
   github: 'https://github.com/0chain',

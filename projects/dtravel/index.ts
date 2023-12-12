@@ -9,6 +9,7 @@ export default {
   id: '37xksc',
   description:
     'DTravel is a decentralized platform for home-sharing economy, ensuring easy and secure short and long-term stays.',
+  discord: 'https://discord.com/invite/dtravel',
   investors: [
     'xmw0ev',
     '772xwk',
@@ -28,6 +29,7 @@ export default {
     'lhs5s8',
     'u2j4by',
   ],
+  linkedin: 'https://www.linkedin.com/company/dtraveldao/',
   duneQueries: null,
   blog: 'https://medium.com/dtravel-community',
   github: 'https://github.com/dTravel',

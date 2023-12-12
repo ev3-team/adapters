@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'metis-token',
   id: '0mfb31',
   description: 'Metis: Scalable platform for Ethereum & infrastructure development',
+  discord: 'https://discord.com/invite/RqfEJZXnxd',
   investors: [
     'z2j0xs',
     '1qu55f',
@@ -56,6 +57,7 @@ export default {
     '935mux',
     '0nsbs7',
   ],
+  linkedin: 'http://www.linkedin.com/company/metis-io',
   duneQueries: null,
   blog: 'https://metisdao.medium.com/',
   github: 'https://github.com/MetisProtocol',

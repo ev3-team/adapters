@@ -9,6 +9,7 @@ export default {
   id: '7u7rag',
   description:
     'Quant is a blockchain project aiming to improve global information communication efficiency.',
+  discord: null,
   investors: [
     '7jssah',
     'c0fb4z',
@@ -21,6 +22,7 @@ export default {
     's2idi6',
     'lmuq6h',
   ],
+  linkedin: 'https://www.linkedin.com/company/quantnetwork/',
   duneQueries: null,
   blog: null,
   github: null,

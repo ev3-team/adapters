@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'rss3',
   id: '1tdy5h',
   description: 'RSS3 is a next-gen feed protocol for decentralized applications.',
+  discord: 'https://discord.com/invite/aGuwzF2hW4',
   investors: [
     'hhudw8',
     '5b00r6',
@@ -43,6 +44,7 @@ export default {
     'oa0h6s',
     'pcw959',
   ],
+  linkedin: 'http://www.linkedin.com/company/rss3',
   duneQueries: null,
   blog: 'https://medium.com/tag/rss3',
   github: 'https://github.com/NaturalSelectionLabs',

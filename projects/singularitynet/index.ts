@@ -9,6 +9,7 @@ export default {
   id: '48m8lh',
   description:
     'SingularityNET enables easy creation, sharing, and monetization of AI services through its global marketplace.',
+  discord: 'https://discord.com/invite/snet',
   investors: [
     'fdepqs',
     's7b833',
@@ -29,6 +30,7 @@ export default {
     'wdtkj1',
     'myul3m',
   ],
+  linkedin: 'http://www.linkedin.com/company/singularitynet',
   duneQueries: null,
   blog: 'https://medium.com/tag/singularitynet',
   github: 'https://github.com/singnet',

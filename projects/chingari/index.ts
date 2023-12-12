@@ -9,6 +9,7 @@ export default {
   id: 'teymg6',
   description:
     'Chingari is a fast-growing Web3 Social Media company in India, combining the features of TikTok and OnlyFans.',
+  discord: null,
   investors: [
     '9cmz24',
     '9h3wro',
@@ -95,6 +96,7 @@ export default {
     'o3c9bd',
     'qqxhld',
   ],
+  linkedin: 'https://www.linkedin.com/company/chingariapp/',
   duneQueries: null,
   blog: 'https://chingariapp.medium.com/',
   github: 'https://github.com/CodeTheChangeUBC/Chingari/projects/2',

@@ -9,6 +9,7 @@ export default {
   id: '2zgyts',
   description:
     'Phala Network is a decentralised off-chain compute infrastructure enabling developers to enhance smart contracts.',
+  discord: 'https://discord.com/invite/phala',
   investors: [
     'x7bb3n',
     'wxcf8r',
@@ -23,6 +24,7 @@ export default {
     'o7xcsr',
     '4yr483',
   ],
+  linkedin: 'https://sg.linkedin.com/company/phala-network',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/Phala-Network',

@@ -9,7 +9,9 @@ export default {
   id: 'tkra00',
   description:
     'Phisheye is a proactive phishing prevention platform for the Web3 ecosystem, using Proof of Protection and NFT badges.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

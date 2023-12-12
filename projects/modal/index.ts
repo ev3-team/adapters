@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'xegpzk',
   description: 'Modal Labs offers Modal, a runtime for data teams.',
+  discord: null,
   investors: [
     'd7e7x7',
     'a1wztr',
@@ -40,6 +41,7 @@ export default {
     'h0yuhw',
     '9ltipb',
   ],
+  linkedin: 'https://www.linkedin.com/company/modal-labs/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/modal-labs',

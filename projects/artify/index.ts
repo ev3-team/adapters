@@ -9,7 +9,9 @@ export default {
   id: '22cfnq',
   description:
     'Artify is a platform for artists to create and sell artwork without any additional costs.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/artifylabs',
   duneQueries: null,
   blog: 'https://medium.com/@artifylabs',
   github: null,

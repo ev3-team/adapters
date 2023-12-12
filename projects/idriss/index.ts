@@ -9,7 +9,9 @@ export default {
   id: '5w1adt',
   description:
     'IDriss is a community-owned and operated suite of tools that makes web3 more usable for everyone.',
+  discord: 'https://discord.gg/RJhJKamjw5',
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

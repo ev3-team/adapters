@@ -9,7 +9,9 @@ export default {
   id: 'z6715d',
   description:
     'Perkable is a decentralized advertising network connecting brands to local live events.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/perkableco',
   duneQueries: null,
   blog: null,
   github: null,

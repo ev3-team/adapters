@@ -9,7 +9,9 @@ export default {
   id: 'e1k2h0',
   description:
     'Finterest is a decentralized borrowing/lending protocol on The Internet Computer built to support native Bitcoin.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/finteresticp',
   duneQueries: null,
   blog: 'https://medium.com/finteresticp',
   github: null,

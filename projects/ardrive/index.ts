@@ -9,6 +9,7 @@ export default {
   id: 'e9qw0z',
   description:
     'ar.io is a network of decentralized gateways and permanent domains for the Arweave ecosystem.',
+  discord: 'https://discord.com/invite/HGG52EtTc2',
   investors: [
     'bspyld',
     'zloyr1',
@@ -32,6 +33,7 @@ export default {
     'cgmkn8',
     'pu3yyr',
   ],
+  linkedin: 'https://www.linkedin.com/showcase/ar-io/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/ar-io',

@@ -9,7 +9,9 @@ export default {
   id: 'xper4k',
   description:
     'Phoenix Global: Blockchain company enabling decentralized AI with AI model compute and federated learning.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/phnxglobal/',
   duneQueries: null,
   blog: 'https://phoenixglobal.medium.com/',
   github: null,

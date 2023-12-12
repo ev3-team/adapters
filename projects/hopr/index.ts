@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'hopr',
   id: 'rdr178',
   description: 'HOPR connects unused internet bandwidth for monetization.',
+  discord: 'https://discord.com/invite/dEAWC4G',
   investors: [
     'yxetck',
     'zloyr1',
@@ -30,6 +31,7 @@ export default {
     'nwl5v7',
     'xemx4j',
   ],
+  linkedin: 'https://www.linkedin.com/company/hoprnet',
   duneQueries: null,
   blog: 'https://medium.com/hoprnet',
   github: 'https://github.com/hoprnet',

@@ -9,6 +9,7 @@ export default {
   id: 'g7dhjc',
   description:
     'SingularityDAO: Decentralized Portfolio Management Protocol for safe and easy crypto asset management.',
+  discord: 'https://discord.com/invite/singularitydao',
   investors: [
     'z2j0xs',
     'o5kpgb',
@@ -28,6 +29,7 @@ export default {
     'tktadr',
     '0nsbs7',
   ],
+  linkedin: 'http://www.linkedin.com/company/singularitydao',
   duneQueries: null,
   blog: 'https://medium.com/singularitydao',
   github: null,

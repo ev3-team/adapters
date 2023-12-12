@@ -9,7 +9,9 @@ export default {
   id: 'z1mpcu',
   description:
     'Kroo: 5G rooftop connectivity infra for real estate owners, harnessing power of 5G.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/kroous',
   duneQueries: null,
   blog: 'https://medium.com/kroo',
   github: 'https://github.com/b-social',

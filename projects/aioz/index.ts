@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'aioz-network',
   id: 'tpqdbi',
   description: 'AIOZ is a decentralized content delivery network.',
+  discord: null,
   investors: [
     'i98114',
     'okjrd0',
@@ -19,6 +20,7 @@ export default {
     'nwl5v7',
     '0nsbs7',
   ],
+  linkedin: 'https://sg.linkedin.com/company/aioz-ai',
   duneQueries: null,
   blog: 'https://medium.com/aioz-network',
   github: null,

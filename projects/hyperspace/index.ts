@@ -9,6 +9,7 @@ export default {
   id: 'oevejl',
   description:
     'Hyperspace is a decentralized prompt engine for making AI better, faster, and cheaper at-scale.',
+  discord: 'https://discord.com/invite/FVVN6HJcdv',
   investors: [
     't2as8g',
     'a9qi3v',
@@ -22,6 +23,7 @@ export default {
     '18r8ir',
     'pp6ut1',
   ],
+  linkedin: 'http://www.linkedin.com/company/hyperspacegl',
   duneQueries: null,
   blog: null,
   github: null,

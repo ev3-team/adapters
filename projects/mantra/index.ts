@@ -9,6 +9,7 @@ export default {
   id: 'jnhaaq',
   description:
     'MANTRA is a first of its kind, vertically-integrated and regulatory compliant blockchain ecosystem. The MANTRA OMniverse encompasses the DAO; MANTRA Nodes: a blockchain infrastructure-as-a-service business that includes retail staking, institutional delegation, node management and white-label validator operations; MANTRA Chain: a protocol for regulated assets for the Cosmos ecosystem; and MANTRA Finance: a globally-regulated DeFi platform that brings the speed and transparency of DeFi to the world of traditional finance.',
+  discord: 'https://discord.com/invite/2r6Sv93wQ3',
   investors: [
     'ycxcre',
     'l6myld',
@@ -28,6 +29,7 @@ export default {
     'o7xcsr',
     '935mux',
   ],
+  linkedin: 'https://www.linkedin.com/company/mantraomniverse/',
   duneQueries: null,
   blog: 'https://mantraomniverse.medium.com/',
   github: null,

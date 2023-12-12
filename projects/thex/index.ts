@@ -9,7 +9,9 @@ export default {
   id: 'zsr4j2',
   description:
     'Next-gen Web3 protocol for seamless transition, adoption, scalability, security, and user-friendliness.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/the-x-protocol/',
   duneQueries: null,
   blog: null,
   github: null,

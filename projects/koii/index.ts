@@ -9,6 +9,7 @@ export default {
   id: 'xfjtib',
   description:
     'Koii is a platform enabling passive income by connecting idle devices to transparent apps and audit systems.',
+  discord: 'https://discord.com/invite/koii',
   investors: [
     'p69jgl',
     'pbunpe',
@@ -28,6 +29,7 @@ export default {
     'lzpnns',
     'o7xcsr',
   ],
+  linkedin: 'http://www.linkedin.com/company/koii-network',
   duneQueries: null,
   blog: 'https://koii-network.medium.com/',
   github: 'https://github.com/koii-network/',

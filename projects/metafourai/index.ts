@@ -9,7 +9,9 @@ export default {
   id: 'wko5kg',
   description:
     'MetafourAI is developing telepathy-enabled apps using EEG signals and language models.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

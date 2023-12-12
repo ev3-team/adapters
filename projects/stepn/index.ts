@@ -9,6 +9,7 @@ export default {
   id: '9ptjw7',
   description:
     'STEPN is a Web3 lifestyle app with inbuilt Game-Fi and Social-Fi elements. Players can make handsome tokens earnt though walking, jogging or running. In the game a player can burn game tokens to level up their sneakers, make more sneakers, upgrade in-game gems, pay for repairs, and pay for online marathon participation. At max level, players can earn governance tokens, which enables the player to determine the distribution of the game’s profit.',
+  discord: 'https://discord.com/invite/stepn',
   investors: [
     'hol96b',
     '7ygqh2',
@@ -37,6 +38,7 @@ export default {
     'xhnczo',
     'urug6u',
   ],
+  linkedin: 'https://www.linkedin.com/company/stepn-by-find-satoshi-lab/',
   duneQueries: null,
   blog: 'https://stepnofficial.medium.com/',
   github: null,

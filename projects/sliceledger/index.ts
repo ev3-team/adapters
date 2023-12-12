@@ -9,7 +9,9 @@ export default {
   id: 'eu6iys',
   description:
     'Sliceledger is a decentralised Ethereum scaling platform empowering developers to build secure and low-fee dapps.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/slice-ledger',
   duneQueries: null,
   blog: null,
   github: null,

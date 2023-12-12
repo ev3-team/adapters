@@ -9,7 +9,9 @@ export default {
   id: '4mztfe',
   description:
     'Sensecap: LoRaWAN IoT hardware for Helium hotspots, building decentralized networks.',
+  discord: 'https://discord.com/invite/sensecap',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/seeedstudio/?viewAsMember=true',
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: 'xkquis',
   description:
     'Jinni is an AI project making AI accessible to all, revolutionizing the global AI landscape.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/jinni/?originalSubdomain=il',
   duneQueries: null,
   blog: 'https://medium.com/@njinn',
   github: 'https://github.com/jinni',

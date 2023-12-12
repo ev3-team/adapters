@@ -9,6 +9,7 @@ export default {
   id: 'x6phis',
   description:
     'At smlXL, we spend much time diving into solc - our latest blog series (3 parts) will cover areas of solc that lack documentation yet are essential (and interesting), here is the first one: "The features and quirks of solc calling conventions"',
+  discord: null,
   investors: [
     'rny435',
     '26x5nn',
@@ -24,6 +25,7 @@ export default {
     'sz5x0j',
     'k8lm1b',
   ],
+  linkedin: 'https://www.linkedin.com/company/smlxl-tech',
   duneQueries: null,
   blog: 'https://blog.smlxl.io/',
   github: 'https://github.com/smlxl',

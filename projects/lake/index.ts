@@ -9,7 +9,9 @@ export default {
   id: 'cpzurk',
   description:
     'Lake: Decentralized storage for DApps and Blockchains, incentivizing users to become Storage Servers.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/lakenetwork',
   duneQueries: null,
   blog: null,
   github: null,

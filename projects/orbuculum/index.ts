@@ -9,7 +9,9 @@ export default {
   id: '7tvays',
   description:
     'Orbuculum is a fully open-source and geopolitically neutral platform (dApp) to monetize and process (Earth Observation) Data & AI models.',
+  discord: null,
   investors: ['rxw3id'],
+  linkedin: 'https://www.linkedin.com/company/dlteo-gmbh',
   duneQueries: null,
   blog: null,
   github: null,

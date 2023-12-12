@@ -9,6 +9,7 @@ export default {
   id: '2e3sf1',
   description:
     'Manta Network is the multi-modular ecosystem for zero-knowledge (ZK) applications. Manta Atlantic, the fastest ZK L1 chain, brings programmable identities and credentials to web3 through zkSBTs. Manta Pacific, the unique L2 ecosystem for EVM-native ZK applications, provides a scalable and inexpensive gas-fee environment for ZK applications to deploy simply using Solidity. Together, Manta Atlantic and Manta Pacific deliver an unparalleled experience for the next generation of web3 application development and adoption with the applied usage of zero-knowledge cryptography.',
+  discord: 'https://discord.com/invite/mantanetwork',
   investors: [
     'b8gebp',
     '7bn5bf',
@@ -47,6 +48,7 @@ export default {
     'pvr738',
     'urug6u',
   ],
+  linkedin: 'https://www.linkedin.com/company/mantanetwork/',
   duneQueries: null,
   blog: 'https://mantanetwork.medium.com/',
   github: 'https://github.com/manta-network',

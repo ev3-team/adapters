@@ -9,7 +9,9 @@ export default {
   id: '34j0w3',
   description:
     'Tontine: retention-focused platform for web3 dApps, using onchain streaks to gamify user engagement.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/tontinetrust/',
   duneQueries: null,
   blog: 'https://tontine.com/blog/',
   github: null,

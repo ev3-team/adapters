@@ -9,7 +9,9 @@ export default {
   id: 'qug1e6',
   description:
     'B-cube.ai: AI platform for clients to create, optimize, and automate customized crypto trading strategies.',
+  discord: null,
   investors: ['ihu5wn'],
+  linkedin: 'https://www.linkedin.com/company/11410299/',
   duneQueries: null,
   blog: 'https://bcubeai.medium.com/',
   github: 'https://github.com/b-cube-ai',

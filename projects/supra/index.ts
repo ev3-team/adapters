@@ -9,6 +9,7 @@ export default {
   id: '2d4mvd',
   description:
     'SupraOracles is a decentralized oracle network that allows smart contracts to access off-chain data in a secure and reliable way.',
+  discord: 'https://discord.com/invite/supraoracles',
   investors: [
     '7bn5bf',
     'ug1ce2',
@@ -52,6 +53,7 @@ export default {
     'e0wtte',
     'dovucn',
   ],
+  linkedin: 'https://www.linkedin.com/company/supraoracles/',
   duneQueries: null,
   blog: 'https://medium.com/@SupraOracles',
   github: null,

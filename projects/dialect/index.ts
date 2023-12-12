@@ -9,6 +9,7 @@ export default {
   id: '0c8gl1',
   description:
     'Dialect is developing a protocol for smart messaging. It offers  dynamic, composable dapp notifications and wallet-to-wallet chat. Powered by Solana.',
+  discord: 'https://discord.com/invite/dialect',
   investors: [
     'lxr6fp',
     'r98x19',
@@ -23,6 +24,7 @@ export default {
     'nlvx3r',
     'wdtkj1',
   ],
+  linkedin: 'https://www.linkedin.com/company/dialect-labs/about/',
   duneQueries: null,
   blog: 'https://medium.com/dialect-labs',
   github: null,

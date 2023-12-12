@@ -9,7 +9,9 @@ export default {
   id: 'ztd8go',
   description:
     'Apus is a decentralized AI bot creator network that simplifies AI model design using blockchain.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/apus-network',
   duneQueries: null,
   blog: 'https://medium.com/@apusnetwork',
   github: 'https://github.com/apuslabs',

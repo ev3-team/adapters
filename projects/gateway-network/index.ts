@@ -9,6 +9,7 @@ export default {
   id: 'wwio88',
   description:
     'Gateway is a decentralized protocol for creating, consuming, and displaying verifiable credentials to serve as a basis for an interconnected web and portable reputation. Applications and individuals using Gateway can natively issue custom credentials based on whatever parameters they decide - whether it be on their application, off-chain from sources like Twitter, or even based on on-chain conditions. Others can then consume this information to build more custom credentials, scoring models, or access points.',
+  discord: 'https://discord.com/invite/tgt3KjcHGs',
   investors: [
     'hol96b',
     'ah8pl4',
@@ -26,6 +27,7 @@ export default {
     'oj41s7',
     'xt0vj3',
   ],
+  linkedin: 'https://www.linkedin.com/company/mygateway/',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/Gateway-DAO',

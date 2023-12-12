@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'lgm1f3',
   description: 'Astria Developer: Decentralization platform replacing centralized sequencers.',
+  discord: null,
   investors: [
     'bspyld',
     'fahk60',
@@ -23,6 +24,7 @@ export default {
     'eyy236',
     'q48ben',
   ],
+  linkedin: 'http://www.linkedin.com/company/astria-labs',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/astriaorg',

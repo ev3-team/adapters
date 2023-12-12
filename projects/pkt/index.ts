@@ -9,7 +9,9 @@ export default {
   id: 'v0g1yx',
   description:
     'PKT Pal enables businesses to offer free internet, collect customer data, and earn revenue through captive portals.',
+  discord: null,
   investors: [],
+  linkedin: 'http://www.linkedin.com/company/routie',
   duneQueries: null,
   blog: null,
   github: null,

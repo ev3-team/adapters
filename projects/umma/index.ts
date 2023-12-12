@@ -9,7 +9,9 @@ export default {
   id: '6rwsbm',
   description:
     'At Umma, we believe that the traditional debt-based financial system is perverse, unjust, and socially destructive. Our mission is to democratize access to fair, transparent, and sustainable interest-free financial products for people across the globe. We are building a values-aligned community organized around the shared mission of creating an interest-free network state.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/umma-finance',
   duneQueries: null,
   blog: 'https://medium.com/ummah-finance',
   github: 'https://ummafinance.substack.com/',

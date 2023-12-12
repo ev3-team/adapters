@@ -8,6 +8,7 @@ export default {
   coingeckoId: 'dotmoovs',
   id: 'lipfwr',
   description: 'Dotmoovs uses AI scoring & monetization through $MOOVs investment.',
+  discord: null,
   investors: [
     'bp637k',
     'xmw0ev',
@@ -21,6 +22,7 @@ export default {
     'h9g1s5',
     'pyukl2',
   ],
+  linkedin: 'http://www.linkedin.com/company/dotmoovs',
   duneQueries: null,
   blog: 'https://dotmoovs.medium.com/',
   github: 'https://github.com/dotmoovs',

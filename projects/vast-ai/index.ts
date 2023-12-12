@@ -9,7 +9,9 @@ export default {
   id: '2o9o23',
   description:
     'Vast.ai is a GPU rental marketplace enabling users to rent their own GPU or rent GPUs from others.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/vast-ai',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/vast-ai',

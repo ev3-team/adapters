@@ -9,7 +9,9 @@ export default {
   id: 'uuhuxv',
   description:
     'Dupe Fi is a platform that provides tokenization infrastructure for web2 gaming assets, starting with CSGO.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,6 +9,7 @@ export default {
   id: 'kzaj07',
   description:
     'SubQuery is a decentralized data aggregation and querying layer for Layer-1 blockchains and dApps.',
+  discord: 'https://discord.com/invite/78zg8aBSMG?ref=blog.subquery.network',
   investors: [
     'pdp1mt',
     '7ygqh2',
@@ -75,6 +76,7 @@ export default {
     't44ifr',
     'e0wtte',
   ],
+  linkedin: 'http://www.linkedin.com/company/subquery',
   duneQueries: null,
   blog: 'https://medium.com/@subquery',
   github: 'https://github.com/OnFinality-io/subql',

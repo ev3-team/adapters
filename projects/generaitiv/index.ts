@@ -9,7 +9,9 @@ export default {
   id: 't6ee2u',
   description:
     'Generaitiv: community-driven AI appstore empowering contributors with scalable approaches.',
+  discord: 'https://discord.com/invite/9CdNGvUFKu',
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: 'https://medium.com/@generaitivai',
   github: null,

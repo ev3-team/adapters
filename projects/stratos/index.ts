@@ -9,7 +9,9 @@ export default {
   id: '4jq13p',
   description:
     'Stratos is a decentralized computing network for efficient and secure data processing.',
+  discord: 'https://discord.com/invite/tpQGpC2nMh',
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/stratos-network',
   duneQueries: null,
   blog: 'https://stratos-network.medium.com/',
   github: 'https://github.com/stratosnet',

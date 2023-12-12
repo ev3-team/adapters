@@ -9,6 +9,7 @@ export default {
   id: '4xwmst',
   description:
     'Audius is a decentralized, community-owned and artist-controlled music-sharing protocol. Audius provides a blockchain-based alternative to existing streaming platforms to help artists publish and monetize their work and distribute it directly to fans. It allows users to upload, share & listen while earning $AUDIO Token Rewards.',
+  discord: 'https://discord.com/invite/audius',
   investors: [
     'buime9',
     'weiz7n',
@@ -46,6 +47,7 @@ export default {
     'dcqdyn',
     'ixxo16',
   ],
+  linkedin: 'https://www.linkedin.com/company/audius-project/',
   duneQueries: null,
   blog: 'https://blog.audius.co/',
   github: null,

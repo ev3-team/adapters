@@ -8,6 +8,7 @@ export default {
   coingeckoId: null,
   id: 'ul9uzl',
   description: 'Fluence - decentralized platform for creating peer-to-peer apps.',
+  discord: 'https://discord.com/invite/5qSnPZKh7u',
   investors: [
     'bspyld',
     '2q8xba',
@@ -24,6 +25,7 @@ export default {
     'rotj2h',
     'bix4ir',
   ],
+  linkedin: 'http://www.linkedin.com/company/fluence-labs',
   duneQueries: null,
   blog: 'https://medium.com/fluence-network',
   github: 'https://github.com/fluencelabs',

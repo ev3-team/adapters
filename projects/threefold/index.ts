@@ -9,7 +9,9 @@ export default {
   id: '7exuma',
   description:
     'ThreeFold is a globally-distributed grid offering storage, compute, and network capacity.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/threefold-foundation',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/threefoldfoundation',

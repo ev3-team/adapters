@@ -9,7 +9,9 @@ export default {
   id: 'prko1c',
   description:
     'CosmosAI is a global network creating and sharing computational resources for worldwide utilization.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/in/cosmos-ai-78057620b/',
   duneQueries: null,
   blog: null,
   github: null,

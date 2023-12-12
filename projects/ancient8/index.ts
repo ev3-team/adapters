@@ -9,6 +9,7 @@ export default {
   id: 'xjogkp',
   description:
     'Ancient8 is building a DAO that develops a community and software platform to enable everyone to play and build the Metaverse while earning rewards. Ancient8’s vision is to democratize social and financial access in the Metaverse, and is on a mission to reach, educate, and empower the next 100 million Metaverse citizens through the blockchain.',
+  discord: 'https://discord.com/invite/ancient8',
   investors: [
     'pt62tc',
     'hol96b',
@@ -52,6 +53,7 @@ export default {
     '4n29wi',
     '4pj3dm',
   ],
+  linkedin: 'https://www.linkedin.com/company/ancient8/about/',
   duneQueries: null,
   blog: 'https://blog.ancient8.gg/',
   github: null,

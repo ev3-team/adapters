@@ -9,6 +9,7 @@ export default {
   id: '6y7ind',
   description:
     'D3 is a next-generation domains company building interoperable web2<>web3 domain names.',
+  discord: null,
   investors: [
     '7job29',
     'h97beq',
@@ -22,6 +23,7 @@ export default {
     'lhs5s8',
     'wzua9l',
   ],
+  linkedin: null,
   duneQueries: null,
   blog: 'http://www.linkedin.com/company/d3inc',
   github: null,

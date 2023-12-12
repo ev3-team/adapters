@@ -9,7 +9,9 @@ export default {
   id: 'gt1ww4',
   description:
     'Mintstars is a subscription-based NFT platform empowering creators to control their content and earnings.',
+  discord: 'https://discord.com/invite/WM2rYuGsGR',
   investors: ['7zvxz8', '8agdnp', 'ju3e71'],
+  linkedin: 'http://www.linkedin.com/company/mintstars',
   duneQueries: null,
   blog: null,
   github: null,

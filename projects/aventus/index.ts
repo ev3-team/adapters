@@ -9,7 +9,9 @@ export default {
   id: '6u1zhk',
   description:
     'Aventus enables scalable, interoperable, and carbon-neutral solutions for companies.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/aventus',
   duneQueries: null,
   blog: 'https://medium.com/aventus',
   github: 'https://github.com/Aventus',

@@ -9,7 +9,9 @@ export default {
   id: 'mcke93',
   description:
     'Heata is a green compute network that uses wasted heat from computers to warm water for homes.',
+  discord: null,
   investors: ['ac14rq', 'g1hgzb', '5e17r6', 'udus4e'],
+  linkedin: 'https://www.linkedin.com/company/heatacompute/',
   duneQueries: null,
   blog: 'https://medium.com/@heata_cloud_compute',
   github: null,

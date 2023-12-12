@@ -9,7 +9,9 @@ export default {
   id: '2gzcyz',
   description:
     'Verisoul: A decentralized platform for trusted Web3 businesses, ensuring privacy and trust.',
+  discord: null,
   investors: ['vmqmcr', 'y69z86', 'nxzb7m', 'ztth3k', '5iut57', '566vlr', 'vub62z'],
+  linkedin: 'http://www.linkedin.com/company/verisoul-stops-fake-users',
   duneQueries: null,
   blog: null,
   github: 'https://github.com/verisoul',

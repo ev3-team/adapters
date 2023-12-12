@@ -9,7 +9,9 @@ export default {
   id: 'ae9xhv',
   description:
     'Canvas is a peer-to-peer architecture and developer platform for decentralized applications.',
+  discord: null,
   investors: [],
+  linkedin: 'https://linkedin.com/company/canvas-technology-corporation',
   duneQueries: null,
   blog: null,
   github: null,

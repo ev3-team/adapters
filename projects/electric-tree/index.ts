@@ -9,7 +9,9 @@ export default {
   id: 'xhfj9r',
   description:
     'Electric Tree is a decentralized climate finance platform built to bridge the climate financing gap for carbon removal.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

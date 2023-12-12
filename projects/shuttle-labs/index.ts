@@ -9,7 +9,9 @@ export default {
   id: 'aoo9gh',
   description:
     'Shuttle Labs: AI-powered platform that transforms blockchains into accessible sources for analytics and automation.',
+  discord: null,
   investors: [],
+  linkedin: 'https://www.linkedin.com/company/shuttleinc/',
   duneQueries: null,
   blog: null,
   github: null,

@@ -9,7 +9,9 @@ export default {
   id: '3uhgt0',
   description:
     'Colosseum is a fully on-chain fighting game company that facilitates bot battles and viewer betting.',
+  discord: null,
   investors: [],
+  linkedin: null,
   duneQueries: null,
   blog: null,
   github: null,

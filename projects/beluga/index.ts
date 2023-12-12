@@ -9,6 +9,7 @@ export default {
   id: 'c9xfts',
   description:
     'Beluga is a trusted crypto platform that onboards and guides new users through their crypto journey.',
+  discord: null,
   investors: [
     'wb49st',
     's212gm',
@@ -34,6 +35,7 @@ export default {
     'a4ifju',
     '5lxjr4',
   ],
+  linkedin: 'http://www.linkedin.com/company/heybeluga',
   duneQueries: null,
   blog: null,
   github: null,
