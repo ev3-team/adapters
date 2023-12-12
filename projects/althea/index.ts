@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Althea',
+  subcategories: null,
   chain: 'GNOSIS',
   category: 'WIRELESS',
   token: null,

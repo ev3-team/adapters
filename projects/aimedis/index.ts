@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aimedis',
+  subcategories: 'Health & Fitness',
   chain: 'POLYGON',
   category: 'AI',
   token: 'AIMX',

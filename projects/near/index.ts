@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NEAR',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'NEAR',

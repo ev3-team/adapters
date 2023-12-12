@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CryptoAI',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'CAI',

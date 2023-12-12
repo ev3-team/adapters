@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ankr',
+  subcategories: 'RPC/Indexing',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'ANKR',

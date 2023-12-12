@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ELOOP',
+  subcategories: 'Ridesharing',
   chain: null,
   category: 'OTHER',
   token: null,

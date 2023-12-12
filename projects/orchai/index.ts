@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Orchai',
+  subcategories: 'DeFi',
   chain: null,
   category: 'AI',
   token: null,

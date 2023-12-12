@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tromero',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: 'not yet',

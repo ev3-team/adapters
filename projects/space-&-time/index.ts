@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Space & Time',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EMC Protocol',
+  subcategories: null,
   chain: 'ARBITRUM',
   category: 'COMPUTE',
   token: 'EMC',

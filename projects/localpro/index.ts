@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LocalPro',
+  subcategories: 'Rewards',
   chain: null,
   category: 'OTHER',
   token: null,

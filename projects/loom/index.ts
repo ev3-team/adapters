@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Loom',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'LOOM',

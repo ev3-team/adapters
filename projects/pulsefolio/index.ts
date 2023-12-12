@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PulseFolio',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
   token: 'PULSE',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Piphi',
+  subcategories: 'Environmental, Data',
   chain: null,
   category: 'SENSORS',
   token: null,

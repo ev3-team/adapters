@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kunji',
+  subcategories: 'DeFi',
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'KNJ',

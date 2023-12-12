@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Logion',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: 'LGNT',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nosana',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'NOS',

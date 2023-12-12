@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hyperaware',
+  subcategories: 'IoT',
   chain: null,
   category: 'SENSORS',
   token: null,

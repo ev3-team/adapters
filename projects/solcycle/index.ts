@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SolCycle',
+  subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Graviton',
+  subcategories: null,
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'GRAV',

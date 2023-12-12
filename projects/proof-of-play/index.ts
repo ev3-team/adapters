@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Proof of Play',
+  subcategories: null,
   chain: null,
   category: 'OTHER',
   token: null,

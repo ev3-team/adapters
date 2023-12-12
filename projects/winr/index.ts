@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WINR',
+  subcategories: 'Gaming',
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'WINR',

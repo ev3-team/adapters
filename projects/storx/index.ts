@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StorX',
+  subcategories: 'Storage',
   chain: 'XDC',
   category: 'COMPUTE',
   token: 'SRX',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SmartPoint',
+  subcategories: null,
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,

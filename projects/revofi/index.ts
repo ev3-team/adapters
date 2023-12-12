@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RevoFi',
+  subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: null,

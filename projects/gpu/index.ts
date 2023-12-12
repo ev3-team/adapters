@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GPU',
+  subcategories: 'GPUs',
   chain: null,
   category: 'COMPUTE',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fanztar',
+  subcategories: 'Software',
   chain: null,
   category: 'AI',
   token: null,

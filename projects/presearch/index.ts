@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Presearch',
+  subcategories: 'Rewards',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PRE',

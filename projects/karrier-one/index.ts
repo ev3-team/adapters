@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Karrier One',
+  subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
   token: null,

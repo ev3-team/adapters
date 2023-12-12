@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hypersign',
+  subcategories: 'ZK',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HID',

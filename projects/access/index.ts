@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Access',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'ACS',

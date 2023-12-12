@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Spexigon',
+  subcategories: 'Drones',
   chain: null,
   category: 'SENSORS',
   token: null,

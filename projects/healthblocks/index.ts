@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Healthblocks',
+  subcategories: 'Health & Fitness',
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Morpheus.Network',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'MNW',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Stamp',
+  subcategories: 'Agents',
   chain: null,
   category: 'AI',
   token: null,

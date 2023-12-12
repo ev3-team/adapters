@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Frodobots',
+  subcategories: 'Robotics',
   chain: null,
   category: 'AI',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Brastorne',
+  subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: null,

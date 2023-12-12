@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'QRL',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'QRL',

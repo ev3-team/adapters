@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MurAll',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAINT',

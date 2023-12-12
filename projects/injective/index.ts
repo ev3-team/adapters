@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Injective',
+  subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'INJ',

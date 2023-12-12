@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bittensor',
+  subcategories: 'Inferencing',
   chain: 'NATIVE',
   category: 'AI',
   token: 'TAO',

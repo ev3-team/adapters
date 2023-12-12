@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Orbofi AI',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OBI',

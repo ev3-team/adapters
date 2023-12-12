@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Golem',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'GLM',

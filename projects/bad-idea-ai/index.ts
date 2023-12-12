@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bad Idea AI',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BAD',

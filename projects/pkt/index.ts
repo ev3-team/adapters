@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PKT',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'PKT',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vega',
+  subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'VEGA',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'VC Spectra',
+  subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

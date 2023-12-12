@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pacific NW Rural Broadband',
+  subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: null,

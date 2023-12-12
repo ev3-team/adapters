@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Quadency',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'QUAD',

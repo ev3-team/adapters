@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Chia',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: 'XCH',

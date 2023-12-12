@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ruff',
+  subcategories: 'IoT',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'RUFF',

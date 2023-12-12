@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FluxBeam',
+  subcategories: 'Telegram',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

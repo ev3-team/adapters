@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Skey',
+  subcategories: 'DeFi, IoT',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SKEY',

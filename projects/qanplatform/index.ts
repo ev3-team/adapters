@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'QANplatform',
+  subcategories: 'L1/L2, Quantum',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'QANX',

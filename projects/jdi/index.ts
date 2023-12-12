@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'JDI',
+  subcategories: 'Hardware',
   chain: null,
   category: 'OTHER',
   token: null,

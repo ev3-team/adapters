@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Energy Web',
+  subcategories: null,
   chain: 'GNOSIS',
   category: 'ENERGY',
   token: 'EWT',

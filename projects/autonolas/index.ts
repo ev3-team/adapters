@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autonolas',
+  subcategories: 'Agents',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OLAS',

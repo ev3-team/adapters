@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Minima',
+  subcategories: 'Mobile, IoT',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'MINIMA',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Massa',
+  subcategories: null,
   chain: null,
   category: 'OTHER',
   token: 'MASSA',

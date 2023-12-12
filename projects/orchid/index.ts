@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Orchid',
+  subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'OXT',

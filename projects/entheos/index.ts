@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Entheos',
+  subcategories: 'Batteries',
   chain: null,
   category: 'ENERGY',
   token: null,

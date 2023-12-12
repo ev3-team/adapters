@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GenesysGo',
+  subcategories: 'Storage',
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'SHDW',

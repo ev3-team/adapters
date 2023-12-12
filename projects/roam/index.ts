@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Roam',
+  subcategories: 'Mobile',
   chain: null,
   category: 'WIRELESS',
   token: null,

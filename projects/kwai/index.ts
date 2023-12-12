@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KWAI',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
   token: 'KWAI',

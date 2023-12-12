@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeDataNation',
+  subcategories: 'Advertising, Data',
   chain: null,
   category: 'OTHER',
   token: null,

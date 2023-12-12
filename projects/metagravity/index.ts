@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaGravity',
+  subcategories: 'Gaming',
   chain: null,
   category: 'COMPUTE',
   token: null,

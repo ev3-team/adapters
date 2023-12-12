@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pi',
+  subcategories: 'Mining, Mobile',
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PI',

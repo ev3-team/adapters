@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EZKL',
+  subcategories: 'ZK',
   chain: null,
   category: 'AI',
   token: null,

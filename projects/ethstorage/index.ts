@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ethstorage',
+  subcategories: 'L1/L2',
   chain: null,
   category: 'COMPUTE',
   token: null,

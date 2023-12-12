@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IOTA',
+  subcategories: 'IoT',
   chain: 'NATIVE',
   category: 'OTHER',
   token: 'IOTA',

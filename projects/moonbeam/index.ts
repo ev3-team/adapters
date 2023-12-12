@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Moonbeam',
+  subcategories: null,
   chain: 'POLKADOT',
   category: 'OTHER',
   token: 'GLMR',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blackbird',
+  subcategories: null,
   chain: 'POLYGON',
   category: 'OTHER',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Genomes.io',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'GENE',

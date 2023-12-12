@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ETHforestAI',
+  subcategories: null,
   chain: 'ARBITRUM',
   category: 'AI',
   token: 'ETHFAI',

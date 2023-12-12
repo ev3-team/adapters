@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DTravel',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'TRVL',

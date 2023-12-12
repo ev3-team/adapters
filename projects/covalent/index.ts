@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Covalent',
+  subcategories: 'RPC/Indexing',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'CQT',

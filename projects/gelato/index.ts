@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gelato',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'GEL',

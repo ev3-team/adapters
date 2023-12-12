@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Humanode',
+  subcategories: null,
   chain: null,
   category: 'OTHER',
   token: 'HMND',

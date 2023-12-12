@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Heylana',
+  subcategories: 'ML',
   chain: null,
   category: 'SENSORS',
   token: null,

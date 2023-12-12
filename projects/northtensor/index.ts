@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NorthTensor',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: null,

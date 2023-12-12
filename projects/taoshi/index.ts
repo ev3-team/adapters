@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Taoshi',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: null,

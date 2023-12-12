@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AIRO',
+  subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',
   token: null,

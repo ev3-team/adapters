@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sentinel',
+  subcategories: 'VPN',
   chain: 'COSMOS',
   category: 'COMPUTE',
   token: 'DVPN',

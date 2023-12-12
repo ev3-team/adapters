@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'VulaCoin',
+  subcategories: 'Wallet',
   chain: null,
   category: 'WIRELESS',
   token: null,

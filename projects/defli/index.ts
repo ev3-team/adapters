@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeFli',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,

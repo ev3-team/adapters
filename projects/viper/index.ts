@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Viper',
+  subcategories: 'RPC/Indexing',
   chain: null,
   category: 'OTHER',
   token: null,

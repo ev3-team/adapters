@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Black Rabbit',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BRAIN',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'B-cube.ai',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BCUBE',

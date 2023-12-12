@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MedeLeite',
+  subcategories: 'Software',
   chain: null,
   category: 'OTHER',
   token: null,

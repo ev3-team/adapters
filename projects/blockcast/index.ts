@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockcast',
+  subcategories: 'CDN',
   chain: null,
   category: 'COMPUTE',
   token: null,

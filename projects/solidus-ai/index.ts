@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Solidus AI',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'COMPUTE',
   token: 'AITECH',

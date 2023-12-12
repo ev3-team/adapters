@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flow',
+  subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
   token: 'FLOW',

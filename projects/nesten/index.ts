@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nesten',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'NIT',

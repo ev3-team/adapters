@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ReapChain',
+  subcategories: 'IoT',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'REAP',

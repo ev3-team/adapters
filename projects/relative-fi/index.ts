@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Relative.FI',
+  subcategories: 'Social',
   chain: null,
   category: 'AI',
   token: null,

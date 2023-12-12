@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'cheqd',
+  subcategories: 'Data',
   chain: 'COSMOS',
   category: 'OTHER',
   token: 'CHEQ',

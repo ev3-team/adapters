@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Perkable',
+  subcategories: 'Rewards',
   chain: 'IOTEX',
   category: 'OTHER',
   token: null,

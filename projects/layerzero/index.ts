@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LayerZero',
+  subcategories: 'Mining',
   chain: null,
   category: 'OTHER',
   token: null,

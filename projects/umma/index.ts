@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Umma',
+  subcategories: 'RWA',
   chain: 'POLYGON',
   category: 'NOT_DEPIN',
   token: 'UMMA',

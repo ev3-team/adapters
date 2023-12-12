@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MXC',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'MXC',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kaspa',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'KAS',

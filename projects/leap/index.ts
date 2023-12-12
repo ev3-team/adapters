@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Leap',
+  subcategories: null,
   chain: null,
   category: 'ENERGY',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hubble Protocol',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'OTHER',
   token: 'USDH',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mobilian',
+  subcategories: 'Auto',
   chain: null,
   category: 'AI',
   token: null,

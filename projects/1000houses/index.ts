@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '1000Houses',
+  subcategories: 'RWA',
   chain: null,
   category: 'OTHER',
   token: null,

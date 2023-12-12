@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Thala',
+  subcategories: null,
   chain: 'APTOS',
   category: 'NOT_DEPIN',
   token: 'THL',

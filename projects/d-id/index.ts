@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'd.id',
+  subcategories: 'Identity',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

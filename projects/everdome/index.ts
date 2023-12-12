@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Everdome',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'DOME',

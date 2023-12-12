@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockless',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: 'BLS',

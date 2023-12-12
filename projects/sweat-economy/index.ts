@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sweat Economy',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'SWEAT',

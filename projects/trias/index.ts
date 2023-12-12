@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Trias',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TRIAS',

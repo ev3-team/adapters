@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'UltronGlow',
+  subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: null,

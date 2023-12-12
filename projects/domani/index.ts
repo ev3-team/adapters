@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Domani',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DEXTF',

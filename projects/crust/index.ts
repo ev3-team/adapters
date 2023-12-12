@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Crust',
+  subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CRU',

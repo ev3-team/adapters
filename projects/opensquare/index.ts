@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Opensquare',
+  subcategories: null,
   chain: 'POLKADOT',
   category: 'COMPUTE',
   token: 'OSN',

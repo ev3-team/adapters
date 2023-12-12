@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koda',
+  subcategories: 'Robotics',
   chain: null,
   category: 'COMPUTE',
   token: null,

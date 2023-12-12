@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cortex Labs',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
   token: 'CTXC',

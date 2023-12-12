@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeitgeist',
+  subcategories: 'Prediction Market',
   chain: 'POLKADOT',
   category: 'NOT_DEPIN',
   token: 'ZTG',

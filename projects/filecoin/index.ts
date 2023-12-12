@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Filecoin',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: 'FIL',

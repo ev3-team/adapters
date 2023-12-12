@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Data Union',
+  subcategories: 'Data',
   chain: null,
   category: 'OTHER',
   token: null,

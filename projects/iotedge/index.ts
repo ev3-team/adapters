@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTEdge',
+  subcategories: 'IoT',
   chain: null,
   category: 'COMPUTE',
   token: null,

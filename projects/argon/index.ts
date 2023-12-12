@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Argon',
+  subcategories: 'Gov',
   chain: null,
   category: 'OTHER',
   token: null,

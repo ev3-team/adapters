@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AYDO',
+  subcategories: 'Smart Home',
   chain: null,
   category: 'SENSORS',
   token: null,

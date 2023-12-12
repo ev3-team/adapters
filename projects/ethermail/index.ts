@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EtherMail',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'EMT',

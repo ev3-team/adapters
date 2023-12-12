@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OriginTrail',
+  subcategories: 'Mobile',
   chain: 'POLKADOT',
   category: 'AI',
   token: 'TRAC',

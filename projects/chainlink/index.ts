@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Chainlink',
+  subcategories: 'Oracle',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'LINK',

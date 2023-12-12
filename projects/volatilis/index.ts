@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Volatilis',
+  subcategories: 'DeFi',
   chain: null,
   category: 'OTHER',
   token: null,

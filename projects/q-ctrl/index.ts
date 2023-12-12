@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'q-ctrl',
+  subcategories: 'Quantum',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

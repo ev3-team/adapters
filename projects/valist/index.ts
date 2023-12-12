@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Valist',
+  subcategories: 'Gaming',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

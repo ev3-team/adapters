@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'World Mobile',
+  subcategories: 'Mobile',
   chain: 'CARDANO',
   category: 'WIRELESS',
   token: 'WMT',

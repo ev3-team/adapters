@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FX Land',
+  subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
   token: null,

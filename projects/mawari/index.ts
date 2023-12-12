@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mawari',
+  subcategories: 'CDN',
   chain: null,
   category: 'COMPUTE',
   token: null,

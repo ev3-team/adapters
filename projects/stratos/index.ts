@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Stratos',
+  subcategories: 'Data',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'STOS',

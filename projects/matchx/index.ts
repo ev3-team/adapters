@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MatchX',
+  subcategories: 'IoT, Hardware, Software',
   chain: null,
   category: 'WIRELESS',
   token: null,

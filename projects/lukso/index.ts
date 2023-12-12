@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LUKSO',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'LYX',

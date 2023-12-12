@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Push',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'PUSH',

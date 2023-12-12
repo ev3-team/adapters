@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KIZZY',
+  subcategories: 'Prediction Market',
   chain: null,
   category: 'OTHER',
   token: null,

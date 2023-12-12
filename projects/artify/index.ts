@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Artify',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AFY',

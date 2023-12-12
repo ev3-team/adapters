@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'The Recharge',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'RCG',

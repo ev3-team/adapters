@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Session',
+  subcategories: null,
   chain: null,
   category: 'OTHER',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Agritoken',
+  subcategories: 'RWA',
   chain: null,
   category: 'OTHER',
   token: null,

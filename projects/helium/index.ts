@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Helium',
+  subcategories: 'Mobile',
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'HNT',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Swarm',
+  subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'BZZ',

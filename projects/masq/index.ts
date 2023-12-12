@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MASQ',
+  subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'MASQ',

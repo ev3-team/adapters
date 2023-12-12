@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Streamr',
+  subcategories: 'Data',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'DATA',

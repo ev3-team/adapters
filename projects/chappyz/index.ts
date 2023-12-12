@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Chappyz',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'CHAPZ',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pollen Mobile',
+  subcategories: 'Private Wireless',
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Wiman',
+  subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: null,

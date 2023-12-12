@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Iagon',
+  subcategories: 'IoT',
   chain: 'CARDANO',
   category: 'OTHER',
   token: 'IAG',

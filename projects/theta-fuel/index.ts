@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Theta Fuel',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'TFUEL',

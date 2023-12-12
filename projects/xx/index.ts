@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XX',
+  subcategories: 'L1/L2, Quantum',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'XX',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'B-Datagray',
+  subcategories: 'GPUs',
   chain: null,
   category: 'COMPUTE',
   token: null,

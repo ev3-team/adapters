@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gpu.audio',
+  subcategories: 'GPUs',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

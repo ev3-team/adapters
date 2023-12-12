@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'JobChain',
+  subcategories: 'Labor',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'JOB',

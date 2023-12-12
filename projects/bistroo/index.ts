@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bistroo',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'BIST',

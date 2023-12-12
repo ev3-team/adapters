@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BBS',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BBS',

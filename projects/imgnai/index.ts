@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IMGNAI',
+  subcategories: 'ML',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'IMGNAI',

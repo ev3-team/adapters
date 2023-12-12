@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Meson',
+  subcategories: 'CDN',
   chain: null,
   category: 'COMPUTE',
   token: null,

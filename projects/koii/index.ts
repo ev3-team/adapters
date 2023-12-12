@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koii',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'OTHER',
   token: null,

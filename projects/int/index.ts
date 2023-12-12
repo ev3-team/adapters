@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'INT',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'SENSORS',
   token: 'INT',

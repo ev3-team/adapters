@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SQE.io',
+  subcategories: 'L1/L2, Quantum',
   chain: null,
   category: 'OTHER',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Geodnet',
+  subcategories: 'Positioning',
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'GEOD',

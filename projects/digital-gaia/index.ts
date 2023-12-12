@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Digital Gaia',
+  subcategories: 'Environmental, Data, Rewards',
   chain: null,
   category: 'OTHER',
   token: null,

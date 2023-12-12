@@ -52,6 +52,7 @@ export type AdapterProject = {
   investors: string[]
   linkedin: string | null
   name: string
+  subcategories: string | null
   telegram: string | null
   token: string | null
   twitter: string | null

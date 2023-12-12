@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Battle Infinity',
+  subcategories: 'Gaming',
   chain: 'BINANCE',
   category: 'OTHER',
   token: 'IBAT',

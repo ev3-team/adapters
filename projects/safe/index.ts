@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SAFE',
+  subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'SAFE',

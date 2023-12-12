@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OctaSpace',
+  subcategories: 'Storage, VPN',
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'OCTA',

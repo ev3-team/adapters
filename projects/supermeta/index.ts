@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Supermeta',
+  subcategories: 'Gaming',
   chain: null,
   category: 'OTHER',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kryptview',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'OTHER',
   token: 'KVT',

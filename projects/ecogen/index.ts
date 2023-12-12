@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EcoGen',
+  subcategories: 'Hardware, Mining',
   chain: null,
   category: 'ENERGY',
   token: null,

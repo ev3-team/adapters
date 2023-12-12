@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ether.fi',
+  subcategories: 'Rewards',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

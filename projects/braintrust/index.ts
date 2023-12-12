@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Braintrust',
+  subcategories: 'Labor',
   chain: 'ETHEREUM',
   category: 'LABOR',
   token: 'BTRST',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Planetwatch',
+  subcategories: null,
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PLANETS',

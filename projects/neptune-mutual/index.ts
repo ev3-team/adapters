@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neptune Mutual',
+  subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
   token: 'NPM',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'krest',
+  subcategories: null,
   chain: 'PEAQ',
   category: 'NOT_DEPIN',
   token: 'KREST',

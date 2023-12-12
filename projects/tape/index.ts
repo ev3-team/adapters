@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tape',
+  subcategories: 'Social',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

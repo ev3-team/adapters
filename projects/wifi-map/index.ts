@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiFi Map',
+  subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'WIFI',

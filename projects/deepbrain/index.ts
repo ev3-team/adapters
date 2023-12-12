@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeepBrain',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'DBC',

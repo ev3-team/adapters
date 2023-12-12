@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Haven',
+  subcategories: 'Mining',
   chain: null,
   category: 'COMPUTE',
   token: 'XHV',

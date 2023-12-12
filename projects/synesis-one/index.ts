@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Synesis One',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'AI',
   token: 'SNS',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FACT0RN',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'OTHER',
   token: 'FACT',

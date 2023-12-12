@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AiONE',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
   token: 'AIONE',

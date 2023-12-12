@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zus',
+  subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'ZCN',

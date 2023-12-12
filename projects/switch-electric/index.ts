@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Switch Electric',
+  subcategories: 'Hardware',
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,

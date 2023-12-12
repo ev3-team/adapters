@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koinos',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'KOIN',

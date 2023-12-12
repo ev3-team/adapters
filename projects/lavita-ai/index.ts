@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lavita.AI',
+  subcategories: 'Health & Fitness',
   chain: 'NATIVE',
   category: 'AI',
   token: 'LAVITA',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Electric Tree',
+  subcategories: 'Environmental',
   chain: null,
   category: 'OTHER',
   token: null,

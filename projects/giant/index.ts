@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GIANT',
+  subcategories: null,
   chain: 'POLKADOT',
   category: 'WIRELESS',
   token: null,

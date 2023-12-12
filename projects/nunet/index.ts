@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NuNet',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'NTX',

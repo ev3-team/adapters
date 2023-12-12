@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Defit',
+  subcategories: 'Health & Fitness',
   chain: 'POLYGON',
   category: 'OTHER',
   token: 'DEFIT',

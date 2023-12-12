@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Script TV',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'SCPT',

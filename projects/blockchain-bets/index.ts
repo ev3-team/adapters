@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockchain Bets',
+  subcategories: 'Gaming',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BCB',

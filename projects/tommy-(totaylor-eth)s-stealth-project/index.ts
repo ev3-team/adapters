@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: "Tommy (totaylor.eth)'s stealth project",
+  subcategories: null,
   chain: null,
   category: 'OTHER',
   token: null,

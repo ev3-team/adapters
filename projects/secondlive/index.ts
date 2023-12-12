@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SecondLive',
+  subcategories: null,
   chain: null,
   category: 'OTHER',
   token: null,

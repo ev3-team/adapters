@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeSendit',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'COMPUTE',
   token: 'WSI',

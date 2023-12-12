@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'D-Web',
+  subcategories: 'Mining',
   chain: null,
   category: 'OTHER',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blackhat',
+  subcategories: 'ML',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BLKC',

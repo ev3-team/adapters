@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MobiFi',
+  subcategories: 'Ridesharing',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'MOFI',

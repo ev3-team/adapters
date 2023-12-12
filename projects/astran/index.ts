@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Astran',
+  subcategories: 'Software, Storage',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

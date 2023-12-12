@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Empyreal',
+  subcategories: null,
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'EMP',

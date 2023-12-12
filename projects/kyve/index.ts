@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KYVE',
+  subcategories: 'Storage',
   chain: 'COSMOS',
   category: 'COMPUTE',
   token: 'KYVE',

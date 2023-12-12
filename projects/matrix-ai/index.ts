@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Matrix AI',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
   token: 'MAN',

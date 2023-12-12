@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Boring',
+  subcategories: 'VPN',
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'BOP',

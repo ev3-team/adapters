@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Friday',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Renatus',
+  subcategories: 'Robotics',
   chain: null,
   category: 'OTHER',
   token: null,

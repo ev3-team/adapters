@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nitro League',
+  subcategories: 'Gaming, Rewards',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'NITRO',

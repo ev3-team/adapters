@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'VeChain',
+  subcategories: null,
   chain: 'VECHAIN',
   category: 'NOT_DEPIN',
   token: 'VET',

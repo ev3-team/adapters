@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rapidata',
+  subcategories: null,
   chain: null,
   category: 'LABOR',
   token: null,

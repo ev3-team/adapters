@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DRIFE',
+  subcategories: 'Ridesharing',
   chain: 'BINANCE',
   category: 'LABOR',
   token: 'DRF',

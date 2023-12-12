@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nodle',
+  subcategories: 'Positioning',
   chain: 'POLKADOT',
   category: 'WIRELESS',
   token: 'NODL',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bostrom',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
   token: 'BOOT',

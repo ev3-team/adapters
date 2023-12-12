@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Databroker',
+  subcategories: 'Data',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'DTX',

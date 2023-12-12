@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Arbitrum',
+  subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ARB',

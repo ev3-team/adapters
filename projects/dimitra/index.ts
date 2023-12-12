@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dimitra',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'DMTR',

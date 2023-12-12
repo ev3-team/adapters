@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTeX',
+  subcategories: 'IoT',
   chain: 'IOTEX',
   category: 'OTHER',
   token: 'IOTX',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LongFi',
+  subcategories: 'Mining',
   chain: null,
   category: 'WIRELESS',
   token: null,

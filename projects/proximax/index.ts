@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ProximaX',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'COMPUTE',
   token: 'XPX',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Waev',
+  subcategories: 'Data',
   chain: null,
   category: 'OTHER',
   token: null,

@@ -97,6 +97,7 @@ async function run() {
 
       parsedProjects.push({
         name: row.name,
+        subcategories: !!row.subcategories ? row.subcategories : null,
         chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
         category: !!row.category ? (row.category as AdapterProjectCategory) : 'OTHER',
         token: !!row.token ? row.token : null,

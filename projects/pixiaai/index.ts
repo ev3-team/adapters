@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PixiaAI',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PIXIA',

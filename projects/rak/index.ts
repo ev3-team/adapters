@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RAK',
+  subcategories: 'Mining',
   chain: null,
   category: 'WIRELESS',
   token: null,

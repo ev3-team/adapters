@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MagnetAI',
+  subcategories: 'GPUs',
   chain: null,
   category: 'AI',
   token: null,

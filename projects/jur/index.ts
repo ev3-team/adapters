@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Jur',
+  subcategories: null,
   chain: 'VECHAIN',
   category: 'OTHER',
   token: 'JUR',

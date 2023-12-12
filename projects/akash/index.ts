@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Akash',
+  subcategories: 'GPUs',
   chain: 'COSMOS',
   category: 'AI',
   token: 'AKT',

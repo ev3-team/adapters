@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dinari',
+  subcategories: 'RWA',
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'DIS.D',

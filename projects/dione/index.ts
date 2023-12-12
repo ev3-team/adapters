@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dione',
+  subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'DIONE',

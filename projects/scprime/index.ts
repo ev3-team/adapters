@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ScPrime',
+  subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'SCP',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Coco Swap',
+  subcategories: 'Gaming',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

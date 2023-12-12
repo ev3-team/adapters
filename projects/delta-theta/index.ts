@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'delta.theta',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'DLTA',

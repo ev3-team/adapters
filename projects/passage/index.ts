@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Passage',
+  subcategories: 'Gaming',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'PASG',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Totem',
+  subcategories: 'Gaming',
   chain: 'POLYGON',
   category: 'NOT_DEPIN',
   token: 'TOTEM',

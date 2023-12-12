@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'bloXmove',
+  subcategories: 'Auto',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'BLXM',

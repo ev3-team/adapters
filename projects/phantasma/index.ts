@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phantasma',
+  subcategories: 'L1/L2, Gaming',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'SOUL',

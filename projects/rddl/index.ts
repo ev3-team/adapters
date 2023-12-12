@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RDDL',
+  subcategories: 'IoT',
   chain: null,
   category: 'WIRELESS',
   token: null,

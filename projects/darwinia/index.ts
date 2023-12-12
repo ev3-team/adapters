@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Darwinia',
+  subcategories: 'Bridges',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'KTON',

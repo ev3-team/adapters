@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '3DOS',
+  subcategories: 'Manufacturing',
   chain: null,
   category: 'OTHER',
   token: null,

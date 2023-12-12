@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bonfire',
+  subcategories: 'Social',
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'BONFIRE',

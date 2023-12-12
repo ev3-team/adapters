@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Onocoy',
+  subcategories: 'Positioning',
   chain: 'SOLANA',
   category: 'SENSORS',
   token: null,

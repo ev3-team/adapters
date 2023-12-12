@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'The Graph',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'GRT',

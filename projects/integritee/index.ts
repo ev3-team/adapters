@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Integritee',
+  subcategories: 'TEE',
   chain: 'POLKADOT',
   category: 'OTHER',
   token: 'TEER',

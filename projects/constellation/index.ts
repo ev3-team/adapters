@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Constellation',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'DAG',

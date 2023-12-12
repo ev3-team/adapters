@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Weaver Labs',
+  subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: null,

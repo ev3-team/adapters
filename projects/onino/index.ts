@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ONINO',
+  subcategories: 'L1/L2',
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'ONI',

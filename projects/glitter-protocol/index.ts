@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Glitter Protocol',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

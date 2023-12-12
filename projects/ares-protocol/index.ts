@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ares Protocol',
+  subcategories: 'Oracle',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'ARES',

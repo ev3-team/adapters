@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XYO',
+  subcategories: 'Positioning',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'XYO',

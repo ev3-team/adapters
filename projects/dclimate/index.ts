@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'dClimate',
+  subcategories: 'Environmental, Data',
   chain: null,
   category: 'OTHER',
   token: null,

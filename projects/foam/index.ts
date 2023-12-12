@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Foam',
+  subcategories: 'Positioning',
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'FOAM',

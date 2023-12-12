@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IPSX',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,

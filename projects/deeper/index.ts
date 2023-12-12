@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Deeper',
+  subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'DPR',

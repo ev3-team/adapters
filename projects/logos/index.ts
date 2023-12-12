@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Logos',
+  subcategories: 'Legal',
   chain: null,
   category: 'OTHER',
   token: null,

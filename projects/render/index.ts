@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Render',
+  subcategories: 'GPUs',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'RNDR',

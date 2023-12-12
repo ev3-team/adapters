@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Goracle',
+  subcategories: 'Oracle',
   chain: null,
   category: 'OTHER',
   token: null,

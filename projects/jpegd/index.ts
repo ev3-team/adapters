@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: "JPEG'd",
+  subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'JPEG',

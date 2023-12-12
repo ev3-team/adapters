@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MANTRA',
+  subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'OM',

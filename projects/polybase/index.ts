@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Polybase',
+  subcategories: 'RPC/Indexing',
   chain: null,
   category: 'COMPUTE',
   token: null,

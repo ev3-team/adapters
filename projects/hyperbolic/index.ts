@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hyperbolic',
+  subcategories: 'GPUs',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'HYPE',

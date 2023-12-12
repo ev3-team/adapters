@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Alt 1',
+  subcategories: null,
   chain: null,
   category: 'OTHER',
   token: null,

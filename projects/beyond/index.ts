@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Beyond',
+  subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'OTHER',
   token: 'BP',

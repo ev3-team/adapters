@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Perpetual',
+  subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PERPS',

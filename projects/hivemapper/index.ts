@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hivemapper',
+  subcategories: 'Positioning',
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'HONEY',

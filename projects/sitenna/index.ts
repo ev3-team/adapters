@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sitenna',
+  subcategories: 'Software',
   chain: null,
   category: 'WIRELESS',
   token: null,

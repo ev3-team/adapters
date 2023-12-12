@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Raven',
+  subcategories: 'Training',
   chain: 'BINANCE',
   category: 'AI',
   token: 'RAVEN',

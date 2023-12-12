@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gun.Eco',
+  subcategories: 'RPC/Indexing',
   chain: null,
   category: 'OTHER',
   token: null,

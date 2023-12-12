@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dynex',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
   token: 'DNX',

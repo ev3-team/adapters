@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Riddle&Code',
+  subcategories: 'IoT',
   chain: null,
   category: 'SENSORS',
   token: null,

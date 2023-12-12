@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vayu',
+  subcategories: 'Robotics',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

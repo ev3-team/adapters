@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neutralx',
+  subcategories: 'RWA',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

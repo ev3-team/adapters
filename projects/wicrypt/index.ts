@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiCrypt',
+  subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'WNT',

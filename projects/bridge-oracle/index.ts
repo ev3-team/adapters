@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bridge Oracle',
+  subcategories: 'Oracle',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BRG',

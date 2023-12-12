@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Immerso',
+  subcategories: 'Ridesharing',
   chain: null,
   category: 'OTHER',
   token: null,

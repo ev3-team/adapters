@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BULB',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'BULB',

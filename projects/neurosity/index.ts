@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neurosity',
+  subcategories: 'Hardware',
   chain: null,
   category: 'OTHER',
   token: null,

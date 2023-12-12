@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Liberte',
+  subcategories: 'Gaming',
   chain: null,
   category: 'COMPUTE',
   token: null,

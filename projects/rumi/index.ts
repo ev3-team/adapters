@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rumi',
+  subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
   token: 'RUMI',

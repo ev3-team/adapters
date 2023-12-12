@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Manta',
+  subcategories: null,
   chain: 'POLKADOT',
   category: 'OTHER',
   token: 'MANTA',

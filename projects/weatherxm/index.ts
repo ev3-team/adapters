@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeatherXM',
+  subcategories: 'Environmental',
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'WXM',

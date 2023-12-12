@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AdHash',
+  subcategories: 'Advertising',
   chain: null,
   category: 'OTHER',
   token: null,

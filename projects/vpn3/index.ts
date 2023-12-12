@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'VPN3',
+  subcategories: 'VPN',
   chain: null,
   category: 'COMPUTE',
   token: null,

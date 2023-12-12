@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Runloop',
+  subcategories: 'Agents, DeFi',
   chain: null,
   category: 'AI',
   token: null,

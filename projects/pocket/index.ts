@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pocket',
+  subcategories: 'RPC/Indexing',
   chain: 'NATIVE',
   category: 'OTHER',
   token: 'POKT',
