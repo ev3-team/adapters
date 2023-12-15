@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.21
+
+### Patch Changes
+
+- add dune query for hivemapper
+
 ## 0.3.20
 
 ### Patch Changes
