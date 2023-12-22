@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.22
+
+### Patch Changes
+
+- update flux coingecko id
+
 ## 0.3.21
 
 ### Patch Changes
