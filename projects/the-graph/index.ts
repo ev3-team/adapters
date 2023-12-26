@@ -4,9 +4,9 @@ export default {
   name: 'The Graph',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: 'GRT',
-  coingeckoId: 'the-graph',
+  coingeckoId: null,
   id: 'x3ay3v',
   description:
     'The Graph: a blockchain indexing protocol, providing efficient GraphQL-based access to blockchain data.',
