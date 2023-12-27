@@ -11,7 +11,7 @@ export default {
   description:
     '3DOS is building a decentralized manufacturing network on Web 3.0 using NFTs as a licensing tool.',
   discord: null,
-  investors: [],
+  investors: ['1ev9k4'],
   linkedin: 'https://www.linkedin.com/company/3dosio/',
   duneQueries: null,
   blog: null,

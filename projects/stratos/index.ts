@@ -9,7 +9,7 @@ export default {
   coingeckoId: 'stratos',
   id: '4jq13p',
   description:
-    'Stratos is a decentralized computing network for efficient and secure data processing.',
+    'The first decentralized data architecture that provides scalable, reliable, self-balanced storage, database and computation network and offers a solid foundation for data processing.',
   discord: 'https://discord.com/invite/tpQGpC2nMh',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/stratos-network',
