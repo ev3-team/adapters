@@ -4,7 +4,7 @@ export default {
   name: 'Chainlink',
   subcategories: 'Oracle',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: 'LINK',
   coingeckoId: 'chainlink',
   id: 'y9e0mz',
