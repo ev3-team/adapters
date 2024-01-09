@@ -4,9 +4,9 @@ export default {
   name: 'Bridge Oracle',
   subcategories: 'Oracle',
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'BRG',
-  coingeckoId: 'bridge-oracle',
+  coingeckoId: null,
   id: 'uo9q3n',
   description:
     'Bridge Oracle: BNB Chain-based public oracle enabling secure smart contracts with real-world data.',
