@@ -12,7 +12,9 @@ export default {
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/arweave',
-  duneQueries: null,
+  duneQueries: {
+    KEY_METRIC: '3340275',
+  },
   blog: 'https://arweave.medium.com/',
   github: null,
   telegram: null,
