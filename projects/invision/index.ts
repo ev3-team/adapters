@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Invision',
+  ninja: null,
   subcategories: 'Software',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '74fmsb',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/invisionai',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

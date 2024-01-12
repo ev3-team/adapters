@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Livepeer',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -17,6 +18,7 @@ export default {
     REVENUE: '2944851',
     SUPPLY: '2944838',
   },
+  foundingYear: null,
   blog: 'https://medium.com/livepeer-blog',
   github: null,
   telegram: null,

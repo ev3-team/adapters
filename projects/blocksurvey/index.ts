@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blocksurvey',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -26,6 +27,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/blocksurvey/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/BlockSurvey',
   telegram: null,

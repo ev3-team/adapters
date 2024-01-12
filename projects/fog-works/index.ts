@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fog Works',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: ['caojlf', '6q7dh3', 'smqwtv'],
   linkedin: 'https://www.linkedin.com/company/fog-works',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

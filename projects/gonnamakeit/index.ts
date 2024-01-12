@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GonnaMakeIt',
+  ninja: null,
   subcategories: 'Social',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/gonnamakeitnfts/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/energicryptocurrency',
   telegram: 'https://t.me/GonnaMakeitNFTs',

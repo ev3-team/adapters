@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Raiz',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'or2okw',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/raiz-vertical-farms',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/nearweek/an-introduction-to-raiz-vertical-farms-the-farms-of-the-future-e62094b782c3',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Giza',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: ['csfyvy', 'szfiug', 'szeaj0', '6wptir', 'vrsed8', 'z845oa'],
   linkedin: 'https://www.linkedin.com/company/giza-systems',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/maxgillett/giza',
   telegram: null,

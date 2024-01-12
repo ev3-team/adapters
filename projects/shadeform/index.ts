@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Shadeform',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: null,
   id: 'd4dfm9',
   description:
-    'Shadeform is building a one stop shop for cloud GPUs. Here’s a look at our upcoming roadmap and upcoming features!',
+    'Shadeform is building a one stop shop for cloud GPUs. Here‚Äôs a look at our upcoming roadmap and upcoming features!',
   discord: 'https://discord.gg/dCEd77nQYc',
   investors: ['bqmpxo', '551q4x', 'v5apl7', 'wdtkj1'],
   linkedin: 'http://www.linkedin.com/company/shadeformai',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

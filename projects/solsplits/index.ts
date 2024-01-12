@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SolSplits',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'nyewp0',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/solsplits/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://https//medium.com/@solsplits',
   github: 'https://github.com/solsplits',
   telegram: null,

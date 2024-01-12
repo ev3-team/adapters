@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'QRL',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['aj65x1'],
   linkedin: 'https://www.linkedin.com/company/qrl/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@QRL',
   github: 'https://github.com/topics/qrl',
   telegram: null,

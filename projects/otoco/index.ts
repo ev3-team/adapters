@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OtoCo',
+  ninja: null,
   subcategories: 'Legal',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'h8fk7d',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/otoco',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/otoco-io',
   telegram: 'https://t.me/TheRoadToOtoco',

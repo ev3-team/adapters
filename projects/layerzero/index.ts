@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LayerZero',
+  ninja: null,
   subcategories: 'Mining',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'cpd9pq',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

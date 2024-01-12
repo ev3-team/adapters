@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '0x0.ai',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/0x0/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@privacy0x0',
   github: 'https://github.com/0x0exchange',
   telegram: 'https://t.me/Portal0x0',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aston',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -14,6 +15,7 @@ export default {
   investors: ['4zunln', 'dc47oz', 'o217a6', 'lcoyia'],
   linkedin: 'http://www.linkedin.com/company/aston-labs-co',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

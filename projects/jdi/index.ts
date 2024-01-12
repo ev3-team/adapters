@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'JDI',
+  ninja: null,
   subcategories: 'Hardware',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'cjfsd9',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/jdi-data',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@jdi.gwh/about',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bitrock',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['xy5g8f'],
   linkedin: 'http://www.linkedin.com/company/discord',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://bitrockchain.medium.com/',
   github: 'https://github.com/BitrockChain',
   telegram: 'https://t.me/Bitrockchain',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Picogrid',
+  ninja: null,
   subcategories: 'ML',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['bsrlyc'],
   linkedin: 'https://www.linkedin.com/in/zanemountcastle/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@zanemountcastle',
   github: 'https://github.com/zanemountcastle',
   telegram: null,

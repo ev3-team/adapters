@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OxAI',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/oxai/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/oxai',
   github: null,
   telegram: null,

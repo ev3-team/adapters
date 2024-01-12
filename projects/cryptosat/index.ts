@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cryptosat',
+  ninja: null,
   subcategories: 'Satellites',
   chain: null,
   category: 'WIRELESS',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/cryptosat',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/topics/wave?l=html',
   telegram: 'https://medium.com/cryptosatellite',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Media',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/media-network-inc./about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://mediafoundation.medium.com/',
   github: 'https://github.com/mediafoundation',
   telegram: 'https://t.me/Media_FDN',

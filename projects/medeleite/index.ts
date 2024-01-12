@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MedeLeite',
+  ninja: null,
   subcategories: 'Software',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'jtrmoh',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

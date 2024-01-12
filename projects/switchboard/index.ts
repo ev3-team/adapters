@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Switchboard',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'iik6nb',
   description:
-    'Switchboard is a generalized, community-curated oracle network designed to incentivize bringing the long tail of data on-chain. Harnessing the wisdom of crowds, Switchboard appeals to a market of curators incentivized to organize unique off-chain data sources and publishers raring to decentralize quantitative data feeds.',
+    'Switchboard is a generalized, community-curated oracle network designed to incentivize bringing the long tail of data on-chain.',
   discord: 'https://discord.com/invite/switchboardxyz',
   investors: [
     'b5zojp',
@@ -29,6 +30,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/switchboardxyz/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://switchboardxyz.medium.com/',
   github: 'https://github.com/switchboard-xyz',
   telegram: 'https://t.me/switchboardxyz',

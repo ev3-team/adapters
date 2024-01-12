@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Akash',
+  ninja: null,
   subcategories: 'GPUs',
   chain: 'COSMOS',
-  category: 'AI',
+  category: 'COMPUTE',
   token: 'AKT',
   coingeckoId: 'akash-network',
   id: 'qmmyw0',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/akash-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@akashnet_',
   github: 'https://github.com/akash-network',
   telegram: null,

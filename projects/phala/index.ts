@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phala',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://sg.linkedin.com/company/phala-network',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/Phala-Network',
   telegram: null,

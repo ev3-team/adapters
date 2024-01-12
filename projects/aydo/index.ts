@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AYDO',
+  ninja: null,
   subcategories: 'Smart Home',
   chain: null,
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/AYDOAI',
   telegram: 'https://t.me/aydoai',

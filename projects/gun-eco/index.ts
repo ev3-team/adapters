@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gun.Eco',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'fk3mfi',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/gun-io',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/topics/gunjs',
   telegram: null,

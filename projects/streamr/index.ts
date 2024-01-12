@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Streamr',
+  ninja: null,
   subcategories: 'Data',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'DATA',
   coingeckoId: 'streamr',
   id: 'o1pv7k',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/streamr-network/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/streamrblog',
   github: 'https://github.com/streamr-dev',
   telegram: 'https://t.me/streamrdata',

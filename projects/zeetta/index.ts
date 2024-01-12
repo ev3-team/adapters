@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeetta',
+  ninja: null,
   subcategories: 'Software',
   chain: null,
   category: 'WIRELESS',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://uk.linkedin.com/company/zeetta',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/zeeta',
   telegram: 'https://t.me/s/ZeetaaProjects?before=209',

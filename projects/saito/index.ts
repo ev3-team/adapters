@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Saito',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/saitonetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://saito.tech/blog/',
   github: null,
   telegram: 'https://t.me/SaitoIO',

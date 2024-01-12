@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mycelium',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/myceliumnetworks',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@MyceliumX',
   github: null,
   telegram: null,

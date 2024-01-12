@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'c9dgeq',
   name: 'Ignite',
-  investedProjectsCount: 3,
+  investedProjectsCount: 2,
 } satisfies AdapterInvestor

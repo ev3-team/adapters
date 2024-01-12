@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'deBridge',
+  ninja: null,
   subcategories: 'Bridges',
   chain: null,
   category: 'NOT_DEPIN',
@@ -44,6 +45,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/debridge-finance/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://debridge.finance/blog/',
   github: 'https://github.com/debridge-finance/',
   telegram: 'https://t.me/deBridge_finance',

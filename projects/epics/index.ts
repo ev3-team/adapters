@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Epics',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/epic1979',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/epics-base',
   telegram: null,

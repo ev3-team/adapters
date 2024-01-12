@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Revert',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://github.com/revertinc/Revert',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/90436779/',
   github: null,
   telegram: null,

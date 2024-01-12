@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phaver',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: 'https://fi.linkedin.com/company/phaver',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

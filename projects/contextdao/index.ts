@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ContextDao',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/context-protocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://twitter.com/ContextDao',
   github: null,
   telegram: null,

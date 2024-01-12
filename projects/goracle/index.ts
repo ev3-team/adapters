@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Goracle',
+  ninja: null,
   subcategories: 'Oracle',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'x4c5qz',
@@ -14,6 +15,7 @@ export default {
   investors: ['s7b833', '4l8mmr', 'buo8ql', 'h0xk6e', 'csyvh3', '0dkx3u', '46avas', '03zdwj'],
   linkedin: 'http://www.linkedin.com/company/goranetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/GoraNetwork',

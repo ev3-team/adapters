@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NexBloc',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: null,
   id: 'i27v9c',
   description:
-    "Developer of a decentralized web platform intended to create a usable ecosystem of connected websites and applications using a domain naming system. The company's platform operates a cross-chain blockchain domain naming system and private label offerings to develop infrastructure and software, enabling businesses to move past the restrictions of a centralized command and control world.",
+    'Developer of a decentralized web platform intended to create a usable ecosystem of connected websites and applications using a domain naming system.',
   discord: null,
   investors: ['ettzsx', 'hkoh0e', 'jkryns'],
   linkedin: 'https://www.linkedin.com/company/nexbloc/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/nexbloc',
   github: null,
   telegram: 'https://t.me/nexbloc',

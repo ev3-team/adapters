@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LENA',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/lena-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@LENA_Network',
   github: null,
   telegram: null,

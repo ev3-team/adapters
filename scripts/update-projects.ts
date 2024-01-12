@@ -97,9 +97,10 @@ async function run() {
 
       parsedProjects.push({
         name: row.name,
+        ninja: !!row.ninja ? row.ninja : null,
         subcategories: !!row.subcategories ? row.subcategories : null,
         chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
-        category: !!row.category ? (row.category as AdapterProjectCategory) : 'OTHER',
+        category: !!row.category ? (row.category as AdapterProjectCategory) : 'BLOCKCHAIN_INFRA',
         token: !!row.token ? row.token : null,
         coingeckoId: !!row.coinGeckoID ? row.coinGeckoID : null,
         id: projectId,
@@ -108,6 +109,7 @@ async function run() {
         investors: projectsInvestors.get(projectId) ?? [],
         linkedin: !!row.linkedin ? row.linkedin : null,
         duneQueries: projectsDuneQueries.get(projectId) ?? null,
+        foundingYear: !!row.foundingYear ? row.foundingYear : null,
         blog: !!row.blog ? row.blog : null,
         github: !!row.github ? row.github : null,
         telegram: !!row.telegram ? row.telegram : null,

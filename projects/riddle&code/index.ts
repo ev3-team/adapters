@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Riddle&Code',
+  ninja: null,
   subcategories: 'IoT',
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: ['cm89up'],
   linkedin: 'https://www.linkedin.com/company/riddle-&-code/?originalSubdomain=at',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

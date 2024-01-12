@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaFlyers',
+  ninja: null,
   subcategories: 'Rewards',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/metaflyers?trk=similar-pages',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@metaflyers',
   github: null,
   telegram: null,

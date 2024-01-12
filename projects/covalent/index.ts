@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Covalent',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'CQT',
   coingeckoId: 'covalent',
   id: 'cfxf9v',
   description:
-    'Covalent is a decentralized data infrastructure that enables users to seamlessly access blockchain data that is otherwise inaccessible. Covalent has indexed entire blockchain histories and has transformed these data in a way that is standardized and truly interoperable. Users can leverage a unified API to query virtually any data on a given blockchain.',
+    'Covalent is a decentralized data infrastructure that enables users to seamlessly access blockchain data that is otherwise inaccessible.',
   discord: 'https://discord.com/invite/VHgmzB9973',
   investors: [
     'bspyld',
@@ -44,6 +45,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/covalenthq/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.covalenthq.com/blog/',
   github: 'https://github.com/covalenthq/',
   telegram: 'https://t.me/CovalentHQ',

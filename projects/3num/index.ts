@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '3NUM',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: ['zpuq9r', 'ibk8eu', 'jo973z', 't105wi'],
   linkedin: 'https://www.linkedin.com/company/3numdao/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@3NUMDAO',
   github: 'https://github.com/3numdao',
   telegram: null,

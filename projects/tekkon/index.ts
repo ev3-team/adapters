@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'TEKKON',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'sel0t5',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Tekkon',
   github: null,
   telegram: 'https://t.me/TEKKONOfficial',

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Proof of Play',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'f0g5ra',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/proof-of-play/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://piratenation.medium.com/',
   github: null,
   telegram: null,

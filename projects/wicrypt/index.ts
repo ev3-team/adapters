@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiCrypt',
+  ninja: null,
   subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://ng.linkedin.com/company/wicrypt',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/wicrypt',
   github: 'https://github.com/AmyXandra/wicrypt-new',
   telegram: 'https://t.me/s/wicryptann?before=486',

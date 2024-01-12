@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Massa',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'MASSA',
   coingeckoId: 'massa',
   id: '10vi0m',
@@ -14,6 +15,7 @@ export default {
   investors: ['ibk8eu', '14mgz0', 'jo973z', 'nzxtym'],
   linkedin: 'https://www.linkedin.com/company/massa-labs/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://massalabs.medium.com/',
   github: 'https://github.com/massalabs/massa',
   telegram: 'https://t.me/massanetwork',

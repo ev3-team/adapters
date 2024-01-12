@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nirvana',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'u2tfjc',
@@ -13,6 +14,7 @@ export default {
   investors: ['q9qqsj', '6mh2rx'],
   linkedin: 'https://www.linkedin.com/company/nirvana-labs-ai',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.nirvanalabs.io/',
   github: 'https://github.com/search?q=nirvana+labs',
   telegram: null,

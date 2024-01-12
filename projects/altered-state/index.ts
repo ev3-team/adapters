@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Altered State',
+  ninja: null,
   subcategories: 'Agents',
   chain: 'ETHEREUM',
   category: 'AI',
@@ -67,6 +68,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/altered-state-machine/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SolanaStock',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/solanalabs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://solana.com/news',
   github: 'https://solana.com/github',
   telegram: 'https://solana.com/telegram',

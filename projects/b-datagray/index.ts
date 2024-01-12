@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'B-Datagray',
+  ninja: null,
   subcategories: 'GPUs',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['4l8mmr', 'x2hmqv', '8agdnp', 'hgmxdl', 'iov8qk'],
   linkedin: 'https://www.linkedin.com/company/b-datagray',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/Datagen-Project',
   telegram: 'https://t.me/bdatagray',

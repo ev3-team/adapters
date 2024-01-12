@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pink BNB',
+  ninja: null,
   subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@pnbworld',
   github: null,
   telegram: 'https://t.me/pnbworld',

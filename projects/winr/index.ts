@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WINR',
+  ninja: null,
   subcategories: 'Gaming',
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/winrprotocol/WINR_Protocol',
   telegram: 'https://t.me/WINRProtocol',

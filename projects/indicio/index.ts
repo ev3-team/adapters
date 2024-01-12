@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Indicio',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'm5wcp4',
   description:
-    "Indicio.tech is a professional services firm specializing in decentralized identity architecture, engineering, and consultancy. They are also the creators of the Indicio Network & CardeaProject. The Indicio Network is the world's only globally available, professionally-managed, enterprise-grade network for decentralized identity. Cardea is a complete opensource ecosystem for the exchange of privacy-preserving digital credentials, a project in Linux Foundation Public Health (LFPH).",
+    'Indicio.tech is a professional services firm specializing in decentralized identity architecture, engineering, and consultancy.',
   discord: null,
   investors: [
     'uu9js5',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/indiciotech/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

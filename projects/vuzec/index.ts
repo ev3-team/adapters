@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vuzec',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/vuzec',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://vuzecmx.medium.com/',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Candela',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/candela-speed-boat/?originalSubdomain=se',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

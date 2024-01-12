@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cherry',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -38,6 +39,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/cherrynetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://cherryproject.medium.com/',
   github: 'https://github.com/CherryNetwork',
   telegram: 'https://t.me/cherrynetwork',

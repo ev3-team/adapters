@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Handshake',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: 'handshake',
   id: 'm9gkfk',
   description:
-    'Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone with the goal of creating an alternative to existing Certificate Authorities and naming systems. By participating in Handshake, users contribute to a decentralized open platform for domain management using a utility coin system.',
+    'Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone.',
   discord: 'https://discord.com/invite/Vq3PWF6cJ6',
   investors: [
     'r1a7zj',
@@ -35,6 +36,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/hns-handshake/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/handshake-org/hsd',
   telegram: 'https://t.me/handshake_hns',

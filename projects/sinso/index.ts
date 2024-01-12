@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sinso',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'tde0ef',
   description:
-    'Sinso is a Web3.0 Infrastructure Simplifying Decentralized HotData Cache and Data Governance. SINSO has four major economic models, the SINSO Getway, the Distributed Cache Nodes Network, SINSO DAPP Cube, SINSO Donors Network, and SINSO DAC.',
+    'Sinso is a Web3.0 Infrastructure Simplifying Decentralized HotData Cache and Data Governance.',
   discord: null,
   investors: [
     'ovna62',
@@ -33,6 +34,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

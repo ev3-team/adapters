@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Async',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['rd2mzf', 'uw2lru', 'tau7dj'],
   linkedin: 'https://www.linkedin.com/company/asynclabs',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

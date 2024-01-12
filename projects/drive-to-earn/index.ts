@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Drive to Earn',
+  ninja: null,
   subcategories: 'Ridesharing',
   chain: 'POLYGON',
-  category: 'LABOR',
+  category: 'SERVICES',
   token: 'DTE',
   coingeckoId: 'drive-to-earn',
   id: 'bj8kjt',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

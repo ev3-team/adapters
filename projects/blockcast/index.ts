@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockcast',
+  ninja: 'W. L.',
   subcategories: 'CDN',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/sat-blockcast/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/topics/blockcast',
   telegram: 'https://t.me/blockcastit',

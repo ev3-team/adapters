@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DSLA',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/stacktical',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@stacktical',
   github: 'https://github.com/Stacktical',
   telegram: 'https://t.me/stacktical',

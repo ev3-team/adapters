@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WSB Shills',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'knsxty',
@@ -14,6 +15,7 @@ export default {
   investors: ['5tgbgd', '4lf3qu'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/wsbsh',

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockride',
+  ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '84nnyv',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/blockride',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@info.blockride/hello-world-7d0e75386221',
   github: null,
   telegram: null,

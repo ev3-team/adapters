@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EcoGen',
+  ninja: null,
   subcategories: 'Hardware, Mining',
   chain: null,
   category: 'ENERGY',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ecogen-technologies',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://miavass.medium.com/ecogen-technologies-launch-4a942446630e',
   github: null,
   telegram: null,

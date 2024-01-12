@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockless',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -23,6 +24,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/blockless',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/blocklessnetwork',
   telegram: 'https://t.me/blocklessofficial',

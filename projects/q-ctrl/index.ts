@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'q-ctrl',
+  ninja: null,
   subcategories: 'Quantum',
   chain: null,
   category: 'NOT_DEPIN',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://github.com/qctrl?_ga=2.200893288.772806730.1652587339-513873128.1652348755',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/q-ctrl/?_ga=2.200893288.772806730.1652587339-513873128.1652348755',
   github: null,
   telegram: null,

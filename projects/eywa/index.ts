@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EYWA',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'EYWA',
   coingeckoId: null,
   id: 'tbwx5g',
@@ -39,6 +40,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/eywa-protocol/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@eywaprotocol',
   github: 'https://github.com/eywa-protocol',
   telegram: 'https://t.me/eywa_en',

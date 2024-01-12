@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pano AI',
+  ninja: null,
   subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',
@@ -38,6 +39,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/pano-ai/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

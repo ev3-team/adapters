@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Srcful',
+  ninja: null,
   subcategories: 'VPP',
   chain: null,
   category: 'ENERGY',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/srcful',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NGRAVE',
+  ninja: null,
   subcategories: 'Wallet',
   chain: null,
   category: 'NOT_DEPIN',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/ngrave/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/ngraveio',
   telegram: null,

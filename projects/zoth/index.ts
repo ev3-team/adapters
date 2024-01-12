@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zoth',
+  ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '4l25dn',
@@ -31,6 +32,7 @@ export default {
   ],
   linkedin: 'https://github.com/0xZothio',
   duneQueries: null,
+  foundingYear: null,
   blog: 'http://www.linkedin.com/company/zoth-io',
   github: null,
   telegram: 'https://telegram.me/+nFUrC_I1hA1iNWU9',

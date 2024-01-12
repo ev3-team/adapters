@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PiKNiK',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['3bni11'],
   linkedin: 'http://www.linkedin.com/company/piknikus',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

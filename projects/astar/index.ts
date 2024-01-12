@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Astar',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'NOT_DEPIN',
   token: 'ASTR',
   coingeckoId: 'astar',
   id: 'j764ic',
-  description:
-    'Astar Network is a decentralized blockchain platform for Web3 innovations. It supports both EVM and WebAssembly environments, allowing for interoperability between them. Developers can earn incentives through the Build2Earn program by building decentralized apps. Astar aims to create a scalable network that powers a global vision for Web3. It runs in conjunction with Ethereum, Polkadot, and Cosmos, enabling the free flow of assets and communications between different ecosystems.',
+  description: 'Astar Network is a decentralized blockchain platform for Web3 innovations.',
   discord: null,
   investors: [
     'opiq98',
@@ -44,6 +44,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

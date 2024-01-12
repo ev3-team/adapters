@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GoQii',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'SERVICES',
   token: null,
   coingeckoId: null,
   id: 'tkkrfm',
   description:
-    'GOQii is headquartered in California with offices in Mumbai and Shenzhen. It is dedicated to enabling a permanent shift to a healthier lifestyle with the combination of advanced wearable technology, the world’s leading experts, coaches and karma. GOQii focuses on sustained engagement & goal reinforcement and offers a complete ecosystem as a single integrated solution, which is a powerful combination of technology and human connection. GOQii is a collaboration of some of the world’s leading experts and an amazing management team who are driven by a passion for healthy sustainable living, and who believe that all of us contain boundless potential. GOQii’s goal is to enable millions of people across the world to “be the force” by helping them unleash their untapped potential.',
+    'GOQii is dedicated to enabling a permanent shift to a healthier lifestyle with the combination of advanced wearable technology.',
   discord: null,
   investors: [
     'jt1491',
@@ -66,6 +67,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

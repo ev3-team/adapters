@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bluebird Power',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -13,6 +14,7 @@ export default {
   investors: ['ot98pp'],
   linkedin: 'http://www.linkedin.com/company/bluebird-power',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

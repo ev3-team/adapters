@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Trustpad',
+  ninja: null,
   subcategories: null,
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/trustpad/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://trustpad.medium.com/',
   github: null,
   telegram: 'https://t.me/TrustPad',

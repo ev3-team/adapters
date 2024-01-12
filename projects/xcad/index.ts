@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XCAD',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['ia20oh', 'rlo5x9', 'okjrd0', 'qqc9zd', 'bah2fw', 'zv7rue'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

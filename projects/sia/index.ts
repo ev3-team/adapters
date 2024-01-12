@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sia',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/the-sia-foundation',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/SiaFoundation',
   telegram: null,

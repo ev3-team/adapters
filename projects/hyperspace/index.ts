@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hyperspace',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -26,6 +27,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/hyperspacegl',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

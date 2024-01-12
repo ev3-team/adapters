@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sator',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: 'sator',
   id: 'jxy5nc',
   description:
-    'Sator is a Blockchain-enabled TV engagement that allows users to earn crypto rewards for watching TV. SAO is the social utility token that fuels Sator Network, used for: Participating in Sator content, games and worlds, Acquiring collectibles on Sator marketplace, In-dApp staking, Governance votes, Activating content on Sator Network',
+    'Sator is a Blockchain-enabled TV engagement that allows users to earn crypto rewards for watching TV.',
   discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

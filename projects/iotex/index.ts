@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IoTeX',
+  ninja: null,
   subcategories: 'IoT',
   chain: 'IOTEX',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'IOTX',
   coingeckoId: 'iotex',
   id: 'oqhdss',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/iotex',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/fmfw-io/introducing-iotex-3c14699aeecd',
   github: 'https://github.com/iotexproject',
   telegram: 'https://t.me/IoTeXGroup',

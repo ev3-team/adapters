@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ark',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://uk.linkedin.com/company/ark-schools',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://projectark.medium.com/',
   github: 'https://github.com/ArkEcosystem',
   telegram: 'https://t.me/s/ARK_Trading_Desk?before=3180',

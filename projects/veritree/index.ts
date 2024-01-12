@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Veritree',
+  ninja: null,
   subcategories: 'Environmental',
   chain: null,
   category: 'ENERGY',
@@ -14,6 +15,7 @@ export default {
   investors: ['xgfw21', 'o0iklv', 'jp3dfy'],
   linkedin: 'https://ca.linkedin.com/company/veritree',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.veritree.com/',
   github: null,
   telegram: null,

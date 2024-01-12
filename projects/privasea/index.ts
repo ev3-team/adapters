@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Privasea',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: '2qrtt6',
@@ -14,6 +15,7 @@ export default {
   investors: ['mrgeec', 'gi55pp', 'e0wtte'],
   linkedin: 'http://www.linkedin.com/company/privasea-tech',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/Privasea_ai',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Trixta',
+  ninja: null,
   subcategories: 'Agents',
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['a1uyxq', 'lphuqy'],
   linkedin: 'https://www.linkedin.com/company/trixta/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/trixta',
   github: null,
   telegram: null,

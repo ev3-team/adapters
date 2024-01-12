@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '3DOS',
+  ninja: null,
   subcategories: 'Manufacturing',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '5dho62',
@@ -14,6 +15,7 @@ export default {
   investors: ['1ev9k4'],
   linkedin: 'https://www.linkedin.com/company/3dosio/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

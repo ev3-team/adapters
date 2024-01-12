@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pocket',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'POKT',
   coingeckoId: 'pocket-network',
   id: 'wreq2k',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@POKTnetwork',
   github: 'https://github.com/pokt-network',
   telegram: 'https://t.me/POKTnetwork',

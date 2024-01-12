@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'VO2',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '6q3z9k',
@@ -13,6 +14,7 @@ export default {
   investors: ['3hpi7k', 'v0jbet', 'mifera', 'a1uyxq'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

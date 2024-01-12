@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GaurdianAI',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -12,11 +13,12 @@ export default {
     'GuardianAI: Decentralized defense system for DAOs and multisigs, using AI agents from the Decentralized AI Network.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/theguardian',
+  linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/guardian',
-  url: null,
+  twitter: null,
+  url: 'https://guardianai.io/',
 } satisfies AdapterProject

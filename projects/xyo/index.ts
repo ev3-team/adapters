@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XYO',
+  ninja: null,
   subcategories: 'Positioning',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'XYO',
   coingeckoId: 'xyo',
   id: '2icwvy',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/officialxyo/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/xyonetwork',

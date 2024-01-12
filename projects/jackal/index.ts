@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Jackal',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://ca.linkedin.com/company/jackal-storage',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@blockfito/testnet-jackal-97ccb631ed6a',
   github: 'https://github.com/JackalLabs',
   telegram: 'https://twitter.com/jackal_protocol?lang=en',

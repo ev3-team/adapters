@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OctaSpace',
+  ninja: null,
   subcategories: 'Storage, VPN',
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

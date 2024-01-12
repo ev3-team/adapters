@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Validation Cloud',
+  ninja: null,
   subcategories: 'Mining',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['nk4njt', '6bvve4'],
   linkedin: 'https://www.linkedin.com/company/validationcloud',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://validationcloud.medium.com/',
   github: null,
   telegram: null,

@@ -1,32 +1,34 @@
 export type AdapterProjectCategory =
   | 'AI'
+  | 'BLOCKCHAIN_INFRA'
   | 'COMPUTE'
   | 'ENERGY'
-  | 'LABOR'
   | 'NOT_DEPIN'
-  | 'OTHER'
   | 'SENSORS'
+  | 'SERVICES'
   | 'WIRELESS'
 
 export type AdapterProjectChain =
-  | 'ETHEREUM'
   | 'ALGORAND'
+  | 'APTOS'
+  | 'ARBITRUM'
+  | 'BINANCE'
+  | 'BITCOIN'
+  | 'BITTENSOR'
+  | 'CARDANO'
   | 'COSMOS'
-  | 'SOLANA'
-  | 'POLKADOT'
+  | 'ETHEREUM'
+  | 'FILECOIN'
+  | 'GNOSIS'
   | 'IOTEX'
   | 'NATIVE'
-  | 'POLYGON'
-  | 'BINANCE'
-  | 'ARBITRUM'
-  | 'CARDANO'
-  | 'BITCOIN'
-  | 'GNOSIS'
-  | 'FILECOIN'
-  | 'VECHAIN'
   | 'PEAQ'
+  | 'POLKADOT'
+  | 'POLYGON'
+  | 'SOLANA'
+  | 'URBIT'
+  | 'VECHAIN'
   | 'XDC'
-  | 'APTOS'
 
 export type AdapterProjectDuneQueryIdentifiers = {
   BURN?: string
@@ -48,10 +50,12 @@ export type AdapterProject = {
   description: string | null
   discord: string | null
   duneQueries: AdapterProjectDuneQueryIdentifiers | null
+  foundingYear: string | null
   github: string | null
   investors: string[]
   linkedin: string | null
   name: string
+  ninja: string | null
   subcategories: string | null
   telegram: string | null
   token: string | null

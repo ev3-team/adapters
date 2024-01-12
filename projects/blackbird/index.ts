@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blackbird',
+  ninja: null,
   subcategories: null,
   chain: 'POLYGON',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'vhqz3k',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/blackbirdvc',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

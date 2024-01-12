@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Orbuculum',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['rxw3id'],
   linkedin: 'https://www.linkedin.com/company/dlteo-gmbh',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

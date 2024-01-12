@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Agnostic',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '2pv22r',
@@ -14,6 +15,7 @@ export default {
   investors: ['z5oj4n', 'jo973z', '9wes1b', 'egtjkt', 'hcdvrk', 'nzxtym'],
   linkedin: 'https://www.linkedin.com/company/agnostic/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/agnosticeng',
   github: null,
   telegram: null,

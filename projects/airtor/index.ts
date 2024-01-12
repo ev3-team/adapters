@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AirTor',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@ZeroSumTrayder/ator-protocol-the-next-big-thing-6d67a87243e2',
   github: 'https://github.com/ATOR-Development',
   telegram: 'https://t.me/atorcommunityportal',

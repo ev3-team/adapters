@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'READYgg',
+  ninja: null,
   subcategories: 'Gaming',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'wjko90',
-  description:
-    'READYgg is a Layer3 gaming infrastructure for the Web3 creator economy. They aim to give every developer, creator, and player the power of shared ownership through blockchain technology, token economy, and cross-game NFT assets',
+  description: 'READYgg is a Layer3 gaming infrastructure for the Web3 creator economy.',
   discord: 'https://discord.com/invite/BqHs8cMVEG',
   investors: [
     'y69z86',
@@ -25,6 +25,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/ready-makers-inc/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/readygamesofficial',

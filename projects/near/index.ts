@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NEAR',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -113,6 +114,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/near-protocol-project/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://near.org/blog',
   github: 'https://github.com/near/dx',
   telegram: 'https://t.me/cryptonear',

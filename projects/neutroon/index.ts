@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neutroon',
+  ninja: null,
   subcategories: 'Software',
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: ['0otk44', 'hayr62', '4xtwec', '25jwrn', 'yzamin', '36axil', 'nst1cf'],
   linkedin: 'https://www.linkedin.com/company/neutroon/?originalSubdomain=es',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/neutron-org',
   telegram: 'https://t.me/NeutronCoin',

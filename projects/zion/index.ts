@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zion',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['t3h1fz', 'vy72su', 'o1unbe', 'fyqab6', 'bo9kmm', 'tgsbeu', '60o8uo'],
   linkedin: 'https://twitter.com/get_zion',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/getzion/',
   telegram: null,

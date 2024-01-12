@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PublicAI',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/publicai01',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@contact_88042',
   github: 'https://github.com/PublicAI01',
   telegram: 'https://t.me/Public_AI',

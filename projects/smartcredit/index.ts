@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SmartCredit',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/smartcredit-io/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/smartcredit-io',
   github: 'https://github.com/SmartCredit-io',
   telegram: 'https://t.me/SmartCredit_Community',

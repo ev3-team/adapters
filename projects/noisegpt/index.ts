@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'noiseGPT',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/noisegpt',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@noisegpt',
   github: null,
   telegram: null,

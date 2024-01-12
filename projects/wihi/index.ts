@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiHi',
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/wihi-weather',
   github: 'https://github.com/wihi-labs',
   telegram: null,

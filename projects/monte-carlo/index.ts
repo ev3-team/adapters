@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Monte Carlo',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/monte-carlo-fashions',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

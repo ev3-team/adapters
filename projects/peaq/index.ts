@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Peaq',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'PEAQ',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/peaq-network/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/peaqnetwork',
   github: null,
   telegram: 'https://t.me/s/peaqnetwork?before=165',

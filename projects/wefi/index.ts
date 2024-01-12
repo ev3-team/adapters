@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeFi',
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/wefi',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/wefi',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RDDL',
+  ninja: null,
   subcategories: 'IoT',
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/rddl/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/rddl-network',
   telegram: null,

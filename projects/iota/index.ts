@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IOTA',
+  ninja: null,
   subcategories: 'IoT',
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'IOTA',
   coingeckoId: 'iota',
   id: 'gobzn5',
@@ -14,6 +15,7 @@ export default {
   investors: ['spurmc', 'rnu4s2', 'cm89up', 's2idi6', 'nlvx3r', '24ormv'],
   linkedin: 'http://www.linkedin.com/company/iotafoundation',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@iotafoundation',
   github: 'https://github.com/iotaledger',
   telegram: null,

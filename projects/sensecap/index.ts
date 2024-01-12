@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sensecap',
+  ninja: null,
   subcategories: 'IoT',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '4mztfe',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/seeedstudio/?viewAsMember=true',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

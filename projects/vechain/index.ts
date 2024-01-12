@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'VeChain',
+  ninja: null,
   subcategories: null,
   chain: 'VECHAIN',
   category: 'NOT_DEPIN',
@@ -39,6 +40,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/vechain-foundation',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://vechainofficial.medium.com/',
   github: 'https://github.com/vechain',
   telegram: 'https://t.me/s/vechainannouncement',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'World Mobile',
+  ninja: null,
   subcategories: 'Mobile',
   chain: 'CARDANO',
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/worldmobilegroup/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/worldmobilegroup',
   telegram: 'https://t.me/WorldMobileTeam',

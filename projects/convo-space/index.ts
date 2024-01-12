@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Convo Space',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['vh40ts', 'wjmt17', '44e83n', '2vjau8', 'ti312b', 'tla1v2'],
   linkedin: 'http://www.linkedin.com/company/theconvospace',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/anudit/convo',
   telegram: null,

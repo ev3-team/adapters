@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Croquet',
+  ninja: null,
   subcategories: 'Gaming',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'pl7b4k',
@@ -14,6 +15,7 @@ export default {
   investors: ['ii5tnv', '2ms2ep', 'rv0fmm'],
   linkedin: 'https://www.linkedin.com/company/croquet-corporation',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

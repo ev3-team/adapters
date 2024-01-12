@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Imbue',
+  ninja: null,
   subcategories: 'ML',
   chain: null,
   category: 'NOT_DEPIN',
@@ -54,6 +55,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'http://www.linkedin.com/company/imbue-ai',
   github: 'https://imbue.com/blog/',
   telegram: null,

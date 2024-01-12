@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'US3R',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'hqj4vb',
@@ -14,6 +15,7 @@ export default {
   investors: ['772xwk'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/us3r-network',
   telegram: null,

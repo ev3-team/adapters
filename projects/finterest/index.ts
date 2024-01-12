@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Finterest',
+  ninja: null,
   subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/finteresticp',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/finteresticp',
   github: null,
   telegram: null,

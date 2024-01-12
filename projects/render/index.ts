@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Render',
+  ninja: null,
   subcategories: 'GPUs',
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'COMPUTE',
   token: 'RNDR',
   coingeckoId: 'render-token',
   id: 'drs2bu',
@@ -15,6 +16,7 @@ export default {
   duneQueries: {
     REVENUE: '3264048',
   },
+  foundingYear: null,
   blog: 'https://medium.com/@rendernetwork',
   github: 'https://github.com/rendernetwork/',
   telegram: 'https://t.me/rendernetwork',

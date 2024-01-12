@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NFT3 Labs',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'z1ks7o',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/nft3',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/nft3',
   github: 'https://github.com/nft3labs',
   telegram: 'https://t.me/nft3com',

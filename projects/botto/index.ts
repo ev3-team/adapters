@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Botto',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['ubuz3j'],
   linkedin: 'http://www.linkedin.com/company/bottoproject',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@iambotto',
   github: 'https://github.com/bottoproject',
   telegram: null,

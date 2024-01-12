@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bistroo',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'BIST',
   coingeckoId: 'bistroo',
   id: 'qpkhj7',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/bistroo-nl/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://bistroo.medium.com/',
   github: 'https://github.com/bistroo',
   telegram: null,

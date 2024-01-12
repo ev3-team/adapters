@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Drop',
+  ninja: null,
   subcategories: 'Data',
   chain: 'IOTEX',
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://ca.linkedin.com/company/joindrop',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/timogiles/wireless-dead-drop',
   telegram: null,

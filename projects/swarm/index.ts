@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Swarm',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ethereum-swarm',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/ethersphere',
   telegram: null,

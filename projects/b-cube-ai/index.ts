@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'B-cube.ai',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['ihu5wn'],
   linkedin: 'https://www.linkedin.com/company/11410299/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://bcubeai.medium.com/',
   github: 'https://github.com/b-cube-ai',
   telegram: null,

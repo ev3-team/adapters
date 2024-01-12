@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Irys',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['hhudw8', 'yx4w71', 'vkntey', 'p2kq36', 'o92n85', 'nym997', 'bn4wmc'],
   linkedin: 'https://uk.linkedin.com/company/bundlr-network?trk=ppro_cprof',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/bundlr-network',
   github: 'https://github.com/topics/bundlr',
   telegram: '-https://t.me/TheBundleCommunity-',

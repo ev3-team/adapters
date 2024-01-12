@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Data Union',
+  ninja: null,
   subcategories: 'Data',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'y01ooy',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://sg.linkedin.com/company/dataunion-app',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.dataunion.app/',
   github: 'https://github.com/topics/data-unions',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Push',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -76,6 +77,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/push-protocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/push-protocol',
   github: null,
   telegram: null,

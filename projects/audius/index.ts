@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Audius',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: 'audius',
   id: '4xwmst',
   description:
-    'Audius is a decentralized, community-owned and artist-controlled music-sharing protocol. Audius provides a blockchain-based alternative to existing streaming platforms to help artists publish and monetize their work and distribute it directly to fans. It allows users to upload, share & listen while earning $AUDIO Token Rewards.',
+    'Audius is a decentralized, community-owned and artist-controlled music-sharing protocol.',
   discord: 'https://discord.com/invite/audius',
   investors: [
     'buime9',
@@ -50,6 +51,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/audius-project/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.audius.co/',
   github: null,
   telegram: 'https://t.me/audius',

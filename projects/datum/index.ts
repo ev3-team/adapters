@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Datum',
+  ninja: null,
   subcategories: 'Data',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'zyw7wx',
@@ -13,6 +14,7 @@ export default {
   investors: ['t8rmuj'],
   linkedin: 'https://www.linkedin.com/company/datumfoundation/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

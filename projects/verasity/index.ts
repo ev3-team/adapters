@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Verasity',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'VRA',
   coingeckoId: 'verasity',
   id: '20y2yy',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://vg.linkedin.com/company/verasity',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/verasity',
   github: 'https://github.com/veracity',
   telegram: 'https://t.me/verasity',

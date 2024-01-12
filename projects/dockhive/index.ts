@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dockhive',
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: null,
   id: 'gw14hr',
   description:
-    'DockHive is a cutting-edge platform leveraging blockchain and decentralized networks for secure and scalable Docker container management. At the heart of Dockhive lies its distributed Docker Infrastructure Network.Companies, startups, and developers can effortlessly deploy their Docker containers to this network, which spans across decentralized nodes worldwide.',
+    'DockHive is a cutting-edge platform leveraging blockchain and decentralized networks for secure and scalable Docker container management.',
   discord: 'https://discord.com/invite/YKrnehVBMp',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dockhive/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://dockhive.medium.com/',
   github: 'https://github.com/DockHive/dht',
   telegram: 'https://t.me/Dockhive',

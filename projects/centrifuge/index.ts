@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Centrifuge',
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -54,6 +55,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/centrifugehq',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/centrifuge',
   github: 'https://github.com/centrifuge/',
   telegram: 'https://t.me/centrifuge_chat',

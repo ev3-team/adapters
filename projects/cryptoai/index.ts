@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CryptoAI',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Crypto_AI/growth-the-next-phase-of-cryptoai-2be02b964e2',
   github: null,
   telegram: 'https://t.me/cryptoai_erc',

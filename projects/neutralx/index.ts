@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neutralx',
+  ninja: null,
   subcategories: 'RWA',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/neutral-exchange/about/',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hypersign',
+  ninja: null,
   subcategories: 'ZK',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://github.com/hypersign-protocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/hyperminetech/',
   github: 'https://hypersign.id/blogs',
   telegram: 'https://t.me/hypersignchain',

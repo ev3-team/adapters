@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IPSX',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['fgl6sp', 'w6nihd', 'sj0zmo', '6b3fe3', 'dz1d1a', '8ddjw0', 'p8ujml'],
   linkedin: 'https://linkedin.com/company/ipsxnetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.ip.sx/',
   github: 'https://github.com/ip-exchange',
   telegram: 'https://t.me/IPExchange',

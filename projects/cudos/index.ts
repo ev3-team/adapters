@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cudos',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://uk.linkedin.com/company/cudos1',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/cudos-',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Katzentracker',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.berlintracker.de/',
   github: null,
   telegram: null,

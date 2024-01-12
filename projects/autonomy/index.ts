@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autonomy',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'jow0l5',
-  description:
-    'Autonomy is a decentralized automation protocol designed for Web3 builders. It allows DApps to add features like stop losses and limit orders for DEXes, levels the playing field between centralized and decentralized exchanges, and brings a powerful suite of tools to NFT creators and communities—all through on-chain, conditional execution.',
+  description: 'Autonomy is a decentralized automation protocol designed for Web3 builders.',
   discord: 'https://discord.com/invite/kbDwaW7jfv',
   investors: [
     'onvq9f',
@@ -34,6 +34,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/autonomynetwork/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.autonomynetwork.io/',
   github: 'https://github.com/Autonomy-Network',
   telegram: null,

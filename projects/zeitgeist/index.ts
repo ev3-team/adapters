@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeitgeist',
+  ninja: null,
   subcategories: 'Prediction Market',
   chain: 'POLKADOT',
   category: 'NOT_DEPIN',
@@ -30,6 +31,7 @@ export default {
   ],
   linkedin: 'https://uk.linkedin.com/company/the-zeitgeist-agency-ltd',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@zeitgeist.pro',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Albedo',
+  ninja: null,
   subcategories: 'Satellites',
   chain: null,
   category: 'NOT_DEPIN',
@@ -58,6 +59,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/albedo-space/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

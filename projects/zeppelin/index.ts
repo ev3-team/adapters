@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeppelin',
+  ninja: null,
   subcategories: 'Mining',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'cvzsdf',
@@ -13,6 +14,7 @@ export default {
   investors: ['hol96b', 'rmj9ht', 'v81ftp'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

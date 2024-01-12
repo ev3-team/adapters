@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Canvas',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'ae9xhv',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/canvas-technology-corporation',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

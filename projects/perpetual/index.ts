@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Perpetual',
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/perpetualprotocol/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://perpetualprotocol.medium.com/',
   github: null,
   telegram: 'https://t.me/perpetualprotocol',

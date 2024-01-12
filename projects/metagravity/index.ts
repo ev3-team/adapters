@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaGravity',
+  ninja: null,
   subcategories: 'Gaming',
   chain: null,
   category: 'COMPUTE',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/metagravityltd',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://metagravity.medium.com/',
   github: null,
   telegram: 'https://t.me/Felikxz',

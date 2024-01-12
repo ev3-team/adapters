@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Althea',
+  ninja: null,
   subcategories: null,
   chain: 'GNOSIS',
   category: 'WIRELESS',
@@ -16,6 +17,7 @@ export default {
   duneQueries: {
     REVENUE: '3079022',
   },
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

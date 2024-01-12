@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Swash',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: 'swash',
   id: '8mycy6',
   description:
-    'Swash enables internet users, developers, and businesses to cultivate new realities of data ownership and value creation through new incentivisation streams, innovative data monetisation mechanisms, and a collaborative development framework, governed by the ethos of Web 3. Individuals can regain ownership and receive passive earnings as they surf the web.',
+    'Swash enables internet users, developers, and businesses to cultivate new realities of data ownership and value creation through new incentivisation streams.',
   discord: 'https://discord.com/invite/swash-977736974733557791',
   investors: [
     '7ng8h1',
@@ -43,6 +44,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/swashapp/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/swashapp',
   github: null,
   telegram: null,

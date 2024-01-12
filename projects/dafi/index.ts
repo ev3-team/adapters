@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DAFI',
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/dafiprotocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://dafiprotocol.medium.com/',
   github: null,
   telegram: 'https://t.me/dafiprotocol',

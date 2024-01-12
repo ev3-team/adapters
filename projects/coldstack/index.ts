@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ColdStack',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -39,6 +40,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/coldstack',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/coldstack',
   github: 'https://github.com/ColdStack-Network/',
   telegram: 'https://t.me/coldstackio',

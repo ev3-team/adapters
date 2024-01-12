@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WifiDabba',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://in.linkedin.com/company/wifidabba',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

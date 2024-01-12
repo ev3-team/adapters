@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kwil',
+  ninja: null,
   subcategories: 'Data',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '9xue69',
@@ -33,6 +34,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/kwilteam',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/kwildb',
   github: 'https://github.com/kwilteam',
   telegram: null,

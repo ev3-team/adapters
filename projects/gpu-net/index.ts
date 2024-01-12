@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GPU.Net',
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['bah2fw'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@GPUnet',
   github: 'https://medium.com/@GPUnet',
   telegram: 'https://t.me/brahm_gan',

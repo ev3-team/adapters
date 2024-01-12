@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BBS',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['5drrpf', 'mrgeec', 'ia20oh', 'v2rrnz', '2vjau8', 'tqh3bl', 'bcfknm'],
   linkedin: 'https://www.linkedin.com/company/bbsnet/?trk=similar-pages',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

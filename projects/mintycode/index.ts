@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mintycode',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: ['a1uyxq'],
   linkedin: 'https://linkedin.com/company/mintycode-dao',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://mintycode.io/blog',
   github: null,
   telegram: 'https://t.me/mintycodedao',

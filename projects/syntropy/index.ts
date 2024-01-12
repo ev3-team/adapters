@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Syntropy',
+  ninja: null,
   subcategories: 'Bridges',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/syntropynet/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/SyntropyNet',
   telegram: 'https://t.me/SyntropyNet',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Raven',
+  ninja: null,
   subcategories: 'Training',
   chain: 'BINANCE',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['h8sw72', '07pxi6'],
   linkedin: 'https://linkedin.com/company/ravenprotocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/ravenprotocol',
   github: null,
   telegram: 'https://t.me/ravenprotocol',

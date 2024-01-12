@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DLTEO',
+  ninja: null,
   subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: ['296d7m'],
   linkedin: 'https://at.linkedin.com/company/dlteo-gmbh',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

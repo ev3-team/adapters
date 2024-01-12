@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SONM',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/sonm/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://sonm.medium.com/',
   github: 'https://github.com/sonm-io',
   telegram: 'https://t.me/sonm_eng',

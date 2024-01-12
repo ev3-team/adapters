@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FX Land',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/functionland/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://fx.land/blog/',
   github: 'https://github.com/functionland/docs',
   telegram: 'https://t.me/functionland',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dimo',
+  ninja: null,
   subcategories: 'Auto',
   chain: 'POLYGON',
   category: 'SENSORS',
@@ -15,6 +16,7 @@ export default {
   duneQueries: {
     KEY_METRIC: '3241310',
   },
+  foundingYear: null,
   blog: 'https://medium.com/dimo-network',
   github: null,
   telegram: null,

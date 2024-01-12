@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FWB',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: 'friends-with-benefits-pro',
   id: 'kcidbl',
   description:
-    'Friends With Benefits is a new kind of social network made up of creatives and builders who believe in the promise of a better internet. They all hold $FWB tokens as a way to collectively fund and govern their community endeavors and co-own what they create together.',
+    'Friends With Benefits is a new kind of social network made up of creatives and builders who believe in the promise of a better internet.',
   discord: 'https://discord.com/invite/3jCyswsKFn',
   investors: [
     '26x5nn',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/fwb-pro/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

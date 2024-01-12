@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Matrix AI',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/matrixainetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://matrixainetwork.medium.com/',
   github: 'https://github.com/MatrixAINetwork',
   telegram: 'https://t.me/matrixainetwork',

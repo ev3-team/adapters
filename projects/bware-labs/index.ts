@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bware Labs',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'udxaxs',
@@ -48,6 +49,7 @@ export default {
   ],
   linkedin: 'https://bware.page.link/linkedin',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://bware.page.link/medium',
   github: 'https://bware.page.link/github',
   telegram: 'https://bware.page.link/telegram',

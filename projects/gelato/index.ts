@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gelato',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -33,6 +34,7 @@ export default {
   ],
   linkedin: 'https://no.linkedin.com/company/gelato',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@gelatonetwork',
   github: 'https://github.com/gelatodigital',
   telegram: 'https://t.me/gelatonetwork',

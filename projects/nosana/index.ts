@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nosana',
+  ninja: 'Sami',
   subcategories: null,
   chain: 'SOLANA',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/nosana',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://nosana.medium.com/',
   github: 'https://github.com/nosana-ci',
   telegram: 'https://t.me/NosanaCI',

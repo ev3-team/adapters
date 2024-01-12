@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Stackr',
+  ninja: null,
   subcategories: 'Software',
   chain: null,
   category: 'NOT_DEPIN',
@@ -31,6 +32,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/stackr-labs/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

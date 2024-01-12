@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Wingbits',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/wingits',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@wingbits',
   github: 'https://github.com/wingbit',
   telegram: null,

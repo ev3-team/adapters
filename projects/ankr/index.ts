@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ankr',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'ANKR',
   coingeckoId: 'ankr',
   id: 'hqtk8u',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ankr',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/ankr-network',
   github: 'https://github.com/Ankr-network',
   telegram: 'https://t.me/ankrnetwork',

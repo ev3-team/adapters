@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Atlas Navi',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: ['ug1ce2', 'k9wwxc'],
   linkedin: 'https://ro.linkedin.com/company/atlasnavi',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/AtlasNaviApp',

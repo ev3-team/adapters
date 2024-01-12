@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nodle',
+  ninja: null,
   subcategories: 'Positioning',
   chain: 'POLKADOT',
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/nodle',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://nodle.medium.com/',
   github: 'https://github.com/NodleCode',
   telegram: 'https://telegram.me/nodlecommunity',

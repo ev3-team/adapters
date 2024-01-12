@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Antic',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['2mccdz', 'zfetjw', 'ozeg73', '3coq1f', '80hqah', 'lb80u5', '3mv99i', 'z8j32q'],
   linkedin: 'http://www.linkedin.com/company/anticxyz',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/multeez',
   github: null,
   telegram: null,

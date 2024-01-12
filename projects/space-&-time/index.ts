@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Space & Time',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'COMPUTE',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'heeyow',
@@ -44,6 +45,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/space-and-time-media/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@SpaceandTimeDB',
   github: 'https://github.com/spaceandtimelabs',
   telegram: 'https://t.me/spaceandtimedb',

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Braintrust',
+  ninja: null,
   subcategories: 'Labor',
   chain: 'ETHEREUM',
-  category: 'LABOR',
+  category: 'SERVICES',
   token: 'BTRST',
   coingeckoId: 'braintrust',
   id: '8mk3xj',
@@ -19,6 +20,7 @@ export default {
     MINT: '3168277',
     PRICE: '3151429',
   },
+  foundingYear: null,
   blog: 'https://medium.com/tag/braintrust',
   github: null,
   telegram: null,

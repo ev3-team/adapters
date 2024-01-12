@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NuNet',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -24,6 +25,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/nunet-global/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/nunet',
   github: null,
   telegram: 'https://t.me/NuNet_community',

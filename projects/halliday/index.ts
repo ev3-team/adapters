@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Halliday',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'vq2wa3',
@@ -14,6 +15,7 @@ export default {
   investors: ['92ar5l', '26x5nn', 'ja2261', 's2rvpp', 'jn1ani', 'h2kgqh', 'k1e97y'],
   linkedin: 'https://www.linkedin.com/company/halliday/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@HallidayHQ',
   github: null,
   telegram: null,

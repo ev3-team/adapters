@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Astran',
+  ninja: null,
   subcategories: 'Software, Storage',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['1btbzp', 'a7a5r8', 'wd3noh', '8554jm', 'qrb29i', 'qqdf15'],
   linkedin: 'http://www.linkedin.com/company/astran-io',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Everdome',
+  ninja: null,
   subcategories: null,
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['mrgeec', '9sg91a', 'm65oq5', 'smqwtv'],
   linkedin: 'https://www.linkedin.com/company/everdome-io/?originalSubdomain=ae',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/everdome',

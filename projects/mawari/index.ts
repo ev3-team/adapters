@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mawari',
+  ninja: null,
   subcategories: 'CDN',
   chain: null,
   category: 'COMPUTE',
@@ -24,6 +25,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/mawari/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

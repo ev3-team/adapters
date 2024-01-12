@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Siglo',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -29,6 +30,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/siglointernet',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

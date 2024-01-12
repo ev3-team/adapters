@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Planetwatch',
+  ninja: null,
   subcategories: null,
   chain: 'ALGORAND',
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: ['s7b833', 'buo8ql', 'u2w7b1', 'tuqdxz', 'rx31o6', 'j74kap', '2lb530'],
   linkedin: 'https://www.linkedin.com/company/planetwatch/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/planet-watch',
   github: null,
   telegram: 'https://t.me/planetwatch',

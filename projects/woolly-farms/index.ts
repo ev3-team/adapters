@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Woolly Farms',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'xh846b',
@@ -14,6 +15,7 @@ export default {
   investors: ['tp1utn', 'q2yhs8', 'jjax7d', 'w3mg1d', 'iy5jcg', 'jo3t4g', 'do6tql'],
   linkedin: 'https://www.linkedin.com/company/woollyfarms/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

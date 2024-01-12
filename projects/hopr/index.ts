@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'HOPR',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -34,6 +35,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/hoprnet',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/hoprnet',
   github: 'https://github.com/hoprnet',
   telegram: 'https://t.me/hoprnet',

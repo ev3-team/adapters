@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nitro League',
+  ninja: null,
   subcategories: 'Gaming, Rewards',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/nitro-league/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/nitroleaguegame',

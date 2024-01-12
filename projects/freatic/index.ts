@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Freatic',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'php632',
   description:
-    'Freatic is a project focused on developing a decentralized information markets protocol. This protocol utilizes cryptography and game theory to connect individuals possessing untapped information with actors who can capitalize on these opportunities. The goal is to create an ecosystem where valuable but hidden information can be efficiently exchanged, addressing the challenges often associated with information goods in traditional markets.',
+    'Freatic is a project focused on developing a decentralized information markets protocol.',
   discord: null,
   investors: [
     'fahk60',
@@ -26,6 +27,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/freaticteam/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@freaticteam',
   github: 'https://github.com/freatic',
   telegram: null,

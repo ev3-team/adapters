@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OriginTrail',
+  ninja: null,
   subcategories: 'Mobile',
   chain: 'POLKADOT',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/origintrail',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/origintrail',
   github: 'https://github.com/OriginTrail',
   telegram: 'https://t.me/origintrail',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kosen',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['26x5nn', 'ynh9fg', '6ln74n', 'yx4w71', 'ti312b'],
   linkedin: 'https://www.linkedin.com/company/kosenlabs/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/kosenlabs',
   github: 'https://github.com/kosen-labs',
   telegram: null,

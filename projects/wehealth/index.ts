@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeHealth',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '80us6v',
@@ -14,6 +15,7 @@ export default {
   investors: ['trl8xo'],
   linkedin: 'https://www.linkedin.com/company/wehealthorg/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ares Protocol',
+  ninja: null,
   subcategories: 'Oracle',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'ARES',
   coingeckoId: 'ares-protocol',
   id: 'obq296',
@@ -33,6 +34,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/aresprotocol/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://aresprotocollab.medium.com/',
   github: 'https://github.com/aresprotocols',
   telegram: 'https://t.me/AresProtocolLab',

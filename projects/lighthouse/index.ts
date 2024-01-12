@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lighthouse',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['896jil', 'yoijyl', 'po8xe3', '07pxi6', 'ti312b'],
   linkedin: 'https://www.linkedin.com/company/lighthouse-global/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/GoogleChrome/lighthouse',
   telegram: 'https://t.me/LighthouseStorage',

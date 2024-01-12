@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Skywire',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['vb9nmm', 'xxojpr', 'nkrulw'],
   linkedin: 'https://www.linkedin.com/company/skycoin/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.skycoin.com/blog/',
   github: 'https://github.com/skycoin',
   telegram: 'https://t.me/Skycoin',

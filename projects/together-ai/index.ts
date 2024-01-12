@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Together.ai',
+  ninja: null,
   subcategories: 'GPUs',
   chain: null,
   category: 'AI',
@@ -43,6 +44,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/togethercomputer',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AhoyDAO',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'cqpqpq',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ahoy-/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/ahoy-cli/ahoy',
   telegram: null,

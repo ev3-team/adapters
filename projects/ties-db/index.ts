@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ties.DB',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/tiesdb/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/tiesnetwork',
   telegram: 'https://t.me/tiesdb',

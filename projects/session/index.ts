@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Session',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'xm8o5o',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/sessionmessenger',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://getsession.org/blog',
   github: 'https://github.com/oxen-io',
   telegram: null,

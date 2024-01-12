@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Logos',
+  ninja: null,
   subcategories: 'Legal',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'dojvzb',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/logos-internet-marketing-experts',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/logos-co',
   telegram: null,

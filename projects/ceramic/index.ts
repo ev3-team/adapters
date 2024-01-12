@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ceramic',
+  ninja: null,
   subcategories: 'Data',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'ancy5d',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ceramic-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/ceramic',
   github: 'https://github.com/ceramicnetwork',
   telegram: 'https://t.me/s/shreejiceramic?before=2',

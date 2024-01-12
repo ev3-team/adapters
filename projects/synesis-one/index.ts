@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Synesis One',
+  ninja: null,
   subcategories: null,
   chain: 'SOLANA',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['5qx1w8'],
   linkedin: 'http://www.linkedin.com/company/synesisone',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@synesisone',
   github: null,
   telegram: 'https://t.me/Synesis_One',

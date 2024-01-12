@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EtherMail',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'EMT',
   coingeckoId: 'ethermail',
   id: 'hoaz0e',
@@ -13,6 +14,7 @@ export default {
   investors: ['q8to28', 'uwmmpg', '4x7qfo', 'wir0cg', 'uv5644', 'qmxifm', 'hcdvrk', 'beuueu'],
   linkedin: 'http://www.linkedin.com/company/xearndao',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/ethermail_official',

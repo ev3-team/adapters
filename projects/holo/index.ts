@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Holo',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/holochain',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/holochain',
   github: 'https://github.com/holochain',
   telegram: null,

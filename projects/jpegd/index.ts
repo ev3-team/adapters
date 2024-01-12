@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: "JPEG'd",
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['fxmvug'],
   linkedin: 'https://www.linkedin.com/company/jpeg',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@jpegd',
   github: 'https://github.com/topics/jpeg-decoder',
   telegram: null,

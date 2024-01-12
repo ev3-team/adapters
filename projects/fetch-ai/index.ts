@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fetch.ai',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/fetch-ai',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/fetch-ai',
   github: 'https://github.com/fetchai?utm_source=Website',
   telegram: 'https://t.me/fetch_ai?utm_source=website',

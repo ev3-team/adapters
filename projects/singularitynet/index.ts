@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SingularityNET',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -33,6 +34,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/singularitynet',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/tag/singularitynet',
   github: 'https://github.com/singnet',
   telegram: 'https://telegram.me/singularitynet',

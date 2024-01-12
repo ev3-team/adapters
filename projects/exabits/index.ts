@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Exabits',
+  ninja: null,
   subcategories: 'GPUs',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['yont93', 'vjpj24', '9cx2zp'],
   linkedin: 'http://www.linkedin.com/company/exabits',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/decentralizedcomputing',
   github: null,
   telegram: 'https://t.me/+D0CulDl9udZjMWIx',

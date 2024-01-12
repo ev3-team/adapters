@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Superalgos',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['hyymt5'],
   linkedin: 'https://mt.linkedin.com/company/superalgos',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/superalgos',
   github: 'https://github.com/Superalgos/Superalgos',
   telegram: null,

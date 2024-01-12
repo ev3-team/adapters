@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Superlocal',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/superlocalapp/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@superlocalapp',
   github: null,
   telegram: null,

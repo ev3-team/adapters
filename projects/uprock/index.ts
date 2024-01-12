@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'UpRock',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/uprock/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/uprockcom',
   telegram: 'https://t.me/uprockcom',

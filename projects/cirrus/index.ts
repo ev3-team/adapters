@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cirrus',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://in.linkedin.com/company/cirrusipfs',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

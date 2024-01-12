@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RSS3',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -47,6 +48,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/rss3',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/tag/rss3',
   github: 'https://github.com/NaturalSelectionLabs',
   telegram: 'https://bit.ly/3e6FZoV',

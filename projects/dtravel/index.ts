@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DTravel',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'SERVICES',
   token: 'TRVL',
   coingeckoId: 'dtravel',
   id: '37xksc',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/dtraveldao/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/dtravel-community',
   github: 'https://github.com/dTravel',
   telegram: 'https://t.me/dtravelcommunity',

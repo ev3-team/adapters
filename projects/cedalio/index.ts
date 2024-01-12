@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cedalio',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'w0adea',
@@ -13,6 +14,7 @@ export default {
   investors: ['8krsge', 'eofkvo', 'g0e1qt', 'wdtkj1'],
   linkedin: 'http://www.linkedin.com/company/cedalio',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@cedalio',
   github: 'https://github.com/cedalio',
   telegram: null,

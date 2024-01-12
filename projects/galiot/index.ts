@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Galiot',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/galiot-io/?originalSubdomain=se',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@galiot.io',
   github: null,
   telegram: null,

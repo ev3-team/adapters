@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kresko',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'pks4ee',
@@ -24,6 +25,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/kreskolabs/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/kreskofi',
   github: 'https://github.com/kreskohq/',
   telegram: 'https://t.me/kreskofi',

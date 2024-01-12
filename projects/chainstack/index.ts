@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Chainstack',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['6lkaak', 'e3k6q3'],
   linkedin: 'https://www.linkedin.com/company/chainstack/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://chainstack.com/blog/',
   github: null,
   telegram: 'https://t.me/chainstack',

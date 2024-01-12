@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MintMe',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['m65oq5'],
   linkedin: 'http://www.linkedin.com/company/mintme',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/mintme-com',
   telegram: 'https://t.me/joinchat/Hzio4lCr-95bHcbB1-RX9Q',

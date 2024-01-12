@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'iExec',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/iex.ec',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/iex-ec',
   github: 'https://github.com/iExecBlockchainComputing',
   telegram: 'https://t.me/iexec_rlc_official',

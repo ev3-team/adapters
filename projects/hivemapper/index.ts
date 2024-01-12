@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hivemapper',
+  ninja: null,
   subcategories: 'Positioning',
   chain: 'SOLANA',
   category: 'SENSORS',
@@ -15,6 +16,7 @@ export default {
   duneQueries: {
     REVENUE: '3284780',
   },
+  foundingYear: null,
   blog: 'https://medium.com/@hivemapper',
   github: 'https://github.com/hivemapper',
   telegram: null,

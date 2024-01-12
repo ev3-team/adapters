@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'tDrive',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://ca.linkedin.com/company/t-drive',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@VeganLover/how-does-google-drive-work-2cda31c58ce8',
   github: 'https://github.com/linagora/TDrive',
   telegram: null,

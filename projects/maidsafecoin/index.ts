@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MaidSafeCoin',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/maidsafe/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/safenetwork',
   github: 'https://github.com/maidsafe/maidsafe.net',
   telegram: 'https://t.me/safenetwork',

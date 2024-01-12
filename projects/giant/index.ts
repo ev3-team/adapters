@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GIANT',
+  ninja: null,
   subcategories: null,
   chain: 'POLKADOT',
   category: 'WIRELESS',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/giantconnectapp',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/topics/giant',
   telegram: 'https://t.me/giantprotocol',

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tanssi',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'zc045a',
@@ -14,6 +15,7 @@ export default {
   investors: ['csfyvy', 'buo8ql', 'h97beq', 'm6mz4i', 'mywjsu', 'nxzb7m', 'vkntey', '8zouxb'],
   linkedin: 'http://www.linkedin.com/company/medium-com',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

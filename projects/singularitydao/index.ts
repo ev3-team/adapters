@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SingularityDAO',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/singularitydao',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/singularitydao',
   github: null,
   telegram: 'https://t.me/SingDAO',

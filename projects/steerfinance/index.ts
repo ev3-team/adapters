@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SteerFinance',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: ['4l8mmr', 'j1rzkc', 'unykak'],
   linkedin: 'https://www.linkedin.com/company/steer-protocol/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/steerprotocol',
   telegram: null,

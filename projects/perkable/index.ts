@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Perkable',
+  ninja: null,
   subcategories: 'Rewards',
   chain: 'IOTEX',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'z6715d',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/perkableco',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

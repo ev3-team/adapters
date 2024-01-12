@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bird.Money',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['mrgeec'],
   linkedin: 'https://www.linkedin.com/company/birdmoney/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/bird-money',
   github: 'https://github.com/bird-money',
   telegram: 'https://t.me/joinchat/AAAAAEzyFurRdr3sZZnrBw',

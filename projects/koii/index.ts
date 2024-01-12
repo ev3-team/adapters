@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koii',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'xfjtib',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/koii-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://koii-network.medium.com/',
   github: 'https://github.com/koii-network/',
   telegram: 'https://t.me/koiinetwork',

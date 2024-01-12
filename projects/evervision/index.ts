@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'everVision',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -29,6 +30,7 @@ export default {
   ],
   linkedin: 'https://sg.linkedin.com/company/ever-vision',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/everFinance',
   telegram: null,

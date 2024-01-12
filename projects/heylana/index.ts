@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Heylana',
+  ninja: null,
   subcategories: 'ML',
   chain: null,
-  category: 'SENSORS',
+  category: 'AI',
   token: null,
   coingeckoId: null,
   id: 'bonzt3',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

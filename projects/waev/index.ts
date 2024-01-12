@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Waev',
+  ninja: null,
   subcategories: 'Data',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'mwkpfa',
@@ -13,6 +14,7 @@ export default {
   investors: ['dnl49s', 'lhs5s8'],
   linkedin: 'https://www.linkedin.com/company/waevco',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/thedevdojo/wave',
   telegram: 'https://t.me/s/wasscedito10?before=38',

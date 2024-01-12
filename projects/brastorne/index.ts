@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Brastorne',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: ['8n52xb', 'rwkoys', 'yont93', '7iz9rv'],
   linkedin: 'https://www.linkedin.com/company/brastorne/mycompany/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.brastorne.com/blogs',
   github: null,
   telegram: null,

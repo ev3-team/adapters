@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Royale',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: 'royale',
   id: 'csbwex',
   description:
-    'Provider of cross-chain decentralized finance services intended to serve the iGaming industry. The company creates Web 3.0 smart-backed liquidity that allows iGaming entrepreneurs to bootstrap innovation with the security and transparency of the blockchain, enabling entrepreneurs to fund their bankroll via a network of participants rewarded to provide capital.',
+    'Provider of cross-chain decentralized finance services intended to serve the iGaming industry.',
   discord: null,
   investors: [
     'o5kpgb',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/officialroyale/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://officialroyale.medium.com/',
   github: null,
   telegram: 'https://t.me/RoyaleFinance',

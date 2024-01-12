@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mapmetrics',
+  ninja: null,
   subcategories: 'Auto',
   chain: 'SOLANA',
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://nl.linkedin.com/company/mapmetrics',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/MobileRoboticsSkoltech/map-metrics',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koinos',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/koinosnetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/koinosnetwork/tagged/koinos',
   github: 'https://github.com/koinos',
   telegram: 'https://t.me/joinchat/SXe6mLnb8Ssywlq9',

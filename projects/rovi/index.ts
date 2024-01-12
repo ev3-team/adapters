@@ -2,18 +2,19 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ROVI',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'tpkifk',
-  description:
-    "The ROVI is one of the most innovative power-bases ever created. Unlike anything that has come before, the ROVI utilizes a unique chassis configuration that creates MORE stability with LESS overall width. It's a simple, but remarkable breakthrough in power wheelchair design, and when paired with our powerful 4-pole motors and patented ARC Suspension, the result is truly noteworthy.",
+  description: 'The ROVI is one of the most innovative power-bases ever created.',
   discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

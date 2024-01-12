@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Royal',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 't62qym',
@@ -39,6 +40,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/joinroyal/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://support.royal.io/hc/en-us',
   github: null,
   telegram: null,

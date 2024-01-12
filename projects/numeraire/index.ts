@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Numeraire',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: 'numeraire',
   id: 'lw588k',
   description:
-    'Numeraire Numerai is an Ethereum-based platform for developers to experiment and create machine learning models.',
+    'Numerai is an Ethereum-based platform for developers to experiment and create machine learning models.',
   discord: 'https://discord.com/invite/numerai',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/numerai',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/numerai',
   github: 'https://github.com/numerai',
   telegram: 'https://t.me/NMR_Official',

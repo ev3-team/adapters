@@ -53,6 +53,24 @@ const investorsIds = investorsList.map(({ id }) => id)
         `Investor with name: "${row.name}" found in DePIN-Investors.csv was not found in investors list.  Make sure all investors in the investors csv exist in the investors folder. Run \`pnpm update:investors\` to update investors list.`
       )
     })
+
+  let idx = 0
+  const projectsNames = projectsList.map((p) => p.name) as string[]
+  createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
+    .pipe(csv.parse())
+    .on('error', (error) => console.error(error))
+    .on('data', async (row) => {
+      if (idx === 0) {
+        ;(row.slice(2) as string[]).forEach((pName) => {
+          if (!projectsNames.includes(pName)) {
+            console.warn(
+              `[WARN] Expected project ${pName} to be exported by list at projects/index.ts. Otherwise remove form DePIN-Projects-Investors.csv`
+            )
+          }
+        })
+      }
+      idx++
+    })
 }
 
 /** Projects validations */

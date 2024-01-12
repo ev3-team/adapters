@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autify',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['drdidh', 'i5wxg4', 'b6vnn8'],
   linkedin: 'https://www.linkedin.com/company/autify-network/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://autifynetwork.com/the-blog/',
   github: null,
   telegram: null,

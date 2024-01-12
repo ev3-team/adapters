@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Akord',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['hhudw8', 'm6mz4i', 'nio0gx', 'xgzede', 'pu3yyr'],
   linkedin: 'https://fr.linkedin.com/company/akord-co',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/Akord-com',
   telegram: null,

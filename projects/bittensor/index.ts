@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bittensor',
+  ninja: null,
   subcategories: 'Inferencing',
   chain: 'NATIVE',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://github.com/topics/bittensor',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://bittensor.medium.com/',
   github: 'https://github.com/topics/bittensor',
   telegram: null,

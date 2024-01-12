@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Constellation',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/constellation-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/constellationlabs',
   github: 'https://github.com/Constellation-Labs/tessellation',
   telegram: 'https://t.me/constellationcommunity',

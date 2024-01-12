@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KWAI',
+  ninja: null,
   subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://kwailabs.medium.com/',
   github: null,
   telegram: 'https://t.me/kwai_labs_announcement',

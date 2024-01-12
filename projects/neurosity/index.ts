@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neurosity',
+  ninja: null,
   subcategories: 'Hardware',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '6bppe0',
@@ -14,6 +15,7 @@ export default {
   investors: ['b55yh4', '94mx0d', 'g3q5mo', '3vy365', 'hq8rgo', 'kcl4ay'],
   linkedin: 'https://www.linkedin.com/company/neurosity',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/neurosity',
   github: 'https://github.com/neurosity',
   telegram: null,

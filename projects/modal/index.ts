@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Modal',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -44,6 +45,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/modal-labs/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/modal-labs',
   telegram: null,

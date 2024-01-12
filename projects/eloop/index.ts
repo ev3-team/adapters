@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ELOOP',
+  ninja: null,
   subcategories: 'Ridesharing',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'c0u4u3',
@@ -13,6 +14,7 @@ export default {
   investors: ['465enh', 't6e1va', 'ni2m14', 'zd61np', 'rjhzji', 'hvyw00', 'efovez'],
   linkedin: 'https://www.linkedin.com/company/eloopmobi',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/eloopone',

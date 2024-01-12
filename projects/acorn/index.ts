@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Acorn',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'ACN',
   coingeckoId: 'acorn-protocol',
   id: 'a0dbki',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/acorn',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://mobile.twitter.com/AcornProtocol/status/1706843598581358812',
   telegram: null,

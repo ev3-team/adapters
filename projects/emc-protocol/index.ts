@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EMC Protocol',
+  ninja: null,
   subcategories: null,
   chain: 'ARBITRUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@EMCProtocol',
   github: 'https://github.com/EMCProtocol-dev',
   telegram: 'https://t.me/+NGI26KSbBpA3YzA0',

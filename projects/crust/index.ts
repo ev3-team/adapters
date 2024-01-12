@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Crust',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/crust',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://crustnetwork.medium.com/',
   github: 'https://github.com/crustio',
   telegram: null,

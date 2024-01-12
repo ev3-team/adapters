@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Foam',
+  ninja: null,
   subcategories: 'Positioning',
   chain: 'ETHEREUM',
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/foam-corp',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/f-o-a-m/',
   telegram: null,

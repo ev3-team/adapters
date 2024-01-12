@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vectorspace',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/vector-space-biosciences',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://spacebiosciences.medium.com/',
   github: 'https://github.com/vectorspace-ai',
   telegram: 'https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA',

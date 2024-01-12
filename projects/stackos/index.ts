@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StackOS',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -38,6 +39,7 @@ export default {
   ],
   linkedin: 'https://linkedin.com/company/stackos',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/stackos',
   github: 'https://github.com/stackosofficial',
   telegram: 'https://t.me/DeployOnStackOS',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PureFi',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['870le2', 'ka4f30'],
   linkedin: 'http://www.linkedin.com/company/purefi',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/purefi',
   github: null,
   telegram: 'https://t.me/purefiprotocol',

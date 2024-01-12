@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Metis',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -60,6 +61,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/metis-io',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://metisdao.medium.com/',
   github: 'https://github.com/MetisProtocol',
   telegram: 'https://t.me/MetisDAO',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sonr',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['m9zsej', 'vjpj24', '09s6ji', 'lhs5s8', 'xf57bt', 'lzpnns', '20h0o8'],
   linkedin: 'http://www.linkedin.com/company/sonr-io',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://sonr.io/github',
   telegram: null,

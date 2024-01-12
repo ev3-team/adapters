@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Spexigon',
+  ninja: null,
   subcategories: 'Drones',
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/spexigon',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

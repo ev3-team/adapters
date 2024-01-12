@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Filebase',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['2g0699', '6iy81o', '9kybya'],
   linkedin: 'https://linkedin.com/company/filebase',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/filebase',
   telegram: null,

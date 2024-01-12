@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Supra',
+  ninja: null,
   subcategories: 'Oracle',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '2d4mvd',
@@ -56,6 +57,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/supraoracles/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@SupraOracles',
   github: null,
   telegram: 'https://t.me/SupraOracles',

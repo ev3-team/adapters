@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kandola',
+  ninja: null,
   subcategories: 'IoT',
   chain: null,
   category: 'COMPUTE',
@@ -23,6 +24,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/kandola-network/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@KandolaNetwork',
   github: null,
   telegram: 'https://web.telegram.org/a/',

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Yokai',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'jbyfc1',
@@ -13,6 +14,7 @@ export default {
   investors: ['jtzx5o', '6nxw7d', 'bxcu1r', '7vs71r', 'o76txg'],
   linkedin: 'http://www.linkedin.com/company/yokainetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://yokainetwork.medium.com/',
   github: null,
   telegram: null,

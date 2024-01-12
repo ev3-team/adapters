@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Upfire',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/upfireofficial',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/upfire/',
   github: 'https://github.com/UpfireHQ/upfire',
   telegram: 'https://t.me/UpfireOfficial',

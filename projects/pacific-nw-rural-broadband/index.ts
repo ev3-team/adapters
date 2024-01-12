@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pacific NW Rural Broadband',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: null,
   id: '6lqv0x',
   description:
-    'The Pacific Northwest Rural Broadband Alliance is a registered non-profit ISP dedicated to facilitate the adoption of next generation blockhain-based decentralized infrastructure technologies to solve the ever widening digital divide created by big telecom ignoring the needs of our rural communities.',
+    'The Pacific Northwest Rural Broadband Alliance is a registered non-profit ISP dedicated to facilitate the adoption of next generation blockhain-based decentralized infrastructure technologies.',
   discord: 'https://discord.com/invite/xmqjcCuG3a',
   investors: ['ii5tnv'],
   linkedin: 'https://www.linkedin.com/company/nw-rural-broadband-alliance/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://nwba.medium.com/',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Polybase',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/polybase',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@polybase',
   github: 'https://github.com/polybase',
   telegram: 'https://twitter.com/polybase_xyz?lang=en',

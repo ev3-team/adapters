@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Healthtracka',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'mq0qgk',
@@ -24,6 +25,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/healthtracka/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.healthtracka.com/',
   github: null,
   telegram: null,

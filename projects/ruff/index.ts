@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ruff',
+  ninja: null,
   subcategories: 'IoT',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/ruffllc/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

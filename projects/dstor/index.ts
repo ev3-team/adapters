@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DStor',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dstor',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/SitePen/dstore/blob/master/docs/Store.md',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Spacemesh',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -45,6 +46,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/spacemesh',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/spacemesh',
   github: 'https://github.com/spacemeshos',
   telegram: null,

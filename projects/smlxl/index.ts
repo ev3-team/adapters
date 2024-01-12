@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Smlxl',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'x6phis',
   description:
-    'At smlXL, we spend much time diving into solc - our latest blog series (3 parts) will cover areas of solc that lack documentation yet are essential (and interesting), here is the first one: "The features and quirks of solc calling conventions"',
+    'At smlXL, we spend much time diving into solc - our latest blog series (3 parts) will cover areas of solc that lack documentation yet are essential (and interesting).',
   discord: null,
   investors: [
     'rny435',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/smlxl-tech',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.smlxl.io/',
   github: 'https://github.com/smlxl',
   telegram: null,

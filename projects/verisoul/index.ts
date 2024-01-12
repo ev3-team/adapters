@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Verisoul',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '2gzcyz',
@@ -14,6 +15,7 @@ export default {
   investors: ['vmqmcr', 'y69z86', 'nxzb7m', 'ztth3k', '5iut57', '566vlr', 'vub62z'],
   linkedin: 'http://www.linkedin.com/company/verisoul-stops-fake-users',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/verisoul',
   telegram: 'https://t.me/Verisoul',

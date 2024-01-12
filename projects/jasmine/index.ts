@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Jasmine',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/jasmine-energy',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/jasmine-energy?source=topics_v2-8-84022bb4b1_df6b_4af1_8461_679c57abc67d-17',
   github: 'https://github.com/jasmine',
   telegram: null,

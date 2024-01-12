@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Crewdle',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: ['j8kxto'],
   linkedin: 'https://linkedin.com/company/crewdle',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Archblock',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'rq4805',
   description:
-    "Archblock is a decentralized alternatives marketplace built on TrueFi's open, transparent and immutable financial infrastructure. Archblock offers globally accessible, diversified investment opportunities.",
+    "Archblock is a decentralized alternatives marketplace built on TrueFi's open, transparent and immutable financial infrastructure.",
   discord: null,
   investors: [
     '2q8xba',
@@ -47,6 +48,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/archblock/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.archblock.com/blog',
   github: null,
   telegram: null,

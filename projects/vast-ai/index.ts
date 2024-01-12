@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vast.ai',
+  ninja: null,
   subcategories: 'GPUs',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/vast-ai',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/vast-ai',
   telegram: null,

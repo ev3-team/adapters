@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fluence',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/fluence-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/fluence-network',
   github: 'https://github.com/fluencelabs',
   telegram: 'https://t.me/fluence_project',

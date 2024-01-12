@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sentinel',
+  ninja: null,
   subcategories: 'VPN',
   chain: 'COSMOS',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/sentinelco',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/sentinel',
   github: 'https://github.com/sentinel-official',
   telegram: 'https://t.me/sentinel_co',

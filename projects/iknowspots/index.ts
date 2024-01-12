@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'iKnowSpots',
+  ninja: null,
   subcategories: 'NFTs',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/iknowspots/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

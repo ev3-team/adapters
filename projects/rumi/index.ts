@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rumi',
+  ninja: null,
   subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://pt.linkedin.com/company/rumi-finance',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

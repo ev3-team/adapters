@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mysterium',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/mysteriumnet',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/mysterium-network',
   github: 'https://github.com/MysteriumNetwork',
   telegram: 'https://t.me/mysterium_network',

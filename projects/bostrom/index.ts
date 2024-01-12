@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bostrom',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/cybercongress',
   telegram: 'https://t.me/cyber',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ReapChain',
+  ninja: null,
   subcategories: 'IoT',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/reapchain',
   github: 'https://github.com/reapchain/testnets',
   telegram: 'https://t.me/ReapchianOfficial',
