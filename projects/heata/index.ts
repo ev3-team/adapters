@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'heata',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -14,6 +15,7 @@ export default {
   investors: ['ac14rq', 'g1hgzb', '5e17r6', 'udus4e'],
   linkedin: 'https://www.linkedin.com/company/heatacompute/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@heata_cloud_compute',
   github: null,
   telegram: null,

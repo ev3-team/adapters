@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NATIX',
+  ninja: null,
   subcategories: 'Auto',
   chain: null,
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/natixio',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/natix-io',
   github: 'https://github.com/natix-io',
   telegram: 'https://discord.com/invite/ZqrCX9HBx6',

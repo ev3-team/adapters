@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SecondLive',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '6qvjpf',
@@ -31,6 +32,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@SecondLiveReal',
   github: 'https://github.com/SecondLive23',
   telegram: 'https://t.me/SecondLiveCommunity',

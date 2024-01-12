@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nosh',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'LABOR',
+  category: 'SERVICES',
   token: null,
   coingeckoId: null,
   id: 'k270zx',
@@ -14,6 +15,7 @@ export default {
   investors: ['7zvxz8', '71zhdn'],
   linkedin: 'http://www.linkedin.com/company/noshdelivery',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

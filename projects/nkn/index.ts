@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NKN',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/nknorg',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/nknorg',
   telegram: 'https://t.me/nknorg',

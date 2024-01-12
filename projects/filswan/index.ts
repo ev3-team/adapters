@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FilSwan',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/swancloud',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@swanchain',
   github: 'https://github.com/filswan',
   telegram: 'https://t.me/swan_chain/1',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Massive',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -43,6 +44,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/massive/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/topics/massive',
   telegram: null,

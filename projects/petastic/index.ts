@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Petastic',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'g32gdz',
@@ -14,6 +15,7 @@ export default {
   investors: ['b2ybqs', 'lzpnns', 'j5aqjt', 'gduv1m'],
   linkedin: 'https://linkedin.com/company/petastic-inc',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

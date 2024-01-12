@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Orchai',
+  ninja: null,
   subcategories: 'DeFi',
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: ['9e7ewb'],
   linkedin: 'https://www.linkedin.com/company/orchai/?originalSubdomain=vn',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/orchaiofficial',

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sarcophagus',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'SARCO',
   coingeckoId: 'sarcophagus',
   id: 'se7wj7',
@@ -24,6 +25,7 @@ export default {
   ],
   linkedin: 'https://github.com/sarcophagus-org',
   duneQueries: null,
+  foundingYear: null,
   blog: 'http://www.linkedin.com/company/sarcophagusio',
   github: null,
   telegram: null,

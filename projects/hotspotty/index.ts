@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hotspotty',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: ['7zvxz8', '6c0yfx', '1im0oz'],
   linkedin: 'https://www.linkedin.com/company/hotspotty-official/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/hotspotty',
   github: 'https://github.com/hotspotty',
   telegram: null,

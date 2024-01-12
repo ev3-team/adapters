@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NexGen Cloud',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: ['kv8oq2'],
   linkedin: 'https://www.linkedin.com/company/nexgen-cloud',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

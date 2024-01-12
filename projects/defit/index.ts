@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Defit',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: 'POLYGON',
-  category: 'OTHER',
+  category: 'SERVICES',
   token: 'DEFIT',
   coingeckoId: 'defit',
   id: 'jmavqd',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://sg.linkedin.com/company/defitfitnessclub',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://defitofficial.medium.com/',
   github: null,
   telegram: 'https://t.me/DEFITofficial',

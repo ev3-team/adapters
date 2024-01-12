@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Impermax',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['8nclhv', 'wxcf8r', 'okjrd0', 'ka4f30', '7xqu4s'],
   linkedin: 'http://www.linkedin.com/company/impermax-finance',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://impermax.medium.com/',
   github: 'https://github.com/Impermax-Finance',
   telegram: null,

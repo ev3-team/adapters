@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autochain',
+  ninja: null,
   subcategories: 'Auto',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'dwrle8',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/forethought-ai/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

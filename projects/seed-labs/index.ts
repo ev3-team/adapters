@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Seed Labs',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['qrf4l1'],
   linkedin: 'https://www.linkedin.com/in/seed-lab-my-9246951a8/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

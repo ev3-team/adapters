@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Taliot',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/copilot-ai-disaster-management',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

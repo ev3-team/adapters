@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ArDrive',
+  ninja: 'W. L.',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -36,6 +37,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/showcase/ar-io/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/ar-io',
   telegram: null,

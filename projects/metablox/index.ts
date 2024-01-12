@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Metablox',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/metablox/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://metabloxnetwork.medium.com/metablox-x-cryptolab-ama-recap-highlights-ba556d3ce506',
   github: 'https://github.com/MetaBloxIO',
   telegram: null,

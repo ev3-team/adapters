@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ThreeFold',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/threefold-foundation',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/threefoldfoundation',
   telegram: 'https://t.me/threefoldnews',

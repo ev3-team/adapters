@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeatherXM',
+  ninja: null,
   subcategories: 'Environmental',
   chain: 'POLYGON',
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://gr.linkedin.com/company/weatherxm',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.weatherxm.com/',
   github: null,
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Qiro',
+  ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'alkph8',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/qiro-group/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

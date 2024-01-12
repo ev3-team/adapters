@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pitch',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -33,6 +34,7 @@ export default {
   ],
   linkedin: 'https://github.com/pitch-io',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/pitchhq',
   github: 'https://pitch.com/blog',
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AXIS',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'AXIS',
   coingeckoId: 'axis-token',
   id: '56jkto',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/laneaxis/axisToken_smart_contact',
   telegram: 'https://t.me/laneaxis',

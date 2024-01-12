@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Storj',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -17,6 +18,7 @@ export default {
     BURN: '3202771',
     PRICE: '3202773',
   },
+  foundingYear: null,
   blog: 'https://medium.com/@storjproject',
   github: 'https://github.com/Storj/',
   telegram: 'https://telegram.me/StorjProject',

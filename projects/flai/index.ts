@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flai',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/flai-ai',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.flai.ai/blog',
   github: null,
   telegram: null,

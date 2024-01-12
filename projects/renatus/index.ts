@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Renatus',
+  ninja: null,
   subcategories: 'Robotics',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '83jvhp',
@@ -13,6 +14,7 @@ export default {
   investors: ['my802w', '9yr6ry'],
   linkedin: 'https://ie.linkedin.com/company/renatus-capital-partners',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://discord.com/invite/G9SCvAE',
   github: null,
   telegram: null,

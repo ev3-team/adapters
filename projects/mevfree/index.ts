@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MEVFree',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/mevfree',
   telegram: 'https://t.me/MevFree',

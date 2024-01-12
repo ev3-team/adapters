@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Incognito',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/incognitochain',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@incognitochain',
   github: 'https://github.com/incognitochain',
   telegram: 'https://t.me/incognitochain',

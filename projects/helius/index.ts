@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Helius',
+  ninja: null,
   subcategories: 'RPC/Indexing',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'kj3v3r',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://github.com/helius-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/heliusapi/',
   github: 'https://www.helius.dev/blog',
   telegram: '--',

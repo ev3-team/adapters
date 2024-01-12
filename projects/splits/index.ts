@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Splits',
+  ninja: null,
   subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['wjmt17', 's2rvpp', '0jtsyn'],
   linkedin: 'https://www.linkedin.com/company/0xsplits/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://splits.org/blog/',
   github: 'https://github.com/0xSplits',
   telegram: null,

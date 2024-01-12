@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bloxtel',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: ['vmqmcr', '566vlr', 'pixi8p', '6mh2rx'],
   linkedin: 'http://www.linkedin.com/company/bloxtel',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

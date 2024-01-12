@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Prodia',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['ztdj15', 'hqx0t6', 'lay4ny'],
   linkedin: 'https://www.linkedin.com/company/prodia-labs/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

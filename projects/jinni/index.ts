@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Jinni',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/jinni/?originalSubdomain=il',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@njinn',
   github: 'https://github.com/jinni',
   telegram: null,

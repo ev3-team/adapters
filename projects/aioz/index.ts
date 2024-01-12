@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AIOZ',
+  ninja: null,
   subcategories: 'CDN',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -23,6 +24,7 @@ export default {
   ],
   linkedin: 'https://sg.linkedin.com/company/aioz-ai',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/aioz-network',
   github: null,
   telegram: 'https://t.me/s/aiozofficial',

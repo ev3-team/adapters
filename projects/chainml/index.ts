@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ChainML',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: ['7ygqh2', 'nxzb7m', 'i1x9du', 'po8xe3', 'xnftxc', 'wu15kr'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

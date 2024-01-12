@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ProximaX',
+  ninja: null,
   subcategories: null,
   chain: 'BINANCE',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['2q8xba', 'pcw959'],
   linkedin: 'https://www.linkedin.com/company/proximaxltd',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/proximax-storage',
   telegram: null,

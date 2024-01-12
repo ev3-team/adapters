@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kino',
+  ninja: null,
   subcategories: 'NFTs',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['mk79mv', 'b2ybqs', 'fh8wrd', 'vf0qg4', 'ooq1d1'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/kinomakesmovies/',
   github: null,
   telegram: null,

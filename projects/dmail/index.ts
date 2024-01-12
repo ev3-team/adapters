@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dmail',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -40,6 +41,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/dmail-idee-utili-e-introvabili',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@dmail_official',
   github: 'https://github.com/dmailofficial/dmail',
   telegram: 'https://t.me/dmailofficial',

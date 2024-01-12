@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Orchid',
+  ninja: null,
   subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/orchidprotocol',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/OrchidTechnologies',
   telegram: 'https://www.t.me/OrchidOfficial',

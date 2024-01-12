@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hello',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['ogm8ug', '6q3rb7', '4vwd01'],
   linkedin: 'https://www.linkedin.com/company/hellostorage/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/hello-storage',
   telegram: null,

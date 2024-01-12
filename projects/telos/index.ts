@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Telos',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/telos-blockchain-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://hellotelos.medium.com/',
   github: 'https://github.com/telosnetwork',
   telegram: 'https://t.me/HelloTelos',

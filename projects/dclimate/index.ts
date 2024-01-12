@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'dClimate',
+  ninja: null,
   subcategories: 'Environmental, Data',
   chain: null,
-  category: 'OTHER',
+  category: 'ENERGY',
   token: null,
   coingeckoId: null,
   id: 'a5w7th',
@@ -31,6 +32,7 @@ export default {
   ],
   linkedin: 'https://linkedin.com/company/dclimatenet',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/dClimate',
   telegram: 'http://t.me/dclimatechat-',

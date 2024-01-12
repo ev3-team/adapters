@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flock Safety',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -34,6 +35,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/flock-safety/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

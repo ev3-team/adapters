@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Safe Haven',
+  ninja: null,
   subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://github.com/Safehaven-io',
   duneQueries: null,
+  foundingYear: null,
   blog: 'http://www.linkedin.com/company/safe-haven-sha',
   github: null,
   telegram: 'https://t.me/safehavenio',

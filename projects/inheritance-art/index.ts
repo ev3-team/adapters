@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'inheritance Art',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/inheritance-art',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

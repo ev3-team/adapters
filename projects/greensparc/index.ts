@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Greensparc',
+  ninja: null,
   subcategories: 'Environmental, Data',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: ['pkaqi7', 'a3dnz6'],
   linkedin: 'https://www.linkedin.com/company/greensparc/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.greensparc.com/',
   github: null,
   telegram: null,

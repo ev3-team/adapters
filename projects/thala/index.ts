@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Thala',
+  ninja: null,
   subcategories: null,
   chain: 'APTOS',
   category: 'NOT_DEPIN',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

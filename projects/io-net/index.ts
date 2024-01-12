@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IO.Net',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: '61zuw7',
@@ -13,6 +14,7 @@ export default {
   investors: ['2g0699'],
   linkedin: 'https://linkedin.com/company/antbitio',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/ionet-official',
   telegram: 'https://t.me/ionet_official',

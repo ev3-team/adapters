@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LocalPro',
+  ninja: null,
   subcategories: 'Rewards',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '0pgbgt',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/localpro-x',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Network3',
+  ninja: null,
   subcategories: 'VPN',
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@network3',
   github: null,
   telegram: 'https://t.me/network3official',

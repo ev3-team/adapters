@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tepax',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'pz0ffy',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/tepax',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

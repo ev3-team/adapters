@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Myna',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'wqoxyk',
   description:
-    'Myna is a platform built by collectors, for collectors, that empowers goods to be traded beyond their physical form. Myna Swap allows users to trade in real-time with other collectors around the globe without the hassle of managing the logistics of physical assets.',
+    'Myna is a platform built by collectors, for collectors, that empowers goods to be traded beyond their physical form.',
   discord: null,
   investors: [
     '47vy1z',
@@ -30,6 +31,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/mynaswap/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

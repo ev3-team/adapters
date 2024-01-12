@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ethstorage',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'COMPUTE',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://ethstorage.medium.com/',
   github: 'https://github.com/ethstorage/',
   telegram: 'https://t.me/ethstorage',

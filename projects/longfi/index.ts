@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LongFi',
+  ninja: null,
   subcategories: 'Mining',
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/longfisolutions/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/topics/longfi',
   telegram: null,

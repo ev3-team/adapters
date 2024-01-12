@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kunji',
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/kunjiofficial',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Kunjifinance',
   github: null,
   telegram: 'https://t.me/+qUmTI8yQNQozNTc1',

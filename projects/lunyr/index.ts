@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lunyr',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['v2r2oo'],
   linkedin: 'https://www.linkedin.com/company/lunyr/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/lunyr',
   github: null,
   telegram: 'https://t.me/lunyrcommunity',

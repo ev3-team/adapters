@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Oraichain',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['i98114'],
   linkedin: 'http://www.linkedin.com/company/oraichain',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://oraichain.medium.com/',
   github: 'https://github.com/oraichain',
   telegram: 'https://t.me/oraichain',

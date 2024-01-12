@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Apillion',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['4l8mmr', '0hfvt9', '6uuq9l', '6hezki', 'uilrdd', 'nj1v3c', 'ka28kz'],
   linkedin: 'https://www.linkedin.com/company/apillon/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/Apillon',
   telegram: null,

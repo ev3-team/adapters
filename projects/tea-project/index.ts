@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'TEA Project',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/tea-project/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://teaproject.medium.com/',
   github: null,
   telegram: 'https://t.me/teaprojectorg',

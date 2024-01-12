@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Create',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/create-protocol/?originalSubdomain=ae',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://create-protocol.medium.com/',
   github: null,
   telegram: null,

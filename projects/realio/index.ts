@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Realio',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/realio',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Realio_Network',
   github: 'https://github.com/realiotech',
   telegram: 'https://en.telghub.com/content?id=43971',

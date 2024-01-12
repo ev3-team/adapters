@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'D3',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -26,6 +27,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'http://www.linkedin.com/company/d3inc',
   github: null,
   telegram: null,

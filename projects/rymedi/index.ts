@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rymedi',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'aexn5y',
@@ -14,6 +15,7 @@ export default {
   investors: ['ltitbn', 'hbpmm3', 'spe24s', 'l2sa3p', 'pixi8p', 'o3c9bd'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Subsquid',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'cp4cw6',
@@ -38,6 +39,7 @@ export default {
   ],
   linkedin: 'https://ch.linkedin.com/company/subsquid',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://subsquid.medium.com/',
   github: 'https://github.com/subsquid',
   telegram: 'https://t.me/subsquid',

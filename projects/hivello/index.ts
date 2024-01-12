@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hivello',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: ['4xnix2', '3eyneg'],
   linkedin: 'http://www.linkedin.com/company/hivello',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

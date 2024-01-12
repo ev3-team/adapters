@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Karrier One',
+  ninja: null,
   subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/karrier-one/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://karrier-one.medium.com/celebrating-q1-2023-milestones-expanding-karrier-ones-global-wireless-telecom-network-33977918e52d',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Millicent Labs',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['94mx0d'],
   linkedin: 'https://www.linkedin.com/company/millicentlabs/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.millicent.io/blog',
   github: null,
   telegram: null,

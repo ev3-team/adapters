@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'QANplatform',
+  ninja: null,
   subcategories: 'L1/L2, Quantum',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['poal5z', '8nclhv', '35e9e6', 'zdzojb', '97h38q', 'wri2vw'],
   linkedin: 'https://www.linkedin.com/company/qanplatform/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://qanplatform.medium.com/',
   github: 'https://github.com/QANplatform',
   telegram: 'https://t.me/QANplatform',

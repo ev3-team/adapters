@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'impactMarket',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/impactmarket',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/impactmarket',
   github: 'https://github.com/impactMarket',
   telegram: 'https://t.me/impactMarketOfficial',

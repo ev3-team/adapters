@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hedgehog',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['keqf0l', 'p13mb7'],
   linkedin: 'https://www.linkedin.com/company/githedgehog/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/githedgehog',
   telegram: null,

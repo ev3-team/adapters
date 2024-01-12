@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cindicator',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/vote-',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Cindicator',
   github: null,
   telegram: 'https://t.me/cindicator_news',

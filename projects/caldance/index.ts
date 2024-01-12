@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Caldance',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://sg.linkedin.com/company/caldance',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

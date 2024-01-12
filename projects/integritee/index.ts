@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Integritee',
+  ninja: null,
   subcategories: 'TEE',
   chain: 'POLKADOT',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'TEER',
   coingeckoId: 'integritee',
   id: '6hlk6x',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/integritee',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.integritee.network/blog',
   github: null,
   telegram: 'https://t.me/Integritee_Official',

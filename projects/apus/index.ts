@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Apus',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/apus-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@apusnetwork',
   github: 'https://github.com/apuslabs',
   telegram: 'https://t.me/+AWdHtLSl2m4yM2I1',

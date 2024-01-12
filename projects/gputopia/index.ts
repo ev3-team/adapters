@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GPUtopia',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: 'lj3v06',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://gputopia.ai/blog',
   github: null,
   telegram: null,

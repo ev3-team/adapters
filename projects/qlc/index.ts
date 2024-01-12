@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'QLC',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/qlcchain',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://keppleio.medium.com/',
   github: null,
   telegram: 'https://t.me/KeppleAnnouncements',

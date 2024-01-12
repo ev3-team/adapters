@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MODA',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -35,6 +36,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/moda-foundation/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/modadao',

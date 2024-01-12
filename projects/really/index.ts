@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Really',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/reallywireless',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

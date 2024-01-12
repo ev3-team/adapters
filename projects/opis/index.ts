@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Opis',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/opis-group-ltd/?originalSubdomain=uk',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

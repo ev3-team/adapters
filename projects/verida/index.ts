@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Verida',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -30,6 +31,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/verida-technology/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://news.verida.io/',
   github: null,
   telegram: 'https://t.me/verida_community',

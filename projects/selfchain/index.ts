@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SelfChain',
+  ninja: null,
   subcategories: 'Software',
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/selfchainxyz',

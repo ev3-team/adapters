@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ComplexLabs',
+  ninja: null,
   subcategories: 'NFTs',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/complexlabsweb3',
   github: null,
   telegram: null,

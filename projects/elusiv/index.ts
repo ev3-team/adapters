@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Elusiv',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '3wkk5f',
   description:
-    'Elusiv is building Web3’s universal encryption layer empowering the decentralized world. Elusiv Protocol aims to revolutionizing the world of blockchain transactions by providing a much-needed privacy layer through the use of Zero-Knowledge proofs.',
+    'Elusiv is building a Web3 universal encryption layer empowering the decentralized world.',
   discord: 'https://discord.com/invite/elusivprivacy',
   investors: [
     'fahk60',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/elusiv/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/elusiv-privacy',
   github: 'https://github.com/elusiv-privacy',
   telegram: null,

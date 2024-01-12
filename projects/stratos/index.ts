@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Stratos',
+  ninja: null,
   subcategories: 'Data',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'STOS',
   coingeckoId: 'stratos',
   id: '4jq13p',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/stratos-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://stratos-network.medium.com/',
   github: 'https://github.com/stratosnet',
   telegram: 'https://t.me/Stratos_announcement',

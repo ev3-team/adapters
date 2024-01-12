@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koda',
+  ninja: null,
   subcategories: 'Robotics',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/kodarobot',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -90,6 +90,8 @@ export type AdaptersProjectCsvRow = {
   coinGeckoID: string
   description: string
   subcategories: string
+  ninja: string
+  foundingYear: string
   twitter: string
   discord: string
   telegram: string
@@ -100,7 +102,7 @@ export type AdaptersProjectCsvRow = {
 
 /** Generates a row for the projects csv. */
 export const generateProjectsCsvRow = (p: AdaptersProjectCsvRow) =>
-  `${p.name},${p.id},${p.url},${p.category},${p.chain},${p.token},${p.coinGeckoID},${p.description},${p.subcategories},${p.twitter},${p.discord},${p.telegram},${p.blog},${p.github},${p.linkedin}`
+  `${p.name},${p.id},${p.url},${p.category},${p.chain},${p.token},${p.coinGeckoID},${p.description},${p.subcategories},${p.ninja},${p.foundingYear},${p.twitter},${p.discord},${p.telegram},${p.blog},${p.github},${p.linkedin}`
 
 export type AdapterProjectDuneCsvRow = {
   name: string

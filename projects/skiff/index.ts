@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Skiff',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -35,6 +36,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/skiffprivacy/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://skiff.com/blog',
   github: 'https://github.com/skiff-org',
   telegram: null,

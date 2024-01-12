@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Suptho',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -23,6 +24,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/suptho/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/introducing-suptho',
   github: null,
   telegram: null,

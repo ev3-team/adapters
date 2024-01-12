@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CheckDot',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/checkdot',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://checkdot.medium.com/',
   github: 'https://github.com/checkdot',
   telegram: 'https://t.me/checkdot',

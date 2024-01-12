@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MASQ',
+  ninja: null,
   subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/masqproject',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/masq-project',
   github: 'https://github.com/MASQ-Project',
   telegram: 'https://t.me/MASQ_ai',

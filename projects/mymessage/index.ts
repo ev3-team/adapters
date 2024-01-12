@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'myMessage',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -36,6 +37,7 @@ export default {
   ],
   linkedin: 'https://linkedin.com/company/mymessageofficial',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@myMessage',
   github: 'https://github.com/myMessageio',
   telegram: 'https://t.me/mymessageEN',

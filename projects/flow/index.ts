@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flow',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -40,6 +41,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/flow-blockchain/?originalSubdomain=ca',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://flow.com/blog',
   github: 'https://github.com/onflow',
   telegram: null,

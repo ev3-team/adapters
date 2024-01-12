@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mobilian',
+  ninja: null,
   subcategories: 'Auto',
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/mobiliancoin/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/mobiliancoin',

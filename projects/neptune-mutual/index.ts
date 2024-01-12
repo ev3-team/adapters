@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neptune Mutual',
+  ninja: null,
   subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
   token: 'NPM',
   coingeckoId: 'neptune-mutual',
   id: 'r4h43s',
-  description:
-    'Neptune Mutual is the first parametric insurance protocol created for Ethereum. Neptune Mutual platform explores new avenues to creating user-centric risk protection products on the blockchain. By offering stablecoin-based cover pools for accurate risk management, they aim to attract a steady userbase and growing liquidity to the platform.',
+  description: 'Neptune Mutual is the first parametric insurance protocol created for Ethereum.',
   discord: 'https://discord.com/invite/2qMGTtJtnW',
   investors: [
     'o5kpgb',
@@ -51,6 +51,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/neptune-mutual',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://neptunemutual.com/blog/',
   github: 'https://github.com/neptune-mutual-blue',
   telegram: 'https://t.me/neptunemutual',

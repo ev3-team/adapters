@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Alt Labs',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['iebjfe'],
   linkedin: 'https://uk.linkedin.com/company/alt-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@alt_labs',
   github: 'https://github.com/RVA-ALT-Lab',
   telegram: null,

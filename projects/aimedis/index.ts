@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aimedis',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: 'POLYGON',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: ['jkryns', 'imxksv'],
   linkedin: 'https://www.linkedin.com/company/aimedis/?originalSubdomain=nl',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/AimedisOfficialEnglish',

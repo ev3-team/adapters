@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'friend.tech',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['tfi9fe'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

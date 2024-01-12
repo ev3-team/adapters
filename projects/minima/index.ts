@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Minima',
+  ninja: null,
   subcategories: 'Mobile, IoT',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -28,6 +29,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/minimaglobal',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.minima.global/',
   github: 'https://github.com/minima-global',
   telegram: 'https://t.me/Minima_Global',

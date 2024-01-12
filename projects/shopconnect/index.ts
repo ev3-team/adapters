@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ShopConnect',
+  ninja: null,
   subcategories: 'ZK',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['pr1zjq'],
   linkedin: 'https://www.linkedin.com/company/ethglobal/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://ethglobal.medium.com/',
   github: 'https://github.com/ethglobal',
   telegram: null,

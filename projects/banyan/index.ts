@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Banyan',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['lzpnns', '7r9603'],
   linkedin: 'https://www.linkedin.com/company/banyancomputer',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

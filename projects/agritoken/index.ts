@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Agritoken',
+  ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'gaa7c0',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/agritoken/?originalSubdomain=br',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

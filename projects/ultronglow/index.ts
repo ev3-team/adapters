@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'UltronGlow',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ultronglow',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://ultronglow.medium.com/',
   github: 'https://github.com/UltronGlow',
   telegram: 'https://t.me/UltronGlowOfficial',

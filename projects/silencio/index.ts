@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Silencio',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/silencio',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@eversept/about?source',
   github: 'https://github.com/topics/silencio',
   telegram: 'https://telegram.me/silencio17',

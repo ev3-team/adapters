@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Beyond',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'BP',
   coingeckoId: 'beyond-protocol',
   id: '3kk637',
@@ -14,6 +15,7 @@ export default {
   investors: ['9edg3l', 'gkv33p'],
   linkedin: 'http://www.linkedin.com/company/beyond-protocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://beyondprotocol.medium.com/',
   github: 'https://github.com/beyondprotocol',
   telegram: 'http://t.me/beyondprotocol',

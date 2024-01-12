@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bloodchain',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
-  category: 'OTHER',
+  category: 'SERVICES',
   token: null,
   coingeckoId: null,
   id: 'epty1v',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

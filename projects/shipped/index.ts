@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Shipped',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'v05a0g',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/shipped-com',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://shipped.com/blog/',
   github: null,
   telegram: null,

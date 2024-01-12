@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'VIP3',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '517uvj',
@@ -14,6 +15,7 @@ export default {
   investors: ['yxetck', 'lp0gdl', 'tnkrzw'],
   linkedin: 'https://uk.linkedin.com/company/metafour',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

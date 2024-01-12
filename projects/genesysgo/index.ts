@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GenesysGo',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'SOLANA',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/GenesysGo/',
   telegram: null,

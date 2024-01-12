@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vayu',
+  ninja: null,
   subcategories: 'Robotics',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['4bc5rd', 's5s0ze', 'q7n0kr', 'kh5hbg'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'http://www.linkedin.com/company/vayu-robotics',
   github: null,
   telegram: null,

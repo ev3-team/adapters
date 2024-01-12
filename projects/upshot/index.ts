@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Upshot',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: null,
   id: '2ne1u8',
   description:
-    'Upshot is a decentralized AI platform enabling efficient financial markets for anything. They combine their experience building novel crowdsourcing infrastructure and industry-leading ML models to create a scalable, self-improving network of collective machine intelligence.',
+    'Upshot is a decentralized AI platform enabling efficient financial markets for anything.',
   discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

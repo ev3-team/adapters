@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ChainGPT',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/chaingpt',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@chaingpt',
   github: 'https://github.com/ChainGPT-org',
   telegram: 'https://t.me/chaingpt',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StorX',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'XDC',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/storxnetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/storx-network',
   github: 'https://github.com/StorXNetwork',
   telegram: 'https://t.me/StorXNetwork',

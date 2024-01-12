@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ocean',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ocean-protocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@TeamOcean',
   github: 'https://github.com/oceanprotocol',
   telegram: 'https://t.me/OceanProtocol_Community',

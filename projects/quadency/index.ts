@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Quadency',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['4dqura'],
   linkedin: 'https://www.linkedin.com/company/quadency',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/quadency',
   telegram: 'https://t.me/joinchat/Fbj0HRHlGePeT8QeV-4uBg',

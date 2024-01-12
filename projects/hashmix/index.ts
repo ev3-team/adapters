@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'HashMix',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '5v5xcz',
   description:
-    'HashMix is a fully decentralized hash power tokenization and circulation platform. HashMix proposes a tokenization scheme suitable for arbitrary hash power, implements a set of universal decentralized cloud hash power trading, lending, and swapping protocols to solve hash power fraud, hash power oversold, over-simplified product design, and lack of liquidity and flexibility in the current market, enables the free redistribution of global hash power.',
+    'HashMix proposes a tokenization scheme suitable for arbitrary hash power, implements a set of universal decentralized cloud hash power trading, lending, and swapping protocols.',
   discord: 'https://discord.com/invite/bWfFB5v48r',
   investors: [
     '1zgufc',
@@ -32,6 +33,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://hashmix.medium.com/',
   github: 'https://github.com/HashMixProject',
   telegram: 'https://t.me/HashMixChannel',

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Acxyn',
+  ninja: null,
   subcategories: 'Gaming',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'ktxx7q',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/acxyn',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

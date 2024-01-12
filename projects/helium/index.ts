@@ -2,13 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Helium',
+  ninja: null,
   subcategories: 'Mobile',
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'HNT',
   coingeckoId: 'helium',
   id: '5bm99m',
-  description: 'Helium is a decentralized network for IoT.',
+  description:
+    'Helium is a decentralized network of networks with Mobile, IoT, & other subnetworks.',
   discord: 'https://discord.com/invite/helium',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/heliumnetwork',
@@ -19,6 +21,7 @@ export default {
     TIME_SERIES: '2944860',
     KEY_METRIC: '3223298',
   },
+  foundingYear: null,
   blog: 'https://heliuminc.medium.com/',
   github: 'https://github.com/helium',
   telegram: 'https://telegram.me/s/HELIUM',

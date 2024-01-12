@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'UBIQnet',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ubiqnet',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/ubiqnet',
   telegram: null,

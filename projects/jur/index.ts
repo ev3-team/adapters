@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Jur',
+  ninja: null,
   subcategories: null,
   chain: 'VECHAIN',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'JUR',
   coingeckoId: 'jur',
   id: 'y5mzyr',
@@ -14,6 +15,7 @@ export default {
   investors: ['uwmmpg', 'mywjsu', '7vadqq', 'h25e6r', '5u4ou5'],
   linkedin: 'https://linkedin.com/company/jur-network',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

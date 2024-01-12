@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ScPrime',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: 'SCP',
   coingeckoId: 'scprime',
   id: 'ui2nbm',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/scp-corp',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/coinmonks/scprime-long-term-investment-providing-your-own-storage-c2ab374c754a',
   github: 'https://github.com/topics/scprime',
   telegram: null,

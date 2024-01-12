@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nym',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -35,6 +36,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/nymproject',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.nymtech.net/',
   github: 'https://github.com/nymtech',
   telegram: 'https://t.me/nymchan',

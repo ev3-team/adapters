@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MXC',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'MXC',
   coingeckoId: 'mxc',
   id: 'h1l8jh',
-  description:
-    'MXC enables physical objects to be bridged with the metaverse, DeFi, IoT, and NFT marketplace.',
+  description: 'MXC is a L3 zkEVM built on top of a decentralized network of LPWAN radio nodes.',
   discord: 'https://discord.com/invite/mxcfoundation',
   investors: [
     '1ifr28',
@@ -27,6 +27,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/mxc-foundation',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/mxc',
   github: 'https://github.com/mxc-foundation',
   telegram: 'https://t.me/mxcfoundation',

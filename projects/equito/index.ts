@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Equito',
+  ninja: null,
   subcategories: 'Bridges',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://it.linkedin.com/company/equito-finance',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/EquitoBridge',
   telegram: null,

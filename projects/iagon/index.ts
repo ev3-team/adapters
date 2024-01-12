@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Iagon',
+  ninja: null,
   subcategories: 'IoT',
   chain: 'CARDANO',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'IAG',
   coingeckoId: 'iagon',
   id: 'omgud6',
@@ -33,6 +34,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/iagon/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/Iagon_official',

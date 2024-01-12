@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Valist',
+  ninja: null,
   subcategories: 'Gaming',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['dsinl9', 'fbn00x', 'vh40ts'],
   linkedin: 'http://www.linkedin.com/company/valist-inc',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/valist-io',
   telegram: null,

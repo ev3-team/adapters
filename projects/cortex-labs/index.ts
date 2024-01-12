@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cortex Labs',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
@@ -45,6 +46,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/ctxcblockchain/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/CortexOfficialEN',

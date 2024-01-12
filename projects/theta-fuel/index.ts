@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Theta Fuel',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -52,6 +53,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/theta-labs-inc',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/theta-network',
   github: 'https://github.com/thetatoken',
   telegram: 'https://t.me/s/thetanetwork_announcements?before=516',

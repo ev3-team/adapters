@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiFi Map',
+  ninja: null,
   subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
@@ -19,6 +20,7 @@ export default {
     MINT: '2944857',
     PRICE: '2944859',
   },
+  foundingYear: null,
   blog: 'https://medium.com/@wifimap',
   github: null,
   telegram: 'https://t.me/+GhVechqawKk5OTk0',

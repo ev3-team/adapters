@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Eclipse',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'dgqlyo',
   description:
-    "Eclipse is Ethereum's fastest L2, powered by the Solana Virtual Machine. Eclipse makes it possible to build applications that can coordinate masses of people and scale with any developer’s needs.",
+    "Eclipse is Ethereum's fastest L2, powered by the Solana Virtual Machine. Eclipse makes it possible to build applications that can coordinate masses of people and scale with any developer‚Äôs needs.",
   discord: 'https://discord.com/invite/PVcbxdqj6r',
   investors: [
     'idlbd7',
@@ -35,6 +36,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/eclipse-laboratories/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.eclipse.builders/blog',
   github: null,
   telegram: 'https://t.me/eclipse_labs',

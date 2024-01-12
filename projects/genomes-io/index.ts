@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Genomes.io',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'AI',
   token: 'GENE',
   coingeckoId: 'genomesdao',
   id: 'lfu9ni',
@@ -14,6 +15,7 @@ export default {
   investors: ['vh40ts', 'm65oq5', 'st9ohk'],
   linkedin: 'https://www.linkedin.com/company/genomes-io/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/genomesio',
   telegram: null,

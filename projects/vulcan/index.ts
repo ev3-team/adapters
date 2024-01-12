@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vulcan',
+  ninja: null,
   subcategories: 'Gaming, L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/vulcan-forged',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://vulcanforgedco.medium.com/',
   github: null,
   telegram: 'https://t.me/s/VulcanAnnouncements?before=1565',

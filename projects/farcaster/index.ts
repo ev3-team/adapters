@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Farcaster',
+  ninja: null,
   subcategories: 'Social',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'qbrxm3',
-  description:
-    'Farcaster is a sufficiently decentralized protocol for building social apps. Sufficient decentralization means that two people who want to communicate can always do so. It also means developers have permissionless access to public data on the network.',
+  description: 'Farcaster is a sufficiently decentralized protocol for building social apps.',
   discord: null,
   investors: [
     'mp2gqb',
@@ -41,6 +41,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/farcaster/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/farcasterxyz',
   telegram: 'https://t.me/farcasterdevchat',

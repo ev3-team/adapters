@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IPFS',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/protocollabs/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.ipfs.tech/',
   github: 'https://github.com/ipfs',
   telegram: null,

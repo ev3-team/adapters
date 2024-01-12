@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ukaton',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ukaton/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/Ukaton-Inc',
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Untangled',
+  ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'xexd0a',
@@ -14,6 +15,7 @@ export default {
   investors: ['5sjxy4', 'njueo3'],
   linkedin: 'https://github.com/untangledfinance',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/untangled-finance/',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hapi',
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['rlo5x9', 'nqkr1o', '3fcax3', '65epfb', 'n7ldex', 'rk3esc', 'tktadr'],
   linkedin: 'https://www.linkedin.com/company/hapi-protocol/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/i-am-hapi',
   github: 'https://github.com/HAPIprotocol',
   telegram: 'https://t.me/hapiHF',

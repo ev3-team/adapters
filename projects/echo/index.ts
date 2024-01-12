@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ECHO',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '9zzvik',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/echo-',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@bestvideomovies',
   github: null,
   telegram: null,

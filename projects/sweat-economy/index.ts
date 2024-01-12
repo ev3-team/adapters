@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sweat Economy',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'SWEAT',
   coingeckoId: 'sweat-economy',
   id: 'c0amvh',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

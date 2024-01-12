@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Visionary',
+  ninja: null,
   subcategories: 'VPP',
   chain: null,
   category: 'ENERGY',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/visionaryis/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@almehawas',
   github: null,
   telegram: null,

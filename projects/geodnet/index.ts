@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Geodnet',
+  ninja: null,
   subcategories: 'Positioning',
   chain: 'POLYGON',
   category: 'SENSORS',
@@ -18,6 +19,7 @@ export default {
     MINT: '2944854',
     PRICE: '2944842',
   },
+  foundingYear: null,
   blog: 'https://medium.com/geodnet/geodnet-revolutionizes-the-global-positioning-industry-with-real-world-web3-reference-network-21183b0ad7eb',
   github: 'https://github.com/geodnet/whitepaper',
   telegram: 'https://t.me/geodnet',

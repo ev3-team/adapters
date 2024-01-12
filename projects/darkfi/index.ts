@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DarkFi',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/dark-oy',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/darkrenaissance/darkfi',
   telegram: 'https://t.me/darkfichat',

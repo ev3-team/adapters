@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PKT',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/routie',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaSpace',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/metaspace-academy',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://metaspace-metaverse.medium.com/',
   github: null,
   telegram: 'https://t.me/MetaSpace_Metaverse',

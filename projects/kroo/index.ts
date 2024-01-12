@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kroo',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/kroous',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/kroo',
   github: 'https://github.com/b-social',
   telegram: null,

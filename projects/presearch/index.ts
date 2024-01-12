@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Presearch',
+  ninja: null,
   subcategories: 'Rewards',
   chain: 'ETHEREUM',
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/presearchofficial/',
   duneQueries: null,
+  foundingYear: null,
   blog: '-vhttps://news.presearch.io/-',
   github: null,
   telegram: null,

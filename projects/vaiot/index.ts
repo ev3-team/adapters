@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vaiot',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['5252r4'],
   linkedin: 'http://www.linkedin.com/company/vaiot-ltd',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://vaiotltd.medium.com/',
   github: 'https://github.com/VAIoT',
   telegram: 'https://t.me/VAIOT_Community',

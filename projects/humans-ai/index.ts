@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Humans.ai',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/humansdotai',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/humansdotai',
   github: null,
   telegram: 'https://t.me/humansdotai',

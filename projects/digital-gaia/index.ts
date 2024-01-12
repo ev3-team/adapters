@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Digital Gaia',
+  ninja: null,
   subcategories: 'Environmental, Data, Rewards',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'hq0zgu',
@@ -14,6 +15,7 @@ export default {
   investors: ['9jairy'],
   linkedin: 'http://www.linkedin.com/company/digital-gaia',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

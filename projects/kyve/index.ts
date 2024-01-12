@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KYVE',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'COSMOS',
   category: 'COMPUTE',
@@ -64,6 +65,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/kyve',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://kyve.medium.com/',
   github: 'https://github.com/KYVENetwork',
   telegram: 'https://t.me/kyvenet',

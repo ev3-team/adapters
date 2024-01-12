@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Chirp',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/chirpiot',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://chirpiot.medium.com/',
   github: 'https://github.com/topics/chirp?o=desc&s=forks',
   telegram: null,

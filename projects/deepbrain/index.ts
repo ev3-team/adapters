@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeepBrain',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['3wgvij', 'v81ftp', 'f5avgu', 'b2zac5', 'sveznn', '0hmeqs'],
   linkedin: 'https://linkedin.com/company/deepbrain-chain',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@DeepBrainChainGlobal',
   github: 'https://www.github.com/DeepBrainChain',
   telegram: 'https://t.me/deepbrainchainglobal',

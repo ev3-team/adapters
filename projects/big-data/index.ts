@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Big Data',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/big-data-protocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/big-data-protocol',
   github: null,
   telegram: 'https://t.me/bigdataprotocol',

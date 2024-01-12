@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Glitter Protocol',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'hvnixv',
   description:
-    'A blockchain-based data platform to help applications store, manage and elevate the world’s data in Web3 way. Additionally, Glitter proposes a tokenomics model that encourages developers on the network to contribute and collaborate on the platform, ultimately accelerating the whole Web3 world to creating and sharing data, and helping users gain more value from the data',
+    'A blockchain-based data platform to help applications store, manage and elevate data in Web3 way.',
   discord: null,
   investors: [
     'z5oj4n',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/glitterprotocol/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

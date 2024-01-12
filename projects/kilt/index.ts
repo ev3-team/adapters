@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kilt',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'bcanxl',
@@ -35,6 +36,7 @@ export default {
   ],
   linkedin: 'https://in.linkedin.com/company/kilt',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://kilt-protocol.medium.com/',
   github: 'https://github.com/KILTprotocol',
   telegram: null,

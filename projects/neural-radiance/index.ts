@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neural Radiance',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@NeRF_ERC20/nerf-bot-enabling-neural-radiance-fields-for-the-masses-aaa7bb63c4ab',
   github: 'https://github.com/Nerfbotxyz/',
   telegram: 'https://t.me/NERFERC20',

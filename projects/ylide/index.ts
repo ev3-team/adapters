@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ylide',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'zug89a',
@@ -13,6 +14,7 @@ export default {
   investors: ['jtzx5o', '6nxw7d', 'bxcu1r', '7vs71r', 'o76txg'],
   linkedin: 'http://www.linkedin.com/company/ylide',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@ylide',
   github: 'https://github.com/ylide-io',
   telegram: 'https://t.me/ylide_chat',

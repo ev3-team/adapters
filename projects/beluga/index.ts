@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Beluga',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -38,6 +39,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/heybeluga',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

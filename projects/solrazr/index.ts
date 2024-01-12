@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SolRazr',
+  ninja: null,
   subcategories: null,
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://sg.linkedin.com/company/omnistart-network',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@RazrFi/solrazr-2021-in-review-5ba669ed2efc',
   github: 'https://github.com/solrazr-app',
   telegram: 'https://t.me/s/solrazr_app',

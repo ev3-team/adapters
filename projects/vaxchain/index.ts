@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vaxchain',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'adc9fo',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/devpost/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://info.devpost.com/blog',
   github: 'https://github.com/kie478/vaxchain',
   telegram: null,

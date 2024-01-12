@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Surge',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'COMPUTE',
   token: null,
   coingeckoId: null,
   id: 'wmr4sm',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/surge/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/surge-sh',
   telegram: null,

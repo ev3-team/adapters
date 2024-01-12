@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zus',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/zusnetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/0chain',
   github: 'https://github.com/0chain',
   telegram: 'https://t.me/zus_network',

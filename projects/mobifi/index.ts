@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MobiFi',
+  ninja: null,
   subcategories: 'Ridesharing',
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'MOFI',
   coingeckoId: 'mobifi',
   id: 'ars9qg',
@@ -13,6 +14,7 @@ export default {
   investors: ['h2wgzg'],
   linkedin: 'https://uk.linkedin.com/company/mobifi',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/mobifi',
   github: null,
   telegram: null,

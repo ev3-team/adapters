@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Human',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'gs9m0p',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://linkedin.com/company/joinhmn',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/joinhuman',
   telegram: 'https://t.me/joinhmn',

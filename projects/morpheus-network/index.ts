@@ -2,18 +2,20 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Morpheus.Network',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'MNW',
   coingeckoId: 'morpheus-network',
   id: '39uynx',
   description:
-    'Morpheus.Network is a supply chain SaaS middleware platform that integrates both legacy systems and emerging technologies like blockchain, IoT, and RFID. It offers companies enhanced shipment and item visibility, enabling the optimization and automation of secure and efficient supply chains, ultimately saving time and money. MNW (formerly MRPH) is the fuel of Morpheus.Network’s automation platform. It allows Ethereum-based Smart Contracts to be used as predetermined, automated work contracts, shipping & customs documents, and automated international payments.',
+    'Morpheus.Network is a supply chain SaaS middleware platform that integrates both legacy systems and emerging technologies like blockchain, IoT, and RFID.',
   discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Arc',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/arcdefi',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://arc-market.medium.com/',
   github: 'https://github.com/ARC-MARKET/',
   telegram: null,

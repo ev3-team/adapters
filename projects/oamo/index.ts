@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Oamo',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '74kro7',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://ca.linkedin.com/company/oamo-io',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Oamo_io',
   github: null,
   telegram: null,

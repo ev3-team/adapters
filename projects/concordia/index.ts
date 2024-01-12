@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Concordia',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'qx629j',
@@ -14,6 +15,7 @@ export default {
   investors: ['798xl8', 'qd0p5n', 'd8vsmb', 'due5zk'],
   linkedin: 'https://linkedin.com/company/debridge-finance',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/debridge-finance/',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Arweave',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/arweave',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://arweave.medium.com/',
   github: null,
   telegram: null,

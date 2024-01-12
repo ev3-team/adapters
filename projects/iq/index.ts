@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IQ',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -23,6 +24,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/iqdotwiki',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/EveripediaNetwork',
   telegram: 'https://t.me/everipedia',

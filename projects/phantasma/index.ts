@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phantasma',
+  ninja: null,
   subcategories: 'L1/L2, Gaming',
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'SOUL',
   coingeckoId: 'phantasma',
   id: '37fysf',
@@ -14,6 +15,7 @@ export default {
   investors: ['e7zfe7', 'bv2lun', '44u6gg'],
   linkedin: 'https://linkedin.com/company/phantasmachain',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/phantasma_io',

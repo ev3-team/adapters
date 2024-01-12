@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Efani',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: ['bqjhhg', 'stpica', 'uzt9g9', '66zxk8', 'o4h84m', 'yixidg', 'xt0vj3'],
   linkedin: 'https://www.linkedin.com/company/efani/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

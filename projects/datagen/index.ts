@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Datagen',
+  ninja: null,
   subcategories: 'ML',
   chain: null,
   category: 'NOT_DEPIN',
@@ -38,6 +39,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/28641774/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://datagen.tech/blog/',
   github: 'https://github.com/DatagenTech',
   telegram: null,

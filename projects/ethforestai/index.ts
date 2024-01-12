@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ETHforestAI',
+  ninja: null,
   subcategories: null,
   chain: 'ARBITRUM',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@ethforestai',
   github: null,
   telegram: 'https://t.me/ETHforestAI',

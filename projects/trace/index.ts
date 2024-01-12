@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Trace',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -36,6 +37,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/trace-network-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@tracenetwork',
   github: null,
   telegram: null,

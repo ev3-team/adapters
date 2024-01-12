@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Shardeum',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'SHM',
   coingeckoId: 'shardeum',
   id: 'g65u6w',
@@ -63,6 +64,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/shardeum',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Shardeum',
   github: 'https://github.com/shardeum/',
   telegram: 'https://telegram.me/shardeum',

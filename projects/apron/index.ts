@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Apron',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -29,6 +30,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://apron-network.medium.com/',
   github: 'https://github.com/Apron-Network/',
   telegram: null,

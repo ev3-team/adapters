@@ -2,18 +2,20 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Wynd',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'WIRELESS',
+  category: 'AI',
   token: null,
   coingeckoId: null,
   id: '9qbidj',
   description:
-    'Wynd is a transparent node marketplace enabling users to earn passive income by monetizing their internet view. (99)',
+    'Wynd Network, also known as Grass,  is a transparent node marketplace enabling users to earn passive income by renting out their IP address, used for collecting datasets to train AI models.',
   discord: null,
   investors: ['4l8mmr', 'agwzs7'],
   linkedin: 'https://www.linkedin.com/company/wynd-technologies-inc./',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@wyndnetwork/',
   github: null,
   telegram: null,

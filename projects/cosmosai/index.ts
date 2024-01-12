@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CosmosAI',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/in/cosmos-ai-78057620b/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

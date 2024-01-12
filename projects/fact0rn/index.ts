@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FACT0RN',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'FACT',
   coingeckoId: 'fact0rn',
   id: 'w0jykb',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/FACT0RN',
   telegram: null,

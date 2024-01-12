@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Roam',
+  ninja: null,
   subcategories: 'Mobile',
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/roamnetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Roam_Network',
   github: null,
   telegram: 'https://t.me/+Xk2-5Sa02yFjMDE0',

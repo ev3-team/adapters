@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hubble Protocol',
+  ninja: null,
   subcategories: null,
   chain: 'SOLANA',
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: 'USDH',
   coingeckoId: 'usdh',
   id: 'ztuwxq',
   description:
-    'Hubble Protocol is exploring the universe of DeFi on Solana. Hubble begins this by minting USDH through zero-interest borrowing. Hubble empowers its community by rewarding behaviors that ensure the protocol works as designed, by distributing rewards to users that lock HBB, provide liquidity on exchanges or USDH funds to cover liquidations, or by opening up platform governance. Building on top of the borrowing protocol, Hubble will offer more use cases for USDH to create an ecosystem of complementary products, including structured products in terms of trading strategies and tailored USDH undercollateralized lending.',
+    'Hubble Protocol is exploring the universe of DeFi on Solana. Hubble begins this by minting USDH through zero-interest borrowing.',
   discord: 'https://discord.com/invite/UMFdXJ8MPm',
   investors: [
     'b8gebp',
@@ -44,6 +45,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/hubbleprotocol/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.hubbleprotocol.io/',
   github: 'https://github.com/hubbleprotocol',
   telegram: 'https://t.me/hubbleprotocol',

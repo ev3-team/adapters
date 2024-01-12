@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'dotmoovs',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/dotmoovs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://dotmoovs.medium.com/',
   github: 'https://github.com/dotmoovs',
   telegram: 'https://t.me/s/dotmoovs_announcements?before=1038',

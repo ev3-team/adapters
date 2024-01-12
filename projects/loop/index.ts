@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Loop',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/loopnetwork',

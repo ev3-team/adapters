@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Teleport',
+  ninja: null,
   subcategories: 'Ridesharing',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'aehc1q',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/teleportxyz',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

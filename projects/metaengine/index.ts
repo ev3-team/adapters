@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaEngine',
+  ninja: null,
   subcategories: 'Gaming',
   chain: null,
   category: 'NOT_DEPIN',
@@ -37,6 +38,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/metaengine/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://metaengine.medium.com/',
   github: null,
   telegram: 'https://t.me/metaEngine_Community',

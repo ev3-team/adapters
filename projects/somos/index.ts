@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Somos',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

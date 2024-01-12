@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bacalhau',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/showcase/bacalhau-project/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/bacalhau-project',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dojima',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -31,6 +32,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/dojimanetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/dojimanetwork',
   telegram: null,

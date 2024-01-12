@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vega',
+  ninja: null,
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -53,6 +54,7 @@ export default {
   ],
   linkedin: 'https://linkedin.com/company/vega-protocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Vega_Protocol',
   github: 'https://github.com/vegaprotocol',
   telegram: 'https://t.me/vegacommunity/',

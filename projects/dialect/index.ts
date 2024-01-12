@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dialect',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '0c8gl1',
   description:
-    'Dialect is developing a protocol for smart messaging. It offers  dynamic, composable dapp notifications and wallet-to-wallet chat. Powered by Solana.',
+    'Dialect is developing a protocol for smart messaging. It offers ‚Äädynamic, composable dapp notifications and wallet-to-wallet chat. Powered by Solana.',
   discord: 'https://discord.com/invite/dialect',
   investors: [
     'lxr6fp',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/dialect-labs/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/dialect-labs',
   github: null,
   telegram: null,

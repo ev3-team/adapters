@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fonoster',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/fonoster',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/fonoster',
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GitPOAP',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: '2fl69i',
@@ -23,6 +24,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/gitpoap',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/gitpoap',
   github: 'https://github.com/gitpoap',
   telegram: null,

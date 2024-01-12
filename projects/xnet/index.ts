@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XNET',
+  ninja: null,
   subcategories: 'Mobile',
   chain: 'POLYGON',
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/xnet-mobile',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@XNET_Mobile',
   github: null,
   telegram: null,

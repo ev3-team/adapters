@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RedStone',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'REDSTONE',
   coingeckoId: 'redstone',
   id: 'ap3amn',
@@ -44,6 +45,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/redstone-finance/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/redstone-finance',
   telegram: 'https://t.me/redstonefinance/',

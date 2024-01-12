@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Terminal 3',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['vmqmcr', 'gun7y3', '7fb6dj', 'xs4jo6', 'l70dye', 'vh40ts', 'qreqzv', '9n4okv'],
   linkedin: 'https://www.linkedin.com/company/terminal3',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

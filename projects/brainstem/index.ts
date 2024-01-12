@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Brainstem',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/brainstemdigitalhealth',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@BrainstemDigitalHealth',
   github: null,
   telegram: null,

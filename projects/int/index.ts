@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'INT',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/int-chain',
   github: 'https://github.com/intfoundation',
   telegram: 'https://t.me/INTchain_officialtelegram',

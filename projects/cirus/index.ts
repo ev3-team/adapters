@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CIRUS',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/cirus-foundation',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/the-cirus-foundation',
   github: null,
   telegram: 'https://en.telghub.com/content?id=16359',

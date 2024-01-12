@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SAFE',
+  ninja: null,
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/safenetwork/about',
   github: null,
   telegram: null,

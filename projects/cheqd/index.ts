@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'cheqd',
+  ninja: null,
   subcategories: 'Data',
   chain: 'COSMOS',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'CHEQ',
   coingeckoId: 'cheqd-network',
   id: 'o6gk4u',
@@ -37,6 +38,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/cheqd-identity',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.cheqd.io/',
   github: 'https://github.com/cheqd',
   telegram: 'https://t.me/cheqd',

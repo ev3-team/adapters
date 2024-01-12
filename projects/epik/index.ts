@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EpiK',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -31,6 +32,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/epikprotocol',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://epikprotocol.medium.com/',
   github: 'https://github.com/EpiK-Protocol',
   telegram: 'https://t.me/EpikProtocol',

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NetMind.AI',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/netmind-ai/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/protagolabs',
   telegram: null,

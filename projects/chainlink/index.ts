@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Chainlink',
+  ninja: null,
   subcategories: 'Oracle',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/swlh/chainlink-decentralized-network-of-oracles-6844ff96f47f',
   github: null,
   telegram: 'https://t.me/chainlinkofficial',

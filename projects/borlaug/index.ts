@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Borlaug',
+  ninja: null,
   subcategories: 'Software',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'g2f9pf',
@@ -14,6 +15,7 @@ export default {
   investors: ['8vrydr', 'tl1am3', 'z4ibhx'],
   linkedin: 'https://github.com/BorlaugWebServices/borlaug',
   duneQueries: null,
+  foundingYear: null,
   blog: 'http://www.linkedin.com/company/borlaug-ws',
   github: null,
   telegram: null,

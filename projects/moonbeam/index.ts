@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Moonbeam',
+  ninja: null,
   subcategories: null,
   chain: 'POLKADOT',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'GLMR',
   coingeckoId: 'moonbeam',
   id: 'xu30b0',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/moonbeaminc',
   duneQueries: null,
+  foundingYear: null,
   blog: '-https://medium.com/moonbeam-network-',
   github: null,
   telegram: null,

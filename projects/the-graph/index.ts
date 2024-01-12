@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'The Graph',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -19,6 +20,7 @@ export default {
     MINT: '3168410',
     PRICE: '3168415',
   },
+  foundingYear: null,
   blog: 'https://medium.com/graphprotocol',
   github: 'https://github.com/graphprotocol',
   telegram: 'https://t.me/graphprotocol',

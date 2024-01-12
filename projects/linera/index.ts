@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Linera',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -34,6 +35,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/linera-io/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@linera',
   github: null,
   telegram: 'https://t.me/linera_official',

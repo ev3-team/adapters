@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CPChain',
+  ninja: null,
   subcategories: 'IoT',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/cpchainiot',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/cpchain-tech',
   github: 'https://github.com/CPChain',
   telegram: 'https://t.me/cpchain_official',

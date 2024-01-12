@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aleph',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: 'aleph-im',
   id: 'shwbn0',
   description:
-    'Aleph.im is an open-source crosschain network featuring decentralized database including file storage, computing, and a decentralized identity (DID) framework. Aleph.im’s core mission is to help decentralized apps and protocols strip off the centralized parts of their stack, achieving a fully decentralized architecture.',
+    'Aleph.im is an open-source crosschain network featuring decentralized database including file storage, computing, and a decentralized identity (DID) framework.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/aleph-im/?originalSubdomain=fr',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/aleph-im',
   github: null,
   telegram: 'https://t.me/alephim',

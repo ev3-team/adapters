@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AIRO',
+  ninja: null,
   subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/airo-missions',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@airo.network',
   github: 'https://github.com/airo',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lavita.AI',
+  ninja: null,
   subcategories: 'Health & Fitness',
   chain: 'NATIVE',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: ['772xwk'],
   linkedin: 'http://www.linkedin.com/company/lavita-ai',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://lavita-ai.medium.com/',
   github: null,
   telegram: 'https://t.me/Lavita_AI',

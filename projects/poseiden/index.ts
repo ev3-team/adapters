@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Poseiden',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -13,6 +14,7 @@ export default {
   investors: ['po8xe3'],
   linkedin: 'https://www.linkedin.com/company/poseidon',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@poseidon.os?source=topics_v2-2-843fc08660_4a77_4337_bdab_ff45d16f0324-17',
   github: 'https://github.com/poseidon',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Skey',
+  ninja: null,
   subcategories: 'DeFi, IoT',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/skeynetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://skeynetwork.medium.com/',
   github: 'https://github.com/skey-network',
   telegram: 'https://t.me/SkeyNetworkNews',

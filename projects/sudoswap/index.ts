@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sudoswap',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['ubuz3j'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.sudoswap.xyz/',
   github: 'https://github.com/sudoswap',
   telegram: null,

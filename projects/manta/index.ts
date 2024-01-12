@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Manta',
+  ninja: null,
   subcategories: null,
   chain: 'POLKADOT',
-  category: 'OTHER',
+  category: 'NOT_DEPIN',
   token: 'MANTA',
   coingeckoId: null,
   id: 'm3djiu',
   description:
-    'Manta utilises zero-knowledge proofs (ZKPs) to guarantee the secure and private minting of NFTs and SBTs while maintaining the confidentiality of crypto assets. The platform promises to reveal only the validity of the transaction and no other additional information.',
+    'Manta utilises zero-knowledge proofs (ZKPs) to guarantee the secure and private minting of NFTs and SBTs while maintaining the confidentiality of crypto assets.',
   discord: 'https://discord.com/invite/mantanetwork',
   investors: [
     'b8gebp',
@@ -51,6 +52,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/mantanetwork',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://mantanetwork.medium.com/',
   github: 'https://github.com/manta-network',
   telegram: 'https://www.t.me/mantanetworkofficial',

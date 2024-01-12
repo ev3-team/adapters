@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Totem',
+  ninja: null,
   subcategories: 'Gaming',
   chain: 'POLYGON',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/totem-gdn',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/Totem-gdn',
   telegram: null,

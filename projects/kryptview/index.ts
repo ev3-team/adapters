@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kryptview',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'KVT',
   coingeckoId: 'kryptview',
   id: '3zopno',
@@ -24,6 +25,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://kryptview.medium.com/',
   github: null,
   telegram: null,

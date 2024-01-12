@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StepN',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: 'stepn',
   id: '9ptjw7',
   description:
-    'STEPN is a Web3 lifestyle app with inbuilt Game-Fi and Social-Fi elements. Players can make handsome tokens earnt though walking, jogging or running. In the game a player can burn game tokens to level up their sneakers, make more sneakers, upgrade in-game gems, pay for repairs, and pay for online marathon participation. At max level, players can earn governance tokens, which enables the player to determine the distribution of the game’s profit.',
+    'STEPN is a Web3 lifestyle app with inbuilt Game-Fi and Social-Fi elements. Players can make handsome tokens earnt though walking, jogging or running.',
   discord: 'https://discord.com/invite/stepn',
   investors: [
     'hol96b',
@@ -41,6 +42,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/stepn-by-find-satoshi-lab/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://stepnofficial.medium.com/',
   github: null,
   telegram: 'https://t.me/STEPNofficial',

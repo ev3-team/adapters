@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hyper Oracle',
+  ninja: null,
   subcategories: 'Oracle',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'l6awms',
@@ -14,6 +15,7 @@ export default {
   investors: ['r54jbx', 'uktppp', '6c0yfx', '3xr5rh', 'pu3yyr', 'km32gq'],
   linkedin: 'http://www.linkedin.com/company/hyperoracle',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://hyperoracle.medium.com/',
   github: 'https://github.com/hyperoracle',
   telegram: null,

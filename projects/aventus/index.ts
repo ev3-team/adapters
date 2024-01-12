@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aventus',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/aventus',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/aventus',
   github: 'https://github.com/Aventus',
   telegram: null,

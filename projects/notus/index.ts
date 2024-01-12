@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Notus',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/notus-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@notus-labs',
   github: 'https://github.com/notus-labs',
   telegram: null,

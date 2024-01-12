@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Astria',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -27,6 +28,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/astria-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/astriaorg',
   telegram: null,

@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AWARE',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'rkfiyk',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/aware-inc.',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/awareframework',
   telegram: null,

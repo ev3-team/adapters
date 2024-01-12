@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autonolas',
+  ninja: null,
   subcategories: 'Agents',
   chain: 'ETHEREUM',
   category: 'AI',
@@ -16,6 +17,7 @@ export default {
     REVENUE: '3254432',
     KEY_METRIC: '3254434',
   },
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/valory-xyz',
   telegram: null,

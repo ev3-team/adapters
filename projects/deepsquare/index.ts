@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeepSquare',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['akmu2d', 'vjpj24', 'nnrh00'],
   linkedin: 'https://linkedin.com/company/deepsquare-association',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@DeepSquare.io',
   github: 'https://github.com/deepsquare-io',
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FileStar',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['nxzb7m'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://filestarofficial.medium.com/',
   github: 'https://github.com/filestar-project',
   telegram: 'https://t.me/filestarofficial',

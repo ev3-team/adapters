@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Injective',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -52,6 +53,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/injective-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/injective-labs',
   github: 'https://github.com/InjectiveLabs',
   telegram: 'https://t.me/joininjective',

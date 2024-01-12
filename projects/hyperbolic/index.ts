@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hyperbolic',
+  ninja: null,
   subcategories: 'GPUs',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['gwix1y', '1im0oz'],
   linkedin: 'http://www.linkedin.com/company/hyperbolic-labs',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

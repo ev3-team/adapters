@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pollen Mobile',
+  ninja: null,
   subcategories: 'Private Wireless',
   chain: 'SOLANA',
   category: 'WIRELESS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/pollenmobile',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@pollenmobile',
   github: 'https://github.com/pollen-mobile',
   telegram: null,

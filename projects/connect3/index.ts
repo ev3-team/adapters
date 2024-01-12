@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Connect3',
+  ninja: null,
   subcategories: null,
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'hxfsp3',
@@ -13,6 +14,7 @@ export default {
   investors: ['4l8mmr', 'bxcu1r', 'fh8wrd', 'b6vnn8', '65epfb', 'agwzs7'],
   linkedin: 'http://www.linkedin.com/company/connect3world',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/@Connect3',
   github: 'https://github.com/topics/connect3',
   telegram: null,

@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ancient8',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'A8',
   coingeckoId: null,
   id: 'xjogkp',
   description:
-    'Ancient8 is building a DAO that develops a community and software platform to enable everyone to play and build the Metaverse while earning rewards. Ancient8’s vision is to democratize social and financial access in the Metaverse, and is on a mission to reach, educate, and empower the next 100 million Metaverse citizens through the blockchain.',
+    'Ancient8 is building a DAO that develops a community and software platform to enable everyone to play and build the Metaverse while earning rewards.',
   discord: 'https://discord.com/invite/ancient8',
   investors: [
     'pt62tc',
@@ -56,6 +57,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/ancient8/about/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://blog.ancient8.gg/',
   github: null,
   telegram: 'https://t.me/ancient8_gg',

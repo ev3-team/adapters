@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phoenix',
+  ninja: null,
   subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/phnxglobal/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://phoenixglobal.medium.com/',
   github: null,
   telegram: null,

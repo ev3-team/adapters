@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SQE.io',
+  ninja: null,
   subcategories: 'L1/L2, Quantum',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'ipaf0n',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/sqe-io',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

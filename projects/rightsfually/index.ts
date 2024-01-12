@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RightsfuAlly',
+  ninja: null,
   subcategories: 'NFTs',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/showcase/rightsfually/?trk=organization_guest_main-feed-card_reshare-text',
   github: null,
   telegram: null,

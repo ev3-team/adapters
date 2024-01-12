@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeDataNation',
+  ninja: null,
   subcategories: 'Advertising, Data',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 'ah17kx',
@@ -13,6 +14,7 @@ export default {
   investors: ['ryj5he'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

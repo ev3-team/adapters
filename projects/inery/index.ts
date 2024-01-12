@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Inery',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['c6y1mj', '8or4a9', 'c0w5gw', 'ppcxum'],
   linkedin: 'https://www.linkedin.com/company/inery/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.inery.io/blog/',
   github: null,
   telegram: 'https://t.me/inery_blockchain',

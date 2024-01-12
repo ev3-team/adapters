@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nillion Network',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'qb5fdz',
   description:
-    'Nillion is a distributed computing platform that expands trustless infrastructure into new use cases and verticals. It is a decentralized network (but not a layer 1 or blockchain) that utilizes a novel primitive, Nil Message Compute (NMC). NMC innovates on the foundations of Multi-Party Computation (MPC) and Homomorphic Encryption to unlock the secure storage and processing of high value data. The Nillion network invites new decentralized use cases such as machine learning on invisible datasets, quantum secure messaging, smart custody of digital assets, distributed biometric authentication, verifiable dark pools, collaborative block building and composable digital identity – enabling developers to create applications across industries like retail, medical, legal, banking and AI.',
+    'Nillion is a distributed computing platform that expands trustless infrastructure into new use cases and verticals.',
   discord: 'https://discord.com/invite/nillionnetwork',
   investors: [
     'ii5tnv',
@@ -38,6 +39,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/nillionnetwork/?originalSubdomain=ch',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/nillionnetwork',

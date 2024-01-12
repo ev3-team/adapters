@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Techtics Engineering',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -9,11 +10,12 @@ export default {
   coingeckoId: null,
   id: '1wmf1w',
   description:
-    'Techtics Engineering is a specialized hardware manufacturer for decentralized physical infrastructure networks. They also provide services from "research stage till the customers doormat".',
+    'Techtics Engineering is a specialized hardware manufacturer for decentralized physical infrastructure networks.',
   discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Switch Electric',
+  ninja: null,
   subcategories: 'Hardware',
   chain: 'IOTEX',
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/switchelectric#',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/WhyNotSwitch',
   telegram: null,

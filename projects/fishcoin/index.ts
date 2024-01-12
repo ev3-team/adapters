@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fishcoin',
+  ninja: null,
   subcategories: 'Environmental',
   chain: null,
-  category: 'OTHER',
+  category: 'SENSORS',
   token: null,
   coingeckoId: null,
   id: '0uzrya',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/fishcoin',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/fishcoin',
   github: null,
   telegram: null,

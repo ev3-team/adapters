@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Relay',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/relaypro',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/relay-tools',
   telegram: null,

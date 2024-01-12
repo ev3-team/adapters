@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Quant',
+  ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'QNT',
   coingeckoId: 'quant-network',
   id: '7u7rag',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/quantnetwork/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

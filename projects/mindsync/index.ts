@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mindsync',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/mindsync/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/mindsync-ai',
   github: 'https://github.com/mindsync-ai',
   telegram: 'https://t.me/mindsyncai',

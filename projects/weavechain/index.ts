@@ -2,9 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Weavechain',
+  ninja: null,
   subcategories: 'Data',
   chain: null,
-  category: 'OTHER',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coingeckoId: null,
   id: 's1imi6',
@@ -14,6 +15,7 @@ export default {
   investors: ['idlbd7', 'uoqi1k', '1vwual', 'zxs7x9'],
   linkedin: 'https://www.linkedin.com/company/weavechain',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/weavechain',
   github: 'https://github.com/weavechain',
   telegram: null,

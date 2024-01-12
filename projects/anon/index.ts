@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Anon',
+  ninja: null,
   subcategories: 'ZK',
   chain: null,
   category: 'NOT_DEPIN',
@@ -14,6 +15,7 @@ export default {
   investors: ['cx2bjt'],
   linkedin: null,
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://www.linkedin.com/company/anon-dot-com/about/',
   github: null,
   telegram: null,

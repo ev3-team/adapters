@@ -1,0 +1,24 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Magicblock',
+  ninja: null,
+  subcategories: null,
+  chain: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coingeckoId: null,
+  id: 'i15p9n',
+  description:
+    'Magicblock is an open-source stack that enables anyone to build and play on-chain games on Solana & SVM',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
+  url: 'https://www.magicblock.gg/',
+} satisfies AdapterProject

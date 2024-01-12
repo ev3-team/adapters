@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Intuition',
+  ninja: null,
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -9,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'kx9y1a',
   description:
-    "Operator of a decentralized identity company intended to help users to create attestations about any subject, storing the information in such a way that it's easily navigable, queryable, and leveraged by other applications.",
+    'Operator of a decentralized identity company intended to help users to create attestations about any subject.',
   discord: 'https://discord.com/invite/0xintuition',
   investors: [
     'f7094w',
@@ -37,6 +38,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/0xintuition/',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/0xintuition',
   github: null,
   telegram: null,

@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SmartPoint',
+  ninja: null,
   subcategories: null,
   chain: 'IOTEX',
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/smartpoint',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://github.com/topics/smartpoint-cloud-platform',
   github: null,
   telegram: null,

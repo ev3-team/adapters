@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Passage',
+  ninja: null,
   subcategories: 'Gaming',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -13,6 +14,7 @@ export default {
   investors: ['jefc9a', 'la4mmt', 'bxcu1r', '67afgf', '78w4y0', 'j1rzkc', 'w9rvnt', 'gftio8'],
   linkedin: 'https://linkedin.com/company/passageio',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

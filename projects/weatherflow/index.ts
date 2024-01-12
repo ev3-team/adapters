@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Weatherflow',
+  ninja: null,
   subcategories: null,
   chain: 'IOTEX',
   category: 'SENSORS',
@@ -13,6 +14,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/weatherflow',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: 'https://github.com/WeatherFlow',
   telegram: null,

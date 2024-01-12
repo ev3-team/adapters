@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ether.fi',
+  ninja: null,
   subcategories: 'Rewards',
   chain: null,
   category: 'NOT_DEPIN',
@@ -25,6 +26,7 @@ export default {
   ],
   linkedin: 'http://www.linkedin.com/company/etherfi',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://medium.com/etherfi',
   github: null,
   telegram: 'https://t.me/+C3fpSjmPqzA5NTVh',

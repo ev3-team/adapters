@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aethir',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -29,6 +30,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/aethir-limited',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

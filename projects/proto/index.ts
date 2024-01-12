@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Proto',
+  ninja: 'W. L.',
   subcategories: 'Positioning',
   chain: null,
   category: 'SENSORS',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/dp-proto',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

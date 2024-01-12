@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flux',
+  ninja: null,
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/flux',
   duneQueries: null,
+  foundingYear: null,
   blog: 'https://fluxofficial.medium.com/',
   github: 'https://github.com/RunOnFlux',
   telegram: 'https://t.me/runonflux',

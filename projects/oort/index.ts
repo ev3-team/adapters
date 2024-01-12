@@ -2,6 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Oort',
+  ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -14,6 +15,7 @@ export default {
   investors: ['juclgr', '8zsugm', '9205ui', '7rf9rs', 'm05wan', 'o7xcsr'],
   linkedin: 'https://www.linkedin.com/company/oort-inc/',
   duneQueries: null,
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: 'https://t.me/oortechkorea',
