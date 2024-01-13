@@ -14,7 +14,7 @@ export default {
   investors: [],
   linkedin: 'http://www.linkedin.com/company/render-network-foundation',
   duneQueries: {
-    REVENUE: '3264048',
+    REVENUE: '3348331',
   },
   foundingYear: null,
   blog: 'https://medium.com/@rendernetwork',
