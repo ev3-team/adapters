@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.26
+
+### Patch Changes
+
+- update render dune queryID
+
 ## 0.3.25
 
 ### Patch Changes
