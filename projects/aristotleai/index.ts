@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/0xAristotleAI',
   url: 'https://www.aristotle-ai.com/',
+  verified: false,
 } satisfies AdapterProject

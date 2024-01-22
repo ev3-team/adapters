@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.flai.ai/',
+  verified: false,
 } satisfies AdapterProject

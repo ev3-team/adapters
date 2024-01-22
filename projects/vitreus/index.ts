@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/VitreusChainTG',
   twitter: 'https://twitter.com/VitreusChain',
   url: 'https://vitreus.io/',
+  verified: false,
 } satisfies AdapterProject

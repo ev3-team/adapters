@@ -39,4 +39,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.thala.fi/',
+  verified: false,
 } satisfies AdapterProject

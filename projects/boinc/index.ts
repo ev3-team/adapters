@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/boincaienglish',
   twitter: 'https://twitter.com/BOINCAI',
   url: 'https://www.boincai.com/',
+  verified: false,
 } satisfies AdapterProject

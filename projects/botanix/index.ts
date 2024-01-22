@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.botanixlabs.xyz/',
+  verified: false,
 } satisfies AdapterProject

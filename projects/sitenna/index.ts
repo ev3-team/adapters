@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://sitenna.com/',
+  verified: false,
 } satisfies AdapterProject

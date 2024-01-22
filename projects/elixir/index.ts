@@ -40,4 +40,5 @@ export default {
   telegram: 'https://t.me/elixirprotocol',
   twitter: 'https://twitter.com/ElixirProtocol',
   url: 'http://www.elixir.finance/',
+  verified: false,
 } satisfies AdapterProject

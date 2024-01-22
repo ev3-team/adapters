@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/NetMindAi',
   url: 'https://netmind.ai/home',
+  verified: false,
 } satisfies AdapterProject

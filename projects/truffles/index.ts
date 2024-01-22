@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/trufflesuite',
   url: 'https://trufflesuite.com/',
+  verified: false,
 } satisfies AdapterProject

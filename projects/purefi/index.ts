@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/purefiprotocol',
   twitter: 'https://twitter.com/Purefi_Protocol',
   url: 'https://purefi.io/',
+  verified: false,
 } satisfies AdapterProject

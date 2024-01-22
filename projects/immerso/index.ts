@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://immerso.pt/?utm_source=gmb&utm_medium=gmb',
+  verified: false,
 } satisfies AdapterProject

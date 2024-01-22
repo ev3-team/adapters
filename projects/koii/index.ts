@@ -39,4 +39,5 @@ export default {
   telegram: 'https://t.me/koiinetwork',
   twitter: 'https://twitter.com/KoiiNetwork',
   url: 'https://www.koii.network/',
+  verified: false,
 } satisfies AdapterProject

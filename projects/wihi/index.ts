@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/WiHiWeather',
   url: 'https://www.wihi.link/',
+  verified: false,
 } satisfies AdapterProject

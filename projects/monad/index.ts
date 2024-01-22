@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/monad_xyz',
   twitter: 'https://twitter.com/monad_xyz',
   url: 'https://www.monad.xyz/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/oortechkorea',
   twitter: 'https://twitter.com/oort_io?lang=en',
   url: 'https://www.oortech.com/',
+  verified: false,
 } satisfies AdapterProject

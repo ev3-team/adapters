@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://vanarchain.com/?lang=en',
+  verified: false,
 } satisfies AdapterProject

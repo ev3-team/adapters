@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/get_zion',
   url: 'http://www.zion.fyi/',
+  verified: false,
 } satisfies AdapterProject

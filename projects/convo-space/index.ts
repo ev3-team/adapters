@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/0xConvo',
   url: 'https://theconvo.space/',
+  verified: false,
 } satisfies AdapterProject

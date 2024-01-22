@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/SpaceIDProtocol',
   url: 'http://www.space.id/',
+  verified: false,
 } satisfies AdapterProject

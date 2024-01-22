@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AiEleuther',
   url: 'https://www.eleuther.ai/',
+  verified: false,
 } satisfies AdapterProject

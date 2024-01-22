@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/eloopone',
   twitter: null,
   url: 'https://eloop.one/en/',
+  verified: false,
 } satisfies AdapterProject

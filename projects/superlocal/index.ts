@@ -32,4 +32,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/joinsuperlocal',
   url: 'https://www.superlocal.com/',
+  verified: false,
 } satisfies AdapterProject

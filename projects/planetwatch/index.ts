@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/planetwatch',
   twitter: 'https://twitter.com/planetwatchsas',
   url: 'https://www.planetwatch.io/',
+  verified: false,
 } satisfies AdapterProject

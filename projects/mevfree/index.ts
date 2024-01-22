@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/MevFree',
   twitter: 'https://twitter.com/mevfree',
   url: 'https://mevfree.com/',
+  verified: false,
 } satisfies AdapterProject

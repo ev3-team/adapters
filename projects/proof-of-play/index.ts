@@ -32,4 +32,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ProofOfPlay/',
   url: 'https://www.proofofplay.com/',
+  verified: false,
 } satisfies AdapterProject

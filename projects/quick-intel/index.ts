@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Quicki_TG',
   twitter: 'https://twitter.com/quicki_erc',
   url: 'https://quickintel.io/',
+  verified: false,
 } satisfies AdapterProject

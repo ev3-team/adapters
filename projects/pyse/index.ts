@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://pyse.in/',
+  verified: false,
 } satisfies AdapterProject

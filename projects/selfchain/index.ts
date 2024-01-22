@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/selfchainxyz',
   twitter: 'https://twitter.com/selfchainxyz',
   url: 'https://selfchain.xyz/',
+  verified: false,
 } satisfies AdapterProject

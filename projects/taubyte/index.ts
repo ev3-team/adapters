@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dtaubyte',
   url: 'https://taubyte.com/',
+  verified: false,
 } satisfies AdapterProject

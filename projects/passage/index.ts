@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/passageio',
   url: 'https://www.passage.io/',
+  verified: false,
 } satisfies AdapterProject

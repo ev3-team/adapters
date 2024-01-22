@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ethswarm',
   url: 'https://www.ethswarm.org/',
+  verified: false,
 } satisfies AdapterProject

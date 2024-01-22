@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/GonnaMakeitNFTs',
   twitter: 'https://twitter.com/GonnaMakeItNFTs',
   url: 'https://gonnamakeit.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/saydialect',
   url: 'https://www.dialect.to/',
+  verified: false,
 } satisfies AdapterProject

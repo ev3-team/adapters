@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/blockflowdata',
   twitter: 'https://twitter.com/flow_block',
   url: 'https://blockflow.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -61,4 +61,5 @@ export type AdapterProject = {
   token: string | null
   twitter: string | null
   url: string | null
+  verified: boolean
 }

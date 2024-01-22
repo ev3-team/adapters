@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/incognitochain',
   twitter: 'https://twitter.com/IncognitoChain',
   url: 'https://incognito.org/',
+  verified: false,
 } satisfies AdapterProject

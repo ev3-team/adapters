@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/MandeNetwork',
   url: 'https://www.mande.network/',
+  verified: false,
 } satisfies AdapterProject

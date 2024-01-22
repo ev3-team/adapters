@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://myria.com/',
+  verified: false,
 } satisfies AdapterProject

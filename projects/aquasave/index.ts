@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AquaSaveCrypto',
   url: 'https://aquasave.io/',
+  verified: false,
 } satisfies AdapterProject

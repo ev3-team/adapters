@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/wsbsh',
   twitter: 'https://twitter.com/wsb_sh?s=21',
   url: 'https://www.wsb.sh/',
+  verified: false,
 } satisfies AdapterProject

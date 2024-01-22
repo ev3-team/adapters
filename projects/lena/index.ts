@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/LENA_Network',
   url: 'https://www.lena.network/',
+  verified: false,
 } satisfies AdapterProject

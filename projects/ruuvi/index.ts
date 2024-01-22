@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ruuvicom',
   twitter: 'https://twitter.com/ruuvicom',
   url: 'https://ruuvi.com/',
+  verified: false,
 } satisfies AdapterProject

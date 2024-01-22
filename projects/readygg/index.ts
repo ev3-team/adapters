@@ -31,4 +31,5 @@ export default {
   telegram: 'https://t.me/readygamesofficial',
   twitter: 'https://twitter.com/TheReadyGames',
   url: 'https://ready.gg/',
+  verified: false,
 } satisfies AdapterProject

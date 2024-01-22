@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/gear_tech',
   twitter: 'https://twitter.com/Gear_Foundation',
   url: 'https://gear.foundation/',
+  verified: false,
 } satisfies AdapterProject

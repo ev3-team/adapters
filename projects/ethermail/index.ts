@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/ethermail_official',
   twitter: 'https://twitter.com/ethermail_io',
   url: 'http://www.ethermail.io/',
+  verified: false,
 } satisfies AdapterProject

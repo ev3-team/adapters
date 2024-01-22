@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/BridgeOracle',
   twitter: 'https://twitter.com/bridge_oracle',
   url: 'https://bridge.link/',
+  verified: false,
 } satisfies AdapterProject

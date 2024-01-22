@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/mobiliancoin',
   twitter: 'https://twitter.com/MobilianCoin',
   url: 'https://mobiliancoin.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/sylo_io',
   twitter: 'https://twitter.com/sylo',
   url: 'https://www.sylo.io/',
+  verified: false,
 } satisfies AdapterProject

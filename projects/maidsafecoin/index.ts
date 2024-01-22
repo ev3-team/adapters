@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/safenetwork',
   twitter: 'https://twitter.com/maidsafe',
   url: 'https://maidsafe.net/',
+  verified: false,
 } satisfies AdapterProject

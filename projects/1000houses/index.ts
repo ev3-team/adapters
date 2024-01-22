@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/#!/Mitch_Stephen',
   url: 'https://www.1kh.org/',
+  verified: false,
 } satisfies AdapterProject

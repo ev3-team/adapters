@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Mint_HNT',
   url: 'https://spreadnetworks.io/',
+  verified: false,
 } satisfies AdapterProject

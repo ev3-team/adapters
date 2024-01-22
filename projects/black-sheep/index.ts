@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/blacksheep_g',
   twitter: 'https://twitter.com/theblacksheepg',
   url: 'https://www.theblacksheep.io/',
+  verified: false,
 } satisfies AdapterProject

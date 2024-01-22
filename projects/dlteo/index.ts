@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dlt_eo',
   url: 'https://www.dlteo.com/',
+  verified: false,
 } satisfies AdapterProject

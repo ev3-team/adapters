@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/mobifi',
   url: 'https://mobifi.io/',
+  verified: false,
 } satisfies AdapterProject

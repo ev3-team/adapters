@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/TontineTrust',
   url: 'https://playtontine.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/terminal3gaming?lang=en',
   url: 'https://www.terminal3.io/',
+  verified: false,
 } satisfies AdapterProject

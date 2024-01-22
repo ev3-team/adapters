@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/bitnostre',
   url: 'https://bitnost.re/',
+  verified: false,
 } satisfies AdapterProject

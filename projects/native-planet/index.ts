@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.nativeplanet.io/hardware',
+  verified: false,
 } satisfies AdapterProject

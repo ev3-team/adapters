@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://sona.stream/',
+  verified: false,
 } satisfies AdapterProject

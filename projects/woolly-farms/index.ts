@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/woollyfarms',
   url: 'https://woolly.io/',
+  verified: false,
 } satisfies AdapterProject

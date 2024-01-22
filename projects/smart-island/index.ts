@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/smartislandibz',
   url: 'http://smartislandibiza.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -40,4 +40,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/growfitter?lang=en',
   url: 'https://www.growfitter.com/',
+  verified: false,
 } satisfies AdapterProject

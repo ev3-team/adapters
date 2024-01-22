@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AgriToken',
   url: 'https://agritoken.com.ph/',
+  verified: false,
 } satisfies AdapterProject

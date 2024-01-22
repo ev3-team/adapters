@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/GoraNetwork',
   twitter: 'https://twitter.com/goranetwork',
   url: 'https://www.goracle.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/lyzislabsoff',
   twitter: 'https://twitter.com/lyzislabs',
   url: 'https://www.lyzis.tech/',
+  verified: false,
 } satisfies AdapterProject

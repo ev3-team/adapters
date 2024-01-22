@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://getdweb.net/',
+  verified: false,
 } satisfies AdapterProject

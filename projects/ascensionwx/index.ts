@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/kandaweather',
   url: 'https://www.ascensionwx.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -46,4 +46,5 @@ export default {
   telegram: 'https://t.me/eywa_en',
   twitter: 'https://twitter.com/eywaprotocol',
   url: 'https://eywa.fi/',
+  verified: false,
 } satisfies AdapterProject

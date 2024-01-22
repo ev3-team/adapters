@@ -31,4 +31,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/silentauth',
   url: 'https://www.silencelaboratories.com/',
+  verified: false,
 } satisfies AdapterProject

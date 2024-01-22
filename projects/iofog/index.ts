@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://iofog.org/',
+  verified: false,
 } satisfies AdapterProject

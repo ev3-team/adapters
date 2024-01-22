@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/jdiyield',
   url: 'https://jdi.group/',
+  verified: false,
 } satisfies AdapterProject

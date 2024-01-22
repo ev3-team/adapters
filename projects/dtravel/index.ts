@@ -39,4 +39,5 @@ export default {
   telegram: 'https://t.me/dtravelcommunity',
   twitter: 'https://twitter.com/DtravelDAO',
   url: 'https://www.dtravel.com/',
+  verified: false,
 } satisfies AdapterProject

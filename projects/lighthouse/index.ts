@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/LighthouseStorage',
   twitter: 'https://twitter.com/lhediscovery',
   url: 'https://www.lighthouse.storage/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/mintycodedao',
   twitter: 'https://twitter.com/MintyCodeDao',
   url: 'https://mintycode.io/',
+  verified: false,
 } satisfies AdapterProject

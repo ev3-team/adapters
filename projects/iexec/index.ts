@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/iexec_rlc_official',
   twitter: 'https://twitter.com/iEx_ec',
   url: 'http://iex.ec/',
+  verified: false,
 } satisfies AdapterProject

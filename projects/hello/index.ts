@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/joinhelloapp',
   url: 'https://hello.app/',
+  verified: false,
 } satisfies AdapterProject

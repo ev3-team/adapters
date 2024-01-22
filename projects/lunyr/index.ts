@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/lunyrcommunity',
   twitter: 'https://twitter.com/LunyrInc',
   url: 'https://lunyr.com/',
+  verified: false,
 } satisfies AdapterProject

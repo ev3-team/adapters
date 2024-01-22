@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.polytrade.finance/',
+  verified: false,
 } satisfies AdapterProject

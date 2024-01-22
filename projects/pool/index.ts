@@ -32,4 +32,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/pooldata',
   url: 'https://www.pooldata.io/',
+  verified: false,
 } satisfies AdapterProject

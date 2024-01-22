@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://www.twitter.com/Purebet_io',
   url: 'https://www.purebet.io/',
+  verified: false,
 } satisfies AdapterProject

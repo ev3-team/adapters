@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/dotoracle',
   twitter: 'https://twitter.com/DotOracle',
   url: 'https://dotoracle.network/',
+  verified: false,
 } satisfies AdapterProject

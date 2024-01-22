@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/origintrail',
   twitter: 'https://twitter.com/origin_trail',
   url: 'https://origintrail.io/',
+  verified: false,
 } satisfies AdapterProject

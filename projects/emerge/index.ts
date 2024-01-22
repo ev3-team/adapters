@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/emergetools',
   url: 'https://www.emergetools.com/',
+  verified: false,
 } satisfies AdapterProject

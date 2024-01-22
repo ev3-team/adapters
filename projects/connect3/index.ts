@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/connect3world',
   url: 'https://connect3.world/en/about',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/candela?lang=en',
   url: 'https://www.candelacoin.com/',
+  verified: false,
 } satisfies AdapterProject

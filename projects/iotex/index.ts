@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/IoTeXGroup',
   twitter: 'https://twitter.com/iotex_io',
   url: 'https://iotex.io/',
+  verified: false,
 } satisfies AdapterProject

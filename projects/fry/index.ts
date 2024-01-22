@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/FrysCrypto',
   url: 'https://www.fryfoundation.com/',
+  verified: false,
 } satisfies AdapterProject

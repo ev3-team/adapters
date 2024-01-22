@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/latitudesh',
   url: 'https://www.latitude.sh/',
+  verified: false,
 } satisfies AdapterProject

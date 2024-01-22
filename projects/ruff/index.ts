@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'http://ruffchain.com',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/TrixtaTeam',
   url: 'https://trixta.ai/',
+  verified: false,
 } satisfies AdapterProject

@@ -43,4 +43,5 @@ export default {
   telegram: 'https://t.me/mymessageEN',
   twitter: 'https://twitter.com/myMessageOS',
   url: 'https://www.mymessage.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/WeHealthOrg',
   url: 'https://www.wehealth.org/',
+  verified: false,
 } satisfies AdapterProject

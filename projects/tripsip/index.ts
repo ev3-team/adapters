@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://tripsip.io/',
+  verified: false,
 } satisfies AdapterProject

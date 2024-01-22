@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/perpstech',
   twitter: 'https://twitter.com/perpstech',
   url: 'https://www.perps.tech/',
+  verified: false,
 } satisfies AdapterProject

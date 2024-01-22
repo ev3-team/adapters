@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/weareflowcarbon',
   url: 'https://www.flowcarbon.com/',
+  verified: false,
 } satisfies AdapterProject

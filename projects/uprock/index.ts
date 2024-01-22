@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/uprockcom',
   twitter: 'https://twitter.com/uprockcom',
   url: 'https://uprock.com/',
+  verified: false,
 } satisfies AdapterProject

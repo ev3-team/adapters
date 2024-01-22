@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.klimadao.finance/',
+  verified: false,
 } satisfies AdapterProject

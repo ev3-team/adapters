@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/emc_network',
   twitter: 'https://twitter.com/EMCprotocol',
   url: 'https://edgematrix.pro/',
+  verified: false,
 } satisfies AdapterProject

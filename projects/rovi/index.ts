@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/rovimobility',
   url: 'https://www.rovimobility.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/',
   twitter: 'https://www.twitter.com/anryze',
   url: 'https://anryze.com/',
+  verified: false,
 } satisfies AdapterProject

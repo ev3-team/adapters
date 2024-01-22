@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Portalverse_Net',
   url: 'https://www.portalverse.net/',
+  verified: false,
 } satisfies AdapterProject

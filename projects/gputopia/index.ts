@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/GPUtopia',
   url: 'https://gputopia.ai/',
+  verified: false,
 } satisfies AdapterProject

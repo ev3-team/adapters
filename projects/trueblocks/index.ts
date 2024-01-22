@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://trueblocks.io/',
+  verified: false,
 } satisfies AdapterProject

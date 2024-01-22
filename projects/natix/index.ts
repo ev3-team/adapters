@@ -21,4 +21,5 @@ export default {
   twitter:
     'https://twitter.com/NATIXNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.natix.network/',
+  verified: false,
 } satisfies AdapterProject

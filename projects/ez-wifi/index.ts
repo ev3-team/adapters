@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://ezwi.fi/',
+  verified: false,
 } satisfies AdapterProject

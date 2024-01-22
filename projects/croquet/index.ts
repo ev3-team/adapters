@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/CroquetIO',
   url: 'https://croquet.io/',
+  verified: false,
 } satisfies AdapterProject

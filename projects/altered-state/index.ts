@@ -74,4 +74,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/altstatemachine',
   url: 'https://www.alteredstatemachine.xyz/',
+  verified: false,
 } satisfies AdapterProject

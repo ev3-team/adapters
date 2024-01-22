@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/massanetwork',
   twitter: 'https://twitter.com/massalabs',
   url: 'https://massa.net/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/IotedgeOfficalEN',
   twitter: 'https://twitter.com/iotedgechain',
   url: 'https://iotedge.co/',
+  verified: false,
 } satisfies AdapterProject

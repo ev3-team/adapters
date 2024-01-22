@@ -31,4 +31,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/mawarijp',
   url: 'https://www.mawari.io/',
+  verified: false,
 } satisfies AdapterProject

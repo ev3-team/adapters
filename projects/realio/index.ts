@@ -21,4 +21,5 @@ export default {
   telegram: 'https://en.telghub.com/content?id=43971',
   twitter: 'https://twitter.com/realio_network',
   url: 'https://realio.network/',
+  verified: false,
 } satisfies AdapterProject

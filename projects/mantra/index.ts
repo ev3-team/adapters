@@ -39,4 +39,5 @@ export default {
   telegram: 'https://t.me/MANTRA_omniverse',
   twitter: 'https://twitter.com/MANTRAOMniverse',
   url: 'https://www.mantraomniverse.com/',
+  verified: false,
 } satisfies AdapterProject

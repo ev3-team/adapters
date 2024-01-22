@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/runloop?lang=en',
   url: 'https://runloop.xyz/',
+  verified: false,
 } satisfies AdapterProject

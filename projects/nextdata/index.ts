@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/nextdatatec',
   url: 'https://www.nextdata.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -63,4 +63,5 @@ export default {
   telegram: 'https://t.me/SupraOracles',
   twitter: 'https://twitter.com/SupraOracles',
   url: 'https://supraoracles.com/',
+  verified: false,
 } satisfies AdapterProject

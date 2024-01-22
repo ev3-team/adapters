@@ -61,4 +61,5 @@ export default {
   telegram: 'https://t.me/centrifuge_chat',
   twitter: 'https://twitter.com/centrifuge',
   url: 'https://centrifuge.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Greenpowertrus',
   url: 'https://www.greenpowern.com/',
+  verified: false,
 } satisfies AdapterProject

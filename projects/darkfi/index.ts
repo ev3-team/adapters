@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/darkfichat',
   twitter: 'https://twitter.com/DarkFiSquad',
   url: 'https://dark.fi/',
+  verified: false,
 } satisfies AdapterProject

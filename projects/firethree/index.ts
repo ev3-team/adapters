@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/_firethree',
   url: 'https://www.firethree.xyz/',
+  verified: false,
 } satisfies AdapterProject

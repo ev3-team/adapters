@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'http://twitter.com/RDDLNetwork',
   url: 'https://www.rddl.io/',
+  verified: false,
 } satisfies AdapterProject

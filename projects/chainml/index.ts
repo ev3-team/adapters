@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/chainml_',
   url: 'https://t.co/RdwLhkOJ65',
+  verified: false,
 } satisfies AdapterProject

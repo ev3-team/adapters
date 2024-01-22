@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/RAKwireless',
   url: 'https://www.rakwireless.com/en-us',
+  verified: false,
 } satisfies AdapterProject

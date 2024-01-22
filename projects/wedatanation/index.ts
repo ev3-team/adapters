@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/wedatanation',
   url: 'https://wedatanation.io/',
+  verified: false,
 } satisfies AdapterProject

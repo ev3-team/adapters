@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/+qUmTI8yQNQozNTc1',
   twitter: 'https://twitter.com/kunjitweets',
   url: 'https://www.kunji.finance/',
+  verified: false,
 } satisfies AdapterProject

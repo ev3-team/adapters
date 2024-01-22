@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ownfriday',
   url: 'https://www.myfriday.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://galxe.com/',
+  verified: false,
 } satisfies AdapterProject

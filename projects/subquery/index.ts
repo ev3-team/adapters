@@ -86,4 +86,5 @@ export default {
   telegram: 'https://t.me/subquerynetwork',
   twitter: 'https://twitter.com/SubQueryNetwork',
   url: 'https://www.subquery.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/fwbtweets',
   url: 'https://www.fwb.help/',
+  verified: false,
 } satisfies AdapterProject

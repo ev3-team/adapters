@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/CortexOfficialEN',
   twitter: 'https://twitter.com/CTXCBlockchain',
   url: 'https://www.cortexlabs.ai/',
+  verified: false,
 } satisfies AdapterProject

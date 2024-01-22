@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/communeaidotorg',
   url: 'https://commune-t.pages.dev/',
+  verified: false,
 } satisfies AdapterProject

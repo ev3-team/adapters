@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/RelativeFinance',
   twitter: 'https://twitter.com/relativefi',
   url: 'https://relative.fi/',
+  verified: false,
 } satisfies AdapterProject

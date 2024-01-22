@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/hashtag/siglobar',
   url: 'https://siglo.com/',
+  verified: false,
 } satisfies AdapterProject

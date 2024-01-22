@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/faye_digital',
   url: 'https://www.faye.xyz/',
+  verified: false,
 } satisfies AdapterProject

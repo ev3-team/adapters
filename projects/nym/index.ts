@@ -42,4 +42,5 @@ export default {
   telegram: 'https://t.me/nymchan',
   twitter: 'https://twitter.com/nymproject',
   url: 'https://nymtech.net/',
+  verified: false,
 } satisfies AdapterProject

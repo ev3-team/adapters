@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/POKTnetwork',
   twitter: 'https://twitter.com/POKTnetwork',
   url: 'https://www.pokt.network/',
+  verified: false,
 } satisfies AdapterProject

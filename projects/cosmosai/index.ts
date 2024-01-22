@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/',
   url: 'https://ai-cosmo.com/',
+  verified: false,
 } satisfies AdapterProject

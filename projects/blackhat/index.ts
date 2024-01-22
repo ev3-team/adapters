@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/BlackHatEvents',
   url: 'https://blackhatco.in/',
+  verified: false,
 } satisfies AdapterProject

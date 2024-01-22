@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ArweaveTeam',
   url: 'https://www.arweave.org/',
+  verified: false,
 } satisfies AdapterProject

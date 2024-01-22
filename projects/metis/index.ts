@@ -67,4 +67,5 @@ export default {
   telegram: 'https://t.me/MetisDAO',
   twitter: 'https://twitter.com/MetisDAO',
   url: 'https://www.metis.io/',
+  verified: false,
 } satisfies AdapterProject

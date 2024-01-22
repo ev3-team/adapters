@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/streamrdata',
   twitter: 'https://twitter.com/streamr',
   url: 'https://streamr.network/',
+  verified: false,
 } satisfies AdapterProject

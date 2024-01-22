@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Dockhive',
   twitter: 'https://twitter.com/dockhive',
   url: 'https://dockhive.io/',
+  verified: false,
 } satisfies AdapterProject

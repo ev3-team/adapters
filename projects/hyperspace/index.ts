@@ -33,4 +33,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/hyperspaceorg',
   url: 'https://hyperspace.foundation/',
+  verified: false,
 } satisfies AdapterProject

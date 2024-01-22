@@ -33,4 +33,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/blocksurvey',
   url: 'https://blocksurvey.io/',
+  verified: false,
 } satisfies AdapterProject

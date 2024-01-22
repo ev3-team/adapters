@@ -43,4 +43,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/trace_network',
   url: 'https://trace.network/',
+  verified: false,
 } satisfies AdapterProject

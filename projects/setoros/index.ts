@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/setoros',
   url: 'https://setoros.com/',
+  verified: false,
 } satisfies AdapterProject

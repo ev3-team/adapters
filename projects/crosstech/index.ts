@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://cross.technology/',
+  verified: false,
 } satisfies AdapterProject

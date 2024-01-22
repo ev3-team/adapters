@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/crust_ow?lang=en',
   url: 'https://crust.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -34,4 +34,5 @@ export default {
   telegram: 'https://t.me/SyntropyNet',
   twitter: 'https://twitter.com/Syntropynet',
   url: 'https://www.syntropynet.com/',
+  verified: false,
 } satisfies AdapterProject

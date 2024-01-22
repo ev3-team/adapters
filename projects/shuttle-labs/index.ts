@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/shuttlelab',
   url: 'https://shuttlelabs.co/',
+  verified: false,
 } satisfies AdapterProject

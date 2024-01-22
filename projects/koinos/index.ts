@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/joinchat/SXe6mLnb8Ssywlq9',
   twitter: 'https://twitter.com/koinosnetwork',
   url: 'https://koinos.io/',
+  verified: false,
 } satisfies AdapterProject

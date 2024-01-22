@@ -25,4 +25,5 @@ export default {
   telegram: 'https://t.me/geodnet',
   twitter: 'https://twitter.com/geodnetinfo?lang=en',
   url: 'https://geodnet.com/',
+  verified: false,
 } satisfies AdapterProject

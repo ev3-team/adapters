@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/trudenty',
   url: 'https://trudenty.com/',
+  verified: false,
 } satisfies AdapterProject

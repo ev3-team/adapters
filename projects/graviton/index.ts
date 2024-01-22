@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Graviton_XYZ',
   url: 'https://graviton.xyz/',
+  verified: false,
 } satisfies AdapterProject

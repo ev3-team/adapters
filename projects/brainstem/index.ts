@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Brainstemhealth',
   url: 'https://brainstem.health/',
+  verified: false,
 } satisfies AdapterProject

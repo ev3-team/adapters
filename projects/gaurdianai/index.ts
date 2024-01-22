@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://guardianai.io/',
+  verified: false,
 } satisfies AdapterProject

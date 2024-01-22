@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/sentinel_co',
   twitter: 'https://twitter.com/Sentinel_co',
   url: 'https://sentinel.co/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/talwilkenfeld?lang=en',
   url: 'https://buildontal.com/',
+  verified: false,
 } satisfies AdapterProject

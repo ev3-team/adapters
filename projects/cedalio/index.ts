@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/CedalioTech',
   url: 'https://cedalio.com/',
+  verified: false,
 } satisfies AdapterProject

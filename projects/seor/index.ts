@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/SeorGroup',
   twitter: 'https://twitter.com/SEOR001',
   url: 'https://www.seor.io/#/home',
+  verified: false,
 } satisfies AdapterProject

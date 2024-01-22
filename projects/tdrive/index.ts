@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/mytdrive_id?lang=en',
   url: 'https://tdrive.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -35,4 +35,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/smlxldotio',
   url: 'https://smlxl.io/',
+  verified: false,
 } satisfies AdapterProject

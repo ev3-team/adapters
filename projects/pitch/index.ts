@@ -40,4 +40,5 @@ export default {
   telegram: null,
   twitter: 'https://www.twitter.com/pitch',
   url: 'https://pitch.com/',
+  verified: false,
 } satisfies AdapterProject

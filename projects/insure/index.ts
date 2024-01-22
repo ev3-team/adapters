@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/insuredefi',
   twitter: 'https://twitter.com/InsureToken',
   url: 'https://insuretoken.net/',
+  verified: false,
 } satisfies AdapterProject

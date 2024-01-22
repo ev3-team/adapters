@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://api3.org/',
+  verified: false,
 } satisfies AdapterProject

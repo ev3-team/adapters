@@ -45,4 +45,5 @@ export default {
   telegram: 'https://t.me/cherrynetwork',
   twitter: 'https://twitter.com/Cherry_Network',
   url: 'https://www.cherry.network/',
+  verified: false,
 } satisfies AdapterProject

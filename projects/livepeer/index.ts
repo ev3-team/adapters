@@ -24,4 +24,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/livepeerorg',
   url: 'https://livepeer.org/',
+  verified: false,
 } satisfies AdapterProject

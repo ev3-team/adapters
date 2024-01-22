@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/chainstack',
   twitter: 'https://twitter.com/ChainstackHQ',
   url: 'https://chainstack.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/iknowspots',
   url: 'https://solana.iknowspots.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/QQQ_Poseidon_En',
   twitter: 'https://twitter.com/QQQtoken',
   url: 'https://www.poseidon.network/',
+  verified: false,
 } satisfies AdapterProject

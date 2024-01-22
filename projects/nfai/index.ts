@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/nfalabs',
   twitter: 'https://twitter.com/nfalabs',
   url: 'https://nfa.ai/',
+  verified: false,
 } satisfies AdapterProject

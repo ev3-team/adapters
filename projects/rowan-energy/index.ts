@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/RowanRewards',
   url: 'https://www.rowanenergy.com/',
+  verified: false,
 } satisfies AdapterProject

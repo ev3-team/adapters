@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/hub3official',
   twitter: 'https://twitter.com/hub3ee',
   url: 'https://hub3.ee/',
+  verified: false,
 } satisfies AdapterProject

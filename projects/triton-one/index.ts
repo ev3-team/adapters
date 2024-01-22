@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.triton.one/',
+  verified: false,
 } satisfies AdapterProject

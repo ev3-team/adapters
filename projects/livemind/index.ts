@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://livemind.ai/',
+  verified: false,
 } satisfies AdapterProject

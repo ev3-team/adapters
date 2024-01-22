@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://clearpool.finance/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/riddleandcode',
   url: 'https://www.riddleandcode.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.althea.net/',
+  verified: false,
 } satisfies AdapterProject

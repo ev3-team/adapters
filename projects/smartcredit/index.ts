@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/SmartCredit_Community',
   twitter: 'https://twitter.com/Smartcredit_io',
   url: 'https://smartcredit.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/complex_labs',
   url: 'https://www.complexlabs.co/',
+  verified: false,
 } satisfies AdapterProject

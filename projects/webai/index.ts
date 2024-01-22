@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/WebAIofficial',
   url: 'https://webai.gitbook.io/web-ai-whitepaper/usdwebai-ecosystem',
+  verified: false,
 } satisfies AdapterProject

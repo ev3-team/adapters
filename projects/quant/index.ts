@@ -32,4 +32,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/quant_network',
   url: 'https://quant.network/',
+  verified: false,
 } satisfies AdapterProject

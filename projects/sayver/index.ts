@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://sayver.net/',
+  verified: false,
 } satisfies AdapterProject

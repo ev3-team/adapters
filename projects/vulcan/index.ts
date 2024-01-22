@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/s/VulcanAnnouncements?before=1565',
   twitter: 'https://twitter.com/VulcanForged',
   url: 'https://vulcanforged.com/',
+  verified: false,
 } satisfies AdapterProject

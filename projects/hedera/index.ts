@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/hederahashgraph',
   twitter: 'https://twitter.com/hedera',
   url: 'https://hedera.com/',
+  verified: false,
 } satisfies AdapterProject

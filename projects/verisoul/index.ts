@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Verisoul',
   twitter: 'https://twitter.com/verisoulxyz',
   url: 'https://www.verisoul.ai/',
+  verified: false,
 } satisfies AdapterProject

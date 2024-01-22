@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/checkdot',
   twitter: 'https://twitter.com/Checkdot_proto',
   url: 'https://checkdot.io/',
+  verified: false,
 } satisfies AdapterProject

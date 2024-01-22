@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/cloudmosio',
   url: 'https://cloudmos.io/',
+  verified: false,
 } satisfies AdapterProject

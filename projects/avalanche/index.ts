@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/avax',
   url: 'https://www.avax.network/',
+  verified: false,
 } satisfies AdapterProject

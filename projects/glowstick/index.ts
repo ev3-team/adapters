@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.alpha.glowstick.xyz/',
+  verified: false,
 } satisfies AdapterProject

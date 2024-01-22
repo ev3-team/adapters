@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/hotspotty',
   url: 'https://hotspotty.net/',
+  verified: false,
 } satisfies AdapterProject

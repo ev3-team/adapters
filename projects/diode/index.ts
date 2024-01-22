@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/diode_chain',
   twitter: 'https://twitter.com/diode_chain',
   url: 'https://diode.io/',
+  verified: false,
 } satisfies AdapterProject

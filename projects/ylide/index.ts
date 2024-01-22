@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/ylide_chat',
   twitter: 'https://twitter.com/ylide_',
   url: 'http://www.ylide.io/',
+  verified: false,
 } satisfies AdapterProject

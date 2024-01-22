@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'http://www.arttoo.network/',
+  verified: false,
 } satisfies AdapterProject

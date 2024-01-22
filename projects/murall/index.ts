@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/MurALLart',
   twitter: 'https://twitter.com/MurAll_art',
   url: 'https://murall.art/home',
+  verified: false,
 } satisfies AdapterProject

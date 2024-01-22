@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/polkamarkets_announcements',
   twitter: 'https://twitter.com/polkamarkets',
   url: 'https://www.polkamarkets.com/',
+  verified: false,
 } satisfies AdapterProject

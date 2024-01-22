@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/+D0CulDl9udZjMWIx',
   twitter: 'https://twitter.com/exa_bits',
   url: 'https://www.exabits.ai/',
+  verified: false,
 } satisfies AdapterProject

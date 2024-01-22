@@ -33,4 +33,5 @@ export default {
   telegram: 'https://t.me/mxcfoundation',
   twitter: 'https://twitter.com/mxcfoundation',
   url: 'https://www.mxc.org/',
+  verified: false,
 } satisfies AdapterProject

@@ -35,4 +35,5 @@ export default {
   telegram: 'https://t.me/loomnetwork',
   twitter: 'https://twitter.com/loomnetwork',
   url: 'https://loomx.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://fluxbot.xyz/',
+  verified: false,
 } satisfies AdapterProject

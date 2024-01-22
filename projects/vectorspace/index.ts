@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA',
   twitter: 'https://twitter.com/VectorSpaceBio',
   url: 'https://vectorspacebio.science/',
+  verified: false,
 } satisfies AdapterProject

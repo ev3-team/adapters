@@ -44,4 +44,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/0xintuition',
   url: 'https://intuition.systems/',
+  verified: false,
 } satisfies AdapterProject

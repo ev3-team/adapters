@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/BoringProtocol',
   url: 'https://boringprotocol.io/',
+  verified: false,
 } satisfies AdapterProject

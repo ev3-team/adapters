@@ -33,4 +33,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/FISSIONcodes',
   url: 'https://fission.codes/',
+  verified: false,
 } satisfies AdapterProject

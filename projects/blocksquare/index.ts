@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://blocksquare.io/',
+  verified: false,
 } satisfies AdapterProject

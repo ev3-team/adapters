@@ -42,4 +42,5 @@ export default {
   telegram: 'https://t.me/handshake_hns',
   twitter: 'https://twitter.com/hns',
   url: 'https://handshake.org/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/heraaggregator',
   twitter: 'https://twitter.com/heraaggregator',
   url: 'https://hera.finance/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'http://inferix.io',
+  verified: false,
 } satisfies AdapterProject

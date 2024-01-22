@@ -32,4 +32,5 @@ export default {
   telegram: 'https://t.me/+C3fpSjmPqzA5NTVh',
   twitter: 'https://twitter.com/ether_fi',
   url: 'https://ether.fi/',
+  verified: false,
 } satisfies AdapterProject

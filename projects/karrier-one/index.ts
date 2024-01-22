@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/karrier_one?lang=en',
   url: 'https://karrier.one/',
+  verified: false,
 } satisfies AdapterProject

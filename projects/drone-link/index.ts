@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/DronelinkHQ/',
   url: 'https://www.dronelink.com/',
+  verified: false,
 } satisfies AdapterProject

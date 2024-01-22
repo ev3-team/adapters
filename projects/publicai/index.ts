@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/Public_AI',
   twitter: 'https://twitter.com/PublicAI_',
   url: 'https://www.publicai.io/',
+  verified: false,
 } satisfies AdapterProject

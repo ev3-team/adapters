@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/imgnAI',
   twitter: 'https://twitter.com/imgn_ai',
   url: 'https://imgnai.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/NMR_Official',
   twitter: 'https://twitter.com/numerai',
   url: 'https://numer.ai/',
+  verified: false,
 } satisfies AdapterProject

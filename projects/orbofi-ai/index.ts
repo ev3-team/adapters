@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/orbofi',
   twitter: 'https://twitter.com/Orbofi',
   url: 'https://www.orbofi.com/',
+  verified: false,
 } satisfies AdapterProject

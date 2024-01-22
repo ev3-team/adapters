@@ -51,4 +51,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/modal_labs',
   url: 'https://modal.com/',
+  verified: false,
 } satisfies AdapterProject

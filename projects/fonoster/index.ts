@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/fonoster',
   url: 'https://fonoster.com/',
+  verified: false,
 } satisfies AdapterProject

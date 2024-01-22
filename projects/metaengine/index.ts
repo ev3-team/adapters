@@ -44,4 +44,5 @@ export default {
   telegram: 'https://t.me/metaEngine_Community',
   twitter: 'https://twitter.com/meta_engine',
   url: 'https://www.metaengine.gg/',
+  verified: false,
 } satisfies AdapterProject

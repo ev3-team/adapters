@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://ethernity.cloud/',
+  verified: false,
 } satisfies AdapterProject

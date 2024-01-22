@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/advantisai',
   twitter: 'https://twitter.com/AdvantisToken',
   url: 'https://www.advantistoken.com/',
+  verified: false,
 } satisfies AdapterProject

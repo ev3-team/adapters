@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ZenithereumAIofficial',
   twitter: 'https://twitter.com/zenithereum',
   url: 'https://zenithereum.ai/',
+  verified: false,
 } satisfies AdapterProject

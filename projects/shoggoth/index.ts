@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://shoggoth.systems/',
+  verified: false,
 } satisfies AdapterProject

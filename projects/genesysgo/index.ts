@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/genesysgo',
   url: 'https://www.shadow.cloud/',
+  verified: false,
 } satisfies AdapterProject

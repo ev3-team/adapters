@@ -38,4 +38,5 @@ export default {
   telegram: 'https://telegram.me/+nFUrC_I1hA1iNWU9',
   twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2Fzothdotio',
   url: 'https://zoth.io/',
+  verified: false,
 } satisfies AdapterProject

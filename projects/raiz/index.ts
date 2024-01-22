@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/RaizFarms',
   url: 'https://www.raiz.farm/',
+  verified: false,
 } satisfies AdapterProject

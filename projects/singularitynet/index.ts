@@ -40,4 +40,5 @@ export default {
   telegram: 'https://telegram.me/singularitynet',
   twitter: 'https://twitter.com/singularitynet',
   url: 'https://singularitynet.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/UN_Women',
   url: 'https://www.wiman.me/',
+  verified: false,
 } satisfies AdapterProject

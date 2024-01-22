@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://sonr.io/twitter',
   url: 'https://sonr.io/home',
+  verified: false,
 } satisfies AdapterProject

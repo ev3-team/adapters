@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/AegisAISecurity',
   twitter: 'https://twitter.com/AegisAISecurity',
   url: 'https://aiaegis.org/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/neural_internet',
   url: 'https://neuralinternet.ai/',
+  verified: false,
 } satisfies AdapterProject

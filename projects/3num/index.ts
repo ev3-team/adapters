@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/3numdao',
   url: 'https://www.3num.co/',
+  verified: false,
 } satisfies AdapterProject

@@ -42,4 +42,5 @@ export default {
   telegram: 'https://t.me/modadao',
   twitter: 'https://twitter.com/moda_dao',
   url: 'https://www.moda.audio/',
+  verified: false,
 } satisfies AdapterProject

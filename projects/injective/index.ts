@@ -59,4 +59,5 @@ export default {
   telegram: 'https://t.me/joininjective',
   twitter: 'https://twitter.com/Injective_',
   url: 'https://injective.com/',
+  verified: false,
 } satisfies AdapterProject

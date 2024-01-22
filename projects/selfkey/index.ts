@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/selfkeyfoundation',
   twitter: 'https://twitter.com/selfkey',
   url: 'https://selfkey.org/',
+  verified: false,
 } satisfies AdapterProject

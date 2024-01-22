@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/s/kansi_hilfestellung?before=27',
   twitter: 'https://twitter.com/kanisolutions?lang=en',
   url: 'https://www.kansi-solutions.de/',
+  verified: false,
 } satisfies AdapterProject

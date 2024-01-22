@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/dxchain',
   twitter: 'https://twitter.com/DxChainNetwork',
   url: 'https://www.dxchain.com/',
+  verified: false,
 } satisfies AdapterProject

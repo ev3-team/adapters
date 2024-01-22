@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/CirrusIPFS',
   url: 'https://usecirrus.cloud/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/artifylabs',
   twitter: 'https://twitter.com/artifyerc',
   url: 'https://artifylabs.io/',
+  verified: false,
 } satisfies AdapterProject

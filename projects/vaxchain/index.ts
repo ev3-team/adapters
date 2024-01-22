@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/devpost',
   url: 'https://devpost.com/software/vaxchain',
+  verified: false,
 } satisfies AdapterProject

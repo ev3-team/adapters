@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/wefi?lang=en',
   url: 'https://wefi.xyz/',
+  verified: false,
 } satisfies AdapterProject

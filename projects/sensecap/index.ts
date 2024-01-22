@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://www.sensecapmx.com/blogs/',
   url: 'https://www.sensecapmx.com/',
+  verified: false,
 } satisfies AdapterProject

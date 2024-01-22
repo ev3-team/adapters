@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/chia_project',
   url: 'https://www.chia.net/',
+  verified: false,
 } satisfies AdapterProject

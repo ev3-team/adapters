@@ -20,4 +20,5 @@ export default {
   telegram: 'https://solana.com/telegram',
   twitter: 'https://solana.com/twitter',
   url: null,
+  verified: false,
 } satisfies AdapterProject

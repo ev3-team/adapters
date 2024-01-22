@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/everVisionHQ',
   url: 'https://ever.vision/',
+  verified: false,
 } satisfies AdapterProject

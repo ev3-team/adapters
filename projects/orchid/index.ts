@@ -21,4 +21,5 @@ export default {
   telegram: 'https://www.t.me/OrchidOfficial',
   twitter: 'https://twitter.com/OrchidProtocol',
   url: 'https://www.orchid.com/',
+  verified: false,
 } satisfies AdapterProject

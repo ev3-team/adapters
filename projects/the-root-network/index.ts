@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.therootnetwork.com/',
+  verified: false,
 } satisfies AdapterProject

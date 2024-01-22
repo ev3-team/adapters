@@ -41,4 +41,5 @@ export default {
   telegram: 'https://t.me/linera_official',
   twitter: 'https://twitter.com/linera_io',
   url: 'https://linera.io/',
+  verified: false,
 } satisfies AdapterProject

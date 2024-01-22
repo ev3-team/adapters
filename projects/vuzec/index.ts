@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/vuzecmx',
   url: 'https://www.vuzec.com/work',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/wingbits',
   url: 'https://wingbits.com/',
+  verified: false,
 } satisfies AdapterProject

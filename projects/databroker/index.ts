@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Databroker',
   url: 'https://www.databroker.global/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/OceanProtocol_Community',
   twitter: 'https://twitter.com/oceanprotocol',
   url: 'https://oceanprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

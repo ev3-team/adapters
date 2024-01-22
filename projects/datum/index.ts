@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/datumnetwork',
   url: 'https://datum.org/',
+  verified: false,
 } satisfies AdapterProject

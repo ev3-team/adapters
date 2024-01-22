@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/supermetafi',
   twitter: 'https://twitter.com/supermetafi',
   url: 'https://www.supermetaplus.com/',
+  verified: false,
 } satisfies AdapterProject

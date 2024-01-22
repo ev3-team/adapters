@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/LongFiSolutions',
   url: 'https://www.longfisolutions.com/',
+  verified: false,
 } satisfies AdapterProject

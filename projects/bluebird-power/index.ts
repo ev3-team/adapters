@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'http://www.bluebirdpower.com/',
+  verified: false,
 } satisfies AdapterProject

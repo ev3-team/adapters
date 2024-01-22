@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/AimedisOfficialEnglish',
   twitter: 'https://twitter.com/AimedisGlobal',
   url: 'https://aimedis.com/',
+  verified: false,
 } satisfies AdapterProject

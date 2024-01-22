@@ -51,4 +51,5 @@ export default {
   telegram: 'https://t.me/CovalentHQ',
   twitter: 'https://twitter.com/Covalent_HQ',
   url: 'https://www.covalenthq.com/',
+  verified: false,
 } satisfies AdapterProject

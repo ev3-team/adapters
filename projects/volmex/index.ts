@@ -40,4 +40,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://volmex.finance/',
+  verified: false,
 } satisfies AdapterProject

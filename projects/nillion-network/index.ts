@@ -45,4 +45,5 @@ export default {
   telegram: 'https://t.me/nillionnetwork',
   twitter: 'https://twitter.com/nillionnetwork',
   url: 'https://www.nillion.com/',
+  verified: false,
 } satisfies AdapterProject

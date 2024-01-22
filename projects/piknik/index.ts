@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/PiKNiK_US',
   url: 'https://www.piknik.com/',
+  verified: false,
 } satisfies AdapterProject

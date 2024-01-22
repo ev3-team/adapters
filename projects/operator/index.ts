@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://operator.io',
+  verified: false,
 } satisfies AdapterProject

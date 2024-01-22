@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/DarwiniaNetwork',
   twitter: 'https://twitter.com/DarwiniaNetwork',
   url: 'https://darwinia.network/',
+  verified: false,
 } satisfies AdapterProject

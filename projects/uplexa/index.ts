@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/uplexaOfficial',
   twitter: 'https://twitter.com/uPlexaCoin',
   url: 'https://uplexa.com/',
+  verified: false,
 } satisfies AdapterProject

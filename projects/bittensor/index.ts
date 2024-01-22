@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://bittensor.com/',
+  verified: false,
 } satisfies AdapterProject

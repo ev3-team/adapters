@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.meson.network/',
+  verified: false,
 } satisfies AdapterProject

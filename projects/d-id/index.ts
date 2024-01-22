@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/intent/follow?screen_name=DIDbased',
   url: 'https://d.id/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://ecotoken.earth/',
+  verified: false,
 } satisfies AdapterProject

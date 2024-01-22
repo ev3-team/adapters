@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://token.script.tv/',
+  verified: false,
 } satisfies AdapterProject

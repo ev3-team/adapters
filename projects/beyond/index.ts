@@ -21,4 +21,5 @@ export default {
   telegram: 'http://t.me/beyondprotocol',
   twitter: 'https://twitter.com/beyondprotocol1',
   url: 'https://beyond.link/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/PlatONNews',
   twitter: 'https://twitter.com/PlatON_Network',
   url: 'https://platon.network/',
+  verified: false,
 } satisfies AdapterProject

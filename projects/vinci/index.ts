@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/VinciWorld',
   url: 'https://staging.vinciworld.io/',
+  verified: false,
 } satisfies AdapterProject

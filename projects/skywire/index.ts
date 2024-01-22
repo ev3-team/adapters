@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Skycoin',
   twitter: 'https://twitter.com/SkycoinProject',
   url: 'https://www.skycoin.com/',
+  verified: false,
 } satisfies AdapterProject

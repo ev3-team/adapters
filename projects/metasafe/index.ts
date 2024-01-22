@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/+qAdGHkxRl_RjMjAx',
   twitter: null,
   url: 'https://metasafe.one/',
+  verified: false,
 } satisfies AdapterProject

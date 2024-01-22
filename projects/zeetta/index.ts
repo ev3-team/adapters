@@ -32,4 +32,5 @@ export default {
   telegram: 'https://t.me/s/ZeetaaProjects?before=209',
   twitter: 'https://twitter.com/zeettas?lang=en',
   url: 'https://zeetta.com/',
+  verified: false,
 } satisfies AdapterProject

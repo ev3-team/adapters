@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/soulcycle',
   url: null,
+  verified: false,
 } satisfies AdapterProject

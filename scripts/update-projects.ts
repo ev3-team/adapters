@@ -115,6 +115,7 @@ async function run() {
         telegram: !!row.telegram ? row.telegram : null,
         twitter: !!row.twitter ? row.twitter : null,
         url: !!row.url ? row.url : null,
+        verified: Boolean(row.verified),
       })
     })
     .on('end', async () => {

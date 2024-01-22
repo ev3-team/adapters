@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/bottoproject',
   url: 'https://botto.com/about',
+  verified: false,
 } satisfies AdapterProject

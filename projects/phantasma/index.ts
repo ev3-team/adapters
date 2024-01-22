@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/phantasma_io',
   twitter: 'https://twitter.com/PhantasmaChain',
   url: 'https://phantasma.io/',
+  verified: false,
 } satisfies AdapterProject

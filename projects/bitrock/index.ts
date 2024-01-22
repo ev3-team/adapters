@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/Bitrockchain',
   twitter: 'https://twitter.com/BitRockChain',
   url: 'https://bit-rock.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Drife_officialchat',
   twitter: 'https://twitter.com/Drife_official',
   url: 'https://www.drife.io/',
+  verified: false,
 } satisfies AdapterProject

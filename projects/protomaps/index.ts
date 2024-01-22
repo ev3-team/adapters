@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://protomaps.com/',
+  verified: false,
 } satisfies AdapterProject

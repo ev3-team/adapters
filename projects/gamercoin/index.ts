@@ -21,4 +21,5 @@ export default {
   telegram: 'https://gamerhash.com/en/l/l9Nb9',
   twitter: 'https://twitter.com/GamerHashCom',
   url: 'https://gamercoin.com/en',
+  verified: false,
 } satisfies AdapterProject

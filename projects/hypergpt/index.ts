@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://hypergpt.ai/',
+  verified: false,
 } satisfies AdapterProject

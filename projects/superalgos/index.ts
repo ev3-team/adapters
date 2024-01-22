@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/superalgos',
   url: 'https://superalgos.org/',
+  verified: false,
 } satisfies AdapterProject

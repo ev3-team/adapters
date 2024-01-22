@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/mindsyncai',
   twitter: 'https://twitter.com/mind_sync',
   url: 'https://mindsync.ai/',
+  verified: false,
 } satisfies AdapterProject

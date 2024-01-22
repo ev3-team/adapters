@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/cpchain_official',
   twitter: 'https://twitter.com/cpchain_io',
   url: 'https://cpchain.io/#/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/stacktical',
   twitter: 'https://twitter.com/willitscale',
   url: 'https://stacktical.com/',
+  verified: false,
 } satisfies AdapterProject

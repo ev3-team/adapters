@@ -32,4 +32,5 @@ export default {
   telegram: 'https://t.me/cindicator_news',
   twitter: 'https://twitter.com/Crowd_indicator',
   url: 'https://cindicator.com/',
+  verified: false,
 } satisfies AdapterProject

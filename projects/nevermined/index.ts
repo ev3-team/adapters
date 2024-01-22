@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Nevermined_io',
   url: 'https://nevermined.io/',
+  verified: false,
 } satisfies AdapterProject

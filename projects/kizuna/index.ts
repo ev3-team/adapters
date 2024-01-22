@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/KizunaToken',
   url: 'https://kizunatoken.io/',
+  verified: false,
 } satisfies AdapterProject

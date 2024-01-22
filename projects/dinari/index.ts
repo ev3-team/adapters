@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/dinariglobal',
   twitter: 'https://twitter.com/DinariGlobal',
   url: 'https://www.dinari.com/',
+  verified: false,
 } satisfies AdapterProject

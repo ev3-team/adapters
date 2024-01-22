@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Drife_official',
   url: 'https://www.pluralenergy.co/',
+  verified: false,
 } satisfies AdapterProject

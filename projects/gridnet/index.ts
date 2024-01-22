@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/gridnetproject?lang=en',
   url: 'https://gridnet.org/',
+  verified: false,
 } satisfies AdapterProject

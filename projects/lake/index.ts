@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/lakenetwork',
   twitter: 'https://twitter.com/_lakenetwork',
   url: 'https://lakenetwork.io/',
+  verified: false,
 } satisfies AdapterProject

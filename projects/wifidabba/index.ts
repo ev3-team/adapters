@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/WifiDabba',
   url: 'https://www.wifidabba.com/',
+  verified: false,
 } satisfies AdapterProject

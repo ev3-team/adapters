@@ -26,4 +26,5 @@ export default {
   telegram: 'https://t.me/graphprotocol',
   twitter: 'https://twitter.com/graphprotocol',
   url: 'https://thegraph.com/',
+  verified: false,
 } satisfies AdapterProject

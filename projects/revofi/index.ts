@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/revofico?lang=en',
   url: 'https://revofi.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/mentholprotocol',
   twitter: 'https://twitter.com/MentholProtocol',
   url: 'https://www.mentholprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

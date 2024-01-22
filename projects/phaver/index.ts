@@ -35,4 +35,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/phaverapp?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.phaver.com/',
+  verified: false,
 } satisfies AdapterProject

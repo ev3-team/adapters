@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/EquitoFinance',
   url: 'https://equitofinance.com/',
+  verified: false,
 } satisfies AdapterProject

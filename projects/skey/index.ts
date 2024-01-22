@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/SkeyNetworkNews',
   twitter: 'https://twitter.com/skeynetwork',
   url: 'https://skey.network/',
+  verified: false,
 } satisfies AdapterProject

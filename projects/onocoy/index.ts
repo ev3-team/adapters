@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/onocoyRTK',
   url: 'https://www.onocoy.com/',
+  verified: false,
 } satisfies AdapterProject

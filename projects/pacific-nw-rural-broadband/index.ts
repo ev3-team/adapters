@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://nwbroadbandalliance.org/',
+  verified: false,
 } satisfies AdapterProject

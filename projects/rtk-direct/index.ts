@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/rtkdirect',
   url: 'https://rtkdirect.com/',
+  verified: false,
 } satisfies AdapterProject

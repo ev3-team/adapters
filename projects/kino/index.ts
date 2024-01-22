@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/kinomakesmovies',
   url: 'https://www.kino.studio/',
+  verified: false,
 } satisfies AdapterProject

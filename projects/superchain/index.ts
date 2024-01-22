@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/OpenSuperchain',
   url: 'https://www.superchain.network/',
+  verified: false,
 } satisfies AdapterProject

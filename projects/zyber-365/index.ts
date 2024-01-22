@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'http://www.zyber365.com/',
+  verified: false,
 } satisfies AdapterProject

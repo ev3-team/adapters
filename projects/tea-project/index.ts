@@ -32,4 +32,5 @@ export default {
   telegram: 'https://t.me/teaprojectorg',
   twitter: 'https://twitter.com/teaprojectorg',
   url: 'https://teaproject.org/',
+  verified: false,
 } satisfies AdapterProject

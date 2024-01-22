@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/chaingpt',
   twitter: 'https://twitter.com/Chain_GPT',
   url: 'https://www.chaingpt.org/',
+  verified: false,
 } satisfies AdapterProject

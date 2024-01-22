@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AIRO_MU',
   url: 'https://www.airo.network/',
+  verified: false,
 } satisfies AdapterProject

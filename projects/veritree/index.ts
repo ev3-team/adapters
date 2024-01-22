@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/veritree_',
   url: 'https://www.veritree.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/cyber',
   twitter: 'https://twitter.com/cyber_devs',
   url: 'https://cyb.ai/',
+  verified: false,
 } satisfies AdapterProject

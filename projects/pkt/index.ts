@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://pktpal.com/',
+  verified: false,
 } satisfies AdapterProject

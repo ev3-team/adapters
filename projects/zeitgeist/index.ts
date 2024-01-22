@@ -37,4 +37,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/zeitgeist_xyz?lang=en',
   url: 'https://zeitgeist.pm/',
+  verified: false,
 } satisfies AdapterProject

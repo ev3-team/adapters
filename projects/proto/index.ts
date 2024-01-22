@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.proto-geo.xyz/',
+  verified: false,
 } satisfies AdapterProject

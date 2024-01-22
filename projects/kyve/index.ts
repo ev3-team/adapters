@@ -71,4 +71,5 @@ export default {
   telegram: 'https://t.me/kyvenet',
   twitter: 'https://twitter.com/KYVENetwork',
   url: 'https://www.kyve.network/',
+  verified: false,
 } satisfies AdapterProject

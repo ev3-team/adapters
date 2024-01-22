@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/kosenlabs?lang=en',
   url: 'https://www.kosen.ai/',
+  verified: false,
 } satisfies AdapterProject

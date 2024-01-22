@@ -46,4 +46,5 @@ export default {
   telegram: 'https://t.me/coldstackio',
   twitter: 'https://twitter.com/coldstack_io',
   url: 'https://coldstack.io/',
+  verified: false,
 } satisfies AdapterProject

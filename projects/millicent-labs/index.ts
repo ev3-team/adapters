@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/MillicentLabs',
   url: 'https://www.millicent.io/',
+  verified: false,
 } satisfies AdapterProject

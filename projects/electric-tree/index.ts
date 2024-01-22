@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://vision.electrictree.com/',
+  verified: false,
 } satisfies AdapterProject

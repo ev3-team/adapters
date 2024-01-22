@@ -30,4 +30,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/SupthoApp',
   url: 'https://www.suptho.xyz/',
+  verified: false,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Hivemapper',
   url: 'https://hivemapper.com/explorer',
+  verified: false,
 } satisfies AdapterProject

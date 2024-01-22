@@ -33,4 +33,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.everyname.xyz/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/DriveXProtocol',
   url: 'https://www.drivex.zone/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://cyberconnect.me/',
+  verified: false,
 } satisfies AdapterProject

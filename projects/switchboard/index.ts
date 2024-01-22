@@ -36,4 +36,5 @@ export default {
   telegram: 'https://t.me/switchboardxyz',
   twitter: 'https://twitter.com/switchboardxyz',
   url: 'https://switchboard.xyz/',
+  verified: false,
 } satisfies AdapterProject

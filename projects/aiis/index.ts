@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://aiis.dev/',
+  verified: false,
 } satisfies AdapterProject

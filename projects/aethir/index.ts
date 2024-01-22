@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Aethir_',
   url: 'https://www.aethir.com/',
+  verified: false,
 } satisfies AdapterProject

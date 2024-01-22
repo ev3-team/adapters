@@ -39,4 +39,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/indicioid?lang=en',
   url: 'https://indicio.tech/',
+  verified: false,
 } satisfies AdapterProject

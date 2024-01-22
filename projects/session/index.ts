@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/session_app',
   url: 'https://getsession.org/',
+  verified: false,
 } satisfies AdapterProject

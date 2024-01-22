@@ -26,4 +26,5 @@ export default {
   telegram: null,
   twitter: 'https://t.me/braintrustofficial',
   url: 'https://www.usebraintrust.com/',
+  verified: false,
 } satisfies AdapterProject

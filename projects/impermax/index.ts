@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ImpermaxFinance',
   url: 'http://www.impermax.finance/',
+  verified: false,
 } satisfies AdapterProject

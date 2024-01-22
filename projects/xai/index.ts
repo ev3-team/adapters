@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.xai.games/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/inery_blockchain',
   twitter: 'https://twitter.com/ineryblockchain',
   url: 'https://www.inery.io/',
+  verified: false,
 } satisfies AdapterProject

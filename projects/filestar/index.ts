@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/filestarofficial',
   twitter: 'https://twitter.com/FileStarProject',
   url: 'https://filestar.net/en',
+  verified: false,
 } satisfies AdapterProject

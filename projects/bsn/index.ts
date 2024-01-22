@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/bsnsupport',
   twitter: 'https://twitter.com/bsnbase',
   url: 'https://bsnbase.io/g/main/index',
+  verified: false,
 } satisfies AdapterProject

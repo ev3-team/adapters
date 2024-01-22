@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/relaydevice',
   url: 'https://www.relaywireless.com/',
+  verified: false,
 } satisfies AdapterProject

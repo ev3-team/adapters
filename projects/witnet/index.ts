@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/witnetio',
   twitter: 'https://twitter.com/witnet_io',
   url: 'https://witnet.io/',
+  verified: false,
 } satisfies AdapterProject

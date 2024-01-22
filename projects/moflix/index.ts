@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.moflixgroup.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.exponent.energy/',
+  verified: false,
 } satisfies AdapterProject

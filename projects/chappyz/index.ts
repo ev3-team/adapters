@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ChappyzOfficial',
   twitter: 'https://twitter.com/Chappyzcom',
   url: 'https://chappyz.com/',
+  verified: false,
 } satisfies AdapterProject

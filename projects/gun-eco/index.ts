@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/databasegun?lang=en',
   url: 'https://gun.eco/',
+  verified: false,
 } satisfies AdapterProject

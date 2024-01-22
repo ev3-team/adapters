@@ -44,4 +44,5 @@ export default {
   telegram: 'https://t.me/cheqd',
   twitter: 'https://twitter.com/cheqd_io',
   url: 'https://cheqd.io/',
+  verified: false,
 } satisfies AdapterProject

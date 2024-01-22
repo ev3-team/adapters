@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/p00ls_',
   url: 'https://www.p00ls.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/firstbatchxyz_?lang=en',
   url: 'https://www.firstbatch.xyz/',
+  verified: false,
 } satisfies AdapterProject

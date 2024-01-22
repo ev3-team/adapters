@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Brastorne_',
   url: 'https://www.brastorne.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/aydoai',
   twitter: 'https://x.com/AYDO_AI?s=20',
   url: 'https://www.aydo.ai/',
+  verified: false,
 } satisfies AdapterProject

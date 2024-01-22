@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/perpetualprotocol',
   twitter: 'https://twitter.com/perpprotocol',
   url: 'https://perp.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/StationXnetwork',
   twitter: 'https://twitter.com/stationxnetwork',
   url: 'https://www.stationx.network/',
+  verified: false,
 } satisfies AdapterProject

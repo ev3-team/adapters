@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.together.ai/',
+  verified: false,
 } satisfies AdapterProject

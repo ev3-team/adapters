@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://worldcoin.org/',
+  verified: false,
 } satisfies AdapterProject

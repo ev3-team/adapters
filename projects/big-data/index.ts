@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/bigdataprotocol',
   twitter: 'https://twitter.com/bigdataprotocol',
   url: 'https://bigdataprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

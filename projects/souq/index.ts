@@ -38,4 +38,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.souq.finance/',
+  verified: false,
 } satisfies AdapterProject

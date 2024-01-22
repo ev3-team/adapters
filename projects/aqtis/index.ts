@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/aqtis_io',
   url: 'https://aqtis.io/',
+  verified: false,
 } satisfies AdapterProject

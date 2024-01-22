@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/IPExchange',
   twitter: 'https://twitter.com/ipexchange1',
   url: 'https://ip.sx/',
+  verified: false,
 } satisfies AdapterProject

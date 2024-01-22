@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://deltatheta.tech/',
+  verified: false,
 } satisfies AdapterProject

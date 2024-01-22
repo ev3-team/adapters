@@ -41,4 +41,5 @@ export default {
   twitter:
     'https://twitter.com/gelatonetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://ops.gelato.network/',
+  verified: false,
 } satisfies AdapterProject

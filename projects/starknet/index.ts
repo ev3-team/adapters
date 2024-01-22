@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.starknet.io/en/',
+  verified: false,
 } satisfies AdapterProject

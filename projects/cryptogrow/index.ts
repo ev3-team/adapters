@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://cryptogrow.world/',
+  verified: false,
 } satisfies AdapterProject

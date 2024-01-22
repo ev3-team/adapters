@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://mobile.twitter.com/altlabsagency/status/1311308858816704514',
   url: 'https://altlabs.dev/',
+  verified: false,
 } satisfies AdapterProject

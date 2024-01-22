@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AkordTeam',
   url: 'https://akord.com/',
+  verified: false,
 } satisfies AdapterProject

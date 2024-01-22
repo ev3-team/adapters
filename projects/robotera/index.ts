@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/+_wOHpPocsxE3NjBh',
   twitter: 'https://twitter.com/robotera_io',
   url: 'https://robotera.io/',
+  verified: false,
 } satisfies AdapterProject

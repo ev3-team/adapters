@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/blockcastit',
   twitter: null,
   url: 'https://blockcast.net/',
+  verified: false,
 } satisfies AdapterProject

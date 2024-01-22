@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.vo2.fans/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/bdatagray',
   twitter: 'https://twitter.com/b_datagray',
   url: 'https://www.b-datagray.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/motivushpcn',
   url: 'http://motivus.cl/',
+  verified: false,
 } satisfies AdapterProject

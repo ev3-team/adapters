@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://lilai.co/',
+  verified: false,
 } satisfies AdapterProject

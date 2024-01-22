@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ArcBlock_io?locale=en',
   url: 'https://www.arcblock.io/en',
+  verified: false,
 } satisfies AdapterProject

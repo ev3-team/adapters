@@ -38,4 +38,5 @@ export default {
   telegram: 'https://t.me/SecondLiveCommunity',
   twitter: 'https://twitter.com/SecondLiveReal',
   url: 'https://secondlive.world/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/xyonetwork',
   twitter: 'https://twitter.com/OfficialXYO',
   url: 'https://xyo.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://neuralagent.ai/',
+  verified: false,
 } satisfies AdapterProject

@@ -50,4 +50,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/swashapp',
   url: 'https://swashapp.io/',
+  verified: false,
 } satisfies AdapterProject

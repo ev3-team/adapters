@@ -31,4 +31,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/telnyx',
   url: 'https://telnyx.com/',
+  verified: false,
 } satisfies AdapterProject

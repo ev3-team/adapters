@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.vip3.io/',
+  verified: false,
 } satisfies AdapterProject

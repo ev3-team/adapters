@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://griffy.app/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.zeppelinwireless.com/',
+  verified: false,
 } satisfies AdapterProject

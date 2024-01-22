@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/JunoNetwork',
   twitter: 'https://twitter.com/JunoNetwork',
   url: 'https://junonetwork.io/',
+  verified: false,
 } satisfies AdapterProject

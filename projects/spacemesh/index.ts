@@ -52,4 +52,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/teamspacemesh',
   url: 'https://spacemesh.io/',
+  verified: false,
 } satisfies AdapterProject

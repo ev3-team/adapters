@@ -33,4 +33,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/intent/user?screen_name=freaticteam',
   url: 'https://freatic.team/',
+  verified: false,
 } satisfies AdapterProject

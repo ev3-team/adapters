@@ -31,4 +31,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/healthtracka?lang=en',
   url: 'https://www.healthtracka.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -40,4 +40,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AutonomyNetwork',
   url: 'https://www.autonomynetwork.io/',
+  verified: false,
 } satisfies AdapterProject

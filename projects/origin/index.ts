@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/useorigin',
   url: 'https://originsystems.xyz/',
+  verified: false,
 } satisfies AdapterProject

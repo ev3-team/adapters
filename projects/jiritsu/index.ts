@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.jiritsu.network/',
+  verified: false,
 } satisfies AdapterProject

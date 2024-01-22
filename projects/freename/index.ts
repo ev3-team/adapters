@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/freenameio',
   url: 'https://www.freename.io/',
+  verified: false,
 } satisfies AdapterProject

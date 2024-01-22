@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/constellationcommunity',
   twitter: 'https://twitter.com/Conste11ation',
   url: 'https://constellationnetwork.io/',
+  verified: false,
 } satisfies AdapterProject

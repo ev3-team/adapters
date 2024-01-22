@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/XNET_Mobile',
   url: 'https://xnet.company/',
+  verified: false,
 } satisfies AdapterProject

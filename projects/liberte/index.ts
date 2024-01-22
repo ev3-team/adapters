@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: null,
+  verified: false,
 } satisfies AdapterProject

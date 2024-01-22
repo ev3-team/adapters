@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dfinity',
   url: 'https://internetcomputer.org/',
+  verified: false,
 } satisfies AdapterProject

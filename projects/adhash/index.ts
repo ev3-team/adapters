@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/adhashprotocol',
   twitter: null,
   url: 'https://adhash.com/',
+  verified: false,
 } satisfies AdapterProject

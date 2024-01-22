@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://quantinium.cc/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/joinchat/AAAAAEzyFurRdr3sZZnrBw',
   twitter: 'https://twitter.com/_birdmoney',
   url: 'https://bird.money/',
+  verified: false,
 } satisfies AdapterProject

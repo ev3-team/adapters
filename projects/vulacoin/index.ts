@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://about.vulacoin.com/',
+  verified: false,
 } satisfies AdapterProject

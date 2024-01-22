@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/apronofficial1',
   url: 'https://apron.network/',
+  verified: false,
 } satisfies AdapterProject

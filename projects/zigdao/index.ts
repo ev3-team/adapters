@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ZignalyHQ',
   twitter: 'https://twitter.com/zignaly',
   url: 'https://zigdao.com/',
+  verified: false,
 } satisfies AdapterProject

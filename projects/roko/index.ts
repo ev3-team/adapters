@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/RokoNetwork',
   twitter: null,
   url: 'https://roko.network/',
+  verified: false,
 } satisfies AdapterProject

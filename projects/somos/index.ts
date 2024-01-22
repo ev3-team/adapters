@@ -32,4 +32,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.somosinternet.co/',
+  verified: false,
 } satisfies AdapterProject

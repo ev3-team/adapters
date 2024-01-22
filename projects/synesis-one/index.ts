@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Synesis_One',
   twitter: 'https://twitter.com/synesis_one',
   url: 'https://www.synesis.one/',
+  verified: false,
 } satisfies AdapterProject

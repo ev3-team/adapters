@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/sweatcoin',
   url: 'https://sweatco.in/',
+  verified: false,
 } satisfies AdapterProject

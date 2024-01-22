@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/clorechat',
   twitter: 'https://twitter.com/clore_ai',
   url: 'https://clore.ai/',
+  verified: false,
 } satisfies AdapterProject

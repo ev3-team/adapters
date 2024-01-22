@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Web3Shaga',
   url: 'https://linktr.ee/web3shaga',
+  verified: false,
 } satisfies AdapterProject

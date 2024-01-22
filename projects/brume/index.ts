@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://bento.me/brume',
+  verified: false,
 } satisfies AdapterProject

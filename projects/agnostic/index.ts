@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://agnostic.engineering/',
+  verified: false,
 } satisfies AdapterProject

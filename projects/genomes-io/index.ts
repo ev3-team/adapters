@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/genomesdao',
   url: 'https://genomes.io/',
+  verified: false,
 } satisfies AdapterProject

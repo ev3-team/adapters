@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/paal_ai',
   twitter: 'https://twitter.com/PaalMind',
   url: 'https://paalai.io/',
+  verified: false,
 } satisfies AdapterProject

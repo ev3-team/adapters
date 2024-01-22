@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/pumlofficial',
   twitter: 'https://twitter.com/pumlhealthio',
   url: 'https://puml.io/',
+  verified: false,
 } satisfies AdapterProject

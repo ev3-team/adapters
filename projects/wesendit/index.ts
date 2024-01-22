@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/wesenditcom',
   twitter: 'https://twitter.com/WeSendit',
   url: 'https://wesendit.io/',
+  verified: false,
 } satisfies AdapterProject

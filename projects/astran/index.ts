@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/astran_',
   url: 'https://astran.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/anonplatform',
   url: 'https://www.anon.com/',
+  verified: false,
 } satisfies AdapterProject

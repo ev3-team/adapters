@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Lavita_AI',
   twitter: 'https://twitter.com/LavitaAI',
   url: 'https://www.lavita.ai/',
+  verified: false,
 } satisfies AdapterProject

@@ -42,4 +42,5 @@ export default {
   telegram: 'https://t.me/eclipse_labs',
   twitter: 'https://twitter.com/EclipseFND',
   url: 'https://www.eclipse.builders/',
+  verified: false,
 } satisfies AdapterProject

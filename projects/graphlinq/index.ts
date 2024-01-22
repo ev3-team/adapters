@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/graphlinq',
   twitter: 'https://twitter.com/graphlinq_proto',
   url: 'https://graphlinq.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/triaslab',
   twitter: 'https://twitter.com/triaslab',
   url: 'https://www.trias.one/',
+  verified: false,
 } satisfies AdapterProject

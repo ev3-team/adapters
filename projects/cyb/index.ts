@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://cyb.ai/',
+  verified: false,
 } satisfies AdapterProject

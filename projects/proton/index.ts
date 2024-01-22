@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://proton.me/mail',
+  verified: false,
 } satisfies AdapterProject

@@ -31,4 +31,5 @@ export default {
   telegram: 'https://t.me/photonstorage',
   twitter: 'https://twitter.com/photon_storage',
   url: 'https://www.photon.storage/',
+  verified: false,
 } satisfies AdapterProject

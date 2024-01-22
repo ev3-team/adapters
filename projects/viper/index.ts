@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Nilfiskofficial',
   url: 'https://vipernet.xyz/',
+  verified: false,
 } satisfies AdapterProject
