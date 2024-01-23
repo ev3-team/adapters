@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.27
+
+### Patch Changes
+
+- Add new field verified to projects
+
 ## 0.3.26
 
 ### Patch Changes
