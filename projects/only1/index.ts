@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/only1nft',
   twitter: 'https://twitter.com/JoinOnly1',
   url: 'https://only1.app/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ProtocolAI1',
   url: 'https://www.aiprotocol.info/',
+  verified: false,
 } satisfies AdapterProject

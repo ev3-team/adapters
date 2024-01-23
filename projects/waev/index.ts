@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/s/wasscedito10?before=38',
   twitter: 'https://twitter.com/WAElections',
   url: 'https://www.waev.com/',
+  verified: false,
 } satisfies AdapterProject

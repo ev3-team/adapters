@@ -40,4 +40,5 @@ export default {
   telegram: 'https://t.me/Iagon_official',
   twitter: 'https://twitter.com/IagonOfficial',
   url: 'https://iagon.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -30,4 +30,5 @@ export default {
   telegram: 'https://t.me/everipedia',
   twitter: 'https://twitter.com/everipedia',
   url: 'https://iq.wiki/',
+  verified: false,
 } satisfies AdapterProject

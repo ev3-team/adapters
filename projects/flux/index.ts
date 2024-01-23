@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/runonflux',
   twitter: 'https://twitter.com/RunOnFlux?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://runonflux.io/',
+  verified: false,
 } satisfies AdapterProject

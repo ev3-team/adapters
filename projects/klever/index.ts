@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://klever.org/',
+  verified: false,
 } satisfies AdapterProject

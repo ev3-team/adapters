@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/hapiHF',
   twitter: 'https://twitter.com/i_am_hapi_one',
   url: 'https://hapi.one/',
+  verified: false,
 } satisfies AdapterProject

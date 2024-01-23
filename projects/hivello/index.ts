@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.hivello.com/',
+  verified: false,
 } satisfies AdapterProject

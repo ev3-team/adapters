@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://video.dtelecom.org/',
+  verified: false,
 } satisfies AdapterProject

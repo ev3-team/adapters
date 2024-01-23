@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/krestnetwork',
   url: 'https://krest.peaq.network/',
+  verified: false,
 } satisfies AdapterProject

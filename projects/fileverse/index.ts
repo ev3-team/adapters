@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://fileverse.io/',
+  verified: false,
 } satisfies AdapterProject

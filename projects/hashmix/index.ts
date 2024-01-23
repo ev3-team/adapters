@@ -39,4 +39,5 @@ export default {
   telegram: 'https://t.me/HashMixChannel',
   twitter: 'https://twitter.com/HashMixOfficial',
   url: 'https://www.hashmix.org/en/#intro',
+  verified: false,
 } satisfies AdapterProject

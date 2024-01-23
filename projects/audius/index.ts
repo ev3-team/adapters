@@ -57,4 +57,5 @@ export default {
   telegram: 'https://t.me/audius',
   twitter: 'https://twitter.com/audius',
   url: 'https://audius.co/',
+  verified: false,
 } satisfies AdapterProject

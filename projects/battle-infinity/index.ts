@@ -22,4 +22,5 @@ export default {
   telegram: 'https://t.me/battleinfinity',
   twitter: 'https://twitter.com/ibatofficial',
   url: 'https://battleinfinity.io/',
+  verified: false,
 } satisfies AdapterProject

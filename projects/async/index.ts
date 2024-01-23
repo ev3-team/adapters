@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/0xAsyncLabs',
   url: 'http://asynclabs.xyz/',
+  verified: false,
 } satisfies AdapterProject

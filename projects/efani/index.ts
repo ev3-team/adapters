@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/efani',
   url: 'https://www.efani.com/',
+  verified: false,
 } satisfies AdapterProject

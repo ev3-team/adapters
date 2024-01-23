@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://agavezwolf.com/',
+  verified: false,
 } satisfies AdapterProject

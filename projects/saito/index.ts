@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/SaitoIO',
   twitter: 'https://twitter.com/SaitoOfficial',
   url: 'https://saito.tech/',
+  verified: false,
 } satisfies AdapterProject

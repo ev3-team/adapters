@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://tape.xyz/',
+  verified: false,
 } satisfies AdapterProject

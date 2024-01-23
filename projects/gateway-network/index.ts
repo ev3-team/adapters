@@ -37,4 +37,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/gateway_xyz',
   url: 'https://www.mygateway.xyz/',
+  verified: false,
 } satisfies AdapterProject

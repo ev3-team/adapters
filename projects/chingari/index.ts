@@ -106,4 +106,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Chingari_IN',
   url: 'https://chingari.io/',
+  verified: false,
 } satisfies AdapterProject

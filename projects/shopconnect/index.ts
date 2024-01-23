@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ETHGlobal',
   url: 'https://www.shopconnect.live/',
+  verified: false,
 } satisfies AdapterProject

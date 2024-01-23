@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/reactions_lab',
   url: 'https://reactions.wtf/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/SpheronFDN',
   url: 'https://spheron.network/',
+  verified: false,
 } satisfies AdapterProject

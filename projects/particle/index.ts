@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://particle.network/',
+  verified: false,
 } satisfies AdapterProject

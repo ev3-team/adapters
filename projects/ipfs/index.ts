@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ipfs',
   url: 'https://ipfs.tech/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/LMStudioAI',
   url: 'https://lmstudio.ai/',
+  verified: false,
 } satisfies AdapterProject

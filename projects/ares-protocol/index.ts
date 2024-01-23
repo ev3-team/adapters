@@ -40,4 +40,5 @@ export default {
   telegram: 'https://t.me/AresProtocolLab',
   twitter: 'https://twitter.com/AresProtocolLab',
   url: 'https://www.aresprotocol.io/',
+  verified: false,
 } satisfies AdapterProject

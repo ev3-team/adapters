@@ -37,4 +37,5 @@ export default {
   telegram: 'https://t.me/verida_community',
   twitter: 'https://twitter.com/verida_io',
   url: 'https://verida.io/',
+  verified: false,
 } satisfies AdapterProject

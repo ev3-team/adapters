@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/badideaai',
   twitter: 'https://www.twitter.com/badideaai',
   url: 'https://www.badidea.ai/',
+  verified: false,
 } satisfies AdapterProject

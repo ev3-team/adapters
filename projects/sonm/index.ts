@@ -32,4 +32,5 @@ export default {
   telegram: 'https://t.me/sonm_eng',
   twitter: 'https://twitter.com/sonmdevelopment',
   url: 'https://sonm.com/',
+  verified: false,
 } satisfies AdapterProject

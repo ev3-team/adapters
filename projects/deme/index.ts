@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/DecentralisedMe',
   url: 'https://deme.social/#',
+  verified: false,
 } satisfies AdapterProject

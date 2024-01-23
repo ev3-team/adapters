@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Colosseum',
   url: 'https://www.colosseumpro.com/',
+  verified: false,
 } satisfies AdapterProject

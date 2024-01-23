@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/InheritanceArt',
   url: 'https://www.inheritance-art.com/',
+  verified: false,
 } satisfies AdapterProject

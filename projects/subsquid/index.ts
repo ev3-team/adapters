@@ -45,4 +45,5 @@ export default {
   telegram: 'https://t.me/subsquid',
   twitter: 'https://twitter.com/subsquid',
   url: 'https://www.subsquid.io/',
+  verified: false,
 } satisfies AdapterProject

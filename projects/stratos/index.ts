@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Stratos_announcement',
   twitter: 'https://twitter.com/Stratos_Network',
   url: 'https://www.thestratos.org/',
+  verified: false,
 } satisfies AdapterProject

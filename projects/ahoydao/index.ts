@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ahoy_dao',
   url: 'https://www.ahoy.org/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/UltronGlowOfficial',
   twitter: 'https://twitter.com/ultronglow',
   url: 'https://www.ultronglow.io/',
+  verified: false,
 } satisfies AdapterProject

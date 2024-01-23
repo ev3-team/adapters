@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/empyrealportal',
   twitter: 'https://twitter.com/empyrealSDK',
   url: 'https://empyreal.app/',
+  verified: false,
 } satisfies AdapterProject

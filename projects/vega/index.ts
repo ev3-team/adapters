@@ -60,4 +60,5 @@ export default {
   telegram: 'https://t.me/vegacommunity/',
   twitter: 'https://twitter.com/vegaprotocol',
   url: 'https://vega.xyz/',
+  verified: false,
 } satisfies AdapterProject

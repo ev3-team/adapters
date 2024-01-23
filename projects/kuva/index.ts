@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/kuvanetwork',
   twitter: 'https://twitter.com/KuvaNet',
   url: 'https://kuva.com/',
+  verified: false,
 } satisfies AdapterProject

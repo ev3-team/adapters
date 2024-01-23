@@ -20,4 +20,5 @@ export default {
   telegram: 'https://tlgrm.eu/channels/@pornodrive/46977',
   twitter: 'https://twitter.com/deeper_official?lang=en',
   url: 'https://www.deeper.network/',
+  verified: false,
 } satisfies AdapterProject

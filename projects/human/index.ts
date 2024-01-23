@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/joinhmn',
   twitter: 'https://twitter.com/humanapp',
   url: 'https://joinhuman.com/',
+  verified: false,
 } satisfies AdapterProject

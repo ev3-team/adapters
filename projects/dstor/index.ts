@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dstor',
   url: 'https://dstor.cloud/',
+  verified: false,
 } satisfies AdapterProject

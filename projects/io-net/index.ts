@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/ionet_official',
   twitter: 'https://discord.com/invite/kqFzFK7fg2',
   url: 'https://io.net/',
+  verified: false,
 } satisfies AdapterProject

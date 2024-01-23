@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Humceng',
   url: 'https://humcen.com/',
+  verified: false,
 } satisfies AdapterProject

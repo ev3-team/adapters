@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://legacy.badger.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/agnostiqHQ',
   url: 'https://agnostiq.ai/',
+  verified: false,
 } satisfies AdapterProject

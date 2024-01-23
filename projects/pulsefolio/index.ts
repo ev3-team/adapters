@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/PulsefolioPortal',
   twitter: 'https://twitter.com/PulseFolio/',
   url: 'https://pulsefolios.com/',
+  verified: false,
 } satisfies AdapterProject

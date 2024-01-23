@@ -43,4 +43,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ar_io_network',
   url: 'https://ar.io/',
+  verified: false,
 } satisfies AdapterProject

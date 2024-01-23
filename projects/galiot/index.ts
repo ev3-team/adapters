@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/galiotio?lang=en',
   url: 'https://www.galiot.io/',
+  verified: false,
 } satisfies AdapterProject

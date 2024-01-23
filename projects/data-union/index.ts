@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dataunions',
   url: 'https://dataunions.org/',
+  verified: false,
 } satisfies AdapterProject

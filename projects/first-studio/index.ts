@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://firststudio.ai/',
+  verified: false,
 } satisfies AdapterProject

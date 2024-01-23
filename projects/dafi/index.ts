@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/dafiprotocol',
   twitter: 'https://twitter.com/dafiprotocol',
   url: 'https://www.dafiprotocol.io/',
+  verified: false,
 } satisfies AdapterProject

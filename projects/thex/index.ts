@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/thexprotocol',
   twitter: 'https://twitter.com/txprotocol',
   url: 'https://thexprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

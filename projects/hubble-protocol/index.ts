@@ -51,4 +51,5 @@ export default {
   telegram: 'https://t.me/hubbleprotocol',
   twitter: 'https://twitter.com/hubbleprotocol',
   url: 'https://hubbleprotocol.io/',
+  verified: false,
 } satisfies AdapterProject

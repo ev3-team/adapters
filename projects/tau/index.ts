@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/tauchain',
   twitter: 'https://twitter.com/TauLogicAI',
   url: 'https://tau.net/',
+  verified: false,
 } satisfies AdapterProject

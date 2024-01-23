@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/foamspace',
   url: 'https://foam.space/',
+  verified: false,
 } satisfies AdapterProject

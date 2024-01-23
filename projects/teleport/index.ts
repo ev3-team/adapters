@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/teleportxyz',
   url: 'https://www.teleport.xyz/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ummafinancechat',
   twitter: 'https://twitter.com/UmmaFinance',
   url: 'https://umma.finance/',
+  verified: false,
 } satisfies AdapterProject

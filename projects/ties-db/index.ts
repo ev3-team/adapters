@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/tiesdb',
   twitter: 'https://twitter.com/tiesnetwork-',
   url: 'https://tiesdb.com/',
+  verified: false,
 } satisfies AdapterProject

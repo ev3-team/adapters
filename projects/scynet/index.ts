@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ScynetAI',
   url: 'https://scynet.ai/',
+  verified: false,
 } satisfies AdapterProject

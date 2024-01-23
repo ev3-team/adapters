@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://gpu.net/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://piphi.network/',
+  verified: false,
 } satisfies AdapterProject

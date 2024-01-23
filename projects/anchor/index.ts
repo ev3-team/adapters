@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/pauli_group',
   url: 'https://www.greymass.com/anchor',
+  verified: false,
 } satisfies AdapterProject

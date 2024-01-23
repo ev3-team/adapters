@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/warp_contracts',
   url: 'https://warp.cc/',
+  verified: false,
 } satisfies AdapterProject

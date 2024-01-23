@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/PixiaAi',
   twitter: 'https://twitter.com/PixiaAi',
   url: 'https://pixia.ai/',
+  verified: false,
 } satisfies AdapterProject

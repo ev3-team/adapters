@@ -37,4 +37,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/mynaswap',
   url: 'https://www.myna.co/',
+  verified: false,
 } satisfies AdapterProject

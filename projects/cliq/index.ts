@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/CliqNetwork',
   url: 'https://www.cliqnetwork.xyz/',
+  verified: false,
 } satisfies AdapterProject

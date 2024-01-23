@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/clusttr_io',
   url: 'https://www.clusttr.io/',
+  verified: false,
 } satisfies AdapterProject

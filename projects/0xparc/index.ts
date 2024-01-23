@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://0xparc.org/',
+  verified: false,
 } satisfies AdapterProject

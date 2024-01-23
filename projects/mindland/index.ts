@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/MndlndOfficial',
   url: 'https://mndlnd.xyz/',
+  verified: false,
 } satisfies AdapterProject

@@ -55,4 +55,5 @@ export default {
   telegram: 'https://bware.page.link/telegram',
   twitter: 'https://bware.page.link/twitter',
   url: 'https://bwarelabs.com/',
+  verified: false,
 } satisfies AdapterProject

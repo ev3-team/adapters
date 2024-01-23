@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/holochain',
   url: 'https://www.holochain.org/',
+  verified: false,
 } satisfies AdapterProject

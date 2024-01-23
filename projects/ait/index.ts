@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://ait.tech/',
+  verified: false,
 } satisfies AdapterProject

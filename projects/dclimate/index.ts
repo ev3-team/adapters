@@ -38,4 +38,5 @@ export default {
   telegram: 'http://t.me/dclimatechat-',
   twitter: 'https://twitter.com/dClimateDAO',
   url: 'https://www.dclimate.net/',
+  verified: false,
 } satisfies AdapterProject

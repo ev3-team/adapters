@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/cropo_data',
   url: 'https://www.cropo.network/',
+  verified: false,
 } satisfies AdapterProject

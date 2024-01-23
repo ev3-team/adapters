@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Bcubeai',
   url: 'https://www.b-cube.ai/',
+  verified: false,
 } satisfies AdapterProject

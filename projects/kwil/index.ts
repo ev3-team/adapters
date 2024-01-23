@@ -40,4 +40,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/KwilTeam',
   url: 'https://www.kwil.com/',
+  verified: false,
 } satisfies AdapterProject

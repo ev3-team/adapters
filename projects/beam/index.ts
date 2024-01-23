@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://beam.mw/',
+  verified: false,
 } satisfies AdapterProject

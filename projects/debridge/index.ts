@@ -51,4 +51,5 @@ export default {
   telegram: 'https://t.me/deBridge_finance',
   twitter: 'https://twitter.com/deBridgeFinance',
   url: 'https://debridge.finance/',
+  verified: false,
 } satisfies AdapterProject

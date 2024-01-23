@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/PragmaOracle',
   url: 'https://www.pragmaoracle.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -51,4 +51,5 @@ export default {
   telegram: 'https://t.me/redstonefinance/',
   twitter: 'https://twitter.com/redstone_defi',
   url: 'https://redstone.finance/',
+  verified: false,
 } satisfies AdapterProject

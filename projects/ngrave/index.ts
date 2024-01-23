@@ -32,4 +32,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ngrave_official',
   url: 'https://www.ngrave.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/zus_network',
   twitter: 'https://twitter.com/zus_network',
   url: 'https://zus.network/',
+  verified: false,
 } satisfies AdapterProject

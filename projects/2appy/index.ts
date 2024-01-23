@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.2appy.it/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/StarpowerTalent',
   url: 'http://starpower.group/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://lumerin.io/',
+  verified: false,
 } satisfies AdapterProject

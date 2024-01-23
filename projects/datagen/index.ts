@@ -45,4 +45,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/datagentech',
   url: 'https://datagen.tech/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/defogdata?lang=en',
   url: 'https://defog.ai/blog/agents/',
+  verified: false,
 } satisfies AdapterProject

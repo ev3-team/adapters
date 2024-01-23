@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AcornProtocol',
   url: 'https://acorn.eco/#/',
+  verified: false,
 } satisfies AdapterProject

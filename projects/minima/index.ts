@@ -35,4 +35,5 @@ export default {
   telegram: 'https://t.me/Minima_Global',
   twitter: 'https://twitter.com/Minima_Global',
   url: 'https://www.minima.global/',
+  verified: false,
 } satisfies AdapterProject

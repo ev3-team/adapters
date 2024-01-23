@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/nutbox_defi',
   twitter: 'https://twitter.com/NutboxDao',
   url: 'https://nutbox.io/',
+  verified: false,
 } satisfies AdapterProject

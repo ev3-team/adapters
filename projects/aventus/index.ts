@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/aventusnetwork?lang=en',
   url: 'https://aventus.io/',
+  verified: false,
 } satisfies AdapterProject

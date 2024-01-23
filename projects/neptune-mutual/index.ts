@@ -57,4 +57,5 @@ export default {
   telegram: 'https://t.me/neptunemutual',
   twitter: 'https://twitter.com/neptunemutual',
   url: 'https://neptunemutual.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/NebulasPortal',
   twitter: 'https://twitter.com/NebulasCloud',
   url: 'https://nebulacloudnetwork.com/',
+  verified: false,
 } satisfies AdapterProject

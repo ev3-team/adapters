@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/weatherxm?lang=en',
   url: 'https://weatherxm.com/',
+  verified: false,
 } satisfies AdapterProject

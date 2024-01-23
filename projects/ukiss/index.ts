@@ -31,4 +31,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.ukiss.io/',
+  verified: false,
 } satisfies AdapterProject

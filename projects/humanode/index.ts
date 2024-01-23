@@ -41,4 +41,5 @@ export default {
   telegram: 'https://t.me/humanode',
   twitter: 'https://twitter.com/humanode_io',
   url: 'https://humanode.io/',
+  verified: false,
 } satisfies AdapterProject

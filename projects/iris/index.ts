@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/iris_technology',
   url: 'https://www.poweredbyiris.com/',
+  verified: false,
 } satisfies AdapterProject

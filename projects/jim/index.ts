@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/RoastHimJim',
   twitter: 'https://twitter.com/JimAIstudios',
   url: 'https://www.jimaistudios.com/',
+  verified: false,
 } satisfies AdapterProject

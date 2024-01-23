@@ -32,4 +32,5 @@ export default {
   telegram: 'https://medium.com/cryptosatellite',
   twitter: 'https://twitter.com/cryptosat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.cryptosat.io/',
+  verified: false,
 } satisfies AdapterProject

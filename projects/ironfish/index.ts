@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://ironfish.network/',
+  verified: false,
 } satisfies AdapterProject

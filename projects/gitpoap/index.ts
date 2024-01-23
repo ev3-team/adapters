@@ -30,4 +30,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/gitpoap',
   url: 'https://www.gitpoap.io/',
+  verified: false,
 } satisfies AdapterProject

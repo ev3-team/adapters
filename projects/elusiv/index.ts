@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/elusivprivacy',
   url: 'https://www.elusiv.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.robotiz3d.com/',
+  verified: false,
 } satisfies AdapterProject

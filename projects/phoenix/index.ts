@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/wix',
   url: 'https://phoenix.global/',
+  verified: false,
 } satisfies AdapterProject

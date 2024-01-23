@@ -22,4 +22,5 @@ export default {
   telegram: 'https://t.me/mvcofficial',
   twitter: 'https://twitter.com/mvcglobal',
   url: 'https://www.microvisionchain.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/element_hq',
   url: 'https://element.io/',
+  verified: false,
 } satisfies AdapterProject

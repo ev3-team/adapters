@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://link3.to/delysium',
+  verified: false,
 } satisfies AdapterProject

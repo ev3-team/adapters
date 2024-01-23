@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/MemoLabsOrg',
   url: 'https://www.memolabs.org/',
+  verified: false,
 } satisfies AdapterProject

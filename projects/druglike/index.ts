@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/druglike_io',
   url: 'https://druglike.com/',
+  verified: false,
 } satisfies AdapterProject

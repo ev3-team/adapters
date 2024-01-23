@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://tao.studio/',
+  verified: false,
 } satisfies AdapterProject

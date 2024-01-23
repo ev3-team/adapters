@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/Portal0x0',
   twitter: 'https://twitter.com/0x0audits',
   url: 'https://0x0.ai/',
+  verified: false,
 } satisfies AdapterProject

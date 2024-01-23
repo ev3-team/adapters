@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/NeutronCoin',
   twitter: 'https://twitter.com/Neutron_org',
   url: 'https://www.neutroon.com/',
+  verified: false,
 } satisfies AdapterProject

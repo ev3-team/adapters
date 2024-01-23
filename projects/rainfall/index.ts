@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://rainfall.one/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2FContextDao',
   url: 'https://www.ctx.xyz/',
+  verified: false,
 } satisfies AdapterProject

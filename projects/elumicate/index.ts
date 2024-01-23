@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://elumicate.com/',
+  verified: false,
 } satisfies AdapterProject

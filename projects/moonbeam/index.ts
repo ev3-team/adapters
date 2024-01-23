@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/moonbeamnetwork',
   url: 'https://moonbeam.network/',
+  verified: false,
 } satisfies AdapterProject

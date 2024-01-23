@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/penomoprotocol',
   url: 'https://penomo.io/',
+  verified: false,
 } satisfies AdapterProject

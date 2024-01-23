@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/CLAPART_Announcements',
   twitter: 'https://twitter.com/clapartofficial',
   url: 'https://www.clapart.com/?locale=en-US',
+  verified: false,
 } satisfies AdapterProject

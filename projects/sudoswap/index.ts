@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/sudoswap',
   url: 'https://sudoswap.xyz/#/',
+  verified: false,
 } satisfies AdapterProject

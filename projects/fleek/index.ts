@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'ipns://fleek.network/',
+  verified: false,
 } satisfies AdapterProject

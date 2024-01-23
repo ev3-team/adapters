@@ -34,4 +34,5 @@ export default {
   telegram: 'https://t.me/fetch_ai?utm_source=website',
   twitter: 'https://twitter.com/Fetch_ai',
   url: 'https://fetch.ai/',
+  verified: false,
 } satisfies AdapterProject

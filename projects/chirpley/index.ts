@@ -21,4 +21,5 @@ export default {
   telegram: 'http://t.me/chirpley',
   twitter: 'https://twitter.com/chirpley',
   url: 'https://chirpley.ai/',
+  verified: false,
 } satisfies AdapterProject

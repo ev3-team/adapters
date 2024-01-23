@@ -52,4 +52,5 @@ export default {
   telegram: 'https://t.me/bitsCrunch/',
   twitter: 'https://twitter.com/bitscrunch/',
   url: 'https://bitscrunch.com/',
+  verified: false,
 } satisfies AdapterProject

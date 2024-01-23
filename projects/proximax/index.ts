@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ProximaXGang',
   url: 'https://www.proximax.ltd/en/',
+  verified: false,
 } satisfies AdapterProject

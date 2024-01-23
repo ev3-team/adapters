@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/sophia_verse',
   twitter: 'https://twitter.com/sophiaverse_ai',
   url: 'https://www.sophiaverse.ai/',
+  verified: false,
 } satisfies AdapterProject

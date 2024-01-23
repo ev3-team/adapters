@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/heatacompute',
   url: 'https://www.heata.co/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/MorpheusNetworkAnnouncements',
   twitter: 'https://twitter.com/MNWSupplyChain',
   url: 'https://www.morpheusai.org/',
+  verified: false,
 } satisfies AdapterProject

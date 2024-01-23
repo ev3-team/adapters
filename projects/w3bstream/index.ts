@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://w3bstream.com/',
+  verified: false,
 } satisfies AdapterProject

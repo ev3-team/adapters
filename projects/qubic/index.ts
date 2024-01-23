@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/qubic_network',
   url: 'https://web.qubic.li/',
+  verified: false,
 } satisfies AdapterProject

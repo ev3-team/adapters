@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/whyNotSwitch',
   url: 'https://www.whynotswitch.com/',
+  verified: false,
 } satisfies AdapterProject

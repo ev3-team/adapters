@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://github.com/slavni96/carbonarai',
+  verified: false,
 } satisfies AdapterProject

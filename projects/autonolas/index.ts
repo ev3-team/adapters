@@ -23,4 +23,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/autonolas',
   url: 'https://www.autonolas.network/',
+  verified: false,
 } satisfies AdapterProject

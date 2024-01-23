@@ -20,4 +20,5 @@ export default {
   telegram: 'https://chatwithhal.vercel.app/platforms/telegram',
   twitter: 'https://chatwithhal.vercel.app/platforms/twitter',
   url: 'https://chatwithhal.vercel.app/',
+  verified: false,
 } satisfies AdapterProject

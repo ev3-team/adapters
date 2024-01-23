@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://flexwallet.xyz/',
+  verified: false,
 } satisfies AdapterProject

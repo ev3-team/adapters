@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/zanemountcastle',
   url: 'https://picogrid.com/',
+  verified: false,
 } satisfies AdapterProject

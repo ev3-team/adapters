@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/officialnucocloudgroup',
   twitter: 'https://twitter.com/nucocloud',
   url: 'https://nuco.cloud/',
+  verified: false,
 } satisfies AdapterProject

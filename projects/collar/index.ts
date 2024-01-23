@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/CollarProtocol',
   url: 'https://www.collarnetworks.com/',
+  verified: false,
 } satisfies AdapterProject

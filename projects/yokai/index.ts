@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/yokai_network',
   url: 'http://www.yokai.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -38,4 +38,5 @@ export default {
   telegram: 'https://t.me/EpikProtocol',
   twitter: 'https://twitter.com/EpikProtocol',
   url: 'https://www.epik-protocol.io/',
+  verified: false,
 } satisfies AdapterProject

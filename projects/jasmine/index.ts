@@ -32,4 +32,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Jasmine_Energy',
   url: 'https://www.jasmine.energy/',
+  verified: false,
 } satisfies AdapterProject

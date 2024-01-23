@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/+AWdHtLSl2m4yM2I1',
   twitter: 'https://twitter.com/apus_network',
   url: 'https://www.apus.network/',
+  verified: false,
 } satisfies AdapterProject

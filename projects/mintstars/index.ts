@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/MintStarsReal',
   url: 'https://www.mintstars.com/',
+  verified: false,
 } satisfies AdapterProject

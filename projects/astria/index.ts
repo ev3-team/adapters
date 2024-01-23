@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/AstriaOrg',
   url: 'https://www.astria.org/',
+  verified: false,
 } satisfies AdapterProject

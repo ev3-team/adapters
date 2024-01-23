@@ -24,4 +24,5 @@ export default {
   telegram: 'https://telegram.me/StorjProject',
   twitter: 'https://twitter.com/storj',
   url: 'https://www.storj.io/',
+  verified: false,
 } satisfies AdapterProject

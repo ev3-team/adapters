@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/nknorg',
   twitter: 'https://twitter.com/NKN_ORG',
   url: 'https://nkn.org/',
+  verified: false,
 } satisfies AdapterProject

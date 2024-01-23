@@ -43,4 +43,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/leapdex',
   url: 'https://www.leap.energy/',
+  verified: false,
 } satisfies AdapterProject

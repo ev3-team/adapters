@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/alephim',
   twitter: 'https://twitter.com/aleph_im',
   url: 'https://aleph.im/',
+  verified: false,
 } satisfies AdapterProject

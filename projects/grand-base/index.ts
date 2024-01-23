@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/grandbase_fi',
   url: 'https://grandbase.io/',
+  verified: false,
 } satisfies AdapterProject

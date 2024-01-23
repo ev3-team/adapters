@@ -50,4 +50,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.joinmassive.com/',
+  verified: false,
 } satisfies AdapterProject

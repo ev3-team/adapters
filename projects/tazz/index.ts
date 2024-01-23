@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://tazz.finance/',
+  verified: false,
 } satisfies AdapterProject

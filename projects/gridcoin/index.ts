@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/gridcoin',
   twitter: 'https://twitter.com/GridcoinNetwork',
   url: 'https://gridcoin.us/',
+  verified: false,
 } satisfies AdapterProject

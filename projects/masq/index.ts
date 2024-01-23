@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/MASQ_ai',
   twitter: 'https://twitter.com/MASQ_ai',
   url: 'https://masq.ai/',
+  verified: false,
 } satisfies AdapterProject

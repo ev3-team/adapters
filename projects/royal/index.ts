@@ -46,4 +46,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/join_royal',
   url: 'https://royal.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -39,4 +39,5 @@ export default {
   telegram: 'https://t.me/nitroleaguegame',
   twitter: 'https://twitter.com/nitroleaguegame',
   url: 'https://www.nitroleague.com/',
+  verified: false,
 } satisfies AdapterProject

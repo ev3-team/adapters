@@ -58,4 +58,5 @@ export default {
   telegram: 'https://www.t.me/mantanetworkofficial',
   twitter: 'https://twitter.com/mantanetwork',
   url: 'https://manta.network/',
+  verified: false,
 } satisfies AdapterProject

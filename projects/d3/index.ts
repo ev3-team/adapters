@@ -33,4 +33,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/d3corp',
   url: 'https://d3.inc/',
+  verified: false,
 } satisfies AdapterProject

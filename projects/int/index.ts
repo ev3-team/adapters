@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/INTchain_officialtelegram',
   twitter: 'https://twitter.com/INTCHAIN',
   url: 'https://intchain.io/#/',
+  verified: false,
 } satisfies AdapterProject

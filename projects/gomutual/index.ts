@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/gomutual',
   twitter: 'https://twitter.com/go_mutual',
   url: 'https://www.gomutual.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://airlyft.one/',
+  verified: false,
 } satisfies AdapterProject

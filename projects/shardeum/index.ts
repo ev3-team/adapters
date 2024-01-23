@@ -70,4 +70,5 @@ export default {
   telegram: 'https://telegram.me/shardeum',
   twitter: 'https://twitter.com/shardeum',
   url: 'https://shardeum.org/',
+  verified: false,
 } satisfies AdapterProject

@@ -35,4 +35,5 @@ export default {
   telegram: 'https://t.me/TrustPad',
   twitter: 'https://twitter.com/TrustPad',
   url: 'https://trustpad.io/',
+  verified: false,
 } satisfies AdapterProject

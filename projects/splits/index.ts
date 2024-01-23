@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/0xsplits',
   url: 'http://www.0xsplits.xyz/',
+  verified: false,
 } satisfies AdapterProject

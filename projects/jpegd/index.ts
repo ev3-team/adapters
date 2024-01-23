@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/JPEGd_69',
   url: 'https://jpegd.io/',
+  verified: false,
 } satisfies AdapterProject

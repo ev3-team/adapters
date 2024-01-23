@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/lbschain',
   url: 'https://lbschain.org/',
+  verified: false,
 } satisfies AdapterProject

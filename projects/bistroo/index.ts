@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/BistrooIO',
   url: 'https://www.bistroo.io/',
+  verified: false,
 } satisfies AdapterProject

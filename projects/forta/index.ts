@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/s/Forta_Network_Official?before=30',
   twitter: 'https://twitter.com/FortaNetwork',
   url: 'https://forta.org/',
+  verified: false,
 } satisfies AdapterProject

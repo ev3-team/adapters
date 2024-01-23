@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://otacon.ai/',
+  verified: false,
 } satisfies AdapterProject

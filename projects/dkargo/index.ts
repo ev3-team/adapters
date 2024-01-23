@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/dKargo_Official_KR',
   twitter: 'https://twitter.com/dKargo_Official',
   url: 'https://dkargo.io/en',
+  verified: false,
 } satisfies AdapterProject

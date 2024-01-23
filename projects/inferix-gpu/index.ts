@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/inferixgpu',
   url: 'https://inferix.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -34,4 +34,5 @@ export default {
   telegram: 'https://t.me/RoyaleFinance',
   twitter: 'https://twitter.com/Royale_Finance',
   url: 'https://www.royale.finance/',
+  verified: false,
 } satisfies AdapterProject

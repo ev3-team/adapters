@@ -128,4 +128,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/xmtp_',
   url: 'https://xmtp.org/',
+  verified: false,
 } satisfies AdapterProject

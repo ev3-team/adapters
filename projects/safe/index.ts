@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/safenetworktech?lang=en',
   url: 'https://safenetwork.org/',
+  verified: false,
 } satisfies AdapterProject

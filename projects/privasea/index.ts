@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Privasea_ai',
   twitter: 'https://twitter.com/Privasea_tech',
   url: 'https://www.privasea.ai/',
+  verified: false,
 } satisfies AdapterProject

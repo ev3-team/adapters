@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://etherland.world/',
+  verified: false,
 } satisfies AdapterProject

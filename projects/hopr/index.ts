@@ -41,4 +41,5 @@ export default {
   telegram: 'https://t.me/hoprnet',
   twitter: 'https://twitter.com/hoprnet',
   url: 'https://hoprnet.org/',
+  verified: false,
 } satisfies AdapterProject

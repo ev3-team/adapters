@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/nexbloc',
   twitter: 'https://twitter.com/nexbloc',
   url: 'https://www.nexbloc.com/',
+  verified: false,
 } satisfies AdapterProject

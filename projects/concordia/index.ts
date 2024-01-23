@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/deBridgeFinance',
   url: 'https://www.concordia.systems/',
+  verified: false,
 } satisfies AdapterProject

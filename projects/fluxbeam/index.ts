@@ -20,4 +20,5 @@ export default {
   telegram: 'https://solana.com/telegram',
   twitter: 'https://solana.com/discord',
   url: 'https://fluxbeam.xyz/',
+  verified: false,
 } satisfies AdapterProject

@@ -34,4 +34,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/GlitterProtocol',
   url: 'https://glitterprotocol.io/',
+  verified: false,
 } satisfies AdapterProject

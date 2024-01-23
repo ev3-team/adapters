@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/canvas?lang=en',
   url: 'https://www.canvas.xyz/',
+  verified: false,
 } satisfies AdapterProject

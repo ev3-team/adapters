@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/iota',
   url: 'https://www.iota.org/',
+  verified: false,
 } satisfies AdapterProject

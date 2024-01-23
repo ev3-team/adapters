@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/HookedProtocolOfficial',
   twitter: 'https://twitter.com/HookedProtocol',
   url: 'https://hooked.io/',
+  verified: false,
 } satisfies AdapterProject

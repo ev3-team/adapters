@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/FlareNetwork',
   twitter: 'https://twitter.com/FlareNetworks',
   url: 'https://flare.network/',
+  verified: false,
 } satisfies AdapterProject

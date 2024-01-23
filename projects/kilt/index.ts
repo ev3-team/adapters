@@ -42,4 +42,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Kiltprotocol',
   url: 'https://www.kilt.io/',
+  verified: false,
 } satisfies AdapterProject

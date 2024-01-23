@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/EcoBytes1',
   url: 'https://3cobytes.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Truebitprotocol',
   url: 'https://truebit.io/',
+  verified: false,
 } satisfies AdapterProject

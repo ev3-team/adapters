@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/safehavenio',
   twitter: 'https://twitter.com/safeHavenio',
   url: 'https://safehaven.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -46,4 +46,5 @@ export default {
   telegram: 'https://t.me/s/vechainannouncement',
   twitter: 'https://twitter.com/vechainofficial?lang=en',
   url: 'https://www.vechain.org/',
+  verified: false,
 } satisfies AdapterProject

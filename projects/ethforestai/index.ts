@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ETHforestAI',
   twitter: 'https://twitter.com/ETHforestAI',
   url: 'https://ethforest.ai/',
+  verified: false,
 } satisfies AdapterProject

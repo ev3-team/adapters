@@ -45,4 +45,5 @@ export default {
   telegram: null,
   twitter: 'https://x.com/getbeluga',
   url: 'https://heybeluga.com/',
+  verified: false,
 } satisfies AdapterProject

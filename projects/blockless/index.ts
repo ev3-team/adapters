@@ -30,4 +30,5 @@ export default {
   telegram: 'https://t.me/blocklessofficial',
   twitter: 'https://x.com/theblockless',
   url: 'https://blockless.network/',
+  verified: false,
 } satisfies AdapterProject

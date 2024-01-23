@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://lambda.im/',
+  verified: false,
 } satisfies AdapterProject

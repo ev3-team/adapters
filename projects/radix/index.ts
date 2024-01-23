@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/radix_dlt',
   twitter: 'https://twitter.com/RadixDLT',
   url: 'https://www.radixdlt.com/',
+  verified: false,
 } satisfies AdapterProject

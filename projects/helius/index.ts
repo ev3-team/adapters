@@ -20,4 +20,5 @@ export default {
   telegram: '--',
   twitter: 'https://twitter.com/heliuslabs',
   url: 'https://www.helius.dev/',
+  verified: false,
 } satisfies AdapterProject

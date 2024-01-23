@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/wire',
   url: 'https://wire.network/',
+  verified: false,
 } satisfies AdapterProject

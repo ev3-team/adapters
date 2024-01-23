@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/premai_io',
   url: 'https://www.premai.io/',
+  verified: false,
 } satisfies AdapterProject

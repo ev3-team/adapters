@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://hellotempo.com/',
+  verified: false,
 } satisfies AdapterProject

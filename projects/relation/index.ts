@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/therelationlabs',
   twitter: 'https://twitter.com/relationlabs',
   url: 'https://www.relationlabs.ai/home',
+  verified: false,
 } satisfies AdapterProject

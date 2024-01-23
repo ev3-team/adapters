@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/hellowynd',
   url: 'https://wynd.network/',
+  verified: false,
 } satisfies AdapterProject

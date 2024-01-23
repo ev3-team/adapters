@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Ingo_zk',
   url: 'https://www.ingonyama.com/',
+  verified: false,
 } satisfies AdapterProject

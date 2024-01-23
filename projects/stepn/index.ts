@@ -48,4 +48,5 @@ export default {
   telegram: 'https://t.me/STEPNofficial',
   twitter: 'https://twitter.com/Stepnofficial',
   url: 'https://www.stepn.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/nori',
   url: 'https://nori.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Getantic',
   url: 'https://www.antic.xyz/',
+  verified: false,
 } satisfies AdapterProject

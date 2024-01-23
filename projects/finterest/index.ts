@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/finterestICP',
   url: 'https://finterest.gitbook.io/product-docs/',
+  verified: false,
 } satisfies AdapterProject

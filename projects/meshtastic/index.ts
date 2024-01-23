@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/TheMeshtastic',
   url: 'https://meshtastic.org/',
+  verified: false,
 } satisfies AdapterProject

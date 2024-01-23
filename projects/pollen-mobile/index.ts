@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/PollenMobile',
   url: 'https://www.pollenmobile.io/',
+  verified: false,
 } satisfies AdapterProject

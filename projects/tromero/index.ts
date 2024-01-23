@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/TromeroAI',
   url: 'https://www.tromero.org/',
+  verified: false,
 } satisfies AdapterProject

@@ -31,4 +31,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://storecloud.org/',
+  verified: false,
 } satisfies AdapterProject

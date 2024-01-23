@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/exaprotocol',
   twitter: 'https://twitter.com/ExaProtocol',
   url: 'https://www.exaprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/vividlabs',
   twitter: 'https://twitter.com/VividLabsHQ',
   url: 'https://www.vividlabs.com/',
+  verified: false,
 } satisfies AdapterProject

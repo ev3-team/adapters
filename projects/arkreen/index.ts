@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/arkreen_network',
   twitter: 'https://twitter.com/arkreen_network',
   url: 'https://arkreen.com/',
+  verified: false,
 } satisfies AdapterProject

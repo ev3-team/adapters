@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/threefoldnews',
   twitter: 'https://twitter.com/threefold_io',
   url: 'https://threefold.io/',
+  verified: false,
 } satisfies AdapterProject

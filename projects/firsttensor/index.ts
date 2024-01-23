@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/firsttensor',
   twitter: 'https://twitter.com/firsttensor',
   url: 'https://firsttensor.com/',
+  verified: false,
 } satisfies AdapterProject

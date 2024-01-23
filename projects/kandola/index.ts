@@ -30,4 +30,5 @@ export default {
   telegram: 'https://web.telegram.org/a/',
   twitter: 'https://twitter.com/KandolaNetwork',
   url: 'https://kandola.network/',
+  verified: false,
 } satisfies AdapterProject

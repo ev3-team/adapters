@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/aionelab',
   twitter: 'https://twitter.com/aionelab',
   url: 'https://ai.one/',
+  verified: false,
 } satisfies AdapterProject

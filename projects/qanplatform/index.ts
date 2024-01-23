@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/QANplatform',
   twitter: 'https://twitter.com/QANplatform',
   url: 'https://qanplatform.com/en',
+  verified: false,
 } satisfies AdapterProject

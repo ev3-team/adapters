@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/s/glacier_news',
   twitter: 'https://twitter.com/GlacierNPS',
   url: 'https://www.glacier.io/',
+  verified: false,
 } satisfies AdapterProject

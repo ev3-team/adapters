@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/hypersignchain',
   twitter: 'https://twitter.com/hypersignchain',
   url: 'https://hypersign.id/',
+  verified: false,
 } satisfies AdapterProject

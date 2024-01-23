@@ -35,4 +35,5 @@ export default {
   telegram: 'https://t.me/ethstorage',
   twitter: 'https://twitter.com/EthStorage',
   url: 'https://eth-store.w3eth.io/',
+  verified: false,
 } satisfies AdapterProject

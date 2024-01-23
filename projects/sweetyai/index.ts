@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/SweetHentaiAI',
   url: 'https://sweety.ai/',
+  verified: false,
 } satisfies AdapterProject

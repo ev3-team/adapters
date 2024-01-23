@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/metablox',
   url: 'https://metablox.io/',
+  verified: false,
 } satisfies AdapterProject

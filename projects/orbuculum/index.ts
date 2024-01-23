@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dlt_eo',
   url: 'https://orbuculum.xyz/',
+  verified: false,
 } satisfies AdapterProject

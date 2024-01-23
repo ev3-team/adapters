@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/unimoonportal',
   twitter: 'https://twitter.com/Unimoonofficial',
   url: 'https://unimoon.ai/',
+  verified: false,
 } satisfies AdapterProject

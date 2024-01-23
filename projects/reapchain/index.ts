@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ReapchianOfficial',
   twitter: 'https://twitter.com/ReapChain',
   url: 'https://reapchain.com/',
+  verified: false,
 } satisfies AdapterProject

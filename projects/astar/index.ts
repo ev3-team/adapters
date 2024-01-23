@@ -50,4 +50,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://astar.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -27,4 +27,5 @@ export default {
   telegram: 'https://telegram.me/s/HELIUM',
   twitter: 'http://twitter.com/helium',
   url: 'https://www.helium.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://mobile.twitter.com/BacalhauProject/status/1581290104936484864',
   url: 'https://www.bacalhau.org/',
+  verified: false,
 } satisfies AdapterProject

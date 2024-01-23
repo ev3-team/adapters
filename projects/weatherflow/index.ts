@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/weatherflow',
   url: 'https://weatherflow.com/',
+  verified: false,
 } satisfies AdapterProject

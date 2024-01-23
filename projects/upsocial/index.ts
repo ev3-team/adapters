@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/UpSocialBCN',
   url: 'https://upsocial.com/',
+  verified: false,
 } satisfies AdapterProject

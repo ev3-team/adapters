@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/fmtlol?lang=en',
   url: 'https://fmtlol.com/',
+  verified: false,
 } satisfies AdapterProject

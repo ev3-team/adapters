@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/RightsfuAlly?t=CF-wuGubyRb9dG8K_dnP5Q&s=08',
   url: 'https://rightsfually.com/en/',
+  verified: false,
 } satisfies AdapterProject

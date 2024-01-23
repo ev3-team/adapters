@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/cambrian_eth',
   url: 'https://cambrianprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

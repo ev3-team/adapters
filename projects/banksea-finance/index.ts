@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://banksea.finance/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://confluxnetwork.org/',
+  verified: false,
 } satisfies AdapterProject

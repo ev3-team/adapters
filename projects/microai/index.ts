@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/gomicroai?s=11',
   url: 'https://micro.ai/',
+  verified: false,
 } satisfies AdapterProject

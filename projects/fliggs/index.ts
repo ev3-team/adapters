@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/fliggs_mobile',
   url: 'https://fliggs.com/en',
+  verified: false,
 } satisfies AdapterProject

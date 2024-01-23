@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 't.me/Suanbot',
+  verified: false,
 } satisfies AdapterProject

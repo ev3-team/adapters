@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/go_daylight',
   url: 'https://godaylight.com/',
+  verified: false,
 } satisfies AdapterProject

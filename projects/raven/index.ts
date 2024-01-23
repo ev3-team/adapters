@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/ravenprotocol',
   twitter: 'https://twitter.com/raven_protocol',
   url: 'https://www.ravenprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

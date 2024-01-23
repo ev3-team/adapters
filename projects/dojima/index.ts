@@ -38,4 +38,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dojimanetwork',
   url: 'https://www.dojima.network/',
+  verified: false,
 } satisfies AdapterProject

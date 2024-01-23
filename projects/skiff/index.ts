@@ -42,4 +42,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/skiffprivacy',
   url: 'http://www.skiff.com/',
+  verified: false,
 } satisfies AdapterProject

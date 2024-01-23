@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Sollinked_com',
   url: 'https://sollinked.com/',
+  verified: false,
 } satisfies AdapterProject

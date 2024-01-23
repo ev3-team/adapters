@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/regen_pk',
   url: 'https://www.regen.network/',
+  verified: false,
 } satisfies AdapterProject

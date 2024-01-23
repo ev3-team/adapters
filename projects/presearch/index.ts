@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/presearchnews',
   url: 'https://presearch.io/',
+  verified: false,
 } satisfies AdapterProject

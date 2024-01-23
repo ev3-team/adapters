@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/HallidayHQ',
   url: 'https://www.halliday.xyz/',
+  verified: false,
 } satisfies AdapterProject

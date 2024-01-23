@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/RevestFinance',
   url: 'https://revest.finance/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/DeepGreenEnergy',
   url: 'https://www.deepgreen.energy/',
+  verified: false,
 } satisfies AdapterProject

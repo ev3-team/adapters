@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/algoveraai',
   url: 'https://www.algovera.ai/',
+  verified: false,
 } satisfies AdapterProject

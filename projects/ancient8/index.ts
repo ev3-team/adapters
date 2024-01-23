@@ -63,4 +63,5 @@ export default {
   telegram: 'https://t.me/ancient8_gg',
   twitter: 'https://twitter.com/Ancient8_gg',
   url: 'https://www.ancient8.gg/',
+  verified: false,
 } satisfies AdapterProject

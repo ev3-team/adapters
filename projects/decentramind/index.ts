@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://decentramind.bot/',
+  verified: false,
 } satisfies AdapterProject

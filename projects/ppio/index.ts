@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ppio_official?lang=en',
   url: 'https://www.ppio.cloud/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/network3official',
   twitter: 'https://twitter.com/network3_com',
   url: 'https://network3.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/gny_io',
   url: 'http://www.gny.io/',
+  verified: false,
 } satisfies AdapterProject

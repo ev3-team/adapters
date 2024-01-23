@@ -54,4 +54,5 @@ export default {
   telegram: 'https://bit.ly/3e6FZoV',
   twitter: 'https://twitter.com/RSS3_',
   url: 'https://rss3.io/',
+  verified: false,
 } satisfies AdapterProject

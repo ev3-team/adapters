@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ResearchHubF',
   url: 'https://www.researchhub.com/',
+  verified: false,
 } satisfies AdapterProject

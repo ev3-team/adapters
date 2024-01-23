@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://novelty.today/',
+  verified: false,
 } satisfies AdapterProject

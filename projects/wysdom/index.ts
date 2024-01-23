@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/WysdomXyz',
   url: 'https://wysdom.xyz/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ConcreteSciFi',
   url: 'https://ukaton.com/',
+  verified: false,
 } satisfies AdapterProject

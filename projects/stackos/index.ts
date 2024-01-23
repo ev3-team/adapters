@@ -45,4 +45,5 @@ export default {
   telegram: 'https://t.me/DeployOnStackOS',
   twitter: 'https://twitter.com/DeployOnStackOS',
   url: 'https://www.stackos.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ScPrimeCloud',
   url: 'https://scpri.me/',
+  verified: false,
 } satisfies AdapterProject

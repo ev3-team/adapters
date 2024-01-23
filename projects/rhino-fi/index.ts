@@ -37,4 +37,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://rhino.fi/',
+  verified: false,
 } satisfies AdapterProject

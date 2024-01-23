@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/JobchainOfficial',
   twitter: 'https://twitter.com/antigravity1729',
   url: 'https://www.jobchain.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -56,4 +56,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://questbook.app/',
+  verified: false,
 } satisfies AdapterProject

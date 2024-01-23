@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/orchaiofficial',
   twitter: 'https://twitter.com/orchai_protocol',
   url: 'https://orchai.io/',
+  verified: false,
 } satisfies AdapterProject

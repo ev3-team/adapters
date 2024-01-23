@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/DioneProtocol',
   twitter: 'https://twitter.com/firstone_DIONE',
   url: 'https://www.dioneprotocol.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Crewdle_app',
   url: 'https://crewdle.com/peers',
+  verified: false,
 } satisfies AdapterProject

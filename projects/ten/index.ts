@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://obscu.ro/',
+  verified: false,
 } satisfies AdapterProject

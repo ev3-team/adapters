@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://data-lake.co/',
+  verified: false,
 } satisfies AdapterProject

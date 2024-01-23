@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/thisiscere',
   twitter: 'https://twitter.com/cereofficial',
   url: 'https://cere.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://subconscious.network/',
+  verified: false,
 } satisfies AdapterProject

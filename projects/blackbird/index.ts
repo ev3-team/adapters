@@ -35,4 +35,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/blackbirdvc',
   url: 'https://www.blackbird.xyz/',
+  verified: false,
 } satisfies AdapterProject

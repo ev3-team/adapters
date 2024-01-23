@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/FoilNetwork',
   url: 'https://foil.network/',
+  verified: false,
 } satisfies AdapterProject

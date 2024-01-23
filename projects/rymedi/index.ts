@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://rymedi.com/',
+  verified: false,
 } satisfies AdapterProject

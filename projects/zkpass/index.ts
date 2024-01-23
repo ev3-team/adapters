@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/zkPass',
   url: 'https://zkpass.org/home',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/onchaindatanerd?lang=en',
   url: 'https://www.thedatanerd.io/',
+  verified: false,
 } satisfies AdapterProject

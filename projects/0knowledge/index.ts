@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Entry_Portal_0KN',
   twitter: 'https://twitter.com/0Knowledge_net',
   url: 'https://0101010011.xyz/',
+  verified: false,
 } satisfies AdapterProject

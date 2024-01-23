@@ -32,4 +32,5 @@ export default {
   telegram: 'https://t.me/impactMarketOfficial',
   twitter: 'https://twitter.com/impactmarket',
   url: 'https://www.impactmarket.com/',
+  verified: false,
 } satisfies AdapterProject

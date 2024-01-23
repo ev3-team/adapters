@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Qualoo_Network',
   url: 'https://www.qualoo.io/',
+  verified: false,
 } satisfies AdapterProject

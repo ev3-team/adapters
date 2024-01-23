@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/solidusaichat',
   twitter: 'https://twitter.com/AITECHio',
   url: 'https://www.aitech.io/',
+  verified: false,
 } satisfies AdapterProject

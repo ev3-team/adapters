@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/taoshiio?s=11',
   url: 'https://www.taoshi.io/',
+  verified: false,
 } satisfies AdapterProject

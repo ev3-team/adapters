@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/pnbworld',
   twitter: 'https://twitter.com/pnbworld',
   url: 'https://pnb.world/',
+  verified: false,
 } satisfies AdapterProject

@@ -31,4 +31,5 @@ export default {
   telegram: 'https://t.me/kreskofi',
   twitter: 'https://twitter.com/kreskofi',
   url: 'https://www.kresko.fi/',
+  verified: false,
 } satisfies AdapterProject

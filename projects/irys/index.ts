@@ -21,4 +21,5 @@ export default {
   telegram: '-https://t.me/TheBundleCommunity-',
   twitter: 'https://twitter.com/irys_xyz',
   url: 'https://bundlr.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/BBSnetworkIO',
   url: 'https://www.bbsnetwork.io/',
+  verified: false,
 } satisfies AdapterProject

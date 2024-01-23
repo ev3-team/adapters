@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/filecoinio',
   twitter: 'https://twitter.com/Filecoin',
   url: 'https://filecoin.io/',
+  verified: false,
 } satisfies AdapterProject

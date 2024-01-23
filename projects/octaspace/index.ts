@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://octa.space/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/FlurryFinance_Official',
   twitter: 'https://twitter.com/FlurryFi',
   url: 'https://www.flurry.finance/',
+  verified: false,
 } satisfies AdapterProject

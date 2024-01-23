@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/bitping',
   twitter: 'https://twitter.com/BitpingApp',
   url: 'https://bitping.com/',
+  verified: false,
 } satisfies AdapterProject

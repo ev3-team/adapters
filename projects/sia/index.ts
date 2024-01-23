@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/sia__foundation',
   url: 'https://sia.tech/',
+  verified: false,
 } satisfies AdapterProject

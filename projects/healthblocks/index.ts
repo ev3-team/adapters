@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/HEALTHBLOCINC',
   url: 'https://www.healthblocks.ai/',
+  verified: false,
 } satisfies AdapterProject

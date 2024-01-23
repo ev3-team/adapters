@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://mobile.twitter.com/ledgerslice',
   url: 'https://sliceledger.io/',
+  verified: false,
 } satisfies AdapterProject

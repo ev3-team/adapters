@@ -31,4 +31,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ModulusLabs',
   url: 'https://www.moduluslabs.xyz/',
+  verified: false,
 } satisfies AdapterProject

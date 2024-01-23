@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/autifynetwork',
   url: 'https://www.autifynetwork.com/',
+  verified: false,
 } satisfies AdapterProject

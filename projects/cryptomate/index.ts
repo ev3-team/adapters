@@ -30,4 +30,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/CryptoMateLatam',
   url: 'https://cryptomate.me/',
+  verified: false,
 } satisfies AdapterProject

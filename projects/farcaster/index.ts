@@ -47,4 +47,5 @@ export default {
   telegram: 'https://t.me/farcasterdevchat',
   twitter: 'https://twitter.com/farcaster_xyz',
   url: 'https://www.farcaster.xyz/',
+  verified: false,
 } satisfies AdapterProject

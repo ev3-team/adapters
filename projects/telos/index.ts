@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/HelloTelos',
   twitter: 'https://twitter.com/HelloTelos',
   url: 'https://www.telos.net/',
+  verified: false,
 } satisfies AdapterProject

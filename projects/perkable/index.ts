@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/perkableco',
   url: 'https://www.perkable.co/',
+  verified: false,
 } satisfies AdapterProject

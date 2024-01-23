@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/functionland',
   twitter: 'https://twitter.com/functionland',
   url: 'https://fx.land/',
+  verified: false,
 } satisfies AdapterProject

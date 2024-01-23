@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://cess.cloud/',
+  verified: false,
 } satisfies AdapterProject

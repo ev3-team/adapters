@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ChirpDeWi',
   url: 'https://chirpwireless.io/commercial',
+  verified: false,
 } satisfies AdapterProject

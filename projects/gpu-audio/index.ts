@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/gpuaudio',
   url: 'https://www.gpu.audio/',
+  verified: false,
 } satisfies AdapterProject

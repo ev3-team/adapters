@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.heliotics.com/',
+  verified: false,
 } satisfies AdapterProject

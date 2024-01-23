@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/s/solrazr_app',
   twitter: 'https://mobile.twitter.com/CSolrazr',
   url: 'https://razrfi.ai/',
+  verified: false,
 } satisfies AdapterProject

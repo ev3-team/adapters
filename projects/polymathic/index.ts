@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/PolymathicAI',
   url: 'https://polymathic-ai.org/',
+  verified: false,
 } satisfies AdapterProject

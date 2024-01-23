@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/noisegpt',
   twitter: 'https://twitter.com/enq_AI',
   url: 'https://enqai.com/',
+  verified: false,
 } satisfies AdapterProject

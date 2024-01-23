@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://epics.dev/en/',
+  verified: false,
 } satisfies AdapterProject

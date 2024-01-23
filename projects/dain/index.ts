@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/buildontal',
   url: 'https://dain.org/',
+  verified: false,
 } satisfies AdapterProject

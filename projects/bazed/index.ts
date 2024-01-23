@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/BAZEDBET',
   url: 'https://bazed.bet/',
+  verified: false,
 } satisfies AdapterProject

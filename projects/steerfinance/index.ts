@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/steerprotocol?lang=en',
   url: 'https://steer.finance/',
+  verified: false,
 } satisfies AdapterProject

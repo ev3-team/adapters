@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/githedgehog',
   url: 'https://githedgehog.com/',
+  verified: false,
 } satisfies AdapterProject

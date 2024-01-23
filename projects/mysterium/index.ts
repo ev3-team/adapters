@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/mysterium_network',
   twitter: 'https://twitter.com/MysteriumNet',
   url: 'https://www.mysterium.network/',
+  verified: false,
 } satisfies AdapterProject

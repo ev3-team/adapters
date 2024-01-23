@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/bloXmoveCommunity',
   twitter: 'https://twitter.com/bloxmove',
   url: 'https://bloxmove.com/',
+  verified: false,
 } satisfies AdapterProject

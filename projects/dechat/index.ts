@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/dechat_io',
   url: 'https://www.dechat.io/',
+  verified: false,
 } satisfies AdapterProject

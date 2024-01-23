@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/NotusLabs',
   url: 'https://notuslabs.org/',
+  verified: false,
 } satisfies AdapterProject

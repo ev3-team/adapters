@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/neurosity',
   url: 'https://neurosity.co/',
+  verified: false,
 } satisfies AdapterProject

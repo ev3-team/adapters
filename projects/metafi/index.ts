@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/MetaFi_Official',
   url: 'https://www.metafi.org/',
+  verified: false,
 } satisfies AdapterProject

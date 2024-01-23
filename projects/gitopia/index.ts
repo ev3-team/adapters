@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Gitopia',
   twitter: 'https://twitter.com/gitopiaDAO',
   url: 'https://gitopia.com/',
+  verified: false,
 } satisfies AdapterProject

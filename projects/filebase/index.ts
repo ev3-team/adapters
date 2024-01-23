@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/filebase',
   url: 'https://filebase.com/',
+  verified: false,
 } satisfies AdapterProject

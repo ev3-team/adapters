@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/prodialabs',
   url: 'https://prodia.com/',
+  verified: false,
 } satisfies AdapterProject

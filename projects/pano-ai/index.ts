@@ -45,4 +45,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Pano_AI',
   url: 'https://www.pano.ai/',
+  verified: false,
 } satisfies AdapterProject

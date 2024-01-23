@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://bloxtel.com/',
+  verified: false,
 } satisfies AdapterProject

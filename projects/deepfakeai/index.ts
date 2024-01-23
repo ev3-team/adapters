@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/FakeAI',
   twitter: 'https://twitter.com/DeepFakeAI_',
   url: 'https://fakeai.io/',
+  verified: false,
 } satisfies AdapterProject

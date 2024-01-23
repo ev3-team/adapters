@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/deepbrainchainglobal',
   twitter: 'https://twitter.com/DeepBrainChain',
   url: 'https://deepbrainchain.org/index.html',
+  verified: false,
 } satisfies AdapterProject

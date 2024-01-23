@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/armur_ai',
   url: 'https://armur.ai/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.overtimemarkets.xyz/',
+  verified: false,
 } satisfies AdapterProject

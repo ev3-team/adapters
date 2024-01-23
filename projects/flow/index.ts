@@ -47,4 +47,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/flow_blockchain',
   url: 'https://flow.com/',
+  verified: false,
 } satisfies AdapterProject

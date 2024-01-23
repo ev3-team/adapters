@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/myceliumx',
   url: 'https://www.myceliumnetworks.com/',
+  verified: false,
 } satisfies AdapterProject

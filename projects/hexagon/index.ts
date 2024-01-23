@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/s/hexsecret?before=27',
   twitter: 'https://twitter.com/hexagonab?lang=en',
   url: 'https://www.hexagonwireless.com/',
+  verified: false,
 } satisfies AdapterProject

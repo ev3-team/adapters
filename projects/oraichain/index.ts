@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/oraichain',
   twitter: 'https://twitter.com/oraichain',
   url: 'https://orai.io/',
+  verified: false,
 } satisfies AdapterProject

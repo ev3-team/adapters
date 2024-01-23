@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/lendwill',
   url: 'https://lendwill.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/UpfireOfficial',
   twitter: 'https://twitter.com/UpfireHQ',
   url: 'https://upfire.com/',
+  verified: false,
 } satisfies AdapterProject

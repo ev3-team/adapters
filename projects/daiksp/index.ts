@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://daikspcoin.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/protico_io',
   url: 'https://protico.io/',
+  verified: false,
 } satisfies AdapterProject

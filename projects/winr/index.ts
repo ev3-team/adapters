@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/WINRProtocol',
   twitter: 'https://twitter.com/WINRProtocol',
   url: 'https://winr.games/',
+  verified: false,
 } satisfies AdapterProject

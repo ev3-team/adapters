@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/JurProject',
   url: 'https://jur.io/',
+  verified: false,
 } satisfies AdapterProject

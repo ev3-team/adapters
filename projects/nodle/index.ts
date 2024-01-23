@@ -21,4 +21,5 @@ export default {
   telegram: 'https://telegram.me/nodlecommunity',
   twitter: 'https://twitter.com/nodlenetwork',
   url: 'https://www.nodle.com/',
+  verified: false,
 } satisfies AdapterProject

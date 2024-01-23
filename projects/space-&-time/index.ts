@@ -51,4 +51,5 @@ export default {
   telegram: 'https://t.me/spaceandtimedb',
   twitter: 'https://twitter.com/SpaceTimeMedia/',
   url: 'https://www.spaceandtime.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -36,4 +36,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/fedml_ai',
   url: 'https://www.fedml.ai/',
+  verified: false,
 } satisfies AdapterProject

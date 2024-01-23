@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/DeepSQUAREio',
   url: 'https://deepsquare.io/',
+  verified: false,
 } satisfies AdapterProject

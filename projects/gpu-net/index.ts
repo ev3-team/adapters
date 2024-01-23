@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/brahm_gan',
   twitter: 'https://twitter.com/gpunet',
   url: 'https://www.gpu.net/',
+  verified: false,
 } satisfies AdapterProject

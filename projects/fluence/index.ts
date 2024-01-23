@@ -35,4 +35,5 @@ export default {
   telegram: 'https://t.me/fluence_project',
   twitter: 'https://twitter.com/fluence_project',
   url: 'https://fluence.network/',
+  verified: false,
 } satisfies AdapterProject

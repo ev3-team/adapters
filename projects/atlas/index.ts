@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/atlasweb3group',
   url: 'https://www.atlasweb3.io/',
+  verified: false,
 } satisfies AdapterProject

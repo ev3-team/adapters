@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/TEKKONOfficial',
   twitter: 'https://twitter.com/TEKKON_official',
   url: 'https://tekkon.com/',
+  verified: false,
 } satisfies AdapterProject

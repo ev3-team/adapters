@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://vicharak.in/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/WorldMobileTeam',
   twitter: 'https://twitter.com/WorldMobileTeam/',
   url: 'https://worldmobile.io/',
+  verified: false,
 } satisfies AdapterProject

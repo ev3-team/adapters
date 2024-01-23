@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/hypercycle_ai',
   twitter: 'https://twitter.com/hypercycle_ai',
   url: 'https://www.hypercycle.ai/',
+  verified: false,
 } satisfies AdapterProject

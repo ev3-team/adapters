@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/laneaxis',
   twitter: 'https://twitter.com/axis_token',
   url: 'https://axistoken.io/',
+  verified: false,
 } satisfies AdapterProject

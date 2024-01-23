@@ -31,4 +31,5 @@ export default {
   telegram: 'https://t.me/allianceblock',
   twitter: 'https://twitter.com/allianceblock',
   url: 'https://allianceblock.io/',
+  verified: false,
 } satisfies AdapterProject

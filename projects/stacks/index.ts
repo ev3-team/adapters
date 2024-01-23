@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/StacksChat',
   twitter: 'https://twitter.com/StacksOrg',
   url: 'https://stacks.org/',
+  verified: false,
 } satisfies AdapterProject

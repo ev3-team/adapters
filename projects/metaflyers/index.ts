@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/metaflyers',
   url: 'https://www.metaflyers.xyz',
+  verified: false,
 } satisfies AdapterProject

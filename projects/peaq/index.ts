@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/s/peaqnetwork?before=165',
   twitter: 'https://twitter.com/peaqnetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.peaq.network/',
+  verified: false,
 } satisfies AdapterProject

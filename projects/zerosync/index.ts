@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/zerosync_chat',
   twitter: 'https://twitter.com/zerosync_',
   url: 'https://zerosync.org/',
+  verified: false,
 } satisfies AdapterProject

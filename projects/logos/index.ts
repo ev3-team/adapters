@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Logos_state',
   url: 'https://logos.co/',
+  verified: false,
 } satisfies AdapterProject

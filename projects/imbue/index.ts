@@ -61,4 +61,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/imbue_ai',
   url: 'https://imbue.com/',
+  verified: false,
 } satisfies AdapterProject

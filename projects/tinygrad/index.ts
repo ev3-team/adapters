@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://tinygrad.org/',
+  verified: false,
 } satisfies AdapterProject

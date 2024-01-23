@@ -32,4 +32,5 @@ export default {
   telegram: 'https://t.me/s/dotmoovs_announcements?before=1038',
   twitter: 'https://twitter.com/dotmoovs',
   url: 'https://dotmoovs.com/',
+  verified: false,
 } satisfies AdapterProject

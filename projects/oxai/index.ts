@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/oxfordai',
   url: 'https://oxai.com/',
+  verified: false,
 } satisfies AdapterProject

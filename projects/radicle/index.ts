@@ -44,4 +44,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/radicle',
   url: 'https://radicle.xyz/',
+  verified: false,
 } satisfies AdapterProject

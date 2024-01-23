@@ -22,4 +22,5 @@ export default {
   telegram: 'https://t.me/rendernetwork',
   twitter: 'https://twitter.com/rendernetwork',
   url: 'http://renderfoundation.com/',
+  verified: false,
 } satisfies AdapterProject

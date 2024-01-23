@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/joinradius',
   url: 'https://www.radius.space/',
+  verified: false,
 } satisfies AdapterProject

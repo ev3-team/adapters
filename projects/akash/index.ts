@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/akashnet_',
   url: 'https://akash.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/rollbitcom',
   url: 'https://rollbit.com/',
+  verified: false,
 } satisfies AdapterProject

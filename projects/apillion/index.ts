@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Apillon',
   url: 'https://apillon.io/',
+  verified: false,
 } satisfies AdapterProject

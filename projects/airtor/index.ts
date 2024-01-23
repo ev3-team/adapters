@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/atorcommunityportal',
   twitter: 'https://twitter.com/atorprotocol',
   url: 'https://ator.io/',
+  verified: false,
 } satisfies AdapterProject

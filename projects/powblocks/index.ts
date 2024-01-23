@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://powblocks.com/',
+  verified: false,
 } satisfies AdapterProject

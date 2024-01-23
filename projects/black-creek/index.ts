@@ -22,4 +22,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/BlackCreekDig',
   url: 'https://www.blackcreekdigital.com/',
+  verified: false,
 } satisfies AdapterProject

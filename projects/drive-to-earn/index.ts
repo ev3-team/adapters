@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.d2e.info/',
+  verified: false,
 } satisfies AdapterProject

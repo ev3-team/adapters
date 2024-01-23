@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/SmartPointIO',
   url: 'https://smartpoint.io/',
+  verified: false,
 } satisfies AdapterProject

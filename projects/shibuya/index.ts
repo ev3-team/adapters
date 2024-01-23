@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/shibuyaxyz',
   url: 'https://www.shibuya.xyz/',
+  verified: false,
 } satisfies AdapterProject

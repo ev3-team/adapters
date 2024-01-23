@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://spacetoken.tech/',
+  verified: false,
 } satisfies AdapterProject

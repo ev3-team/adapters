@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://roso.vip/',
+  verified: false,
 } satisfies AdapterProject

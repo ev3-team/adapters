@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/untangledfin',
   url: 'https://www.untangled.finance/',
+  verified: false,
 } satisfies AdapterProject

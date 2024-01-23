@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://polymesh.network/',
+  verified: false,
 } satisfies AdapterProject

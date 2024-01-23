@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://www.twitter.com/shippedcom',
   url: 'https://shipped.com/',
+  verified: false,
 } satisfies AdapterProject

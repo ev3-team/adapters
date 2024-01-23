@@ -31,4 +31,5 @@ export default {
   telegram: 'https://t.me/NuNet_community',
   twitter: 'https://twitter.com/nunet_global',
   url: 'https://www.nunet.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -73,4 +73,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/GOQii',
   url: 'https://goqii.com/in-en',
+  verified: false,
 } satisfies AdapterProject

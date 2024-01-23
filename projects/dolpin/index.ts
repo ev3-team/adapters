@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Dolphin_Emu',
   url: 'https://dolpin.io/',
+  verified: false,
 } satisfies AdapterProject

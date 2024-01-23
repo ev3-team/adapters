@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/blinqnet',
   url: 'https://blinqnetworks.com/',
+  verified: false,
 } satisfies AdapterProject

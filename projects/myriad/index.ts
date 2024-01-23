@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/myriadsocial',
   twitter: 'https://twitter.com/myriad_social',
   url: 'https://www.myriad.social/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/hyperbolic_labs',
   url: 'https://hyperbolic.xyz/',
+  verified: false,
 } satisfies AdapterProject

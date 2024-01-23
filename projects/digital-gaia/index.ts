@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/_digitalgaia',
   url: 'https://www.digitalgaia.earth/',
+  verified: false,
 } satisfies AdapterProject

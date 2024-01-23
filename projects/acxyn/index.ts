@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/Acxynteam',
   url: 'https://www.acxyn.xyz/',
+  verified: false,
 } satisfies AdapterProject

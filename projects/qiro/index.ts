@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.qiro.fi/',
+  verified: false,
 } satisfies AdapterProject

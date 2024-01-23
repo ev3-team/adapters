@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://domani.finance/',
+  verified: false,
 } satisfies AdapterProject

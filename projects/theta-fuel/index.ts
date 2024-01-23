@@ -59,4 +59,5 @@ export default {
   telegram: 'https://t.me/s/thetanetwork_announcements?before=516',
   twitter: 'https://twitter.com/Theta_Network',
   url: 'https://thetatoken.org/',
+  verified: false,
 } satisfies AdapterProject

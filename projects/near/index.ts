@@ -120,4 +120,5 @@ export default {
   telegram: 'https://t.me/cryptonear',
   twitter: 'https://twitter.com/nearprotocol',
   url: 'https://near.org/',
+  verified: false,
 } satisfies AdapterProject

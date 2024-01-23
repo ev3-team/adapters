@@ -26,4 +26,5 @@ export default {
   telegram: 'https://t.me/+GhVechqawKk5OTk0',
   twitter: 'https://twitter.com/wifimapapp',
   url: 'https://www.wifimap.io/',
+  verified: false,
 } satisfies AdapterProject

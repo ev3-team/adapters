@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'http://twitter.com/invisionai',
   url: 'https://invision.ai/',
+  verified: false,
 } satisfies AdapterProject

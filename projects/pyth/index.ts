@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/Pyth_Network',
   twitter: 'https://twitter.com/PythNetwork',
   url: 'https://pyth.network/',
+  verified: false,
 } satisfies AdapterProject

@@ -57,4 +57,5 @@ export default {
   telegram: 'https://t.me/s/arbitrum',
   twitter: 'https://twitter.com/arbitrum',
   url: 'https://arbitrum.io/',
+  verified: false,
 } satisfies AdapterProject

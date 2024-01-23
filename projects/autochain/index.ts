@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/forethought_ai',
   url: 'https://autochain.info/',
+  verified: false,
 } satisfies AdapterProject

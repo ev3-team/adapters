@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/greensparc',
   url: 'https://www.greensparc.com/',
+  verified: false,
 } satisfies AdapterProject

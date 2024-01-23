@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/TotemGDN',
   url: 'https://www.totem.gdn/bin/view/Main/',
+  verified: false,
 } satisfies AdapterProject

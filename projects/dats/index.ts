@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/home',
   url: 'https://datsproject.io/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/libp2p',
   url: 'https://libp2p.io/',
+  verified: false,
 } satisfies AdapterProject

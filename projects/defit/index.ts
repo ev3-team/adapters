@@ -20,4 +20,5 @@ export default {
   telegram: 'https://t.me/DEFITofficial',
   twitter: 'https://twitter.com/DEFITofficial',
   url: 'https://app.defit.com/',
+  verified: false,
 } satisfies AdapterProject

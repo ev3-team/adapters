@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/TheRoadToOtoco',
   twitter: 'https://twitter.com/otoco_io',
   url: 'https://otoco.io/',
+  verified: false,
 } satisfies AdapterProject

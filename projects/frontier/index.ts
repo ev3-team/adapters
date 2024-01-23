@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://frontier.tech/',
+  verified: false,
 } satisfies AdapterProject

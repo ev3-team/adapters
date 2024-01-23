@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://www.chainbound.io/',
+  verified: false,
 } satisfies AdapterProject

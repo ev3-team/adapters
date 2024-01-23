@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/joinchat/Hzio4lCr-95bHcbB1-RX9Q',
   twitter: 'https://twitter.com/mintmeproject',
   url: 'https://www.mintme.com/',
+  verified: false,
 } satisfies AdapterProject

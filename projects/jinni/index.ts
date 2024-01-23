@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/jinnidotcom',
   url: 'http://www.jinni.com/',
+  verified: false,
 } satisfies AdapterProject

@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/nirvanalabsai',
   url: 'https://nirvanalabs.io/',
+  verified: false,
 } satisfies AdapterProject

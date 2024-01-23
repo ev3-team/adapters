@@ -21,4 +21,5 @@ export default {
   telegram: null,
   twitter: 'https://twitter.com/ToucanProtocol',
   url: 'https://toucan.earth/',
+  verified: false,
 } satisfies AdapterProject

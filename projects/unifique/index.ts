@@ -20,4 +20,5 @@ export default {
   telegram: null,
   twitter: null,
   url: 'https://unifique.com.br/',
+  verified: false,
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   telegram: 'https://t.me/vitadao',
   twitter: 'https://twitter.com/vita_dao',
   url: 'https://www.vitadao.com/',
+  verified: false,
 } satisfies AdapterProject
