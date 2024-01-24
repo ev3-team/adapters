@@ -315,6 +315,7 @@ import ecoblocks from './ecoblocks'
 import ecobytes from './ecobytes'
 import ecogen from './ecogen'
 import ecotoken from './ecotoken'
+import edge from './edge'
 import edgematrix from './edgematrix'
 import efani from './efani'
 import electricTree from './electric-tree'
@@ -1491,6 +1492,7 @@ export const projects = {
   ecobytes,
   ecogen,
   ecotoken,
+  edge,
   edgematrix,
   efani,
   electricTree,
