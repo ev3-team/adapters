@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.28
+
+### Patch Changes
+
+- add new project - edge
+
 ## 0.3.27
 
 ### Patch Changes
