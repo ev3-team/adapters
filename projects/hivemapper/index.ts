@@ -13,9 +13,7 @@ export default {
   discord: 'https://discord.com/invite/FRWMKyy5v2',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/hivemapper/',
-  duneQueries: {
-    REVENUE: '3284780',
-  },
+  duneQueries: null,
   foundingYear: null,
   blog: 'https://medium.com/@hivemapper',
   github: 'https://github.com/hivemapper',
