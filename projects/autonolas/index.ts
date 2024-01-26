@@ -14,6 +14,7 @@ export default {
   investors: ['z5oj4n', 'ciz6c6', '0f0771', 'z0wsaf', 'qpkks9', 'zim0bv'],
   linkedin: null,
   duneQueries: {
+    PRICE: '3380149',
     REVENUE: '3254432',
     KEY_METRIC: '3254434',
   },
