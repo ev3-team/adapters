@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.29
+
+### Patch Changes
+
+- fix `generateProjectsCsvRow` handle description with commas
+
 ## 0.3.28
 
 ### Patch Changes
