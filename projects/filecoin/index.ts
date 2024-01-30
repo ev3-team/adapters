@@ -4,7 +4,7 @@ export default {
   name: 'Filecoin',
   ninja: null,
   subcategories: null,
-  chain: null,
+  chain: 'FILECOIN',
   category: 'COMPUTE',
   token: 'FIL',
   coingeckoId: 'filecoin',

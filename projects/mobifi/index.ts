@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Ridesharing',
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: 'MOFI',
   coingeckoId: 'mobifi',
   id: 'ars9qg',

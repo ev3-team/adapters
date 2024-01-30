@@ -5,8 +5,8 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
-  token: 'not yet',
+  category: 'NOT_DEPIN',
+  token: null,
   coingeckoId: null,
   id: 'exm7xr',
   description:

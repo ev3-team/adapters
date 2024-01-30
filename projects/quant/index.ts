@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'QNT',
   coingeckoId: 'quant-network',
   id: '7u7rag',

@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'NOT_DEPIN',
   token: 'GEL',
   coingeckoId: 'gelato',
   id: 'lvwe8x',

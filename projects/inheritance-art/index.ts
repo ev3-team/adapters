@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'IAI',
   coingeckoId: 'inheritance-art',
   id: '0a4vnn',
