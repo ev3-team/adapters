@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: null,
   coingeckoId: null,
   id: 'g32gdz',

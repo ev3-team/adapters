@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: 'SWEAT',
   coingeckoId: 'sweat-economy',
   id: '5b9pa1',

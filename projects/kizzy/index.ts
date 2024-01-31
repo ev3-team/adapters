@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Prediction Market',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'tmsb4i',

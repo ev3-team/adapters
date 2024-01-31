@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'OCEAN',
   coingeckoId: 'ocean-protocol',
   id: 'qbhkmt',

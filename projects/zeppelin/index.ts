@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Mining',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'WIRELESS',
   token: null,
   coingeckoId: null,
   id: 'cvzsdf',

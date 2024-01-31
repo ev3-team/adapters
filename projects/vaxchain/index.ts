@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Health & Fitness',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: null,
   coingeckoId: null,
   id: 'adc9fo',
