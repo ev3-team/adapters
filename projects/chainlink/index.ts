@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Oracle',
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'LINK',
   coingeckoId: 'chainlink',
   id: 'y9e0mz',
