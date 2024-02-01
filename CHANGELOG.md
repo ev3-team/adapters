@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.31
+
+### Patch Changes
+
+- update chainlink category
+
 ## 0.3.30
 
 ### Patch Changes
