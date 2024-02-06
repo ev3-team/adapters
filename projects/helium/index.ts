@@ -17,6 +17,7 @@ export default {
   duneQueries: {
     MINT: '2573591',
     REVENUE: '2944853',
+    NET_REVENUE: '3410571',
     SUPPLY: '3043582',
     TIME_SERIES: '2944860',
     KEY_METRIC: '3223298',

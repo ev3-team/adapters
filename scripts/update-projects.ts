@@ -69,6 +69,7 @@ export function getProjectsDuneQueries(): Promise<
         if (row.MINT) queries.MINT = row.MINT
         if (row.PRICE) queries.PRICE = row.PRICE
         if (row.REVENUE) queries.REVENUE = row.REVENUE
+        if (row.NET_REVENUE) queries.NET_REVENUE = row.NET_REVENUE
         if (row.SUPPLY) queries.SUPPLY = row.SUPPLY
         if (row.TIME_SERIES) queries.TIME_SERIES = row.TIME_SERIES
         if (row.KEY_METRIC) queries.KEY_METRIC = row.KEY_METRIC
