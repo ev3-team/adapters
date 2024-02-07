@@ -14,10 +14,10 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/geodnet/',
   duneQueries: {
-    BURN: '2944840',
     LOCKED_BALANCE: '2944845',
     MINT: '2944854',
     PRICE: '2944842',
+    REVENUE: '3402097',
   },
   foundingYear: null,
   blog: 'https://medium.com/geodnet/geodnet-revolutionizes-the-global-positioning-industry-with-real-world-web3-reference-network-21183b0ad7eb',

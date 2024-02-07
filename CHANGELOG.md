@@ -1,5 +1,17 @@
 # @ev3-team/adapters
 
+## 0.3.32
+
+### Patch Changes
+
+- update dune query
+
+## 0.3.31
+
+### Patch Changes
+
+- update chainlink category
+
 ## 0.3.30
 
 ### Patch Changes
