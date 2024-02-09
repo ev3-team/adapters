@@ -36,6 +36,7 @@ export type AdapterProjectDuneQueryIdentifiers = {
   MINT?: string
   PRICE?: string
   REVENUE?: string
+  NET_REVENUE?: string
   SUPPLY?: string
   TIME_SERIES?: string
   KEY_METRIC?: string
