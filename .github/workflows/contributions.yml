@@ -1,0 +1,32 @@
+name: Contributions Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'contributions'
+
+jobs:
+  contributions-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if Contributions PR exists
+        id: check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          prs=$(gh pr list \
+              --repo "$https://github.com/ev3-team/adapters" \
+              --head 'contributions' \
+              --base 'main' \
+              --json title \
+              --jq 'length')
+          if ((prs > 0)); then
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: create pull request
+        run: gh pr create -B main -H contributions --title 'Contributions Release $(date)'
+        if: '!steps.check.outputs.skip'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
