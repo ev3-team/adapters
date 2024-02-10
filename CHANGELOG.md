@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.33
+
+### Patch Changes
+
+- new dune query column and batch of contributions
+
 ## 0.3.32
 
 ### Patch Changes
