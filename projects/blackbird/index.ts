@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'POLYGON',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SERVICES',
   token: null,
   coingeckoId: null,
   id: 'vhqz3k',

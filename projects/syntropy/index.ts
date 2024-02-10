@@ -5,12 +5,12 @@ export default {
   ninja: null,
   subcategories: 'Bridges',
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'COMPUTE',
   token: 'NOIA',
-  coingeckoId: 'noia-network',
+  coingeckoId: 'syntropy',
   id: 'm9yv19',
   description:
-    'Syntropy is a multi-chain data availability layer offering decentralized, scalable access to on-chain data.',
+    'Syntropy transforms the way blockchain data is accessed through our innovative Data Layer protocol.',
   discord: 'https://discord.com/invite/Ze7Kswye8B',
   investors: [
     'buime9',
