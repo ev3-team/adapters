@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.34
+
+### Patch Changes
+
+- a472b0a8: contributions batch
+
 ## 0.3.33
 
 ### Patch Changes
