@@ -10,6 +10,8 @@ jobs:
   contributions-release:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - name: Check if Contributions PR exists
         id: check
         env:
