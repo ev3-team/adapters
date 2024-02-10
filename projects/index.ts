@@ -704,7 +704,6 @@ import neurosity from './neurosity'
 import neutralx from './neutralx'
 import neutroon from './neutroon'
 import nevermined from './nevermined'
-import newTestProject from './new-test-project'
 import nexbloc from './nexbloc'
 import nexgenCloud from './nexgen-cloud'
 import nextdata from './nextdata'
@@ -1882,7 +1881,6 @@ export const projects = {
   neutralx,
   neutroon,
   nevermined,
-  newTestProject,
   nexbloc,
   nexgenCloud,
   nextdata,
