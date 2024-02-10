@@ -16,7 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           prs=$(gh pr list \
-              --repo "$https://github.com/ev3-team/adapters" \
+              --repo "https://github.com/ev3-team/adapters" \
               --head 'contributions' \
               --base 'main' \
               --json title \
