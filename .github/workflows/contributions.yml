@@ -28,7 +28,7 @@ jobs:
           fi
 
       - name: create pull request
-        run: gh pr create -B 'main' -H 'contributions' --title 'Contributions Release' --body 'Contributions batch -  release candidate - $(date)'
+        run: gh pr create -B 'main' -H 'contributions' --title 'Contributions Release' --body 'Contributions batch -  release candidate'
         if: '!steps.check.outputs.skip'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
