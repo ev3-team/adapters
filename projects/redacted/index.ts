@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'redacted',
+  ninja: null,
+  subcategories: null,
+  chain: null,
+  category: 'COMPUTE',
+  token: null,
+  coingeckoId: null,
+  id: '5ghi8p',
+  description:
+    'redacted is developing a Decentralized VPN for Web3 with a pay-as-you-go model, on Solana',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
+  url: 'https://redacted.onl/',
+  verified: false,
+} satisfies AdapterProject
