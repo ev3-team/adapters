@@ -142,6 +142,7 @@ import bloodchain from './bloodchain'
 import bloxmove from './bloxmove'
 import bloxtel from './bloxtel'
 import bluebirdPower from './bluebird-power'
+import bluzelle from './bluzelle'
 import boinc from './boinc'
 import boincAi from './boinc-ai'
 import bonfire from './bonfire'
@@ -1319,6 +1320,7 @@ export const projects = {
   bloxmove,
   bloxtel,
   bluebirdPower,
+  bluzelle,
   boinc,
   boincAi,
   bonfire,
