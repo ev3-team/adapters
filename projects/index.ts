@@ -708,7 +708,7 @@ import nexbloc from './nexbloc'
 import nexgenCloud from './nexgen-cloud'
 import nextdata from './nextdata'
 import nfai from './nfai'
-import nft3Labs from './nft3-labs'
+import nft3 from './nft3'
 import ngrave from './ngrave'
 import nillionNetwork from './nillion-network'
 import nina from './nina'
@@ -729,7 +729,7 @@ import nousResearch from './nous-research'
 import novelty from './novelty'
 import nride from './nride'
 import nucoCloud from './nuco-cloud'
-import numeraire from './numeraire'
+import numerai from './numerai'
 import nunet from './nunet'
 import nutbox from './nutbox'
 import nuveaux from './nuveaux'
@@ -1041,8 +1041,8 @@ import telos from './telos'
 import tempo from './tempo'
 import ten from './ten'
 import tepax from './tepax'
-import terminal3 from './terminal-3'
 import terminalBrain from './terminal-brain'
+import terminal3 from './terminal3'
 import thala from './thala'
 import theGraph from './the-graph'
 import theRecharge from './the-recharge'
@@ -1885,7 +1885,7 @@ export const projects = {
   nexgenCloud,
   nextdata,
   nfai,
-  nft3Labs,
+  nft3,
   ngrave,
   nillionNetwork,
   nina,
@@ -1906,7 +1906,7 @@ export const projects = {
   novelty,
   nride,
   nucoCloud,
-  numeraire,
+  numerai,
   nunet,
   nutbox,
   nuveaux,
@@ -2218,8 +2218,8 @@ export const projects = {
   tempo,
   ten,
   tepax,
-  terminal3,
   terminalBrain,
+  terminal3,
   thala,
   theGraph,
   theRecharge,
