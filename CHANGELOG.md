@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.35
+
+### Patch Changes
+
+- cb56384f: contributions batch
+
 ## 0.3.34
 
 ### Patch Changes
