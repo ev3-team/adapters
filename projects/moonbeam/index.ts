@@ -16,7 +16,7 @@ export default {
   linkedin: 'https://www.linkedin.com/company/moonbeaminc',
   duneQueries: null,
   foundingYear: null,
-  blog: '-https://medium.com/moonbeam-network-',
+  blog: 'https://medium.com/moonbeam-network',
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/moonbeamnetwork',

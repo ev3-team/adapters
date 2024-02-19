@@ -16,7 +16,7 @@ export default {
   linkedin: 'https://www.linkedin.com/company/solsplits/',
   duneQueries: null,
   foundingYear: null,
-  blog: 'https://https//medium.com/@solsplits',
+  blog: 'https://medium.com/@solsplits',
   github: 'https://github.com/solsplits',
   telegram: null,
   twitter: 'https://twitter.com/solsplits',

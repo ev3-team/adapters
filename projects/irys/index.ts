@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: 'https://medium.com/bundlr-network',
   github: 'https://github.com/topics/bundlr',
-  telegram: '-https://t.me/TheBundleCommunity-',
+  telegram: 'https://t.me/TheBundleCommunity',
   twitter: 'https://twitter.com/irys_xyz',
   url: 'https://bundlr.network/',
   verified: false,
