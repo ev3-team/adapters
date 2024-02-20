@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'avalanche-2',
   id: 'wl4ipp',
   description: 'Avalanche is the fastest, most reliable smart contracts platform in the world.',
-  discord: 'https://discord.com/invite/RwXY7P6',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/avalancheavax/',
   duneQueries: null,

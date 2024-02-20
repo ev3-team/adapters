@@ -11,7 +11,7 @@ export default {
   id: 'm2541n',
   description:
     'InvArch allows organizations & individuals to manage assets & execute transactions across any blockchain using a single non-custodial account.',
-  discord: 'https://discord.com/invite/invarch',
+  discord: null,
   investors: [
     'wsbapa',
     'gvqos9',

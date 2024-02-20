@@ -11,7 +11,7 @@ export default {
   id: 'qtg6m9',
   description:
     'Bostrom is a network focused on Superintelligence, serving as a hub for domain specific networks in the Cyber ecosystem.',
-  discord: 'https://discord.com/invite/jjEaDKmq',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

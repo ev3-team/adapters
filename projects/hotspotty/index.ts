@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '8hmhev',
   description: 'Hotspotty is a tool for ordering and managing helium hotspots.',
-  discord: 'https://discord.com/invite/498Rc8khaN',
+  discord: null,
   investors: ['7zvxz8', '6c0yfx', '1im0oz'],
   linkedin: 'https://www.linkedin.com/company/hotspotty-official/',
   duneQueries: null,

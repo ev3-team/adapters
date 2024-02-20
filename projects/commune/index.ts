@@ -11,7 +11,7 @@ export default {
   id: 'dam39v',
   description:
     'Commune is a protocol designed to unify developer tools into a single, open network, offering a flexible and inclusive framework that supports the integration and sharing of resources to promote innovation and efficiency among developers.',
-  discord: 'https://discord.com/invite/A8JGkZ9Dmm',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

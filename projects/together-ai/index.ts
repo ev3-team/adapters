@@ -11,7 +11,7 @@ export default {
   id: 'rr8fxt',
   description:
     'Together.ai is a decentralised cloud platform that empowers developers to train and deploy generative AI models.',
-  discord: 'https://discord.com/invite/9Rk6sSeWEG',
+  discord: null,
   investors: [
     '0zuwkc',
     '1crmhb',

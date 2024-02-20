@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'dimo',
   id: '0wr2ea',
   description: 'Dimo is a decentralized ecosystem of connected vehicles.',
-  discord: 'https://discord.com/invite/B5K5eScyQM',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dimo-network',
   duneQueries: {

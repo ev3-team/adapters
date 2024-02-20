@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'aqg014',
   description: 'Fog Works: Developer of decentralized storage using blockchain tech.',
-  discord: 'https://discord.gg/fogworks',
+  discord: null,
   investors: ['caojlf', '6q7dh3', 'smqwtv'],
   linkedin: 'https://www.linkedin.com/company/fog-works',
   duneQueries: null,

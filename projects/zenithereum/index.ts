@@ -11,7 +11,7 @@ export default {
   id: 'yi3cpi',
   description:
     'Zenithereum: Decentralized AI for agent growth in crypto and real-world environments.',
-  discord: 'https://discord.com/invite/kwPZNyYd',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

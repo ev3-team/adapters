@@ -11,7 +11,7 @@ export default {
   id: '7bo0uv',
   description:
     "SophiaVerse is a gamified infrastructure built in the pursuit of Sophia's development via gameplay, through AI programming and the use of the SOPH utility token.",
-  discord: 'https://discord.com/invite/sophiaverse',
+  discord: null,
   investors: ['65epfb', 'zj4ect'],
   linkedin: 'https://www.linkedin.com/company/sophiaverse/',
   duneQueries: null,

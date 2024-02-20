@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'mxc',
   id: 'h1l8jh',
   description: 'MXC is a L3 zkEVM built on top of a decentralized network of LPWAN radio nodes.',
-  discord: 'https://discord.com/invite/mxcfoundation',
+  discord: null,
   investors: [
     '1ifr28',
     'nxcix5',

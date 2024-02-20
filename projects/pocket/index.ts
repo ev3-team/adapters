@@ -11,7 +11,7 @@ export default {
   id: 'wreq2k',
   description:
     'Pocket is a company that empowers developers with reliable and performant RPC access to the open internet.',
-  discord: 'https://discord.com/invite/pokt',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

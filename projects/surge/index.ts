@@ -11,7 +11,7 @@ export default {
   id: 'wmr4sm',
   description:
     'Surge is a decentralized p2p filesharing app that ensures 100% anonymous file transfers through blockchain technology.',
-  discord: 'https://discord.com/invite/BVWtKMfaxW',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/surge/',
   duneQueries: null,

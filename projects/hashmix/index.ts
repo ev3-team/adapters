@@ -11,7 +11,7 @@ export default {
   id: '5v5xcz',
   description:
     'HashMix proposes a tokenization scheme suitable for arbitrary hash power, implements a set of universal decentralized cloud hash power trading, lending, and swapping protocols.',
-  discord: 'https://discord.com/invite/bWfFB5v48r',
+  discord: null,
   investors: [
     '1zgufc',
     's16t1q',

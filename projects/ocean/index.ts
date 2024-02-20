@@ -11,7 +11,7 @@ export default {
   id: 'qbhkmt',
   description:
     'Ocean Protocol is a data exchange protocol enabling decentralized data sharing and monetization.',
-  discord: 'https://discord.com/invite/TnXjkR5',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ocean-protocol',
   duneQueries: null,

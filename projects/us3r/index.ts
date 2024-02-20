@@ -11,7 +11,7 @@ export default {
   id: 'hqj4vb',
   description:
     'US3R: Dev platform and dApps with composable data using Ceramic for decentralized storage.',
-  discord: 'https://discord.com/invite/4ZBUdBcVnk',
+  discord: null,
   investors: ['772xwk'],
   linkedin: null,
   duneQueries: null,

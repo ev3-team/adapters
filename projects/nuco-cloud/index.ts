@@ -11,7 +11,7 @@ export default {
   id: 'ldlosm',
   description:
     'Nuco.cloud is a sharing economy platform for network computing based on BOINC (Berkeley Open Infrastructure for Network Computing).',
-  discord: 'https://discord.com/invite/5fSC5aEhpm',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/nuco-cloud',
   duneQueries: null,

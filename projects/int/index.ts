@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'internet-node-token',
   id: 'c77cyh',
   description: 'INT: Intelligent ecosystem enabling free data flow and privacy in IoT.',
-  discord: 'https://discord.com/invite/T88VYsKU6S',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

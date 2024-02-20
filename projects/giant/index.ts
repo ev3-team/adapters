@@ -11,7 +11,7 @@ export default {
   id: 'jl19aq',
   description:
     'GIANT is a blockchain protocol aiming to democratize access to internet and financial services by tokenizing bandwidth.',
-  discord: 'https://discord.com/invite/ECD5XS8f99',
+  discord: null,
   investors: [
     'cdmyso',
     'yva82n',

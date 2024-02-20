@@ -11,7 +11,7 @@ export default {
   id: 'i86y1x',
   description:
     'Saito: Layer-1 blockchain empowering web 3.0 apps, with distributed infrastructure.',
-  discord: 'https://discord.com/invite/HjTFh9Tfec',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/saitonetwork',
   duneQueries: null,

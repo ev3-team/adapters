@@ -11,7 +11,7 @@ export default {
   id: 't5y2jk',
   description:
     'Shaga offers a unique gaming ecosystem that empowers gamers to lend access to their gaming PCs and monetize their hardware.',
-  discord: 'https://discord.com/invite/G5c3UwMfbH',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

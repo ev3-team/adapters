@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'ae6gb1',
   description: 'M3tering incentivizes solar energy investment for underserved regions.',
-  discord: 'https://discord.com/invite/Z4AyRjh7gW',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/whynotswitch',
   duneQueries: null,

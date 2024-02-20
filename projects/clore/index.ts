@@ -11,7 +11,7 @@ export default {
   id: 'jbmvkm',
   description:
     'CLORE.AI is distributed AI training, cloud rendering platform connecting server owners with renters.',
-  discord: 'https://discord.gg/7sAEVGza8w',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

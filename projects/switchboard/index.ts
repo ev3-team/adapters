@@ -11,7 +11,7 @@ export default {
   id: 'iik6nb',
   description:
     'Switchboard is a generalized, community-curated oracle network designed to incentivize bringing the long tail of data on-chain.',
-  discord: 'https://discord.com/invite/switchboardxyz',
+  discord: null,
   investors: [
     'b5zojp',
     'bp637k',

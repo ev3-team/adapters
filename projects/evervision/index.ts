@@ -11,7 +11,7 @@ export default {
   id: 'zr5vzn',
   description:
     'everVision: Blockchain provider for Web3 development, offering everPay, Permaswap, PermaDAO, and Web3Infra.',
-  discord: 'https://discord.com/invite/WM5MQZGVPF',
+  discord: null,
   investors: [
     '1zgufc',
     'hhudw8',
