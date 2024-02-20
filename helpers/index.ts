@@ -121,10 +121,11 @@ export type AdapterProjectDuneCsvRow = {
   SUPPLY?: string
   TIME_SERIES?: string
   KEY_METRIC?: string
+  NODE_NUMBER?: string
 }
 /** Generates a row for the projects dune csv. */
 export const generateProjectsDuneCsvRow = (p: AdapterProjectDuneCsvRow) =>
-  `${p.name},${p.id},${p.BURN},${p.LOCKED_BALANCE},${p.MINT},${p.PRICE},${p.REVENUE},${p.NET_REVENUE},${p.SUPPLY},${p.TIME_SERIES},${p.KEY_METRIC}`
+  `${p.name},${p.id},${p.BURN},${p.LOCKED_BALANCE},${p.MINT},${p.PRICE},${p.REVENUE},${p.NET_REVENUE},${p.SUPPLY},${p.TIME_SERIES},${p.KEY_METRIC},${p.NODE_NUMBER}`
 
 /** Generates a row for the investors csv. */
 export const generateInvestorCsvRow = (i: Pick<AdapterInvestor, 'id' | 'name'>) =>

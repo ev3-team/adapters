@@ -73,6 +73,7 @@ export function getProjectsDuneQueries(): Promise<
         if (row.SUPPLY) queries.SUPPLY = row.SUPPLY
         if (row.TIME_SERIES) queries.TIME_SERIES = row.TIME_SERIES
         if (row.KEY_METRIC) queries.KEY_METRIC = row.KEY_METRIC
+        if (row.NODE_NUMBER) queries.NODE_NUMBER = row.NODE_NUMBER
 
         projectsDuneQueries.set(row.id, Object.values(queries).length > 0 ? queries : null)
       })
