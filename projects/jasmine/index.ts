@@ -11,7 +11,7 @@ export default {
   id: 'bwhoon',
   description:
     'Jasmine Energy is a decentralized market for claiming, trading, and redeeming renewable energy certificates.',
-  discord: 'https://discord.com/invite/3y9aMNSHb5',
+  discord: null,
   investors: [
     '9jairy',
     '4zunln',

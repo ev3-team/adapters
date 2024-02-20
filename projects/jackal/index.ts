@@ -11,7 +11,7 @@ export default {
   id: '127k4x',
   description:
     'Jackal is a decentralized cloud storage network designed to safeguard extremely sensitive data.',
-  discord: 'https://discord.onl/jackal/',
+  discord: null,
   investors: [],
   linkedin: 'https://ca.linkedin.com/company/jackal-storage',
   duneQueries: null,

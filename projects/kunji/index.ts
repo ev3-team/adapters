@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'kunji-finance',
   id: '9zg5p3',
   description: 'Kunji Finance: Decentralized asset management platform on Arbitrum chain.',
-  discord: 'https://discord.com/invite/nWktwnqYNa',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/kunjiofficial',
   duneQueries: null,

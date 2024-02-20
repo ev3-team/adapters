@@ -11,7 +11,7 @@ export default {
   id: 'g0o72l',
   description:
     'VitaDAO is a globally distributed, community-owned collective that funds and incubates translational aging research with a view to commercialise the resulting IP. VITA is their governance token, which is used to vote on and govern longevity research funding proposals.',
-  discord: 'https://discord.com/invite/3S3ftnmZYD',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/vitadao/',
   duneQueries: null,

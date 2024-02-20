@@ -11,7 +11,7 @@ export default {
   id: 'x0mqmd',
   description:
     'Bitping is a distributed network intelligence solution that enables users to share CPU and bandwidth for ping tests.',
-  discord: 'https://discord.com/invite/R8sGzPCtzY',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/bitping',
   duneQueries: null,

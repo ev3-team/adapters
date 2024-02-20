@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'quantum-resistant-ledger',
   id: 'qc35tq',
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
-  discord: 'https://discord.com/invite/jBT6BEp',
+  discord: null,
   investors: ['aj65x1'],
   linkedin: 'https://www.linkedin.com/company/qrl/about/',
   duneQueries: null,

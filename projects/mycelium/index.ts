@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'vi4exr',
   description: 'Mycelium is an enterprise DePIN deployer and operator of the Mycelium Testbed.',
-  discord: 'https://discord.com/invite/mycelium',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/myceliumnetworks',
   duneQueries: null,

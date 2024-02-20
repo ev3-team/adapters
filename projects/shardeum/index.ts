@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'shardeum',
   id: 'g65u6w',
   description: 'Shardeum: EVM-based platform ensuring decentralization and security.',
-  discord: 'https://discord.com/invite/shardeum',
+  discord: null,
   investors: [
     'oixym4',
     'z37132',

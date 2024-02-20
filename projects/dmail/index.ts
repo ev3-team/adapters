@@ -11,7 +11,7 @@ export default {
   id: '84v1j0',
   description:
     'Dmail is an AI-powered decentralized email platform that empowers users with ownership and control of their data.',
-  discord: 'https://discord.com/invite/QbvaeqwMFg',
+  discord: null,
   investors: [
     'oq9fz1',
     'gun7y3',

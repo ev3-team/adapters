@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '6qvjpf',
   description: 'SecondLive: a metaverse for avatars, virtual spaces, art exhibitions, and gaming.',
-  discord: 'https://discord.com/invite/secondlive',
+  discord: null,
   investors: [
     'zloyr1',
     'mrgeec',

@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '41xvbt',
   description: 'We create phenomenal NFT experiences with exceptional creators and brands.',
-  discord: 'https://discord.com/invite/supermetaplus',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

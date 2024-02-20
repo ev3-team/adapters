@@ -11,7 +11,7 @@ export default {
   id: 'xi19vn',
   description:
     'NKN is a peer-to-peer network connectivity protocol that enables decentralized and secure communication between devices.',
-  discord: 'https://discord.com/invite/hrZvrVa',
+  discord: null,
   investors: [],
   linkedin: 'https://linkedin.com/company/nknorg',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'bpnvkv',
   description:
     'Spheron Protocol: decentralized platform for web app deployment with storage, hosting, and compute capabilities.',
-  discord: 'https://discord.com/invite/ahxuCtm',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/spheron/',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'n1ufl0',
   description:
     'tinygrad is a simple and powerful neural network framework for deep learning that offers a balance between simplicity and functionality, with support for both training and inference on various hardware accelerators. ',
-  discord: 'https://discord.com/invite/ZjZadyC7PK',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

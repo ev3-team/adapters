@@ -11,7 +11,7 @@ export default {
   id: '8u08fw',
   description:
     'Flare is a powerful new blockchain with the first consensus protocol for external data. Decentralized applications on Flare can therefore trustlessly acquire and use information from other blockchains and real world data sources, solving the oracle problem and opening the door to a new era of utility. This means secure decentralized bridging, full cross-chain composability with assets and information able to flow freely between all chains, and seamless decentralized integration of Web2 data in Web3 dapps.',
-  discord: 'https://twitter.com/FlareNetworks',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/flarenetwork/',
   duneQueries: null,

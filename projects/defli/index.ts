@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '14khqv',
   description: 'DeFli builds global infrastructure for the unmanned aviation industry.',
-  discord: 'https://discord.com/invite/BBkdrbn2Jy',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

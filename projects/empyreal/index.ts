@@ -11,7 +11,7 @@ export default {
   id: 'mmo63y',
   description:
     'Empyreal is a protocol that leverages privacy technology, encryption, and automation to optimize trading operations and user security across multiple blockchain platforms.',
-  discord: 'https://discord.gg/empyrealsdk',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

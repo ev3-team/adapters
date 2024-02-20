@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'gtqv1n',
   description: 'AristotleAI provides personalized learning experiences and insights.',
-  discord: 'https://discord.com/',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

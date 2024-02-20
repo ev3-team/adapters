@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'cirus',
   id: 'he3mau',
   description: 'CIRUS: Control data, monetize through blockchain.',
-  discord: 'https://discord.com/invite/cAvfNMACEW',
+  discord: null,
   investors: [
     'xmw0ev',
     'oaw1ui',

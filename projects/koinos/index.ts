@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '83tc81',
   description: 'Koinos is a blockchain network with free-to-use apps and dynamic resource pricing.',
-  discord: 'https://discord.com/invite/GErGNsu',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/koinosnetwork',
   duneQueries: null,

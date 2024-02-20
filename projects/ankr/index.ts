@@ -11,7 +11,7 @@ export default {
   id: 'hqtk8u',
   description:
     'Ankr is a blockchain node infrastructure network enhancing multi-chain tools for Web3, DeFi, and the crypto economy.',
-  discord: 'https://discord.com/invite/GGzJ6A6fEg',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ankr',
   duneQueries: null,

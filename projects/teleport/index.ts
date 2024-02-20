@@ -11,7 +11,7 @@ export default {
   id: 'aehc1q',
   description:
     'Teleport connects companies, drivers, and riders, promoting local economies and reducing costs.',
-  discord: 'https://discord.com/invite/teleport',
+  discord: null,
   investors: [
     'dnl49s',
     'hol96b',

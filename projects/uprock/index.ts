@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '1rtzqi',
   description: 'UpRock AI revolutionizes decision-making with personalized, real-time insights.',
-  discord: 'https://discord.com/invite/C7zRUtkQ3N',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/uprock/',
   duneQueries: null,

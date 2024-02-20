@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'pulsefolio',
   id: 'ry8vac',
   description: 'Decentralized AI protocol for personalized investment strategies.',
-  discord: 'https://discord.com/invite/3X5VYdAsWf',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

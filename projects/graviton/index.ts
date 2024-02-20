@@ -11,7 +11,7 @@ export default {
   id: 'udwaws',
   description:
     'Graviton provides Web3 tools and infrastructure that allows artists to reach fans, advertise and monetize their work. NFT Torrent is a free decentralized storage solution for torrent enabled NFTs.',
-  discord: 'https://discord.com/invite/nfu',
+  discord: null,
   investors: ['jo973z'],
   linkedin: 'https://www.linkedin.com/company/graviton-xyz/?originalSubdomain=pr',
   duneQueries: null,

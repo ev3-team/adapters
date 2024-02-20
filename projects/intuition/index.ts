@@ -11,7 +11,7 @@ export default {
   id: 'kx9y1a',
   description:
     'Operator of a decentralized identity company intended to help users to create attestations about any subject.',
-  discord: 'https://discord.com/invite/0xintuition',
+  discord: null,
   investors: [
     'f7094w',
     'zloyr1',
