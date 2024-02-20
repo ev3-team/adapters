@@ -15,6 +15,7 @@ export default {
   linkedin: 'https://www.linkedin.com/company/dimo-network',
   duneQueries: {
     KEY_METRIC: '3241310',
+    NODE_NUMBER: '3448434',
   },
   foundingYear: null,
   blog: 'https://medium.com/dimo-network',
