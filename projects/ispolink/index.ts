@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'LABOR',
+  category: 'SERVICES',
   token: 'ISP',
   coingeckoId: 'ispolink',
   id: 'vv9w8b',
