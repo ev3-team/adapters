@@ -1,6 +1,7 @@
 import _0knowledge from './0knowledge'
 import _0x0ai from './0x0-ai'
 import _0xparc from './0xparc'
+import _0xscope from './0xscope'
 import _1000houses from './1000houses'
 import _2appy from './2appy'
 import _369Ai from './369-ai'
@@ -40,6 +41,7 @@ import alephZero from './aleph-zero'
 import alethea from './alethea'
 import algovera from './algovera'
 import allianceblock from './allianceblock'
+import allora from './allora'
 import alpharushai from './alpharushai'
 import altLabs from './alt-labs'
 import alteredState from './altered-state'
@@ -54,6 +56,7 @@ import anon from './anon'
 import anryze from './anryze'
 import ansa from './ansa'
 import antic from './antic'
+import antimetal from './antimetal'
 import apillion from './apillion'
 import apron from './apron'
 import apus from './apus'
@@ -103,6 +106,7 @@ import bDatagray from './b-datagray'
 import bacalhau from './bacalhau'
 import badIdeaAi from './bad-idea-ai'
 import badger from './badger'
+import bagel from './bagel'
 import band from './band'
 import bankseaFinance from './banksea-finance'
 import banyan from './banyan'
@@ -187,6 +191,7 @@ import chainlink from './chainlink'
 import chainml from './chainml'
 import chainstack from './chainstack'
 import chappyz from './chappyz'
+import characterx from './characterx'
 import charge from './charge'
 import checkdot from './checkdot'
 import cheeze from './cheeze'
@@ -218,6 +223,7 @@ import connect3 from './connect3'
 import constellation from './constellation'
 import contextdao from './contextdao'
 import convoSpace from './convo-space'
+import coral from './coral'
 import corcel from './corcel'
 import cortex from './cortex'
 import cortexLabs from './cortex-labs'
@@ -274,6 +280,7 @@ import defog from './defog'
 import deltatheta from './delta-theta'
 import delysium from './delysium'
 import deme from './deme'
+import demr from './demr'
 import dera from './dera'
 import dexcheck from './dexcheck'
 import dia from './dia'
@@ -434,6 +441,7 @@ import gitopia from './gitopia'
 import gitpoap from './gitpoap'
 import giza from './giza'
 import glacier from './glacier'
+import glif from './glif'
 import glitterProtocol from './glitter-protocol'
 import glow from './glow'
 import glowstick from './glowstick'
@@ -493,12 +501,14 @@ import huddle01 from './huddle01'
 import human from './human'
 import humanode from './humanode'
 import humansai from './humans-ai'
+import humanscape from './humanscape'
 import humcen from './humcen'
 import hyperOracle from './hyper-oracle'
 import hyperaware from './hyperaware'
 import hyperbolic from './hyperbolic'
 import hypercycle from './hypercycle'
 import hypergpt from './hypergpt'
+import hyperline from './hyperline'
 import hypersign from './hypersign'
 import hyperspace from './hyperspace'
 import iagon from './iagon'
@@ -561,6 +571,7 @@ import katzentracker from './katzentracker'
 import keet from './keet'
 import kilt from './kilt'
 import kino from './kino'
+import kip from './kip'
 import kizuna from './kizuna'
 import kizzy from './kizzy'
 import klever from './klever'
@@ -753,6 +764,7 @@ import openfabricAi from './openfabric-ai'
 import opensquare from './opensquare'
 import operator from './operator'
 import opis from './opis'
+import opolis from './opolis'
 import optimism from './optimism'
 import oraichain from './oraichain'
 import orbofiAi from './orbofi-ai'
@@ -886,6 +898,7 @@ import revofi from './revofi'
 import rhinofi from './rhino-fi'
 import riddleAndcode from './riddle&code'
 import rightsfually from './rightsfually'
+import ringfence from './ringfence'
 import ritual from './ritual'
 import roam from './roam'
 import robonomics from './robonomics'
@@ -1021,6 +1034,7 @@ import switchboard from './switchboard'
 import sylo from './sylo'
 import synesisOne from './synesis-one'
 import syntropy from './syntropy'
+import taDa from './ta-da'
 import tal from './tal'
 import taliot from './taliot'
 import tanssi from './tanssi'
@@ -1161,6 +1175,7 @@ import xnet from './xnet'
 import xx from './xx'
 import xyo from './xyo'
 import ylide from './ylide'
+import yogapetz from './yogapetz'
 import yokai from './yokai'
 import zeal from './zeal'
 import zeetta from './zeetta'
@@ -1172,6 +1187,7 @@ import zerosync from './zerosync'
 import zigdao from './zigdao'
 import zion from './zion'
 import zkpass from './zkpass'
+import zonal from './zonal'
 import zoth from './zoth'
 import zus from './zus'
 import zyber365 from './zyber-365'
@@ -1180,6 +1196,7 @@ export const projects = {
   _0knowledge,
   _0x0ai,
   _0xparc,
+  _0xscope,
   _1000houses,
   _2appy,
   _369Ai,
@@ -1219,6 +1236,7 @@ export const projects = {
   alethea,
   algovera,
   allianceblock,
+  allora,
   alpharushai,
   altLabs,
   alteredState,
@@ -1233,6 +1251,7 @@ export const projects = {
   anryze,
   ansa,
   antic,
+  antimetal,
   apillion,
   apron,
   apus,
@@ -1282,6 +1301,7 @@ export const projects = {
   bacalhau,
   badIdeaAi,
   badger,
+  bagel,
   band,
   bankseaFinance,
   banyan,
@@ -1366,6 +1386,7 @@ export const projects = {
   chainml,
   chainstack,
   chappyz,
+  characterx,
   charge,
   checkdot,
   cheeze,
@@ -1397,6 +1418,7 @@ export const projects = {
   constellation,
   contextdao,
   convoSpace,
+  coral,
   corcel,
   cortex,
   cortexLabs,
@@ -1453,6 +1475,7 @@ export const projects = {
   deltatheta,
   delysium,
   deme,
+  demr,
   dera,
   dexcheck,
   dia,
@@ -1613,6 +1636,7 @@ export const projects = {
   gitpoap,
   giza,
   glacier,
+  glif,
   glitterProtocol,
   glow,
   glowstick,
@@ -1672,12 +1696,14 @@ export const projects = {
   human,
   humanode,
   humansai,
+  humanscape,
   humcen,
   hyperOracle,
   hyperaware,
   hyperbolic,
   hypercycle,
   hypergpt,
+  hyperline,
   hypersign,
   hyperspace,
   iagon,
@@ -1740,6 +1766,7 @@ export const projects = {
   keet,
   kilt,
   kino,
+  kip,
   kizuna,
   kizzy,
   klever,
@@ -1932,6 +1959,7 @@ export const projects = {
   opensquare,
   operator,
   opis,
+  opolis,
   optimism,
   oraichain,
   orbofiAi,
@@ -2065,6 +2093,7 @@ export const projects = {
   rhinofi,
   riddleAndcode,
   rightsfually,
+  ringfence,
   ritual,
   roam,
   robonomics,
@@ -2200,6 +2229,7 @@ export const projects = {
   sylo,
   synesisOne,
   syntropy,
+  taDa,
   tal,
   taliot,
   tanssi,
@@ -2340,6 +2370,7 @@ export const projects = {
   xx,
   xyo,
   ylide,
+  yogapetz,
   yokai,
   zeal,
   zeetta,
@@ -2351,6 +2382,7 @@ export const projects = {
   zigdao,
   zion,
   zkpass,
+  zonal,
   zoth,
   zus,
   zyber365,
