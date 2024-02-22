@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.0.0-20240222125355
+
+### Patch Changes
+
+- add new dune query kind node number
+
 ## 0.3.35
 
 ### Patch Changes
