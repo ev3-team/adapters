@@ -92,7 +92,11 @@ async function run() {
       const projectId = row.id
       // ignore projects without id
       if (!projectId) {
-        console.warn(`[update-projects] ignoring row \n${row}\nBecause there's no project id.`)
+        console.warn(
+          `[update-projects] ignoring row \n${JSON.stringify({
+            row,
+          })}\nBecause there's no project id.`
+        )
         return
       }
 

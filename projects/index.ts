@@ -37,6 +37,7 @@ import akord from './akord'
 import albedo from './albedo'
 import aleph from './aleph'
 import alephZero from './aleph-zero'
+import alethea from './alethea'
 import algovera from './algovera'
 import allianceblock from './allianceblock'
 import alpharushai from './alpharushai'
@@ -623,6 +624,7 @@ import manta from './manta'
 import mantra from './mantra'
 import mapmetrics from './mapmetrics'
 import maro from './maro'
+import masa from './masa'
 import masq from './masq'
 import massa from './massa'
 import massive from './massive'
@@ -1214,6 +1216,7 @@ export const projects = {
   albedo,
   aleph,
   alephZero,
+  alethea,
   algovera,
   allianceblock,
   alpharushai,
@@ -1800,6 +1803,7 @@ export const projects = {
   mantra,
   mapmetrics,
   maro,
+  masa,
   masq,
   massa,
   massive,

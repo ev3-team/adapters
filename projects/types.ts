@@ -12,6 +12,7 @@ export type AdapterProjectChain =
   | 'ALGORAND'
   | 'APTOS'
   | 'ARBITRUM'
+  | 'AVALANCHE'
   | 'BINANCE'
   | 'BITCOIN'
   | 'BITTENSOR'
