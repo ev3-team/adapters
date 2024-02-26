@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'uplexa',
   id: '856ev1',
   description: 'uPlexa is a peer-to-peer electronic payment system utilizing IoT and privacy.',
-  discord: 'https://discord.com/invite/a7mAQwJ',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/uplexa',
   duneQueries: null,

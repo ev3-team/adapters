@@ -11,7 +11,7 @@ export default {
   id: 'dg3bp5',
   description:
     'Black Sheep Group is a decentralized marketplace simplifying investing in Web3 assets.',
-  discord: 'https://discord.com/invite/b5WkGzZN',
+  discord: null,
   investors: ['hfmbi5'],
   linkedin: 'http://www.linkedin.com/company/blacksheepgroup',
   duneQueries: null,

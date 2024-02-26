@@ -11,7 +11,7 @@ export default {
   id: '8b6kci',
   description:
     'Meshtastic is an open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices.',
-  discord: 'https://discord.com/invite/ktMAKGBnBs',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

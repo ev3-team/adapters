@@ -11,7 +11,7 @@ export default {
   id: 'd4dfm9',
   description:
     'Shadeform is building a one stop shop for cloud GPUs. Here‚Äôs a look at our upcoming roadmap and upcoming features!',
-  discord: 'https://discord.gg/dCEd77nQYc',
+  discord: null,
   investors: ['bqmpxo', '551q4x', 'v5apl7', 'wdtkj1'],
   linkedin: 'http://www.linkedin.com/company/shadeformai',
   duneQueries: null,

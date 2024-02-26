@@ -11,7 +11,7 @@ export default {
   id: 'n77nem',
   description:
     'Onocoy is a decentralized GNSS reference station network enabling high-precision geopositioning.',
-  discord: 'https://discord.com/invite/CHKxSpPQ8p',
+  discord: null,
   investors: [],
   linkedin: 'https://linkedin.com/company/onocoy',
   duneQueries: null,

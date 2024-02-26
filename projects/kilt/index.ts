@@ -11,7 +11,7 @@ export default {
   id: 'bcanxl',
   description:
     'KILT is a blockchain-based identity platform offering decentralized, secure, and scalable solutions.',
-  discord: 'https://discord.com/invite/HztRqvzbhG',
+  discord: null,
   investors: [
     'gvqos9',
     'pbunpe',

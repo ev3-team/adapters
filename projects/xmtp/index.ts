@@ -11,7 +11,7 @@ export default {
   id: 'rvdlk1',
   description:
     'The Extensible Message Transport Protocol (XMTP) is a secure messaging protocol that enables communication between blockchain accounts.',
-  discord: 'https://discord.com/invite/xmtp',
+  discord: null,
   investors: [
     'm21s7e',
     'y2y3vv',

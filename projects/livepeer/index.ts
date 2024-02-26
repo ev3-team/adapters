@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'livepeer',
   id: '0dpzm4',
   description: 'Livepeer is a decentralized network for video encoders and streamers.',
-  discord: 'https://discord.com/invite/livepeer',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/livepeer',
   duneQueries: {

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'impermax-2',
   id: 'd869lq',
   description: 'Impermax: Cross-chain lending protocol offers yield for lenders and borrowers.',
-  discord: 'https://discord.com/invite/KxbR3qJXGC',
+  discord: null,
   investors: ['8nclhv', 'wxcf8r', 'okjrd0', 'ka4f30', '7xqu4s'],
   linkedin: 'http://www.linkedin.com/company/impermax-finance',
   duneQueries: null,

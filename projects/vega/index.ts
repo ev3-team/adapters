@@ -11,7 +11,7 @@ export default {
   id: 'ie91s7',
   description:
     'Vega Protocol is a blockchain-backed network enabling automated trading and execution of financial products.',
-  discord: 'https://discord.com/invite/3hQyGgZ',
+  discord: null,
   investors: [
     '6ueww6',
     'pdp1mt',

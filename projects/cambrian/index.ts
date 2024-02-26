@@ -11,7 +11,7 @@ export default {
   id: 'wntdih',
   description:
     'Cambrian Protocol is a blockchain agnostic Ethereum dApp that enables resource allocation through conditional tokens.',
-  discord: 'https://discord.com/invite/pZP4HNYrZs',
+  discord: null,
   investors: ['vjpj24', 'a1uyxq', 'ffngjj'],
   linkedin: 'https://linkedin.com/company/cambrian-protocol',
   duneQueries: null,

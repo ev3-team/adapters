@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'deeper-network',
   id: '3s1vpm',
   description: 'Deeper is a decentralized VPN and privacy network.',
-  discord: 'https://discord.com/invite/EWUyAJyH2B',
+  discord: null,
   investors: [],
   linkedin: 'https://il.linkedin.com/company/deeper-cloud',
   duneQueries: null,

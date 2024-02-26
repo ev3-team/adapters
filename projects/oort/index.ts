@@ -11,7 +11,7 @@ export default {
   id: 'apu26o',
   description:
     'Oort is an AI-powered data cloud that unifies compute and storage resources, maximizing privacy and savings.',
-  discord: 'https://discord.com/invite/Uv8khzfZqd',
+  discord: null,
   investors: ['juclgr', '8zsugm', '9205ui', '7rf9rs', 'm05wan', 'o7xcsr'],
   linkedin: 'https://www.linkedin.com/company/oort-inc/',
   duneQueries: null,

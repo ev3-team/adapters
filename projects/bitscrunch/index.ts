@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'x835xi',
   description: 'BitsCrunch: AI-powered, decentralized NFT data for reliable dApps.',
-  discord: 'https://discord.com/invite/bitscrunch-official',
+  discord: null,
   investors: [
     'gjt0lb',
     'puuj5e',

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'octaspace',
   id: 'eppbxs',
   description: 'OctaSpace is a decentralized cloud computing network.',
-  discord: 'https://discord.com/invite/octaspace',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

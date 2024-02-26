@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'sarcophagus',
   id: 'se7wj7',
   description: "Decentralized dead man's switch",
-  discord: 'https://discord.com/invite/5XkvsEmMab',
+  discord: null,
   investors: [
     'hhudw8',
     'hbpmm3',

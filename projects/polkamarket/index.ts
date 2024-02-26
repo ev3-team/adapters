@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'polkamarkets',
   id: 'qybaeu',
   description: 'Polkamarket is an Autonomous Prediction Market Protocol.',
-  discord: 'https://discord.com/invite/polkamarkets',
+  discord: null,
   investors: ['6s7v1l', 'qxuz9y', 'n73vnt', 'k9u90q', '07pxi6', 'pyukl2', 'fuws95'],
   linkedin: 'https://www.linkedin.com/company/polkamarkets/',
   duneQueries: null,
