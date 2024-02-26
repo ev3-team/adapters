@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.36
+
+### Patch Changes
+
+- add new dune query category `NODE_NUMBER` and replace discord invite link with discord guild id
+
 ## 0.3.35
 
 ### Patch Changes
