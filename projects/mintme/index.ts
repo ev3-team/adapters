@@ -11,7 +11,7 @@ export default {
   id: '6927wm',
   description:
     'MintMe secures Smart-Contract-powered DApps using internet-connected devices, leveraging CPU resources.',
-  discord: null,
+  discord: '524539167720341514',
   investors: ['m65oq5'],
   linkedin: 'http://www.linkedin.com/company/mintme',
   duneQueries: null,

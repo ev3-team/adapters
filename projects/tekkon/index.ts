@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'sel0t5',
   description: 'TEKKON: Web3 app for citizen-driven infrastructure solutions.',
-  discord: null,
+  discord: '1196209072551235626',
   investors: [],
   linkedin: null,
   duneQueries: null,

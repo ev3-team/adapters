@@ -11,7 +11,7 @@ export default {
   id: 'kvmdaw',
   description:
     'MurAll: A blockchain platform for artists to create art using limited token called PAINT.',
-  discord: null,
+  discord: '648882111272714251',
   investors: [],
   linkedin: null,
   duneQueries: null,

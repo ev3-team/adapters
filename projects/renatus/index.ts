@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '83jvhp',
   description: 'Renatus is the first logistics system completing orders at one station.',
-  discord: null,
+  discord: '976195870825529354',
   investors: ['my802w', '9yr6ry'],
   linkedin: 'https://ie.linkedin.com/company/renatus-capital-partners',
   duneQueries: null,

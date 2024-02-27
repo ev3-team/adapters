@@ -11,7 +11,7 @@ export default {
   id: 'u7p8wi',
   description:
     'Gridcoin is an open source cryptocurrency that rewards volunteer computing for science through the BOINC platform and Folding@home. BOINC is an open source platform for volunteer computing that lets individuals use their computers & phones to help science research. ',
-  discord: null,
+  discord: '211637812968161280',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/gridcoin/',
   duneQueries: null,

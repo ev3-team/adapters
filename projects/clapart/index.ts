@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'g7kfey',
   description: 'CLAPART empowers creators and fans for project funding.',
-  discord: null,
+  discord: '947501488429756456',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/clapartgroup',
   duneQueries: null,

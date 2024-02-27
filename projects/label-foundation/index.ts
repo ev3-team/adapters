@@ -11,7 +11,7 @@ export default {
   id: 'rmq528',
   description:
     "LABEL has developed the world's first platform that includes a Listen-And-Earn mechanism, TRACKS, for the Web 3.0 music platform ecosystem.",
-  discord: null,
+  discord: '991242808818159758',
   investors: [],
   linkedin: null,
   duneQueries: null,

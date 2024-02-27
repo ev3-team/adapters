@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'iespkr',
   description: 'EMC Hub is a AI+Web3 computing power and model marketplace.',
-  discord: null,
+  discord: '1101359709547679848',
   investors: [],
   linkedin: null,
   duneQueries: null,

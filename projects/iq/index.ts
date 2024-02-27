@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'everipedia',
   id: '8gkezm',
   description: 'IQ: AI and blockchain firm with applications like IQ.wiki and HiIQ for staking.',
-  discord: null,
+  discord: '920369137828655144',
   investors: [
     'm5mkim',
     '5sc7r6',

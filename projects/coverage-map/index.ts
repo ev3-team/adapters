@@ -11,7 +11,7 @@ export default {
   id: 'j945ny',
   description:
     'CoverageMap.com is a crowd-sourced map that compares coverage, data speeds, and performance on AT&T, Dish, T-Mobile, and Verizon.',
-  discord: null,
+  discord: '1062225845634220122',
   investors: [],
   linkedin: null,
   duneQueries: null,

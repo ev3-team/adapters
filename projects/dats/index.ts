@@ -11,7 +11,7 @@ export default {
   id: 'qc35fu',
   description:
     'DATS Project: automated vulnerability scanning and cybersecurity solutions with D-HPC for Blockchain and WEB3 security.',
-  discord: null,
+  discord: '928611824918736996',
   investors: [],
   linkedin: 'https://www.linkedin.com/showcase/dats-toll-its-smartcities/',
   duneQueries: null,

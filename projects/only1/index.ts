@@ -11,7 +11,7 @@ export default {
   id: 'ennb7m',
   description:
     'Only1 is a membership-based social platform to enable creators to earn and engage with fans.',
-  discord: null,
+  discord: '842169399272013824',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/joinonly1/',
   duneQueries: null,

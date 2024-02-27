@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'moda-dao',
   id: 'qwsoln',
   description: 'MODA DAO empowers music industry with NFTs, licensing, and DeFi.',
-  discord: null,
+  discord: '808463591102873601',
   investors: [
     'ycxcre',
     '8nclhv',

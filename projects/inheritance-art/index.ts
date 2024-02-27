@@ -11,7 +11,7 @@ export default {
   id: '0a4vnn',
   description:
     'Inheritance Art aims to be the largest NFT/AI-NFT producer and studio for mixed reality and hyper realistic productions.',
-  discord: null,
+  discord: '961723689324413008',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/inheritance-art',
   duneQueries: null,

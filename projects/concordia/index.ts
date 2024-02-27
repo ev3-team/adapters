@@ -11,7 +11,7 @@ export default {
   id: 'qx629j',
   description:
     'Concordia is a multi-chain collateral management protocol that unifies and enables digital asset collateralization.',
-  discord: null,
+  discord: '1095746448047493150',
   investors: ['798xl8', 'qd0p5n', 'd8vsmb', 'due5zk'],
   linkedin: 'https://linkedin.com/company/debridge-finance',
   duneQueries: null,

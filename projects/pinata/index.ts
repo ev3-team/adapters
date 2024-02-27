@@ -11,7 +11,7 @@ export default {
   id: 'u4rg0n',
   description:
     'Pinata is an emerging web3 development platform that offers the advantage of scalable storage through IPFS.',
-  discord: null,
+  discord: '908735106594779198',
   investors: [],
   linkedin: null,
   duneQueries: null,

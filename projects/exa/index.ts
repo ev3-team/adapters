@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '90eym0',
   description: 'Exa Protocol: Decentralized data storage using mobile devices.',
-  discord: null,
+  discord: '916886546903347230',
   investors: [],
   linkedin: 'https://linkedin.com/company/exa-protocol',
   duneQueries: null,

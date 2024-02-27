@@ -11,7 +11,7 @@ export default {
   id: 'zgvzl4',
   description:
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',
-  discord: null,
+  discord: '742466730202234960',
   investors: [
     'mrgeec',
     'k1qvmn',

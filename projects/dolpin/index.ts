@@ -11,7 +11,7 @@ export default {
   id: 'ns7fn7',
   description:
     'Dolphin: Decentralized cloud storage platform for file encryption, access control, and beneficiaries.',
-  discord: null,
+  discord: '967709540822945792',
   investors: [],
   linkedin: 'https://uk.linkedin.com/company/dolphin',
   duneQueries: null,

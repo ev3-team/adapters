@@ -11,7 +11,7 @@ export default {
   id: 'w0bliz',
   description:
     'Epics is a decentralized build to earn platform for open source software development.',
-  discord: null,
+  discord: '976136099107840071',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/epic1979',
   duneQueries: null,

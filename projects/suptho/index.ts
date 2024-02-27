@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'rku44v',
   description: 'Suptho: Geo-based social app merging digital experiences with in-person events.',
-  discord: null,
+  discord: '837626991737307176',
   investors: [
     'auczp7',
     'buo8ql',

@@ -11,7 +11,7 @@ export default {
   id: 'kd6pyc',
   description:
     'StackOS is a cross-chain open infrastructure protocol enabling decentralized cloud services.',
-  discord: null,
+  discord: '816238453519417346',
   investors: [
     '7jssah',
     'o5kpgb',

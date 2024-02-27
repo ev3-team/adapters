@@ -11,7 +11,7 @@ export default {
   id: 'sfby9z',
   description:
     'High-quality, per smart contract, decentralized data delivered 100s of times faster than the RPC.',
-  discord: null,
+  discord: '570963863428661248',
   investors: [],
   linkedin: null,
   duneQueries: null,

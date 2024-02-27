@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'metis-token',
   id: '0mfb31',
   description: 'Metis: Scalable platform for Ethereum & infrastructure development',
-  discord: null,
+  discord: '859838997874475008',
   investors: [
     'z2j0xs',
     '1qu55f',

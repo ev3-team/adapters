@@ -11,7 +11,7 @@ export default {
   id: '3wkk5f',
   description:
     'Elusiv is building a Web3 universal encryption layer empowering the decentralized world.',
-  discord: null,
+  discord: '963285822327652403',
   investors: [
     'fahk60',
     '4l8mmr',

@@ -11,7 +11,7 @@ export default {
   id: 'r3vxyu',
   description:
     'Raven Protocol is a decentralized compute network using idle power for fast AI training.',
-  discord: null,
+  discord: '1044693472390697011',
   investors: ['h8sw72', '07pxi6'],
   linkedin: 'https://linkedin.com/company/ravenprotocol',
   duneQueries: null,

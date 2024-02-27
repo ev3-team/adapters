@@ -11,7 +11,7 @@ export default {
   id: 'z6ss7w',
   description:
     'Perpetual Protocol is a software that seeks to incentivize a distributed network of computers to operate an exchange where users can buy and sell derivative contracts.',
-  discord: null,
+  discord: '687397941383659579',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/perpetualprotocol/',
   duneQueries: null,

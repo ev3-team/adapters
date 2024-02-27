@@ -11,7 +11,7 @@ export default {
   id: 'la5o39',
   description:
     'Ruff is a blockchain-based architecture combining IoT with a public chain and distributed operating system.',
-  discord: null,
+  discord: '1030554262670942208',
   investors: [
     'qmoomu',
     'chcjy9',

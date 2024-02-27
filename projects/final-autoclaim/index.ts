@@ -11,7 +11,7 @@ export default {
   id: 'equ0rp',
   description:
     'Final Autoclaim is a user-friendly cryptocurrency faucet that allows users to claim various cryptocurrencies through automated and easy-to-use processes.',
-  discord: null,
+  discord: '837632716862128131',
   investors: [],
   linkedin: null,
   duneQueries: null,

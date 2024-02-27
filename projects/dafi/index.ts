@@ -11,7 +11,7 @@ export default {
   id: 'nm4snj',
   description:
     'DAFI Protocol rewards early adopters with synthetic tokens, redefining Defi and incentivizing bearish markets.',
-  discord: null,
+  discord: '803663009250672640',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/dafiprotocol',
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'render-token',
   id: 'drs2bu',
   description: 'Render is a decentralized rendering platform for next-gen media production.',
-  discord: null,
+  discord: '957082465258848266',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/render-network-foundation',
   duneQueries: {

@@ -11,7 +11,7 @@ export default {
   id: 'sc8bst',
   description:
     'WifiDabba builds low-cost, scalable, distributed Wi-Fi infrastructure using lasers.',
-  discord: null,
+  discord: '1120323012240085014',
   investors: [],
   linkedin: 'https://in.linkedin.com/company/wifidabba',
   duneQueries: null,

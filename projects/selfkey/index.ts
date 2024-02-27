@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'selfkey',
   id: 'b12fse',
   description: 'SelfKey is a blockchain-based identity platform.',
-  discord: null,
+  discord: '897002577831526460',
   investors: ['6s7v1l', '44u6gg'],
   linkedin: 'http://www.linkedin.com/company/selfkey',
   duneQueries: null,

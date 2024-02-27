@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'ak9wb5',
   description: 'THE WEB3 SPORTS MARKETS REVOLUTION',
-  discord: null,
+  discord: '906484044915687464',
   investors: [],
   linkedin: null,
   duneQueries: null,

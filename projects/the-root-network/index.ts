@@ -11,7 +11,7 @@ export default {
   id: 'zlch56',
   description:
     'The Root Network is a public decentralized blockchain network optimized for metaverse apps, games and experiences.',
-  discord: null,
+  discord: '864685888830963742',
   investors: [],
   linkedin: null,
   duneQueries: null,

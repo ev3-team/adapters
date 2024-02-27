@@ -11,7 +11,7 @@ export default {
   id: '5zk1x8',
   description:
     'Taxa: blockchain agnostic layer-2 infrastructure ensuring privacy, power, and easy development.',
-  discord: null,
+  discord: '610854636785762369',
   investors: [
     '2q8xba',
     'oq9fz1',

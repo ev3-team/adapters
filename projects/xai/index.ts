@@ -11,7 +11,7 @@ export default {
   id: 'at80xk',
   description:
     'Xai is developed to enable real economies and open trade in the next generation of video games.\\',
-  discord: null,
+  discord: '870683519230308372',
   investors: ['zyxvem'],
   linkedin: null,
   duneQueries: null,

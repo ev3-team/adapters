@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'nr3e02',
   description: 'The private Ethereum wallet with built-in Tor',
-  discord: null,
+  discord: '1101132502963322880',
   investors: [],
   linkedin: null,
   duneQueries: null,

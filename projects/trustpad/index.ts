@@ -11,7 +11,7 @@ export default {
   id: 'rj7rcg',
   description:
     'TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early stage participants.',
-  discord: null,
+  discord: '967789840072585318',
   investors: [
     '4j4oj3',
     'g738qx',

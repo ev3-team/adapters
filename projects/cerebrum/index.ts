@@ -11,7 +11,7 @@ export default {
   id: 'i3q0yo',
   description:
     'Accelerating solutions & cures to neurodegeneration and advancing brain longevity. ',
-  discord: null,
+  discord: '885561571173085235',
   investors: [],
   linkedin: null,
   duneQueries: null,

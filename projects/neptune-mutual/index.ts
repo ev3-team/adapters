@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'neptune-mutual',
   id: 'r4h43s',
   description: 'Neptune Mutual is the first parametric insurance protocol created for Ethereum.',
-  discord: null,
+  discord: '846975061163900938',
   investors: [
     'o5kpgb',
     'gjt0lb',

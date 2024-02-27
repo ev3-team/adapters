@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'zy7wfi',
   description: 'Crewdle: Secure, sustainable video conferencing on peer-to-peer network.',
-  discord: null,
+  discord: '1201911048328978442',
   investors: ['j8kxto'],
   linkedin: 'https://linkedin.com/company/crewdle',
   duneQueries: null,

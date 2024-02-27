@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'bad-idea-ai',
   id: 'a1y6iz',
   description: 'Bad Idea AI connects meme coin culture with artificial intelligence.',
-  discord: null,
+  discord: '1106247023474249831',
   investors: [],
   linkedin: null,
   duneQueries: null,

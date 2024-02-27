@@ -11,7 +11,7 @@ export default {
   id: 'b9egeq',
   description:
     'Menthol Protocol is a multi-chain decentralized sustainability protocol that will automatically offset carbon emissions user or dApp transactions with verified renewable energy and carbon credits.',
-  discord: null,
+  discord: '852523511414784027',
   investors: ['qqc9zd', 'n73vnt', 'slylr0'],
   linkedin: 'https://www.linkedin.com/company/menthol-protocol/',
   duneQueries: null,

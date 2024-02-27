@@ -11,7 +11,7 @@ export default {
   id: 'cp4cw6',
   description:
     'Subsquid: Open-source framework to extract & present blockchain data as GraphQL APIs for Web3 builders.',
-  discord: null,
+  discord: '857105545135390731',
   investors: [
     'k93k29',
     'ii5tnv',

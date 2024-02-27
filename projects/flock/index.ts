@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'ruqwx5',
   description: 'Decentralized federated learning',
-  discord: null,
+  discord: '977200106531082240',
   investors: [],
   linkedin: null,
   duneQueries: null,

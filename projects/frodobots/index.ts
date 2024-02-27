@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'zsejow',
   description: 'Frodobots is an open real-world racing game with sidewalk robots.',
-  discord: null,
+  discord: '943055769157402624',
   investors: [],
   linkedin: null,
   duneQueries: null,
