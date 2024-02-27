@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'rhpzul',
   description: 'deBridge: blockchain interoperability and liquidity transfer protocol.',
-  discord: 'https://discord.com/invite/debridge',
+  discord: null,
   investors: [
     'gjt0lb',
     'csfyvy',

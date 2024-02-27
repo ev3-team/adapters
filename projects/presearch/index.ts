@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'presearch',
   id: '7mrkii',
   description: 'Presearch is a decentralized search engine.',
-  discord: 'https://discord.com/invite/KUpshRZz2n',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/presearchofficial/',
   duneQueries: null,

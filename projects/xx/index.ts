@@ -11,7 +11,7 @@ export default {
   id: '61nayi',
   description:
     'XX: Blockchain for quantum-resistant and private smartphone communication and value exchange.',
-  discord: 'https://discord.com/invite/Y8pCkbK',
+  discord: null,
   investors: ['pqox07', 'd94gym', 'sjrb8d', 'laupoy', 'myxtw6', 'yasin4'],
   linkedin: 'https://www.linkedin.com/company/xxteam',
   duneQueries: null,

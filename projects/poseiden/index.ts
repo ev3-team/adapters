@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'qqq-token',
   id: 'ovnogm',
   description: 'Poseidon Network is a decentralized global network of idle P2P computing devices.',
-  discord: 'https://discord.com/invite/8DzbJG5WVt',
+  discord: null,
   investors: ['po8xe3'],
   linkedin: 'https://www.linkedin.com/company/poseidon',
   duneQueries: null,

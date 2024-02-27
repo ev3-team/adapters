@@ -40,6 +40,7 @@ export type AdapterProjectDuneQueryIdentifiers = {
   SUPPLY?: string
   TIME_SERIES?: string
   KEY_METRIC?: string
+  NODE_NUMBER?: string
 }
 
 export type AdapterProject = {

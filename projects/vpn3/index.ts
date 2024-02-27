@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'tficxt',
   description: 'VPN3 is a provider of a decentralized VPN protocol',
-  discord: 'https://discord.com/invite/EeGuvBvm3k',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'cfxf9v',
   description:
     'Covalent is a decentralized data infrastructure that enables users to seamlessly access blockchain data that is otherwise inaccessible.',
-  discord: 'https://discord.com/invite/VHgmzB9973',
+  discord: null,
   investors: [
     'bspyld',
     'spurmc',

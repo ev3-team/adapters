@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'kj3v3r',
   description: 'Helius is the ultimate developer platform for building on Solana.',
-  discord: 'https://discord.com/invite/HjummjUXgq',
+  discord: null,
   investors: [],
   linkedin: 'https://github.com/helius-labs',
   duneQueries: null,

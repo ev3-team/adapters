@@ -11,7 +11,7 @@ export default {
   id: 'sj6nte',
   description:
     'Chainstack is a leading blockchain infrastructure providing company. It allows uers to build, run and scale blockchain applications using Chainstack nodes.',
-  discord: 'https://discord.com/invite/Cymtg2f7pX',
+  discord: null,
   investors: ['6lkaak', 'e3k6q3'],
   linkedin: 'https://www.linkedin.com/company/chainstack/',
   duneQueries: null,

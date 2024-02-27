@@ -11,7 +11,7 @@ export default {
   id: 'kntco7',
   description:
     'Neurai: AI, analytics, decision making, predictive modeling, IoT using blockchain assets.',
-  discord: 'https://discord.com/invite/dxJSrSeXjF',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/neural-io/',
   duneQueries: null,

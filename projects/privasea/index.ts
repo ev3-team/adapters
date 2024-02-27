@@ -11,7 +11,7 @@ export default {
   id: '2qrtt6',
   description:
     'Privasea is a privacy-focused AI network utilizing Fully Homomorphic Encryption to secure data during computations.',
-  discord: 'https://discord.com/invite/yRtQGvWkvG',
+  discord: null,
   investors: ['mrgeec', 'gi55pp', 'e0wtte'],
   linkedin: 'http://www.linkedin.com/company/privasea-tech',
   duneQueries: null,

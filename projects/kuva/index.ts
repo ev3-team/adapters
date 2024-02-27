@@ -11,7 +11,7 @@ export default {
   id: '77bx8k',
   description:
     'We believe advanced financial services should be simple and borderless for consumers & businesses.',
-  discord: 'https://discord.com/invite/e2QWGX7dXG',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/kuvanetwork/',
   duneQueries: null,

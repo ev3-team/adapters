@@ -11,7 +11,7 @@ export default {
   id: '1zh76b',
   description:
     'PUML Better Health is a Web3 Sports, Fitness and Wellness company gamifying healthy behaviours via challenges in the metaverse and real-world.',
-  discord: 'https://discord.com/invite/PUML',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/pumlhealthio/',
   duneQueries: null,

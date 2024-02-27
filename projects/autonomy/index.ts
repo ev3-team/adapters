@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'jow0l5',
   description: 'Autonomy is a decentralized automation protocol designed for Web3 builders.',
-  discord: 'https://discord.com/invite/kbDwaW7jfv',
+  discord: null,
   investors: [
     'onvq9f',
     '3rh50q',

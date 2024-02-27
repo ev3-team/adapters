@@ -11,7 +11,7 @@ export default {
   id: '5m6iby',
   description:
     'Nitro League is a decentralized game where players earn tokens racing futuristic cars and completing missions.',
-  discord: 'https://discord.com/invite/nitroleague',
+  discord: null,
   investors: [
     'ajbv45',
     '4apzxz',

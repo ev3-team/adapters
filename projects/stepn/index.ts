@@ -11,7 +11,7 @@ export default {
   id: '9ptjw7',
   description:
     'STEPN is a Web3 lifestyle app with inbuilt Game-Fi and Social-Fi elements. Players can make handsome tokens earnt though walking, jogging or running.',
-  discord: 'https://discord.com/invite/stepn',
+  discord: null,
   investors: [
     'hol96b',
     '7ygqh2',

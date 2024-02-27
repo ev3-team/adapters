@@ -11,7 +11,7 @@ export default {
   id: '95eysn',
   description:
     "PARSIQ is a platform that offers real-time blockchain monitoring, automation, and workflow integration solutions. It enables users to track and analyze blockchain transactions, events, and smart contract executions across multiple blockchains. PARSIQ's services can be integrated with various other platforms and applications, providing businesses with actionable insights, improved operational efficiencies, and enhanced security.",
-  discord: 'https://discord.com/invite/PMWaxp5dFp',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/parsiq/',
   duneQueries: null,

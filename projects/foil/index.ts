@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'wd2g59',
   description: 'Foil: Scalable, secure blockchain for IoT with high-speed transactions.',
-  discord: 'https://discord.com/invite/MYHqPn3qkW',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/foil2/about/',
   duneQueries: null,

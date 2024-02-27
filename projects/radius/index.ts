@@ -11,7 +11,7 @@ export default {
   id: 'kttpsl',
   description:
     'Radius is a decentralized network that connects independent workers and teams to the best projects in web3.',
-  discord: 'https://discord.com/invite/radius',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/tephralabs/about/',
   duneQueries: null,

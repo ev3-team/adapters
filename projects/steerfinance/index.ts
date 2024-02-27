@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'nfdwqm',
   description: 'SteerFinance is a developer of decentralized compute protocols.',
-  discord: 'https://discord.com/invite/M3Xjvv3Zfg',
+  discord: null,
   investors: ['4l8mmr', 'j1rzkc', 'unykak'],
   linkedin: 'https://www.linkedin.com/company/steer-protocol/',
   duneQueries: null,

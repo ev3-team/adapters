@@ -11,7 +11,7 @@ export default {
   id: 'c46wsw',
   description:
     'Quicki is a suite of safety and security multi-chain tools for Blockchain, providing real-time scam detection.',
-  discord: 'https://discord.com/invite/quicki',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

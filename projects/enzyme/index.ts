@@ -11,7 +11,7 @@ export default {
   id: 'x7rtjw',
   description:
     'Welcome to the future of asset management. Build, scale and monetise an investment strategy that suits your needs.',
-  discord: 'https://discord.com/invite/UhGMCQYUAv',
+  discord: null,
   investors: ['4ubo51', 'zaf9xh', 'qp5s3g', '4lf3qu', 'z3ngzr', 'bku3ew'],
   linkedin: 'https://github.com/enzymefinance',
   duneQueries: null,

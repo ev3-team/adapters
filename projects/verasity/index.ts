@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'verasity',
   id: '20y2yy',
   description: 'Verasity is a decentralized ecosystem of digital advertisers and merchants.',
-  discord: 'https://discord.com/invite/verasity',
+  discord: null,
   investors: [],
   linkedin: 'https://vg.linkedin.com/company/verasity',
   duneQueries: null,

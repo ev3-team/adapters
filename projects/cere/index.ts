@@ -11,7 +11,7 @@ export default {
   id: '0xxxyy',
   description:
     'Cere Network is the first Decentralized Data Cloud platform, built on Polkadot, optimized for service data integration and data collaboration.',
-  discord: 'https://discord.com/invite/cYVKUYHWhp',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/cere-network',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'kcidbl',
   description:
     'Friends With Benefits is a new kind of social network made up of creatives and builders who believe in the promise of a better internet.',
-  discord: 'https://discord.com/invite/3jCyswsKFn',
+  discord: null,
   investors: [
     '26x5nn',
     '73opsz',

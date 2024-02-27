@@ -9,8 +9,7 @@ export default {
   token: 'BCT',
   coingeckoId: 'toucan-protocol-base-carbon-tonne',
   id: 'wyx859',
-  description:
-    'Toucan Protocol provides a blockchain-based platform for tokenized trading of carbon credits from the Voluntary Carbon Market (VCM).',
+  description: 'Toucan Protocol provides a blockchain-based platform for tokenized trading of carbon credits from the Voluntary Carbon Market (VCM).',
   discord: 'https://discord.com/invite/cDbWuZKWxe',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/toucan-protocol/',

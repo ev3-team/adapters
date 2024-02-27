@@ -11,7 +11,7 @@ export default {
   id: 'ubmhxr',
   description:
     'MaidSafeCoin is a decentralized data network built on autonomous principles for secure and efficient data-sharing.',
-  discord: 'https://discord.com/invite/0ak6ESm4oAR3oXik',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/maidsafe/about/',
   duneQueries: null,

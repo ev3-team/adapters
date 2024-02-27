@@ -11,7 +11,7 @@ export default {
   id: 'm41s9y',
   description:
     'VITREUS is a decentralized infrastructure designed as a blockchain-as-aservice specifically for the BFSI (Banking, Financial Services, and Insurance) industry.',
-  discord: 'https://discord.com/invite/vitreus',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/vitreus-chain/',
   duneQueries: null,

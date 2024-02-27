@@ -11,7 +11,7 @@ export default {
   id: 'qb5fdz',
   description:
     'Nillion is a distributed computing platform that expands trustless infrastructure into new use cases and verticals.',
-  discord: 'https://discord.com/invite/nillionnetwork',
+  discord: null,
   investors: [
     'ii5tnv',
     'xmw0ev',

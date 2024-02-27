@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'u2tfjc',
   description: 'Nirvana Labs: web3 infrastructure for blockchain apps.',
-  discord: 'https://discord.com/invite/EjQspBWqdD',
+  discord: null,
   investors: ['q9qqsj', '6mh2rx'],
   linkedin: 'https://www.linkedin.com/company/nirvana-labs-ai',
   duneQueries: null,

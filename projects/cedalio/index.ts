@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'w0adea',
   description: 'Cedalio: Auditable apps with real data ownership and GraphQL databases.',
-  discord: 'https://discord.com/invite/kSdhmb9UUT',
+  discord: null,
   investors: ['8krsge', 'eofkvo', 'g0e1qt', 'wdtkj1'],
   linkedin: 'http://www.linkedin.com/company/cedalio',
   duneQueries: null,

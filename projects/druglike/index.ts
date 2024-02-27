@@ -11,7 +11,7 @@ export default {
   id: 'axqfta',
   description:
     'Druglike is building a decentralized computing network which provides resources for anyone looking to start or contribute to early-stage drug discovery projects.',
-  discord: 'https://discord.com/invite/y35TPmdScu',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

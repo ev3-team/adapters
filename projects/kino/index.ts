@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'u1g1gw',
   description: 'KINO aims to make the film/tv industry more equitable for all.',
-  discord: 'https://discord.com/invite/jk4fx6yWxF',
+  discord: null,
   investors: ['mk79mv', 'b2ybqs', 'fh8wrd', 'vf0qg4', 'ooq1d1'],
   linkedin: null,
   duneQueries: null,

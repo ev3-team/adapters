@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'weatherxm',
   id: 'ff9s3p',
   description: 'WeatherXM is a decentralized weather data collection network.',
-  discord: 'https://discord.com/invite/Qe92gtK8M8',
+  discord: null,
   investors: [],
   linkedin: 'https://gr.linkedin.com/company/weatherxm',
   duneQueries: null,
