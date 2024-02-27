@@ -11,7 +11,7 @@ export default {
   id: 'yfqm09',
   description:
     'Zeitgeist is a provider of decentralized prediction markets software built on Polkadot.',
-  discord: 'https://discord.com/invite/xv8HuA4s8v',
+  discord: null,
   investors: [
     '4j4oj3',
     '7jssah',

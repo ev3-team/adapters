@@ -11,8 +11,7 @@ export default {
   id: 'ho83ef',
   description:
     'Step is a move-to-earn mobile app that lets users earn crypto for their fitness efforts.',
-  discord:
-    'https://discord.com/invite/stepappdc?utm_source=site&utm_medium=organic_social&utm_campaign=always_on&utm_content=small_icons',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/step-app-fi/',
   duneQueries: null,

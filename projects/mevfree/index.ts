@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'mevfree',
   id: '8sxorc',
   description: 'MEVFree: Platform for crypto traders with tools and services to maximize profits.',
-  discord: 'https://discord.com/invite/aGvXZk8zdS',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

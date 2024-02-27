@@ -11,7 +11,7 @@ export default {
   id: '1agi71',
   description:
     'Ether.fi is a non-custodial decentralized ETH staking method that rewards node operators for participating in staking.',
-  discord: 'https://discord.com/invite/zqGzcuQWvD',
+  discord: null,
   investors: [
     'csfyvy',
     '7job29',

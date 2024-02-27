@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'juno-network',
   id: 'e277dp',
   description: 'Juno is decentralized network for interoperable apps',
-  discord: 'https://discord.com/invite/caEBtA4QDb',
+  discord: null,
   investors: ['vxxepe'],
   linkedin: 'http://www.linkedin.com/company/juno-network',
   duneQueries: null,

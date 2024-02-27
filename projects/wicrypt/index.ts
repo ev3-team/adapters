@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'wicrypt',
   id: 'ynsj12',
   description: 'WiCrypt is a decentralized WiFi sharing network.',
-  discord: 'https://discord.com/invite/9dqcTSxfuZ',
+  discord: '772595533893730356',
   investors: [],
   linkedin: 'https://ng.linkedin.com/company/wicrypt',
   duneQueries: null,

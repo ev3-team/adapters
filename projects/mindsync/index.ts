@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'gpjz8o',
   description: 'Mindsync connects AI enthusiasts, miners, and businesses for AI solutions.',
-  discord: 'https://discord.com/invite/mindsync',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/mindsync/',
   duneQueries: null,

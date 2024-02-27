@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 't7b6bu',
   description: 'RobotEra: play-to-earn gaming with NFTs and metaverse world-building.',
-  discord: 'https://discord.com/invite/robotera',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/robot-era/',
   duneQueries: null,

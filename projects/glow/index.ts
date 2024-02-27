@@ -11,7 +11,7 @@ export default {
   id: 'm5pwg0',
   description:
     'GlowGreen leads the forefront of climate sustainability with novel game theory and incentive design to champion a sustainble, technology-empowered future.',
-  discord: 'https://discord.com/invite/vbdJKx2HXc',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/glow-intl/',
   duneQueries: null,

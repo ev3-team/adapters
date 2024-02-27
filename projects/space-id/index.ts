@@ -11,7 +11,7 @@ export default {
   id: 'vb3z9t',
   description:
     'Space ID (SID) is a decentralized universal name service network that runs on top of blockchains (Ethereum, BSC, and Arbitrum).',
-  discord: 'https://discord.com/invite/spaceid',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/spaceidprotocol/about/',
   duneQueries: null,

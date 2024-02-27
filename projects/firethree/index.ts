@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'gdo61v',
   description: 'Products and solutions for every stage of your app development journey!',
-  discord: 'https://discord.com/invite/cr3pYvTWa6',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

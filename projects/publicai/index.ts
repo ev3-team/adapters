@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '11aqyc',
   description: 'PublicAI is a decentralized network focused on RHLF.',
-  discord: 'https://discord.com/invite/E962EdDmrB',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/publicai01',
   duneQueries: null,

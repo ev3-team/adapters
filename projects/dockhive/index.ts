@@ -11,7 +11,7 @@ export default {
   id: 'gw14hr',
   description:
     'DockHive is a cutting-edge platform leveraging blockchain and decentralized networks for secure and scalable Docker container management.',
-  discord: 'https://discord.com/invite/YKrnehVBMp',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dockhive/',
   duneQueries: null,

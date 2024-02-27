@@ -11,7 +11,7 @@ export default {
   id: 'ss8gck',
   description:
     'Bitnost.re bridges Bittensor AI to Nostr social media protocol, building an access backbone for AI interaction.',
-  discord: 'https://discord.com/invite/SqejqCE8Jr',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

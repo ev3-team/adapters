@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'incognito-2',
   id: 'g8ux2k',
   description: 'Incognito is a privacy hub for private shielded cryptocurrency transactions.',
-  discord: 'https://discord.com/invite/Wh6xRFz72U',
+  discord: null,
   investors: [],
   linkedin: 'https://linkedin.com/company/incognitochain',
   duneQueries: null,

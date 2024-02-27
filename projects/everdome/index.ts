@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'everdome',
   id: 't4w143',
   description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
-  discord: 'https://discord.com/invite/everdome',
+  discord: null,
   investors: ['mrgeec', '9sg91a', 'm65oq5', 'smqwtv'],
   linkedin: 'https://www.linkedin.com/company/everdome-io/?originalSubdomain=ae',
   duneQueries: null,

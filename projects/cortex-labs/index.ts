@@ -11,7 +11,7 @@ export default {
   id: 'pd82aa',
   description:
     'Cortex Labs: Decentralized blockchain for AI models in smart contracts for enhanced DApps.',
-  discord: 'https://discord.com/invite/DJZeEXrsxF',
+  discord: null,
   investors: [
     'csfyvy',
     '7ntjyp',

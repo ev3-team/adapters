@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'roasthimjim',
   id: 'b9tawl',
   description: 'Jim is an AI Bot that responds intelligently on social platforms.',
-  discord: 'https://discord.com/invite/PgAArjR37x',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

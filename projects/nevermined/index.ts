@@ -11,7 +11,7 @@ export default {
   id: '4rizhn',
   description:
     'Nevermined is a platform that enables the monetization and access control of digital assets, including AI services and data, using blockchain technology and Web3 principles.',
-  discord: 'https://discord.com/invite/GZju2qScKq',
+  discord: null,
   investors: ['hepzxq', 'qpkks9', 'ffngjj', 'xbe8nl'],
   linkedin: 'https://www.linkedin.com/company/nevermined/',
   duneQueries: null,

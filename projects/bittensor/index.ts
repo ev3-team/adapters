@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'bittensor',
   id: 'hq4rl7',
   description: 'Bittensor is a peer-to-peer machine intelligence network.',
-  discord: 'https://discord.com/invite/qasY3HA9F9',
+  discord: null,
   investors: [],
   linkedin: 'https://github.com/topics/bittensor',
   duneQueries: null,

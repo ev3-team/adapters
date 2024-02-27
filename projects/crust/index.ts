@@ -11,7 +11,7 @@ export default {
   id: 'x2nise',
   description:
     'Crust is a decentralized cloud storage provider supporting multiple storage protocols.',
-  discord: 'https://discord.com/invite/Jbw2PAUSCR',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/crust',
   duneQueries: null,

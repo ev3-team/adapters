@@ -11,7 +11,7 @@ export default {
   id: 'hrymjy',
   description:
     'Hera Finance is a multichain dex aggregator using AI for the widest token range and best route discovery.',
-  discord: 'https://discord.com/invite/JDaxGDU9Rx',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

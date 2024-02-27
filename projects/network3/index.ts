@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'a246lv',
   description: 'Network3 enhances network security and privacy through distributed nodes.',
-  discord: 'https://discord.com/invite/EeGuvBvm3k',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

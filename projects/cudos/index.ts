@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'cudos',
   id: 'jitkjs',
   description: 'Cudos is a decentralized cloud computing network.',
-  discord: 'https://discord.com/invite/cudos',
+  discord: null,
   investors: [],
   linkedin: 'https://uk.linkedin.com/company/cudos1',
   duneQueries: null,

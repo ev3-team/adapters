@@ -11,7 +11,7 @@ export default {
   id: 'du3f01',
   description:
     'ImgnAI‚Äôs flagship product ‚ÄúNai‚Äù turns anything you write into an anime, 3D, or hyper-realistic image.',
-  discord: 'https://discord.com/invite/imgnai',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/imgnai',
   duneQueries: null,
