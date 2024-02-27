@@ -18,6 +18,7 @@ export default {
     MINT: '2944854',
     PRICE: '2944842',
     REVENUE: '3402097',
+    NODE_NUMBER: '3471880',
   },
   foundingYear: null,
   blog: 'https://medium.com/geodnet/geodnet-revolutionizes-the-global-positioning-industry-with-real-world-web3-reference-network-21183b0ad7eb',
