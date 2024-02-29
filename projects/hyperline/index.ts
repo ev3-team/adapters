@@ -9,7 +9,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'y0wpxj',
-  description: '',
+  description:
+    'Hyperline is a fully managed Blockchain Data Platform for Analytics, Data Science, and Machine Learning workloads.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: null,
+  twitter: 'https://twitter.com/hyperline_xyz',
+  url: 'https://www.hyperline.xyz/',
   verified: false,
 } satisfies AdapterProject
