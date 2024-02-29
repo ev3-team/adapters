@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.0.0-20240229161110
+
+### Patch Changes
+
+- add Helium dune query for node number
+
 ## 0.0.0-20240227152921
 
 ### Patch Changes

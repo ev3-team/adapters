@@ -1,6 +1,6 @@
 {
   "name": "@ev3-team/adapters",
-  "version": "0.0.0-20240227152921",
+  "version": "0.0.0-20240229161110",
   "description": "",
   "private": false,
   "main": "./dist/index.js",
