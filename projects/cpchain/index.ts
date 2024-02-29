@@ -11,7 +11,7 @@ export default {
   id: 'tlsqnk',
   description:
     'CPChain: IoT infrastructure with storage, computation, and blockchain tech, providing a combined data platform.',
-  discord: null,
+  discord: '413750984976629771',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/cpchainiot',
   duneQueries: null,

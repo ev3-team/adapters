@@ -11,7 +11,7 @@ export default {
   id: '5m6dp8',
   description:
     'Silencio rewards users for providing hyper-local noise pollution data from smartphones.',
-  discord: null,
+  discord: '1034207908210147489',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/silencio',
   duneQueries: null,

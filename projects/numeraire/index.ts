@@ -11,7 +11,7 @@ export default {
   id: 'lw588k',
   description:
     'Numerai is an Ethereum-based platform for developers to experiment and create machine learning models.',
-  discord: null,
+  discord: '894652647515226152',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/numerai',
   duneQueries: null,

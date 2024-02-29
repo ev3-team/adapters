@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '2fl69i',
   description: 'GitPOAP - recognizing contributions on GitHub with POAP issuance',
-  discord: null,
+  discord: '918207795113885737',
   investors: [
     'cd2nay',
     'abvcou',

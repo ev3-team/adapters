@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'a8p168',
   description: 'Polybase is a decentralized storage, index and query protocol for structured data.',
-  discord: null,
+  discord: '989985926434394192',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/polybase',
   duneQueries: null,

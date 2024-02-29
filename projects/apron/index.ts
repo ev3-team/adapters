@@ -11,7 +11,7 @@ export default {
   id: 'bg8k10',
   description:
     'Apron is a decentralized infrastructure service network for DApp developers, users, and operators on blockchain.',
-  discord: null,
+  discord: '785051859655458826',
   investors: [
     'xmw0ev',
     'h3elac',

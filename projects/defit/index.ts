@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'defit',
   id: 'jmavqd',
   description: 'Defit is a fitness web3 brand that rewards users with a Move to Earn movement.',
-  discord: null,
+  discord: '932304379694944277',
   investors: [],
   linkedin: 'https://sg.linkedin.com/company/defitfitnessclub',
   duneQueries: null,

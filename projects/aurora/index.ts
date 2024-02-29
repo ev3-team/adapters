@@ -11,7 +11,7 @@ export default {
   id: 'tfu536',
   description:
     'Aurora is a performant, scalable, and carbon neutral solution that executes Ethereum contracts on the NEAR blockchain.',
-  discord: null,
+  discord: '856517297141317643',
   investors: [
     'b8gebp',
     '1zgufc',

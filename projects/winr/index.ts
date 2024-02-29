@@ -11,7 +11,7 @@ export default {
   id: 'jhyqcs',
   description:
     'WINR Protocol is a blockchain-based platform enabling developers to build secure on-chain games with the WINR SDK.',
-  discord: null,
+  discord: '1044586317742358529',
   investors: [],
   linkedin: null,
   duneQueries: null,

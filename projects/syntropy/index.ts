@@ -11,7 +11,7 @@ export default {
   id: 'm9yv19',
   description:
     'Syntropy transforms the way blockchain data is accessed through our innovative Data Layer protocol.',
-  discord: null,
+  discord: '503896258881126401',
   investors: [
     'buime9',
     'kmkpmm',

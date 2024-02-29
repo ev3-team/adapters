@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'g2jtmx',
   description: 'Valist: Decentralized platform for game deployment on Web2 and Web3.',
-  discord: null,
+  discord: '785535462311591976',
   investors: ['dsinl9', 'fbn00x', 'vh40ts'],
   linkedin: 'http://www.linkedin.com/company/valist-inc',
   duneQueries: null,

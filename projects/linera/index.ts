@@ -11,7 +11,7 @@ export default {
   id: 'avq9ep',
   description:
     'Linera is a Blockchain Infrastructure for Highly Scalable Web3 Applications that give users their own blockspace with microchains.',
-  discord: null,
+  discord: '984941796272521226',
   investors: [
     '26x5nn',
     'zloyr1',

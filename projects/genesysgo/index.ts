@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'genesysgo-shadow',
   id: 'p01o2s',
   description: 'GenesysGo is a decentralized object storage platform for Web3 builders.',
-  discord: null,
+  discord: '830127596355190804',
   investors: [],
   linkedin: null,
   duneQueries: null,

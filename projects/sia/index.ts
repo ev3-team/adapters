@@ -11,7 +11,7 @@ export default {
   id: 'esjdj0',
   description:
     'Sia is a decentralized cloud storage network combining Proof of Work with a contract-based storage model.',
-  discord: null,
+  discord: '809849352516141067',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/the-sia-foundation',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'heeyow',
   description:
     'Space & Time is a decentralized replacement for blockchain indexing, database, data warehouse, and API servers.',
-  discord: null,
+  discord: '953025874154893342',
   investors: [
     'opiq98',
     '7ygqh2',

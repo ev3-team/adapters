@@ -11,7 +11,7 @@ export default {
   id: 'ba2ef9',
   description:
     'The Recharge is a decentralized incentive solution that connects electric-charging platforms.',
-  discord: null,
+  discord: '808417775978676265',
   investors: [],
   linkedin: null,
   duneQueries: null,

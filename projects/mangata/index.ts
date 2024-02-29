@@ -11,7 +11,7 @@ export default {
   id: 'k4jlda',
   description:
     "Mangata is a multi-rollup interchain infrastructure that allows users to trade any token, from any chain. Their goal is to build the world's first true interchain trading app using multi-chain ZK rollup technology.",
-  discord: null,
+  discord: '776977650907480074',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'mhpovr',
   description:
     'Fetch.ai: Blockchain-based AI and ML platform connecting devices for market creation and data value addition.',
-  discord: null,
+  discord: '1141305890796994651',
   investors: [
     'fj88qi',
     'o3xe28',

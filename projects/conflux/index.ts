@@ -11,7 +11,7 @@ export default {
   id: 'nqos2n',
   description:
     'Conflux is a permissionless Layer 1 blockchain connecting decentralized economies across borders and protocols. Recently migrated to hybrid PoW/PoS consensus, Conflux provides a fast, secure, and scalable blockchain environment with zero congestion, low fees, and improved network security.',
-  discord: null,
+  discord: '707952293412339843',
   investors: [],
   linkedin: null,
   duneQueries: null,

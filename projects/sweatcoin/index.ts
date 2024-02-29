@@ -11,7 +11,7 @@ export default {
   id: '5b9pa1',
   description:
     'Sweatcoin is a free app that allows user to track their steps and earn Sweat Economy (SWEAT) tokens, a type of cryptocurrency.',
-  discord: null,
+  discord: '945374789026070618',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/sweatcoin/',
   duneQueries: null,

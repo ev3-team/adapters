@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'hjruy9',
   description: 'Verida is a decentralized data storage, messaging, and single sign-on solution.',
-  discord: null,
+  discord: '664594912460668960',
   investors: [
     'wv0c6u',
     'puuj5e',

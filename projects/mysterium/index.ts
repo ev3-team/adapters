@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'mysterium',
   id: '8ci5ud',
   description: 'Mysterium is a decentralized wireless network.',
-  discord: null,
+  discord: '614079733663006750',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/mysteriumnet',
   duneQueries: null,

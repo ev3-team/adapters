@@ -11,7 +11,7 @@ export default {
   id: 'wpruwu',
   description:
     'SEOR is the next generation of decentralized Web3.0 application technology development infrastructure, which aims to provide users and developers of Web3.0 with an easy-to-use blockchain technology development platform.',
-  discord: null,
+  discord: '882647441193725953',
   investors: [],
   linkedin: null,
   duneQueries: null,

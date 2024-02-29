@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'oni-token',
   id: 'vybtqu',
   description: 'ONINO enables developers to create identity-based dapps with privacy by default.',
-  discord: null,
+  discord: '969202888565993533',
   investors: ['9cbuy7'],
   linkedin: 'https://de.linkedin.com/company/onino-io',
   duneQueries: null,

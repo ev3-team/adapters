@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'ethereum-push-notification-service',
   id: 'nhurl1',
   description: 'Push Protocol: web3 cross-chain network for dapps, wallets, and services.',
-  discord: null,
+  discord: '717089384838594695',
   investors: [
     '92ar5l',
     'h6uwpw',

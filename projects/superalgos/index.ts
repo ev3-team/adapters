@@ -11,7 +11,7 @@ export default {
   id: '3sy850',
   description:
     'Superalgos: crypto trading platform for open competition, allows traders to earn through signal broadcasting.',
-  discord: null,
+  discord: '778730632812691488',
   investors: ['hyymt5'],
   linkedin: 'https://mt.linkedin.com/company/superalgos',
   duneQueries: null,

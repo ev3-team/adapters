@@ -11,7 +11,7 @@ export default {
   id: 'r77x1a',
   description:
     'Sentinel is a global ecosystem of autonomous dVPN apps enabling private censorship-resistant internet access.',
-  discord: null,
+  discord: '436630361313640469',
   investors: [],
   linkedin: 'https://linkedin.com/company/sentinelco',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'sws22r',
   description:
     'BubbleAI is a fast off-chain data intent trading platform with AI sentiment analysis tools',
-  discord: null,
+  discord: '1039152264889245697',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/bubble-hq/',
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'scprime',
   id: 'ui2nbm',
   description: 'ScPrime is a decentralized network of enterprise-grade cloud storage providers.',
-  discord: null,
+  discord: '500467593375645706',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/scp-corp',
   duneQueries: null,

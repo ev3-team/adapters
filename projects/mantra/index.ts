@@ -11,7 +11,7 @@ export default {
   id: 'jnhaaq',
   description:
     'MANTRA is a first of its kind, vertically-integrated and regulatory compliant blockchain ecosystem. ',
-  discord: null,
+  discord: '821988232538357761',
   investors: [
     'ycxcre',
     'l6myld',

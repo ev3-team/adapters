@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'hcinar',
   description: 'Revert makes it incredibly easy to build integrations with any third party API.',
-  discord: null,
+  discord: '836435050086137906',
   investors: [],
   linkedin: 'https://github.com/revertinc/Revert',
   duneQueries: null,

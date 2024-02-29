@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'f5qe2h',
   description: '3Num connects mobile subscribers for secure communication.',
-  discord: null,
+  discord: '953486199799025704',
   investors: ['zpuq9r', 'ibk8eu', 'jo973z', 't105wi'],
   linkedin: 'https://www.linkedin.com/company/3numdao/',
   duneQueries: null,

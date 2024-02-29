@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'ah17kx',
   description: 'WeDataNation: Secure platform for user data aggregation.',
-  discord: null,
+  discord: '947527916403699772',
   investors: ['ryj5he'],
   linkedin: null,
   duneQueries: null,

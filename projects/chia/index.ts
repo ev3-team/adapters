@@ -11,7 +11,7 @@ export default {
   id: 'ncy75y',
   description:
     'Chia Network (XCH) is a layer 1 blockchain that uses its own custom-designed programming language called Chialisp and a novel consensus mechanism called proof-of-space-and-time (PoST).',
-  discord: null,
+  discord: '1034523881404370984',
   investors: ['pj4b1s', 'j4k67v'],
   linkedin: 'https://www.linkedin.com/company/chia-network',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'qn9h4k',
   description:
     'Fonoster is a free platform for building voice applications and integrating them with your business app.',
-  discord: null,
+  discord: '1016419835455996076',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/fonoster',
   duneQueries: null,

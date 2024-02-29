@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'adc9fo',
   description: "Devpost inspires the world's developers to build great software.",
-  discord: null,
+  discord: '861966823054639134',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/devpost/',
   duneQueries: null,

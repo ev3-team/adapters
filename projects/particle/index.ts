@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'mcgnta',
   description: 'The Intent-Centric Modular Access Layer of Web3',
-  discord: null,
+  discord: '973055032368967711',
   investors: [],
   linkedin: null,
   duneQueries: null,

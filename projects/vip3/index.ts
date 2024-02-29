@@ -11,7 +11,7 @@ export default {
   id: '517uvj',
   description:
     'VIP3 is a Web3 membership platform providing bonuses, discounts, and privileges via on-chain SBT membership cards.',
-  discord: null,
+  discord: '1043916110694719579',
   investors: ['yxetck', 'lp0gdl', 'tnkrzw'],
   linkedin: 'https://uk.linkedin.com/company/metafour',
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'ue1aq8',
   description: 'World vision network powered by the people',
-  discord: null,
+  discord: '945776985240637440',
   investors: [],
   linkedin: null,
   duneQueries: null,

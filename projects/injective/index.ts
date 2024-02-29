@@ -11,7 +11,7 @@ export default {
   id: 't2mgs2',
   description:
     'Injective is a finance-oriented blockchain for DeFi apps: exchanges, lending, and prediction markets.',
-  discord: null,
+  discord: '739552603322450092',
   investors: [
     'xmw0ev',
     'ajbv45',

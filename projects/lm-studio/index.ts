@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'vh0qps',
   description: 'LM Studio allows users to run local/open LLMs on their computers.',
-  discord: null,
+  discord: '1110598183144399058',
   investors: [],
   linkedin: null,
   duneQueries: null,

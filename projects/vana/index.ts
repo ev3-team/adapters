@@ -11,7 +11,7 @@ export default {
   id: 'zt2nzn',
   description:
     'Create a mini “you” that lives in your pocket. Discover a new way to connect and experience the world. ',
-  discord: null,
+  discord: '1035319704224542832',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'l2t357',
   description: 'DeFi Wallet with Free Bank Transfers',
-  discord: null,
+  discord: '961390365708009524',
   investors: [],
   linkedin: null,
   duneQueries: null,

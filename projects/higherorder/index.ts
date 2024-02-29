@@ -11,7 +11,7 @@ export default {
   id: 'mue6ls',
   description:
     'A tech startup with the goal of building the inevitable massively parallel future of computers.',
-  discord: null,
+  discord: '912426566838013994',
   investors: [],
   linkedin: null,
   duneQueries: null,
