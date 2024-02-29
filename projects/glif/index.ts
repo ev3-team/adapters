@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN\r\n',
+  category: 'NOT_DEPIN',
   token: null,
   coingeckoId: null,
   id: 'mw0azh',
