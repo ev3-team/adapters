@@ -9,8 +9,9 @@ export default {
   token: 'HBAR',
   coingeckoId: 'hedera',
   id: 'zkb0bw',
-  description: 'Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm.',
-  discord: 'https://discord.com/invite/uJ5k8DkmKV',
+  description:
+    'Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm.',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/hashgraph/',
   duneQueries: null,

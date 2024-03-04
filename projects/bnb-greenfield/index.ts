@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'BNB Greenfield\r\n',
+  name: 'BNB Greenfield',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
