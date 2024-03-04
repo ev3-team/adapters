@@ -11,7 +11,7 @@ export default {
   id: 'safef0',
   description:
     'Zignaly is the revolutionary Cryptocurrency Social Investment Platform that lets regular people invest via the expertise and leverage of the world’s top, vetted crypto traders — while only paying a fee on profits. Their Z-Score AI algorithm uses intricate weighting and multifaceted factors like profitability, risk, and consistency to identify top traders.',
-  discord: null,
+  discord: '486954374845956097',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/zignaly/',
   duneQueries: null,

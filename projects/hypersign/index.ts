@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'hypersign-identity-token',
   id: 'nir8er',
   description: 'Hypersign is a decentralized identity layer for the internet.',
-  discord: null,
+  discord: '777575858075861033',
   investors: [],
   linkedin: 'https://github.com/hypersign-protocol',
   duneQueries: null,

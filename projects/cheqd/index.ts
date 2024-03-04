@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'cheqd-network',
   id: 'o6gk4u',
   description: 'Cheqd offers infrastructure for trusted data markets.',
-  discord: null,
+  discord: '879754359859216394',
   investors: [
     'e4xh6i',
     'kans6x',

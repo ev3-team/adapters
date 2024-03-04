@@ -11,7 +11,7 @@ export default {
   id: '8u08fw',
   description:
     'Flare is the blockchain for data, providing developers with secure decentralized access to high-integrity data from other chains and the internet. ',
-  discord: null,
+  discord: '743422808499028049',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/flarenetwork/',
   duneQueries: null,

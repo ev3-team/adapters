@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '84nnyv',
   description: 'Blockride: democratizing vehicle financing in Africa through crypto assets.',
-  discord: null,
+  discord: '994991249071288430',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/blockride',
   duneQueries: null,

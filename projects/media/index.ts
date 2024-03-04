@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'media-network',
   id: 'iqnvgc',
   description: 'Media Network is a decentralized hub for web services.',
-  discord: null,
+  discord: '832942573642973194',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/media-network-inc./about/',
   duneQueries: null,

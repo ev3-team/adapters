@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'qhxql8',
   description: 'Blockchain for AI, AI for Humanity',
-  discord: null,
+  discord: '917041957522538557',
   investors: [],
   linkedin: null,
   duneQueries: null,

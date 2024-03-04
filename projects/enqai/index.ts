@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'vwcy0j',
   description: 'Decentralized & Uncensored AI',
-  discord: null,
+  discord: '1079425803441426562',
   investors: [],
   linkedin: null,
   duneQueries: null,

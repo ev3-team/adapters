@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'kyve-network',
   id: 'u6mo76',
   description: 'KYVE connects nodes to Arweave storage, ensuring trustless uploads.',
-  discord: null,
+  discord: '817113909957361664',
   investors: [
     '4j4oj3',
     '5g3hyv',

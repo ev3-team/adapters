@@ -11,7 +11,7 @@ export default {
   id: '2c4d5r',
   description:
     'Discover Thriving Communities, Participate in Engaging Campaigns and Win Irresistible Rewards like NFTS, Tokens and Whitelists.',
-  discord: null,
+  discord: '906232393986371644',
   investors: [],
   linkedin: 'https://www.linkedin.com/products/kyteone-airlyft/',
   duneQueries: null,

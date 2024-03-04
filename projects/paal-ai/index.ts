@@ -11,7 +11,7 @@ export default {
   id: 'wmad1s',
   description:
     'PAAL AI is a decentralized network of autonomous agents that empowers artificial intelligence technology.',
-  discord: null,
+  discord: '1112405068717768824',
   investors: [],
   linkedin: null,
   duneQueries: null,

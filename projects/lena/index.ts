@@ -11,7 +11,7 @@ export default {
   id: '2qzmdn',
   description:
     'LENA: Web3 liquidity provider for NFT lending and borrowing. ETH pools, user autonomy.',
-  discord: null,
+  discord: '1003197622665879562',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/lena-network',
   duneQueries: null,

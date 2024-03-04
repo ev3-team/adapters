@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'nlkbyo',
   description: 'Giza is a collaborative platform for the development of AI.',
-  discord: null,
+  discord: '1070370565761802372',
   investors: ['csfyvy', 'szfiug', 'szeaj0', '6wptir', 'vrsed8', 'z845oa'],
   linkedin: 'https://www.linkedin.com/company/giza-systems',
   duneQueries: null,

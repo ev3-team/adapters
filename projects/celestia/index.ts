@@ -11,7 +11,7 @@ export default {
   id: 'sx61vk',
   description:
     'Celestia is a modular blockchain network that securely scales with the number of users, making it easy for anyone to launch their own blockchain.',
-  discord: null,
+  discord: '638338779505229824',
   investors: [],
   linkedin: null,
   duneQueries: null,

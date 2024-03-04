@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'solrazr',
   id: '0fi9q0',
   description: 'SolRazr is a decentralized developer ecosystem for Solana.',
-  discord: null,
+  discord: '886683619958079538',
   investors: [],
   linkedin: 'https://sg.linkedin.com/company/omnistart-network',
   duneQueries: null,

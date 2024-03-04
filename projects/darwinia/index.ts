@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'darwinia-commitment-token',
   id: 'gpxg0c',
   description: 'Darwinia is a open cross-chain bridge protocol based on Substrate.',
-  discord: null,
+  discord: '456092011347443723',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/darwinia-network',
   duneQueries: null,

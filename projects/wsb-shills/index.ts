@@ -11,7 +11,7 @@ export default {
   id: 'knsxty',
   description:
     'WSB Shills is a decentralised prediction market platform, allowing users to predict outcomes and earn rewards.',
-  discord: null,
+  discord: '725851172266573915',
   investors: ['5tgbgd', '4lf3qu'],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 't62qym',
   description:
     'Royal is a marketplace built on top of the Polygon blockchain that enables anyone to invest in music and earn royalties alongside artists.',
-  discord: null,
+  discord: '867511488151683083',
   investors: [
     'opiq98',
     '26x5nn',

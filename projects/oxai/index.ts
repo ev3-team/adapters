@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'oxai-com',
   id: 'x3l1h6',
   description: 'OxAI: Decentralized AI & blockchain for accessible secure computation.',
-  discord: null,
+  discord: '1067787661076594698',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/oxai/',
   duneQueries: null,

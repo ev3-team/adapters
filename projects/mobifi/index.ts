@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'mobifi',
   id: 'ars9qg',
   description: 'MobiFi rewards users for making smarter mobility decisions.',
-  discord: null,
+  discord: '1141302849482006672',
   investors: ['h2wgzg'],
   linkedin: 'https://uk.linkedin.com/company/mobifi',
   duneQueries: null,

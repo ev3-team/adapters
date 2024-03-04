@@ -11,7 +11,7 @@ export default {
   id: 'ybxj8q',
   description:
     'CyberConnect is a Web3 social network that enables developers to create social applications empowering users to own their digital identity, content, connections, and interactions.',
-  discord: null,
+  discord: '901233976138682388',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '7lu677',
   description: 'UBIQnet - decentralized computing with blockchain tech.',
-  discord: null,
+  discord: '1079671303801425942',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ubiqnet',
   duneQueries: null,

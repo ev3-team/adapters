@@ -11,7 +11,7 @@ export default {
   id: 'tbwx5g',
   description:
     'EYWA is a genuinely decentralized medium for transferring data between blockchains and creating aggregated cross-chain assets.',
-  discord: null,
+  discord: '880102933298049054',
   investors: [
     's7b833',
     'tvu1r6',

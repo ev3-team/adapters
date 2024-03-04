@@ -11,7 +11,7 @@ export default {
   id: 'k7ct7d',
   description:
     'Fhenix is the first Fully Homomorphic Encryption (FHE) powered L2 to bring computation over encrypted data to Ethereum.',
-  discord: null,
+  discord: '1113764193670275124',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'wyx859',
   description:
     'Toucan Protocol provides a blockchain-based platform for tokenized trading of carbon credits from the Voluntary Carbon Market (VCM).',
-  discord: null,
+  discord: '706114892666765375',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/toucan-protocol/',
   duneQueries: null,

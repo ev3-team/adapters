@@ -11,7 +11,7 @@ export default {
   id: 'dnmt6p',
   description:
     'NEAR is a layer one, sharded, proof-of-stake blockchain built with usability in mind. It allows developers to create and distribute decentralized apps on any blockchain',
-  discord: null,
+  discord: '490367152054992913',
   investors: [
     'r1a7zj',
     'cvqnc5',

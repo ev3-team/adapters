@@ -11,7 +11,7 @@ export default {
   id: 'pyz7yz',
   description:
     'XNET is a blockchain-powered mobile carrier building neutral-host telecommunications infrastructure.',
-  discord: null,
+  discord: '984268252815446107',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/xnet-mobile',
   duneQueries: null,

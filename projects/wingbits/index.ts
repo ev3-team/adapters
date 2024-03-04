@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'dxk2mc',
   description: 'Wingbits is a decentralized flight tracking network.',
-  discord: null,
+  discord: '1082294632689455154',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/wingits',
   duneQueries: null,

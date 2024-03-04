@@ -11,7 +11,7 @@ export default {
   id: 'tjyvc7',
   description:
     'Irys is a multi-chain solution for Arweave, enabling native support for Arweave storage on different blockchains.',
-  discord: null,
+  discord: '864852288002850866',
   investors: ['hhudw8', 'yx4w71', 'vkntey', 'p2kq36', 'o92n85', 'nym997', 'bn4wmc'],
   linkedin: 'https://uk.linkedin.com/company/bundlr-network?trk=ppro_cprof',
   duneQueries: null,

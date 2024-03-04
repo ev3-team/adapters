@@ -11,7 +11,7 @@ export default {
   id: 'w0b37b',
   description:
     'QANplatform - quantum-resistant Layer 1 hybrid blockchain platform for developers and enterprises to build on top.',
-  discord: null,
+  discord: '867778552534138941',
   investors: ['poal5z', '8nclhv', '35e9e6', 'zdzojb', '97h38q', 'wri2vw'],
   linkedin: 'https://www.linkedin.com/company/qanplatform/',
   duneQueries: null,

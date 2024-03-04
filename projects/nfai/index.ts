@@ -11,7 +11,7 @@ export default {
   id: '40loq1',
   description:
     'NFAi: decentralized hedge fund experiment focused on crypto data science, aiming to establish a profit-sharing fund.',
-  discord: null,
+  discord: '1065754973872341075',
   investors: [],
   linkedin: null,
   duneQueries: null,

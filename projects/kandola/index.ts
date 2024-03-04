@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '8y4g79',
   description: 'Kandola is a decentralized Chip-to-Cloud IoT Protocol.',
-  discord: null,
+  discord: '958002050174709761',
   investors: [
     'vstg5d',
     'm8rgyb',

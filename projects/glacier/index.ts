@@ -11,7 +11,7 @@ export default {
   id: '4fstgv',
   description:
     'Glacier is building a composable, modular, and scalable L2 data network for large-scale Dapps.',
-  discord: null,
+  discord: '1049347993817579570',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/endwaste-',
   duneQueries: null,

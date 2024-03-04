@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'vx7fas',
   description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
-  discord: null,
+  discord: '943486047625572392',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/peaq-network/',
   duneQueries: null,

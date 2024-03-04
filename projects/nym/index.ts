@@ -11,7 +11,7 @@ export default {
   id: '5gc718',
   description:
     'Nym protects communication patterns, IP addresses and metadata for end-users, enterprise and infrastructure operators',
-  discord: null,
+  discord: '824256813200834580',
   investors: [
     'bspyld',
     'pdp1mt',

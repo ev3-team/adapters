@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'galxe',
   id: 'tlwvl7',
   description: 'Galxe develops a credential infrastructure that all Web3 developers can access.',
-  discord: null,
+  discord: '824767871183355954',
   investors: [],
   linkedin: null,
   duneQueries: null,

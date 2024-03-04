@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'aomkd4',
   description: 'Dojima is an omnichain EVM layer enabling cross-chain applications.',
-  discord: null,
+  discord: '864498254958821378',
   investors: [
     '62da1y',
     'zloyr1',

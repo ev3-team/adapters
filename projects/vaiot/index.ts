@@ -11,7 +11,7 @@ export default {
   id: 'sa6vqu',
   description:
     'Vaiot is a provider of blockchain-based AI Assistants and on-chain Intelligent Contracts for businesses and consumers.',
-  discord: null,
+  discord: '1062035044618743819',
   investors: ['5252r4'],
   linkedin: 'http://www.linkedin.com/company/vaiot-ltd',
   duneQueries: null,

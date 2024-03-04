@@ -11,7 +11,7 @@ export default {
   id: 'j4istz',
   description:
     'Golem is a decentralized computing marketplace. It consists of a network of nodes that implement the Golem network protocol.',
-  discord: null,
+  discord: '684703559954333727',
   investors: [],
   linkedin: null,
   duneQueries: null,

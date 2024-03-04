@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'wbocde',
   description: 'RDDL Network is a secure Refi and Defi protocol with trust anchors.',
-  discord: null,
+  discord: '1044693472390697011',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/rddl/',
   duneQueries: null,

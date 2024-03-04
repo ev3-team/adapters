@@ -11,7 +11,7 @@ export default {
   id: 'f0vw9s',
   description:
     "Lumerin is the World's first P2P low-cost, decentralized marketplace for trading Bitcoin hashpower.",
-  discord: null,
+  discord: '875744643378200577',
   investors: [],
   linkedin: null,
   duneQueries: null,

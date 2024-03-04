@@ -11,7 +11,7 @@ export default {
   id: '4xwmst',
   description:
     'Audius is a decentralized, community-owned and artist-controlled music-sharing protocol.',
-  discord: null,
+  discord: '557662127305785361',
   investors: [
     'buime9',
     'weiz7n',

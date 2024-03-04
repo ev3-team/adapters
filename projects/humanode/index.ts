@@ -11,7 +11,7 @@ export default {
   id: 'ful6z6',
   description:
     'Humanode is the first human-powered crypto-biometric network, where 1 human = 1 node = 1 vote.',
-  discord: null,
+  discord: '819836895739248700',
   investors: [
     'xmw0ev',
     'ltitbn',

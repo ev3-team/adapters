@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'ancy5d',
   description: 'Ceramic is a decentralized data network.',
-  discord: null,
+  discord: '682786569857662976',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ceramic-network',
   duneQueries: null,

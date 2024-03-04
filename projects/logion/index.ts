@@ -11,7 +11,7 @@ export default {
   id: 'p1vtxx',
   description:
     'Logion is a pioneering blockchain platform that transforms tokens into legal-grade digital assets.',
-  discord: null,
+  discord: '786689460178911273',
   investors: ['vjpj24', 'kknmxm'],
   linkedin: null,
   duneQueries: null,
