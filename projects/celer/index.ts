@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '2bxhb8',
   description:
-    'Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, and more across multiple chains. Developers can build inter-chain-native dApps using the Celer Inter-chain Messaging SDK to gain access to efficient liquidity utilization, coherent application logic, and shared states. Users of Celer-enabled dApps will enjoy the benefits of a diverse multi-blockchain ecosystem with the simplicity of a single-transaction UX, all from a single chain.',
+    'Celer Network is an interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions, and more across multiple chains.',
   discord: '496880366271856641',
   investors: [],
   linkedin: null,

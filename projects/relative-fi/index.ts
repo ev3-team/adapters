@@ -11,7 +11,7 @@ export default {
   id: 'owdd6z',
   description:
     'Relative Finance is building cross-sector dApps for derivatives and skill-based wagering across SocialFi, DeFi, and GameFi.',
-  discord: null,
+  discord: '1074744445980909678',
   investors: ['m8rgyb'],
   linkedin: 'https://www.linkedin.com/company/supermetafi/about/',
   duneQueries: null,

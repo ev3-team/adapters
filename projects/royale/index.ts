@@ -11,7 +11,7 @@ export default {
   id: 'csbwex',
   description:
     'Provider of cross-chain decentralized finance services intended to serve the iGaming industry.',
-  discord: '837332113677090876',
+  discord: null,
   investors: [
     'o5kpgb',
     'xmw0ev',

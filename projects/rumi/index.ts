@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'rumi-finance',
   id: '3x8glb',
   description: 'Rumi is a permissionless platform for DeFi asset management.',
-  discord: null,
+  discord: '1030554262670942208',
   investors: [],
   linkedin: 'https://pt.linkedin.com/company/rumi-finance',
   duneQueries: null,

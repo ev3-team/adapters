@@ -11,7 +11,7 @@ export default {
   id: 'n87ym5',
   description:
     'Robotiz3d is building the world‚Äôs first autonomous road maintenance vehicle to help tackle the pothole problem.',
-  discord: '1080924910018367630',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

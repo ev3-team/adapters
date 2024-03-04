@@ -11,7 +11,7 @@ export default {
   id: 'cn2pt1',
   description:
     'Riddle&Code: Connecting physical assets with Web3 technology for secure communication and transactions.',
-  discord: null,
+  discord: '999216778393698364',
   investors: ['cm89up'],
   linkedin: 'https://www.linkedin.com/company/riddle-&-code/?originalSubdomain=at',
   duneQueries: null,

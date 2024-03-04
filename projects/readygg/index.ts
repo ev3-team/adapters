@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'wjko90',
   description: 'READYgg is a Layer3 gaming infrastructure for the Web3 creator economy.',
-  discord: '1016319560581914747',
+  discord: '449614151262928897',
   investors: [
     'y69z86',
     'iu4bcb',

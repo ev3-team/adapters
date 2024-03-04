@@ -11,7 +11,7 @@ export default {
   id: 'wy42w1',
   description:
     '_Radius is a shared sequencing layer designed to eliminate harmful MEV and censorship while creating economic value for rollups.',
-  discord: '417762285172555786',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
