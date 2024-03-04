@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '4h5jhz',
   description: 'Go! is a blockchain powering universal basic services.',
-  discord: null,
+  discord: '875930739194093618',
   investors: [],
   linkedin: null,
   duneQueries: null,

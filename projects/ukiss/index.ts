@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '4uhpxf',
   description: 'UKISS Technology is dedicated in building the next-gen digital security Ecosystem.',
-  discord: null,
+  discord: '1143746313738010685',
   investors: [
     'is950u',
     '606zzb',

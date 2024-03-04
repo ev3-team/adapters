@@ -11,7 +11,7 @@ export default {
   id: '9hptcu',
   description:
     'Fairblock is a blockchain infrastructure and framework that focuses on conditional decryption and programmable privacy, providing users and developers with enhanced privacy and security for on-chain applications.',
-  discord: null,
+  discord: '1195755103735513138',
   investors: [],
   linkedin: null,
   duneQueries: null,

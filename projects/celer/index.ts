@@ -11,7 +11,7 @@ export default {
   id: '2bxhb8',
   description:
     'Celer Network is an interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions, and more across multiple chains.',
-  discord: null,
+  discord: '496880366271856641',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'okfrzh',
   description:
     'Chirpley is the world, first automated, peer-to-peer, all-in-one influencer marketplace specifically focussed on nano and micro influencers.',
-  discord: null,
+  discord: '857676296359247884',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/chirpleylabs',
   duneQueries: null,

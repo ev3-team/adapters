@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'astar',
   id: 'j764ic',
   description: 'Astar Network is a decentralized blockchain platform for Web3 innovations.',
-  discord: null,
+  discord: '644182966574252073',
   investors: [
     'opiq98',
     'xmw0ev',

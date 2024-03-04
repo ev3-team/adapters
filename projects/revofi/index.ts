@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'bdxcwj',
   description: 'RevoFi is a decentralized wireless infrastructure platform.',
-  discord: null,
+  discord: '839162257862295554',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/revofi',
   duneQueries: null,

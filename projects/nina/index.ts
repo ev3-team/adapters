@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'gbaodd',
   description: 'Nina is a self-publishing protocol for musicians.',
-  discord: null,
+  discord: '829052641408450571',
   investors: [],
   linkedin: null,
   duneQueries: null,

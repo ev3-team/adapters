@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '3b72sd',
   description: 'FirstTensor is a community-powered Bittensor Validator.',
-  discord: null,
+  discord: '1086605920802459691',
   investors: [],
   linkedin: null,
   duneQueries: null,

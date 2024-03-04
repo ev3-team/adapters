@@ -11,7 +11,7 @@ export default {
   id: 'zkb0bw',
   description:
     'Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm.',
-  discord: null,
+  discord: '373889138199494658',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/hashgraph/',
   duneQueries: null,

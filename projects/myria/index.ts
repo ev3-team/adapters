@@ -11,7 +11,7 @@ export default {
   id: '2vu694',
   description:
     "Myria is a blockchain gaming ecosystem powered by Myria's Ethereum L2 scaling solution.",
-  discord: null,
+  discord: '917422746823196682',
   investors: [],
   linkedin: null,
   duneQueries: null,

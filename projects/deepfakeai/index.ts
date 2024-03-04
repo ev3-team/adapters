@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'deepfakeai',
   id: '1cdn19',
   description: 'DeepFakeAI is a deepfake creation program using a Telegram Bot and Web App.',
-  discord: null,
+  discord: '1120405708186337411',
   investors: [],
   linkedin: null,
   duneQueries: null,

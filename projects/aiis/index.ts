@@ -11,7 +11,7 @@ export default {
   id: 'zfup4o',
   description:
     'Skip complex code. With AI, creating and deploying your own ERC-20 token is as simple as answering a few questions!',
-  discord: null,
+  discord: '1170073310000853023',
   investors: [],
   linkedin: null,
   duneQueries: null,

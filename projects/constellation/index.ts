@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'constellation-labs',
   id: 'ol6f66',
   description: 'Constellation is a decentralized L0 protocol enabling Web3 solutions.',
-  discord: null,
+  discord: '991622562889085010',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/constellation-labs',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'xu30b0',
   description:
     'Moonbeam is a cross-chain smart contract platform allowing users to interact with multiple blockchains simultaneously.',
-  discord: null,
+  discord: '745382242326413442',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/moonbeaminc',
   duneQueries: null,

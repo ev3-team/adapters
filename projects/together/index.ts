@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '5wyckk',
   description: 'The fastest cloud platform for building and running generative AI.',
-  discord: null,
+  discord: '1082503318624022589',
   investors: [],
   linkedin: null,
   duneQueries: null,

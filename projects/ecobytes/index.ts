@@ -11,7 +11,7 @@ export default {
   id: 'p20viq',
   description:
     'EcoBytes is a Re-Fi Platform that rewards consumers for unused mobile data passively.',
-  discord: null,
+  discord: '995037473379979307',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ecobytes/about/',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'pheffj',
   description:
     'Mindland is a meditation incentivization company that uses crypto incentives to encourage meditation practices.',
-  discord: null,
+  discord: '999441437743644782',
   investors: [],
   linkedin: null,
   duneQueries: null,

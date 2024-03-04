@@ -11,7 +11,7 @@ export default {
   id: 'tjcjjf',
   description:
     'The Energy Web Foundation fosters value creation in the energy sector by building and promoting an open, decentralized software infrastructure built around blockchain technology.',
-  discord: null,
+  discord: '706103009205288990',
   investors: [
     'd3piby',
     '5bmg9o',

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'safe-haven',
   id: 'ewlwyh',
   description: 'Decentralized digital inheritance',
-  discord: null,
+  discord: '951025651463385129',
   investors: [],
   linkedin: 'https://github.com/Safehaven-io',
   duneQueries: null,

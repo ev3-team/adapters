@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'adhfwc',
   description: 'Decentralized GPUs for rendering.',
-  discord: null,
+  discord: '1139015527939981453',
   investors: [],
   linkedin: null,
   duneQueries: null,

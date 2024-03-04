@@ -11,7 +11,7 @@ export default {
   id: 't8wbyf',
   description:
     'Relation Protocol is a decentralized social graph protocol for encoding relations in Web3.',
-  discord: null,
+  discord: '935837847511003186',
   investors: ['jflrdj', 'nxzb7m', 'jceiff', 'oltsrb', 'wu15kr', 'kkwi2w', '6m0hgx'],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'g7dhjc',
   description:
     'SingularityDAO: Decentralized Portfolio Management Protocol for safe and easy crypto asset management.',
-  discord: null,
+  discord: '918044007521714239',
   investors: [
     'z2j0xs',
     'o5kpgb',

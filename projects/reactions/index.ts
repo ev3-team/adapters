@@ -11,7 +11,7 @@ export default {
   id: '57ba4r',
   description:
     'Reactions is a decentralized social curation protocol that let users react to NFTs, allowing consumers to build influence and earn with communities.',
-  discord: null,
+  discord: '869644271068778616',
   investors: ['eqr6sq', '04mlyu'],
   linkedin: 'https://www.linkedin.com/company/reactions-wtf/about/',
   duneQueries: null,

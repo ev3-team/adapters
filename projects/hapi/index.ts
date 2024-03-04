@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'hapi-one',
   id: 'um75jm',
   description: 'Hapi Protocol: Cross-chain protocol for DeFi security.',
-  discord: null,
+  discord: '854680817661640754',
   investors: ['rlo5x9', 'nqkr1o', '3fcax3', '65epfb', 'n7ldex', 'rk3esc', 'tktadr'],
   linkedin: 'https://www.linkedin.com/company/hapi-protocol/',
   duneQueries: null,

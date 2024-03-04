@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'world-mobile-token',
   id: 'fo1iua',
   description: 'World Mobile is a decentralized mobile network operating globally.',
-  discord: null,
+  discord: '739450842108919828',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/worldmobilegroup/',
   duneQueries: null,

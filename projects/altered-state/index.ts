@@ -11,7 +11,7 @@ export default {
   id: '9limss',
   description:
     'Decentralized AI protocol for NFI, enabling ownership, trading, and training of AI agents through NFTs.',
-  discord: null,
+  discord: '864685888830963742',
   investors: [
     'k93k29',
     'hol96b',

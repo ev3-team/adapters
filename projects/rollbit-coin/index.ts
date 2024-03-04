@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'rollbit-coin',
   id: '3m9m9c',
   description: 'Rollbit offers casino games, sportsbook, futures trading, and NFT trading.',
-  discord: null,
+  discord: '698240441316802589',
   investors: [],
   linkedin: null,
   duneQueries: null,

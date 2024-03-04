@@ -11,7 +11,7 @@ export default {
   id: '4jq13p',
   description:
     'The first decentralized data architecture that provides scalable, reliable, self-balanced storage, database and computation network and offers a solid foundation for data processing.',
-  discord: null,
+  discord: '799573145019219968',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/stratos-network',
   duneQueries: null,

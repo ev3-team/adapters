@@ -11,7 +11,7 @@ export default {
   id: 'flp6ko',
   description:
     'AscensionWx is a WeatherMiner platform that allows users to earn Helium HNT tokens by predicting weather conditions.',
-  discord: null,
+  discord: '859677745860968469',
   investors: [],
   linkedin: null,
   duneQueries: null,

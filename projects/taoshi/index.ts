@@ -11,7 +11,7 @@ export default {
   id: '8p6wp2',
   description:
     'Taoshi harnesses the full potential of Bittensor to create dynamic and rewarding subnetworks that incentivize intelligence, revolutionizing how individuals and businesses interact with Bittensor.',
-  discord: null,
+  discord: '1163496128499683389',
   investors: [],
   linkedin: null,
   duneQueries: null,

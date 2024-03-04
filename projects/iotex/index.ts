@@ -11,7 +11,7 @@ export default {
   id: 'oqhdss',
   description:
     'IoTeX is a blockchain-based sensor solution called Pebble, integrating numerous functions in one device.',
-  discord: null,
+  discord: '534888542648664074',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/iotex',
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'arbitrum',
   id: 'v0j5p5',
   description: 'Arbitrum: Fast, scalable and cost-efficient Ethereum scaling solution.',
-  discord: null,
+  discord: '585084330037084172',
   investors: [
     '0ga0g3',
     '7ygqh2',

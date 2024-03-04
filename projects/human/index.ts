@@ -11,7 +11,7 @@ export default {
   id: 'gs9m0p',
   description:
     'Human is a global financial and identity network with unique digital ID, currency, and mobile wallet app.',
-  discord: null,
+  discord: '913558929995358228',
   investors: [],
   linkedin: 'https://linkedin.com/company/joinhmn',
   duneQueries: null,

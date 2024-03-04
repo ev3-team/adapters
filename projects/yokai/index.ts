@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'jbyfc1',
   description: 'Yokai Developer: Security network with crowdsourced audit and bug bounty platform.',
-  discord: null,
+  discord: '874678777748279316',
   investors: ['jtzx5o', '6nxw7d', 'bxcu1r', '7vs71r', 'o76txg'],
   linkedin: 'http://www.linkedin.com/company/yokainetwork',
   duneQueries: null,

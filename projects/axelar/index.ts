@@ -11,7 +11,7 @@ export default {
   id: '0fb1s7',
   description:
     'Axelar provides a decentralized network that connects dApp builders with blockchain ecosystems, applications and users for frictionless cross-chain communication. Axelar consists of a protocol suite, tools, and APIs, designed to break down the barriers to cross-chain communication.',
-  discord: null,
+  discord: '770814806105128977',
   investors: [],
   linkedin: null,
   duneQueries: null,

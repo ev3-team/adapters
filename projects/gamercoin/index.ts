@@ -11,7 +11,7 @@ export default {
   id: 'z2gapv',
   description:
     'GamerCoin is a blockchain-supported application that allows users to exchange desktop computing power for digital goods.',
-  discord: null,
+  discord: '460763514357809162',
   investors: ['y2bxy5'],
   linkedin: null,
   duneQueries: null,

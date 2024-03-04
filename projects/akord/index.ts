@@ -11,7 +11,7 @@ export default {
   id: '5fwdog',
   description:
     'Akord: decentralized storage solution giving users control over data. A privacy hub and data marketplace.',
-  discord: null,
+  discord: '890229689019432981',
   investors: ['hhudw8', 'm6mz4i', 'nio0gx', 'xgzede', 'pu3yyr'],
   linkedin: 'https://fr.linkedin.com/company/akord-co',
   duneQueries: null,

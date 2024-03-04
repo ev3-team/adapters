@@ -11,7 +11,7 @@ export default {
   id: 'bjvhmg',
   description:
     'Trace is a decentralized protocol enabling luxury lifestyle for multichain metaverses with NFTs & digital fashion.',
-  discord: null,
+  discord: '889566942678102016',
   investors: [
     'bf6y5u',
     'n6kqj7',

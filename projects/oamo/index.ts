@@ -11,7 +11,7 @@ export default {
   id: '74kro7',
   description:
     'Oamo is a decentralized data broker that empowers internet users to own and monetize the value of their data',
-  discord: null,
+  discord: '1104117518471270460',
   investors: [],
   linkedin: 'https://ca.linkedin.com/company/oamo-io',
   duneQueries: null,

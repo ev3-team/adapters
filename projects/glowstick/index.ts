@@ -11,7 +11,7 @@ export default {
   id: 'pztili',
   description:
     'Glowstick is a user-friendly tool enabling easy 3D environment creation and storytelling.',
-  discord: null,
+  discord: '917476252443623435',
   investors: ['7ny99e', '7zvxz8', 'amuto4', 'cx2bjt', 'gfcglj'],
   linkedin: null,
   duneQueries: null,

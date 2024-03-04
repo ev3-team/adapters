@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'd2uaff',
   description: 'NetMind.AI enables deep learning model development for AI applications.',
-  discord: null,
+  discord: '1050399764941906031',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/netmind-ai/',
   duneQueries: null,

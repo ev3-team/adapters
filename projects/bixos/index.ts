@@ -11,7 +11,7 @@ export default {
   id: 'ey787u',
   description:
     'Bixos is a cutting-edge blockchain development, Cryptocurrency asset management, and investment company.',
-  discord: null,
+  discord: '927874928009687090',
   investors: [],
   linkedin: null,
   duneQueries: null,
