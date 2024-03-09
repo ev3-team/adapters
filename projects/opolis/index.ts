@@ -9,7 +9,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ees7sx',
-  description: '',
+  description:
+    'Opolis is a member-owned digital employment platform that uses blockchain technology to supply tools that independent workers can use to manage their employment benefits, payroll, and shared services.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/opolis',
   url: null,
   verified: false,
 } satisfies AdapterProject
