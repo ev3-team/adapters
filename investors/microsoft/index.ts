@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'mc0vmp',
   name: 'Microsoft',
-  investedProjectsCount: 2,
+  investedProjectsCount: 3,
 } satisfies AdapterInvestor
