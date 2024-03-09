@@ -202,7 +202,6 @@ import angeldao from './angeldao'
 import angelone from './angelone'
 import angelsdeckVentureClub from './angelsdeck-venture-club'
 import angesQuébec from './anges-québec'
-import angesQuébec from './anges-québec'
 import anilGodhwani from './anil-godhwani'
 import animoca from './animoca'
 import anithaVadavatha from './anitha-vadavatha'
@@ -1352,7 +1351,6 @@ import inflectionPoint from './inflection-point'
 import influx from './influx'
 import ingressive from './ingressive'
 import initialized from './initialized'
-import initialized from './initialized'
 import injective from './injective'
 import innmind from './innmind'
 import innogy from './innogy'
@@ -2048,7 +2046,6 @@ import p101 from './p101'
 import p1x from './p1x'
 import p2p from './p2p'
 import pabloRodríguez from './pablo-rodríguez'
-import pabloRodríguez from './pablo-rodríguez'
 import pacificCentury from './pacific-century'
 import pack from './pack'
 import packyMccormick from './packy-mccormick'
@@ -2318,7 +2315,6 @@ import ryanPetersen from './ryan-petersen'
 import ryanSelkis from './ryan-selkis'
 import ryanShearman from './ryan-shearman'
 import ryonNixon from './ryon-nixon'
-import ryze from './ryze'
 import ryze from './ryze'
 import rzc from './rzc'
 import s2 from './s2'
@@ -2614,7 +2610,6 @@ import teganKline from './tegan-kline'
 import tejasManohar from './tejas-manohar'
 import telAviv from './tel-aviv'
 import telecomInfraProject from './telecom-infra-project'
-import telefónica from './telefónica'
 import telefónica from './telefónica'
 import tendermint from './tendermint'
 import tenity from './tenity'
@@ -3147,7 +3142,6 @@ export const investors = {
   angeldao,
   angelone,
   angelsdeckVentureClub,
-  angesQuébec,
   angesQuébec,
   anilGodhwani,
   animoca,
@@ -4298,7 +4292,6 @@ export const investors = {
   influx,
   ingressive,
   initialized,
-  initialized,
   injective,
   innmind,
   innogy,
@@ -4994,7 +4987,6 @@ export const investors = {
   p1x,
   p2p,
   pabloRodríguez,
-  pabloRodríguez,
   pacificCentury,
   pack,
   packyMccormick,
@@ -5264,7 +5256,6 @@ export const investors = {
   ryanSelkis,
   ryanShearman,
   ryonNixon,
-  ryze,
   ryze,
   rzc,
   s2,
@@ -5560,7 +5551,6 @@ export const investors = {
   tejasManohar,
   telAviv,
   telecomInfraProject,
-  telefónica,
   telefónica,
   tendermint,
   tenity,
