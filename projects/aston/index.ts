@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7wi7uw',
   description:
     'Aston Labs: Decentralized energy & infrastructure network. Aston Tokens = network ownership.',

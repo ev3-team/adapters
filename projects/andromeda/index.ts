@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'ANDR',
-  coingeckoId: 'andromeda-2',
+  coinGeckoID: 'andromeda-2',
   id: 'g23dwt',
   description:
     'Andromeda is developing a decentralized on-chain operating system (aOS) for Web3, streamlining operations with enhanced accessibility and efficiency.',

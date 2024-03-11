@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'FLUX',
-  coingeckoId: 'zelcash',
+  coinGeckoID: 'zelcash',
   id: '0t3lhn',
   description:
     'Flux is a decentralized Web3 cloud infrastructure comprised of user-operated, scalable and globally distributed computational nodes.',

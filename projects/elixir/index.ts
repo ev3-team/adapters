@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ELXR',
-  coingeckoId: 'elixir-finance',
+  coinGeckoID: 'elixir-finance',
   id: 'wrifq0',
   description: 'Elixir: Decentralized protocol for secure market-making.',
   discord: '1059691738349977674',

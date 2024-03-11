@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OBI',
-  coingeckoId: 'orbofi-ai',
+  coinGeckoID: 'orbofi-ai',
   id: '1sydts',
   description:
     'Orbofi is the ultimate AI-generated content engine for web3, games, and every online community.',

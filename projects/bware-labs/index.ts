@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'udxaxs',
   description:
     'Bware Labs: Web 3 solution solving latency issues with geographically distributed nodes.',

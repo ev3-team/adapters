@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'p5n1y8',
   description: 'DStor is a globally-distributed cloud storage network.',
   discord: null,

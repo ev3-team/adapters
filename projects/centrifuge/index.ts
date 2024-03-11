@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CFG',
-  coingeckoId: 'centrifuge',
+  coinGeckoID: 'centrifuge',
   id: 'cosgc8',
   description: 'Decentralized OS for global financial supply chain, enabling data ownership.',
   discord: '805795848432779315',

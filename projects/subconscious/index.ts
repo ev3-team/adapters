@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5xypv6',
   description: 'Noosphere is a worldwide networked notes graph on IPFS.',
   discord: '1003419732516552724',

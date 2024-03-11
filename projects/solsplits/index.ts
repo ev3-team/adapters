@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nyewp0',
   description:
     'The SolSplits Protocol is a composable standard for splitting on-chain income on the Solana Network.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6kjw4f',
   description: 'User consent & data integrity guaranteed cryptographically.',
   discord: null,

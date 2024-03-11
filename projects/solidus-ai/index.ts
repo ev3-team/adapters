@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'COMPUTE',
   token: 'AITECH',
-  coingeckoId: 'solidus-ai-tech',
+  coinGeckoID: 'solidus-ai-tech',
   id: 'hb9ly2',
   description:
     'Solidus Ai Tech is building an eco-friendly High Performance Computing (HPC) Data Centre and IaaS platform and are launching the $AITECH token.',

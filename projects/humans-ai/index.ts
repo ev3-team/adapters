@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'HEART',
-  coingeckoId: 'humans-ai',
+  coinGeckoID: 'humans-ai',
   id: 'c7sbzs',
   description:
     'Humans.ai is a deep-tech company creating an ethical and scalable AI ecosystem on the blockchain.',

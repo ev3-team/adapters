@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'w0ifd2',
   description:
     'BlockFlow is a platform that simplifies the process of setting up database backends for dApps utilizing event-driven functionalities.',

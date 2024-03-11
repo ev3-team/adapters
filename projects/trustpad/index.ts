@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'TPAD',
-  coingeckoId: 'trustpad',
+  coinGeckoID: 'trustpad',
   id: 'rj7rcg',
   description:
     'TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early stage participants.',

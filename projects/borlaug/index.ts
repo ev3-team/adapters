@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g2f9pf',
   description:
     'Borlaug Web Services is a purpose-built blockchain SaaS platform for agriculture value chains.',

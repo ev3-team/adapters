@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5zk1x8',
   description:
     'Taxa: blockchain agnostic layer-2 infrastructure ensuring privacy, power, and easy development.',

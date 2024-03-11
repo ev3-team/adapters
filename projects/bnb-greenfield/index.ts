@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9ly2ak',
   description:
     'BNB Greenfield is a Decentralized Data Storage System and Economy that allows users to store, exchange, and own data to create a new data economy within the BNB Chain ecosystem.',

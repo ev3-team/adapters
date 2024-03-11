@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ruqwx5',
   description: 'Decentralized federated learning',
   discord: '977200106531082240',

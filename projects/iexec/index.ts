@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'RLC',
-  coingeckoId: 'iexec-rlc',
+  coinGeckoID: 'iexec-rlc',
   id: '2drl3l',
   description:
     'RLC: Monetize or rent out computational resources, datasets, and applications through iExec.',

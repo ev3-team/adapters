@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cjfsd9',
   description:
     'JDI builds hardware and software solutions for the Decentralized Wireless Network and IoT industry.',

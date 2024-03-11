@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1rcuf0',
   description:
     'myMessage is a decentralized data storage protocol enabling secure, low-cost storage and transfer.',

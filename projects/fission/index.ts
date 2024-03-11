@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dkaff9',
   description:
     'Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.',

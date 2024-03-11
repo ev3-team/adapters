@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tkra00',
   description:
     'Phisheye is a proactive phishing prevention platform for the Web3 ecosystem, using Proof of Protection and NFT badges.',

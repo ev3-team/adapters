@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'DMTR',
-  coingeckoId: 'dimitra',
+  coinGeckoID: 'dimitra',
   id: '18fpn9',
   description:
     'Dimitra is a blockchain platform that is democratizing the Agricultural Technology space for smallholder farmers globally.',

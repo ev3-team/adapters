@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'ENERGY',
   token: 'BCT',
-  coingeckoId: 'toucan-protocol-base-carbon-tonne',
+  coinGeckoID: 'toucan-protocol-base-carbon-tonne',
   id: 'wyx859',
   description:
     'Toucan Protocol provides a blockchain-based platform for tokenized trading of carbon credits from the Voluntary Carbon Market (VCM).',

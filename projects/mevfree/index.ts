@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'MEVFREE',
-  coingeckoId: 'mevfree',
+  coinGeckoID: 'mevfree',
   id: '8sxorc',
   description: 'MEVFree: Platform for crypto traders with tools and services to maximize profits.',
   discord: '1011294496123789322',

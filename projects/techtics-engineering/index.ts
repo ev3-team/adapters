@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1wmf1w',
   description:
     'Techtics Engineering is a specialized hardware manufacturer for decentralized physical infrastructure networks.',

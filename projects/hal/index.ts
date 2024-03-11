@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '686w74',
   description: 'Hal is a chatbot built on BitTensor.',
   discord: '1110297556606533744',

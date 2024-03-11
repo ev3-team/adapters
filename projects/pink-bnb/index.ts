@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'PNB',
-  coingeckoId: 'pink-bnb',
+  coinGeckoID: 'pink-bnb',
   id: '9abqiu',
   description: 'Pink BNB categorizes and analyzes data for crypto predictions.',
   discord: null,

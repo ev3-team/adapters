@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'KEY',
-  coingeckoId: 'selfkey',
+  coinGeckoID: 'selfkey',
   id: 'b12fse',
   description: 'SelfKey is a blockchain-based identity platform.',
   discord: '897002577831526460',

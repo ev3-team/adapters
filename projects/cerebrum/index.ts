@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'i3q0yo',
   description:
     'Accelerating solutions & cures to neurodegeneration and advancing brain longevity. ',

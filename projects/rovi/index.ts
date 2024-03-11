@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tpkifk',
   description: 'The ROVI is one of the most innovative power-bases ever created.',
   discord: null,

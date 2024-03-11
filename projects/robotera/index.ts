@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 't7b6bu',
   description: 'RobotEra: play-to-earn gaming with NFTs and metaverse world-building.',
   discord: null,

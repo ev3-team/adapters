@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'XCH',
-  coingeckoId: 'chia',
+  coinGeckoID: 'chia',
   id: 'ncy75y',
   description:
     'Chia Network (XCH) is a layer 1 blockchain that uses its own custom-designed programming language called Chialisp and a novel consensus mechanism called proof-of-space-and-time (PoST).',

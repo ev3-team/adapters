@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'a8p168',
   description: 'Polybase is a decentralized storage, index and query protocol for structured data.',
   discord: '989985926434394192',

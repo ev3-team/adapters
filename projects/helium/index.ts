@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'HNT',
-  coingeckoId: 'helium',
+  coinGeckoID: 'helium',
   id: '5bm99m',
   description:
     'Helium is a decentralized network of networks with Mobile, IoT, & other subnetworks.',

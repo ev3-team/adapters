@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'INR',
-  coingeckoId: 'inery',
+  coinGeckoID: 'inery',
   id: 'l93p26',
   description:
     'Provider of a decentralized database management system built on a layer-1 proprietary blockchain solution.',

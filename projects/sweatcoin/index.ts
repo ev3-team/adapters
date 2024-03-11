@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'SWEAT',
-  coingeckoId: 'sweat-economy',
+  coinGeckoID: 'sweat-economy',
   id: '5b9pa1',
   description:
     'Sweatcoin is a free app that allows user to track their steps and earn Sweat Economy (SWEAT) tokens, a type of cryptocurrency.',

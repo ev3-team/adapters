@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '98du7c',
   description:
     'MintyCode is a decentralized IP marketplace that offers new monetization opportunities and protects the copyright of software developers who contribute to open source.',

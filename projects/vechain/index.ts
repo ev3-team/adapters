@@ -7,7 +7,7 @@ export default {
   chain: 'VECHAIN',
   category: 'NOT_DEPIN',
   token: 'VET',
-  coingeckoId: 'vechain',
+  coinGeckoID: 'vechain',
   id: 'ed5hwr',
   description:
     'VeChain enables businesses to build decentralized apps for data transfer and supply-chain management.',

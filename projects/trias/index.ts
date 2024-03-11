@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TRIAS',
-  coingeckoId: 'trias-token',
+  coinGeckoID: 'trias-token',
   id: 'gcp7d3',
   description:
     'Trias is a cloud infrastructure solution with a native-application-compatible platform and token ecosystem.',

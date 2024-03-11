@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xsdljc',
   description:
     'DAIKSP is a decentralized AI platform that combines blockchain technology to revolutionize knowledge sharing.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '44h60y',
   description: 'Pyse enables retail investing in renewable energy assets.',
   discord: null,

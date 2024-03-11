@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7f3dsw',
   description:
     'Fleek Network is optimized to facilitate the deployment and running of performant, geo-aware decentralized web and edge services.',

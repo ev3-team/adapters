@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'DIMO',
-  coingeckoId: 'dimo',
+  coinGeckoID: 'dimo',
   id: '0wr2ea',
   description: 'Dimo is a decentralized ecosystem of connected vehicles.',
   discord: '892438668453740634',

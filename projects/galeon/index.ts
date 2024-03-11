@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'COMPUTE',
   token: 'GALEON',
-  coingeckoId: 'galeon',
+  coinGeckoID: 'galeon',
   id: 'n9g3gb',
   description:
     'Galeon is a collaborative healthcare cryptocurrency driving the creation of a global medical network, leveraging blockchain to generate structured Electronic Health Records, facilitate medical AI training, and fund transformative research.',

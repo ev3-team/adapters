@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iqc8zd',
   description:
     'Volatilis is a secure and efficient derivatives protocol for digital currency options, ensuring fund integrity.',

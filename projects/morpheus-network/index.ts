@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'MNW',
-  coingeckoId: 'morpheus-network',
+  coinGeckoID: 'morpheus-network',
   id: '39uynx',
   description:
     'Morpheus.Network is a supply chain SaaS middleware platform that integrates both legacy systems and emerging technologies like blockchain, IoT, and RFID.',

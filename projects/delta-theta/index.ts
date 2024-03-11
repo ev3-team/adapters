@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DLTA',
-  coingeckoId: 'delta-theta',
+  coinGeckoID: 'delta-theta',
   id: '88l6l8',
   description: 'delta.theta is a Peer-to-peer asset options trading platform.',
   discord: null,

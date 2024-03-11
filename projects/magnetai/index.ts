@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1yb2sw',
   description:
     'Magnet AI is a scalable, permissionless and cost-efficient platform for accessing compute power for inference.',

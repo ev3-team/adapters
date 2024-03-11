@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cu63xf',
   description:
     'Clusttr is a marketplace for real estate investment through fractional ownership(real estate tokens).',

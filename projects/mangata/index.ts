@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'k4jlda',
   description:
     "Mangata is a multi-rollup interchain infrastructure that allows users to trade any token, from any chain. Their goal is to build the world's first true interchain trading app using multi-chain ZK rollup technology.",

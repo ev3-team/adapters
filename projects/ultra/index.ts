@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8yqcpk',
   description:
     'Ultra is a next-gen entertainment platform providing new possibilities for gamers, developers, and creators.',

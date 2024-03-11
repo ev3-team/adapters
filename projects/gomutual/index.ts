@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wwmjky',
   description:
     'GoMutual is a blockchain-based decentralized mutuality protocol offering a non-insurance alternative to traditional auto insurance.',

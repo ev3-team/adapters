@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'diyark',
   description: 'Mobilian is a blockchain network empowering secure autonomous vehicles.',
   discord: null,

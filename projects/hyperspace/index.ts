@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oevejl',
   description:
     'Hyperspace is a decentralized prompt engine for making AI better, faster, and cheaper at-scale.',

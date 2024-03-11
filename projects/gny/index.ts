@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'GNY',
-  coingeckoId: 'gny',
+  coinGeckoID: 'gny',
   id: 'wjtb2f',
   description:
     'GNY is a ML predictive platform for blockchain, identifying patterns & predicting user behavior for targeted messaging.',

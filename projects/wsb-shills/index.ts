@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'knsxty',
   description:
     'WSB Shills is a decentralised prediction market platform, allowing users to predict outcomes and earn rewards.',

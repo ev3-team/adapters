@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n1ufl0',
   description:
     'tinygrad is a simple and powerful neural network framework for deep learning that offers a balance between simplicity and functionality, with support for both training and inference on various hardware accelerators. ',

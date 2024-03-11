@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gw1fz5',
   description: 'NexGen Cloud: Affordable, sustainable cloud solutions for Web2 & Web3 ecosystems.',
   discord: null,

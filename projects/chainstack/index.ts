@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sj6nte',
   description:
     'Chainstack is a leading blockchain infrastructure providing company. It allows uers to build, run and scale blockchain applications using Chainstack nodes.',

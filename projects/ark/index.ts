@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'f918a3',
   description: 'Ark is a layer-2 protocol enabling cheap, anonymous, off-chain Bitcoin payments.',
   discord: null,

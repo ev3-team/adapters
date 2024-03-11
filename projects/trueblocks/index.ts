@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sfby9z',
   description:
     'High-quality, per smart contract, decentralized data delivered 100s of times faster than the RPC.',

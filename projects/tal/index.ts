@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7et9go',
   description: 'TAL: Decentralized AI verification on Solana.',
   discord: null,

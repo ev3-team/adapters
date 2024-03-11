@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gaa7c0',
   description:
     'Agritoken: Tokenizing crop futures for efficient and transparent agricultural investing.',

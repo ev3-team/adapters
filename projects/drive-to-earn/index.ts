@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'SERVICES',
   token: 'DTE',
-  coingeckoId: 'drive-to-earn',
+  coinGeckoID: 'drive-to-earn',
   id: 'bj8kjt',
   description: 'Drive to Earn is Web3.0 project that will revolutionize the drive market.',
   discord: null,

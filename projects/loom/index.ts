@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'LOOM',
-  coingeckoId: 'loom-network-new',
+  coinGeckoID: 'loom-network-new',
   id: 'el7s07',
   description:
     'Loom Network is a production-ready, multichain interop platform for serious dapp developers.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'PRV',
-  coingeckoId: 'incognito-2',
+  coinGeckoID: 'incognito-2',
   id: 'g8ux2k',
   description: 'Incognito is a privacy hub for private shielded cryptocurrency transactions.',
   discord: '1046631732067184711',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'fw5onx',
   description:
     'Demonstrably Superior RPC for Solana, Sui, PythNet, and other blockchains. Build, iterate, and ship faster with Triton. ',

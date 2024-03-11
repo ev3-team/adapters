@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oz5vb7',
   description:
     'Deep Green develops carbon-neutral compute systems & data centers, specializing in metro-edge computing.',

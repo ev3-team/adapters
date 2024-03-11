@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'x4aekw',
   description:
     'DAIN is constructing a decentralized Al network infrastructure, consisting of nodes and services that collaborate to deliver the best possible information.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rkfiyk',
   description: 'AWARE traces cotton with tracer particles to ensure sustainable textiles.',
   discord: null,

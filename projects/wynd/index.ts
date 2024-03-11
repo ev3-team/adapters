@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9qbidj',
   description:
     'Wynd Network, also known as Grass,  is a transparent node marketplace enabling users to earn passive income by renting out their IP address, used for collecting datasets to train AI models.',

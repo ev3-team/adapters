@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'aomkd4',
   description: 'Dojima is an omnichain EVM layer enabling cross-chain applications.',
   discord: '864498254958821378',

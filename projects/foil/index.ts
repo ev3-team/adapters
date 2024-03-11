@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wd2g59',
   description: 'Foil: Scalable, secure blockchain for IoT with high-speed transactions.',
   discord: '773843041357135882',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'LUN',
-  coingeckoId: 'lunyr',
+  coinGeckoID: 'lunyr',
   id: '74rmzw',
   description:
     'Lunyr is a blockchain-based world knowledge base that rewards users for peer-reviewing and contributing information.',

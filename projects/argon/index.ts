@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vc3622',
   description: 'Aragon is a software tools provider for direct democracy.',
   discord: null,

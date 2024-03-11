@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'FITFI',
-  coingeckoId: 'step-app',
+  coinGeckoID: 'step-app',
   id: 'ho83ef',
   description:
     'Step is a move-to-earn mobile app that lets users earn crypto for their fitness efforts.',

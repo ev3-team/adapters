@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uq4s3v',
   description: 'NATIX is a decentralized real-time mapping & surveillance network.',
   discord: null,

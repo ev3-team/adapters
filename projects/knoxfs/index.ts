@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'KFX',
-  coingeckoId: 'knoxfs',
+  coinGeckoID: 'knoxfs',
   id: '1wbpqo',
   description:
     'Knox Project offers a secure, decentralized data storage solution using blockchain and IPFS, rewarding users with KFX tokens for participation and offering passive income through masternodes.',

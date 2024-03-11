@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ux0c4s',
   description: 'Intersection of AI & blockchain',
   discord: null,

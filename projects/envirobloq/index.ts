@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'czooh2',
   description: 'EnviroBLOQ is a decentralized network of connected smart home devices.',
   discord: null,

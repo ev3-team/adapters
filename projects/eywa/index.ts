@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'EYWA',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tbwx5g',
   description:
     'EYWA is a genuinely decentralized medium for transferring data between blockchains and creating aggregated cross-chain assets.',

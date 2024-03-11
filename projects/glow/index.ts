@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'GLOW',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'm5pwg0',
   description:
     'GlowGreen leads the forefront of climate sustainability with novel game theory and incentive design to champion a sustainble, technology-empowered future.',

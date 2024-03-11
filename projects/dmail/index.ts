@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '84v1j0',
   description:
     'Dmail is an AI-powered decentralized email platform that empowers users with ownership and control of their data.',

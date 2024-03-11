@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'w49a1x',
   description:
     'Brainstem collects wearable health data to revolutionize healthcare through remote screening and monitoring.',

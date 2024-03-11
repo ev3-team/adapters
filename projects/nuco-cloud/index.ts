@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'NCDT',
-  coingeckoId: 'nuco-cloud',
+  coinGeckoID: 'nuco-cloud',
   id: 'ldlosm',
   description:
     'Nuco.cloud is a sharing economy platform for network computing based on BOINC (Berkeley Open Infrastructure for Network Computing).',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ws7n8t',
   description:
     'EcoBlocks is a regenerative protocol incentivizing electronic recycling via an escrow based process.',

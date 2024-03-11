@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'f5qe2h',
   description: '3Num connects mobile subscribers for secure communication.',
   discord: '953486199799025704',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ygaj99',
   description: 'Mawari: Decentralized 3D content delivery platform for mobile XR devices.',
   discord: null,

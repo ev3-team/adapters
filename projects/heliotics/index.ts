@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9nzov6',
   description:
     'Heliotics provides a complete portfolio of Internet of Things (IoT) solutions leveraging existing LoRaWAN and NB-IoT network coverage and smart sensors integrated into a fully customized platform.',

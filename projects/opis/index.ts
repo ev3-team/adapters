@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jduldq',
   description:
     'Opis Group is a British blockchain tech company focusing on computing, cloud and gaming apps.',

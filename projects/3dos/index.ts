@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5dho62',
   description:
     '3DOS is building a decentralized manufacturing network on Web 3.0 using NFTs as a licensing tool.',

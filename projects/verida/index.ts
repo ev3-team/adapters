@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hjruy9',
   description: 'Verida is a decentralized data storage, messaging, and single sign-on solution.',
   discord: '664594912460668960',

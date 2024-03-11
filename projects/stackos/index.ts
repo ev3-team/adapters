@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'SFX',
-  coingeckoId: 'stackos',
+  coinGeckoID: 'stackos',
   id: 'kd6pyc',
   description:
     'StackOS is a cross-chain open infrastructure protocol enabling decentralized cloud services.',

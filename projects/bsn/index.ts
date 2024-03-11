@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nwj87z',
   description:
     'The Blockchain-based Service Network is a cross-cloud, cross-portal, and cross-framework global infrastructure network used to deploy and operate all types of blockchain applications.',

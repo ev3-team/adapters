@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sr6yh3',
   description:
     'MatchX is a hardware and software company specializing in IoT solutions for the industry.',

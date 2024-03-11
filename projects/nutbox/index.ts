@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '45u6hy',
   description:
     'Nutbox is a web3 DAO infrastructure enabling users to easily build blockchain-based organizations.',

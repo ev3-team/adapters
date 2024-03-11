@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'trtwoi',
   description:
     'MetaMirror is specializing in Decentralized Identity (DID), focused on empowering individuals with control over their personal data.',

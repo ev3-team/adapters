@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'LMR',
-  coingeckoId: 'lumerin',
+  coinGeckoID: 'lumerin',
   id: 'f0vw9s',
   description:
     "Lumerin is the World's first P2P low-cost, decentralized marketplace for trading Bitcoin hashpower.",

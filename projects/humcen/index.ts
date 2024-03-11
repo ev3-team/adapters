@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0bvsxt',
   description: 'Humcen is the world‚Äôs first cross border IP aggregator.',
   discord: null,

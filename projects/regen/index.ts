@@ -7,7 +7,7 @@ export default {
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'REGEN',
-  coingeckoId: 'regen',
+  coinGeckoID: 'regen',
   id: 'sbgvjh',
   description: 'ReGen focuses on Hydrogen, Ammonia, and Methanol trading for the New Fuel Economy.',
   discord: null,

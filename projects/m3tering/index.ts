@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ae6gb1',
   description: 'M3tering incentivizes solar energy investment for underserved regions.',
   discord: '1128564139472736296',

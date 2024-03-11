@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4rizhn',
   description:
     'Nevermined is a platform that enables the monetization and access control of digital assets, including AI services and data, using blockchain technology and Web3 principles.',

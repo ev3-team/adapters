@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'm5wcp4',
   description:
     'Indicio.tech is a professional services firm specializing in decentralized identity architecture, engineering, and consultancy.',

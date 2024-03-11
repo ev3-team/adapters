@@ -7,7 +7,7 @@ export default {
   chain: 'ARBITRUM',
   category: 'AI',
   token: 'ETHFAI',
-  coingeckoId: 'ethforestai',
+  coinGeckoID: 'ethforestai',
   id: 'njhr2m',
   description:
     'ETHforestAI is a Web3 learning platform with an integrated AI chatbot and Learn-To-Earn features.',

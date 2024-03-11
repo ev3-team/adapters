@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'SYLO',
-  coingeckoId: 'sylo',
+  coinGeckoID: 'sylo',
   id: '8saiar',
   description:
     'Sylo provides an incentivized node network where any wallet address can communicate with any other wallet address, NFT owner, or Smart Contract participant without any reliance on a centralized party. The solution allows developers to build decentralised communications into their Metaverse, or enable their NFT community to communicate. Allow NFTs as identities to send, receive, pay, make calls, share files, notify, broadcast, and more.',

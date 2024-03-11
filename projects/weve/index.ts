@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yb56ub',
   description:
     'Weveweve is a decentralized mail system on Arweave network. It ensures permanent availability of messages and web app.',

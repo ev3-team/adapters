@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bdxcwj',
   description: 'RevoFi is a decentralized wireless infrastructure platform.',
   discord: '839162257862295554',

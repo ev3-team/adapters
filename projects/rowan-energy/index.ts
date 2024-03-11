@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: 'RWN',
-  coingeckoId: 'rowan-coin',
+  coinGeckoID: 'rowan-coin',
   id: 'erdh9p',
   description:
     'Developer of a Community Supported Green Energy Blockchain. Members will be able to buy their energy from other members who produce it using solar panels.',

@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'QRL',
-  coingeckoId: 'quantum-resistant-ledger',
+  coinGeckoID: 'quantum-resistant-ledger',
   id: 'qc35tq',
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
   discord: null,

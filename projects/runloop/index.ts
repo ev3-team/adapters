@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'f9rhe0',
   description:
     'Runloop builds DeFi simulation environment for training agents in liquidity provision, risk management, and trading.',

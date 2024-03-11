@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'CQT',
-  coingeckoId: 'covalent',
+  coinGeckoID: 'covalent',
   id: 'cfxf9v',
   description:
     'Covalent is a decentralized data infrastructure that enables users to seamlessly access blockchain data that is otherwise inaccessible.',

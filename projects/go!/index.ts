@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4h5jhz',
   description: 'Go! is a blockchain powering universal basic services.',
   discord: '875930739194093618',

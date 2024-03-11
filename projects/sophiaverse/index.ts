@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'SOPH',
-  coingeckoId: 'sophiaverse',
+  coinGeckoID: 'sophiaverse',
   id: '7bo0uv',
   description:
     "SophiaVerse is a gamified infrastructure built in the pursuit of Sophia's development via gameplay, through AI programming and the use of the SOPH utility token.",

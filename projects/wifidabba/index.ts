@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sc8bst',
   description:
     'WifiDabba builds low-cost, scalable, distributed Wi-Fi infrastructure using lasers.',

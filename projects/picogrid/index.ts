@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ay3ajm',
   description: 'Picogrid builds a common platform to connect defense and autonomous systems.',
   discord: null,

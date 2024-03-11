@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v5r18r',
   description: 'Banksea NFT is the first AI-Driven NFT Oracle & NFT Liquidity Infrastructure.',
   discord: '856444560371875891',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'VEGA',
-  coingeckoId: 'vega-protocol',
+  coinGeckoID: 'vega-protocol',
   id: 'ie91s7',
   description:
     'Vega Protocol is a blockchain-backed network enabling automated trading and execution of financial products.',

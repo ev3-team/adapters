@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'UPX',
-  coingeckoId: 'uplexa',
+  coinGeckoID: 'uplexa',
   id: '856ev1',
   description: 'uPlexa is a peer-to-peer electronic payment system utilizing IoT and privacy.',
   discord: '417982588498477060',

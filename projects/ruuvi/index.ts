@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3mrg2q',
   description:
     'Ruuvi creates simple and powerful environmental sensor products for consumers and businesses.The Ruuvi sensors measure air temperature, humidity, pressure, and acceleration, depending on the models.',

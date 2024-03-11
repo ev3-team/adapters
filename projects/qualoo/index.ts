@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cfy81h',
   description: 'Qualoo is revolutionizing telecom with global internet governance & diagnostics.',
   discord: null,

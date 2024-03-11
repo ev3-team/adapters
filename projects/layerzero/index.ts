@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cpd9pq',
   description: 'LayerZero builds DeWi infrastructure in LA.',
   discord: null,

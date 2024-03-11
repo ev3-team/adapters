@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '84nnyv',
   description: 'Blockride: democratizing vehicle financing in Africa through crypto assets.',
   discord: '994991249071288430',

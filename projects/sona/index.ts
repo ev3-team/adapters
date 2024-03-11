@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xbya3q',
   description:
     'Co-founded by DJ and producer TOKiMONSTA, Sona is a whole new way to enjoy music and support your favorite artists.',

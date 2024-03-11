@@ -7,7 +7,7 @@ export default {
   chain: 'POLKADOT',
   category: 'BLOCKCHAIN_INFRA',
   token: 'GLMR',
-  coingeckoId: 'moonbeam',
+  coinGeckoID: 'moonbeam',
   id: 'xu30b0',
   description:
     'Moonbeam is a cross-chain smart contract platform allowing users to interact with multiple blockchains simultaneously.',

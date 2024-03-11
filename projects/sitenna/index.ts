@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xeu3zu',
   description:
     'Sitenna streamlines the process of site acquisition, portfolio management and collocation sales for telecom companies.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'PEACH',
-  coingeckoId: 'peach-inu-bsc',
+  coinGeckoID: 'peach-inu-bsc',
   id: '3p49fs',
   description:
     'Peach Inu is a memecoin bringing together a community of Princess Peach fans and creating a space for fun and exchange.',

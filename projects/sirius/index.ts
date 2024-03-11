@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'XPX',
-  coingeckoId: 'proximax',
+  coinGeckoID: 'proximax',
   id: 'tqnguc',
   description:
     'Sirius Chain is an advanced Proof-of-Stake and Proof-of-Greed blockchain with built-in features such as multi-level multisig, validator rewards, fast finality, easy digital asset creation, and transaction management.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'x4c5qz',
   description:
     'Goracle is a decentralized oracle network on the Algorand blockchain connecting customers with the algorand blockchain.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'RCG',
-  coingeckoId: 'recharge',
+  coinGeckoID: 'recharge',
   id: 'ba2ef9',
   description:
     'The Recharge is a decentralized incentive solution that connects electric-charging platforms.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qg080i',
   description: 'Collar Protocol is aliquidation-free borrowing solution.',
   discord: null,

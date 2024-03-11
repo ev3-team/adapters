@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bta44y',
   description:
     'Freename is a platform for the creation and purchase of Web3 domains, i.e. names registered on blockchain to represent decentralised Internet sites, crypto wallets and many other applications.',

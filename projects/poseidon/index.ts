@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'QQQ',
-  coingeckoId: 'poseidon-network',
+  coinGeckoID: 'poseidon-network',
   id: 'hosx2o',
   description:
     'Poseidon Network is a decentralized global network that collects and distributes idle resources from P2P devices, allowing everyone to build their own services in the fastest and cheapest way. This includes decentralized CDN, storage, and computing. Users can provide their unused bandwidth and storage from their devices, such as NAS, computers, and mobile devices.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7gjqft',
   description: 'Siglo is a wireless internet service provider.',
   discord: null,

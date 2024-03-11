@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'lj3v06',
   description: 'GPUtopia is a marketplace for decentralized GPU compute and related AI services.',
   discord: '1157469556768514068',

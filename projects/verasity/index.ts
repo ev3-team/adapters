@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'VRA',
-  coingeckoId: 'verasity',
+  coinGeckoID: 'verasity',
   id: '20y2yy',
   description: 'Verasity is a decentralized ecosystem of digital advertisers and merchants.',
   discord: '850659368953577492',

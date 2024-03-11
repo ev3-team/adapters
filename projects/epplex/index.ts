@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ccemio',
   description: 'Empowering a new frontier of Solana NFT use-cases with ephemeral epNFTs',
   discord: null,

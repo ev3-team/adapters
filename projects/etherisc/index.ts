@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DIP',
-  coingeckoId: 'etherisc',
+  coinGeckoID: 'etherisc',
   id: 'mtmthh',
   description:
     'Etherisc is a decentralized platform that leverages the Ethereum blockchain to offer a range of insurance applications, aiming to reduce costs, automate claims through smart contracts, and democratize access to insurance and reinsurance. It utilizes its native DIP tokens for governance, staking in risk pools, and incentivizing the development of open-source insurance products.',

@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'ZEPH',
-  coingeckoId: 'zephyr-protocol',
+  coinGeckoID: 'zephyr-protocol',
   id: '7d8n5l',
   description:
     'Zephyr Protocol is a cryptocurrency protocol aiming to combine and refine the best proven privacy and stablecoin protocols.',

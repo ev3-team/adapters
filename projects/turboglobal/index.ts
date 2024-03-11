@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'TGB',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uke8jp',
   description:
     'TurboGlobal is building a Web3 dVPN service platform that offers free connections to users, rewards miners and promotes advertisers.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'BP',
-  coingeckoId: 'beyond-protocol',
+  coinGeckoID: 'beyond-protocol',
   id: '3kk637',
   description:
     'Beyond Protocol is a blockchain for IoT, providing decentralized security layer and smart contracts.',

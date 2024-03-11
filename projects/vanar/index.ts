@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'VANRY',
-  coingeckoId: 'vanar-chain',
+  coinGeckoID: 'vanar-chain',
   id: '6ls7z4',
   description:
     'Vanar offers a carbon-neutral, high-speed & low-cost layer 1 blockchain designed for entertainment and mainstream purposes.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qvuc9n',
   description:
     'Beegol is a machine learning-based platform for monitoring and improving broadband and Wi-Fi customer experience.',

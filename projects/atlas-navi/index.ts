@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'NAVI',
-  coingeckoId: 'atlas-navi',
+  coinGeckoID: 'atlas-navi',
   id: 'dc50kw',
   description:
     'Atlas Navi: AI navigation app using smartphones to avoid traffic and earn MILE tokens.',

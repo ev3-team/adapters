@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8hzipe',
   description: 'Qubic Network is a smart contract platform for AI applications.',
   discord: '768887649540243497',

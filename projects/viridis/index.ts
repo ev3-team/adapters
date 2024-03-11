@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'VRD',
-  coingeckoId: 'viridis-network',
+  coinGeckoID: 'viridis-network',
   id: '5kd57s',
   description:
     'Viridis is building a novel protocol to deliver publicly auditable, on-chain and easily transactable carbon offsets for DeFi.',

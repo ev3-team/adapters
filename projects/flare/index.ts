@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'FLR',
-  coingeckoId: 'flare',
+  coinGeckoID: 'flare',
   id: '8u08fw',
   description:
     'Flare is the blockchain for data, providing developers with secure decentralized access to high-integrity data from other chains and the internet. ',

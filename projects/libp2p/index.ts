@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hsbb4a',
   description:
     'Libp2p is an open-source network stack that lets you build modern, fully distributed applications.',

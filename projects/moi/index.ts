@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0wfhe4',
   description: 'MOI Protocol and IOMe: user-owned decentralized identities.',
   discord: null,

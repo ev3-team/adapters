@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'NOT_DEPIN',
   token: 'UMMA',
-  coingeckoId: 'umma-token',
+  coinGeckoID: 'umma-token',
   id: '6rwsbm',
   description:
     'At Umma, we believe that the traditional debt-based financial system is perverse, unjust, and socially destructive.',

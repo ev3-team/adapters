@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'h56lyg',
   description: 'Bluebird Power: Decentralized energy management platform.',
   discord: null,

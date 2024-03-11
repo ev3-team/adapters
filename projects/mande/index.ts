@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'f3629t',
   description: 'Mande is a decentralized reputation & credibility network.',
   discord: '953348696098103366',

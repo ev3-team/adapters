@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dgqlyo',
   description:
     "Eclipse is Ethereum's fastest L2, powered by the Solana Virtual Machine. Eclipse makes it possible to build applications that can coordinate masses of people and scale with any developer‚Äôs needs.",

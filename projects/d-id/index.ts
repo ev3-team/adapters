@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4giuvo',
   description:
     'd.id is a global leader in decentralized identity (DID) systems. They offer a suite of DID-based solutions designed to enhance community growth and digital identity building.',

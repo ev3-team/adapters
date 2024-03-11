@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'LAKE',
-  coingeckoId: 'data-lake',
+  coinGeckoID: 'data-lake',
   id: 'tq5svh',
   description: 'Ethical data for healthier and longer lives.',
   discord: null,

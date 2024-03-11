@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AIEPK',
-  coingeckoId: 'epik-protocol',
+  coinGeckoID: 'epik-protocol',
   id: '0lasch',
   description:
     'EpiK Protocol: Using IPFS, DAO and token economy to build a large-scale knowledge graph.',

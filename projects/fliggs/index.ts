@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gkt0ei',
   description:
     'fliggs mobile leads the way in the all-digital MVNO revolution, employing Web3 technology to transform the telecom industry.',

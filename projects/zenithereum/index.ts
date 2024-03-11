@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yi3cpi',
   description:
     'Zenithereum: Decentralized AI for agent growth in crypto and real-world environments.',

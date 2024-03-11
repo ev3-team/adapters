@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'exm7xr',
   description:
     'SCINET is a decentralized life sciences research and investment platform that revolutionizes the way people do and support science.',

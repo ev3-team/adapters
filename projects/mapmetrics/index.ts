@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'MMAPS',
-  coingeckoId: 'mapmetrics',
+  coinGeckoID: 'mapmetrics',
   id: 'lp6ty8',
   description: 'Mapmetrics is a web3 navigation app that rewards users with tokens and NFTs.',
   discord: null,

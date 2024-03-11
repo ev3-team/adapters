@@ -48,7 +48,7 @@ export type AdapterProject = {
   blog: string | null
   category: AdapterProjectCategory
   chain: AdapterProjectChain | null
-  coingeckoId: string | null
+  coinGeckoID: string | null
   description: string | null
   discord: string | null
   duneQueries: AdapterProjectDuneQueryIdentifiers | null

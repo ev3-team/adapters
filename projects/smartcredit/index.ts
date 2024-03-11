@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'SMARTCREDIT',
-  coingeckoId: 'smartcredit-token',
+  coinGeckoID: 'smartcredit-token',
   id: 'eiq46d',
   description:
     'SmartCredit connects lenders and borrowers globally, offering decentralized peer-to-peer lending.',

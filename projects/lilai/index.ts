@@ -7,7 +7,7 @@ export default {
   chain: 'ARBITRUM',
   category: 'AI',
   token: 'LILAI',
-  coingeckoId: 'lilai',
+  coinGeckoID: 'lilai',
   id: '4orxub',
   description:
     'lilAI is an AI powered, smart automated community management solution built on Arbitrum.',

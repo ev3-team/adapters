@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AGRS',
-  coingeckoId: 'agoras-currency-of-tau',
+  coinGeckoID: 'agoras-currency-of-tau',
   id: 'ms4h4c',
   description: 'Tau is an AI software generation tool with AI safety features.',
   discord: '695210246557138965',

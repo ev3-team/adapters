@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'h6vfie',
   description: 'Orchai: AI-powered DeFi platform optimizing asset flow.',
   discord: '1001025635302522960',

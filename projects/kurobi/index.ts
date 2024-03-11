@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'SERVICES',
   token: 'KURO',
-  coingeckoId: 'kurobi',
+  coinGeckoID: 'kurobi',
   id: 'j0o171',
   description:
     'Kurobi is a blockchain-powered platform that offers borderless opportunities for experts, coaches, mentors, influencers to make money for their time.',

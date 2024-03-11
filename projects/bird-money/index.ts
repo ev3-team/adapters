@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BIRD',
-  coingeckoId: 'bird-money',
+  coinGeckoID: 'bird-money',
   id: '64mpyg',
   description:
     'Bird is a decentralized oracle providing blockchain developers with analytics products for web platforms.',

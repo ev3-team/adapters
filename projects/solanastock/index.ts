@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'kdsx3u',
   description: 'SolanaStock: Decentralized stock photo marketplace monetizes photos with AI.',
   discord: '428295358100013066',

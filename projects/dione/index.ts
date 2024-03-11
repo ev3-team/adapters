@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'DIONE',
-  coingeckoId: 'dione',
+  coinGeckoID: 'dione',
   id: 'ew04hq',
   description: 'Dione is a blockchain company developing renewable energy trading technology.',
   discord: null,

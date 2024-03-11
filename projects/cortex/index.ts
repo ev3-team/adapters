@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'CTXC',
-  coingeckoId: 'cortex',
+  coinGeckoID: 'cortex',
   id: 'r3d6ge',
   description:
     'Cortex is an open-source, peer-to-peer, decentralized blockchain platform that supports AI models to be uploaded and executed on the distributed network. Cortex provides an open-source AI platform to achieve AI democratization where models can be integrated easily in smart contracts and create AI-enable decentralized applications (DApps).',

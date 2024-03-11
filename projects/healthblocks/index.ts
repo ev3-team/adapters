@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qu45sj',
   description:
     'HealthBlocks is a decentralized health-oriented community that rewards users for a healthy lifestyle.',

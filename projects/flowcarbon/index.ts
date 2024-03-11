@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'GNT',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hyh5ix',
   description:
     'Flowcarbon is a blockchain-enabled carbon credit trading platform leveraging new technology and innovative financing structures to scale the voluntary carbon market (VCM).',

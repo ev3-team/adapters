@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'EDGE',
-  coingeckoId: 'edge',
+  coinGeckoID: 'edge',
   id: 'gsez5y',
   description:
     'Edge is the infrastructure of Web3. A peer-to-peer network and blockchain providing high performance decentralised web services, powered by the spare capacity all around us.',

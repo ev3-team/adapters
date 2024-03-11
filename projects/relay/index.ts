@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'b0vnal',
   description:
     'Relay is a provider of tools for DeWi deployers and WISPs, facilitating telecom network building and management.',

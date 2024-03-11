@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '24l8zf',
   description:
     'Lighthouse is a permanent file storage protocol allowing one-time payment for storing files forever.',

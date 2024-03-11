@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'MXC',
-  coingeckoId: 'mxc',
+  coinGeckoID: 'mxc',
   id: 'h1l8jh',
   description: 'MXC is a L3 zkEVM built on top of a decentralized network of LPWAN radio nodes.',
   discord: '445679878004801547',

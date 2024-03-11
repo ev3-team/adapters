@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'PASG',
-  coingeckoId: 'passage',
+  coinGeckoID: 'passage',
   id: 'aqaszb',
   description: 'Passage connects virtual and physical experiences through creator-built games.',
   discord: '932715756423086090',

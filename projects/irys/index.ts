@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tjyvc7',
   description:
     'Irys is a multi-chain solution for Arweave, enabling native support for Arweave storage on different blockchains.',

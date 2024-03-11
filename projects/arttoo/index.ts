@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xa5vpi',
   description:
     'Arttoo is a platform that allows for the fractionalized trading of physical artwork.',

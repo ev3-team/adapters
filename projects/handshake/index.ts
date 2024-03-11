@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'HNS',
-  coingeckoId: 'handshake',
+  coinGeckoID: 'handshake',
   id: 'm9gkfk',
   description:
     'Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone.',

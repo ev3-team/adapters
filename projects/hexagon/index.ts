@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vwstsz',
   description: 'Hexagon builds and operates decentralized wireless infrastructure.',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'FRY',
-  coingeckoId: 'fryscrypto',
+  coinGeckoID: 'fryscrypto',
   id: 'jgd2lw',
   description: 'Fry Foundation is a decentralized aggregator of decentralized networks.',
   discord: '1004603899598082069',

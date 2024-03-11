@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'APN',
-  coingeckoId: 'apron',
+  coinGeckoID: 'apron',
   id: 'bg8k10',
   description:
     'Apron is a decentralized infrastructure service network for DApp developers, users, and operators on blockchain.',

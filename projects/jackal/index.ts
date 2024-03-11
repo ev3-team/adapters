@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'JKL',
-  coingeckoId: 'jackal-protocol',
+  coinGeckoID: 'jackal-protocol',
   id: '127k4x',
   description:
     'Jackal is a decentralized cloud storage network designed to safeguard extremely sensitive data.',

@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'SHDW',
-  coingeckoId: 'genesysgo-shadow',
+  coinGeckoID: 'genesysgo-shadow',
   id: 'p01o2s',
   description: 'GenesysGo is a decentralized object storage platform for Web3 builders.',
   discord: '830127596355190804',

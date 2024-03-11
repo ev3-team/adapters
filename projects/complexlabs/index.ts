@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'axpwbs',
   description:
     'Complex Labs offers a modular software stack that enables integrations to your existing data into Web3.',

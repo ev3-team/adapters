@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0k8gq4',
   description:
     'Photon is a decentralized storage protocol for the metaverse, Web3, and cloud storage.',

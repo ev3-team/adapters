@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'p20viq',
   description:
     'EcoBytes is a Re-Fi Platform that rewards consumers for unused mobile data passively.',

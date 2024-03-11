@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oumqih',
   description: 'Phaver: decentralized social app rewarding users with tokens for sharing content.',
   discord: '930833706460004402',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6bppe0',
   description:
     'Neurosity is a developer of neural devices and applications that translate human brain thoughts into actionable output.',

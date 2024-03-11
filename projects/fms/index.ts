@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'NOT_DEPIN',
   token: 'FMS',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'o8amjp',
   description:
     'FMS(Freedom of Mind Solutions) is an open-source social and blogging platform that uses web3 technology to power its services. Users can create profiles and share content by posting articles, blogs, images, videos,s, etc., or join groups with similar interests.',

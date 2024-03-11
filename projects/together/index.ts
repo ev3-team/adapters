@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5wyckk',
   description: 'The fastest cloud platform for building and running generative AI.',
   discord: '1082503318624022589',

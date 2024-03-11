@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zk9cf4',
   description:
     'Sayver is a blockchain-based platform that enables users to immortalize anything on the blockchain.',

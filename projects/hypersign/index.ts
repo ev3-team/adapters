@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HID',
-  coingeckoId: 'hypersign-identity-token',
+  coinGeckoID: 'hypersign-identity-token',
   id: 'nir8er',
   description: 'Hypersign is a decentralized identity layer for the internet.',
   discord: '777575858075861033',

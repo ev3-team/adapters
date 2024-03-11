@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0seuc1',
   description:
     'Titan is a decentralized edge computing intelligent platform built on Filecoin and compatible with IPFS, aimed at providing decentralized shared edge computing services for Web 3.0.',

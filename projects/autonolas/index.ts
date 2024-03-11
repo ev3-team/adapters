@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OLAS',
-  coingeckoId: 'autonolas',
+  coinGeckoID: 'autonolas',
   id: '5wvni1',
   description: 'Autonolas is a decentralized network of autonomous AI agents.',
   discord: '899649805582737479',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'FLURRY',
-  coingeckoId: 'flurry',
+  coinGeckoID: 'flurry',
   id: '0l3hoz',
   description:
     'Flurry Finance is a protocol that runs on multiple blockchains and specializes in the DeFi market.',

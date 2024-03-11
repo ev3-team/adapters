@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'b4jy5r',
   description: 'Notus Labs is a decentralized blockchain platform for dapp development.',
   discord: null,

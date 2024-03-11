@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vnkyd5',
   description:
     'Algovera is a decentralized AI platform that allows individuals and teams to create, use and share personalized AI.',

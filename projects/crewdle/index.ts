@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zy7wfi',
   description: 'Crewdle: Secure, sustainable video conferencing on peer-to-peer network.',
   discord: '1201911048328978442',

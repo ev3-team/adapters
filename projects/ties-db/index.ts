@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4p06pz',
   description: 'Ties.DB: Secure decentralized database for projects.',
   discord: null,

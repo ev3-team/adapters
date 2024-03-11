@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'VARA',
-  coingeckoId: 'vara-network',
+  coinGeckoID: 'vara-network',
   id: '9314iq',
   description:
     'Vara Network is a Substrate-based, Proof-of-Stake, Layer-1 decentralized network powered by the Gear Protocol.',

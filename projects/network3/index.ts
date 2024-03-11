@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'a246lv',
   description: 'Network3 enhances network security and privacy through distributed nodes.',
   discord: '1073393648739307590',

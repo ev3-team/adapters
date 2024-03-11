@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jow0l5',
   description: 'Autonomy is a decentralized automation protocol designed for Web3 builders.',
   discord: '1012829124395532328',

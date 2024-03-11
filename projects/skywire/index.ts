@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uzm5fs',
   description:
     'Skycoin (SKY) is an open-source, community-owned, hardware-based peer-to-peer internet that leverages the incentive structure of the blockchain.',

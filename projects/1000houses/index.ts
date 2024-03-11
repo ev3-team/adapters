@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2ly60i',
   description:
     '1000Houses is a tokenizing platform for real estate rent, connecting investors and tenants in a streamlined marketplace.',

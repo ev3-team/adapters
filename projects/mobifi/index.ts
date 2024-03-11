@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'MOFI',
-  coingeckoId: 'mobifi',
+  coinGeckoID: 'mobifi',
   id: 'ars9qg',
   description: 'MobiFi rewards users for making smarter mobility decisions.',
   discord: '1141302849482006672',

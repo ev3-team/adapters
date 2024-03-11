@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '76qa11',
   description: 'Sphere is building a permissionless payment infrastructure for web3 on Solana. ',
   discord: null,

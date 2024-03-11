@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAINT',
-  coingeckoId: 'paint',
+  coinGeckoID: 'paint',
   id: 'kvmdaw',
   description:
     'MurAll: A blockchain platform for artists to create art using limited token called PAINT.',

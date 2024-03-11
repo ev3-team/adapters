@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4jwyqm',
   description:
     'D.AI.SY is a blockchain-based equity crowdfunding platform that funds AI trading projects by Endotech, offering participants equity and trading rewards.',

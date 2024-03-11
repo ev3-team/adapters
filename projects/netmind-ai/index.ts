@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'd2uaff',
   description: 'NetMind.AI enables deep learning model development for AI applications.',
   discord: '1050399764941906031',

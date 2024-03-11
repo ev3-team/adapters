@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'NXS',
-  coingeckoId: 'nexus',
+  coinGeckoID: 'nexus',
   id: 'u7fpuf',
   description:
     'Nexus is a scalable, quantum-resistant blockchain securing a decentralized internet & OS, with auto-key management & free transactions.',

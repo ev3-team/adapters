@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'GAL',
-  coingeckoId: 'galxe',
+  coinGeckoID: 'galxe',
   id: 'tlwvl7',
   description: 'Galxe develops a credential infrastructure that all Web3 developers can access.',
   discord: '824767871183355954',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'c9xfts',
   description:
     'Beluga is a trusted crypto platform that onboards and guides new users through their crypto journey.',

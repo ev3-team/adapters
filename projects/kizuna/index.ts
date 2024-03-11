@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'KIZUNA',
-  coingeckoId: 'kizuna',
+  coinGeckoID: 'kizuna',
   id: 'gvclfq',
   description:
     "Kizuna is the first token built from Decentralized AI, inspired by Ryoshi's principles of decentralized maximalism",

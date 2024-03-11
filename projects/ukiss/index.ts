@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'KISS',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4uhpxf',
   description: 'UKISS Technology is dedicated in building the next-gen digital security Ecosystem.',
   discord: '1143746313738010685',

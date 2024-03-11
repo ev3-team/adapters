@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qn9h4k',
   description:
     'Fonoster is a free platform for building voice applications and integrating them with your business app.',

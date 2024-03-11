@@ -7,7 +7,7 @@ export default {
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PI',
-  coingeckoId: 'pi-network-iou',
+  coinGeckoID: 'pi-network-iou',
   id: 'xpggzk',
   description: 'Pi is a decentralized environmental data collection network.',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'SC',
-  coingeckoId: 'siacoin',
+  coinGeckoID: 'siacoin',
   id: 'esjdj0',
   description:
     'Sia is a decentralized cloud storage network combining Proof of Work with a contract-based storage model.',

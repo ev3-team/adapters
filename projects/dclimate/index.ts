@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'a5w7th',
   description:
     'dClimate: Decentralized climate data network that standardizes and distributes climate data, forecasts, and models.',

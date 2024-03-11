@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6515yb',
   description:
     'Caldance is a Web 3.0 fitness ecosystem integrating Machinefi, Blockchain app, NFT, and Gamification.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dxk2mc',
   description: 'Wingbits is a decentralized flight tracking network.',
   discord: '1082294632689455154',

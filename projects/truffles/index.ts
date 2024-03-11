@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tcai80',
   description: 'The most comprehensive suite of tools for smart contract development',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'RNDR',
-  coingeckoId: 'render-token',
+  coinGeckoID: 'render-token',
   id: 'drs2bu',
   description: 'Render is a decentralized rendering platform for next-gen media production.',
   discord: '976195870825529354',

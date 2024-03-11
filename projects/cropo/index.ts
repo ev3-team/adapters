@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'khpbec',
   description: 'CroPo collects global data, offers value to participants.',
   discord: null,

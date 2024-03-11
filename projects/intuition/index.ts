@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'kx9y1a',
   description:
     'Operator of a decentralized identity company intended to help users to create attestations about any subject.',

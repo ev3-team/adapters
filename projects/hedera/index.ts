@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'HBAR',
-  coingeckoId: 'hedera',
+  coinGeckoID: 'hedera',
   id: 'zkb0bw',
   description:
     'Hedera is a decentralized, open-source, proof-of-stake public ledger that utilizes the leaderless, asynchronous Byzantine Fault Tolerance (aBFT) hashgraph consensus algorithm.',

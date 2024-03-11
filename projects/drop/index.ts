@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'WIRELESS',
   token: 'DWIN',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qnfsx5',
   description: 'Drop Wireless is a decentralized wireless network for IoT use cases.',
   discord: null,

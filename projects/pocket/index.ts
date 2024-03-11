@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'POKT',
-  coingeckoId: 'pocket-network',
+  coinGeckoID: 'pocket-network',
   id: 'wreq2k',
   description:
     'Pocket is a company that empowers developers with reliable and performant RPC access to the open internet.',

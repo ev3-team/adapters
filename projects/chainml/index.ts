@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ae73hb',
   description: 'ChainML is a decentralized compute network for AI and numerical applications.',
   discord: '1119245135620878388',

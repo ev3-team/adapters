@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l84cmm',
   description: 'TEMPO allows anyone to have their own electric vehicle.',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iaysmn',
   description:
     'Purebet is a cryptocurrency gambling platform that offers secure and transparent betting options for users worldwide.',

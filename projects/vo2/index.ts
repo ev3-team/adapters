@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6q3z9k',
   description: 'VO2 is a platform for fans to become stakeholders in their favourite athletes.',
   discord: null,

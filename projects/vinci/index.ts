@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pd96s1',
   description:
     'Vinci World provides AI models for blockchain games, enhancing gaming experiences with cutting-edge technology.',

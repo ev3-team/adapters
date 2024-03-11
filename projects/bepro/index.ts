@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SERVICES',
   token: 'BEPRO',
-  coingeckoId: 'bepro-network',
+  coinGeckoID: 'bepro-network',
   id: 'qkto8r',
   description:
     'Bepro is a task-based marketplace created to help organizations and builders. Organizations can easily create and launch tasks, while builders have the opportunity to work on them and earn crypto as payment.',

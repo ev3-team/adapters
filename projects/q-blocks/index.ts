@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j988an',
   description: 'Developer of a decentralised GPU computing platform.',
   discord: null,

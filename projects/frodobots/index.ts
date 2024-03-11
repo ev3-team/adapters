@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zsejow',
   description: 'Frodobots is an open real-world racing game with sidewalk robots.',
   discord: '943055769157402624',

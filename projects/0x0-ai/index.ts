@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: '0X0',
-  coingeckoId: '0x0-ai-ai-smart-contract',
+  coinGeckoID: '0x0-ai-ai-smart-contract',
   id: 'vqpvwd',
   description: '0x0.ai - AI for secure smart contract development',
   discord: '1105051738806951976',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3uhgt0',
   description:
     'Colosseum is a fully on-chain fighting game company that facilitates bot battles and viewer betting.',

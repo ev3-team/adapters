@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xyyiaq',
   description:
     'Drawtech is a crypto-economic drawing game built in MUD as a Progressive Web App (PWA).',

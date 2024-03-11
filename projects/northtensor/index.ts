@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7xmv35',
   description:
     'Our mission is to catalyze the decentralized AI movement by strategically investing in and developing on the most promising projects in the space.',

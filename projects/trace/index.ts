@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'TRACE',
-  coingeckoId: 'trace-network-labs',
+  coinGeckoID: 'trace-network-labs',
   id: 'bjvhmg',
   description:
     'Trace is a decentralized protocol enabling luxury lifestyle for multichain metaverses with NFTs & digital fashion.',

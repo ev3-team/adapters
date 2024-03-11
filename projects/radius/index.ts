@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'kttpsl',
   description:
     'Radius is a decentralized network that connects independent workers and teams to the best projects in web3.',

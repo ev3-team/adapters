@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'RAIL',
-  coingeckoId: 'railgun',
+  coinGeckoID: 'railgun',
   id: '9g0voz',
   description:
     "RAILGUN is a privacy protocol built on Ethereum, BSC, Polygon, and Arbitrum that uses Zero-Knowledge cryptography to enable private transactions and DeFi interactions without leaving the user's chosen blockchain. ",

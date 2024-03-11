@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '129mdn',
   description:
     'Mogul is a blockchain-based platform enabling direct investment in cash-flowing properties for as little as $100.',

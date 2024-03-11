@@ -7,7 +7,7 @@ export default {
   chain: 'BITTENSOR',
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9psqih',
   description:
     'The First AI Studio built on top of the #bittensor network that will onboard 10 million users.',

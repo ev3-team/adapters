@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qcgu9q',
   description: "Europe's premier cloud storage.",
   discord: null,

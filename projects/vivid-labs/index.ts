@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'VID',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pmtbrw',
   description:
     'Vivid Labs powers the engine for the creator economy newly fueled by powerful AI production tools. Its VIVID platform enables creators, brands, developers, and content platforms to distribute and monetize media experiences directly to their communities through genuine digital ownership enabled by Web3 technologies. The VIVID platform is accessible via turnkey Shopify storefronts, iOS and Android apps, and custom deployments.',

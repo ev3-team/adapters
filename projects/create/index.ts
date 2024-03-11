@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'otw9vc',
   description: 'Creator-owned dApp protocol revolutionizing IP creation in the Metaverse space.',
   discord: null,

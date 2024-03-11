@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ue1aq8',
   description: 'World vision network powered by the people',
   discord: '945776985240637440',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: 'AGVZ',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zd2zu6',
   description:
     'Agave Zwolf is the provider of a token that is backed up by a plant of blue agave which is used to produce Tequila. When a new plant is planted by AgaveZwolf, a new Token is issued.',

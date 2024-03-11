@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'CTC',
-  coingeckoId: 'creditcoin',
+  coinGeckoID: 'creditcoin',
   id: 'whwhkd',
   description:
     'The Creditcoin Network is a real-world asset (RWA) public infrastructure blockchain built to connect borrowers, lenders, and investors. Fintech and microfinance providers get greater access to capital, while borrowers can secure their credit history.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tficxt',
   description: 'VPN3 is a provider of a decentralized VPN protocol',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'y47135',
   description:
     'A startup offering a new method for human-verified data processing at scale. Rapidata solves a fundamental problem faced by the modern AI industry.',

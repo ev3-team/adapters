@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pks4ee',
   description:
     'Making wealth accessible to anyone, anywhere. An open platform for synthetic stocks, commodities, and crypto.',

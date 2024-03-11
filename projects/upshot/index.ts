@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2ne1u8',
   description:
     'Upshot is a decentralized AI platform enabling efficient financial markets for anything.',

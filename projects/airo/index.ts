@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8q0l7y',
   description: 'AIRO is a decentralized air quality monitoring network.',
   discord: '1089157531001167958',

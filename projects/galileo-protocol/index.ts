@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'LEOX',
-  coingeckoId: 'leox',
+  coinGeckoID: 'leox',
   id: 'b5sx93',
   description:
     'The Galileo Protocol is a cutting-edge tokenisation platform that aims to revolutionise the authentication and ownership of luxury goods and real-world assets.',

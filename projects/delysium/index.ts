@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'AGI',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qhxql8',
   description: 'Blockchain for AI, AI for Humanity',
   discord: '917041957522538557',

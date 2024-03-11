@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j8knk9',
   description: 'Greensparc: Sustainable computing and ESG analytics.',
   discord: null,

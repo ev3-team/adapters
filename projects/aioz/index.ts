@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'AIOZ',
-  coingeckoId: 'aioz-network',
+  coinGeckoID: 'aioz-network',
   id: 'tpqdbi',
   description: 'AIOZ is a decentralized content delivery network.',
   discord: null,

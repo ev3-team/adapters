@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pz0ffy',
   description:
     'Tepax AI is a travel assistant company that utilizes artificial intelligence to enhance travel experiences.',

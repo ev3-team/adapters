@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'kd70oi',
   description:
     'DWeb connects the people, projects and protocols essential to building a decentralized web.',

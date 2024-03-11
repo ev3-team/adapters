@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bpnvkv',
   description:
     'Spheron Protocol: decentralized platform for web app deployment with storage, hosting, and compute capabilities.',

@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'AI',
   token: 'AIMX',
-  coingeckoId: 'aimedis-new',
+  coinGeckoID: 'aimedis-new',
   id: 'p864om',
   description: 'Aimedis: Blockchain-based eHealth with medical apps and NFT marketplace.',
   discord: '1176263289701945396',

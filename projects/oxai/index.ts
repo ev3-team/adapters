@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OXAI',
-  coingeckoId: 'oxai-com',
+  coinGeckoID: 'oxai-com',
   id: 'x3l1h6',
   description: 'OxAI: Decentralized AI & blockchain for accessible secure computation.',
   discord: '1067787661076594698',

@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'SCOIN',
-  coingeckoId: 'sdrive-app',
+  coinGeckoID: 'sdrive-app',
   id: 'hvlpd4',
   description:
     'SDrive is a decentralized storage solution offering secure, immutable file storage with user-friendly access and strong privacy features on the Solana blockchain, complemented by robust developer tools including CLI, SDKs, and APIs.',

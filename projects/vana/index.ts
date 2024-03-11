@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zt2nzn',
   description:
     'Create a mini “you” that lives in your pocket. Discover a new way to connect and experience the world. ',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CYBER',
-  coingeckoId: 'cyberconnect',
+  coinGeckoID: 'cyberconnect',
   id: 'ybxj8q',
   description:
     'CyberConnect is a Web3 social network that enables developers to create social applications empowering users to own their digital identity, content, connections, and interactions.',

@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'goiapt',
   description: 'Pollen Mobile sells hand-made rugs.',
   discord: null,

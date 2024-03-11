@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'CAI',
-  coingeckoId: 'cryptoai',
+  coinGeckoID: 'cryptoai',
   id: 'sx32rg',
   description:
     'CryptoAI is an AI accessibility token with buy bots, transaction tracking, and lottery automation.',

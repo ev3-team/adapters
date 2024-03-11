@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4z5caf',
   description:
     'FX Land is a decentralized storage network utilizing IPFS, providing secure and encrypted file storage.',

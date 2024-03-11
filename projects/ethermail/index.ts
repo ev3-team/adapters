@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'EMT',
-  coingeckoId: 'ethermail',
+  coinGeckoID: 'ethermail',
   id: 'hoaz0e',
   description: 'EtherMail: secure, anonymous email with blockchain rewards.',
   discord: null,

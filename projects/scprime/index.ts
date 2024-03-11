@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'D2X',
-  coingeckoId: 'd2',
+  coinGeckoID: 'd2',
   id: 'ui2nbm',
   description: 'ScPrime is a decentralized network of enterprise-grade cloud storage providers.',
   discord: '500467593375645706',

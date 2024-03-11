@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5ts91p',
   description:
     'Blinq offers affordable, high-performance 5G ready wireless solutions company for fixed and mobile services.',

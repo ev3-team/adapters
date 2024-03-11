@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'NIT',
-  coingeckoId: 'nesten',
+  coinGeckoID: 'nesten',
   id: 'gazzlx',
   description:
     'Nesten - telecom company revolutionizing industry with community-driven network ops & blockchain.',

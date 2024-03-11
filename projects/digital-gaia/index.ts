@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hq0zgu',
   description:
     'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',

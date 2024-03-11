@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ORAI',
-  coingeckoId: 'oraichain-token',
+  coinGeckoID: 'oraichain-token',
   id: 'qzneji',
   description:
     'Oraichain: AI oracle and ecosystem aiming to be the first AI Layer 1 in the Blockchain sphere.',

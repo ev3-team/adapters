@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'DATA',
-  coingeckoId: 'streamr',
+  coinGeckoID: 'streamr',
   id: 'o1pv7k',
   description:
     'Streamr is a decentralised protocol providing data pipelines, network analytics, and instant messaging.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ARKM',
-  coingeckoId: 'arkham',
+  coinGeckoID: 'arkham',
   id: 'zgyen3',
   description:
     'Arkham is a cutting-edge crypto intelligence platform that specializes in the analysis and deanonymization of blockchain transactions, providing users with detailed insights into the real-world entities behind blockchain activities.',

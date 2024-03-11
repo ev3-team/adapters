@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7z84do',
   description:
     'Koda Koda creates decentralized AI robotic dogs with data stored on IPFS/Filecoin Network.',

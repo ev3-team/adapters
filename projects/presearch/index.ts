@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PRE',
-  coingeckoId: 'presearch',
+  coinGeckoID: 'presearch',
   id: '7mrkii',
   description: 'Presearch is a decentralized search engine.',
   discord: '961810036420665364',

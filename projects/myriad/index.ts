@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'XMY',
-  coingeckoId: 'myriadcoin',
+  coinGeckoID: 'myriadcoin',
   id: 'lass0u',
   description:
     'Myriad Social is a decentralized, censorship-resistant social network that enables users to host their own social network without centralized control.',

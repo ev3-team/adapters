@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ROYA',
-  coingeckoId: 'royale',
+  coinGeckoID: 'royale',
   id: 'csbwex',
   description:
     'Provider of cross-chain decentralized finance services intended to serve the iGaming industry.',

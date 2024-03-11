@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uuubzi',
   description:
     'Open Campus utilizes a new protocol allowing communities to create, own, and promote content they want to see in the world and enables educators to earn revenue and gain recognition for their contributions.',

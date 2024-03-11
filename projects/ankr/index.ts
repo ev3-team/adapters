@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'ANKR',
-  coingeckoId: 'ankr',
+  coinGeckoID: 'ankr',
   id: 'hqtk8u',
   description:
     'Ankr is a blockchain node infrastructure network enhancing multi-chain tools for Web3, DeFi, and the crypto economy.',

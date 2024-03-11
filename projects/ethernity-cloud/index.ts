@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'ETNY',
-  coingeckoId: 'ethernity-cloud',
+  coinGeckoID: 'ethernity-cloud',
   id: 'iyi6t5',
   description:
     "Ethernity Cloud is a decentralized confidential computing ecosystem that enforces privacy for the user's data and transparency for the operations that process this data.",

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'kj3v3r',
   description: 'Helius is the ultimate developer platform for building on Solana.',
   discord: '992616840251584633',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'PUSH',
-  coingeckoId: 'ethereum-push-notification-service',
+  coinGeckoID: 'ethereum-push-notification-service',
   id: 'nhurl1',
   description: 'Push Protocol: web3 cross-chain network for dapps, wallets, and services.',
   discord: '717089384838594695',

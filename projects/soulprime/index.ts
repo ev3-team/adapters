@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PRT',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sfo58s',
   description:
     'SoulPrime is a new web3 social network that rewards content creators and users on a platform that uses blockchain technology. SoulPrime aims to address the existing challenges of centralized social networks by leveraging blockchain technology, solving the issues of data privacy, offering data security, and providing fair compensation to its users and their time.',

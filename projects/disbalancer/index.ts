@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'DDOS',
-  coingeckoId: 'disbalancer',
+  coinGeckoID: 'disbalancer',
   id: '1hoj55',
   description:
     'disBalancer operates as a decentralized infrastructure load balancer with a built-in site where users can rent out excess bandwidth and storage and purchase content delivery and DDoS protection services.',

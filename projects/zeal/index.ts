@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l2t357',
   description: 'DeFi Wallet with Free Bank Transfers',
   discord: '961390365708009524',

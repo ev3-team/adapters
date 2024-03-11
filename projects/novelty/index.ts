@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'epv76j',
   description:
     'Novelty Today is a company that utilizes blockchain technology to create customizable and decentralized identities, providing individuals with a verifiable record of their skills & achievements.',

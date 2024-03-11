@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gzq0lf',
   description:
     'Foster Studio is a platform for creating and selling artist merchandise in the form of Phygital NFTs.',

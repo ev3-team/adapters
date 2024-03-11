@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'aexn5y',
   description:
     'Rymedi is a blockchain-enabled platform empowering health workers and patients to improve the quality of care.',

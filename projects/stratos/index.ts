@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'STOS',
-  coingeckoId: 'stratos',
+  coinGeckoID: 'stratos',
   id: '4jq13p',
   description:
     'The first decentralized data architecture that provides scalable, reliable, self-balanced storage, database and computation network and offers a solid foundation for data processing.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'mcgnta',
   description: 'The Intent-Centric Modular Access Layer of Web3',
   discord: '973055032368967711',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'POLK',
-  coingeckoId: 'polkamarkets',
+  coinGeckoID: 'polkamarkets',
   id: 'qybaeu',
   description: 'Polkamarket is an Autonomous Prediction Market Protocol.',
   discord: '829288369943085066',

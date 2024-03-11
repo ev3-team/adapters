@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5tihi8',
   description:
     'Charge is a DAO-Governed Decentralized Application for Electric Vehicle Charging. Charge enables individuals and organizations to register charging stations and EVs on a permissionless platform using Self-Sovereign Machine Identities (SSMIs), and equip them with a payment method.',

@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'CLORE',
-  coingeckoId: 'clore-ai',
+  coinGeckoID: 'clore-ai',
   id: 'jbmvkm',
   description:
     'CLORE.AI is distributed AI training, cloud rendering platform connecting server owners with renters.',

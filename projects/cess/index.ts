@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qdkzic',
   description:
     'CESS is a decentralized cloud storage network supporting enterprise-level applications.',

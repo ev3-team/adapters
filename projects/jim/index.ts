@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'JIM',
-  coingeckoId: 'roasthimjim',
+  coinGeckoID: 'roasthimjim',
   id: 'b9tawl',
   description: 'Jim is an AI Bot that responds intelligently on social platforms.',
   discord: null,

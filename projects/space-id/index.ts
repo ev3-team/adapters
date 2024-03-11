@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ID',
-  coingeckoId: 'space-id',
+  coinGeckoID: 'space-id',
   id: 'vb3z9t',
   description:
     'Space ID (SID) is a decentralized universal name service network that runs on top of blockchains (Ethereum, BSC, and Arbitrum).',

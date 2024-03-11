@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iqd05g',
   description:
     "Albedo's low-flying satellites capture visible and thermal imagery at the highest resolution commercially available.",

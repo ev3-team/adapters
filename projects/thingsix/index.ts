@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '488l20',
   description:
     'ThingsIX is a decentralized global Internet of Things network, built to reward gateway operators for providing reliable coverage and for delivering reliable data to end users.',

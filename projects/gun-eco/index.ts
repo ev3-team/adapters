@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'fk3mfi',
   description: 'Gun.Eco is a decentralized distributed graph database engine for developers.',
   discord: null,

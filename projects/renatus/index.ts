@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '83jvhp',
   description: 'Renatus is the first logistics system completing orders at one station.',
   discord: null,

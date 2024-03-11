@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'TAO',
-  coingeckoId: 'bittensor',
+  coinGeckoID: 'bittensor',
   id: 'hq4rl7',
   description: 'Bittensor is a peer-to-peer machine intelligence network.',
   discord: '799672011265015819',

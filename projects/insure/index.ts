@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SURE',
-  coingeckoId: 'insure',
+  coinGeckoID: 'insure',
   id: 'l4srh8',
   description:
     'inSure: Community-based crypto insurance, distributed ownership risks, dynamic pricing model.',

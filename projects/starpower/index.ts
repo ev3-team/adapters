@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3gatyy',
   description:
     'Starpower is an infrastructure company connecting distributed energy resources to decarbonize the energy sector.',

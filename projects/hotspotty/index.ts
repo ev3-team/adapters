@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8hmhev',
   description: 'Hotspotty is a tool for ordering and managing helium hotspots.',
   discord: '874255050929745930',

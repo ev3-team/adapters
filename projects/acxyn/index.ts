@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ktxx7q',
   description:
     'Acxyn: empowering Web3 games with economic potential and ownership of revenue streams.',

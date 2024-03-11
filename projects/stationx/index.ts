@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'osv0he',
   description: 'StationX is a protocol for swiftly creating and overseeing DAOs in under a minute.',
   discord: '945568396911738982',

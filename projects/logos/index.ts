@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dojvzb',
   description:
     'Logos provides trust-minimized, corruption-resistant governing services and institutions for citizens.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vh0qps',
   description: 'LM Studio allows users to run local/open LLMs on their computers.',
   discord: '1110598183144399058',

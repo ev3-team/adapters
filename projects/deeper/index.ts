@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'DPR',
-  coingeckoId: 'deeper-network',
+  coinGeckoID: 'deeper-network',
   id: '3s1vpm',
   description: 'Deeper is a decentralized VPN and privacy network.',
   discord: '858020148158005259',

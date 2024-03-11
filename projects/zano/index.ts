@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'ZANO',
-  coingeckoId: 'zano',
+  coinGeckoID: 'zano',
   id: 'jog9r3',
   description:
     'Zano is an enterprise-grade privacy platform, scalable and private, built for privacy-protected tokens and decentralized applications.',

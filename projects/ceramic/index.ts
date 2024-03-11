@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ancy5d',
   description: 'Ceramic is a decentralized data network.',
   discord: '682786569857662976',

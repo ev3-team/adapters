@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'NAKA',
-  coingeckoId: 'nakamoto-games',
+  coinGeckoID: 'nakamoto-games',
   id: 'wdi885',
   description:
     'NakamotoGames is a play-to-earn gaming platform/ecosystem offering multiple fun and addictive crypto games. They aim to attract both gamers and game developers. Developers will also have the tools to launch and monetize their gaming creations. ',

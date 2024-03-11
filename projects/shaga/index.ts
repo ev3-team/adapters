@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 't5y2jk',
   description:
     'Shaga offers a unique gaming ecosystem that empowers gamers to lend access to their gaming PCs and monetize their hardware.',

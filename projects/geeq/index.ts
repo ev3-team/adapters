@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5gczqo',
   description: 'Geeq is a multi-blockchain platform secured by Proof of Honesty protocol.',
   discord: null,

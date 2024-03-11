@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'admvie',
   description: 'Sonr is an L1 blockchain for self-custody decentralized identity.',
   discord: '843061375160156170',

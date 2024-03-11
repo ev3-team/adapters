@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9zzvik',
   description:
     'Echo is a decentralized social engagement protocol using Arweave, embedding on-chain comments/likes onto any website.',

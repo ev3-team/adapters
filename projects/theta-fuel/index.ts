@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'TFUEL',
-  coingeckoId: 'theta-fuel',
+  coinGeckoID: 'theta-fuel',
   id: 'bsun3b',
   description: 'Theta Fuel is a decentralized video delivery network.',
   discord: '808417775978676265',

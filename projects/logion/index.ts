@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'LGNT',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'p1vtxx',
   description:
     'Logion is a pioneering blockchain platform that transforms tokens into legal-grade digital assets.',

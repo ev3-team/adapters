@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'DKA',
-  coingeckoId: 'dkargo',
+  coinGeckoID: 'dkargo',
   id: 'zt0tgx',
   description: 'dKargo is a Decentralized and Cooperative Protocol for Next Generation Logistics. ',
   discord: null,

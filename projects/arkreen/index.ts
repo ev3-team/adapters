@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wyn0zn',
   description:
     'Arkreen is a Web3-powered digital infrastructure for global distributed renewable energy resources.',

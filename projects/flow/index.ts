@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'FLOW',
-  coingeckoId: 'flow',
+  coinGeckoID: 'flow',
   id: 'g4borf',
   description:
     'Flow is a permissionless layer 1 blockchain, empowering developers to create limitless Web3 apps for mainstream adoption',

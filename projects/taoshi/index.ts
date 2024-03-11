@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8p6wp2',
   description:
     'Taoshi harnesses the full potential of Bittensor to create dynamic and rewarding subnetworks that incentivize intelligence, revolutionizing how individuals and businesses interact with Bittensor.',

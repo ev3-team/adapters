@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gtzdge',
   description:
     'On-chain people and communities deserve on-chain tools for private communication and collaboration.',

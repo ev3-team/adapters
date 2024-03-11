@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'BST',
-  coingeckoId: 'blocksquare',
+  coinGeckoID: 'blocksquare',
   id: 'bjl484',
   description:
     'Blocksquare is a developer of the world‚Äôs leading blockchain-based real estate tokenization system.',

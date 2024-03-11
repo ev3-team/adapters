@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gbaodd',
   description: 'Nina is a self-publishing protocol for musicians.',
   discord: '829052641408450571',

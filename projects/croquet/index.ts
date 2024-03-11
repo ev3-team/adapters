@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pl7b4k',
   description:
     'Croquet is a serverless multiplayer game development platform that simplifies building games for developers.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wnnyld',
   description:
     'PPIO is a distributed cloud computing company that provides decentralized distributed cloud services.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'i8a066',
   description: 'Imbue trains foundation models to create practically useful AI agents.',
   discord: null,

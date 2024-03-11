@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'REL',
-  coingeckoId: 'relation-native-token',
+  coinGeckoID: 'relation-native-token',
   id: 't8wbyf',
   description:
     'Relation Protocol is a decentralized social graph protocol for encoding relations in Web3.',

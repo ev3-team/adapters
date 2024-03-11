@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DUSK',
-  coingeckoId: 'dusk',
+  coinGeckoID: 'dusk',
   id: 'hg74ov',
   description:
     'Dusk is a permissionless, ZK-friendly L1 blockchain protocol focused on Compliance and Privacy to tokenize RWA.',

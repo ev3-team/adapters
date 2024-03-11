@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CIRUS',
-  coingeckoId: 'cirus',
+  coinGeckoID: 'cirus',
   id: 'he3mau',
   description: 'CIRUS: Control data, monetize through blockchain.',
   discord: null,

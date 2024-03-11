@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gw14hr',
   description:
     'DockHive is a cutting-edge platform leveraging blockchain and decentralized networks for secure and scalable Docker container management.',

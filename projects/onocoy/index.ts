@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n77nem',
   description:
     'Onocoy is a decentralized GNSS reference station network enabling high-precision geopositioning.',

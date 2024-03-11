@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'CELR',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2bxhb8',
   description:
     'Celer Network is an interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions, and more across multiple chains.',

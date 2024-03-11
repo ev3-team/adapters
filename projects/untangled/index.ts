@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xexd0a',
   description:
     'Untangled.Finance bridges traditional and DeFi, bringing institutional-grade, real-world assets on chain.',

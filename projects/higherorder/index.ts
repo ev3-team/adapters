@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'mue6ls',
   description:
     'A tech startup with the goal of building the inevitable massively parallel future of computers.',

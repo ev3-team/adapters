@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'OCTA',
-  coingeckoId: 'octaspace',
+  coinGeckoID: 'octaspace',
   id: 'eppbxs',
   description: 'OctaSpace is a decentralized cloud computing network.',
   discord: '973249548245925958',

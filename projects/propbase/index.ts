@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'PROPS',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '687b4m',
   description:
     'Propbase is a highly-scalable, fast, and secure blockchain-based platform for property tokenization and transaction.',

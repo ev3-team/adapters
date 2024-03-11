@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'trnymt',
   description: 'Wysdom is a collaboration platform for web3 development and publishing.',
   discord: null,

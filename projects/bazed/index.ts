@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'maga37',
   description: 'Bazed is a PvP gaming platform using web3 technology.',
   discord: null,

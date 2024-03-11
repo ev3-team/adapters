@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uvtnws',
   description:
     'Anryze is a decentralized data processing network where complex tasks can be distributed and run simultaneously.',
