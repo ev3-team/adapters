@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'VPN',
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: null,
   coingeckoId: null,
   id: 'tficxt',

@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'SENSORS',
   token: 'GMT',
   coingeckoId: 'stepn',
   id: '9ptjw7',

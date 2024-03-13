@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Ridesharing',
   chain: 'POLYGON',
-  category: 'SERVICES',
+  category: 'SENSORS',
   token: 'DTE',
   coingeckoId: 'drive-to-earn',
   id: 'bj8kjt',

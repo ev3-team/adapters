@@ -9,7 +9,8 @@ export default {
   token: null,
   coingeckoId: null,
   id: 'ue1aq8',
-  description: 'World vision network powered by the people',
+  description:
+    'World vision network powered by the people. Elumicate ceased operations in March 2024',
   discord: '945776985240637440',
   investors: [],
   linkedin: null,

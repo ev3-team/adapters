@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'VPN',
   chain: 'SOLANA',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'BOP',
   coingeckoId: 'boring-protocol',
   id: 'whkmqt',
