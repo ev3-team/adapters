@@ -11,7 +11,7 @@ export default {
   id: 'xexd0a',
   description:
     'Untangled.Finance bridges traditional and DeFi, bringing institutional-grade, real-world assets on chain.',
-  discord: 'https://discord.com/invite/neucRJEWHe',
+  discord: '863752120053006366',
   investors: ['5sjxy4', 'njueo3'],
   linkedin: 'https://github.com/untangledfinance',
   duneQueries: null,

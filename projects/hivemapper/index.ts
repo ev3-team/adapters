@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'hivemapper',
   id: 'o1qnxa',
   description: 'Hivemapper is a decentralized network for street-level imaging and mapping.',
-  discord: 'https://discord.com/invite/FRWMKyy5v2',
+  discord: '715439007764316191',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/hivemapper/',
   duneQueries: null,

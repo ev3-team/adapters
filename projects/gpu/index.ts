@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'jf4ml9',
   description: 'GPU is a decentralized GPU network for AI training.',
-  discord: 'https://discord.com/invite/Z3PkvsBUzD',
+  discord: '1083646475608784906',
   investors: ['bah2fw'],
   linkedin: null,
   duneQueries: null,

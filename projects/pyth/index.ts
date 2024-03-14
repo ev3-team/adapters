@@ -11,7 +11,7 @@ export default {
   id: '5fwmoi',
   description:
     'Pyth Network is an innovative decentralized oracle that sources financial market data from over 90 first-party publishers, including major exchanges and market-making firms worldwide (e.g., CBOE, Binance, OKX, Bybit, etc.), and distributes the data across 40+ blockchains',
-  discord: 'https://discord.com/invite/PythNetwork',
+  discord: '826115122799837205',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/pyth-network',
   duneQueries: null,

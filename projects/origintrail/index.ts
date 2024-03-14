@@ -11,7 +11,7 @@ export default {
   id: 'v9wsjb',
   description:
     'OriginTrail is a decentralized knowledge graph enabling trustless knowledge sharing for everyone.',
-  discord: 'https://discord.com/invite/cCRPzzmnNT',
+  discord: '460837319025623050',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/origintrail',
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '6kjw4f',
   description: 'User consent & data integrity guaranteed cryptographically.',
-  discord: 'https://discord.com/invite/Y9sC929gNS',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

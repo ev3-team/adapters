@@ -11,7 +11,7 @@ export default {
   id: 'gsez5y',
   description:
     'Edge is the infrastructure of Web3. A peer-to-peer network and blockchain providing high performance decentralised web services, powered by the spare capacity all around us.',
-  discord: 'https://discord.com/invite/edge-network',
+  discord: '371989135172567051',
   investors: [],
   linkedin: null,
   duneQueries: null,

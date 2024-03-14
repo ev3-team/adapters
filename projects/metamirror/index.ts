@@ -11,7 +11,7 @@ export default {
   id: 'trtwoi',
   description:
     'MetaMirror is specializing in Decentralized Identity (DID), focused on empowering individuals with control over their personal data.',
-  discord: 'https://discord.com/invite/7k78TCxpym',
+  discord: '885347675510288444',
   investors: ['8dhvoo'],
   linkedin: 'https://www.linkedin.com/company/metamirror/about/',
   duneQueries: null,

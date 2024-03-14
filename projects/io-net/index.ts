@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '61zuw7',
   description: 'IO.Net is a decentralized computing platform for ML applications built on Solana.',
-  discord: 'https://discord.gg/kqFzFK7fg2',
+  discord: '1080817368646819941',
   investors: ['2g0699'],
   linkedin: 'https://linkedin.com/company/antbitio',
   duneQueries: null,

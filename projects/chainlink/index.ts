@@ -11,7 +11,7 @@ export default {
   id: 'y9e0mz',
   description:
     'Chainlink enables connected smart contracts through a decentralized oracle network.',
-  discord: 'https://discord.com/invite/chainlink',
+  discord: '592041321326182401',
   investors: [],
   linkedin: null,
   duneQueries: {

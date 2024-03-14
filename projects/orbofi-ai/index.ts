@@ -11,7 +11,7 @@ export default {
   id: '1sydts',
   description:
     'Orbofi is the ultimate AI-generated content engine for web3, games, and every online community.',
-  discord: 'https://discord.com/invite/orbofi',
+  discord: '935221939797127309',
   investors: ['bxcu1r', '6hezki', 'b57s8m', 'pxs0xw', 'e0wtte'],
   linkedin: 'https://www.linkedin.com/company/orbofi/',
   duneQueries: null,

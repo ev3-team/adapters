@@ -11,7 +11,7 @@ export default {
   id: 'y01ooy',
   description:
     'Data Union incentivizes crowdsourcing for data, enabling x-to-earn models for data unions.',
-  discord: 'https://discord.com/invite/AY7kDBEtkr',
+  discord: '853941437602070549',
   investors: [],
   linkedin: 'https://sg.linkedin.com/company/dataunion-app',
   duneQueries: null,

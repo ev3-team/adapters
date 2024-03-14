@@ -11,7 +11,7 @@ export default {
   id: 'yg5k1j',
   description:
     'A decentralized protocol incentivizing weather and climate data collection and predictions through cyrptoeconomics',
-  discord: 'https://discord.com/invite/wihi',
+  discord: '1051081018150498404',
   investors: [],
   linkedin: null,
   duneQueries: null,

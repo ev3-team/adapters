@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '8hzipe',
   description: 'Qubic Network is a smart contract platform for AI applications.',
-  discord: 'https://discord.com/invite/2vDMR8m',
+  discord: '768887649540243497',
   investors: [],
   linkedin: null,
   duneQueries: null,

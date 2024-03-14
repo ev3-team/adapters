@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'lj3v06',
   description: 'GPUtopia is a marketplace for decentralized GPU compute and related AI services.',
-  discord: 'https://discord.com/invite/f6nP3CQhZt',
+  discord: '1157469556768514068',
   investors: [],
   linkedin: null,
   duneQueries: null,

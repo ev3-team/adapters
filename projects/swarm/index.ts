@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'swarm-bzz',
   id: '8s783v',
   description: 'Swarm is a decentralised data storage and distribution technology.',
-  discord: 'https://discord.com/invite/hyCr9BMX9U',
+  discord: '799027393297514537',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ethereum-swarm',
   duneQueries: null,

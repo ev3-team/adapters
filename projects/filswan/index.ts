@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'v3ycrj',
   description: 'FilSwan: web3 infrastructure for dApp development.',
-  discord: null,
+  discord: '867879887871672331',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/swancloud',
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'blackhat-coin',
   id: '3jgdnl',
   description: 'Blackhat cyber game: Players as DeFi protocos v AI hackerChatGPT.',
-  discord: null,
+  discord: '822505689385533440',
   investors: [],
   linkedin: 'https://www.linkedin.com/groups/37658/',
   duneQueries: null,

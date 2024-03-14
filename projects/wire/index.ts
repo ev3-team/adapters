@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'yih1xv',
   description: 'Wire: blockchain with APOS consensus for user growth.',
-  discord: 'https://discord.com/invite/AbGDQv9qVZ',
+  discord: '378315541083062282',
   investors: ['buime9'],
   linkedin: 'https://www.linkedin.com/company/wire-secure-communication/',
   duneQueries: null,

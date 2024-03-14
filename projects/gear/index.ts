@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'c8xut6',
   description: 'Gear: smart contracts, user-friendly, secure networks, infinite sharding.',
-  discord: 'https://discord.com/invite/x8ZeSy6S6K',
+  discord: '891063355526217738',
   investors: [],
   linkedin: 'https://vn.linkedin.com/company/gearinc.',
   duneQueries: null,

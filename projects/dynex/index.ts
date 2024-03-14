@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'dynex',
   id: '6e2zu2',
   description: 'Dynex is a decentralized neuromorphic computing protocol.',
-  discord: 'https://discord.com/invite/2YFnG5357k',
+  discord: '1145567770872922223',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'j0o171',
   description:
     'Kurobi is a blockchain-powered platform that offers borderless opportunities for experts, coaches, mentors, influencers to make money for their time.',
-  discord: 'https://discord.com/invite/HbJvDfREwk',
+  discord: '1196209056747102268',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/kurobi/',
   duneQueries: null,

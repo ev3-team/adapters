@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'wop23m',
   description: 'Meson is building a decentralized CDN and Bandwidth Exchange.',
-  discord: null,
+  discord: '784251111678148608',
   investors: [],
   linkedin: null,
   duneQueries: null,

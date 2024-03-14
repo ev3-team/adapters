@@ -11,7 +11,7 @@ export default {
   id: 'k7ie81',
   description:
     'Srcful is a blockchain-enabled Virtual Power Plant maximizing the potential of Distributed Energy Resources.',
-  discord: 'https://discord.com/invite/tux5qPDcWw',
+  discord: '1050323986271182849',
   investors: [],
   linkedin: 'https://linkedin.com/company/srcful',
   duneQueries: null,

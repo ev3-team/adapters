@@ -11,7 +11,7 @@ export default {
   id: '0lasch',
   description:
     'EpiK Protocol: Using IPFS, DAO and token economy to build a large-scale knowledge graph.',
-  discord: 'https://discord.com/invite/YrkvXtgB9R',
+  discord: '740760785487265815',
   investors: [
     'z2j0xs',
     'm8rgyb',

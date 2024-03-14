@@ -11,7 +11,7 @@ export default {
   id: 'tt8j7l',
   description:
     'MicroVisionChain: UTXO-based public blockchain with PoW, high-concurrency, Layer-1 smart contracts, and DID solution.',
-  discord: 'https://discord.com/invite/RGHWazu9eS',
+  discord: '1009003006408282112',
   investors: [],
   linkedin:
     'https://www.linkedin.com/posts/mvc-mvcglobal-3a3a24248_mvc-activity-7000330320587739136-CIlV/?trk=public_profile_like_view',

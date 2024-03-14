@@ -11,7 +11,7 @@ export default {
   id: 'z1ks7o',
   description:
     'NFT3 Labs is a virtual identity framework, enabling personal monetization and identity-lveraging in Web3 applications.',
-  discord: 'https://discord.com/invite/HgHuuS9wzx',
+  discord: '968326172528222268',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/nft3',
   duneQueries: null,

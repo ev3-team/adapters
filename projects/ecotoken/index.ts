@@ -11,7 +11,7 @@ export default {
   id: '5dnpsz',
   description:
     "EcoToken's mission is to revolutionize the environmental credit market by leveraging the power of blockchain technology.",
-  discord: null,
+  discord: '892830662325862420',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'hopr',
   id: 'rdr178',
   description: 'HOPR connects unused internet bandwidth for monetization.',
-  discord: 'https://discord.com/invite/dEAWC4G',
+  discord: '679586195529007116',
   investors: [
     'yxetck',
     'zloyr1',

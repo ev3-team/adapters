@@ -11,7 +11,7 @@ export default {
   id: '5bm99m',
   description:
     'Helium is a decentralized network of networks with Mobile, IoT, & other subnetworks.',
-  discord: 'https://discord.com/invite/helium',
+  discord: '404106811252408320',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/heliumnetwork',
   duneQueries: {
@@ -21,6 +21,7 @@ export default {
     SUPPLY: '3043582',
     TIME_SERIES: '2944860',
     KEY_METRIC: '3223298',
+    NODE_NUMBER: '3476664',
   },
   foundingYear: null,
   blog: 'https://heliuminc.medium.com/',

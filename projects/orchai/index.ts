@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'h6vfie',
   description: 'Orchai: AI-powered DeFi platform optimizing asset flow.',
-  discord: 'https://discord.com/invite/WjKEbQFBcP',
+  discord: '1001025635302522960',
   investors: ['9e7ewb'],
   linkedin: 'https://www.linkedin.com/company/orchai/?originalSubdomain=vn',
   duneQueries: null,

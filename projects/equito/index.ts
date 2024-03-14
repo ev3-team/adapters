@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '02ugap',
   description: 'Equito Finance is a chain-agnostic open-source bridge protocol.',
-  discord: 'https://discord.com/invite/MZnjzp7DVr',
+  discord: '952703700483330049',
   investors: [],
   linkedin: 'https://it.linkedin.com/company/equito-finance',
   duneQueries: null,

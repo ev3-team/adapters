@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '9xue69',
   description: 'Kwil is a permissionless SQL database for the decentralized internet.',
-  discord: 'https://discord.com/invite/HzRPZ59Kay',
+  discord: '819855804554543114',
   investors: [
     '4j4oj3',
     '0jqovb',

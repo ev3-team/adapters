@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'r1c4n7',
   description: 'Inferix - Decentralized GPU network for 3D rendering, AI training & inference.',
-  discord: 'https://discord.com/invite/NJvcWYcB9W',
+  discord: '1139015527939981453',
   investors: [],
   linkedin: null,
   duneQueries: null,

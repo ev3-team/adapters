@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'minima',
   id: 'w75xgw',
   description: 'Minima: Compact, secure blockchain accessible on mobile & IoT devices.',
-  discord: 'https://discord.com/invite/minima',
+  discord: '562272317930209280',
   investors: [
     'mzqq7s',
     'ug1ce2',

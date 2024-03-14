@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'drife',
   id: 'con8un',
   description: 'DRIFE is a decentralized ride-hailing platform with 30k+ drivers.',
-  discord: 'https://discord.com/invite/Drife',
+  discord: '1177521017917288448',
   investors: [],
   linkedin:
     'https://lc.linkedin.com/company/drifeofficial?challengeId=AQGlK3rPkXxh9QAAAXsvzoFXuFKXn09eBbC9EM25iGw-dGCXzDHBQaBqxoX-uT3Je1xPAcyU6LytcXC8goHoozIB65rkR2a4HQ&submissionId=0e9a8bb3-38ee-9916-2426-4c330057dc1e',

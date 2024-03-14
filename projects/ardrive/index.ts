@@ -11,7 +11,7 @@ export default {
   id: 'e9qw0z',
   description:
     'ar.io is a network of decentralized gateways and permanent domains for the Arweave ecosystem.',
-  discord: 'https://discord.com/invite/HGG52EtTc2',
+  discord: '908759493943394334',
   investors: [
     'bspyld',
     'zloyr1',

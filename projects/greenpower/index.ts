@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '6t7pf0',
   description: 'GreenPower is a decentralized network of global sustainability activists.',
-  discord: 'https://discord.com/invite/z4XrkAjJ38',
+  discord: '978985389857570826',
   investors: [],
   linkedin: 'https://au.linkedin.com/company/greenpower-australia',
   duneQueries: null,

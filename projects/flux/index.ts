@@ -11,7 +11,7 @@ export default {
   id: '0t3lhn',
   description:
     'Flux is a decentralized Web3 cloud infrastructure comprised of user-operated, scalable and globally distributed computational nodes.',
-  discord: 'https://discord.com/invite/runonflux',
+  discord: '404415190835134464',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/flux',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 's1imi6',
   description:
     'Weavechain is a secure data exchange layer that unlocks Web3 immutability and data lineage.',
-  discord: 'https://discord.com/invite/VjuPrwe4ub',
+  discord: '943094754802036767',
   investors: ['idlbd7', 'uoqi1k', '1vwual', 'zxs7x9'],
   linkedin: 'https://www.linkedin.com/company/weavechain',
   duneQueries: null,

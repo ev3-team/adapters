@@ -11,7 +11,7 @@ export default {
   id: 'dkaff9',
   description:
     'Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.',
-  discord: 'https://discord.com/invite/daDMAjE',
+  discord: '478735028319158273',
   investors: [
     'e3qzk9',
     'jo973z',

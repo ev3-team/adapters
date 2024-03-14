@@ -11,7 +11,7 @@ export default {
   id: 'a5w7th',
   description:
     'dClimate: Decentralized climate data network that standardizes and distributes climate data, forecasts, and models.',
-  discord: 'https://discord.com/invite/bYWVdNDMpe',
+  discord: '834637820584263691',
   investors: [
     'oi4yuk',
     '2enw83',

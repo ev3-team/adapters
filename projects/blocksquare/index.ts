@@ -11,7 +11,7 @@ export default {
   id: 'bjl484',
   description:
     'Blocksquare is a developer of the world‚Äôs leading blockchain-based real estate tokenization system.',
-  discord: null,
+  discord: '955485740211503124',
   investors: [],
   linkedin: null,
   duneQueries: null,

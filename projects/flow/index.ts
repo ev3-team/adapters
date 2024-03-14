@@ -11,7 +11,7 @@ export default {
   id: 'g4borf',
   description:
     'Flow is a permissionless layer 1 blockchain, empowering developers to create limitless Web3 apps for mainstream adoption',
-  discord: 'https://discord.com/invite/J6fFnh2xx6',
+  discord: '613813861610684416',
   investors: [
     'spurmc',
     'onvq9f',

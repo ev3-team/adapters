@@ -11,7 +11,7 @@ export default {
   id: '8mycy6',
   description:
     'Swash enables internet users, developers, and businesses to cultivate new realities of data ownership and value creation through new incentivisation streams.',
-  discord: 'https://discord.com/invite/swash-977736974733557791',
+  discord: '977736974733557791',
   investors: [
     '7ng8h1',
     'oaw1ui',

@@ -11,7 +11,7 @@ export default {
   id: '5fzcjp',
   description:
     'The web3-ready serverless functions platform. Build and deploy trustless dApps in record time',
-  discord: null,
+  discord: '999990037779333130',
   investors: [],
   linkedin: null,
   duneQueries: null,

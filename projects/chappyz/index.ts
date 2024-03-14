@@ -11,7 +11,7 @@ export default {
   id: 'dn33y7',
   description:
     'Chappyz is an AI powered plug-and-play protocol that helps build REAL community engagement & growth, whilst rewarding community members in real time.',
-  discord: 'https://discord.com/invite/chappyz',
+  discord: '1144574400717406228',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/chappyz/',
   duneQueries: null,

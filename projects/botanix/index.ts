@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '97mtzl',
   description: 'The first fully decentralized Layer 2 EVM on Bitcoin.',
-  discord: null,
+  discord: '937915188903018498',
   investors: [],
   linkedin: null,
   duneQueries: null,

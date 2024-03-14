@@ -11,7 +11,7 @@ export default {
   id: 'omgud6',
   description:
     'Iagon is a decentralized cloud network built on Cardano, revolutionizing data storage and processing.',
-  discord: 'https://discord.com/invite/TCS23VWuWm',
+  discord: '837215135999197246',
   investors: [
     'o5kpgb',
     'xmw0ev',

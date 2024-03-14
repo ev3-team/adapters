@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'thala',
   id: 'rrvozj',
   description: 'Thala is a DeFi protocol native to the Aptos blockchain.',
-  discord: 'https://discord.com/invite/thala',
+  discord: '1031262886863048834',
   investors: [
     '26x5nn',
     'yc3rjf',

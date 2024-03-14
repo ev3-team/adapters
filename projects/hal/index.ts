@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '686w74',
   description: 'Hal is a chatbot built on BitTensor.',
-  discord: null,
+  discord: '1110297556606533744',
   investors: [],
   linkedin: 'https://linkedin.com/company/vercel',
   duneQueries: null,

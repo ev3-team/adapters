@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'bitrock',
   id: 'fy70r2',
   description: 'Bitrock: blockchain with low fees, high speed, and multichain DEX.',
-  discord: 'https://discord.com/invite/xUTRESq8Xq',
+  discord: '1131681197504860231',
   investors: ['xy5g8f'],
   linkedin: 'http://www.linkedin.com/company/discord',
   duneQueries: null,

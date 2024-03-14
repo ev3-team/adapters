@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '4y6snk',
   description: 'Gaming credentials infrastructure',
-  discord: null,
+  discord: '915445727600205844',
   investors: [],
   linkedin: null,
   duneQueries: null,

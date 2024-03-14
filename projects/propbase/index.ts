@@ -11,7 +11,7 @@ export default {
   id: '687b4m',
   description:
     'Propbase is a highly-scalable, fast, and secure blockchain-based platform for property tokenization and transaction.',
-  discord: null,
+  discord: '1030685279327105044',
   investors: [],
   linkedin: null,
   duneQueries: null,

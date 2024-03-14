@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '8q0l7y',
   description: 'AIRO is a decentralized air quality monitoring network.',
-  discord: 'https://discord.com/invite/ggegj38YVF',
+  discord: '1089157531001167958',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/airo-missions',
   duneQueries: null,

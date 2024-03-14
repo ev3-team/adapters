@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'elixir-finance',
   id: 'wrifq0',
   description: 'Elixir: Decentralized protocol for secure market-making.',
-  discord: 'https://discord.com/invite/GeKAZFjYT3',
+  discord: '1059691738349977674',
   investors: [
     '7job29',
     'dczq0j',

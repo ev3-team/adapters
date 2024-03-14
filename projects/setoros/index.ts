@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'ulo2gi',
   description: 'Setoros is a decentralized crypto sportsbook for global betting.',
-  discord: 'https://discord.com/invite/ssSRkyUmsn',
+  discord: '1077512035899809823',
   investors: [],
   linkedin: null,
   duneQueries: null,

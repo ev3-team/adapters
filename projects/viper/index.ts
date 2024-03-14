@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: '1sbdg8',
   description: 'Viper is a decentralized RPC for Solana.',
-  discord: 'https://discord.com/invite/eBDYH4Zxek',
+  discord: '1035116329193189396',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/viper/',
   duneQueries: null,

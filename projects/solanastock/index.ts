@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'kdsx3u',
   description: 'SolanaStock: Decentralized stock photo marketplace monetizes photos with AI.',
-  discord: 'https://discord.com/invite/kBbATFA7PW',
+  discord: '428295358100013066',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/solanalabs',
   duneQueries: null,

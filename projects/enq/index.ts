@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'i5b54g',
   description: 'enqAI is developing a Network for Decentralized Uncensored AI Models',
-  discord: 'https://discord.com/invite/CUEN2A3GuJ',
+  discord: '1079425803441426562',
   investors: [],
   linkedin: null,
   duneQueries: null,

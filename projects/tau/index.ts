@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'agoras-currency-of-tau',
   id: 'ms4h4c',
   description: 'Tau is an AI software generation tool with AI safety features.',
-  discord: 'https://discord.com/invite/nsCZ4f3wqH',
+  discord: '695210246557138965',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/tau-network/?originalSubdomain=li',
   duneQueries: null,

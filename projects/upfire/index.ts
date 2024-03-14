@@ -11,7 +11,7 @@ export default {
   id: '0e9eh3',
   description:
     'Upfire is a decentralized protocol for secure P2P file-sharing, enabling users to earn crypto.',
-  discord: 'https://discord.com/invite/Y9RQGbeeDR',
+  discord: '898179589531131904',
   investors: [],
   linkedin: 'https://linkedin.com/company/upfireofficial',
   duneQueries: null,

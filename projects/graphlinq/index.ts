@@ -11,7 +11,7 @@ export default {
   id: 'ofzalk',
   description:
     'The GraphLinq Protocol is designed to make it easy for users to create and deploy automation on-chain & off-chain without having to code.',
-  discord: 'https://discord.com/invite/PvBtzpE6U',
+  discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/graphlinq-protocol/about/',
   duneQueries: null,

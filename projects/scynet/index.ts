@@ -11,7 +11,7 @@ export default {
   id: '5kz9p0',
   description:
     'ScyNet is a blockchain and economic system that rewards nodes for sharing resources in a decentralized network.',
-  discord: 'https://discord.com/invite/zTe3MTH',
+  discord: '484370483739885608',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '0tmpgv',
   description:
     '4everland is a decentralized cloud provider integrating storage, computing, and networking resources.',
-  discord: 'https://discord.com/invite/4everland',
+  discord: '852482727164117022',
   investors: [],
   linkedin: 'https://au.linkedin.com/company/4everlandorg',
   duneQueries: null,

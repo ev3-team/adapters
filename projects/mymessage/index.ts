@@ -11,7 +11,7 @@ export default {
   id: '1rcuf0',
   description:
     'myMessage is a decentralized data storage protocol enabling secure, low-cost storage and transfer.',
-  discord: 'https://discord.com/invite/BCKyD3HxRh',
+  discord: '895919618034659349',
   investors: [
     'xmw0ev',
     'oaw1ui',

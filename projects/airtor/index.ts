@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'airtor-protocol',
   id: 'l9if1e',
   description: 'AirTor: Proof-of-uptime and relay hardware for passive earning and support of Tor.',
-  discord: 'https://discord.com/invite/ator',
+  discord: '1083735132470521907',
   investors: [],
   linkedin: null,
   duneQueries: null,

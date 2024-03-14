@@ -11,7 +11,7 @@ export default {
   id: 'wwio88',
   description:
     'Gateway is a decentralized protocol for creating, consuming, and displaying verifiable credentials to serve as a basis for an interconnected web and portable reputation.',
-  discord: 'https://discord.com/invite/tgt3KjcHGs',
+  discord: '898513755456036925',
   investors: [
     'hol96b',
     'ah8pl4',

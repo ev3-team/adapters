@@ -10,7 +10,7 @@ export default {
   coingeckoId: 'fryscrypto',
   id: 'jgd2lw',
   description: 'Fry Foundation is a decentralized aggregator of decentralized networks.',
-  discord: 'https://discord.com/invite/THCVfwXYQY',
+  discord: '1004603899598082069',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/fry-foundation/',
   duneQueries: null,
