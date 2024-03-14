@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Health & Fitness',
   chain: 'POLYGON',
-  category: 'SERVICES',
+  category: 'SENSORS',
   token: 'DEFIT',
   coingeckoId: 'defit',
   id: 'jmavqd',

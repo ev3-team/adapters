@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'BINANCE',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: 'FITFI',
   coingeckoId: 'step-app',
   id: 'ho83ef',

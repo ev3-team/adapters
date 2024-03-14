@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'NATIVE',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'WIRELESS',
   token: 'SLK',
   coingeckoId: 'sealink-network',
   id: 'spnzni',

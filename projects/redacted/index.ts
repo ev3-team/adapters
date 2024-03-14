@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: null,
   coingeckoId: null,
   id: 'wprila',
