@@ -1045,6 +1045,7 @@ import terminal3 from './terminal-3'
 import terminalBrain from './terminal-brain'
 import thala from './thala'
 import theGraph from './the-graph'
+import thePosemeshFoundtion from './the-posemesh-foundtion'
 import theRecharge from './the-recharge'
 import theRootNetwork from './the-root-network'
 import thetaFuel from './theta-fuel'
@@ -2222,6 +2223,7 @@ export const projects = {
   terminalBrain,
   thala,
   theGraph,
+  thePosemeshFoundtion,
   theRecharge,
   theRootNetwork,
   thetaFuel,
