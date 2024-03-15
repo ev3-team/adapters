@@ -188,6 +188,7 @@ import bullieverse from './bullieverse'
 import bump from './bump'
 import bunches from './bunches'
 import bwareLabs from './bware-labs'
+import c4e from './c4e'
 import caldance from './caldance'
 import cambrian from './cambrian'
 import candela from './candela'
@@ -206,7 +207,6 @@ import ceramic from './ceramic'
 import cere from './cere'
 import cerebrum from './cerebrum'
 import cess from './cess'
-import chain4energy from './chain4energy'
 import chainbound from './chainbound'
 import chaingpt from './chaingpt'
 import chainlink from './chainlink'
@@ -1177,6 +1177,7 @@ import terminalBrain from './terminal-brain'
 import testmachine from './testmachine'
 import thala from './thala'
 import theGraph from './the-graph'
+import thePosemeshFoundtion from './the-posemesh-foundtion'
 import theRecharge from './the-recharge'
 import theRootNetwork from './the-root-network'
 import thetaFuel from './theta-fuel'
@@ -1518,6 +1519,7 @@ export const projects = {
   bump,
   bunches,
   bwareLabs,
+  c4e,
   caldance,
   cambrian,
   candela,
@@ -1536,7 +1538,6 @@ export const projects = {
   cere,
   cerebrum,
   cess,
-  chain4energy,
   chainbound,
   chaingpt,
   chainlink,
@@ -2507,6 +2508,7 @@ export const projects = {
   testmachine,
   thala,
   theGraph,
+  thePosemeshFoundtion,
   theRecharge,
   theRootNetwork,
   thetaFuel,

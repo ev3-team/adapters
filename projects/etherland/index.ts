@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'ELAND',
   coingeckoId: null,
   id: 'z4helo',

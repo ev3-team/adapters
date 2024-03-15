@@ -13,7 +13,7 @@ export default {
     'The Blockchain-based Service Network is a cross-cloud, cross-portal, and cross-framework global infrastructure network used to deploy and operate all types of blockchain applications.',
   discord: null,
   investors: ['mgr0n3', '66hega', 'akokzi', 'nhn1so', 'lebjbd'],
-  linkedin: 'https://www.linkedin.com/company/bsnbase/?originalSubdomain=hk',
+  linkedin: 'https://www.linkedin.com/company/bsnbase/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

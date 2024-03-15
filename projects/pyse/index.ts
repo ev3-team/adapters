@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'ENERGY',
   token: null,
   coingeckoId: null,
   id: '44h60y',

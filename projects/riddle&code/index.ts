@@ -13,7 +13,7 @@ export default {
     'Riddle&Code: Connecting physical assets with Web3 technology for secure communication and transactions.',
   discord: '999216778393698364',
   investors: ['cm89up'],
-  linkedin: 'https://www.linkedin.com/company/riddle-&-code/?originalSubdomain=at',
+  linkedin: 'https://www.linkedin.com/company/riddle-&-code/',
   duneQueries: null,
   foundingYear: null,
   blog: null,
