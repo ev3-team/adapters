@@ -1,7 +1,7 @@
 import { AdapterInvestor } from '../types'
 
 export default {
-  id: 'cnsoy7',
-  name: 'Asia Star',
+  id: 'geipr5',
+  name: 'Blockchain Ventures Hub',
   investedProjectsCount: 0,
 } satisfies AdapterInvestor

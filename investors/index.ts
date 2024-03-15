@@ -256,7 +256,6 @@ import ascolta from './ascolta'
 import asdf from './asdf'
 import ashPark from './ash-park'
 import ashishTiwari from './ashish-tiwari'
-import asiaStar from './asia-star'
 import assembly from './assembly'
 import astarc from './astarc'
 import asteraInstitute from './astera-institute'
@@ -434,6 +433,7 @@ import blockchainFoundersFund from './blockchain-founders-fund'
 import blockchainIsrael from './blockchain-israel'
 import blockchainValley from './blockchain-valley'
 import blockchainVentures from './blockchain-ventures'
+import blockchainVenturesHub from './blockchain-ventures-hub'
 import blockchainCom from './blockchain-com'
 import blockchange from './blockchange'
 import blockgroup from './blockgroup'
@@ -3198,7 +3198,6 @@ export const investors = {
   asdf,
   ashPark,
   ashishTiwari,
-  asiaStar,
   assembly,
   astarc,
   asteraInstitute,
@@ -3376,6 +3375,7 @@ export const investors = {
   blockchainIsrael,
   blockchainValley,
   blockchainVentures,
+  blockchainVenturesHub,
   blockchainCom,
   blockchange,
   blockgroup,
