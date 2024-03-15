@@ -4,9 +4,9 @@ export default {
   name: 'Qualoo',
   ninja: null,
   subcategories: null,
-  chain: 'QXT',
+  chain: null,
   category: 'WIRELESS',
-  token: null,
+  token: 'QXT',
   coingeckoId: null,
   id: 'cfy81h',
   description:
