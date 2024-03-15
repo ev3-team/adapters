@@ -39,7 +39,7 @@ export default {
     'gduv1m',
     'pcw959',
   ],
-  linkedin: 'https://www.linkedin.com/company/flow-blockchain/?originalSubdomain=ca',
+  linkedin: 'https://www.linkedin.com/company/flow-blockchain/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://flow.com/blog',

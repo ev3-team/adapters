@@ -12,7 +12,7 @@ export default {
   description: 'Creator-owned dApp protocol revolutionizing IP creation in the Metaverse space.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/create-protocol/?originalSubdomain=ae',
+  linkedin: 'https://www.linkedin.com/company/create-protocol/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://create-protocol.medium.com/',

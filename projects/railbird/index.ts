@@ -20,6 +20,6 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://railbirdexchange.com/confirmation?email=sal%40ev3.xyz',
+  url: 'https://railbirdexchange.com/',
   verified: false,
 } satisfies AdapterProject

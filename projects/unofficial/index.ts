@@ -20,6 +20,6 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://unofficial.notion.site/unofficial/Unofficial-e2c7fd1be871423ab642a8b2e1249c38',
+  url: 'https://unofficial.run/',
   verified: false,
 } satisfies AdapterProject

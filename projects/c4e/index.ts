@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Chain4Energy',
+  name: 'C4E',
   ninja: 'ZZ',
   subcategories: null,
   chain: 'COSMOS',
@@ -10,16 +10,16 @@ export default {
   coingeckoId: null,
   id: '92o0ip',
   description:
-    'Chain4Energy (C4E) is a Decentralized Energy Marketplace that enables institutions and individuals to seamlessly participate in the renewable energy market accessing and offering a wide range of renewable energy solutions and services.',
+    'Chain4Energy is a DePIN L1 Blockchain: The Technological Foundation for a Decentralized, Community-Driven Energy Ecosystem for DeGEP, ChargEra, and Energy Communities',
   discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
-  blog: null,
-  github: null,
-  telegram: null,
-  twitter: null,
+  blog: 'https://medium.com/chain4-energy',
+  github: 'https://github.com/chain4energy',
+  telegram: 'https://t.me/c4e_official',
+  twitter: 'https://twitter.com/Chain4Energy',
   url: 'https://c4e.io/',
   verified: false,
 } satisfies AdapterProject

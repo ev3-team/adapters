@@ -10,7 +10,7 @@ export default {
   coingeckoId: null,
   id: 'pmtbrw',
   description:
-    'Vivid Labs powers the engine for the creator economy newly fueled by powerful AI production tools. Its VIVID platform enables creators, brands, developers, and content platforms to distribute and monetize media experiences directly to their communities through genuine digital ownership enabled by Web3 technologies. The VIVID platform is accessible via turnkey Shopify storefronts, iOS and Android apps, and custom deployments.',
+    'VIVID is a next-generation NFT publishing platform that allows anyone to create, manage, and sell multimedia NFTs. Powered by the VID token, VIVID enables new use cases and business models evolving NFTs into complete media experiences.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/vividlabshq/',

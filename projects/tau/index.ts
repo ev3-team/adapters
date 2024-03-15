@@ -12,7 +12,7 @@ export default {
   description: 'Tau is an AI software generation tool with AI safety features.',
   discord: '695210246557138965',
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/tau-network/?originalSubdomain=li',
+  linkedin: 'https://www.linkedin.com/company/tau-network/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://tau.net/blog/',

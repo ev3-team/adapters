@@ -12,8 +12,7 @@ export default {
   description: 'Boring is a decentralized VPN and peer-to-peer bandwidth market.',
   discord: null,
   investors: [],
-  linkedin:
-    'https://ng.linkedin.com/company/boringprotocol?trk=public_profile_experience-item_profile-section-card_image-click',
+  linkedin: 'https://www.linkedin.com/company/boringprotocol/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

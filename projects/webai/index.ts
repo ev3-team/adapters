@@ -20,6 +20,6 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/WebAIofficial',
-  url: 'https://webai.gitbook.io/web-ai-whitepaper/usdwebai-ecosystem',
+  url: 'https://webai.live/',
   verified: false,
 } satisfies AdapterProject
