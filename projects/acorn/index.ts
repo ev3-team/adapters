@@ -17,7 +17,7 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://mobile.twitter.com/AcornProtocol/status/1706843598581358812',
   telegram: null,
   twitter: 'https://twitter.com/AcornProtocol',
   url: 'https://acorn.eco/#/',
