@@ -7,7 +7,7 @@ export default {
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'GRAV',
-  coingeckoId: 'graviton',
+  coinGeckoID: 'graviton',
   id: 'udwaws',
   description:
     'Graviton provides Web3 tools and infrastructure that allows artists to reach fans, advertise and monetize their work. NFT Torrent is a free decentralized storage solution for torrent enabled NFTs.',

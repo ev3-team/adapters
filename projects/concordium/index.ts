@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'CCD',
-  coingeckoId: 'concordium',
+  coinGeckoID: 'concordium',
   id: 'hw2zn4',
   description:
     'Concordium is a layer-1 blockchain with a built-in ID framework, the science-based proof-of-stake chain uses zero-knowledge proofs to usher in a brand new era of trust for Web3.',

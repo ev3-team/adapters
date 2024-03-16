@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'MVEDA',
-  coingeckoId: 'medicalveda',
+  coinGeckoID: 'medicalveda',
   id: 'riq8lw',
   description:
     'Medical Veda aims to be the world’s leading open-source health ecosystem for enabling decentralized ownership of patient data while enabling all industry players to get access to this data in a seamless, secure, and instant manner.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BROCK',
-  coingeckoId: 'bitrock',
+  coinGeckoID: 'bitrock',
   id: 'fy70r2',
   description: 'Bitrock: blockchain with low fees, high speed, and multichain DEX.',
   discord: '1131681197504860231',

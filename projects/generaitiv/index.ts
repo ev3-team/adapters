@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'GAI',
-  coingeckoId: 'generaitiv',
+  coinGeckoID: 'generaitiv',
   id: 't6ee2u',
   description:
     'Generaitiv: community-driven AI appstore empowering contributors with scalable approaches.',

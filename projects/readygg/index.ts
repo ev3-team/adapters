@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wjko90',
   description: 'READYgg is a Layer3 gaming infrastructure for the Web3 creator economy.',
   discord: '449614151262928897',

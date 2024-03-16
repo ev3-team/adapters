@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'c01rpe',
   description:
     'Diode is a Web3 software company committed to providing fundamental technologies for fully decentralized authentication and routing of network participants.',

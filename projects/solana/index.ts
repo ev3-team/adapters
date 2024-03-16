@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1rk8w5',
   description:
     'Solana supports experiences for power users, new consumers, and everyone in between.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ypklkh',
   description: 'Wiman offers global mobile WiFi for the sharing economy.',
   discord: null,

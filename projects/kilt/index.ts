@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bcanxl',
   description:
     'KILT is a blockchain-based identity platform offering decentralized, secure, and scalable solutions.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2xb653',
   description:
     'Lever is a Web3 influencer marketplace that offers an easy-to-use, all-in-one platform that makes booking influencers safe, quick, and easy for brands and creators alike.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xpng8u',
   description:
     'QLC Chain is a next-gen public Blockchain enabling service providers and network operators.',

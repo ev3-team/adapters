@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'luxgal',
   description:
     'Veera is a mobile-focused browser that brings everything desktop browsers have but is optimized for a mobile experience.',

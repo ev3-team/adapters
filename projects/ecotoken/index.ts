@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5dnpsz',
   description:
     "EcoToken's mission is to revolutionize the environmental credit market by leveraging the power of blockchain technology.",

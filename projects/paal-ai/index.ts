@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAAL',
-  coingeckoId: 'paal-ai',
+  coinGeckoID: 'paal-ai',
   id: 'wmad1s',
   description:
     'PAAL AI is a decentralized network of autonomous agents that empowers artificial intelligence technology.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SERVICES',
   token: 'ISP',
-  coingeckoId: 'ispolink',
+  coinGeckoID: 'ispolink',
   id: 'vv9w8b',
   description:
     'Ispolink is a GameFi AI-driven platform for Web3 developers. Their cross-chain ATS platform streamlines the hiring process and empowers Blockchain, DeFi, Gaming, and IT firms to source leading tech talents with AI-powered algorithms.',

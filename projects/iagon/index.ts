@@ -7,7 +7,7 @@ export default {
   chain: 'CARDANO',
   category: 'BLOCKCHAIN_INFRA',
   token: 'IAG',
-  coingeckoId: 'iagon',
+  coinGeckoID: 'iagon',
   id: 'omgud6',
   description:
     'Iagon is a decentralized cloud network built on Cardano, revolutionizing data storage and processing.',

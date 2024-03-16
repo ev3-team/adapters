@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'w1b0je',
   description:
     'Efani is a provider of secure mobile services that protect high-risk individuals from mobile hacks.',

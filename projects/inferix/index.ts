@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'adhfwc',
   description: 'Decentralized GPUs for rendering.',
   discord: '1139015527939981453',

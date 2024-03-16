@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xegpzk',
   description: 'Modal Labs offers Modal, a runtime for data teams.',
   discord: null,

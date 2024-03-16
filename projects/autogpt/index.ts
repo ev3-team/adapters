@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n7zd4p',
   description:
     'AutoGPT is the vision of the power of AI accessible to everyone, to use and to build on. ',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'API3',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'agq5jo',
   description:
     'API3 is a decentralized data oracle network that facilitates direct integration of APIs with blockchain applications, eliminating the reliance on third-party intermediaries. This protocol is designed to enhance the data reliability and security for smart contracts and decentralized applications (dApps) by providing them with high-quality, real-time data.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wko5kg',
   description:
     'MetafourAI is developing telepathy-enabled apps using EEG signals and language models.',

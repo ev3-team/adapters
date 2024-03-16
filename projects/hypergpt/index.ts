@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'HGPT',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'fc3wuj',
   description:
     'HyperGPT is a decentralized AI marketplace on the blockchain, offering a secure and transparent platform for buying, selling, and exchanging AI applications, enhanced by AI-driven features and smart contract automation. It bridges the gap between AI developers, businesses, and users, fostering innovation and growth in the AI industry.',

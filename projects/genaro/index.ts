@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'GNX',
-  coingeckoId: 'genaro-network',
+  coinGeckoID: 'genaro-network',
   id: '5gl2ia',
   description:
     'Genaro Network is the first Turing Complete Public Chain with a Decentralized Storage Network, providing blockchain developers with a one-stop solution to deploy smart contracts and store data simultaneously. ',

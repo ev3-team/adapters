@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'otau6o',
   description:
     'Iris Tech: decentralized AI platform with blockchain for data traceability, efficacy, and AI democratization.',

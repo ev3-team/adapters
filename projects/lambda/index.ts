@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '129gin',
   description: 'Decentralized Storage 3.0 Evolution - LWS Modular Storage Network',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'SDAO',
-  coingeckoId: 'singularitydao',
+  coinGeckoID: 'singularitydao',
   id: 'g7dhjc',
   description:
     'SingularityDAO: Decentralized Portfolio Management Protocol for safe and easy crypto asset management.',

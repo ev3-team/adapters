@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2vu694',
   description:
     "Myria is a blockchain gaming ecosystem powered by Myria's Ethereum L2 scaling solution.",

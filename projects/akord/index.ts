@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5fwdog',
   description:
     'Akord: decentralized storage solution giving users control over data. A privacy hub and data marketplace.',

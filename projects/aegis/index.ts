@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AEGIS',
-  coingeckoId: 'aegis-ai',
+  coinGeckoID: 'aegis-ai',
   id: 'ib50zn',
   description:
     'AEGIS AI is developing a pioneering Blockchain Security with AI-Enabled Audit Solutions',

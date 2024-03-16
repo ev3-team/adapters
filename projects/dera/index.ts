@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5yinyq',
   description:
     'WEB3 BASED SERVERLESS SECURE Remote Private Network Achieve high security standards with the power of blockchain Remotely access your apps, devices and business',

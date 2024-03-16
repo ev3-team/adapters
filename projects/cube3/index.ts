@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'e3bpn3',
   description:
     'CUBE3.AI is a web3 security platform that provides real-time transaction protection for smart contracts and blockchains, safeguarding against cyber exploits, fraud, and compliance risks.',

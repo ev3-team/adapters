@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j945ny',
   description:
     'CoverageMap.com is a crowd-sourced map that compares coverage, data speeds, and performance on AT&T, Dish, T-Mobile, and Verizon.',

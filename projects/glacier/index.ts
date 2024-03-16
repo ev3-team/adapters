@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4fstgv',
   description:
     'Glacier is building a composable, modular, and scalable L2 data network for large-scale Dapps.',

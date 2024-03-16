@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'IBAT',
-  coingeckoId: 'battle-infinity',
+  coinGeckoID: 'battle-infinity',
   id: 'qx4wxc',
   description:
     'Battle Infinity: Metaverse gaming platform with P2E battle games in IBAT Battle Arena.',

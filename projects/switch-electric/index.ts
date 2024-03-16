@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nm1uyh',
   description: 'Switch Electric Switch is a stealth project built on IoTeX.',
   discord: null,

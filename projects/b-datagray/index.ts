@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 't47npe',
   description:
     'B-Datagray is a company developing a Blockchain infrastructure for decentralized GPU/CPU cloud computing.',

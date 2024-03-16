@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cc337l',
   description: 'Stamp Network is an L2 blockchain focusing on supporting digital entities.',
   discord: null,

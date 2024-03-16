@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'aoo9gh',
   description:
     'Shuttle Labs: AI-powered platform that transforms blockchains into accessible sources for analytics and automation.',

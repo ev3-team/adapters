@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ipaf0n',
   description:
     'SQE.io is a quantum secure, decentralized blockchain-based platform. It uses Simulated Quantum Entanglement technology.',

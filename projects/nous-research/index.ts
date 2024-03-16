@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vj5riw',
   description:
     'Nous Research is a private applied research group. They publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.',

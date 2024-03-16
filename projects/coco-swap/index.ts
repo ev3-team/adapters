@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0g5igr',
   description: 'Coco Swap: Faster and easier token swaps with COCO token and BSC blockchain.',
   discord: null,

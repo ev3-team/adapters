@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'UMOON',
-  coingeckoId: 'unimoon-umoon',
+  coinGeckoID: 'unimoon-umoon',
   id: '48jwhp',
   description: 'Unimoon maximizes token rewards using AI on Ethereum.',
   discord: null,

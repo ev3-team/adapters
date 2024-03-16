@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'RVST',
-  coingeckoId: 'revest-finance',
+  coinGeckoID: 'revest-finance',
   id: '68z42k',
   description:
     'Revest Protocol is an EVM-based system for the tokenization of financial positions in DeFi.',

@@ -7,7 +7,7 @@ export default {
   chain: 'APTOS',
   category: 'NOT_DEPIN',
   token: 'THL',
-  coingeckoId: 'thala',
+  coinGeckoID: 'thala',
   id: 'rrvozj',
   description: 'Thala is a DeFi protocol native to the Aptos blockchain.',
   discord: '1031262886863048834',

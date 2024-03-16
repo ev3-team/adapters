@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'POWR',
-  coingeckoId: 'power-ledger',
+  coinGeckoID: 'power-ledger',
   id: '9a54pc',
   description:
     'Powerledger is developing the world-first blockchain enabled energy and environmental commodity trading platform to make energy markets more efficient.',

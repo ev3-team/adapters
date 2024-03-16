@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'k270zx',
   description:
     'Nosh is a food delivery provider aiming to economically sustain independent restaurants through their delivery service.',

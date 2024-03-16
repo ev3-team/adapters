@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j68t8z',
   description:
     'Jiritsu is a decentralized protocol enabling verifiable compute. Jiritsu allows one to orchestrate and verify any computational workflow, integrating any combination of L1, L2 and Middleware.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'LITH',
-  coingeckoId: 'lithium-finance',
+  coinGeckoID: 'lithium-finance',
   id: 'iggqt8',
   description:
     'Lithium Finance is the first decentralized protocol to harness the power of AI and crowd wisdom. Fundamentally, Lithium Finance uses machine learning algorithms to evaluate historical market data and to identify potential data issues.',

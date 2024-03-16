@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cn2pt1',
   description:
     'Riddle&Code: Connecting physical assets with Web3 technology for secure communication and transactions.',

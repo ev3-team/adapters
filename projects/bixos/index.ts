@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'UBXS',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ey787u',
   description:
     'Bixos is a cutting-edge blockchain development, Cryptocurrency asset management, and investment company.',

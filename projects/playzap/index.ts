@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'PZP',
-  coingeckoId: 'playzap',
+  coinGeckoID: 'playzap',
   id: 'wypvyu',
   description:
     "PlayZap Game is a skill-based competitive gaming platform that's Free to Play, however, their skill and performance in the games will enable them to earn rewards and tokens.",

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'apu26o',
   description:
     'Oort is an AI-powered data cloud that unifies compute and storage resources, maximizing privacy and savings.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'SWOT',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pvl1bk',
   description:
     'SWOT AI is a strategic analysis platform that leverages advanced AI to provide customized, data-driven insights and guidance for Web3 projects.',

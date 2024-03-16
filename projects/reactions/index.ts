@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '57ba4r',
   description:
     'Reactions is a decentralized social curation protocol that let users react to NFTs, allowing consumers to build influence and earn with communities.',

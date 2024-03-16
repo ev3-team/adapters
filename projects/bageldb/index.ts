@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'whi3bv',
   description:
     'BagelDB is a collaborative vector database and an incentivized marketplace for buying and selling vector embeddings for AI data.',

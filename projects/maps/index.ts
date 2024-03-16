@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'MAPS ',
-  coingeckoId: 'maps',
+  coinGeckoID: 'maps',
   id: 'dp6jkl',
   description:
     'Maps.me 2.0 aims to be the ultimate travel companion app that provides both online and offline maps while offering DeFi functionalities.',

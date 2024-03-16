@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4y6snk',
   description: 'Gaming credentials infrastructure',
   discord: '915445727600205844',

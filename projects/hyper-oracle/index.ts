@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l6awms',
   description:
     'Hyper Oracle: Programmable zkOracle for blockchain security and developer empowerment.',

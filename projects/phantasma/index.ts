@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SOUL',
-  coingeckoId: 'phantasma',
+  coinGeckoID: 'phantasma',
   id: '37fysf',
   description:
     'Phantasma is a scalable layer 1 smart contract blockchain designed for Gaming, Smart NFTs, and dApp integration.',

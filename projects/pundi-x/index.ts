@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'PUNDIX',
-  coingeckoId: 'pundi-x-new',
+  coinGeckoID: 'pundi-x-new',
   id: 'i0kfij',
   description:
     'Pundi X is a leading developer of blockchain-powered devices to transform retail businesses with its blockchain-based point-of-sale solution. It allows retail merchants and consumers to conduct instantaneous in-store transactions on its blockchain.',

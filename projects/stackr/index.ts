@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l3144f',
   description:
     'Stackr SDK is a framework to build app-specific micro-rollups in web2 programming languages.',

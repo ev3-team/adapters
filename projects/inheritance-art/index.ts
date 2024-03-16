@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'IAI',
-  coingeckoId: 'inheritance-art',
+  coinGeckoID: 'inheritance-art',
   id: '0a4vnn',
   description:
     'Inheritance Art aims to be the largest NFT/AI-NFT producer and studio for mixed reality and hyper realistic productions.',

@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'SLCL',
-  coingeckoId: 'solcial',
+  coinGeckoID: 'solcial',
   id: 'x3xjx4',
   description: 'Solcial is a decentralised social network on the Solana blockchain.',
   discord: null,

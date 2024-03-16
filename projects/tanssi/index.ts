@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zc045a',
   description:
     'Tanssi is a blockchain protocol simplifying app chain deployment for appchain infrastructure.',

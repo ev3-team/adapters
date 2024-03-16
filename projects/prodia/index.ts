@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '51ffds',
   description: 'Prodia is an easy-to-use Stable Diffusion API for AI-powered image generation.',
   discord: '961289090886692964',

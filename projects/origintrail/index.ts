@@ -7,7 +7,7 @@ export default {
   chain: 'POLKADOT',
   category: 'AI',
   token: 'TRAC',
-  coingeckoId: 'origintrail',
+  coinGeckoID: 'origintrail',
   id: 'v9wsjb',
   description:
     'OriginTrail is a decentralized knowledge graph enabling trustless knowledge sharing for everyone.',

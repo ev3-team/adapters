@@ -7,7 +7,7 @@ export default {
   chain: 'COSMOS',
   category: 'BLOCKCHAIN_INFRA',
   token: 'CHEQ',
-  coingeckoId: 'cheqd-network',
+  coinGeckoID: 'cheqd-network',
   id: 'o6gk4u',
   description: 'Cheqd offers infrastructure for trusted data markets.',
   discord: '879754359859216394',

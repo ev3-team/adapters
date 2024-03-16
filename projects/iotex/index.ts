@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'BLOCKCHAIN_INFRA',
   token: 'IOTX',
-  coingeckoId: 'iotex',
+  coinGeckoID: 'iotex',
   id: 'oqhdss',
   description:
     'IoTeX is a blockchain-based sensor solution called Pebble, integrating numerous functions in one device.',

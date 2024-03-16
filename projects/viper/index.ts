@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1sbdg8',
   description: 'Viper is a decentralized RPC for Solana.',
   discord: '1035116329193189396',

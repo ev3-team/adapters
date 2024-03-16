@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '93up2s',
   description:
     'An on-chain AI company that aims to bring AI on-chain with the world‚Äôs only ZKML prover',

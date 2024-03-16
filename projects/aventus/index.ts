@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'AVT',
-  coingeckoId: 'aventus',
+  coinGeckoID: 'aventus',
   id: '6u1zhk',
   description:
     'Aventus enables scalable, interoperable, and carbon-neutral solutions for companies.',

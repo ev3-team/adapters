@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '02ugap',
   description: 'Equito Finance is a chain-agnostic open-source bridge protocol.',
   discord: '952703700483330049',

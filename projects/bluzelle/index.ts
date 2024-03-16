@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'BLZ',
-  coingeckoId: 'bluzelle',
+  coinGeckoID: 'bluzelle',
   id: 'jgehxs',
   description:
     'Bluzelle is a decentralized data ecosystem providing scalable and secure storage solutions for decentralized applications, with a focus on enhancing the development and user experience of DApps through its advanced database services.',

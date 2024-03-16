@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hffbvt',
   description:
     'Lyzis Labs is an incentive-driven and democratic protocol built upon a decentralized online marketplace based on blockchain technology.',

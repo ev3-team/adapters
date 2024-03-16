@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'GMRX',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cgb22x',
   description:
     'GAIMIN is a Web3 gaming infrastructure project strategically positioned at the disruptive intersection of Web3, gaming, and cloud computing that aims to utilize the unused and underused computational resources of the global gaming community. ',

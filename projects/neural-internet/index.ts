@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'b57y1r',
   description:
     'Bittensor is a decentralized, blockchain-based machine learning network that powers Neural Internet, an AI R&D DAO.',

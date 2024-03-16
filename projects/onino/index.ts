@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'ONI',
-  coingeckoId: 'oni-token',
+  coinGeckoID: 'oni-token',
   id: 'vybtqu',
   description: 'ONINO enables developers to create identity-based dapps with privacy by default.',
   discord: '969202888565993533',

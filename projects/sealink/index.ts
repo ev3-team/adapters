@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'SLK',
-  coingeckoId: 'sealink-network',
+  coinGeckoID: 'sealink-network',
   id: 'spnzni',
   description:
     'The Sealink Network integrates Proof of Stake (PoS) and a unique Proof of Work (uPoW) blockchain technology to offer a decentralized, secure, and free virtual private network (VPN) service, which includes features like remote access and port mapping.',

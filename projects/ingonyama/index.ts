@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cv434n',
   description:
     'A next-generation semiconductor company that focus on finding and solving computational bottlenecks in ZKP. ICICLE is an open-source library for ZK acceleration using CUDA-enabled GPUs.',

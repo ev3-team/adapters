@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'e9qw0z',
   description:
     'ar.io is a network of decentralized gateways and permanent domains for the Arweave ecosystem.',

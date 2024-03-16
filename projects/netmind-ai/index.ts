@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'NMT',
-  coingeckoId: 'netmind-token',
+  coinGeckoID: 'netmind-token',
   id: 'd2uaff',
   description: 'NetMind.AI enables deep learning model development for AI applications.',
   discord: '1050399764941906031',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hvnixv',
   description:
     'A blockchain-based data platform to help applications store, manage and elevate data in Web3 way.',

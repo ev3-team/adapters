@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PALM',
-  coingeckoId: 'palm-ai',
+  coinGeckoID: 'palm-ai',
   id: '5m1p6r',
   description:
     "PaLM AI is a versatile AI chatbot that operates across multiple platforms, leveraging Google's AI technology to provide comprehensive conversational, coding, image generation, and vision capabilities",

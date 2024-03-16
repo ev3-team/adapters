@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v05a0g',
   description:
     'Shipped is a logistics industry plugin that enables payment for shipping by scanning the barcode on the parcel.',

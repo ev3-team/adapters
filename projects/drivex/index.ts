@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yidy7d',
   description:
     'DriveX is a decentralized marketplace for vehicle data that unlocks new revenue and financing opportunities for owners and operators for mobility and transportation.',

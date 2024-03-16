@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wmr4sm',
   description:
     'Surge is a decentralized p2p filesharing app that ensures 100% anonymous file transfers through blockchain technology.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'GROW',
-  coingeckoId: 'valleydao',
+  coinGeckoID: 'valleydao',
   id: 'rrbnx6',
   description:
     'ValleyDAO is an open, global community offering funding and translational support for synthetic biology research.',

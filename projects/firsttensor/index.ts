@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3b72sd',
   description: 'FirstTensor is a community-powered Bittensor Validator.',
   discord: '1086605920802459691',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ky8cpt',
   description:
     'DeStore is a technology service provider that facilitates convenient and secure direct-to-customer (DTC) sales. DeStore enables DTC settlement by merging hybrid products and payment data via blockchain-based Digital Twins.',

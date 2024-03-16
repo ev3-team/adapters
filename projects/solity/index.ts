@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jkk0cp',
   description:
     "Solity pioneers a data-driven approach to risk management in the decentralized finance space, recognizing the distinct challenges of DeFi's composability and offering a tailored solution set for intelligent risk tracking and management.",

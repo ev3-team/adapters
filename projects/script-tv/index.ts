@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'SCPT',
-  coingeckoId: 'script-network',
+  coinGeckoID: 'script-network',
   id: '3yilwl',
   description:
     'Script TV is a decentralized video delivery network that furnishes an expansive range of blockchain-enabled solutions to the problems related to the traditional video-streaming sector.',

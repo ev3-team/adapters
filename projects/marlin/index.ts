@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'POND',
-  coingeckoId: 'marlin',
+  coinGeckoID: 'marlin',
   id: '7ipv0f',
   description:
     'Marlin is an open-source project aimed at scaling peer-to-peer platforms by optimizing the communication between nodes(incentivized libp2p).',

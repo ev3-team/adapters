@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: '2DAI',
-  coingeckoId: '2dai-io',
+  coinGeckoID: '2dai-io',
   id: 'cv1vse',
   description:
     '2DAI is an innovative AIaaS platform that combines multiple neural engines and leverages cutting-edge cloud technology to empower creative professionals to generate unique visuals and develop AI-powered solutions.',

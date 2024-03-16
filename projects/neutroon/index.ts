@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uktna7',
   description:
     'Neutroon is a Network-as-a-Service platform enabling seamless deployment and management of private cellular networks.',

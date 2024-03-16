@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '90eym0',
   description: 'Exa Protocol: Decentralized data storage using mobile devices.',
   discord: '916886546903347230',

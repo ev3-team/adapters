@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CPC',
-  coingeckoId: 'cpchain',
+  coinGeckoID: 'cpchain',
   id: 'tlsqnk',
   description:
     'CPChain: IoT infrastructure with storage, computation, and blockchain tech, providing a combined data platform.',

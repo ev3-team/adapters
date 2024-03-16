@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'MYST',
-  coingeckoId: 'mysterium',
+  coinGeckoID: 'mysterium',
   id: '8ci5ud',
   description: 'Mysterium is a decentralized wireless network.',
   discord: '614079733663006750',

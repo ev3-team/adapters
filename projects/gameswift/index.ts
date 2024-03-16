@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'GSWIFT',
-  coingeckoId: 'gameswift',
+  coinGeckoID: 'gameswift',
   id: 'goko2h',
   description:
     'GameSwift is a one-stop shop ecosystem(platform, launcher, and infrastructure) for Web3 gaming based on a modular chain and zkEVM technology.',

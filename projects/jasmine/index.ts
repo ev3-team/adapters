@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bwhoon',
   description:
     'Jasmine Energy is a decentralized market for claiming, trading, and redeeming renewable energy certificates.',

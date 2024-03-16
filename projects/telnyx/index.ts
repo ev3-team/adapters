@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9a244u',
   description: 'Telnyx helps enterprise manages connectivity need from a single platform.',
   discord: null,

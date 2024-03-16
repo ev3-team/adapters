@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xhfj9r',
   description:
     'Electric Tree is a decentralized climate finance platform built to bridge the climate financing gap for carbon removal.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g65bda',
   description:
     'Ukaton is a footwear company developing programmable insoles for health, VR/AR, and human interaction.',

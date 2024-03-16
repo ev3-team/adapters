@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'AUKI',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'p2unbp',
   description:
     'The Posemesh protocol enables spatial computing for people, devices, and AI. It lets users create, share, and access spatial data in a private and permissionless way.',

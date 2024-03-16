@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'eyid42',
   description: 'O IMMERSO √â UMA NOVA PROPOSTA DE HOSPITALIDADE',
   discord: null,

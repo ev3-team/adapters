@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'f0g5ra',
   description:
     'Proof of Play is a game studio and blockchain technology company that makes decentralized games and gaming infrastructure.',

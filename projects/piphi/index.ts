@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ksvenu',
   description: 'Piphi is a decentralized environmental data collection network.',
   discord: null,

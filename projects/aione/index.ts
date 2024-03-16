@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'AIONE',
-  coingeckoId: 'aione',
+  coinGeckoID: 'aione',
   id: 'oqs9xj',
   description:
     'AiONE: AI platform that integrates AI into business workflows. User-friendly AI services, APIs, and tools.',

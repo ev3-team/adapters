@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6b3lxu',
   description:
     'Kosen Labs aims to be at the intersection of AI and web3. Their mission is to bring the benefits of advanced AI to the blockchain space to develop the decentralised future.',

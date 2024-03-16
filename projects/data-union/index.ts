@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'y01ooy',
   description:
     'Data Union incentivizes crowdsourcing for data, enabling x-to-earn models for data unions.',

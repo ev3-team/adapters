@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dg3bp5',
   description:
     'Black Sheep Group is a decentralized marketplace simplifying investing in Web3 assets.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'r1g3pk',
   description:
     'JurnyOn AI is a ticketing app for train and bus travel, delivering digital access to Transport for Wales railcards.',

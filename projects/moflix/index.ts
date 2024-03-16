@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'u35fhl',
   description: 'Moflix enables telco operators to become the backbone of Web3.',
   discord: null,

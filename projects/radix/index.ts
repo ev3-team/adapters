@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'XRD',
-  coingeckoId: 'radix',
+  coinGeckoID: 'radix',
   id: 'orblk8',
   description:
     'Radix is a decentralized layer 1 protocol and public network designed specifically for DeFi applications that offers a scalable, secure, and developer-friendly platform.',

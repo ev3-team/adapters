@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6lqv0x',
   description:
     'The Pacific Northwest Rural Broadband Alliance is a registered non-profit ISP dedicated to facilitate the adoption of next generation blockhain-based decentralized infrastructure technologies.',

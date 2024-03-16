@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gf055c',
   description:
     'Terminal 3: Web3 startup for decentralized data storage, providing privacy and security.',

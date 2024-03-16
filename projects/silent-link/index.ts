@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'q5prya',
   description:
     'Silent Link provides global mobile 4G/5G Internet access and burner phone numbers on any eSIM-compatible smartphone.',

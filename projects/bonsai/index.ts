@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'w3i2cx',
   description:
     'Bonsai is a decentralized proving engine that empowers developers to seamlessly integrate ZK proofs into their applications, blockchains, and appchains, enhancing security and enabling complex computations.',

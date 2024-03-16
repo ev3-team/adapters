@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'DMIND',
-  coingeckoId: 'decentramind',
+  coinGeckoID: 'decentramind',
   id: 'xp303d',
   description:
     'DecentraMind is an innovative project aimed at integrating the powerful APIs and tools of $TAO and Bittensor into a user-friendly Telegram bot. Their vision extends beyond just a chatbot; they aim to evolve into a comprehensive aggregator of AI, leveraging the unique capabilities of the BitAPAI, the AI engine of Bittensor (TAO).',

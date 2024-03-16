@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rpvm9n',
   description:
     'MyGrid is a start-up on a mission to empower all households to partake in the energy transition and regain energy ownership.',

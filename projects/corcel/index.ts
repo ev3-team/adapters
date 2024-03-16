@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1azjuz',
   description: 'AI chat powered by Bittensor',
   discord: null,

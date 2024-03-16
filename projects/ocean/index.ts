@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'OCEAN',
-  coingeckoId: 'ocean-protocol',
+  coinGeckoID: 'ocean-protocol',
   id: 'qbhkmt',
   description:
     'Ocean Protocol is a data exchange protocol enabling decentralized data sharing and monetization.',

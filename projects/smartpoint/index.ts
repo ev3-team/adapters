@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7su9n8',
   description: 'SmartPoint is a decentralized edge computing network.',
   discord: null,

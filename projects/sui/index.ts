@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'SUI',
-  coingeckoId: 'sui',
+  coinGeckoID: 'sui',
   id: 'jhet5u',
   description:
     'Sui is a layer 1 blockchain that allows simple transactions to be finalized in real-time without sacrificing security. ',

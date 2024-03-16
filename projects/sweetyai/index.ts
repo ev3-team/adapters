@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hqx94b',
   description:
     'SweetyAI: Decentralized dating game dApp with AI-driven virtual girlfriends (NFTs) on Solana.',

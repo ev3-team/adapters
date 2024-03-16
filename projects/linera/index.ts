@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'avq9ep',
   description:
     'Linera is a Blockchain Infrastructure for Highly Scalable Web3 Applications that give users their own blockspace with microchains.',

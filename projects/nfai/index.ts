@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'NFAI',
-  coingeckoId: 'not-financial-advice',
+  coinGeckoID: 'not-financial-advice',
   id: '40loq1',
   description:
     'NFAi: decentralized hedge fund experiment focused on crypto data science, aiming to establish a profit-sharing fund.',

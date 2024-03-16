@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'FWB',
-  coingeckoId: 'friends-with-benefits-pro',
+  coinGeckoID: 'friends-with-benefits-pro',
   id: 'kcidbl',
   description:
     'Friends With Benefits is a new kind of social network made up of creatives and builders who believe in the promise of a better internet.',

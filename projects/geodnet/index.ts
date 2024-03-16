@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'GEOD',
-  coingeckoId: 'geodnet',
+  coinGeckoID: 'geodnet',
   id: 'scli9r',
   description: 'Geodnet is a decentralized network of GNSS reference stations.',
   discord: '912073116413476875',

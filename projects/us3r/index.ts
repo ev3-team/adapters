@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hqj4vb',
   description:
     'US3R: Dev platform and dApps with composable data using Ceramic for decentralized storage.',

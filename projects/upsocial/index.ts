@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9dm67q',
   description:
     'UpSocial: a blockchain-backed decentralized social network with user rewards and token features.',

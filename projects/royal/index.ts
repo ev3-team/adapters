@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 't62qym',
   description:
     'Royal is a marketplace built on top of the Polygon blockchain that enables anyone to invest in music and earn royalties alongside artists.',

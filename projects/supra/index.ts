@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2d4mvd',
   description:
     'SupraOracles is a decentralized oracle network that allows smart contracts to access off-chain data in a secure and reliable way.',

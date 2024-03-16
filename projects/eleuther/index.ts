@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'd1vp44',
   description:
     'A non-profit research lab focused on interpretability, alignment, and ethics of AI. EleutherAI has trained and released many powerful open source LLMs.',

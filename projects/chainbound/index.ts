@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'knriru',
   description:
     'Research & development organization building optimized infrastructure and networking tools for blockchains. ',

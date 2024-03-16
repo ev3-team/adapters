@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'RAVEN',
-  coingeckoId: 'raven-protocol',
+  coinGeckoID: 'raven-protocol',
   id: 'r3vxyu',
   description:
     'Raven Protocol is a decentralized compute network using idle power for fast AI training.',

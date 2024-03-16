@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wbocde',
   description: 'RDDL Network is a secure Refi and Defi protocol with trust anchors.',
   discord: '1044693472390697011',

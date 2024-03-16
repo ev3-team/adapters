@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3sy850',
   description:
     'Superalgos: crypto trading platform for open competition, allows traders to earn through signal broadcasting.',

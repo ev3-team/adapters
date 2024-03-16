@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'ATOR',
-  coingeckoId: 'airtor-protocol',
+  coinGeckoID: 'airtor-protocol',
   id: 'l9if1e',
   description: 'AirTor: Proof-of-uptime and relay hardware for passive earning and support of Tor.',
   discord: '1083735132470521907',

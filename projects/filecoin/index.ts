@@ -7,7 +7,7 @@ export default {
   chain: 'FILECOIN',
   category: 'COMPUTE',
   token: 'FIL',
-  coingeckoId: 'filecoin',
+  coinGeckoID: 'filecoin',
   id: 'r1uv9t',
   description:
     'Filecoin is the largest decentralized data storage marketplace, protocol, & cryptocurrency.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'GHX',
-  coingeckoId: 'gamercoin',
+  coinGeckoID: 'gamercoin',
   id: 'z2gapv',
   description:
     'GamerCoin is a blockchain-supported application that allows users to exchange desktop computing power for digital goods.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'adc9fo',
   description: "Devpost inspires the world's developers to build great software.",
   discord: '861966823054639134',

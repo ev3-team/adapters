@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SERVICES',
   token: 'BTRST',
-  coingeckoId: 'braintrust',
+  coinGeckoID: 'braintrust',
   id: '8mk3xj',
   description:
     'The Braintrust is a decentralized Web3 talent network linking tech freelancers with top brands worldwide.',

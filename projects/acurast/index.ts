@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'ACU',
-  coingeckoId: 'acurast',
+  coinGeckoID: 'acurast',
   id: 'o2w9zn',
   description:
     'Acurast is a decentralized and serverless cloud platform with a trustless, verifiable, and confidential computing environment leveraging mobile hardware to disrupt traditional server infrastructure.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'MOOV',
-  coingeckoId: 'dotmoovs',
+  coinGeckoID: 'dotmoovs',
   id: 'lipfwr',
   description: 'Dotmoovs uses AI scoring & monetization through $MOOVs investment.',
   discord: null,

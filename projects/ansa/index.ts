@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'i9mqty',
   description: 'Ansa Research is a research firm focused on distributed infrastructure.',
   discord: null,

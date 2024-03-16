@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4hsfb2',
   description:
     'Block Entropy Blockchain, a groundbreaking platform democratizing access to AI and machine learning solutions. Harnessing the power of blockchain technology',

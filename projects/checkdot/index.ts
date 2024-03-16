@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'CDT',
-  coingeckoId: 'checkdot',
+  coinGeckoID: 'checkdot',
   id: 'dlqv3c',
   description:
     'CheckDot: decentralized trust protocol for verifying legitimacy of blockchain projects anonymously.',

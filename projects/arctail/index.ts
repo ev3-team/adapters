@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'z931sb',
   description: 'Arctail is builduing a new infrastructure for on-chain finance.',
   discord: null,

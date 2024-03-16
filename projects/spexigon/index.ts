@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xjyor4',
   description:
     'Spexigon is a decentralized network of drone operators using the first fly-to-earn drone imagery platform.',

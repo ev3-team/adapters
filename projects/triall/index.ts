@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TRL',
-  coingeckoId: 'triall',
+  coinGeckoID: 'triall',
   id: 'ppw0qm',
   description:
     'Triall is an end-to-end digital ecosystem of blockchain-enabled software solutions for clinical trials.',

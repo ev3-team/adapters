@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hs6fc5',
   description: 'Antic: Decentralized co-ownership integration for businesses.',
   discord: null,

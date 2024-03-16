@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wntdih',
   description:
     'Cambrian Protocol is a blockchain agnostic Ethereum dApp that enables resource allocation through conditional tokens.',

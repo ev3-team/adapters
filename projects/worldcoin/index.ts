@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'WLD',
-  coingeckoId: 'worldcoin',
+  coinGeckoID: 'worldcoin',
   id: 'y4tubw',
   description:
     "Worldcoin is building the world's largest identity and financial network to serve as a public utility, giving ownership to everyone.",

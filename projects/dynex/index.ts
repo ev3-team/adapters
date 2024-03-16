@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'DNX',
-  coingeckoId: 'dynex',
+  coinGeckoID: 'dynex',
   id: '6e2zu2',
   description: 'Dynex is a decentralized neuromorphic computing protocol.',
   discord: '1145567770872922223',

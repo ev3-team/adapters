@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rbr871',
   description:
     'Postmint is a Web3 creator marketplace that offers a post-to-earn feature that rewards creators for marketing Web3 projects to their audience, with a refer-to-earn affiliate program.',

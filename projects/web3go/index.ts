@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'eiyl95',
   description:
     'Web3Go is a data intelligence network that connects humans, data, and AI, offering a suite of AI-native digital asset tools and real-time data infrastructure.',

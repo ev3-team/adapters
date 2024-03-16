@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '74kro7',
   description:
     'Oamo is a decentralized data broker that empowers internet users to own and monetize the value of their data',

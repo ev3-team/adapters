@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v959ss',
   description:
     'RAKwireless is an industrial-leading connectivity provider that builds infrastructures and Modular Edge devices for IoT, Smart City, and Smart Agriculture markets.',

@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'ERG',
-  coingeckoId: 'ergo',
+  coinGeckoID: 'ergo',
   id: '5vuxdv"',
   description:
     'Ergo is a smart contract platform that ensures the economic freedom of ordinary people through secure, accessible, and decentralized financial tools. It is backed by a powerful scripting language and a suite of powerful zero-knowledge proofs.',

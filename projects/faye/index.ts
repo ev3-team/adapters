@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pddr3z',
   description:
     'Faye is a self-learning AI chatbot for accurate, relevant, and on-chain troubleshooting of smart contracts.',

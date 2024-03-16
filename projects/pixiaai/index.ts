@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PIXIA',
-  coingeckoId: 'pixiaai',
+  coinGeckoID: 'pixiaai',
   id: 'fu1ijd',
   description:
     'PixiaAI: Generates images/videos, collaboratively creates Blind Minting NFTs in minutes.',

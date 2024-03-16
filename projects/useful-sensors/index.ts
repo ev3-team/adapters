@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '25vqyc',
   description:
     'Low-cost ML hardware modules for gesture and voice recognition on TVs, laptops, and appliances, ensuring user privacy.',

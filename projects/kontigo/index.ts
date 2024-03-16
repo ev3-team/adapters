@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '45oymd',
   description:
     'Kontigo is developing a blockchain based, automated bank built-in Whatsapp for gig workers in LatAm.',

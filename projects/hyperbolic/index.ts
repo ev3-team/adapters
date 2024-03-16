@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'HYPE',
-  coingeckoId: 'hyperbolic-protocol',
+  coinGeckoID: 'hyperbolic-protocol',
   id: '8heoo1',
   description:
     'Hyperbolic Labs is a decentralized microservices platform building the web for Web3.',

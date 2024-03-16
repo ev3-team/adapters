@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '46ij86',
   description:
     'iKnowSpots is a versatile event hosting & ticketing platform that simplifies the process for organizers and attendees.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ieoypf',
   description:
     'Unofficial is a composable social platform and subscription-based service that aims to revolutionize traditional social media.',

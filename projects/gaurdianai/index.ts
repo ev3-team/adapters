@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l6f0lf',
   description:
     'GuardianAI: Decentralized defense system for DAOs and multisigs, using AI agents from the Decentralized AI Network.',

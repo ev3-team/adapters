@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'SMR',
-  coingeckoId: 'shimmer',
+  coinGeckoID: 'shimmer',
   id: '11u1dj',
   description:
     'Shimmer is a high-performance, feeless, and parallelized Directed Acyclic Graph (DAG) ledger offering a chain-agnostic solution for fully customizable smart contract chains to be built on top.',

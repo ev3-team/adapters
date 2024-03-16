@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n0489d',
   description:
     'Latitude.sh is provider of a network that allows developers to deploy and manage GPU and CPU servers globally and easily. ',

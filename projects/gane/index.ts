@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'd1s1k3',
   description:
     'Gane is a freemium mobile provider for developing countries where users earn free data, voice, and text by using their mobile wallet and interacting with content.',

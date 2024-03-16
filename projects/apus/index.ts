@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ztd8go',
   description:
     'Apus is a decentralized AI bot creator network that simplifies AI model design using blockchain.',

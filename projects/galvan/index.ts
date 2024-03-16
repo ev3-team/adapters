@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'IZE',
-  coingeckoId: 'galvan',
+  coinGeckoID: 'galvan',
   id: 'deusl5',
   description:
     'Galvan is a blockchain technology-based mental health tracking app that uses AI, CBT, and rewards to help users achieve a healthier state of mind.',

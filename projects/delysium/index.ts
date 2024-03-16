@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AGI',
-  coingeckoId: 'delysium',
+  coinGeckoID: 'delysium',
   id: 'qhxql8',
   description:
     'Delysium develops an AI-Powered Open World Framework that empowers all users to create their own AI-Twins easily. ',

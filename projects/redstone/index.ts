@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'REDSTONE',
-  coingeckoId: 'redstone',
+  coinGeckoID: 'redstone',
   id: 'ap3amn',
   description:
     'RedStone is an Oracle that delivers frequently updated, reliable, and diverse data feeds for your dApp and smart contracts on multiple L1s & L2s.',

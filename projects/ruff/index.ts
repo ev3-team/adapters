@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'RUFF',
-  coingeckoId: 'ruff',
+  coinGeckoID: 'ruff',
   id: 'la5o39',
   description:
     'Ruff is a blockchain-based architecture combining IoT with a public chain and distributed operating system.',

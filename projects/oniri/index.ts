@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 's8n10q',
   description:
     'Oniri is the world leading app related to dreams, helping people remember, understand and control their dreams.',

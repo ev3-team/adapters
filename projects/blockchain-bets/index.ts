@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BCB',
-  coingeckoId: 'blockchain-bets',
+  coinGeckoID: 'blockchain-bets',
   id: 'afo4li',
   description:
     'Blockchain Bets - decentralized casino & sports betting platform on blockchain for transparency & security.',

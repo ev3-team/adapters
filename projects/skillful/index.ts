@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'SKAI',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8lb0be',
   description:
     'Skillful AI is a personalized AI ecosystem, offering domain-specific virtual assistants, tailored interactions, developer tools, and blockchain integration for staying ahead in a dynamic digital landscape.',

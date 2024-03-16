@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'XNA',
-  coingeckoId: 'neurai',
+  coinGeckoID: 'neurai',
   id: 'kntco7',
   description:
     'Neurai: AI, analytics, decision making, predictive modeling, IoT using blockchain assets.',

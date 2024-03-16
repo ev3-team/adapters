@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yoxura',
   description:
     'FanTV is an app-based Watch to Earn Platform that allows users to watch ad-free trending videos and earn rewards.',

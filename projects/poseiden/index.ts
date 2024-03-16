@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'QQQ',
-  coingeckoId: 'qqq-token',
+  coinGeckoID: 'qqq-token',
   id: 'ovnogm',
   description: 'Poseidon Network is a decentralized global network of idle P2P computing devices.',
   discord: '789323748267524097',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vq2wa3',
   description:
     'Halliday provides a programmable ERC-4337 Smart Accounts that are fully non-custodial, built to scale, and most importantly, designed specifically for games.',

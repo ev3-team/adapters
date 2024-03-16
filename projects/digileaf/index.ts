@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: 'LEAF',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3qppu8',
   description:
     'DigiLeaf is a Solar Panel integrated with the Algorand Blockchain, that not only diminishes carbon footprints but also contributes to a decentralized power network. DigiLeaf hardware earns LEAF tokens, incentivizing support for a greener Earth.',

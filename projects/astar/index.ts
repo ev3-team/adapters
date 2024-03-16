@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ASTR',
-  coingeckoId: 'astar',
+  coinGeckoID: 'astar',
   id: 'j764ic',
   description: 'Astar Network is a decentralized blockchain platform for Web3 innovations.',
   discord: '644182966574252073',

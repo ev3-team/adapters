@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9hptcu',
   description:
     'Fairblock is a blockchain infrastructure and framework that focuses on conditional decryption and programmable privacy, providing users and developers with enhanced privacy and security for on-chain applications.',

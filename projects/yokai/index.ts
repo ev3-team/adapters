@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jbyfc1',
   description: 'Yokai Developer: Security network with crowdsourced audit and bug bounty platform.',
   discord: '874678777748279316',

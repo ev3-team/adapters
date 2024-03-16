@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'ECHO',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'msvz1z',
   description:
     'Echolink is a DePIN-focused IoT oracle, launched on Solana and specifically designed to cater to the rapidly growing sector of DePIN Massive adoption.',

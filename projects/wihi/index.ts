@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yg5k1j',
   description:
     'A decentralized protocol incentivizing weather and climate data collection and predictions through cyrptoeconomics',

@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'DOME',
-  coingeckoId: 'everdome',
+  coinGeckoID: 'everdome',
   id: 't4w143',
   description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
   discord: '1002185140782510181',

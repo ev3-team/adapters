@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'GLQ',
-  coingeckoId: 'graphlinq-protocol',
+  coinGeckoID: 'graphlinq-protocol',
   id: 'ofzalk',
   description:
     'The GraphLinq Protocol is designed to make it easy for users to create and deploy automation on-chain & off-chain without having to code.',

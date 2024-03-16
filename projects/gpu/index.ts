@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jf4ml9',
   description: 'GPU is a decentralized GPU network for AI training.',
   discord: '1083646475608784906',

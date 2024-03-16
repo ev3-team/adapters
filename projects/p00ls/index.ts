@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: '0',
-  coingeckoId: 'zer0zer0',
+  coinGeckoID: 'zer0zer0',
   id: '6bqyjx',
   description: 'P00LS is the premier platform for Web3 community-building.',
   discord: '1175849217617559643',

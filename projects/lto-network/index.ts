@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'LTO',
-  coingeckoId: 'lto-network',
+  coinGeckoID: 'lto-network',
   id: 'tny0s0',
   description:
     'LTO Network is a Layer 1 blockchain with a Public and Private layer to bridge the gap between real-world and digital ownership, decentralized identities, and privacy.',

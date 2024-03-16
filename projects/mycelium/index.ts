@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vi4exr',
   description: 'Mycelium is an enterprise DePIN deployer and operator of the Mycelium Testbed.',
   discord: '787027688548073522',

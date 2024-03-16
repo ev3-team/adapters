@@ -7,7 +7,7 @@ export default {
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'ROSE',
-  coingeckoId: 'oasis-network',
+  coinGeckoID: 'oasis-network',
   id: '6exf75',
   description:
     'Oasis is a L1 blockchain network designed to be uniquely scalable, privacy-first and versatile. The Network has two main architectural components, the consensus layer and the ParaTime layer.',

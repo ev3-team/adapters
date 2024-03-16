@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'AI',
   token: 'AGC',
-  coingeckoId: 'argocoin',
+  coinGeckoID: 'argocoin',
   id: '7trv2k',
   description:
     'Devolved AI is a decentralized AI and blockchain platform built, governed, and owned by the people, fighting corporate agendas with blockchain-based trust and transparency.',

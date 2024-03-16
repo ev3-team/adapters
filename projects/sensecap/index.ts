@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4mztfe',
   description:
     'Sensecap: LoRaWAN IoT hardware for Helium hotspots, building decentralized networks.',

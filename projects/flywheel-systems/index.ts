@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yus8h6',
   description:
     'Flywheel Systems is a strategic infrastructure deployment and marketing expertise provider offering solutions and advice to smart investors to earn passive income through DePIN projects.',

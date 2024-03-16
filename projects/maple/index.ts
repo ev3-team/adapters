@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'MPL',
-  coingeckoId: 'maple',
+  coinGeckoID: 'maple',
   id: '622qp6',
   description:
     'Maple Finance is an institutional capital marketplace powered by blockchain technology focused exclusively on serving Institutional and Individual Accredited Investors with high-quality lending opportunities.',

@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'USDH',
-  coingeckoId: 'usdh',
+  coinGeckoID: 'usdh',
   id: 'ztuwxq',
   description:
     'Hubble Protocol is exploring the universe of DeFi on Solana. Hubble begins this by minting USDH through zero-interest borrowing.',

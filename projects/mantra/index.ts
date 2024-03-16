@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'OM',
-  coingeckoId: 'mantra-dao',
+  coinGeckoID: 'mantra-dao',
   id: 'jnhaaq',
   description:
     'MANTRA is a first of its kind, vertically-integrated and regulatory compliant blockchain ecosystem. ',

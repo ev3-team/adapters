@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qbrxm3',
   description: 'Farcaster is a sufficiently decentralized protocol for building social apps.',
   discord: null,

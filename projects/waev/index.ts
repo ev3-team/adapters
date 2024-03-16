@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'mwkpfa',
   description: 'Waev is a developer of a trustless data exchange protocol.',
   discord: null,

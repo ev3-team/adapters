@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'XX',
-  coingeckoId: 'xxcoin',
+  coinGeckoID: 'xxcoin',
   id: '61nayi',
   description:
     'XX: Blockchain for quantum-resistant and private smartphone communication and value exchange.',

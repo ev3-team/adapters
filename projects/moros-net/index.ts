@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'MOROS',
-  coingeckoId: 'moros-net',
+  coinGeckoID: 'moros-net',
   id: 'adwvwk',
   description:
     'MOROS NET is a radical, grassroots movement striving towards a truly decentralized AI landscape. They funding developers, hackers, and free-thinkers building systems that align with their egalitarian principles. MOROS is their governance token.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HYPC',
-  coingeckoId: 'hypercycle',
+  coinGeckoID: 'hypercycle',
   id: 'cs121o',
   description:
     'Hypercycle is a new blockchain network designed to supply massively scalable, low-cost infrastructure for decentralized AI.',

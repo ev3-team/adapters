@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '345ael',
   description:
     'Roam is a crypto-native telco initiative enabling easy setup of mobile networks for 4G or 5G connectivity.',

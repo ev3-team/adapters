@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'BLXM',
-  coingeckoId: 'bloxmove-erc20',
+  coinGeckoID: 'bloxmove-erc20',
   id: '3xdu4v',
   description:
     'bloXmove is developing a Mobility Blockchain Platform. By earning or holding this token, companies can connect their vehicles to bloXmove to offer decentralized mobility services.',

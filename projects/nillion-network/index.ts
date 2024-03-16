@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qb5fdz',
   description:
     'Nillion is a distributed computing platform that expands trustless infrastructure into new use cases and verticals.',

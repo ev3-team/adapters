@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'IQ',
-  coingeckoId: 'everipedia',
+  coinGeckoID: 'everipedia',
   id: '8gkezm',
   description: 'IQ: AI and blockchain firm with applications like IQ.wiki and HiIQ for staking.',
   discord: '920369137828655144',

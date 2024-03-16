@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'HOT',
-  coingeckoId: 'holotoken',
+  coinGeckoID: 'holotoken',
   id: 'lp1mgw',
   description:
     'Holo: P2P, open-source framework for decentralized applications with a focus on privacy and security.',

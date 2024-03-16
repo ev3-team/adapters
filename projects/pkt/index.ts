@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'WIRELESS',
   token: 'PKT',
-  coingeckoId: 'pkt',
+  coinGeckoID: 'pkt',
   id: 'v0g1yx',
   description:
     'PKT Pal enables businesses to offer free internet, collect customer data, and earn revenue through captive portals.',

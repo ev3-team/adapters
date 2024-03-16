@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3ttk4l',
   description: 'Decentralized GPU network built on Filecoin',
   discord: null,

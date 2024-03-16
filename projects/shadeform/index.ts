@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'd4dfm9',
   description:
     'Shadeform is building a one stop shop for cloud GPUs. Here‚Äôs a look at our upcoming roadmap and upcoming features!',

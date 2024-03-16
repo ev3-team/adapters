@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TREE',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zrsqma',
   description: 'Tree News is a Decentralized Community-Run News Aggregator.',
   discord: null,

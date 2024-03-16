@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iq1ku3',
   description:
     'Morpheus is the peer-to-peer network for generative AI. Permissionless and open-source.',

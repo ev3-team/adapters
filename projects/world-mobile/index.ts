@@ -7,7 +7,7 @@ export default {
   chain: 'CARDANO',
   category: 'WIRELESS',
   token: 'WMT',
-  coingeckoId: 'world-mobile-token',
+  coinGeckoID: 'world-mobile-token',
   id: 'fo1iua',
   description: 'World Mobile is a decentralized mobile network operating globally.',
   discord: '739450842108919828',

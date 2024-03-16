@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'BULB',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ffondw',
   description:
     'BULB is a Write-to-Earn and Read-to-Earn blogging platform where ideas, passions and engagement are rewarded.',

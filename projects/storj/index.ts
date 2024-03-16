@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'STORJ',
-  coingeckoId: 'storj',
+  coinGeckoID: 'storj',
   id: 'arwynb',
   description:
     'Storj is a decentralized cloud storage platform using nodes to host user data in an open-source environment.',

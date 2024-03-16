@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: 'HYP',
-  coingeckoId: 'hyperstake',
+  coinGeckoID: 'hyperstake',
   id: 'hz4cbu',
   description: 'Element is a Matrix-based end-to-end encrypted communications platform.',
   discord: null,

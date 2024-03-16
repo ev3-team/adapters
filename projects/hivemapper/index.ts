@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'HONEY',
-  coingeckoId: 'hivemapper',
+  coinGeckoID: 'hivemapper',
   id: 'o1qnxa',
   description: 'Hivemapper is a decentralized network for street-level imaging and mapping.',
   discord: '715439007764316191',

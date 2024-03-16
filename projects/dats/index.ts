@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qc35fu',
   description:
     'DATS Project: automated vulnerability scanning and cybersecurity solutions with D-HPC for Blockchain and WEB3 security.',

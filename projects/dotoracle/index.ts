@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n8t17l',
   description:
     'DotOracle is a decentralized bridge on Casper Network and a cross-chain bridge supported by EVM chains and non-EVM chains.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5uioqo',
   description:
     'Plural Energy: Renewable energy investment with blockchain tech for accessible opportunities.',

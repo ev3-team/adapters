@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3wnonl',
   description:
     'Nextdata is unlocking the AI revolution with an operating system for decentralized data at scale.',

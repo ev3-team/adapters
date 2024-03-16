@@ -7,7 +7,7 @@ export default {
   chain: 'POLKADOT',
   category: 'NOT_DEPIN',
   token: 'ZTG',
-  coingeckoId: 'zeitgeist',
+  coinGeckoID: 'zeitgeist',
   id: 'yfqm09',
   description:
     'Zeitgeist is a provider of decentralized prediction markets software built on Polkadot.',

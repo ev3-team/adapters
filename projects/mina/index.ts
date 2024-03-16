@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'MINA',
-  coingeckoId: 'mina-protocol',
+  coinGeckoID: 'mina-protocol',
   id: '0mam0q',
   description:
     'Mina is the world’s lightest blockchain, powered by participants. Rather than apply brute computing force, Mina uses advanced cryptography and recursive zk-SNARKs to design an entire blockchain that is and always will be about 22KB.',

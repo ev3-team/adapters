@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0if1hs',
   description: 'Entheos Network: energy solutions & batteries for businesses globally.',
   discord: null,

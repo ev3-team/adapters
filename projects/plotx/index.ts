@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PLOT',
-  coingeckoId: 'plotx',
+  coinGeckoID: 'plotx',
   id: 'ma0gu4',
   description:
     'PlotX is an all-new crypto-based fantasy trivia game that allows users to answer simple questions and win crypto.',

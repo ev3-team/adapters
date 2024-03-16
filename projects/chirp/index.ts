@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zf4ctb',
   description: 'Chirp Wireless is a decentralized wireless network for IoT, mobile, and broadband.',
   discord: null,

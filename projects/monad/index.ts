@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'b207ll',
   description:
     'Monad is a decentralized, developer-forward Layer 1 smart contract platform that ushers in a new paradigm of possibility through pipelined execution of Ethereum transactions. ',

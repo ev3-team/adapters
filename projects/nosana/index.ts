@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'NOS',
-  coingeckoId: 'nosana',
+  coinGeckoID: 'nosana',
   id: 'hdcghq',
   description:
     'Nosana is a decentralized crowd computing network revolutionizing the development process of Metaverse projects.',

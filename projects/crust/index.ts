@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CRU',
-  coingeckoId: 'crust-network',
+  coinGeckoID: 'crust-network',
   id: 'x2nise',
   description:
     'Crust is a decentralized cloud storage provider supporting multiple storage protocols.',

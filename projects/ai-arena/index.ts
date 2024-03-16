@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'NRN',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1q9nu8',
   description:
     'AI ARENA is an Ethereum native game (dApp) where players all over the world can purchase, train, and battle characters powered by AI.',

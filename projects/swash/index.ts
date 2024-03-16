@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SWASH',
-  coingeckoId: 'swash',
+  coinGeckoID: 'swash',
   id: '8mycy6',
   description:
     'Swash enables internet users, developers, and businesses to cultivate new realities of data ownership and value creation through new incentivisation streams.',

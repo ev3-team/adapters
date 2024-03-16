@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'f0pj2v',
   description:
     'ProvenRun is a developer of a cybersecurity platform for connected vehicles and smart devices.',

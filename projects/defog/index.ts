@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'u43dxj',
   description: 'We help enterprises deploy fine-tuned LLMs for enterprise analytics.',
   discord: null,

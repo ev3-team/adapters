@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v187v2',
   description:
     'Obligate is a revolutionary fintech company leveraging blockchain to streamline the debt securities market, reducing issuance time and cutting costs.',

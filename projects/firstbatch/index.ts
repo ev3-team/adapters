@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xjzev4',
   description:
     'HollowDB is a decentralized key-value database on Arweave for secure and efficient data storage.',

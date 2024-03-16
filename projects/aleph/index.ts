@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'ALEPH',
-  coingeckoId: 'aleph-im',
+  coinGeckoID: 'aleph-im',
   id: 'shwbn0',
   description:
     'Aleph.im is an open-source crosschain network featuring decentralized database including file storage, computing, and a decentralized identity (DID) framework.',

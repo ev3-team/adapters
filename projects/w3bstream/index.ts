@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g62mpn',
   description:
     'W3bstream is a decentralized infrastructure for connecting smart devices to smart contracts',

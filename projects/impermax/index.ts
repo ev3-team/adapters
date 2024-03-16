@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'IBEX',
-  coingeckoId: 'impermax-2',
+  coinGeckoID: 'impermax-2',
   id: 'd869lq',
   description: 'Impermax: Cross-chain lending protocol offers yield for lenders and borrowers.',
   discord: '782387768411815947',

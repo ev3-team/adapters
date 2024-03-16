@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ke5ypn',
   description:
     'Upstreet is creating immersive experiences in browser-based products with multimodal AI agents built on top of a custom 3js game engine.',

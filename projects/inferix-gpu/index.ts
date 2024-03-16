@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'r1c4n7',
   description: 'Inferix - Decentralized GPU network for 3D rendering, AI training & inference.',
   discord: '1139015527939981453',

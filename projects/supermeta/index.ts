@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '41xvbt',
   description: 'We create phenomenal NFT experiences with exceptional creators and brands.',
   discord: null,

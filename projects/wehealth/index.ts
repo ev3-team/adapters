@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '80us6v',
   description:
     'WeHealth: Innovative digital solutions for remote patient monitoring and personalized healthcare.',

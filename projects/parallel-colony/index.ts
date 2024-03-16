@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1thsxx',
   description:
     'Parallel Colony is a simulation game where users partner with an AI Avatar to navigate a mining colony. Each avatar controls a 6551 wallet - meaning they own digital possessions [ERC 1155s and PRIME].',

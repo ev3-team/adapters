@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n87ym5',
   description:
     'Robotiz3d is building the world‚Äôs first autonomous road maintenance vehicle to help tackle the pothole problem.',

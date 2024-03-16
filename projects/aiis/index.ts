@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zfup4o',
   description:
     'Skip complex code. With AI, creating and deploying your own ERC-20 token is as simple as answering a few questions!',

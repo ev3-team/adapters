@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '56zb0b',
   description:
     'Tatami is the first-ever decentralized video game publisher, powered by a shared ecosystem.',

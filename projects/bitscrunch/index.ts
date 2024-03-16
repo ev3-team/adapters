@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'x835xi',
   description: 'BitsCrunch: AI-powered, decentralized NFT data for reliable dApps.',
   discord: '860459595025219585',

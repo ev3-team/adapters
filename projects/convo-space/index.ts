@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6w9zdx',
   description: 'Decentralized conversation layer powering Web3.',
   discord: '857633502011195462',

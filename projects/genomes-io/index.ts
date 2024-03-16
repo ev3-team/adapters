@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'GENE',
-  coingeckoId: 'genomesdao',
+  coinGeckoID: 'genomesdao',
   id: 'lfu9ni',
   description:
     'Genomes.io is a biotech DAO monetizing genomic data securely, privately & audibly via DeFi.',

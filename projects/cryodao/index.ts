@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'CYRO',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'amkyla',
   description:
     'CryoDAO is a decentralized collective funding high-impact research in the field of cryopreservation.',

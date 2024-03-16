@@ -7,7 +7,7 @@ export default {
   chain: 'ARBITRUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'AVIVE',
-  coingeckoId: 'avive',
+  coinGeckoID: 'avive',
   id: 'hhkxx7',
   description:
     'Avive World is a geosocial protocol and token-controlled community that emphasizes individual data sovereignty through its "Sovereign Footprint" concept, offering members immutable digital identities and exclusive access to content and services.',

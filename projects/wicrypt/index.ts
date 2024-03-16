@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'WNT',
-  coingeckoId: 'wicrypt',
+  coinGeckoID: 'wicrypt',
   id: 'ynsj12',
   description: 'WiCrypt is a decentralized WiFi sharing network.',
   discord: '892017585711886366',

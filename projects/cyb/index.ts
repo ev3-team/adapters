@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dt9e3m',
   description:
     'Cyb.ai is developing a decentralized AI protocol for unified, provable, collective learning.',

@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'RYU',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8w0s7k',
   description:
     'Ryu Chain is decentralized software enabling everyone to use the full capability of NFTs in combination with decentralized Software and the power of AI.',

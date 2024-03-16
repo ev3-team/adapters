@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'RIO',
-  coingeckoId: 'realio-network',
+  coinGeckoID: 'realio-network',
   id: 'tg1g7b',
   description:
     'Realio manages real-world assets across multiple chains using Cosmos SDK and Tendermint.',

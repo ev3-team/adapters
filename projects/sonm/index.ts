@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'SNM',
-  coingeckoId: 'sonm',
+  coinGeckoID: 'sonm',
   id: 'qjzgqy',
   description:
     'SONM is a decentralized worldwide fog supercomputer for general purpose computing from site hosting to scientific calculations.',

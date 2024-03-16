@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ba6xjm',
   description:
     'Polymathic AI develops versatile foundation models for machine learning applications in various scientific fields.',

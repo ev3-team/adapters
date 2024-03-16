@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'x6phis',
   description:
     'At smlXL, we spend much time diving into solc - our latest blog series (3 parts) will cover areas of solc that lack documentation yet are essential (and interesting).',

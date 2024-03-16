@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'FAKEAI',
-  coingeckoId: 'deepfakeai',
+  coinGeckoID: 'deepfakeai',
   id: '1cdn19',
   description: 'DeepFakeAI is a deepfake creation program using a Telegram Bot and Web App.',
   discord: '1120405708186337411',

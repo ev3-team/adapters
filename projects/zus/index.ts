@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'ZCN',
-  coingeckoId: '0chain',
+  coinGeckoID: '0chain',
   id: 'q97oiz',
   description:
     'Zus is a decentralized storage network with built-in privacy and security compliance.',

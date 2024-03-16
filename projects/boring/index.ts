@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: 'BOP',
-  coingeckoId: 'boring-protocol',
+  coinGeckoID: 'boring-protocol',
   id: 'whkmqt',
   description: 'Boring is a decentralized VPN and peer-to-peer bandwidth market.',
   discord: null,

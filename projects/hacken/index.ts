@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'HAI',
-  coingeckoId: 'hacken',
+  coinGeckoID: 'hacken',
   id: 'xvra0g',
   description:
     'HackenAI is a blockchain cybersecurity application that protects users’ digital assets as well as incentivizes them to learn cybersecurity best practices. ',

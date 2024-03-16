@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'u1g1gw',
   description: 'KINO aims to make the film/tv industry more equitable for all.',
   discord: null,

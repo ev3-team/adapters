@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'x94xlf',
   description:
     'Apillion is a Web3 development platform enabling developers to build in the Polkadot ecosystem.',

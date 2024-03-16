@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'c0u4u3',
   description: 'ELOOP: Rent, share, and charge electric cars.',
   discord: null,

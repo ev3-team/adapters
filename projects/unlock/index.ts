@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'i7nidt',
   description:
     'Unlock is a protocol for creators to monetize content, using just a few lines of decentralized code.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'VAULT',
-  coingeckoId: 'vaulttech',
+  coinGeckoID: 'vaulttech',
   id: '0tthma',
   description:
     "Vault.tech offers a blockchain ecosystem with AI-enhanced escrow, OTC trading, and private swaps via VaultChain. Token holders gain exclusive benefits, while VaultAI's Escrow Bot ensures secure, impartial transactions.",

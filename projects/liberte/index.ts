@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'c6hicp',
   description: 'Liberte is a DePIN compute framework for on-chain games.',
   discord: null,

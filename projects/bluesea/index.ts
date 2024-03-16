@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: 'BSEA',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'awvg5f',
   description:
     'Bluesea Network is a decentralized network with designed routing for ultra-low latency streaming, lowering cost by utilizing redundant resources from home and enterprise servers.',

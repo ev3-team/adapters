@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'WIRELESS',
   token: 'WIFI',
-  coingeckoId: 'wifi',
+  coinGeckoID: 'wifi',
   id: 'xz6ffz',
   description:
     'WiFi Map is a decentralized connectivity ecosystem mapping 10m+ WiFi hotspots globally.',

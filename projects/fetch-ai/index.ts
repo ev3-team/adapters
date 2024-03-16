@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'FET',
-  coingeckoId: 'fetch-ai',
+  coinGeckoID: 'fetch-ai',
   id: 'mhpovr',
   description:
     'Fetch.ai is a Blockchain-based AI and ML platform connecting devices for market creation and data value addition.',

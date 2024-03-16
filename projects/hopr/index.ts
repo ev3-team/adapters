@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'HOPR',
-  coingeckoId: 'hopr',
+  coinGeckoID: 'hopr',
   id: 'rdr178',
   description: 'HOPR connects unused internet bandwidth for monetization.',
   discord: '679586195529007116',

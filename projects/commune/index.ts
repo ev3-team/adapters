@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: 'COM',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dam39v',
   description:
     'Commune is a protocol designed to unify developer tools into a single, open network, offering a flexible and inclusive framework that supports the integration and sharing of resources to promote innovation and efficiency among developers.',

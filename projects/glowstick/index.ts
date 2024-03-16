@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pztili',
   description:
     'Glowstick is a user-friendly tool enabling easy 3D environment creation and storytelling.',

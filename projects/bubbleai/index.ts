@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sws22r',
   description:
     'BubbleAI is a fast off-chain data intent trading platform with AI sentiment analysis tools',

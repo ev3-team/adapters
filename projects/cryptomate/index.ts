@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'h2kze5',
   description: 'Cryptomate is a decentralized ecosystem of interactive crypto APIs.',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'XRT',
-  coingeckoId: 'robonomics-network',
+  coinGeckoID: 'robonomics-network',
   id: '47a3ty',
   description:
     'Robonomics is an open-source platform for IoT applications which enables the exchange of technical and economic information between user applications, IoT services, and complex robotics.',

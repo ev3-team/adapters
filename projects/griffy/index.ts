@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4loe4v',
   description: 'Griffy is a poll-based prediction markets protocol.',
   discord: null,

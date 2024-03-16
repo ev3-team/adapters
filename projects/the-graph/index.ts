@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'GRT',
-  coingeckoId: 'the-graph',
+  coinGeckoID: 'the-graph',
   id: 'x3ay3v',
   description:
     'The Graph: a blockchain indexing protocol, providing efficient GraphQL-based access to blockchain data.',

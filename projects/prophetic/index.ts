@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n08otn',
   description: 'Prophetic is a neurotech company pioneering a lucid dream-inducing device.',
   discord: null,

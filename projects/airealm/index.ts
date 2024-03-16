@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AIRM',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'muunxy',
   description:
     'AIREALM is an AI Ecosystem that gathers AI utilities into a single platform, enhancing convenience and innovation for users. The AI REALM suite consists of AI Swap, Chatbot, Chart Bot, and AI Auditor, catering to users of all levels.',

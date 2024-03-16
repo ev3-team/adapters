@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rr8fxt',
   description:
     'Together.ai is a decentralised cloud platform that empowers developers to train and deploy generative AI models.',

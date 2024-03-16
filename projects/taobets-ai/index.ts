@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1wyd0b',
   description:
     'TAObets.ai is a sports prediction site powered by the cutting-edge Bittensor network with a focus on sports betting and fantasy sports.',

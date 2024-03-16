@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'CTXC',
-  coingeckoId: 'cortex',
+  coinGeckoID: 'cortex',
   id: 'pd82aa',
   description:
     'Cortex Labs: Decentralized blockchain for AI models in smart contracts for enhanced DApps.',

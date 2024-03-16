@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zug89a',
   description: 'Ylide Protocol: secure cross-chain wallet communication for Web3 projects.',
   discord: null,

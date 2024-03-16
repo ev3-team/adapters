@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'DCK',
-  coingeckoId: 'dexcheck',
+  coinGeckoID: 'dexcheck',
   id: 'wt759c',
   description:
     'DexCheck: AI-powered Crypto & NFT Analytics platform for real-time insights and market analysis.',

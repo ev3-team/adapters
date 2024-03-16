@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gtqv1n',
   description: 'AristotleAI provides personalized learning experiences and insights.',
   discord: null,

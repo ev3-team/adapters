@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bh55a0',
   description:
     'An affiliate marketing platform built specifically for web3 that allows creators to monetize their content.',

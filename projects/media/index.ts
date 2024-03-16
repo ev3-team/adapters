@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'MEDIA',
-  coingeckoId: 'media-network',
+  coinGeckoID: 'media-network',
   id: 'iqnvgc',
   description: 'Media Network is a decentralized hub for web services.',
   discord: '832942573642973194',

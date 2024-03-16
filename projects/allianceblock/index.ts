@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ALBT',
-  coingeckoId: 'allianceblock',
+  coinGeckoID: 'allianceblock',
   id: 'zgvzl4',
   description:
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'VID',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pmtbrw',
   description:
     'VIVID is a next-generation NFT publishing platform that allows anyone to create, manage, and sell multimedia NFTs. Powered by the VID token, VIVID enables new use cases and business models evolving NFTs into complete media experiences.',

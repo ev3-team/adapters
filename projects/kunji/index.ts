@@ -7,7 +7,7 @@ export default {
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'KNJ',
-  coingeckoId: 'kunji-finance',
+  coinGeckoID: 'kunji-finance',
   id: '9zg5p3',
   description: 'Kunji Finance: Decentralized asset management platform on Arbitrum chain.',
   discord: '922736855097679892',

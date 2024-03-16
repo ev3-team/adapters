@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'LMWR',
-  coingeckoId: 'limewire',
+  coinGeckoID: 'limewire',
   id: 'ubt5kj',
   description:
     'LimeWire is an AI-powered content publishing platform that allows users to create, publish, and monetize images, videos, and music with the power of AI. ',

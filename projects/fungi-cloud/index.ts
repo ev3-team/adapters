@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'btj93l',
   description:
     'Fungi Cloud is a decentralized data storage and cloud computing company on top of blockchain technology.',

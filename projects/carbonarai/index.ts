@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '77pefj',
   description:
     'CarbonarAI is a tool that helps in decision making processes. Through a friendly web interface, AI and ML algorithms, it provides a natural way of querying on chain data.',

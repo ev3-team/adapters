@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7lu677',
   description: 'UBIQnet - decentralized computing with blockchain tech.',
   discord: '1079671303801425942',

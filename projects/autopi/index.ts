@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8sl5rq',
   description:
     'AutoPi is an industry-leading provider of IoT infrastructure, offering specialized telematics devices and a cloud-based management platform for businesses with fleets.',

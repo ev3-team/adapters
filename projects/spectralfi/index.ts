@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rnxact',
   description:
     'Machine Intelligence Network to consume zkML-verified inferences directly through smart contracts',

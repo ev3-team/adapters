@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'COMPUTE',
   token: 'DE',
-  coingeckoId: 'denet-file-token',
+  coinGeckoID: 'denet-file-token',
   id: 'g8kgxw',
   description:
     'DeNet provides a decentralized storage protocol using spare global capacities, leveraging blockchain for secure, user-owned data.',

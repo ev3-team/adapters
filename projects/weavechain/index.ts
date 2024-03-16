@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 's1imi6',
   description:
     'Weavechain is a secure data exchange layer that unlocks Web3 immutability and data lineage.',

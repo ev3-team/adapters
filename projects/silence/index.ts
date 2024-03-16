@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j2py3v',
   description:
     'Silence Labs is a cybersecurity company specializing in decentralized MFA and MPC-based authentication.',

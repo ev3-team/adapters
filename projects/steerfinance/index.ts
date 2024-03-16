@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nfdwqm',
   description: 'SteerFinance is a developer of decentralized compute protocols.',
   discord: '826272379327741992',

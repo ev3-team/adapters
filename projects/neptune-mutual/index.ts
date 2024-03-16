@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'NPM',
-  coingeckoId: 'neptune-mutual',
+  coinGeckoID: 'neptune-mutual',
   id: 'r4h43s',
   description: 'Neptune Mutual is the first parametric insurance protocol created for Ethereum.',
   discord: '846975061163900938',

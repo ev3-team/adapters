@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'w0adea',
   description: 'Cedalio: Auditable apps with real data ownership and GraphQL databases.',
   discord: '989948949823651862',

@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'CREO',
-  coingeckoId: 'creo-engine',
+  coinGeckoID: 'creo-engine',
   id: 'ize2ge',
   description:
     'Creo Engine is a gaming blockchain platform dedicated to game developers worldwide to launch their games.',

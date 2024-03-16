@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'CAPE',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1rgbka',
   description:
     'Espresso Systems is a decentralized sequencer and data availability system connecting layer-2 scaling solutions.',

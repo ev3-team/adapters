@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'duen7b',
   description:
     "BOINC AI aims to solve the impossible triangle between blockchain and AI and aims to build the world's largest decentralised cloud computing platform and AI public chain system.",

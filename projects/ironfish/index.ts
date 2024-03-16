@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'h21nov',
   description:
     'Iron Fish encrypts every transaction, shielding your sensitive asset information from public view.',

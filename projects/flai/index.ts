@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6j3y7z',
   description:
     'Flai develops a web-based application that automatically turns raw geospatial data into meaningful information.',

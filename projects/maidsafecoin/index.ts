@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'EMAID',
-  coingeckoId: 'maidsafecoin',
+  coinGeckoID: 'maidsafecoin',
   id: 'ubmhxr',
   description:
     'MaidSafeCoin is a decentralized data network built on autonomous principles for secure and efficient data-sharing.',

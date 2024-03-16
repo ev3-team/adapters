@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8ul10b',
   description:
     'Provide decentralized underlying data storage technology for Metaverse&NFT to open up data value transfer channels, and help human civilization survive forever. ',

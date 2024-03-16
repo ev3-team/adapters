@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hcinar',
   description: 'Revert makes it incredibly easy to build integrations with any third party API.',
   discord: '1126480907881160714',

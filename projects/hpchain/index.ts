@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: 'HPC',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hypd80',
   description:
     'HPChain is a cutting-edge platform that merges GPU rendering with blockchain technology, offering a decentralized network for high-performance computing, tailored for AI and cloud gaming applications.',

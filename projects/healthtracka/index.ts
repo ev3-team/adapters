@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'mq0qgk',
   description:
     'Healthtracka is a health tech startup decentralizing lab testing in Africa with at-home testing and digital results.',

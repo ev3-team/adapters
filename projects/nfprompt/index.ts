@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'NFP',
-  coingeckoId: 'nfprompt',
+  coinGeckoID: 'nfprompt',
   id: 'cellmj',
   description:
     'NFPrompt is the first Prompt Artist Platform in Web3, which lets users mint their imagination into an AI-generated NFT. Collectors and enthusiasts can buy/sell the NFT together with the prompt that was used to generate the image.',

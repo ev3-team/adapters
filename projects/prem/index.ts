@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ygrlcj',
   description:
     'Prem AI is a provider of an easy to use Generative AI Developer Platform. The Prem Network is a cutting-edge platform that leverages a distributed mesh of GPU provider to optimize the processing of large Open Source models.',

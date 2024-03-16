@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cmvmnd',
   description:
     'Developer of a decentralized infrastructure for the new creative economy intended to build d-apps and protocols that leverage emerging market opportunities.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ILV',
-  coingeckoId: 'illuvium',
+  coinGeckoID: 'illuvium',
   id: 'jmqb38',
   description:
     'Illuvium is a video game developer and publisher of AAA play-to-earn crypto games.  Illuvium games are built on the Ethereum blockchain with collectible NFTs across the DeFi metaverse.',

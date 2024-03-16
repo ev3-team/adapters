@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CUDOS',
-  coingeckoId: 'cudos',
+  coinGeckoID: 'cudos',
   id: 'jitkjs',
   description: 'Cudos is a decentralized cloud computing network.',
   discord: '593796681103966208',

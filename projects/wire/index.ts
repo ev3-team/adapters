@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yih1xv',
   description: 'Wire: blockchain with APOS consensus for user growth.',
   discord: '378315541083062282',

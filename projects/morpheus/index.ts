@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'MITX',
-  coingeckoId: 'morpheus-labs',
+  coinGeckoID: 'morpheus-labs',
   id: 'ocgn0p',
   description:
     'Morpheus is designed to incentivize the first peer-to-peer network of personal AIs, known as Smart Agents.',

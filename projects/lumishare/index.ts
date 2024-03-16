@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'ENERGY',
   token: 'LUMI',
-  coingeckoId: 'lumishare',
+  coinGeckoID: 'lumishare',
   id: '6s00n5',
   description:
     'LumiShare, powered by $LUMI, is a financial blockchain ecosystem focused on tokenizing renewable energy assets through its NFT Marketplace.',

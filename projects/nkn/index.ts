@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'NKN',
-  coingeckoId: 'nkn',
+  coinGeckoID: 'nkn',
   id: 'xi19vn',
   description:
     'NKN is a peer-to-peer network connectivity protocol that enables decentralized and secure communication between devices.',

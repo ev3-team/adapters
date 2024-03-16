@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'NOIA',
-  coingeckoId: 'syntropy',
+  coinGeckoID: 'syntropy',
   id: 'm9yv19',
   description:
     'Syntropy transforms the way blockchain data is accessed through our innovative Data Layer protocol.',

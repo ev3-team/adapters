@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l7nsll',
   description:
     'Tresorio Operator is a fog computing platform providing carbon-friendly micro data centers and cloud computing services.',

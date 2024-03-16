@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'CHRP',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'okfrzh',
   description:
     'Chirpley is the world, first automated, peer-to-peer, all-in-one influencer marketplace specifically focussed on nano and micro influencers.',

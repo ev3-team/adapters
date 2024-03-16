@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '01khbv',
   description:
     'zkcloud is a cloud-based service that allows users to create zero-knowledge proofs on the cloud.',

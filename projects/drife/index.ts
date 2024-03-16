@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'SERVICES',
   token: 'DRF',
-  coingeckoId: 'drife',
+  coinGeckoID: 'drife',
   id: 'con8un',
   description: 'DRIFE is a decentralized ride-hailing platform with 30k+ drivers.',
   discord: '1177521017917288448',

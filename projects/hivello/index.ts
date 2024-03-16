@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '560f30',
   description:
     'Hivello is a startup providing Helium hotspots to expand the helium digital network and increase connectivity.',

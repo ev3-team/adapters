@@ -7,7 +7,7 @@ export default {
   chain: 'COSMOS',
   category: 'ENERGY',
   token: 'C4E',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '92o0ip',
   description:
     'Chain4Energy is a DePIN L1 Blockchain: The Technological Foundation for a Decentralized, Community-Driven Energy Ecosystem for DeGEP, ChargEra, and Energy Communities',

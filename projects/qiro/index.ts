@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'alkph8',
   description: 'Qiro is a unified credit protocol enabling RWA-backed DeFi lending.',
   discord: null,

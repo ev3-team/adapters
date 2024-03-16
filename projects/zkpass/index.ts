@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uhupn6',
   description: 'ZKPass is a privacy-preserving protocol for private data verification.',
   discord: '950858460122206228',

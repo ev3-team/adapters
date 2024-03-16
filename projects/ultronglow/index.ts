@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4glwdr',
   description:
     'UltronGlow: decentralized storage network for secure data storage, users earn rewards.',

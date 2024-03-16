@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'h4cnmu',
   description:
     'Tao Studio is a developer of a text-based image generator that produces high-quality images.',

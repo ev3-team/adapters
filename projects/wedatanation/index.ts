@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ah17kx',
   description: 'WeDataNation: Secure platform for user data aggregation.',
   discord: '947527916403699772',

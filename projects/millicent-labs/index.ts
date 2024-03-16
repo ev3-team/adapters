@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 's1f9ke',
   description: 'Millicent Labs upgrades financial systems with distributed ledger technology.',
   discord: null,

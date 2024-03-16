@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ks1fra',
   description:
     'exaBITS is a decentralized infrastructure for AI and computationally intensive applications.',

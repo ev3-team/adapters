@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0c8gl1',
   description:
     'Dialect is developing a protocol for smart messaging. It offers ‚Äädynamic, composable dapp notifications and wallet-to-wallet chat. Powered by Solana.',

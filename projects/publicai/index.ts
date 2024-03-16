@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '11aqyc',
   description: 'PublicAI is a decentralized network focused on RHLF.',
   discord: '1067993454468153426',

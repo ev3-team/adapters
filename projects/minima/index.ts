@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'WMINIMA',
-  coingeckoId: 'wrapped-minima',
+  coinGeckoID: 'wrapped-minima',
   id: 'w75xgw',
   description:
     'Minima is a decentralized Layer 1 DePIN blockchain designed to be accessible to as many people as possible by making it compact enough to run on mobile and IoT devices.',

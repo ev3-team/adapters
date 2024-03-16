@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PNK',
-  coingeckoId: 'kleros',
+  coinGeckoID: 'kleros',
   id: 'z2bo5e',
   description:
     'Kleros is a decentralized arbitration protocol for disputes in the web3 economy. It relies on game theoretic incentives to have anonymous jurors rule cases correctly.',

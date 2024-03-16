@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'BLOCKCHAIN_INFRA',
   token: 'CTK',
-  coingeckoId: 'shentu',
+  coinGeckoID: 'shentu',
   id: 'vp6r7p',
   description:
     'Shentu Chain enables a system of decentralized Security Oracles that provide runtime analysis of the security of live smart contracts. ',

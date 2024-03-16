@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3lfveq',
   description: 'Daylight is a community-powered energy grid.',
   discord: null,

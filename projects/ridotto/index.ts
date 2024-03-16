@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'RDT',
-  coingeckoId: 'ridotto',
+  coinGeckoID: 'ridotto',
   id: 'dth4ai',
   description:
     'Ridotto is a cross-chain Gaming and lottery protocol based on complete transparency, anonymity, security, and fairness.',

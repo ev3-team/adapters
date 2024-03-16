@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ka2bzq',
   description:
     'Armur Ai is a web3 cybersecurity product suite/platform that helps secure decentralized applications and blockchain solutions.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'XCAD',
-  coingeckoId: 'xcad-network',
+  coinGeckoID: 'xcad-network',
   id: 'xpvsgg',
   description:
     'XCAD Network is a platform harnessing the value of Content Creator audiences via Creator tokenization, viewers earn rewards used for fan governance.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6624lr',
   description:
     'Twentysix Cloud is a decentralized cloud marketplace offering a full range of blockchain-based storage, compute engine, indexing, and AI solutions for businesses and applications, powered by Aleph.im.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tfvxda',
   description:
     'TestMachine is an AI-powered blockchain security platform that aids smart contract developers in finding and fixing vulnerabilities in blockchain code at lightning speed.',

@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: ':ZKT:',
-  coingeckoId: 'tenset',
+  coinGeckoID: 'tenset',
   id: '7n7stw',
   description:
     'ZKTsunami pioneers privacy-centric solutions with its ZK-AnonSNARK technology, offering an interoperable ecosystem for anonymous digital assets.',

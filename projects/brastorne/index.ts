@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g7czmv',
   description:
     'Brastorne proves access to information, markets, and community through easy and affordable internet access in Africa.',

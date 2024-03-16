@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'WXM',
-  coingeckoId: 'weatherxm',
+  coinGeckoID: 'weatherxm',
   id: 'ff9s3p',
   description: 'WeatherXM is a decentralized weather data collection network.',
   discord: '813503633278631946',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'OPCT',
-  coingeckoId: 'opacity',
+  coinGeckoID: 'opacity',
   id: '5276zx',
   description:
     'Opacity is a secure, blockchain-based file storage service that ensures anonymity and encryption.',

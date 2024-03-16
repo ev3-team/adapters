@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 's74bpn',
   description: 'Spreads: Empowering communities for digital transformation.',
   discord: null,

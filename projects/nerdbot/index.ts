@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'NERD',
-  coingeckoId: 'nerdbot',
+  coinGeckoID: 'nerdbot',
   id: 'xk23m0',
   description:
     'NerdBot is the first on-chain, all-in-one analytics platform allowing users to analyze tokens and follow smart money while enabling DEX trade and portfolio management.',

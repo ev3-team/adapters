@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'znfg6y',
   description:
     'Hyperline is a fully managed Blockchain Data Platform for Analytics, Data Science, and Machine Learning workloads.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'mssc3j',
   description:
     'Mind is an agnostic graph-based meta-programming language designed for both AI & humans, enabling easy program creation & modification through natural language.',

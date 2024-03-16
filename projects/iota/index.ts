@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'IOTA',
-  coingeckoId: 'iota',
+  coinGeckoID: 'iota',
   id: 'gobzn5',
   description:
     'IOTA uses Tangle instead of blockchain, offering faster speeds for the Internet of Things ecosystem.',

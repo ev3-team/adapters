@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'AIPG',
-  coingeckoId: 'ai-power-grid',
+  coinGeckoID: 'ai-power-grid',
   id: 'kv3vqp',
   description:
     'AI Power Grid is an innovative blockchain project designed to incentivize and reward open-source AI participation.',

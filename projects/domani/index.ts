@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DEXTF',
-  coingeckoId: 'dextf',
+  coinGeckoID: 'dextf',
   id: 'kistgs',
   description:
     'DOMANI is an asset management protocol for DeFi that provides minting, trading, redeeming, and liquidity for non-custodial oracle-less tokenized portfolios (XTFs).',

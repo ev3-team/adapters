@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PERPS',
-  coingeckoId: 'perpetual-protocol',
+  coinGeckoID: 'perpetual-protocol',
   id: 'z6ss7w',
   description:
     'Perpetual Protocol is a software that seeks to incentivize a distributed network of computers to operate an exchange where users can buy and sell derivative contracts.',

@@ -7,7 +7,7 @@ export default {
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'JUNO',
-  coingeckoId: 'juno-network',
+  coinGeckoID: 'juno-network',
   id: 'e277dp',
   description: 'Juno is decentralized network for interoperable apps',
   discord: '816256689078403103',

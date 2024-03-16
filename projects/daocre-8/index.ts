@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qy5sl8',
   description:
     'DAOCre-8 combines traditional crowdfunding with decentralized governance, empowering creators & backers to influence project decisions through DAOs, Milestone-based funding, and AI-powered analytics.',

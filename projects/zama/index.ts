@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3cujtx',
   description:
     'Zama provides a range of open-source FHE tooling for both crypto and non-crypto use cases. Its fhEVM library enables private smart contracts, guaranteeing both on-chain confidentiality and composability.',

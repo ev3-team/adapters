@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ALLIN',
-  coingeckoId: 'all-in',
+  coinGeckoID: 'all-in',
   id: 'q9od26',
   description:
     'All In is an AI-focused project, designed to empower communities and projects to fully utilize AI technology. They offer data analysis and management, process automation, customer services and community management, and content development services.',

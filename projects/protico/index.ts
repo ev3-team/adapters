@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ourync',
   description:
     'Protico is a Web3 Chatting network aiming to realize a universal chatting interface for enterprises and users across all Apps.',

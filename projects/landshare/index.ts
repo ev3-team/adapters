@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'LAND',
-  coingeckoId: 'landshare',
+  coinGeckoID: 'landshare',
   id: 'v4pxv7',
   description:
     'Landshare turns real-world properties into asset-backed, yield-bearing, and fully tradeable asset tokens on the Binance Smart Chain.',

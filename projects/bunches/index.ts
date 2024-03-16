@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iai3ik',
   description:
     'Bunches is building a social network for sports fans, powered by Web3. It allows users to chat about sports, analyze plays, and share their opinions.',

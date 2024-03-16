@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'RLB',
-  coingeckoId: 'rollbit-coin',
+  coinGeckoID: 'rollbit-coin',
   id: '3m9m9c',
   description: 'Rollbit offers casino games, sportsbook, futures trading, and NFT trading.',
   discord: '698240441316802589',

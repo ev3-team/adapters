@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'x5z0mq',
   description:
     'nRide is developing a peer-to-peer ride-hailing protocol that connects riders and drivers directly, eliminating intermediaries.',

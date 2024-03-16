@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ZKP',
-  coingeckoId: 'panther-protocol',
+  coinGeckoID: 'panther-protocol',
   id: 'srjeix',
   description:
     "Panther is a cross-protocol layer that uses zero-knowledge technology to build DeFi solutions that meet regulatory requirements and satisfy users' on-chain data privacy needs.",

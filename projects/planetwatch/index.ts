@@ -7,7 +7,7 @@ export default {
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PLANETS',
-  coingeckoId: 'planetwatch',
+  coinGeckoID: 'planetwatch',
   id: 'qxqpla',
   description: 'Planetwatch is a decentralized network of air quality monitors.',
   discord: '855002894717419521',

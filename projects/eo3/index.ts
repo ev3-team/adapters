@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ttrbf5',
   description:
     'EO3 is a decentralized ecosystem for Earth Data & Intelligence that connects providers (content creators), insight developers (data miners), and the user (purchaser) communities, with verification nodes to validate and distribute data & insights.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'LINK',
-  coingeckoId: 'chainlink',
+  coinGeckoID: 'chainlink',
   id: 'y9e0mz',
   description:
     'Chainlink enables connected smart contracts through a decentralized oracle network.',

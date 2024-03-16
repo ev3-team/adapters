@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '14khqv',
   description: 'DeFli builds global infrastructure for the unmanned aviation industry.',
   discord: '1085688022001004676',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zgv8uf',
   description:
     'Taubyte is a framework to build Cloud Computing Platforms/Networks. Taubyte enables organizations to build and manage their own cloud infrastructure in a flexible, interoperable, and transparent way, specifically designed to support the unique requirements of web3 and optimized for edge computing. ',

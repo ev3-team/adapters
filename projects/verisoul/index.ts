@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2gzcyz',
   description:
     'Verisoul: A decentralized platform for trusted Web3 businesses, ensuring privacy and trust.',

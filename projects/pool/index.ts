@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'POOL',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ueuvax',
   description:
     'Pool provides a platform and associated services to support Data Unions to develop, scale and monetize.',

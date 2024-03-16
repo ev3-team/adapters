@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'BZZ',
-  coingeckoId: 'swarm-bzz',
+  coinGeckoID: 'swarm-bzz',
   id: '8s783v',
   description: 'Swarm is a decentralised data storage and distribution technology.',
   discord: '799027393297514537',

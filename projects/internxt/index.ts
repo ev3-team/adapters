@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'INXT',
-  coingeckoId: 'internxt',
+  coinGeckoID: 'internxt',
   id: 'fsemso',
   description: 'Internxt is a provider of decentralized, privacy-focused cloud storage services.',
   discord: null,

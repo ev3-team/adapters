@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'NEAR',
-  coingeckoId: 'near',
+  coinGeckoID: 'near',
   id: 'dnmt6p',
   description:
     'NEAR is a layer one, sharded, proof-of-stake blockchain built with usability in mind. It allows developers to create and distribute decentralized apps on any blockchain',

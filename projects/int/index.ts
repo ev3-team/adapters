@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'SENSORS',
   token: 'INT',
-  coingeckoId: 'internet-node-token',
+  coinGeckoID: 'internet-node-token',
   id: 'c77cyh',
   description: 'INT: Intelligent ecosystem enabling free data flow and privacy in IoT.',
   discord: '819034774252552262',

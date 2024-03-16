@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'EDGE',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'up2lee',
   description:
     'Edge is a platform for individuals to rent out edge computing power to businesses, earning tokens.',

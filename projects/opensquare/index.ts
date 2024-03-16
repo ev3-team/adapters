@@ -7,7 +7,7 @@ export default {
   chain: 'POLKADOT',
   category: 'COMPUTE',
   token: 'OSN',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'u11wz8',
   description:
     'Opensquare is building a decentralized, trusted collaboration network. The collaboration data will be stored on blockchain, and personal credit will be built on it.',

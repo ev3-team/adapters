@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9a3i9h',
   description:
     'Dentity aims to transform digital credentials, combating enterprise fraud by offering a feature-rich Web3 Identity & Verifiable Credentials Platform with broad identity standard integrations. ',

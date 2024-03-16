@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'SENSORS',
   token: 'WIRTUAL',
-  coingeckoId: 'wirtual',
+  coinGeckoID: 'wirtual',
   id: '6k69oz',
   description:
     'WIRTUAL is a Web3 Exercise to Earn platform that allows users to earn WIRTUAL coins through exercise and exchange coins for store purchases or discounts.',

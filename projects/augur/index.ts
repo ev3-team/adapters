@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'REP',
-  coingeckoId: 'augur',
+  coinGeckoID: 'augur',
   id: 'boagvx',
   description:
     'Augur is a decentralized prediction market platform that utilizes Ethereum smart contracts to create a trustless oracle and forecasting tool where users can speculate on the outcome of events.',

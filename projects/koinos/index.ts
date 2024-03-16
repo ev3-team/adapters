@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'KOIN',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '83tc81',
   description: 'Koinos is a blockchain network with free-to-use apps and dynamic resource pricing.',
   discord: '613823471679438898',

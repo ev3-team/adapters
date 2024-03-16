@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DG',
-  coingeckoId: 'decentral-games',
+  coinGeckoID: 'decentral-games',
   id: 'm7q3yn',
   description:
     'Decentral Games is the first fully licensed Metaverse casino. It allows users to play with crypto, invite their friends, compete for big prizes in weekly casino competitions, and attend live events from the comfort of their own homes.',

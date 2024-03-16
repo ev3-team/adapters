@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rq4805',
   description:
     "Archblock is a decentralized alternatives marketplace built on TrueFi's open, transparent and immutable financial infrastructure.",

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HAPI',
-  coingeckoId: 'hapi-one',
+  coinGeckoID: 'hapi-one',
   id: 'um75jm',
   description: 'Hapi Protocol: Cross-chain protocol for DeFi security.',
   discord: '854680817661640754',

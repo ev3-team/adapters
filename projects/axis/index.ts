@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'AXIS',
-  coingeckoId: 'axis-token',
+  coinGeckoID: 'axis-token',
   id: '56jkto',
   description: 'AXIS is a blockchain-powered direct freight network.',
   discord: '1182432231180996628',

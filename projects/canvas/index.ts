@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ae9xhv',
   description:
     'Canvas is a peer-to-peer architecture and developer platform for decentralized applications.',

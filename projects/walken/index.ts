@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'WLKN',
-  coingeckoId: 'walken',
+  coinGeckoID: 'walken',
   id: 'kt77as',
   description:
     'Walken is a play and exercise-to-earn mobile app that aims to connect real-life sports activities with online gaming and earning crypto.',

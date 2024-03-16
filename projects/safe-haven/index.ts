@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'SHA',
-  coingeckoId: 'safe-haven',
+  coinGeckoID: 'safe-haven',
   id: 'ewlwyh',
   description: 'Decentralized digital inheritance',
   discord: '951025651463385129',

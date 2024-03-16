@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dqmv0o',
   description: 'Pads Financial is a Montreal based Fintech startup serving Canadian homeowners.',
   discord: null,

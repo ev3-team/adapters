@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gdo61v',
   description: 'Products and solutions for every stage of your app development journey!',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jtmdi1',
   description: 'Empower billions of people via self-sovereign Personal AI.',
   discord: null,

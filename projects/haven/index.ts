@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: 'XHV',
-  coingeckoId: 'haven',
+  coinGeckoID: 'haven',
   id: '29gzf9',
   description:
     'Haven partners with Anchorage to provide secure staking services for Filecoin tokens.',

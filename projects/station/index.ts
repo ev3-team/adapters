@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'msq3dm',
   description:
     "Station is an easy-to-use desktop app that connects users' computer’s idle resources to the Filecoin network and rewards them with FIL.",

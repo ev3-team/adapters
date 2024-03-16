@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'CSIX',
-  coingeckoId: 'carbon-browser',
+  coinGeckoID: 'carbon-browser',
   id: 'a8pfxe',
   description:
     'Carbon Browser is a fast, private, and secure web browser designed for Web3 that aims to deliver a comprehensive and secure experience with features like a multi-chain crypto wallet, blockchain bridge, VPN, and AdBlock.',

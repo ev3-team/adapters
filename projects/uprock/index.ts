@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1rtzqi',
   description: 'UpRock AI revolutionizes decision-making with personalized, real-time insights.',
   discord: null,

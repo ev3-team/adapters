@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5ylhgz',
   description:
     'zkHub is a decentralized marketplace for generating zero-knowledge proofs. The platform enables proof-gen in an efficient and privacy-preserving manner using MPC & parallelization techniques.',

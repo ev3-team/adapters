@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'm2541n',
   description:
     'InvArch allows organizations & individuals to manage assets & execute transactions across any blockchain using a single non-custodial account.',

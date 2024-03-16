@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '29p0bm',
   description:
     'Encloud is a confidential and flexible software that enables organizations to deploy machine learning and AI like LLMs in a private, controllable, and auditable way.',

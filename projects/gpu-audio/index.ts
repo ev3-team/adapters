@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qr6aiw',
   description: 'GPU Audio is a platform for audio processing on GPUs.',
   discord: '930188443282198589',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vzyplm',
   description:
     'Blockskye utilizes blockchain to simplify and enhance enterprise travel and procurement processes, fostering transparency and connectivity among suppliers, buyers, and users.',

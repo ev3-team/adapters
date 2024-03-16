@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5fzcjp',
   description:
     'The web3-ready serverless functions platform. Build and deploy trustless dApps in record time',

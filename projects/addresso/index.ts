@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'a0a6d7',
   description:
     'Addresso is the address book app for the next era of the web, helping users store and organize wallet and smart contract addresses simply, intuitively, and privately.',

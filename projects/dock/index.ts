@@ -7,7 +7,7 @@ export default {
   chain: 'POLKADOT',
   category: 'BLOCKCHAIN_INFRA',
   token: 'DOCK',
-  coingeckoId: 'dock',
+  coinGeckoID: 'dock',
   id: 'rz5js9',
   description:
     'Dock is a Verifiable Credentials company that provides Dock Certs, a user-friendly, no-code platform, and developer solutions that enable organizations to issue, verify, manage, and revoke fraud-proof credentials efficiently and securely.',

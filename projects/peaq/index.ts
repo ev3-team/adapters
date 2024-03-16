@@ -7,7 +7,7 @@ export default {
   chain: 'PEAQ',
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vx7fas',
   description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
   discord: '943486047625572392',

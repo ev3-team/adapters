@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ylaztr',
   description:
     'Energiedigital plans, builds decentralized energy solutions for buildings and districts including private individuals in single-family homes and commercial residential and neighborhood developers.',

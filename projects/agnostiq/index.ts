@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'anzeat',
   description:
     'Agnostiq develops Covalent, an open-source workflow platform for quantum computing and HPC.',

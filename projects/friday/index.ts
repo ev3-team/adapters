@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iri6ya',
   description:
     'OwnFriday is developing a Mobile App and Protocol that empower users to repossess valuable web2 data and benefit from it directly in web3 by sharing it directly with creators and enterprises.',

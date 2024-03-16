@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'TRADE',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 't247l9',
   description:
     'Polytrade is a decentralized finance platform that specializes in tokenizing real-world assets, offering a marketplace for investing in and managing trade finance.',

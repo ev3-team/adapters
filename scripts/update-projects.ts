@@ -104,7 +104,7 @@ async function run() {
         chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
         category: !!row.category ? (row.category as AdapterProjectCategory) : 'BLOCKCHAIN_INFRA',
         token: !!row.token ? row.token : null,
-        coingeckoId: !!row.coinGeckoID ? row.coinGeckoID : null,
+        coinGeckoID: !!row.coinGeckoID ? row.coinGeckoID : null,
         id: projectId,
         description: row.description,
         discord: !!row.discord ? row.discord : null,

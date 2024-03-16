@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oqb51e',
   description: 'DeMe: a user privacy-focused social media with rewards.',
   discord: null,

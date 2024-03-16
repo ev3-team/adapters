@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'CND',
-  coingeckoId: 'cindicator',
+  coinGeckoID: 'cindicator',
   id: 'cor8db',
   description:
     'Cindicator uses Hybrid Intelligence for stocks and crypto, with Bloomberg and Stoic as platforms.',

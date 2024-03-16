@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SUDO',
-  coingeckoId: 'sudoswap',
+  coinGeckoID: 'sudoswap',
   id: 'ea506r',
   description:
     'sudoSwap: A gas-efficient AMM protocol for NFT-to-token swaps with customizable bonding curves. Supports various tokens.',

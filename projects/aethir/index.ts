@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oo2cn2',
   description: 'Aethir enables real-time rendering in the Metaverse.',
   discord: '993758224438284291',

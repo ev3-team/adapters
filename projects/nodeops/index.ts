@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7qgg1c',
   description:
     'NodeOps provides AI Enabled simplified infrastructure specifically curated for Node Operators, and developers and designed to simplify the development process and operations for Web3 protocols.',

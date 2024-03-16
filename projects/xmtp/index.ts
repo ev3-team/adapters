@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rvdlk1',
   description:
     'The Extensible Message Transport Protocol (XMTP) is a secure messaging protocol that enables communication between blockchain accounts.',

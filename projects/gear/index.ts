@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'c8xut6',
   description: 'Gear: smart contracts, user-friendly, secure networks, infinite sharding.',
   discord: '891063355526217738',

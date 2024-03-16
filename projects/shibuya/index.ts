@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rgobsb',
   description:
     'Shibuya is a web3 platform for film financing & production. Users engage, fund, vote, & become owners of content.',

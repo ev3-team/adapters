@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ADVT',
-  coingeckoId: 'advantis',
+  coinGeckoID: 'advantis',
   id: 'qvo0gi',
   description:
     'Advantis AI empowers crypto enthusiasts with innovative solutions like AI Outlook, Scanner, and University.',

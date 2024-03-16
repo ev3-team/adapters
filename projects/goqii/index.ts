@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tkkrfm',
   description:
     'GOQii is dedicated to enabling a permanent shift to a healthier lifestyle with the combination of advanced wearable technology.',

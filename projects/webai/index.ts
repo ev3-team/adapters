@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'WEBAI',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n03geb',
   description:
     'Web AI is an innovative project that uses AI technology to create customized websites from scratch. It utilizes deep learning algorithms and NLP to analyze user requests and generate attractive, user-friendly websites according to their preferences.',

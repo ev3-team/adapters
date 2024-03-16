@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9xue69',
   description: 'Kwil is a permissionless SQL database for the decentralized internet.',
   discord: '819855804554543114',

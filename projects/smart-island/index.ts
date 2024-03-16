@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'z60kpx',
   description:
     'Smart Island is an Internet of Things (loT) Living Lab and Service Provider for related applications in Ibiza, connecting people, things & territory through cutting-edge technology.',

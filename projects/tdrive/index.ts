@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '63c0w9',
   description: 'tDrive is a decentralized storage platform built on the Telos Blockchain.',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'SOLR',
-  coingeckoId: 'solrazr',
+  coinGeckoID: 'solrazr',
   id: '0fi9q0',
   description: 'SolRazr is a decentralized developer ecosystem for Solana.',
   discord: '886683619958079538',

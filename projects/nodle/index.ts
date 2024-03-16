@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'NODL',
-  coingeckoId: 'nodle-network',
+  coinGeckoID: 'nodle-network',
   id: 'znawjs',
   description:
     'Nodle is a smartphone-powered decentralized data network and payment infrastructure for IoT.',

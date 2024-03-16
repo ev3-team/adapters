@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'SENSORS',
   token: 'MOVEZ',
-  coingeckoId: 'movez',
+  coinGeckoID: 'movez',
   id: '7gojkc',
   description:
     'MoveZ is a Web3 app designed with a sustainable move-to-earn economy that rewards users for hitting their exercise milestones. Whether it’s walking, running, swimming, surfing, or something else, anyone can earn token-based rewards for their efforts.',

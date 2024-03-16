@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: 'QXT',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cfy81h',
   description:
     'Qualoo is building a DePIN to make the internet better for everybody, utilizing an incentivized global network of hardware and mobile nodes to map the entire digital landscape while offering governance, real-time diagnostics, and optimization of the entire internet.',

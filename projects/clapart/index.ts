@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g7kfey',
   description: 'CLAPART empowers creators and fans for project funding.',
   discord: '947501488429756456',

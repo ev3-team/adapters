@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'AVAX',
-  coingeckoId: 'avalanche-2',
+  coinGeckoID: 'avalanche-2',
   id: 'wl4ipp',
   description: 'Avalanche is the fastest, most reliable smart contracts platform in the world.',
   discord: '578992315641626624',

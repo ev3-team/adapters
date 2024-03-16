@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'aehc1q',
   description:
     'Teleport connects companies, drivers, and riders, promoting local economies and reducing costs.',

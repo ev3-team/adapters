@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nlkbyo',
   description: 'Giza is a collaborative platform for the development of AI.',
   discord: '1070370565761802372',

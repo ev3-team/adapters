@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iespkr',
   description: 'EMC Hub is a AI+Web3 computing power and model marketplace.',
   discord: '1101359709547679848',

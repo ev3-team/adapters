@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0tmpgv',
   description:
     '4everland is a decentralized cloud provider integrating storage, computing, and networking resources.',

@@ -7,7 +7,7 @@ export default {
   chain: 'GNOSIS',
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nag833',
   description:
     'Althea is a web stack creating a marketplace for building ISPs and providing bandwidth in communities.',

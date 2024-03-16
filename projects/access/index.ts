@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'ACS',
-  coingeckoId: 'access-protocol',
+  coinGeckoID: 'access-protocol',
   id: 'i4tcnw',
   description:
     'ACCESS Protocol lays the foundation for digital content monetization using a web3 wallet.',

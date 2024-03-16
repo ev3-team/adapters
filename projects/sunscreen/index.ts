@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uao82z',
   description:
     'Sunscreen is a compiler for fully homomorphic encryption and zero-knowledge proofs.',

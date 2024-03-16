@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'epty1v',
   description:
     'Bloodchain: trustworthy and secure blood donation network with verifiable records for donors and recipients.',

@@ -7,7 +7,7 @@ export default {
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'DEFIT',
-  coingeckoId: 'defit',
+  coinGeckoID: 'defit',
   id: 'jmavqd',
   description: 'Defit is a fitness web3 brand that rewards users with a Move to Earn movement.',
   discord: '932304379694944277',

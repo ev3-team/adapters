@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '77bx8k',
   description:
     'We believe advanced financial services should be simple and borderless for consumers & businesses.',

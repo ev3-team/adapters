@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6qvjpf',
   description: 'SecondLive: a metaverse for avatars, virtual spaces, art exhibitions, and gaming.',
   discord: '864036969851650048',

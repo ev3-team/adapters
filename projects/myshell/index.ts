@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1gfb8a',
   description:
     'MyShell is a decentralized and comprehensive platform for discovering, creating, and staking AI-native apps.',

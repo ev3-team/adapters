@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qbgfxz',
   description: 'Decentralized asset management and trading platform with secure investments.',
   discord: null,

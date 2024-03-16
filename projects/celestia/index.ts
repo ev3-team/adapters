@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'TIA',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sx61vk',
   description:
     'Celestia is a modular blockchain network that securely scales with the number of users, making it easy for anyone to launch their own blockchain.',

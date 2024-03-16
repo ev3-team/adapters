@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9ny56c',
   description:
     'Frontier Research is an independent research and advisory group formed to bridge the gap between fundamental research and commercial products.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2pv22r',
   description:
     'Agnostic is the fastest access to aggregated smart-contract data. It allows developers to build their decentralised app without worrying about devops and data engineering.',

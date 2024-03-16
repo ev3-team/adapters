@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'y4wofx',
   description: 'Wallet to wallet messaging app',
   discord: null,

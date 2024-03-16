@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '97mtzl',
   description: 'The first fully decentralized Layer 2 EVM on Bitcoin.',
   discord: '937915188903018498',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 's8j4j9',
   description:
     'Meshmerize delivers highly scalable mesh networking solutions for agile, dynamic and chaotic wireless networks. Their mesh technology is designed for providing high reliability in highly dynamic networks like UAV’s, industrial robots, AGV’s and connected automobiles. Meshmerize uses a decentralized device-to-device communication to strengthen the network from the inside.',

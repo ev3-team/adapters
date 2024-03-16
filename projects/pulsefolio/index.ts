@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'PULSE',
-  coingeckoId: 'pulsefolio',
+  coinGeckoID: 'pulsefolio',
   id: 'ry8vac',
   description: 'Decentralized AI protocol for personalized investment strategies.',
   discord: null,

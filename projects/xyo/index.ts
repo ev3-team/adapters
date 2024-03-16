@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'XYO',
-  coingeckoId: 'xyo',
+  coinGeckoID: 'xyo',
   id: '2icwvy',
   description:
     'XYO is a blockchain network of 3 million IoT devices that collects and validates geospatial data anonymously.',

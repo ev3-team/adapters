@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ASTO',
-  coingeckoId: 'altered-state-token',
+  coinGeckoID: 'altered-state-token',
   id: '9limss',
   description:
     'Decentralized AI protocol for NFI, enabling ownership, trading, and training of AI agents through NFTs.',

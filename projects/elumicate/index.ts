@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ue1aq8',
   description:
     'World vision network powered by the people. Elumicate ceased operations in March 2024',

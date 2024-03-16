@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'ICP',
-  coingeckoId: 'internet-computer',
+  coinGeckoID: 'internet-computer',
   id: 'edypr6',
   description:
     'Internet Computer (ICP) is a set of protocols that allow independent data centers around the world to band together and offer a decentralized alternative to the current centralized internet cloud providers. The ICP token is used for governance (holders can vote on the future of the network), to reward network participants for good behavior, and is used to pay fees for making transactions. ',

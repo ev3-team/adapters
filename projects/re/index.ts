@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v7t50o',
   description:
     'Re is a blockchain-powered protocol that connects its Members with insurance companies and baskets of insurance policies, allowing them to earn premiums and yield.',

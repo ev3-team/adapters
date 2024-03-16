@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hxfsp3',
   description: 'Connect3 is a decentralized platform connecting users to relevant social data.',
   discord: '987278587608588319',

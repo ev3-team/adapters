@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yblr8e',
   description:
     'CROSSTECH develops an autonomous decentralized storage-integrated public blockchain that enables true digital asset issuance.',

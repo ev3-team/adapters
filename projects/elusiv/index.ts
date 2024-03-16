@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3wkk5f',
   description:
     'Elusiv is building a Web3 universal encryption layer empowering the decentralized world.',

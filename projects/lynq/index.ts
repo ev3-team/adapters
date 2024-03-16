@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jq8ero',
   description:
     'Lynq enables innovators to design high-value products with infrastructure-free, long-range, and secure network connectivity through their software that can be integrated into any device, starting with drones, two-way radios, and mobile phones.',

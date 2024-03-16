@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'IMGNAI',
-  coingeckoId: 'imgnai',
+  coinGeckoID: 'imgnai',
   id: 'du3f01',
   description:
     'ImgnAI‚Äôs flagship product ‚ÄúNai‚Äù turns anything you write into an anime, 3D, or hyper-realistic image.',

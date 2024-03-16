@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ns7fn7',
   description:
     'Dolphin: Decentralized cloud storage platform for file encryption, access control, and beneficiaries.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'lkgf4g',
   description:
     'Cluster Protocol is a Proof of compute protocol and Open Source Community for decentralized AI models.',

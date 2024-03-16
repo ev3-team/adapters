@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sel0t5',
   description: 'TEKKON: Web3 app for citizen-driven infrastructure solutions.',
   discord: '1196209072551235626',

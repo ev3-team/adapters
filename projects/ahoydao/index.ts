@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cqpqpq',
   description: 'AhoyDAO is a peer-to-peer ecosystem for the marine industry ownership economy.',
   discord: null,

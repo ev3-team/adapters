@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'r2yc3l',
   description:
     'Agrotoken allows you to do more and better business with agrocommodities, creating a simpler, more efficient and technological ecosystem. We are the new dimension of agribusiness',

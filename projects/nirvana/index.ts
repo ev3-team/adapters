@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'u2tfjc',
   description: 'Nirvana Labs: web3 infrastructure for blockchain apps.',
   discord: '934672374379479162',

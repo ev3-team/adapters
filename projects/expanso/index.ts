@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rntyxj',
   description:
     'Expanso runs jobs exactly where your data resides, utilizing local compute, and minimizing data throughput.',

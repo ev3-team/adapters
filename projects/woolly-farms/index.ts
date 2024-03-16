@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xh846b',
   description:
     'Woolly Farms - connecting consumers and growers to build sustainable cities and ready our food systems.',

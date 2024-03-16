@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ajzp06',
   description:
     'Frenrug is an on-chain AI agent that lives in a friend.tech chatroom managing a portfolio of keys; powered by Ritual.',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HEZ ',
-  coingeckoId: 'hermez-network',
+  coinGeckoID: 'hermez-network',
   id: 'wkap7y',
   description:
     'Polygon Hermez is an open-source ZK-Rollup optimized for secure, low-cost, and usable token transfers on the wings of Ethereum.',

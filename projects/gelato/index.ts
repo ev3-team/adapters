@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'GEL',
-  coingeckoId: 'gelato',
+  coinGeckoID: 'gelato',
   id: 'lvwe8x',
   description: 'Gelato Network automates smart contract executions across EVM-based blockchains.',
   discord: null,

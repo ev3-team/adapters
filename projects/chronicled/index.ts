@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1y63oi',
   description:
     'Chronicled is launching Mediledger, a solution for streamlining financial transactions in life sciences and better handling dispute resolution.',

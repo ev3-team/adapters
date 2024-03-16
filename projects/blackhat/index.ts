@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BLKC',
-  coingeckoId: 'blackhat-coin',
+  coinGeckoID: 'blackhat-coin',
   id: '3jgdnl',
   description: 'Blackhat cyber game: Players as DeFi protocos v AI hackerChatGPT.',
   discord: '822505689385533440',

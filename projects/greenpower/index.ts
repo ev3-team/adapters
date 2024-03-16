@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6t7pf0',
   description: 'GreenPower is a decentralized network of global sustainability activists.',
   discord: '978985389857570826',

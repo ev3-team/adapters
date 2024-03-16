@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'owdd6z',
   description:
     'Relative Finance is building cross-sector dApps for derivatives and skill-based wagering across SocialFi, DeFi, and GameFi.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'aqg014',
   description: 'Fog Works: Developer of decentralized storage using blockchain tech.',
   discord: '1046683342025789541',

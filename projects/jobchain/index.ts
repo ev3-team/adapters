@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'JOB',
-  coingeckoId: 'jobchain',
+  coinGeckoID: 'jobchain',
   id: 'zyhloi',
   description:
     'JobChain: Connects job seekers with employers for efficient job search and recruitment processes.',

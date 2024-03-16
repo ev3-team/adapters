@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3g5b35',
   description: 'Aydo is a decentralized network of smart home devices.',
   discord: null,

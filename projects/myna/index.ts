@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wqoxyk',
   description:
     'Myna is a platform built by collectors, for collectors, that empowers goods to be traded beyond their physical form.',

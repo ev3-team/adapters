@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'DTX',
-  coingeckoId: 'databroker-dao',
+  coinGeckoID: 'databroker-dao',
   id: '08wij5',
   description: 'Databroker is a secure marketplace for peer-to-peer data exchange.',
   discord: null,

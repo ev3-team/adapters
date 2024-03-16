@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'h8fk7d',
   description:
     'OtoCo builds tools for forming, funding, and governing legal entities on blockchain.',

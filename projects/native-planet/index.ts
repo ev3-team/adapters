@@ -7,7 +7,7 @@ export default {
   chain: 'URBIT',
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tk0z9w',
   description: 'Urbit hosting at home.',
   discord: null,

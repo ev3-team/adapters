@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wprila',
   description:
     'redacted is developing a Decentralized VPN for Web3 with a pay-as-you-go model, on Solana',

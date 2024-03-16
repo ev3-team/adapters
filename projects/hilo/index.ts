@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HILO',
-  coingeckoId: 'hilo',
+  coinGeckoID: 'hilo',
   id: '250jwq',
   description:
     'The HILO dApp is a platform where users can place predictions on virtually anything in the world, all in a fully gamified, fun, and social manner.',

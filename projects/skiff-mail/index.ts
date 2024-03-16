@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cxzwvp',
   description:
     'Skiff Mail: Open-source email app with privacy, encryption, and collaboration via Skiff Pages.',

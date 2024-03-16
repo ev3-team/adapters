@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TET',
-  coingeckoId: 'tectum',
+  coinGeckoID: 'tectum',
   id: '72ks01',
   description:
     'Tectum™ is a distributed ledger protocol managing platform that employs the proprietary record change signature management algorithm – HashDrive™.',

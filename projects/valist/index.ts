@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g2jtmx',
   description: 'Valist: Decentralized platform for game deployment on Web2 and Web3.',
   discord: '785535462311591976',
