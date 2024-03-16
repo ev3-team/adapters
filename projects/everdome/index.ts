@@ -12,7 +12,7 @@ export default {
   description: 'Creating a hyper-realistic Metaverse for a seamless Web3 experience.',
   discord: '1002185140782510181',
   investors: ['mrgeec', '9sg91a', 'm65oq5', 'smqwtv'],
-  linkedin: 'https://www.linkedin.com/company/everdome-io/?originalSubdomain=ae',
+  linkedin: 'https://www.linkedin.com/company/everdome-io/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

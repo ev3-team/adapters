@@ -81,8 +81,7 @@ export default {
   blog: 'https://medium.com/push-protocol',
   github: null,
   telegram: null,
-  twitter:
-    'https://twitter.com/pushprotocol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/pushprotocol',
   url: 'https://push.org/',
   verified: false,
 } satisfies AdapterProject

@@ -37,7 +37,7 @@ export default {
     'nlvx3r',
     '3qflb4',
   ],
-  linkedin: 'https://www.linkedin.com/company/nillionnetwork/?originalSubdomain=ch',
+  linkedin: 'https://www.linkedin.com/company/nillionnetwork/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

@@ -9,7 +9,8 @@ export default {
   token: 'LAKE',
   coingeckoId: 'data-lake',
   id: 'tq5svh',
-  description: 'Ethical data for healthier and longer lives.',
+  description:
+    'Data Lake is a DeSci project creating a global Medical Data Donation system based on blockchain technology to support medical research and AI.',
   discord: null,
   investors: [],
   linkedin: null,

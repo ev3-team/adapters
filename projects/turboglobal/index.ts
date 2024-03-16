@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'TGB',
   coingeckoId: null,
   id: 'uke8jp',

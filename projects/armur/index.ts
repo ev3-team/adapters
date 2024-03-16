@@ -13,7 +13,7 @@ export default {
     'Armur Ai is a web3 cybersecurity product suite/platform that helps secure decentralized applications and blockchain solutions.',
   discord: '1021371417134125106',
   investors: ['vjpj24', 'a1uyxq'],
-  linkedin: 'https://www.linkedin.com/company/armurai/?viewAsMember=true',
+  linkedin: 'https://www.linkedin.com/company/armurai/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://armur.medium.com/',

@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: '2pp0xp',
   name: 'Graviton',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

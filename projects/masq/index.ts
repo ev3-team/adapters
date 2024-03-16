@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'VPN',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'MASQ',
   coingeckoId: 'masq',
   id: '0ezngt',

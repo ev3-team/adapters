@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'CTC',
   coingeckoId: 'creditcoin',
   id: 'whwhkd',
