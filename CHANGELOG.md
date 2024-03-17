@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.38
+
+### Patch Changes
+
+- normalize coinGeckoID casi
+
 ## 0.3.37
 
 ### Patch Changes
