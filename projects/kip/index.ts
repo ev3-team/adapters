@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KIP',
-  ninja: 'ZZ',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'AI',
   token: 'KIP',
   coinGeckoID: null,
-  id: 'w6b1n8',
+  id: 'wwnksh',
   description:
-    'KIP Protocol is the decentralised base layer that AI models, apps and data owners build on, to safely transact and monetise in Web3',
+    'KIP Protocol is the decentralized base layer that AI models, apps, and data owners build on, to safely transact and monetize in Web3.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/KIPprotocol',
   url: 'https://kip.pro/',
   verified: false,
 } satisfies AdapterProject

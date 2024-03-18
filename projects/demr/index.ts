@@ -8,7 +8,7 @@ export default {
   category: 'SENSORS',
   token: 'DMR',
   coinGeckoID: null,
-  id: 'g3j0pa',
+  id: 'pfd72p',
   description:
     'DeMR is a decentralized mixed reality infrastructure network (MR-DePIN). Global users can participate in scanning and building MR maps of various cities with consumer-grade devices such as mobile phones to earn tokens as a reward.',
   discord: null,
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/DeMR_official',
   url: 'https://www.demr.xyz/#/',
   verified: false,
 } satisfies AdapterProject

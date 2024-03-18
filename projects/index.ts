@@ -1,6 +1,7 @@
 import _0knowledge from './0knowledge'
 import _0x0ai from './0x0-ai'
 import _0xparc from './0xparc'
+import _0xscope from './0xscope'
 import _1000houses from './1000houses'
 import _2appy from './2appy'
 import _2dai from './2dai'
@@ -44,9 +45,11 @@ import albedo from './albedo'
 import aleph from './aleph'
 import alephZero from './aleph-zero'
 import alephium from './alephium'
+import alethea from './alethea'
 import algovera from './algovera'
 import allianceblock from './allianceblock'
 import allin from './allin'
+import allora from './allora'
 import alphaRadar from './alpha-radar'
 import alpharushai from './alpharushai'
 import altLabs from './alt-labs'
@@ -63,6 +66,7 @@ import anon from './anon'
 import anryze from './anryze'
 import ansa from './ansa'
 import antic from './antic'
+import antimetal from './antimetal'
 import apillion from './apillion'
 import apron from './apron'
 import apus from './apus'
@@ -117,6 +121,7 @@ import bDatagray from './b-datagray'
 import bacalhau from './bacalhau'
 import badIdeaAi from './bad-idea-ai'
 import badger from './badger'
+import bagel from './bagel'
 import bageldb from './bageldb'
 import band from './band'
 import bankseaFinance from './banksea-finance'
@@ -213,6 +218,7 @@ import chainlink from './chainlink'
 import chainml from './chainml'
 import chainstack from './chainstack'
 import chappyz from './chappyz'
+import characterx from './characterx'
 import charge from './charge'
 import checkdot from './checkdot'
 import cheeze from './cheeze'
@@ -248,6 +254,7 @@ import connect3 from './connect3'
 import constellation from './constellation'
 import contextdao from './contextdao'
 import convoSpace from './convo-space'
+import coral from './coral'
 import corcel from './corcel'
 import cortexLabs from './cortex-labs'
 import cosmosai from './cosmosai'
@@ -495,6 +502,7 @@ import gitopia from './gitopia'
 import gitpoap from './gitpoap'
 import giza from './giza'
 import glacier from './glacier'
+import glif from './glif'
 import glitterProtocol from './glitter-protocol'
 import glow from './glow'
 import glowstick from './glowstick'
@@ -561,6 +569,7 @@ import huddle01 from './huddle01'
 import human from './human'
 import humanode from './humanode'
 import humansai from './humans-ai'
+import humanscape from './humanscape'
 import humcen from './humcen'
 import hyperOracle from './hyper-oracle'
 import hyperaware from './hyperaware'
@@ -710,6 +719,7 @@ import mapmetrics from './mapmetrics'
 import maps from './maps'
 import marlin from './marlin'
 import maro from './maro'
+import masa from './masa'
 import masq from './masq'
 import massa from './massa'
 import massive from './massive'
@@ -804,7 +814,7 @@ import nextdata from './nextdata'
 import nexus from './nexus'
 import nfai from './nfai'
 import nfprompt from './nfprompt'
-import nft3Labs from './nft3-labs'
+import nft3 from './nft3'
 import ngrave from './ngrave'
 import nilFoundation from './nil-foundation'
 import nillionNetwork from './nillion-network'
@@ -827,7 +837,7 @@ import nousResearch from './nous-research'
 import novelty from './novelty'
 import nride from './nride'
 import nucoCloud from './nuco-cloud'
-import numeraire from './numeraire'
+import numerai from './numerai'
 import nunet from './nunet'
 import nutbox from './nutbox'
 import nuveaux from './nuveaux'
@@ -850,6 +860,7 @@ import openfabricAi from './openfabric-ai'
 import opensquare from './opensquare'
 import operator from './operator'
 import opis from './opis'
+import opolis from './opolis'
 import opsec from './opsec'
 import optimism from './optimism'
 import oraichain from './oraichain'
@@ -998,6 +1009,7 @@ import rhinofi from './rhino-fi'
 import riddleAndcode from './riddle&code'
 import ridotto from './ridotto'
 import rightsfually from './rightsfually'
+import ringfence from './ringfence'
 import ritual from './ritual'
 import roam from './roam'
 import robonomics from './robonomics'
@@ -1148,6 +1160,7 @@ import sx from './sx'
 import sylo from './sylo'
 import synesisOne from './synesis-one'
 import syntropy from './syntropy'
+import taDa from './ta-da'
 import tal from './tal'
 import taliot from './taliot'
 import tanssi from './tanssi'
@@ -1172,8 +1185,8 @@ import telos from './telos'
 import tempo from './tempo'
 import ten from './ten'
 import tepax from './tepax'
-import terminal3 from './terminal-3'
 import terminalBrain from './terminal-brain'
+import terminal3 from './terminal3'
 import testmachine from './testmachine'
 import thala from './thala'
 import theGraph from './the-graph'
@@ -1308,6 +1321,7 @@ import xnet from './xnet'
 import xx from './xx'
 import xyo from './xyo'
 import ylide from './ylide'
+import yogapetz from './yogapetz'
 import yokai from './yokai'
 import zama from './zama'
 import zano from './zano'
@@ -1324,6 +1338,7 @@ import zkcloud from './zkcloud'
 import zkhub from './zkhub'
 import zkpass from './zkpass'
 import zktsunami from './zktsunami'
+import zonal from './zonal'
 import zoth from './zoth'
 import zus from './zus'
 import zyber365 from './zyber-365'
@@ -1332,6 +1347,7 @@ export const projects = {
   _0knowledge,
   _0x0ai,
   _0xparc,
+  _0xscope,
   _1000houses,
   _2appy,
   _2dai,
@@ -1375,9 +1391,11 @@ export const projects = {
   aleph,
   alephZero,
   alephium,
+  alethea,
   algovera,
   allianceblock,
   allin,
+  allora,
   alphaRadar,
   alpharushai,
   altLabs,
@@ -1394,6 +1412,7 @@ export const projects = {
   anryze,
   ansa,
   antic,
+  antimetal,
   apillion,
   apron,
   apus,
@@ -1448,6 +1467,7 @@ export const projects = {
   bacalhau,
   badIdeaAi,
   badger,
+  bagel,
   bageldb,
   band,
   bankseaFinance,
@@ -1544,6 +1564,7 @@ export const projects = {
   chainml,
   chainstack,
   chappyz,
+  characterx,
   charge,
   checkdot,
   cheeze,
@@ -1579,6 +1600,7 @@ export const projects = {
   constellation,
   contextdao,
   convoSpace,
+  coral,
   corcel,
   cortexLabs,
   cosmosai,
@@ -1826,6 +1848,7 @@ export const projects = {
   gitpoap,
   giza,
   glacier,
+  glif,
   glitterProtocol,
   glow,
   glowstick,
@@ -1892,6 +1915,7 @@ export const projects = {
   human,
   humanode,
   humansai,
+  humanscape,
   humcen,
   hyperOracle,
   hyperaware,
@@ -2041,6 +2065,7 @@ export const projects = {
   maps,
   marlin,
   maro,
+  masa,
   masq,
   massa,
   massive,
@@ -2135,7 +2160,7 @@ export const projects = {
   nexus,
   nfai,
   nfprompt,
-  nft3Labs,
+  nft3,
   ngrave,
   nilFoundation,
   nillionNetwork,
@@ -2158,7 +2183,7 @@ export const projects = {
   novelty,
   nride,
   nucoCloud,
-  numeraire,
+  numerai,
   nunet,
   nutbox,
   nuveaux,
@@ -2181,6 +2206,7 @@ export const projects = {
   opensquare,
   operator,
   opis,
+  opolis,
   opsec,
   optimism,
   oraichain,
@@ -2329,6 +2355,7 @@ export const projects = {
   riddleAndcode,
   ridotto,
   rightsfually,
+  ringfence,
   ritual,
   roam,
   robonomics,
@@ -2479,6 +2506,7 @@ export const projects = {
   sylo,
   synesisOne,
   syntropy,
+  taDa,
   tal,
   taliot,
   tanssi,
@@ -2503,8 +2531,8 @@ export const projects = {
   tempo,
   ten,
   tepax,
-  terminal3,
   terminalBrain,
+  terminal3,
   testmachine,
   thala,
   theGraph,
@@ -2639,6 +2667,7 @@ export const projects = {
   xx,
   xyo,
   ylide,
+  yogapetz,
   yokai,
   zama,
   zano,
@@ -2655,6 +2684,7 @@ export const projects = {
   zkhub,
   zkpass,
   zktsunami,
+  zonal,
   zoth,
   zus,
   zyber365,
