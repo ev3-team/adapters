@@ -4,8 +4,9 @@ import { createReadStream, readdirSync, readFileSync } from 'node:fs'
 import path from 'node:path'
 import { investors } from '../investors'
 import { projects } from '../projects'
+import { AdapterProject } from '../projects/types'
 
-const projectsList = Object.values(projects)
+const projectsList: AdapterProject[] = Object.values(projects)
 const investorsList = Object.values(investors)
 
 const investorsIds = investorsList.map(({ id }) => id)

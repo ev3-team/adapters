@@ -2,13 +2,13 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hyperline',
-  ninja: 'EV3 Sal',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
-  id: 'znfg6y',
+  id: 'y0wpxj',
   description:
     'Hyperline is a fully managed Blockchain Data Platform for Analytics, Data Science, and Machine Learning workloads.',
   discord: null,
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/hyperline_xyz',
   url: 'https://www.hyperline.xyz/',
   verified: false,
 } satisfies AdapterProject
