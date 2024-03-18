@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0ixv4e',
   description: 'Obi - The cheapest ride, every time.',
   discord: null,

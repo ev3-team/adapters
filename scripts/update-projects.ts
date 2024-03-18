@@ -73,6 +73,7 @@ export function getProjectsDuneQueries(): Promise<
         if (row.SUPPLY) queries.SUPPLY = row.SUPPLY
         if (row.TIME_SERIES) queries.TIME_SERIES = row.TIME_SERIES
         if (row.KEY_METRIC) queries.KEY_METRIC = row.KEY_METRIC
+        if (row.NODE_NUMBER) queries.NODE_NUMBER = row.NODE_NUMBER
 
         projectsDuneQueries.set(row.id, Object.values(queries).length > 0 ? queries : null)
       })
@@ -107,7 +108,7 @@ async function run() {
         chain: !!row.chain ? (row.chain as AdapterProjectChain) : null,
         category: !!row.category ? (row.category as AdapterProjectCategory) : 'BLOCKCHAIN_INFRA',
         token: !!row.token ? row.token : null,
-        coingeckoId: !!row.coinGeckoID ? row.coinGeckoID : null,
+        coinGeckoID: !!row.coinGeckoID ? row.coinGeckoID : null,
         id: projectId,
         description: row.description,
         discord: !!row.discord ? row.discord : null,

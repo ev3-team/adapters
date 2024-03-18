@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'CPOOL',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '680zow',
   description:
     'Clearpool is a Decentralized Finance ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.',
-  discord: null,
+  discord: '948061538139402240',
   investors: [],
   linkedin: null,
   duneQueries: null,

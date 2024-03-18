@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CERE',
-  coingeckoId: 'cere-network',
+  coinGeckoID: 'cere-network',
   id: '0xxxyy',
   description:
     'Cere Network is the first Decentralized Data Cloud platform, built on Polkadot, optimized for service data integration and data collaboration.',
-  discord: 'https://discord.com/invite/cYVKUYHWhp',
+  discord: '876823550533726219',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/cere-network',
   duneQueries: null,

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'w1c0r2',
   description:
     'BlockSurvey offers Tokengated surveys, enabling users to engage in blockchain-based survey participation.',
-  discord: null,
+  discord: '669101220937596953',
   investors: [
     '7bn5bf',
     '1aatyr',

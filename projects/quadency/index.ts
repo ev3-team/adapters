@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'QUAD',
-  coingeckoId: 'quadency',
+  coinGeckoID: 'quadency',
   id: '8tp7y2',
   description:
     'Quadency simplifies crypto trading. It offers portfolio management, trading bots, and automation.',
-  discord: 'https://discord.com/invite/quadency',
+  discord: null,
   investors: ['4dqura'],
   linkedin: 'https://www.linkedin.com/company/quadency',
   duneQueries: null,

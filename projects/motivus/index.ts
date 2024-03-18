@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6la025',
   description: 'Motivus: collaborative HPC for algorithm creation and distribution.',
   discord: null,

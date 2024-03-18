@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'TARO',
-  coingeckoId: 'taroverse',
+  coinGeckoID: 'taroverse',
   id: 'ft0bj6',
   description:
     'Taroverse is a cross-platform metaverse platform enabling real-time interaction between players through digital avatars.',
-  discord: null,
+  discord: '785165370927218708',
   investors: [],
   linkedin: null,
   duneQueries: null,

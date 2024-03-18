@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'p6m3rb',
   description: 'AdHash: direct data exchange between publishers and advertisers, no intermediaries',
   discord: null,

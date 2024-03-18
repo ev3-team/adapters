@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'FLURRY',
-  coingeckoId: 'flurry',
+  coinGeckoID: 'flurry',
   id: '0l3hoz',
   description:
     'Flurry Finance is a protocol that runs on multiple blockchains and specializes in the DeFi market.',
-  discord: 'https://discord.com/invite/vKtW89Z3j7',
+  discord: '896956264590999553',
   investors: ['xmw0ev', '8nclhv', 'cakqs6', '6hezki', 'chxmjc', '5dsvsj', '4eyql6', 'lhs5s8'],
   linkedin: 'https://www.linkedin.com/company/flurryfinance/about/',
   duneQueries: null,

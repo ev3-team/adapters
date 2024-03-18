@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4kyl37',
   description:
     'Metaweave is a social permadapp enabling direct interaction with the Blockweave using Arweave wallet.',

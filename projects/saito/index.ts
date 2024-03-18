@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SAITO',
-  coingeckoId: 'saito',
+  coinGeckoID: 'saito',
   id: 'i86y1x',
   description:
     'Saito: Layer-1 blockchain empowering web 3.0 apps, with distributed infrastructure.',
-  discord: 'https://discord.com/invite/HjTFh9Tfec',
+  discord: '595860623901065237',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/saitonetwork',
   duneQueries: null,

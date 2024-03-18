@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zyw7wx',
   description: 'Datum: Secure, private, and anonymous data storage and trading on blockchain.',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'BONFIRE',
-  coingeckoId: 'bonfire',
+  coinGeckoID: 'bonfire',
   id: '7g4np6',
   description:
     'Bonfire allows users to create and control their own digital lives on a federated social network.',

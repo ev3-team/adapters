@@ -7,11 +7,11 @@ export default {
   chain: 'PEAQ',
   category: 'NOT_DEPIN',
   token: 'KREST',
-  coingeckoId: 'krest',
+  coinGeckoID: 'krest',
   id: 'tkmyxi',
   description:
     "Krest is Peaq network's sister network. It is the world's first and only simulation network for DePIN and the Economy of Things.",
-  discord: 'https://discord.com/channels/943486047625572392/1050032508680552509',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

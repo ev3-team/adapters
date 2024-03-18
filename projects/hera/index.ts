@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'HERA',
-  coingeckoId: 'hera-finance',
+  coinGeckoID: 'hera-finance',
   id: 'hrymjy',
   description:
     'Hera Finance is a multichain dex aggregator using AI for the widest token range and best route discovery.',
-  discord: 'https://discord.com/invite/JDaxGDU9Rx',
+  discord: '963060487203983410',
   investors: [],
   linkedin: null,
   duneQueries: null,

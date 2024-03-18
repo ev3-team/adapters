@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '692g5w',
   description:
     'Fantom is a decentralized, open-source, smart contract platform that aims to provide fast, secure, and scalable infrastructure for decentralized applications (dApps).',
-  discord: null,
+  discord: '582931087005843466',
   investors: [],
   linkedin: null,
   duneQueries: null,

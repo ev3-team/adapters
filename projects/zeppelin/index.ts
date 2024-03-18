@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cvzsdf',
   description: 'Zeppelin aims to be the global leader in decentralized wireless infrastructure.',
   discord: null,

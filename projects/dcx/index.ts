@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qzb5mw',
   description:
     'Digital Commodity Exchange (DCX) is the home of a range of agricultural commodity trading platforms.',

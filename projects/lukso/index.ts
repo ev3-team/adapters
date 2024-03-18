@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'LYX',
-  coingeckoId: 'lukso-token',
+  coinGeckoID: 'lukso-token',
   id: 'saeow6',
   description:
     'LUKSO is a next generation EVM blockchain based on Casper PoS and will be the foundation for the New Creative Economy. ',
-  discord: null,
+  discord: '359064931246538762',
   investors: ['eq458r', 'gduv1m'],
   linkedin: null,
   duneQueries: null,

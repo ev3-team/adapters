@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'JPEG',
-  coingeckoId: 'jpeg-d',
+  coinGeckoID: 'jpeg-d',
   id: 'ngxl5h',
   description:
     'JPEGd is a decentralized lending protocol enabling businesses to borrow pETH or PUSd using NFTs as collateral.',
-  discord: 'https://discord.com/invite/jpegd',
+  discord: '906554976178933840',
   investors: ['fxmvug'],
   linkedin: 'https://www.linkedin.com/company/jpeg',
   duneQueries: null,

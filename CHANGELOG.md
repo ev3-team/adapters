@@ -1,5 +1,41 @@
 # @ev3-team/adapters
 
+## 0.3.37
+
+### Patch Changes
+
+- release 20240304131358
+
+## 0.0.0-20240301144727
+
+### Patch Changes
+
+- fix helium
+
+## 0.0.0-20240229161110
+
+### Patch Changes
+
+- add Helium dune query for node number
+
+## 0.0.0-20240227152921
+
+### Patch Changes
+
+- add new dune query for geodnet active nodes
+
+## 0.3.36
+
+### Patch Changes
+
+- add new dune query category `NODE_NUMBER` and replace discord invite link with discord guild id
+
+## 0.3.35
+
+### Patch Changes
+
+- cb56384f: contributions batch
+
 ## 0.3.34
 
 ### Patch Changes

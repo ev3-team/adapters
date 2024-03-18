@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'NTX',
-  coingeckoId: 'nunet',
+  coinGeckoID: 'nunet',
   id: '6wpm8m',
   description:
     'NuNet is a computing framework that offers global distributed computing power and storage for decentralized networks.',
-  discord: 'https://discord.com/invite/8S7JNRBHJa',
+  discord: '1033727051158536242',
   investors: [
     'o5kpgb',
     'nrotlx',

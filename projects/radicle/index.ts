@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n2u1ny',
   description:
     'Radicle is a peer-to-peer stack for building software together. Radicle functions as a peer-to-peer protocol where each user on the network runs identical software, known as the Radicle Stack.',

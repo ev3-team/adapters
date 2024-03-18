@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ABT',
-  coingeckoId: 'arcblock',
+  coinGeckoID: 'arcblock',
   id: 'w4zy3x',
   description:
     'ArcBlock is a new decentralized developer platform that simplifies the development of Distributed Ledger Technology (DLT), Blockchain, Web3, and AI.',

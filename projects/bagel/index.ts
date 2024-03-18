@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0f91ta',
   description:
     'Bagel is an open protocol for humans and autonomous AI agents to collectively build, trade, and license Machine Learning datasets.',

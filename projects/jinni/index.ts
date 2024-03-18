@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xkquis',
   description:
     'Jinni is an AI project making AI accessible to all, revolutionizing the global AI landscape.',

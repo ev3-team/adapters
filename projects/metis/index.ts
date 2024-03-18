@@ -7,10 +7,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'METIS',
-  coingeckoId: 'metis-token',
+  coinGeckoID: 'metis-token',
   id: '0mfb31',
   description: 'Metis: Scalable platform for Ethereum & infrastructure development',
-  discord: 'https://discord.com/invite/RqfEJZXnxd',
+  discord: '859838997874475008',
   investors: [
     'z2j0xs',
     '1qu55f',

@@ -7,10 +7,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'RSS3',
-  coingeckoId: 'rss3',
+  coinGeckoID: 'rss3',
   id: '1tdy5h',
   description: 'RSS3 is a next-gen feed protocol for decentralized applications.',
-  discord: 'https://discord.com/invite/aGuwzF2hW4',
+  discord: '837332113677090876',
   investors: [
     'hhudw8',
     '5b00r6',

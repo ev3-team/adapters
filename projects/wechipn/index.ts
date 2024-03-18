@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8i9tvk',
   description:
     'WeChipN is a provider of a Rewards Community that mobilizes culture with web3 technology.',

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '65et59',
   description:
     'MetaSpace: Decentralized 3D metaverse for interaction, gaming, concerts, and NFT trading.',
-  discord: 'https://discord.com/invite/u4jWrHV3XC',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/metaspace-academy',
   duneQueries: null,

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4fstgv',
   description:
     'Glacier is building a composable, modular, and scalable L2 data network for large-scale Dapps.',
-  discord: 'https://discord.com/invite/eYAGGz5W3b',
+  discord: '1049347993817579570',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/endwaste-',
   duneQueries: null,

@@ -7,11 +7,11 @@ export default {
   chain: 'POLYGON',
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j9n1l6',
   description:
     'Karrier One is a mobile network company running on decentralized telecom infrastructure.',
-  discord: null,
+  discord: '1003510714666860695',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/karrier-one/',
   duneQueries: null,

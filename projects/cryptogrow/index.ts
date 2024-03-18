@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j0po1y',
   description:
     'CryptoGrow disrupts markets with decentralized hardware for growing cannabis at home and earning crypto.',

@@ -7,11 +7,11 @@ export default {
   chain: 'COSMOS',
   category: 'COMPUTE',
   token: 'AKT',
-  coingeckoId: 'akash-network',
+  coinGeckoID: 'akash-network',
   id: 'qmmyw0',
   description:
     'Akash is an open-source supercloud that enables secure and efficient buying and selling of computing resources.',
-  discord: 'https://discord.com/invite/akash',
+  discord: '747885925232672829',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/akash-network',
   duneQueries: null,

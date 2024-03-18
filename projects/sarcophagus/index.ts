@@ -7,10 +7,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'SARCO',
-  coingeckoId: 'sarcophagus',
+  coinGeckoID: 'sarcophagus',
   id: 'se7wj7',
   description: "Decentralized dead man's switch",
-  discord: 'https://discord.com/invite/5XkvsEmMab',
+  discord: '753398645507883099',
   investors: [
     'hhudw8',
     'hbpmm3',

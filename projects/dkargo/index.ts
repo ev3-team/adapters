@@ -7,10 +7,9 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'DKA',
-  coingeckoId: 'dkargo',
+  coinGeckoID: 'dkargo',
   id: 'zt0tgx',
-  description:
-    'dKargo is a Decentralized and Cooperative Protocol for Next Generation Logistics. The platform will eliminate the risk of data tampering by using a blockchain-based protocol technology and provide a foundation for its users to collaborate without having to trust the other party. On the platform, each participant will receive incentives for providing data about their freights and logistics service. Incentives will encourage businesses such as freight transportation carriers, warehouse operators, and logistics-related service suppliers as well as individuals like deliverymen, warehouse employees, and customers to voluntarily participate in the platform',
+  description: 'dKargo is a Decentralized and Cooperative Protocol for Next Generation Logistics. ',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dkargo/about/',

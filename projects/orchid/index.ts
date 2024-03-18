@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'OXT',
-  coingeckoId: 'orchid-protocol',
+  coinGeckoID: 'orchid-protocol',
   id: 'vg1qec',
   description:
     'Orchid is a decentralized onion routing network incentivized through multi-hop VPN clients.',
-  discord: 'https://discord.com/invite/GDbxmjxX9F',
+  discord: '804699025709465610',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/orchidprotocol',
   duneQueries: null,

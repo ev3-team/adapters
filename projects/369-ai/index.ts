@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: '369',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'lkgvvp',
   description: '369 AI is a high-performance blockchain for AI applications.',
   discord: null,

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sapapu',
   description:
     'Zyber 365 are providing a robust, decentralized, and cyber-secured operating system which adheres to the fundamental principles of environmental sustainability.',
-  discord: null,
+  discord: '1118081430346530927',
   investors: ['pc47rd'],
   linkedin: null,
   duneQueries: null,

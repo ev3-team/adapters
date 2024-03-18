@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6ixtt2',
   description:
-    'Humanscape is a blockchain-based decentralized patient network that can help patients overcome diseases through intellectual and emotional interaction based on community activities.\r\n',
+    'Humanscape is a blockchain-based decentralized patient network that can help patients overcome diseases through intellectual and emotional interaction based on community activities.',
   discord: null,
   investors: [],
   linkedin: null,

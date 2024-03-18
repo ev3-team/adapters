@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'r7jfzw',
   description:
     'Hedgehog enables Cloud Native apps on edge compute and distributed cloud infrastructure.',

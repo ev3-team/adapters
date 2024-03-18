@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'VXV',
-  coingeckoId: 'vectorspace',
+  coinGeckoID: 'vectorspace',
   id: 'lzys3d',
   description:
     'Vectorspace AI provides correlation matrix datasets for data-driven innovation, with a focus on NLP/NLU.',
-  discord: 'https://discord.com/invite/vectorspacebiosciences',
+  discord: '925153007266562168',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/vector-space-biosciences',
   duneQueries: null,

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'kcetq1',
   description:
     'Developer of camera technology designed to capture images to eliminate crime while protecting privacy.',

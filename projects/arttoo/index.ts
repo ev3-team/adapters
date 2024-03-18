@@ -5,9 +5,9 @@ export default {
   ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xa5vpi',
   description:
     'Arttoo is a platform that allows for the fractionalized trading of physical artwork.',

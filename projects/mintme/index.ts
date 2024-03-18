@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'MINTME',
-  coingeckoId: 'webchain',
+  coinGeckoID: 'webchain',
   id: '6927wm',
   description:
     'MintMe secures Smart-Contract-powered DApps using internet-connected devices, leveraging CPU resources.',
-  discord: 'https://discord.com/invite/uuZXhCn',
+  discord: '524539167720341514',
   investors: ['m65oq5'],
   linkedin: 'http://www.linkedin.com/company/mintme',
   duneQueries: null,

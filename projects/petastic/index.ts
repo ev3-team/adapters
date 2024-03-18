@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g32gdz',
   description:
     'Petastic is a blockchain-based platform for Pet Parents, Service Providers, and Brand Companies.',

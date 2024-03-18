@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'HEART',
-  coingeckoId: 'humans-ai',
+  coinGeckoID: 'humans-ai',
   id: 'c7sbzs',
   description:
     'Humans.ai is a deep-tech company creating an ethical and scalable AI ecosystem on the blockchain.',
-  discord: 'https://discord.com/invite/humansdotai',
+  discord: '999302051538411671',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/humansdotai',
   duneQueries: null,

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pztili',
   description:
     'Glowstick is a user-friendly tool enabling easy 3D environment creation and storytelling.',
-  discord: 'https://discord.com/invite/glowstick',
+  discord: '917476252443623435',
   investors: ['7ny99e', '7zvxz8', 'amuto4', 'cx2bjt', 'gfcglj'],
   linkedin: null,
   duneQueries: null,

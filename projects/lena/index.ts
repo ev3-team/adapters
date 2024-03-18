@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2qzmdn',
   description:
     'LENA: Web3 liquidity provider for NFT lending and borrowing. ETH pools, user autonomy.',
-  discord: 'https://discord.com/invite/QbRBkmkRVB',
+  discord: '1003197622665879562',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/lena-network',
   duneQueries: null,

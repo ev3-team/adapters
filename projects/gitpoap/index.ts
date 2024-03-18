@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2fl69i',
   description: 'GitPOAP - recognizing contributions on GitHub with POAP issuance',
-  discord: 'https://discord.com/invite/qa3mfPvjWm',
+  discord: '918207795113885737',
   investors: [
     'cd2nay',
     'abvcou',

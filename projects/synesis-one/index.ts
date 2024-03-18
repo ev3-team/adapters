@@ -7,11 +7,11 @@ export default {
   chain: 'SOLANA',
   category: 'AI',
   token: 'SNS',
-  coingeckoId: 'synesis-one',
+  coinGeckoID: 'synesis-one',
   id: 'mhf5jn',
   description:
     'Synesis One is a data crowdsourcing platform where anyone can earn $SNS by completing micro-tasks that train AI.',
-  discord: 'https://discord.com/invite/synesisone',
+  discord: '914802829904982047',
   investors: ['5qx1w8'],
   linkedin: 'http://www.linkedin.com/company/synesisone',
   duneQueries: null,

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5v5xcz',
   description:
     'HashMix proposes a tokenization scheme suitable for arbitrary hash power, implements a set of universal decentralized cloud hash power trading, lending, and swapping protocols.',
-  discord: 'https://discord.com/invite/bWfFB5v48r',
+  discord: '1036550293455917096',
   investors: [
     '1zgufc',
     's16t1q',

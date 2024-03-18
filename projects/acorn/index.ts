@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'ACN',
-  coingeckoId: 'acorn-protocol',
+  coinGeckoID: 'acorn-protocol',
   id: 'a0dbki',
   description:
     'Acorn Protocol is a data ecosystem that rewards users for contributing and monetizing data value in a vibrant way.',

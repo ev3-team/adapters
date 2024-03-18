@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'rku44v',
   description: 'Suptho: Geo-based social app merging digital experiences with in-person events.',
-  discord: 'https://discord.com/invite/M2xcC2Cex5',
+  discord: '837626991737307176',
   investors: [
     'auczp7',
     'buo8ql',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: 'SINSO',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tde0ef',
   description:
     'Sinso is a Web3.0 Infrastructure Simplifying Decentralized HotData Cache and Data Governance.',

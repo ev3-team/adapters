@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'AI',
   token: 'LAVITA',
-  coingeckoId: 'lavita',
+  coinGeckoID: 'lavita',
   id: 'tylsdp',
   description:
     'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
-  discord: null,
+  discord: '1041587307419017246',
   investors: ['772xwk'],
   linkedin: 'http://www.linkedin.com/company/lavita-ai',
   duneQueries: null,

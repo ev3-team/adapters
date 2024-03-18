@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'AUDIO',
-  coingeckoId: 'audius',
+  coinGeckoID: 'audius',
   id: '4xwmst',
   description:
     'Audius is a decentralized, community-owned and artist-controlled music-sharing protocol.',
-  discord: 'https://discord.com/invite/audius',
+  discord: '557662127305785361',
   investors: [
     'buime9',
     'weiz7n',

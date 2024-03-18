@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ads6qy',
   description: 'Somos Internet provides prepaid high-speed internet services in Latin America.',
   discord: null,

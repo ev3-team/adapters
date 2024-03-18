@@ -7,10 +7,10 @@ export default {
   chain: 'COSMOS',
   category: 'COMPUTE',
   token: 'KYVE',
-  coingeckoId: 'kyve-network',
+  coinGeckoID: 'kyve-network',
   id: 'u6mo76',
   description: 'KYVE connects nodes to Arweave storage, ensuring trustless uploads.',
-  discord: 'https://discord.com/invite/PATvZvEmxF',
+  discord: '817113909957361664',
   investors: [
     '4j4oj3',
     '5g3hyv',

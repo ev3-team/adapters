@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '94944x',
   description:
     'Fanztar empowers creators to build their fan communities and enable fans to own a share in their success, giving fans an opportunity to become a part of a Creator exclusive community.',

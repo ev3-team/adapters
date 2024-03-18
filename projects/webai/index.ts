@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'AI',
   token: 'WEBAI',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'n03geb',
   description:
-    'Web AI leverages artificial intelligence to streamline the website creation process, allowing users to build custom, professional websites without manual coding. It features an ecosystem that includes a website builder, an essay writing platform for decentralized applications, a staking mechanism with a decentralized exchange for liquidity across blockchains, and Web AI NFTs that offer staking rewards in $WEBAI tokens. Additionally, the ecosystem includes a play-to-earn game, WAPE, enhancing user engagement. The $WEBAI token underpins the ecosystem, providing value and funding for ongoing development and roadmap milestones.',
+    'Web AI is an innovative project that uses AI technology to create customized websites from scratch. It utilizes deep learning algorithms and NLP to analyze user requests and generate attractive, user-friendly websites according to their preferences.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -20,6 +20,6 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/WebAIofficial',
-  url: 'https://webai.gitbook.io/web-ai-whitepaper/usdwebai-ecosystem',
+  url: 'https://webai.live/',
   verified: false,
 } satisfies AdapterProject

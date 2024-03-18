@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qb5fdz',
   description:
     'Nillion is a distributed computing platform that expands trustless infrastructure into new use cases and verticals.',
-  discord: 'https://discord.com/invite/nillionnetwork',
+  discord: '248822834317492245',
   investors: [
     'ii5tnv',
     'xmw0ev',
@@ -37,7 +37,7 @@ export default {
     'nlvx3r',
     '3qflb4',
   ],
-  linkedin: 'https://www.linkedin.com/company/nillionnetwork/?originalSubdomain=ch',
+  linkedin: 'https://www.linkedin.com/company/nillionnetwork/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

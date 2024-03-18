@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'QNT',
-  coingeckoId: 'quant-network',
+  coinGeckoID: 'quant-network',
   id: '7u7rag',
   description:
     'Quant is a blockchain project aiming to improve global information communication efficiency.',

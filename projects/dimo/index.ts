@@ -7,14 +7,15 @@ export default {
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'DIMO',
-  coingeckoId: 'dimo',
+  coinGeckoID: 'dimo',
   id: '0wr2ea',
   description: 'Dimo is a decentralized ecosystem of connected vehicles.',
-  discord: 'https://discord.com/invite/B5K5eScyQM',
+  discord: '892438668453740634',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dimo-network',
   duneQueries: {
     KEY_METRIC: '3241310',
+    NODE_NUMBER: '3448434',
   },
   foundingYear: null,
   blog: 'https://medium.com/dimo-network',
@@ -22,6 +23,6 @@ export default {
   telegram: null,
   twitter:
     'https://twitter.com/DIMO_Network?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
-  url: 'https://dimo.zone/app?utm_source=web&utm_medium=site',
+  url: 'https://dimo.zone/app',
   verified: false,
 } satisfies AdapterProject

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xxeep1',
   description:
     'BringYour is an innovative overlay ISP focused on enhancing network security and privacy for users worldwide.',
-  discord: null,
+  discord: '807713145006850048',
   investors: [],
   linkedin: null,
   duneQueries: null,

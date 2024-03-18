@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8er1ir',
   description:
     'IPXS is a decentralised proxy marketplace connecting users peer-to-peer for monetizing unused IPs.',

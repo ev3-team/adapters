@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '61giyj',
   description:
     'Developer of AIGC distributed computing power network platform created to provide customers with powerful computing power support.',

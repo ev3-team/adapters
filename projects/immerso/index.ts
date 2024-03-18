@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'eyid42',
   description: 'O IMMERSO √â UMA NOVA PROPOSTA DE HOSPITALIDADE',
   discord: null,
@@ -19,6 +19,6 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://immerso.pt/?utm_source=gmb&utm_medium=gmb',
+  url: 'https://immerso.pt/',
   verified: false,
 } satisfies AdapterProject

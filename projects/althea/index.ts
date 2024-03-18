@@ -7,11 +7,11 @@ export default {
   chain: 'GNOSIS',
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nag833',
   description:
     'Althea is a web stack creating a marketplace for building ISPs and providing bandwidth in communities.',
-  discord: null,
+  discord: '477147257251299350',
   investors: ['dai51z', 'mzqq7s', '6g8wou', 'fjt6b4', 'uwuv2v', 'ujw2s3', 'iwnv3f'],
   linkedin: null,
   duneQueries: {

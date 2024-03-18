@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jvfvyy',
   description:
     'MetaGravity is a company building distributed compute infrastructure for metaverse gaming and virtual world simulations.',
-  discord: 'https://discord.com/invite/MetaGravity',
+  discord: '885910230007951460',
   investors: [
     'v5aw83',
     'bxcu1r',

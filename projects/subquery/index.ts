@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'SQL',
-  coingeckoId: 'subquery-network',
+  coinGeckoID: 'subquery-network',
   id: 'kzaj07',
   description:
     'SubQuery is a decentralized data aggregation and querying layer for Layer-1 blockchains and dApps.',
-  discord: 'https://discord.com/invite/78zg8aBSMG?ref=blog.subquery.network',
+  discord: '796198414798028831',
   investors: [
     'pdp1mt',
     '7ygqh2',

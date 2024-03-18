@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'ZION',
-  coingeckoId: 'zion',
+  coinGeckoID: 'zion',
   id: '4wmnm0',
   description: 'Zion: decentralized platform for content flow, payments, and ownership (80)',
   discord: null,

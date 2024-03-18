@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9s2i5w',
   description:
     'Tools for privacy preserving data science. Run machine learning or simple analytics on distributed data.',
-  discord: null,
+  discord: '927873274136891392',
   investors: [],
   linkedin: null,
   duneQueries: null,

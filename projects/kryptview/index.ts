@@ -7,10 +7,10 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'KVT',
-  coingeckoId: 'kryptview',
+  coinGeckoID: 'kryptview',
   id: '3zopno',
   description: 'Kryptview rewards users for analyzing cryptos using P2P and Blockchain mechanisms.',
-  discord: 'https://discord.com/invite/PRvUfY7Vjf',
+  discord: '925090445187506217',
   investors: [
     'mrgeec',
     '6jvbqx',

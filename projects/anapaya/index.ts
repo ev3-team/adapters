@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'q0o1zm',
   description:
     'Move your critical services, such as websites and VPN endpoints, away from the standard internet path, and secure them behind Anapaya GATE.',

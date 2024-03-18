@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3jrl09',
   description:
     'Kansi Solutions is a DePIN hosting platform offering mining opportunities for end-users to earn passive income.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v8cjbl',
   description:
     'Barterchain is a peer to peer platform, where members can swap their skills and services for free.',

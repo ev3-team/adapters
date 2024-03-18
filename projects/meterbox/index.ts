@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'smjywm',
   description: 'The Meter Box is used to accurately measure your power usage in live time.',
   discord: null,

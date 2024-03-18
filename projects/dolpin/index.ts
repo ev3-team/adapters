@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ns7fn7',
   description:
     'Dolphin: Decentralized cloud storage platform for file encryption, access control, and beneficiaries.',
-  discord: 'https://discord.com/invite/dbqCDjn64S',
+  discord: '967709540822945792',
   investors: [],
   linkedin: 'https://uk.linkedin.com/company/dolphin',
   duneQueries: null,

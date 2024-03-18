@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DAFI',
-  coingeckoId: 'dafi-protocol',
+  coinGeckoID: 'dafi-protocol',
   id: 'nm4snj',
   description:
     'DAFI Protocol rewards early adopters with synthetic tokens, redefining Defi and incentivizing bearish markets.',
-  discord: 'https://discord.com/invite/bwpCueVD8t',
+  discord: '803663009250672640',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/dafiprotocol',
   duneQueries: null,

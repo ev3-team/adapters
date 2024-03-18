@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'HELLO',
-  coingeckoId: 'hello-labs',
+  coinGeckoID: 'hello-labs',
   id: 'k4h7w9',
   description:
     "Hello is the world's first user-controlled, open-source, encrypted, geo-redundant decentralized storage software/ infrastructure.",

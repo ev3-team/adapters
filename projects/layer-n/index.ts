@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nvisfm',
   description:
     'Layer N is a novel layer 2 specifically designed for financial applications on Ethereum—and aims to rival existing traditional financial networks. Developers can build applications on Layer N, either in a custom execution environment or on the public EVM instance, at much lower execution latencies, higher throughput, negliable transaction fees, and with full composability between rollups.',
-  discord: null,
+  discord: '1038972328828219462',
   investors: [],
   linkedin: null,
   duneQueries: null,

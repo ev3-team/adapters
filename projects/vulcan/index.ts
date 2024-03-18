@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PYR',
-  coingeckoId: 'vulcan-forged',
+  coinGeckoID: 'vulcan-forged',
   id: 'y6ydao',
   description:
     'Vulcan Studios - web3 gaming, Elysium - carbon-neutral blockchain, MetaScapes - upcoming Metaverse-as-a-Service',
-  discord: 'https://discord.com/invite/vulcan-forged-759537056153337906',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/vulcan-forged',
   duneQueries: null,

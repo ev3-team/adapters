@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qaeque',
   description:
     "Holium is building Realm, a platform for new social experiences. They're working in message boards/newsfeeds that incentivize quality engagement. ",

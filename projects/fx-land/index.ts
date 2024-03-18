@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4z5caf',
   description:
     'FX Land is a decentralized storage network utilizing IPFS, providing secure and encrypted file storage.',
-  discord: 'https://discord.com/invite/k9UybUBdBB',
+  discord: '735961760464502845',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/functionland/',
   duneQueries: null,

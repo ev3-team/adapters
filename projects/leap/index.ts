@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3w2wtc',
   description:
     'Leap is the leading global platform for generating new value from grid-connected resources and devices through integration with energy markets.',

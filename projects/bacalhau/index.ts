@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jtoxcg',
   description: 'Bacalhau: Fast, efficient, secure computation platform.',
   discord: null,

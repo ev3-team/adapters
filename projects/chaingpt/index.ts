@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'CGPT',
-  coingeckoId: 'chaingpt',
+  coinGeckoID: 'chaingpt',
   id: 'yi1bv4',
   description:
     'ChainGPT AI for Blockchain and Crypto, providing knowledge and tools with CGPT utility token.',
-  discord: 'https://discord.com/invite/sv2NfqSgVW',
+  discord: '1067750543495274557',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/chaingpt',
   duneQueries: null,

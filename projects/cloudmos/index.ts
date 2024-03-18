@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v7ilpo',
   description:
     'Cloudmos is a decentralized cloud compute marketplace that allows users to deploy docker containers on the Akash Network.',
-  discord: 'https://discord.com/invite/akash',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

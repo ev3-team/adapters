@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4xae6i',
   description: 'VulaCoin digitizes prepaid cash with stable coin for mobile wallets.',
   discord: null,

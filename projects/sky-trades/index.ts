@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'mfvv88',
   description: 'Sky Trades is a marketplace for air rights for drone traffic.',
   discord: null,

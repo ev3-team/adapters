@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: 'CRL',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pwn1js',
   description:
     'CoralApp is a multichain web3 fitness app designed to support a healthy lifestyle through health trackers, a marketplace, and metaverse play where users can earn incentives, challenge each other, and enjoy a content creator economy.',

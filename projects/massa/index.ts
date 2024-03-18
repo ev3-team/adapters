@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'MASSA',
-  coingeckoId: 'massa',
+  coinGeckoID: 'massa',
   id: '10vi0m',
   description:
     "Massa is a new blockchain based on a multithreaded technology that supports more than 10'000 transactions per second in a fully decentralized network with thousands of nodes.",
-  discord: 'https://discord.com/invite/massa',
+  discord: '828270821042159636',
   investors: ['ibk8eu', '14mgz0', 'jo973z', 'nzxtym'],
   linkedin: 'https://www.linkedin.com/company/massa-labs/',
   duneQueries: null,

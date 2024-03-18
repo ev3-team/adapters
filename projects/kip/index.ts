@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'KIP',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wwnksh',
   description:
     'KIP Protocol is the decentralized base layer that AI models, apps, and data owners build on, to safely transact and monetize in Web3.',
@@ -20,6 +20,6 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/KIPprotocol',
-  url: null,
+  url: 'https://kip.pro/',
   verified: false,
 } satisfies AdapterProject

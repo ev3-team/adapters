@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'SAO',
-  coingeckoId: 'sator',
+  coinGeckoID: 'sator',
   id: 'jxy5nc',
   description:
     'Sator is a Blockchain-enabled TV engagement that allows users to earn crypto rewards for watching TV.',
-  discord: null,
+  discord: '839345964129320970',
   investors: [],
   linkedin: null,
   duneQueries: null,

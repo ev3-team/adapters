@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'COMPUTE',
   token: 'WSI',
-  coingeckoId: 'wesendit',
+  coinGeckoID: 'wesendit',
   id: 'tx9874',
   description:
     'WeSendit is a file transfer service specializing in anonymous data transfer and decentralized storage solutions.',

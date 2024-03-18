@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'WEFI',
-  coingeckoId: 'wefi-finance',
+  coinGeckoID: 'wefi-finance',
   id: 'wfvjio',
   description:
     'WeFi is a decentralized protocol that opens up under collateralized borrowing and lending options in the DeFi space.',
-  discord: 'https://discord.com/invite/B6U6kectbV',
+  discord: '915517391520276510',
   investors: [
     '7ht6fr',
     '0ppjh7',

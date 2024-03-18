@@ -7,10 +7,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'SHM',
-  coingeckoId: 'shardeum',
+  coinGeckoID: 'shardeum',
   id: 'g65u6w',
   description: 'Shardeum: EVM-based platform ensuring decentralization and security.',
-  discord: 'https://discord.com/invite/shardeum',
+  discord: '933959587462254612',
   investors: [
     'oixym4',
     'z37132',

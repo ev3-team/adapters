@@ -7,11 +7,11 @@ export default {
   chain: 'POLKADOT',
   category: 'NOT_DEPIN',
   token: 'MANTA',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'm3djiu',
   description:
     'Manta utilises zero-knowledge proofs (ZKPs) to guarantee the secure and private minting of NFTs and SBTs while maintaining the confidentiality of crypto assets.',
-  discord: 'https://discord.com/invite/mantanetwork',
+  discord: '795390654628102165',
   investors: [
     'b8gebp',
     '7bn5bf',

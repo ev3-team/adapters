@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'VAI',
-  coingeckoId: 'vaiot',
+  coinGeckoID: 'vaiot',
   id: 'sa6vqu',
   description:
     'Vaiot is a provider of blockchain-based AI Assistants and on-chain Intelligent Contracts for businesses and consumers.',
-  discord: 'https://discord.com/invite/FqUxBS69FJ',
+  discord: '1062035044618743819',
   investors: ['5252r4'],
   linkedin: 'http://www.linkedin.com/company/vaiot-ltd',
   duneQueries: null,

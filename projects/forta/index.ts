@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'FORT',
-  coingeckoId: 'forta',
+  coinGeckoID: 'forta',
   id: 'jed7z0',
   description:
     'Forta is a real-time detection network for blockchain activity, providing alerts to neutralize threats and prevent loss.',
-  discord: null,
+  discord: '869983523371642921',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/fortafoundation',
   duneQueries: null,

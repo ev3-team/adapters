@@ -7,7 +7,7 @@ export default {
   chain: 'ARBITRUM',
   category: 'COMPUTE',
   token: 'DTEL',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'adga80',
   description:
     'Decentralized Real-Time Communication: Build app with live audio/video/data communications. Own the resources, network, and data. Earn as a community member.',

@@ -7,10 +7,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'PUSH',
-  coingeckoId: 'ethereum-push-notification-service',
+  coinGeckoID: 'ethereum-push-notification-service',
   id: 'nhurl1',
   description: 'Push Protocol: web3 cross-chain network for dapps, wallets, and services.',
-  discord: 'https://discord.com/invite/pushprotocol',
+  discord: '717089384838594695',
   investors: [
     '92ar5l',
     'h6uwpw',
@@ -81,8 +81,7 @@ export default {
   blog: 'https://medium.com/push-protocol',
   github: null,
   telegram: null,
-  twitter:
-    'https://twitter.com/pushprotocol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/pushprotocol',
   url: 'https://push.org/',
   verified: false,
 } satisfies AdapterProject

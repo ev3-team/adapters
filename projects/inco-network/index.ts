@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 's1rmn5',
   description:
     'Inco Network is an EVM Layer-1, utilizing fully homomorphic encryption (FHE) to enable composable and operable confidential states.',
-  discord: null,
+  discord: '1150292382416392315',
   investors: [],
   linkedin: null,
   duneQueries: null,

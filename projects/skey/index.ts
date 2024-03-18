@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SKEY',
-  coingeckoId: 'skey-network',
+  coinGeckoID: 'skey-network',
   id: 'v9jtu7',
   description:
     'Skey is a blockchain-based company connecting decentralized finance and IoT, enabling a new economy of physical assets.',
-  discord: 'https://discord.com/invite/en7YQU4EBR',
+  discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/skeynetwork',
   duneQueries: null,

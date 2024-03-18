@@ -7,11 +7,11 @@ export default {
   chain: 'SOLANA',
   category: 'BLOCKCHAIN_INFRA',
   token: 'LIKE',
-  coingeckoId: 'only1',
+  coinGeckoID: 'only1',
   id: 'ennb7m',
   description:
     'Only1 is a membership-based social platform to enable creators to earn and engage with fans.',
-  discord: 'https://discord.com/invite/only1-842169399272013824',
+  discord: '842169399272013824',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/joinonly1/',
   duneQueries: null,

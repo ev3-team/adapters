@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BIRD',
-  coingeckoId: 'bird-money',
+  coinGeckoID: 'bird-money',
   id: '64mpyg',
   description:
     'Bird is a decentralized oracle providing blockchain developers with analytics products for web platforms.',
-  discord: 'https://discord.com/invite/Z2BeCnS',
+  discord: '1185764787657920672',
   investors: ['mrgeec'],
   linkedin: 'https://www.linkedin.com/company/birdmoney/',
   duneQueries: null,

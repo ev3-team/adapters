@@ -7,10 +7,10 @@ export default {
   chain: 'POLYGON',
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vhqz3k',
   description: 'Blackbird is a loyalty and membership platform for restaurants.',
-  discord: 'https://discord.com/invite/ysHrDPrJYr',
+  discord: '1090286137790169161',
   investors: [
     'g1jnat',
     '26x5nn',

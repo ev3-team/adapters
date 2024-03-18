@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8ul10b',
   description:
     'Provide decentralized underlying data storage technology for Metaverse&NFT to open up data value transfer channels, and help human civilization survive forever. ',
-  discord: 'https://discord.com/invite/YG4Ydv2E7X',
+  discord: '849100463441444894',
   investors: ['zajrom', '772xwk', 'y2lysu', 'us9d7q', 'nxzb7m', 'wu15kr'],
   linkedin: null,
   duneQueries: null,

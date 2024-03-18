@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'FLOW',
-  coingeckoId: 'flow',
+  coinGeckoID: 'flow',
   id: 'g4borf',
   description:
     'Flow is a permissionless layer 1 blockchain, empowering developers to create limitless Web3 apps for mainstream adoption',
-  discord: 'https://discord.com/invite/J6fFnh2xx6',
+  discord: '613813861610684416',
   investors: [
     'spurmc',
     'onvq9f',
@@ -39,7 +39,7 @@ export default {
     'gduv1m',
     'pcw959',
   ],
-  linkedin: 'https://www.linkedin.com/company/flow-blockchain/?originalSubdomain=ca',
+  linkedin: 'https://www.linkedin.com/company/flow-blockchain/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://flow.com/blog',

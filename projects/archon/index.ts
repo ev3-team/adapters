@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'vltnk6',
   description:
     'Archon Developer is a decentralized protocol enabling scientific research with secure storage, access, and governance.',
-  discord: 'https://discord.com/invite/NH27xZD',
+  discord: '248822834317492245',
   investors: ['4lf3qu', '1rsbr7'],
   linkedin: null,
   duneQueries: null,

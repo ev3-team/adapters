@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'x0ftnx',
   description:
     'PerpsTech reimagines decentralized trading with its advanced on-chain perpetual contracts, anchored by the dynamic Friendtech share prices.',

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hqj4vb',
   description:
     'US3R: Dev platform and dApps with composable data using Ceramic for decentralized storage.',
-  discord: 'https://discord.com/invite/4ZBUdBcVnk',
+  discord: '961112286733434950',
   investors: ['772xwk'],
   linkedin: null,
   duneQueries: null,

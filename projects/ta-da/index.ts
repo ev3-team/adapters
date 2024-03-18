@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'TADA',
-  coingeckoId: 'ta-da',
+  coinGeckoID: 'ta-da',
   id: '5mgqgs',
   description:
     'Ta-da is an AI data marketplace that uses blockchain technology to gamify the process of verifying AI data.',

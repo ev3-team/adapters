@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: '0KN',
-  coingeckoId: '0-knowledge-network',
+  coinGeckoID: '0-knowledge-network',
   id: 'sq9otq',
   description:
     '0KN is a next generation decentralized and incentivized metadata-private mixnet-based anonymous broadcast network with cryptographic security guarantees.',

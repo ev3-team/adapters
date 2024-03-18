@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pheffj',
   description:
     'Mindland is a meditation incentivization company that uses crypto incentives to encourage meditation practices.',
-  discord: 'https://discord.com/invite/jMjhnCPFzF',
+  discord: '999441437743644782',
   investors: [],
   linkedin: null,
   duneQueries: null,

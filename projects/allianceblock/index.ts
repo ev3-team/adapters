@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ALBT',
-  coingeckoId: 'allianceblock',
+  coinGeckoID: 'allianceblock',
   id: 'zgvzl4',
   description:
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',
-  discord: 'https://discord.com/invite/fB4tkF52H5',
+  discord: '742466730202234960',
   investors: [
     'mrgeec',
     'k1qvmn',

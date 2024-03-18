@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'RUSHAI',
-  coingeckoId: 'alpharushai',
+  coinGeckoID: 'alpharushai',
   id: 's99udg',
   description:
     'AlphaRush AI: Real-time news, analysis, and personalized trading alpha for cryptocurrency trading.',

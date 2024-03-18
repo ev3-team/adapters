@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nbam9o',
   description: 'LongFi Solutions: Decentralized Infrastructure for community connectivity',
   discord: null,

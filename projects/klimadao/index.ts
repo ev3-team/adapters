@@ -7,11 +7,11 @@ export default {
   chain: 'POLYGON',
   category: 'ENERGY',
   token: 'KLIMA',
-  coingeckoId: 'klima-dao',
+  coinGeckoID: 'klima-dao',
   id: '8bbq2m',
   description:
     'KlimaDAO is building an infrastructure for a transparent, neutral, and public Digital Carbon Market to accelerate climate finance on a global scale. KLIMA is a carbon-backed digital asset and can be staked for rewards or used to offset digital carbon. Holding KLIMA also empowers people to vote and help govern the Digital Carbon Market.',
-  discord: null,
+  discord: '841390338324824096',
   investors: [],
   linkedin: null,
   duneQueries: null,

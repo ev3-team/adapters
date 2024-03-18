@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BOSON',
-  coingeckoId: 'boson-protocol',
+  coinGeckoID: 'boson-protocol',
   id: 'nzimvj',
   description:
     "Boson Protocol's Web3 Commerce Layer enables the tokenization, transfer and trade of any physical thing as a redeemable NFT.",
-  discord: null,
+  discord: '811155042714779678',
   investors: [
     'ycxcre',
     'cvqnc5',

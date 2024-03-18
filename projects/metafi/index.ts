@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cu6hqb',
   description:
     'Metafi enables embeded wallets, broadcast transactions, indexing on-chain events, and more for web3 game developers.',
-  discord: 'https://discord.com/invite/metafi',
+  discord: null,
   investors: [
     'fue5t7',
     'rvqbxw',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'uq5rfx',
   description:
     'Proto is a geospatial data company revolutionizing the industry through a user-generated mapping platform.',

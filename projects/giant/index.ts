@@ -7,11 +7,11 @@ export default {
   chain: 'POLKADOT',
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jl19aq',
   description:
     'GIANT is a blockchain protocol aiming to democratize access to internet and financial services by tokenizing bandwidth.',
-  discord: 'https://discord.com/invite/ECD5XS8f99',
+  discord: '935300367632179210',
   investors: [
     'cdmyso',
     'yva82n',

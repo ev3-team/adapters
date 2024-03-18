@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '75exdm',
   description:
     'Developing a project that currently exploring new ways to architect how blockchains can handle AI-training data.',

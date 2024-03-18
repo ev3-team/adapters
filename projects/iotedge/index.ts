@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'olcvcb',
   description:
     'IoTEdge is a decentralized edge computing network for Internet of Things, built on blockchain technology.',

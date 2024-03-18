@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xfjtib',
   description:
     'Koii is a platform enabling passive income by connecting idle devices to transparent apps and audit systems.',
-  discord: 'https://discord.com/invite/koii',
+  discord: null,
   investors: [
     'p69jgl',
     'pbunpe',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'not yet',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hi03tk',
   description:
     'Tromero is a peer-to-peer blockchain that merges traditional proof of work consensus with ML to empower secure, democratic and decentralized ML applications.',

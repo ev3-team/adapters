@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oumqih',
   description: 'Phaver: decentralized social app rewarding users with tokens for sharing content.',
-  discord: 'https://discord.com/invite/phaver',
+  discord: '930833706460004402',
   investors: [
     'ujq536',
     '6nxw7d',

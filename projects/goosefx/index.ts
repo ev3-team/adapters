@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
   token: 'GOFX',
-  coingeckoId: 'goosefx',
+  coinGeckoID: 'goosefx',
   id: '1qhz26',
   description: 'Solana DeFi',
   discord: null,

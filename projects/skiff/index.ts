@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bts0sr',
   description:
     'Skiff is an end-to-end encrypted platform that supports collaboration, email, and messaging and gives users the power to communicate freely.',
-  discord: 'https://discord.gg/skiff',
+  discord: null,
   investors: [
     'frkhnw',
     'w0s9ub',

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'ALI',
-  coingeckoId: 'artificial-liquid-intelligence',
+  coinGeckoID: 'artificial-liquid-intelligence',
   id: 'zzxlj6',
   description:
     'Alethea AI is a research and development studio building at the intersection of two of the most transformative technologies of our time: Generative AI and Blockchain.',

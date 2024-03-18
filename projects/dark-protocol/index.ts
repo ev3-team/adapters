@@ -7,11 +7,11 @@ export default {
   chain: 'COSMOS',
   category: 'NOT_DEPIN',
   token: 'DARK',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'tjc0sf',
   description:
     'Dark Protocol is a Shielded Liquidity Layer for Zero-Knowledge Protocols, governed by $DARK',
-  discord: null,
+  discord: '958993201648238593',
   investors: [],
   linkedin: null,
   duneQueries: null,

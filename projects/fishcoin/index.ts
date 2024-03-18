@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0uzrya',
   description:
     'Fishcoin is a blockchain based traceability and data ecosystem designed specifically for the global seafood industry.',

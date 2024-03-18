@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'axqfta',
   description:
     'Druglike is building a decentralized computing network which provides resources for anyone looking to start or contribute to early-stage drug discovery projects.',
-  discord: 'https://discord.com/invite/y35TPmdScu',
+  discord: '977966236627533886',
   investors: [],
   linkedin: null,
   duneQueries: null,

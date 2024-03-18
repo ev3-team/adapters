@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bwhoon',
   description:
     'Jasmine Energy is a decentralized market for claiming, trading, and redeeming renewable energy certificates.',
-  discord: 'https://discord.com/invite/3y9aMNSHb5',
+  discord: '1012757430779789403',
   investors: [
     '9jairy',
     '4zunln',

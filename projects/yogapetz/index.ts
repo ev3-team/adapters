@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: 'WELL',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '1gh368',
   description:
-    'Yogapetz is a decentralised wellness ecosystem that prioritizes mindfulness, community and rewards.\r\n',
+    'Yogapetz is a decentralised wellness ecosystem that prioritizes mindfulness, community and rewards.',
   discord: null,
   investors: [],
   linkedin: null,

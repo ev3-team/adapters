@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8ukwaw',
   description: 'Bloxtel builds decentralized SIM authentication protocols (dSIM).',
   discord: null,

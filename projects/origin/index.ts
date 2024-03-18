@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '5kkva3',
   description:
     'Origin Systems is a company that simplifies the process of getting started with LLMs.',

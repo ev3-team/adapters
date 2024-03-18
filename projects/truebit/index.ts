@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'TRU',
-  coingeckoId: 'truebit-protocol',
+  coinGeckoID: 'truebit-protocol',
   id: 's2zdlj',
   description:
     'Truebit is an outsourced computation protocol that aims to take off-chain large computation tasks such as complex smart contracts.',

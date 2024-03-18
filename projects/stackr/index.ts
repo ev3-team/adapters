@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l3144f',
   description:
     'Stackr SDK is a framework to build app-specific micro-rollups in web2 programming languages.',
-  discord: 'https://discord.com/invite/PY4nhg7bcc',
+  discord: '1018902999982161990',
   investors: [
     '26x5nn',
     'f7094w',

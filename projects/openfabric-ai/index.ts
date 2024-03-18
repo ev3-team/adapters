@@ -7,11 +7,11 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'OFN',
-  coingeckoId: 'openfabric',
+  coinGeckoID: 'openfabric',
   id: 'vzfbpq',
   description:
     'Openfabric is a decentralized AI platform where the collaboration between AI innovators, data providers, businesses, and infrastructure providers.',
-  discord: 'https://discord.com/invite/EMHN5VQYSx',
+  discord: '1080095228171665418',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/openfabricai/',
   duneQueries: null,

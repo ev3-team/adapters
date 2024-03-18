@@ -7,10 +7,10 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'MODA',
-  coingeckoId: 'moda-dao',
+  coinGeckoID: 'moda-dao',
   id: 'qwsoln',
   description: 'MODA DAO empowers music industry with NFTs, licensing, and DeFi.',
-  discord: 'https://discord.com/invite/gbm2ZNjGPK',
+  discord: '808463591102873601',
   investors: [
     'ycxcre',
     '8nclhv',

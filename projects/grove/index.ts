@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ibr4u0',
   description:
     'Backed by thousands of independent, globally distributed nodes, Grove enables teams to deliver a multi-chain user experience at scale.',
-  discord: null,
+  discord: '824324475256438814',
   investors: [],
   linkedin: null,
   duneQueries: null,

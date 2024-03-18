@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'NITRO',
-  coingeckoId: 'nitro-league',
+  coinGeckoID: 'nitro-league',
   id: '5m6iby',
   description:
     'Nitro League is a decentralized game where players earn tokens racing futuristic cars and completing missions.',
-  discord: 'https://discord.com/invite/nitroleague',
+  discord: '905746313247879209',
   investors: [
     'ajbv45',
     '4apzxz',

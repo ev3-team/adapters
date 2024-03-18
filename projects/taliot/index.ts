@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'a239fd',
   description:
     'Taliot is a job search platform, providing AI-powered tools for efficient and streamlined job hunting.',

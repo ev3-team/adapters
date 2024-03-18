@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4x50xh',
   description:
     'Astran: Cybersecurity startup with Omnicloud, a decentralized data storage solution.',

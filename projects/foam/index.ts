@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'FOAM',
-  coingeckoId: 'foam-protocol',
+  coinGeckoID: 'foam-protocol',
   id: 'olxxfj',
   description:
     'Foam is a blockchain-based platform enabling crowdsourced maps and decentralized location services.',

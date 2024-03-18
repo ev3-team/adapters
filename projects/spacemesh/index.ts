@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ojaphf',
   description: 'Decentralized, energy-efficient blockmesh with unique consensus.',
-  discord: 'https://discord.com/invite/yVhQ7rC',
+  discord: '623195163510046732',
   investors: [
     'bspyld',
     'x2iw8r',

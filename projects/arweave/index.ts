@@ -7,7 +7,7 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'AR',
-  coingeckoId: 'arweave',
+  coinGeckoID: 'arweave',
   id: '0vks67',
   description: 'Arweave is a permanent and decentralized web inside an open ledger.',
   discord: null,

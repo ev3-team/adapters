@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0pgbgt',
   description:
     'LocalPro: gamifies experiences, promotes trust, quests, badges, rewards, enhances skills, incentivizes collaboration.',

@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'INJ',
-  coingeckoId: 'injective-protocol',
+  coinGeckoID: 'injective-protocol',
   id: 't2mgs2',
   description:
     'Injective is a finance-oriented blockchain for DeFi apps: exchanges, lending, and prediction markets.',
-  discord: 'https://discord.com/invite/NK4qdbv',
+  discord: '739552603322450092',
   investors: [
     'xmw0ev',
     'ajbv45',

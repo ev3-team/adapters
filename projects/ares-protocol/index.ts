@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'ARES',
-  coingeckoId: 'ares-protocol',
+  coinGeckoID: 'ares-protocol',
   id: 'obq296',
   description:
     'Ares is an on-chain-verified oracle platform that provides secure and reliable data services for the Polkadot DeFi ecosystem',
-  discord: 'https://discord.com/invite/cqduK4ZNaY',
+  discord: '857112014648115221',
   investors: [
     'perhf5',
     'h3elac',

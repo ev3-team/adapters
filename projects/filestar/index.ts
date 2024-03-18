@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: 'STAR',
-  coingeckoId: 'filestar',
+  coinGeckoID: 'filestar',
   id: 'h7mk5k',
   description:
     'FileStar is a Web 3.0 decentralized storage, verifiable computation, and measurable bandwith network infrastructure.',

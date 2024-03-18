@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'k9uwcc',
   description:
     'MetaFlyers: a decentralized rewards marketplace connecting consumers, brands, and NFT communities.',

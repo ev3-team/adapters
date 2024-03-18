@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l6awms',
   description:
     'Hyper Oracle: Programmable zkOracle for blockchain security and developer empowerment.',
-  discord: 'https://discord.com/invite/MgyYbW9dQj',
+  discord: '1021130462317523027',
   investors: ['r54jbx', 'uktppp', '6c0yfx', '3xr5rh', 'pu3yyr', 'km32gq'],
   linkedin: 'http://www.linkedin.com/company/hyperoracle',
   duneQueries: null,

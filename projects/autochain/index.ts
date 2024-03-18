@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dwrle8',
   description:
     'Autochain is a decentralized platform for authenticating vehicle history through blockchain.',

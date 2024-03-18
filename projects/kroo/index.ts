@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'z1mpcu',
   description:
     'Kroo: 5G rooftop connectivity infra for real estate owners, harnessing power of 5G.',

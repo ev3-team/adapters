@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nu6vir',
   description:
     'PICANTE is a crypto portfolio and treasury management platform for Web3 companies, DAOs and investors.',

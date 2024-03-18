@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'a4zdzs',
   description: 'Telegram bot for permissionless communications',
   discord: null,

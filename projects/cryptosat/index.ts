@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9agce6',
   description:
     'Cryptosat is a satellite company that offers cost-efficient, space-based cryptographic trust infrastructure for Web3.',

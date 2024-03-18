@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TRIAS',
-  coingeckoId: 'trias-token',
+  coinGeckoID: 'trias-token',
   id: 'gcp7d3',
   description:
     'Trias is a cloud infrastructure solution with a native-application-compatible platform and token ecosystem.',
-  discord: 'https://discord.com/invite/9b2FQc4M5j',
+  discord: '871671996046512148',
   investors: ['772xwk', '9p60sa', '07pxi6', 'pyukl2'],
   linkedin: 'http://www.linkedin.com/company/trias-lab',
   duneQueries: null,

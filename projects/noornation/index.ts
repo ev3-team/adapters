@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dwfwvv',
   description:
     'NoorNation is the first African Egypt-based renewable energy start-up bringing fully equipped decentralized energy and water infrastructure across Egypt and Sub-Saharan Africa.',

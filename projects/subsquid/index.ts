@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cp4cw6',
   description:
     'Subsquid: Open-source framework to extract & present blockchain data as GraphQL APIs for Web3 builders.',
-  discord: 'https://discord.com/invite/subsquid',
+  discord: '857105545135390731',
   investors: [
     'k93k29',
     'ii5tnv',

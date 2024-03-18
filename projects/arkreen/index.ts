@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'wyn0zn',
   description:
     'Arkreen is a Web3-powered digital infrastructure for global distributed renewable energy resources.',
-  discord: 'https://discord.com/invite/j5fSNRKGme',
+  discord: '1022165037235839007',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/arkreen/',
   duneQueries: null,

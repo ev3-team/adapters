@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gt13wv',
   description: 'Galiot is a leading company expanding Helium decentralized IoT-network in Europe.',
   discord: null,

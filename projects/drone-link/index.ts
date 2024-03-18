@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '0w936j',
   description:
     'Drone Link uses DePin model to enhance drone performance and accelerate regional expansion.',

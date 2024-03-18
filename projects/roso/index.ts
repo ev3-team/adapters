@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ROSO',
-  coingeckoId: 'roso-elite-gamblers-mansion',
+  coinGeckoID: 'roso-elite-gamblers-mansion',
   id: '36f3to',
   description:
     'Roso is a diverse online casino and gaming platform, offering a wide range of gambling experiences.',

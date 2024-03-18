@@ -7,11 +7,11 @@ export default {
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
   token: 'EMP',
-  coingeckoId: 'empyreal',
+  coinGeckoID: 'empyreal',
   id: 'mmo63y',
   description:
     'Empyreal is a protocol that leverages privacy technology, encryption, and automation to optimize trading operations and user security across multiple blockchain platforms.',
-  discord: 'https://discord.gg/empyrealsdk',
+  discord: '1096496676845396108',
   investors: [],
   linkedin: null,
   duneQueries: null,

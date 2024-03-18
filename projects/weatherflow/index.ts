@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '4xa4u6',
   description: 'Weatherflow is a decentralized weather monitoring network.',
   discord: null,

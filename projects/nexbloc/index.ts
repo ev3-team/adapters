@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'i27v9c',
   description:
     'Developer of a decentralized web platform intended to create a usable ecosystem of connected websites and applications using a domain naming system.',

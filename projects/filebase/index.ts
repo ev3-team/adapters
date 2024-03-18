@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ush02g',
   description:
     'Filebase is a reliable IPFS pinning service that provides secure and efficient file storage and management.',
-  discord: 'https://discord.com/invite/rPwkxwJEDZ',
+  discord: '827386332795371560',
   investors: ['2g0699', '6iy81o', '9kybya'],
   linkedin: 'https://linkedin.com/company/filebase',
   duneQueries: null,

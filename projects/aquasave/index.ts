@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'j5agj9',
   description:
     'AquaSave is an ecosystem that uses IoT and blockchain technologies, and relies on community participation to analyze and track the status of the planet‚Äôs water resources.',
-  discord: 'https://discord.com/invite/gQSmUGsUtB',
+  discord: '936317978910285844',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/aquasave-io/',
   duneQueries: null,

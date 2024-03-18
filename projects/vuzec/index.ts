@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oogh3l',
   description:
     'Vuzec: Empowering artists with decentralized crowdfunding and royalties distribution.',

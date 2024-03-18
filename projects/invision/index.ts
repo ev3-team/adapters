@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '74fmsb',
   description:
     'Invision AI enables real-time object detection and tracking on mainstream processors.',

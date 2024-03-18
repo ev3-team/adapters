@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8b6kci',
   description:
     'Meshtastic is an open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices.',
-  discord: 'https://discord.com/invite/ktMAKGBnBs',
+  discord: '867578229534359593',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'k5fxwj',
   description:
     'Metablox is a provider of enterprise-grade WiFi roaming solutions, delivering worldwide public access.',
-  discord: 'https://discord.com/invite/metablox',
+  discord: '916937100744597548',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/metablox/',
   duneQueries: null,

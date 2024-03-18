@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'yeobvh',
   description:
     'LiveMind.ai is an AI-powered platform designed to help businesses, creatives, and agencies transform their operations with innovative AI technology.',

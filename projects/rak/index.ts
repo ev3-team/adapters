@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v959ss',
   description:
     'RAKwireless is an industrial-leading connectivity provider that builds infrastructures and Modular Edge devices for IoT, Smart City, and Smart Agriculture markets.',
-  discord: 'https://discord.com/invite/Tk9VGRFG4w',
+  discord: null,
   investors: ['gyce3n', 'ztuz2u', 'yv9j5t', 'u98nrn'],
   linkedin: 'https://www.linkedin.com/company/rakwireless/',
   duneQueries: null,

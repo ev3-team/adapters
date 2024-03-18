@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6bppe0',
   description:
     'Neurosity is a developer of neural devices and applications that translate human brain thoughts into actionable output.',
-  discord: 'https://discord.com/invite/vDKnG8kUvQ',
+  discord: '635812828481323028',
   investors: ['b55yh4', '94mx0d', 'g3q5mo', '3vy365', 'hq8rgo', 'kcl4ay'],
   linkedin: 'https://www.linkedin.com/company/neurosity',
   duneQueries: null,

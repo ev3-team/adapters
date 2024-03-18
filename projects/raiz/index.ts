@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'or2okw',
   description:
     'Raiz Building is a sustainable farming company providing energy efficient urban farms for local consumers.',

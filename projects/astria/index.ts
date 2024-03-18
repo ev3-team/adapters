@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'lgm1f3',
   description: 'Astria Developer: Decentralization platform replacing centralized sequencers.',
-  discord: null,
+  discord: '1163902555080904715',
   investors: [
     'bspyld',
     'fahk60',

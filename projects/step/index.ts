@@ -5,14 +5,13 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'BINANCE',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: 'FITFI',
-  coingeckoId: 'step-app',
+  coinGeckoID: 'step-app',
   id: 'ho83ef',
   description:
     'Step is a move-to-earn mobile app that lets users earn crypto for their fitness efforts.',
-  discord:
-    'https://discord.com/invite/stepappdc?utm_source=site&utm_medium=organic_social&utm_campaign=always_on&utm_content=small_icons',
+  discord: '959223427749801994',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/step-app-fi/',
   duneQueries: null,

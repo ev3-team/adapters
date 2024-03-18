@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'A8',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xjogkp',
   description:
     'Ancient8 is building a DAO that develops a community and software platform to enable everyone to play and build the Metaverse while earning rewards.',
-  discord: 'https://discord.com/invite/ancient8',
+  discord: '882274636342116372',
   investors: [
     'pt62tc',
     'hol96b',

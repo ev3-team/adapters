@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '48w7km',
   description:
     'Penomo is a smart contract-based infrastructure designed to decentralize and revolutionize the energy storage market, particularly for Battery Energy Storage Systems (BESS). It facilitates BESS producers, operators, and energy-as-a-service providers in monetizing their assets by leveraging tokenization',

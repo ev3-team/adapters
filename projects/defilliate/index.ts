@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bh55a0',
   description:
     'An affiliate marketing platform built specifically for web3 that allows creators to monetize their content.',
-  discord: 'https://discord.com/invite/HYpGVvEJPq',
+  discord: '1158504286808981546',
   investors: [],
   linkedin: null,
   duneQueries: null,

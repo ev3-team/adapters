@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'sr6yh3',
   description:
     'MatchX is a hardware and software company specializing in IoT solutions for the industry.',
-  discord: 'https://discord.com/invite/cgW7sDa',
+  discord: '525329441371717675',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/matchx/',
   duneQueries: null,

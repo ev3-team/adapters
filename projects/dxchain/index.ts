@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DX',
-  coingeckoId: 'dxchain-token',
+  coinGeckoID: 'dxchain-token',
   id: '86s1ov',
   description:
     'DxChain is a blockchain network designed to build a web3 application platform that supports smart contracts and cross-chain ecosystem, and creates the most powerful public chain for dapps while ensuring security and scalability.',
-  discord: null,
+  discord: '899551086501851146',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dxchainnetwork/',
   duneQueries: null,

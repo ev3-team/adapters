@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ntppvh',
   description:
     'Ritual is an open, sovereign execution layer for AI. It allows users to seamlessly integrate AI into their app or protocol on any chain, enabling them to fine-tune, monetize, and perform inference on models with cryptographic schemes',

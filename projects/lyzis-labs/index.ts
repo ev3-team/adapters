@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'hffbvt',
   description:
     'Lyzis Labs is an incentive-driven and democratic protocol built upon a decentralized online marketplace based on blockchain technology.',
-  discord: 'https://discord.com/invite/gMmAN7GPmW',
+  discord: '984133538427338772',
   investors: ['e0m9me'],
   linkedin: 'https://www.linkedin.com/company/lyzis-labs/about/',
   duneQueries: null,

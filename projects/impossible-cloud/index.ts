@@ -7,9 +7,10 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'qcgu9q',
-  description: "Europe's premier cloud storage.",
+  description:
+    'Impossible Cloud is a decentralized, enterprise-grade cloud storage platform. It leverages a network of data centers to deliver low-cost object storage with a longer term goal to create a more comprehensive cloud offering.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'IOTEX',
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'z6715d',
   description:
     'Perkable is a decentralized advertising network connecting brands to local live events.',

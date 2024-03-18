@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'fy5a0a',
   description:
     'NomadPetition: Global citizens voices turned into actionable insights for governments.',
-  discord: null,
+  discord: '907363977527431270',
   investors: [],
   linkedin: null,
   duneQueries: null,

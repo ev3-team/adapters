@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'a0pcew',
   description:
     'Lofty is a fractional real estate marketplace that consists of buyers (token investors) and sellers (people who want to sell their properties).',

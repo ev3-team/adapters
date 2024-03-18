@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'FACT',
-  coingeckoId: 'fact0rn',
+  coinGeckoID: 'fact0rn',
   id: 'w0jykb',
   description:
     'FACT0RN: a blockchain replacing hashing with Integer Factorization as Proof of Work. Forked from bitcoin V22.0.',
-  discord: 'https://discord.com/invite/tE2BNpgmtH',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '9emkwg',
   description:
     'Setter is the go-to app for drops and community. Be the first to RSVP for upcoming releases and limited editions.',

@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'CELO',
-  coingeckoId: 'celo',
+  coinGeckoID: 'celo',
   id: '0oryv0',
   description:
     'Celo is a blockchain protocol that aims to address some of the barriers to cryptoasset adoption (user experience and volatility) by using phone numbers as public keys and issuing a native stable-value token. The network supports the development of smart contracts and decentralized applications.',
-  discord: null,
+  discord: '600834479145353243',
   investors: [],
   linkedin: null,
   duneQueries: null,

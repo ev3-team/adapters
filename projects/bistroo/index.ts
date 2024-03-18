@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'BIST',
-  coingeckoId: 'bistroo',
+  coinGeckoID: 'bistroo',
   id: 'qpkhj7',
   description: 'Bistroo is a decentralized marketplace for food & beverage delivery.',
   discord: null,

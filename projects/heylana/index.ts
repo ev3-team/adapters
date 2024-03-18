@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'bonzt3',
   description: 'Heylana offers voice-controlled devices for seamless audio on Solana blockchain.',
   discord: null,

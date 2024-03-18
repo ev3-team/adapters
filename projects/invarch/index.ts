@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'm2541n',
   description:
     'InvArch allows organizations & individuals to manage assets & execute transactions across any blockchain using a single non-custodial account.',
-  discord: 'https://discord.com/invite/invarch',
+  discord: '876974985984487484',
   investors: [
     'wsbapa',
     'gvqos9',

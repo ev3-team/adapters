@@ -7,7 +7,7 @@ export default {
   chain: 'BINANCE',
   category: 'AI',
   token: 'KWAI',
-  coingeckoId: 'kwai',
+  coinGeckoID: 'kwai',
   id: '4ccixw',
   description:
     'KWAI develops AI-powered smart assistant for Web3. Offers tools for crypto swapping, staking, and market tracking.',

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ro7789',
   description:
     'ContextDao is a decentralized data storage protocol similar to the blockchain that enables on-chain data storage.',
-  discord: 'https://discord.com/invite/NpYkxbC',
+  discord: '737109283610689647',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/context-protocol',
   duneQueries: null,

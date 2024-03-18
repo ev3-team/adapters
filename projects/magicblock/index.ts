@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'i15p9n',
   description:
     'Magicblock is an open-source stack that enables anyone to build and play on-chain games on Solana & SVM',
-  discord: null,
+  discord: '943797222162726962',
   investors: [],
   linkedin: null,
   duneQueries: null,

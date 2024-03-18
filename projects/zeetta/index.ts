@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6gz71b',
   description:
     'Zeetta is a network virtualization company specializing in SDN solutions for enterprise and carrier networks.',

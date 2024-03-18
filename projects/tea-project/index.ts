@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xmaehz',
   description: 'TEA Project: decentralized cloud computing for serverless apps.',
-  discord: 'https://discord.com/invite/nvtaneQgGb',
+  discord: '1042161438732603513',
   investors: [
     'h2tvqq',
     'y7zqs7',

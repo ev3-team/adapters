@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '23pr35',
   description:
     'Arden integrates blockchain as an additive element to businesses’ existing systems to provide their customers with the benefits of next generation technology through a familiar web2 experience.',

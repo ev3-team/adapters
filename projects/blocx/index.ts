@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'BLOCX',
-  coingeckoId: 'blocxtech',
+  coinGeckoID: 'blocxtech',
   id: 'zqsqzl',
   description:
     'BLOCX is an all-in-one computer management ecosystem that leverages its native cryptocurrency, BLOCX Coin, to provide a suite of security and optimization features for digital computing. It utilizes masternodes for network stability, offers CPU and GPU rental, cloud storage solutions, and includes a decentralized exchange, all powered by the X11 mining algorithm.',
-  discord: null,
+  discord: '1110639428747145287',
   investors: [],
   linkedin: null,
   duneQueries: null,

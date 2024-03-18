@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'u0jkdv',
   description: 'Developer of industrial machinery designed to make aerospace parts.',
   discord: null,

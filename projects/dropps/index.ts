@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'cmvmnd',
   description:
     'Developer of a decentralized infrastructure for the new creative economy intended to build d-apps and protocols that leverage emerging market opportunities.',
-  discord: 'https://discord.com/invite/nzn3BGHyYH',
+  discord: '900360236051865650',
   investors: ['goajo6', 'oonxc5', 'pbxwvb', '6ln47x', '7t2d0s', 'vy2caq'],
   linkedin: 'https://www.linkedin.com/company/dropps-io/',
   duneQueries: null,

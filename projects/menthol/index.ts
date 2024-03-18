@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'ENERGY',
   token: 'COOL',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'b9egeq',
   description:
     'Menthol Protocol is a multi-chain decentralized sustainability protocol that will automatically offset carbon emissions user or dApp transactions with verified renewable energy and carbon credits.',
-  discord: 'https://discord.com/invite/a4XuEpjCvA',
+  discord: '852523511414784027',
   investors: ['qqc9zd', 'n73vnt', 'slylr0'],
   linkedin: 'https://www.linkedin.com/company/menthol-protocol/',
   duneQueries: null,

@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'FET',
-  coingeckoId: 'fetch-ai',
+  coinGeckoID: 'fetch-ai',
   id: 'mhpovr',
   description:
-    'Fetch.ai: Blockchain-based AI and ML platform connecting devices for market creation and data value addition.',
-  discord: 'https://discord.com/invite/fetchai',
+    'Fetch.ai is a Blockchain-based AI and ML platform connecting devices for market creation and data value addition.',
+  discord: '1141305890796994651',
   investors: [
     'fj88qi',
     'o3xe28',

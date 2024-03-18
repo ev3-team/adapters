@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'mw0azh',
   description:
     "Glif is a developer of Filecoin's Liquid Staker which gives FIL holders a way to earn yield on their assets.",

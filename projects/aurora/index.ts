@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'AURORA',
-  coingeckoId: 'aurora-near',
+  coinGeckoID: 'aurora-near',
   id: 'tfu536',
   description:
     'Aurora is a performant, scalable, and carbon neutral solution that executes Ethereum contracts on the NEAR blockchain.',
-  discord: 'https://discord.com/invite/dEFJBz8HQV',
+  discord: '856517297141317643',
   investors: [
     'b8gebp',
     '1zgufc',

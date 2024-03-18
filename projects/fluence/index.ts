@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ul9uzl',
   description: 'Fluence - decentralized platform for creating peer-to-peer apps.',
-  discord: 'https://discord.com/invite/5qSnPZKh7u',
+  discord: '483968379833679873',
   investors: [
     'bspyld',
     '2q8xba',

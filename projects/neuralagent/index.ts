@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8deftt',
   description: 'NeuralAgent is a global network of low-cost transportation infrastructure.',
   discord: null,

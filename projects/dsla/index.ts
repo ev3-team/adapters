@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'DSLA',
-  coingeckoId: 'stacktical',
+  coinGeckoID: 'stacktical',
   id: '9mm3mn',
   description:
     'DSLA Protocol reduces user exposure to service delays and financial losses through agreements.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '8ve4hw',
   description:
     'Growfitter is a gamified digital health reward platform that adds financial benefits to your physical activity.',

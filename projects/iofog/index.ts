@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'g9rym4',
   description: 'Eclipse ioFog: Open-source edge computing platform for ECN.',
   discord: null,

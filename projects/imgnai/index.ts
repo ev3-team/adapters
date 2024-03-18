@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'IMGNAI',
-  coingeckoId: 'imgnai',
+  coinGeckoID: 'imgnai',
   id: 'du3f01',
   description:
     'ImgnAI‚Äôs flagship product ‚ÄúNai‚Äù turns anything you write into an anime, 3D, or hyper-realistic image.',
-  discord: 'https://discord.com/invite/imgnai',
+  discord: '1053754972753383474',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/imgnai',
   duneQueries: null,

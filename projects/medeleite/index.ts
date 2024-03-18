@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jtrmoh',
   description: 'Full-stack supply chain platform for mlik production',
   discord: null,

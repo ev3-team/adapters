@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ees7sx',
   description:
     'Opolis is a member-owned digital employment platform that uses blockchain technology to supply tools that independent workers can use to manage their employment benefits, payroll, and shared services.',

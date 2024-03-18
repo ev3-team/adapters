@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ACAI',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gzcc2r',
   description:
     'Antimetal is an AWS cloud cost optimization platform that utilizes AI to analyze and optimize cloud spending, helping users maximize savings.',

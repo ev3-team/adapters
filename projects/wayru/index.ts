@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'WIRELESS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'e9hjh5',
   description:
     'Wayru Network is a Decentralized Wireless Network that provides affordable and reliable Internet access to everyone, everywhere.',
-  discord: null,
+  discord: '835242215973978152',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -7,10 +7,10 @@ export default {
   chain: 'POLKADOT',
   category: 'BLOCKCHAIN_INFRA',
   token: 'TEER',
-  coingeckoId: 'integritee',
+  coinGeckoID: 'integritee',
   id: '6hlk6x',
   description: 'Integritee is a TEE-based secure computation platform.',
-  discord: 'https://discord.com/invite/wwGcqhfXtZ',
+  discord: '877203191396192316',
   investors: [
     'gvqos9',
     'xmw0ev',

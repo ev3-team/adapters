@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AGIX',
-  coingeckoId: 'singularitynet',
+  coinGeckoID: 'singularitynet',
   id: '48m8lh',
   description:
     'SingularityNET enables easy creation, sharing, and monetization of AI services through its global marketplace.',
-  discord: 'https://discord.com/invite/snet',
+  discord: '909843832491896832',
   investors: [
     'fdepqs',
     's7b833',

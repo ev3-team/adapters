@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3zo6h4',
   description:
     'Platform merging AI and Web3 for creation, ownership, tokenization, and monetization of AI assets.',
-  discord: 'https://discord.com/invite/aiprotocol',
+  discord: '828681620893466655',
   investors: [],
   linkedin: 'https://www.linkedin.com/in/ai-protocol-201214283/',
   duneQueries: null,

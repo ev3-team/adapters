@@ -5,9 +5,9 @@ export default {
   ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'gaa7c0',
   description:
     'Agritoken: Tokenizing crop futures for efficient and transparent agricultural investing.',

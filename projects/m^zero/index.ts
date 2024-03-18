@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oane9t',
   description:
     'M^ZERO Labs aims to develop a decentralized network enabling institutional participants to reliably link assets to a decentralized infrastructure.',

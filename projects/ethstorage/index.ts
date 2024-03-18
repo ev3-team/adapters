@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '2kn4hu',
   description: 'Ethstorage is a cost-effective Layer 2 storage rollup solution on Ethereum.',
-  discord: 'https://discord.com/invite/xhCwaMp7ps',
+  discord: '1040111910802182186',
   investors: [
     '0bp83l',
     '4huuqd',

@@ -7,10 +7,10 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'v84vfv',
   description:
-    'Ringfence is a generative AI platform that allows creators to create, mint, protect, and monetize their work. \r\n',
+    'Ringfence is a generative AI platform that allows creators to create, mint, protect, and monetize their work.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -22,4 +22,4 @@ export default {
   twitter: 'https://twitter.com/RingfenceAI',
   url: null,
   verified: false,
-} satisfies AdapterProject
+} satisfies AdapterProjectt

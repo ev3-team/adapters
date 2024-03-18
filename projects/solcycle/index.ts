@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'jypbh1',
   description:
     'SolCycle Rewards incentivizes recycling, promoting sustainability and environmental conservation.',

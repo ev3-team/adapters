@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3746aq',
   description:
     'ICE uses 256-bit AES encryption to nullify critical knowledge attacks and disguise all connections as encrypted web traffic. ',
-  discord: null,
+  discord: '1079703982320132096',
   investors: [],
   linkedin: null,
   duneQueries: null,

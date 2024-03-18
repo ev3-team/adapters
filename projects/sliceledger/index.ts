@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'eu6iys',
   description:
     'Sliceledger is a decentralised Ethereum scaling platform empowering developers to build secure and low-fee dapps.',

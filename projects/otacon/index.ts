@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'OTACON',
-  coingeckoId: 'otacon-ai',
+  coinGeckoID: 'otacon-ai',
   id: '4fbpu6',
   description:
     'Otacon is a cybersecurity protocol that bridges the gap between cybersecurity demand and supply, by enabling anyone with a computer to become a Bug Bounty Hunter.',
-  discord: null,
+  discord: '1097834584693035078',
   investors: [],
   linkedin: null,
   duneQueries: null,

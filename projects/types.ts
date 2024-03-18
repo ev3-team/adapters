@@ -18,10 +18,12 @@ export type AdapterProjectChain =
   | 'BITTENSOR'
   | 'CARDANO'
   | 'COSMOS'
+  | 'CRONOS'
   | 'ETHEREUM'
   | 'FILECOIN'
   | 'GNOSIS'
   | 'IOTEX'
+  | 'MULTIVERSX'
   | 'NATIVE'
   | 'PEAQ'
   | 'POLKADOT'
@@ -30,6 +32,7 @@ export type AdapterProjectChain =
   | 'URBIT'
   | 'VECHAIN'
   | 'XDC'
+  | 'ZKSYNC'
 
 export type AdapterProjectDuneQueryIdentifiers = {
   BURN?: string
@@ -41,6 +44,7 @@ export type AdapterProjectDuneQueryIdentifiers = {
   SUPPLY?: string
   TIME_SERIES?: string
   KEY_METRIC?: string
+  NODE_NUMBER?: string
 }
 
 export type AdapterProject = {
@@ -48,7 +52,7 @@ export type AdapterProject = {
   blog: string | null
   category: AdapterProjectCategory
   chain: AdapterProjectChain | null
-  coingeckoId: string | null
+  coinGeckoID: string | null
   description: string | null
   discord: string | null
   duneQueries: AdapterProjectDuneQueryIdentifiers | null

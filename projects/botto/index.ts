@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BOTTO',
-  coingeckoId: 'botto',
+  coinGeckoID: 'botto',
   id: 'uyclvb',
   description:
     'Botto is a decentralized autonomous artist creating 350 art pieces/week, guided by community voting.',
-  discord: 'https://discord.com/invite/botto',
+  discord: '829636834371960842',
   investors: ['ubuz3j'],
   linkedin: 'http://www.linkedin.com/company/bottoproject',
   duneQueries: null,

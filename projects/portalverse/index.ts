@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '6uwhcg',
   description: 'Decentralized cloud gaming and rendering network for immersive metaverses.',
   discord: null,

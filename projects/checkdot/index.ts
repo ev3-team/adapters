@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'CDT',
-  coingeckoId: 'checkdot',
+  coinGeckoID: 'checkdot',
   id: 'dlqv3c',
   description:
     'CheckDot: decentralized trust protocol for verifying legitimacy of blockchain projects anonymously.',
-  discord: 'https://discord.com/invite/xhCfXtBW5e',
+  discord: '860044376058101781',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/checkdot',
   duneQueries: null,

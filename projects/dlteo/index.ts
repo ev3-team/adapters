@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'byzgll',
   description: 'DLTEO is a platform to monetize and process Earth Observation Data & AI models.',
   discord: null,

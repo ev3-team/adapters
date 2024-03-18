@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'SERVICES',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'kttpsl',
   description:
     'Radius is a decentralized network that connects independent workers and teams to the best projects in web3.',
-  discord: 'https://discord.com/invite/radius',
+  discord: '943268752001228820',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/tephralabs/about/',
   duneQueries: null,

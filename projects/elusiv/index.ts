@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '3wkk5f',
   description:
     'Elusiv is building a Web3 universal encryption layer empowering the decentralized world.',
-  discord: 'https://discord.com/invite/elusivprivacy',
+  discord: '963285822327652403',
   investors: [
     'fahk60',
     '4l8mmr',

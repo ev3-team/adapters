@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xarvqb',
   description: 'A peer-to-peer network for everyone.',
   discord: null,

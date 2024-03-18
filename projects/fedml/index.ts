@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '913hpf',
   description:
     'FedML provides an open-source community and an enterprise platform for decentralized and collaborative AI, and a web 3 AI marketplace for everyone to monetize their data, ML models, and AI apps.',
-  discord: 'https://discord.com/invite/9xkW8ae6RV',
+  discord: '1011343758463356928',
   investors: [
     'ibk8eu',
     'vrla7z',

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'oehbnl',
   description:
     'Harness the power of machine learning in smart contracts without compromising on trust. ezkl makes it possible for anyone to apply zero-knowledge proofs in their smart contracts.',
-  discord: null,
+  discord: '1017182037964247101',
   investors: [],
   linkedin: null,
   duneQueries: null,

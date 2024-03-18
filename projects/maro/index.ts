@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'MARO',
-  coingeckoId: 'maro',
+  coinGeckoID: 'maro',
   id: 'q8qiuw',
   description:
     'Developer of a token-incentivized social networking protocol designed to create blockchain-decentralized applications and promotions.',

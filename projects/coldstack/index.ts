@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CLS',
-  coingeckoId: 'coldstack',
+  coinGeckoID: 'coldstack',
   id: 'dka3hq',
   description:
     'ColdStack: A unified API and billing solution for Filecoin, SIA, Arweave, and Storj.',

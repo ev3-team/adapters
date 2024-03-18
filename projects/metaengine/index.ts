@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'l7klou',
   description:
     'MetaEngine is a decentralized all-in-one platform for the development and publishing of GameFi / Metaverse games and apps.',
-  discord: 'https://discord.com/invite/rDqmrJrQeG',
+  discord: '915343753726799902',
   investors: [
     's7b833',
     'm8rgyb',

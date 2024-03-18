@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'ETCPOW',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'weqn6l',
   description:
     'ETCMC is a community-driven mining pool and decentralized autonomous organization that pays additional rewards to miners through its ETCPOW token.',

@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zf9ws4',
   description: 'Supporting the next generation of cryptography-enabled applications.',
   discord: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'AVALANCHE',
   category: 'COMPUTE',
   token: 'MASA',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'dahm7v',
   description:
     'Masa is building a Decentralized Google, an open, secure, and incentivized economy for the world’s personal data.',

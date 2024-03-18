@@ -5,9 +5,9 @@ export default {
   ninja: null,
   subcategories: 'RWA',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'PROPC',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pe85na',
   description:
     'Propchain develops on a blockchain-based ecosystem for real-world assets and proptech solutions. Prop.com is a consumer-focused platform for tokenized real estate investments, ensuring seamless access to real-world assets and a digitally intuitive interface for asset ownership.',

@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'AQTIS',
-  coingeckoId: 'aqtis',
+  coinGeckoID: 'aqtis',
   id: 't39a28',
   description:
     'AQTIS is a next-generation DeFi company built on top of their own AI-powered quantitative technology. It harnesses the power of data mining, machine learning, and artificial intelligence to generate yield and distribute it across the AQTIS ecosystem.',
-  discord: 'https://discord.com/invite/mVNUxvJj4Q',
+  discord: '1088485685754863616',
   investors: [],
   linkedin: null,
   duneQueries: null,

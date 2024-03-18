@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'ixg6ts',
   description:
     'Seed Labs is a collectively owned, community-first, open early stage venture capital.',

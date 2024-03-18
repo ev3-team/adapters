@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'zidol7',
   description:
     'Keep your conversations private. Proton Mail is an encrypted email service based in Switzerland.',

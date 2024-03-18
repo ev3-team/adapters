@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: 'CXT',
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '06sxnp',
   description:
     'CharacterX is a decentralized synthetic social network that connects human beings & AI beings. It provides a social platform where users can create their own AI identities, and connect with others without the constraints of time and space.',

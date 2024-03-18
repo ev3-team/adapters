@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'NOISEGPT',
-  coingeckoId: 'noisegpt',
+  coinGeckoID: 'noisegpt',
   id: '58bzlt',
   description:
     'NoiseGPT: decentralized AI ecosystem, offering unbiased and censorship-free AI tools and services.',
-  discord: null,
+  discord: '1079425803441426562',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/noisegpt',
   duneQueries: null,

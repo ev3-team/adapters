@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'NMR',
-  coingeckoId: 'numeraire',
+  coinGeckoID: 'numeraire',
   id: 'lw588k',
   description:
     'Numerai is an Ethereum-based platform for developers to experiment and create machine learning models.',

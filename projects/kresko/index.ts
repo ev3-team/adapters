@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'pks4ee',
   description:
     'Making wealth accessible to anyone, anywhere. An open platform for synthetic stocks, commodities, and crypto.',
-  discord: 'https://discord.com/invite/FG3AuCaHRz',
+  discord: null,
   investors: [
     '7065hj',
     'z6cdtc',

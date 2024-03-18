@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'HMND',
-  coingeckoId: 'humanode',
+  coinGeckoID: 'humanode',
   id: 'ful6z6',
   description:
     'Humanode is the first human-powered crypto-biometric network, where 1 human = 1 node = 1 vote.',
-  discord: 'https://discord.com/invite/8my5gbgptx',
+  discord: '819836895739248700',
   investors: [
     'xmw0ev',
     'ltitbn',

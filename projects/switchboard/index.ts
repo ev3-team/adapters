@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'iik6nb',
   description:
     'Switchboard is a generalized, community-curated oracle network designed to incentivize bringing the long tail of data on-chain.',
-  discord: 'https://discord.com/invite/switchboardxyz',
+  discord: '841525135311634443',
   investors: [
     'b5zojp',
     'bp637k',

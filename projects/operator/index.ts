@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'AI',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'h3eeod',
   description:
     'Build and deploy agents truly owned by you, then make them available to the world. Now in closed beta.',

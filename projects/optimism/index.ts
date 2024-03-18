@@ -7,11 +7,11 @@ export default {
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'OP',
-  coingeckoId: 'optimism',
+  coinGeckoID: 'optimism',
   id: '3lytvj',
   description:
     'OP Mainnet is a low-cost and lightning-fast Ethereum L2 blockchain that uses optimistic rollups. Optimism also has a Superchain thesis. This is the idea of connecting multiple Layer 2 networks through shared code and the ability to interact with each other.',
-  discord: null,
+  discord: '667044843901681675',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BBS',
-  coingeckoId: 'bbs-network',
+  coinGeckoID: 'bbs-network',
   id: 'x7oewq',
   description:
     'BBS Network is a blockchain network of Bulletin Board Systems where users can create forums to post, comment, and share ideas while generating revenue from their content.',

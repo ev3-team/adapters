@@ -7,11 +7,11 @@ export default {
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'GB',
-  coingeckoId: 'grand-base',
+  coinGeckoID: 'grand-base',
   id: 'ljrs4j',
   description:
     'Grand Base Protocol is a decentralized finance (DeFi) platform that allows users to create, trade, and stake synthetic assets, known as gAssets. ',
-  discord: 'https://discord.com/invite/MGQYxqwAC8',
+  discord: '1160639448573284513',
   investors: [],
   linkedin: null,
   duneQueries: null,

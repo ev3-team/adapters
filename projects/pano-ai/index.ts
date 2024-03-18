@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'SENSORS',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '111p2s',
   description:
     'Pano AI detects wildfires using deep learning AI & computer vision for real-time event identification & classification.',

@@ -7,11 +7,11 @@ export default {
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '45u6hy',
   description:
     'Nutbox is a web3 DAO infrastructure enabling users to easily build blockchain-based organizations.',
-  discord: 'https://discord.com/invite/nRXYDRGAfq',
+  discord: '767954342132318260',
   investors: ['zz1yde', 'o7xcsr'],
   linkedin: 'http://www.linkedin.com/company/nutbox-defi',
   duneQueries: null,

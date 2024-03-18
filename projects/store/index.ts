@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'COMPUTE',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'nb0mpn',
   description:
     'STORE is a new layer zero staking protocol at the intersection of cloud computing and WEB3.',

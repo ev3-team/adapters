@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: '7tvays',
   description:
     'Orbuculum is a fully open-source and geopolitically neutral platform (dApp) to monetize and process (Earth Observation) Data & AI models.',

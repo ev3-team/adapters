@@ -7,7 +7,7 @@ export default {
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
-  coingeckoId: null,
+  coinGeckoID: null,
   id: 'xcf8bl',
   description:
     'Provider of a provision infrastructure that allows developers to connect to protocols, and deploy to decentralized networks with one unified development workflow.',

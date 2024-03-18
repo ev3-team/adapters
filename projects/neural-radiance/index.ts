@@ -7,7 +7,7 @@ export default {
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'NERF',
-  coingeckoId: 'neural-radiance-field',
+  coinGeckoID: 'neural-radiance-field',
   id: 'p8tp6s',
   description:
     'Neural Radiance Fields enables users to generate immersive 3D environments and create realistic videos.',
