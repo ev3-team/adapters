@@ -22,4 +22,4 @@ export default {
   twitter: 'https://twitter.com/RingfenceAI',
   url: null,
   verified: false,
-} satisfies AdapterProjectt
+} satisfies AdapterProject

@@ -815,7 +815,6 @@ import nexus from './nexus'
 import nfai from './nfai'
 import nfprompt from './nfprompt'
 import nft3 from './nft3'
-import nft3Labs from './nft3-labs'
 import ngrave from './ngrave'
 import nilFoundation from './nil-foundation'
 import nillionNetwork from './nillion-network'
@@ -839,7 +838,6 @@ import novelty from './novelty'
 import nride from './nride'
 import nucoCloud from './nuco-cloud'
 import numerai from './numerai'
-import numeraire from './numeraire'
 import nunet from './nunet'
 import nutbox from './nutbox'
 import nuveaux from './nuveaux'
@@ -2163,7 +2161,6 @@ export const projects = {
   nfai,
   nfprompt,
   nft3,
-  nft3Labs,
   ngrave,
   nilFoundation,
   nillionNetwork,
@@ -2187,7 +2184,6 @@ export const projects = {
   nride,
   nucoCloud,
   numerai,
-  numeraire,
   nunet,
   nutbox,
   nuveaux,
