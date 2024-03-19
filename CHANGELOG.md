@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.0.0-20240319181805
+
+### Patch Changes
+
+- add Aethir dune query
+
 ## 0.3.37
 
 ### Patch Changes
