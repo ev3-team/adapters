@@ -6,6 +6,18 @@
 
 - add Aethir dune query
 
+## 0.3.39
+
+### Patch Changes
+
+- release 20240325122825
+
+## 0.3.38
+
+### Patch Changes
+
+- normalize coinGeckoID casi
+
 ## 0.3.37
 
 ### Patch Changes

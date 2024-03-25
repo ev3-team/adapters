@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Grape',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: 'ETHEREUM',
+  category: 'BLOCKCHAIN_INFRA',
+  token: 'GRP',
+  coinGeckoID: 'grape-2',
+  id: 'a842rq',
+  description:
+    'Grape is a decentralized layer one ecosystem with key features that include VINE, a high-speed distributed ledger; ANNE, an AI engine simplifying smart contract and DApp development; and a Decentralized Cloud Storage.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Grap3Inc',
+  url: 'https://grap3.com/',
+  verified: false,
+} satisfies AdapterProject
