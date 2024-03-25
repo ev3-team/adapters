@@ -5,6 +5,9 @@ import path from 'node:path'
 import { investorToFileName, investorToVarName } from '../helpers'
 import { AdapterInvestor } from '../investors/types'
 import { projects } from '../projects'
+import { AdapterProject } from '../projects/types'
+
+const projectsList: AdapterProject[] = Object.values(projects)
 
 /** Loop over the projects investors csv to get the total number of invested projects for each investor. */
 export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
@@ -29,7 +32,7 @@ export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
           .slice(2, row.length)
           .map((active, idx) => {
             if (active === '1')
-              return Object.values(projects).find((project) => project.id === projectsColumns[idx])
+              return projectsList.find((project) => project.id === projectsColumns[idx])
             return null
           })
           .filter(Boolean)

@@ -29,7 +29,9 @@ export default {
     'pcw959',
   ],
   linkedin: 'https://www.linkedin.com/company/aethir-limited',
-  duneQueries: null,
+  duneQueries: {
+    NODE_NUMBER: '3541928',
+  },
   foundingYear: null,
   blog: null,
   github: null,

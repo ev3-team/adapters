@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: '0bvsxt',
-  description: 'Humcen is the world‚Äôs first cross border IP aggregator.',
+  description:
+    'Humcen is a global IP Aggregator service provider for Innovators, Creators, and Businesses worldwide.',
   discord: null,
   investors: [],
   linkedin: null,

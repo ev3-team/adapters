@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '0xParc',
-  ninja: 'EV3 Sal',
+  ninja: null,
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',

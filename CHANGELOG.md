@@ -1,5 +1,29 @@
 # @ev3-team/adapters
 
+## 0.3.40
+
+### Patch Changes
+
+- release 20240325123646
+
+## 0.0.0-20240319181805
+
+### Patch Changes
+
+- add Aethir dune query
+
+## 0.3.39
+
+### Patch Changes
+
+- release 20240325122825
+
+## 0.3.38
+
+### Patch Changes
+
+- normalize coinGeckoID casi
+
 ## 0.3.37
 
 ### Patch Changes
