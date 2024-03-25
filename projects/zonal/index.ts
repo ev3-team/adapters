@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'gsucx5',
-  description: '',
+  description:
+    'Zonal is building a proof of micro-location protocol that uses a decentralized mesh network powered by wireless communication technologies to provide proximity validation and enable highly reliable global and indoor positioning.',
   discord: null,
   investors: [],
   linkedin: null,
