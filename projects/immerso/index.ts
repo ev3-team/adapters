@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://immerso.pt/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

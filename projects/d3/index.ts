@@ -34,4 +34,7 @@ export default {
   twitter: 'https://twitter.com/d3corp',
   url: 'https://d3.inc/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.theblock.co/post/249236/shima-capital-backs-domain-name-startup-d3-global-in-5-million-round',
+  ],
 } satisfies AdapterProject

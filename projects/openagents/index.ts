@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/OpenAgentsInc',
   url: 'https://openagents.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

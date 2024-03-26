@@ -33,7 +33,6 @@ export default {
     '07pxi6',
     'smqwtv',
     '9e1gk4',
-    'pyukl2',
   ],
   linkedin: 'http://www.linkedin.com/company/trace-network-labs',
   duneQueries: null,
@@ -44,4 +43,7 @@ export default {
   twitter: 'https://twitter.com/trace_network',
   url: 'https://trace.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.newsbtc.com/news/company/trace-network-raises-strategic-investment-of-over-1-6-million-from-leading-blockchain-investors/',
+  ],
 } satisfies AdapterProject

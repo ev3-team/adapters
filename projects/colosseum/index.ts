@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Colosseum',
   url: 'https://www.colosseumpro.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

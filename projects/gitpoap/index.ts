@@ -31,4 +31,7 @@ export default {
   twitter: 'https://twitter.com/gitpoap',
   url: 'https://www.gitpoap.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.prnewswire.com/news-releases/gitpoap-raises-over-4-2-million-usd-in-seed-funding-to-memorialize-professional-contributions-and-accomplishments-as-blockchain-based-badges-301608123.html',
+  ],
 } satisfies AdapterProject

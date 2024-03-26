@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Logos_state',
   url: 'https://logos.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

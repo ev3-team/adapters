@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/moonbeamnetwork',
   url: 'https://moonbeam.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

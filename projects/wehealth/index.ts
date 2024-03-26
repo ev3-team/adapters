@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/WeHealthOrg',
   url: 'https://www.wehealth.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ReapChain',
   url: 'https://reapchain.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

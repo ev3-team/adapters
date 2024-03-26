@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Web3Shaga',
   url: 'https://linktr.ee/web3shaga',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

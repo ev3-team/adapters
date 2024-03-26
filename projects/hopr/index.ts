@@ -15,7 +15,6 @@ export default {
     'yxetck',
     'zloyr1',
     'xmw0ev',
-    'mrgeec',
     '8nclhv',
     'wldl30',
     '8a2od5',
@@ -42,4 +41,7 @@ export default {
   twitter: 'https://twitter.com/hoprnet',
   url: 'https://hoprnet.org/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/business/2020/07/09/binance-labs-leads-1m-seed-round-in-crypto-tor-alternative-hopr/',
+  ],
 } satisfies AdapterProject

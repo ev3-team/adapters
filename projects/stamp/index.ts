@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/stampDOTnetwork',
   url: 'https://www.stamp.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

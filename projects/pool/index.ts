@@ -12,18 +12,7 @@ export default {
   description:
     'Pool provides a platform and associated services to support Data Unions to develop, scale and monetize.',
   discord: null,
-  investors: [
-    '0ha7xp',
-    'rbelby',
-    'r2lof0',
-    'mlhi9g',
-    '8zouxb',
-    'zzypcf',
-    'n73vnt',
-    '994c2q',
-    'vjpj24',
-    'zj4ect',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/pool-data/',
   duneQueries: null,
   foundingYear: null,
@@ -33,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/pooldata',
   url: 'https://www.pooldata.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

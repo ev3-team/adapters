@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/karma3labs',
   url: 'https://openrank.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

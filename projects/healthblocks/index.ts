@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/HEALTHBLOCINC',
   url: 'https://www.healthblocks.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

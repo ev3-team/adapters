@@ -12,7 +12,7 @@ export default {
   description:
     'Decentralized social media app where users tokenize profiles and buy/sell shares based on influence.',
   discord: null,
-  investors: ['tfi9fe'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.friend.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -20,6 +20,7 @@ export default {
     '2zbjm7',
     'dstkk5',
     'hxmvxz',
+    'r2w61y',
     'lfbmt3',
     'k4kgrp',
     'd752i2',
@@ -39,4 +40,5 @@ export default {
   twitter: 'https://twitter.com/EpikProtocol',
   url: 'https://www.epik-protocol.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

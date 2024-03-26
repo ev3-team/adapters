@@ -22,4 +22,5 @@ export default {
   twitter: 'https://mobile.twitter.com/ledgerslice',
   url: 'https://sliceledger.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

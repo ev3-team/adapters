@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/dfinity',
   url: 'https://internetcomputer.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

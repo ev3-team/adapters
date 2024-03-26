@@ -12,7 +12,7 @@ export default {
   description:
     'Hedgehog enables Cloud Native apps on edge compute and distributed cloud infrastructure.',
   discord: null,
-  investors: ['keqf0l', 'p13mb7'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/githedgehog/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/githedgehog',
   url: 'https://githedgehog.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

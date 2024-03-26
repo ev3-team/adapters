@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/InheritanceArt',
   url: 'https://www.inheritance-art.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

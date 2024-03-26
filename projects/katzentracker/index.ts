@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/katzentracker',
   url: 'https://katzentracker.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

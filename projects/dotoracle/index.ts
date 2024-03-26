@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/DotOracle',
   url: 'https://dotoracle.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Battle Infinity: Metaverse gaming platform with P2E battle games in IBAT Battle Arena.',
   discord: '1200923493664038912',
-  investors: ['dmrl2k'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/battle-infinity',
   duneQueries: null,
   foundingYear: null,
@@ -23,4 +23,5 @@ export default {
   twitter: 'https://twitter.com/ibatofficial',
   url: 'https://battleinfinity.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

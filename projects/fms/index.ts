@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/fmtlol?lang=en',
   url: 'https://fmtlol.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 'hq4rl7',
   description: 'Bittensor is a peer-to-peer machine intelligence network.',
   discord: '799672011265015819',
-  investors: [],
+  investors: ['zaf9xh', '6erxyq', 'apd14v', 'biweh7', 'bqmpxo', '07pxi6', 'ozeg73', 'tqh3bl'],
   linkedin: 'https://github.com/topics/bittensor',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://bittensor.com/',
   verified: false,
+  fundraisesUrls: ['https://opentensor.medium.com/november-network-update-114234436dfb'],
 } satisfies AdapterProject

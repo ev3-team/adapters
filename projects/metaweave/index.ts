@@ -12,7 +12,7 @@ export default {
   description:
     'Metaweave is a social permadapp enabling direct interaction with the Blockweave using Arweave wallet.',
   discord: null,
-  investors: ['bxcu1r'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://metaweave.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

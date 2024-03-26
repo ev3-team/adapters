@@ -12,7 +12,17 @@ export default {
   description:
     'Pocket is a company that empowers developers with reliable and performant RPC access to the open internet.',
   discord: '553741558869131266',
-  investors: [],
+  investors: [
+    'csfyvy',
+    '9du4gx',
+    '7efyp0',
+    'j1rzkc',
+    'jitv3q',
+    'bku3ew',
+    'unykak',
+    'gr67ka',
+    'urug6u',
+  ],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +32,8 @@ export default {
   twitter: 'https://twitter.com/POKTnetwork',
   url: 'https://www.pokt.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/business/2022/01/06/crypto-infrastructure-firm-pocket-network-raises-10m/',
+    'https://www.coindesk.com/business/2023/11/30/decentralized-infrastructure-provider-grove-raises-79m/',
+  ],
 } satisfies AdapterProject

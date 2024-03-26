@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://operator.io',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

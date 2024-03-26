@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://vicharak.in/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

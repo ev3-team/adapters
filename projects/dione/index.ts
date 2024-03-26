@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/firstone_DIONE',
   url: 'https://www.dioneprotocol.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

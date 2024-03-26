@@ -12,7 +12,7 @@ export default {
   description:
     'MintMe secures Smart-Contract-powered DApps using internet-connected devices, leveraging CPU resources.',
   discord: '524539167720341514',
-  investors: ['m65oq5'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/mintme',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/mintmeproject',
   url: 'https://www.mintme.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

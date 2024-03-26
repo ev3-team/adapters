@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://palmai.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

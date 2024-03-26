@@ -11,7 +11,7 @@ export default {
   id: '11aqyc',
   description: 'PublicAI is a decentralized network focused on RHLF.',
   discord: '1067993454468153426',
-  investors: [],
+  investors: ['430dvj', 'uktppp', 'lp0gdl', 'tlb60n'],
   linkedin: 'http://www.linkedin.com/company/publicai01',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/PublicAI_',
   url: 'https://www.publicai.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.theblock.co/post/274838/Web3 Capital-distributed-ai-training-network-publicai-raises-2m-in-seed-funding-round',
+  ],
 } satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 'u43dxj',
   description: 'We help enterprises deploy fine-tuned LLMs for enterprise analytics.',
   discord: null,
-  investors: ['jt8hmb', 'dvmxh1', 'wdtkj1'],
+  investors: [],
   linkedin: 'https://github.com/defog-ai',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/defogdata?lang=en',
   url: 'https://defog.ai/blog/agents/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

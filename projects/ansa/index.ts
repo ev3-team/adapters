@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://ansaresearch.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

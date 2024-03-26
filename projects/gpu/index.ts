@@ -11,7 +11,7 @@ export default {
   id: 'jf4ml9',
   description: 'GPU is a decentralized GPU network for AI training.',
   discord: '1083646475608784906',
-  investors: ['bah2fw'],
+  investors: ['66xw1k', 'bah2fw'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,7 @@ export default {
   twitter: null,
   url: 'https://gpu.net/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.globenewswire.com/news-release/2023/08/30/2734002/0/en/GPU-Net-Raises-500K-from-Momentum-6-Alphablockz-Nvidia-Backs-Testnet-Launch.html',
+  ],
 } satisfies AdapterProject

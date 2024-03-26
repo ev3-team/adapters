@@ -12,7 +12,7 @@ export default {
   description:
     'Skycoin (SKY) is an open-source, community-owned, hardware-based peer-to-peer internet that leverages the incentive structure of the blockchain.',
   discord: null,
-  investors: ['vb9nmm', 'xxojpr', 'nkrulw'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/skycoin/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/SkycoinProject',
   url: 'https://www.skycoin.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

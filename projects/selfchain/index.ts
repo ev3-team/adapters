@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/selfchainxyz',
   url: 'https://selfchain.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

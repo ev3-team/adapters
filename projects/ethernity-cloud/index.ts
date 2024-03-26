@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://ethernity.cloud/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

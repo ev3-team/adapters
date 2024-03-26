@@ -22,7 +22,6 @@ export default {
     'ay6zw8',
     'x59m34',
     'ed6r4e',
-    'wdtkj1',
   ],
   linkedin: null,
   duneQueries: null,
@@ -33,4 +32,5 @@ export default {
   twitter: null,
   url: 'https://www.somosinternet.co/',
   verified: false,
+  fundraisesUrls: ['https://latamlist.com/somos-internet-raises-13-4m-seed-round/'],
 } satisfies AdapterProject

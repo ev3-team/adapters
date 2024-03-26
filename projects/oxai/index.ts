@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/oxfordai',
   url: 'https://oxai.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

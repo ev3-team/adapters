@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/axiom_xyz',
   url: 'https://www.axiom.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

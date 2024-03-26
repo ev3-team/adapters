@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/hub3ee',
   url: 'https://hub3.ee/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

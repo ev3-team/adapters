@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.kontigo.lat/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

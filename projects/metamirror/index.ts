@@ -12,7 +12,7 @@ export default {
   description:
     'MetaMirror is specializing in Decentralized Identity (DID), focused on empowering individuals with control over their personal data.',
   discord: '885347675510288444',
-  investors: ['8dhvoo'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/metamirror/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Auth3MetaMirror',
   url: 'https://www.metamirror.space/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

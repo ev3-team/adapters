@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/CollarProtocol',
   url: 'https://www.collarnetworks.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

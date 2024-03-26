@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/clore_ai',
   url: 'https://clore.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

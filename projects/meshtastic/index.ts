@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/TheMeshtastic',
   url: 'https://meshtastic.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

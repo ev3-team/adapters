@@ -22,4 +22,9 @@ export default {
   twitter: null,
   url: 'https://humanscape.io/en/index.html',
   verified: false,
+  fundraisesUrls: [
+    'http://www.cnrhg.asia/en/humanscape-raises-3-1-million-in-series-a-funding/?ckattempt=1',
+    'https://medium.com/humanscape-ico/humanscape-raises-3-1-million-in-pre-series-b-funding-8e77b1075fd',
+    'https://www.cointime.ai/flash-news/decentralized-patient-network-humanscape-completed-us-86028',
+  ],
 } satisfies AdapterProject

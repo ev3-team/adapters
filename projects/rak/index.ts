@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/RAKwireless',
   url: 'https://www.rakwireless.com/en-us',
   verified: false,
+  fundraisesUrls: [
+    'https://www.prnewswire.com/news-releases/rakwireless-closes-10m-series-a-funding-round-301276301.html',
+  ],
 } satisfies AdapterProject

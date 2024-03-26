@@ -47,4 +47,7 @@ export default {
   twitter: 'https://twitter.com/coldstack_io',
   url: 'https://coldstack.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://medium.com/coldstack/coldstack-closes-first-investment-round-with-leading-blockchain-vcs-47036cd991ed',
+  ],
 } satisfies AdapterProject

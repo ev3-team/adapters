@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://linea.build/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

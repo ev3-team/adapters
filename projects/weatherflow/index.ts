@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/weatherflow',
   url: 'https://weatherflow.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

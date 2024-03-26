@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/presearchnews',
   url: 'https://presearch.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

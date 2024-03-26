@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Posemesh',
   url: 'https://www.posemesh.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

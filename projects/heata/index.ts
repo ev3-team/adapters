@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/heatacompute',
   url: 'https://www.heata.co/',
   verified: false,
+  fundraisesUrls: [
+    'https://guide.dadupa.com/british-cloud-computing-startup-heata-raises-1m-to-further-develop-its-low-carbon-cloud-compute-network/',
+  ],
 } satisfies AdapterProject

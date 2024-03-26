@@ -11,7 +11,18 @@ export default {
   id: 'ynsj12',
   description: 'WiCrypt is a decentralized WiFi sharing network.',
   discord: '892017585711886366',
-  investors: [],
+  investors: [
+    'xmw0ev',
+    '0msybz',
+    '3uz422',
+    'z6hza6',
+    'ucdc3l',
+    'h3awvl',
+    'vjpj24',
+    'upyuaz',
+    't9hlod',
+    '9e1gk4',
+  ],
   linkedin: 'https://ng.linkedin.com/company/wicrypt',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +32,7 @@ export default {
   twitter: 'https://twitter.com/wicrypt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://wicrypt.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://disruptafrica.com/2021/11/08/nigerian-wi-fi-sharing-startup-wicrypt-raises-1-5m-funding/',
+  ],
 } satisfies AdapterProject

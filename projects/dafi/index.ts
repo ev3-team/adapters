@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/dafiprotocol',
   url: 'https://www.dafiprotocol.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

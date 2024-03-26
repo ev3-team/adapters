@@ -52,4 +52,8 @@ export default {
   twitter: 'https://twitter.com/Covalent_HQ',
   url: 'https://www.covalenthq.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://finance.yahoo.com/news/ethereum-data-analytics-startup-covalent-160010982.html',
+    'https://www.coindesk.com/markets/2021/03/24/decentralized-data-project-covalent-raises-another-2m/',
+  ],
 } satisfies AdapterProject

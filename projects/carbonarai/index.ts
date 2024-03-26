@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://github.com/slavni96/carbonarai',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

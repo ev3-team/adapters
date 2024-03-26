@@ -22,4 +22,5 @@ export default {
   twitter: 'http://www.twitter.com/getankr',
   url: 'https://www.ankr.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

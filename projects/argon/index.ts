@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.argonsuite.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/atlasweb3group',
   url: 'https://www.atlasweb3.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://greenfield.bnbchain.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

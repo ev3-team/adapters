@@ -34,4 +34,8 @@ export default {
   twitter: 'https://twitter.com/hyperspaceorg',
   url: 'https://hyperspace.foundation/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.wamda.com/2021/11/dubai-based-hyperspace-raises-11-million-seed-round',
+    'https://www.thenationalnews.com/business/start-ups/2023/10/05/riyadhs-hyperspace-raises-55m-to-scale-operations/',
+  ],
 } satisfies AdapterProject

@@ -16,7 +16,7 @@ export default {
     '5g3hyv',
     'fahk60',
     'hhudw8',
-    'dczq0j',
+    'abvcou',
     'ue6j4s',
     '5b7spr',
     '7oqynx',
@@ -72,4 +72,8 @@ export default {
   twitter: 'https://twitter.com/KYVENetwork',
   url: 'https://www.kyve.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/tech/2021/10/26/data-pipeline-protocol-kyve-raises-28m-from-industry-insiders/',
+    'https://www.theblock.co/post/154836/kyve-network-hits-100-million-valuation-as-it-raises-9-million',
+  ],
 } satisfies AdapterProject

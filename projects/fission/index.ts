@@ -15,7 +15,7 @@ export default {
   investors: [
     'e3qzk9',
     'jo973z',
-    'vh40ts',
+    'p7lpx4',
     'mywjsu',
     'uwuv2v',
     't7xkdd',
@@ -34,4 +34,5 @@ export default {
   twitter: 'https://twitter.com/FISSIONcodes',
   url: 'https://fission.codes/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

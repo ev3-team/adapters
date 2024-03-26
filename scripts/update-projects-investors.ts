@@ -5,20 +5,10 @@ import path from 'node:path'
 import { investors } from '../investors'
 import { AdapterInvestor } from '../investors/types'
 import { AdapterProject, projects } from '../projects'
+import { FundRaiseRow } from './types'
 
 const projectsList: AdapterProject[] = Object.values(projects)
 const investorsList: AdapterInvestor[] = Object.values(investors)
-
-type FundRaiseRow = {
-  projectName: string
-  projectId: string
-  roundType: string
-  roundDate: string
-  raiseAmount: string
-  sourceEuropeanUnionRL: string
-  investors: string
-  investorsIds: string
-}
 
 const fundRaiseProjects: string[] = []
 const fundRaiseInvestors: string[] = []

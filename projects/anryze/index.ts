@@ -22,4 +22,5 @@ export default {
   twitter: 'https://www.twitter.com/anryze',
   url: 'https://anryze.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

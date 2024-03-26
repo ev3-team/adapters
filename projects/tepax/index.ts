@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/tepax_',
   url: null,
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

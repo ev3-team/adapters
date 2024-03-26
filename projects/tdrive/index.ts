@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/mytdrive_id?lang=en',
   url: 'https://tdrive.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

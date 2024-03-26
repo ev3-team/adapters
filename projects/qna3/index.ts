@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://qna3.ai/vote',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

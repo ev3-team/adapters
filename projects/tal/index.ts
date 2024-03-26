@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/talwilkenfeld?lang=en',
   url: 'https://buildontal.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

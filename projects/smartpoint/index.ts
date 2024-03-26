@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/SmartPointIO',
   url: 'https://smartpoint.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

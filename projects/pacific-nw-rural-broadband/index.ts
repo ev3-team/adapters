@@ -12,7 +12,7 @@ export default {
   description:
     'The Pacific Northwest Rural Broadband Alliance is a registered non-profit ISP dedicated to facilitate the adoption of next generation blockhain-based decentralized infrastructure technologies.',
   discord: '834465390028521512',
-  investors: ['ii5tnv'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/nw-rural-broadband-alliance/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://nwbroadbandalliance.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

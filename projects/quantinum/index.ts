@@ -12,7 +12,7 @@ export default {
   description:
     'Quantinum: Institutional-grade blockchain, integrating decentralization, scalability, sustainability, and cybersecurity.',
   discord: null,
-  investors: ['7zvxz8'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://quantinium.cc/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

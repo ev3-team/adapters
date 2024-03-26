@@ -12,7 +12,7 @@ export default {
   description:
     'US3R: Dev platform and dApps with composable data using Ceramic for decentralized storage.',
   discord: '961112286733434950',
-  investors: ['772xwk'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/getus3r',
   url: 'https://us3r.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

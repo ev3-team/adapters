@@ -12,7 +12,7 @@ export default {
   description:
     'Runloop builds DeFi simulation environment for training agents in liquidity provision, risk management, and trading.',
   discord: null,
-  investors: ['26x5nn', '9cx72l', 'v2rrnz'],
+  investors: ['d40or5', '9cx72l', 'apd14v'],
   linkedin: 'https://www.linkedin.com/company/runloop/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/runloop?lang=en',
   url: 'https://runloop.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

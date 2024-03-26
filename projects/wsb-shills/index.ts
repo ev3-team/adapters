@@ -12,7 +12,7 @@ export default {
   description:
     'WSB Shills is a decentralised prediction market platform, allowing users to predict outcomes and earn rewards.',
   discord: '725851172266573915',
-  investors: ['5tgbgd', '4lf3qu'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/wsb_sh?s=21',
   url: 'https://www.wsb.sh/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

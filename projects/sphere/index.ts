@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://spherepay.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

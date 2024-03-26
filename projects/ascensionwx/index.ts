@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/kandaweather',
   url: 'https://www.ascensionwx.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

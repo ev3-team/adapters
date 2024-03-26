@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://carv.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

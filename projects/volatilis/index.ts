@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/volatilistech',
   url: 'https://www.volatilis.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

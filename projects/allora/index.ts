@@ -12,7 +12,7 @@ export default {
   description:
     'Allora is a self-improving decentralized AI network. It enables applications to leverage smarter, more secure AI through a self-improving network of ML models by crowdsourcing mechanisms, federated learning, and zkML.',
   discord: null,
-  investors: [],
+  investors: ['te4xtz', 'szfiug', 'r54jbx', '67mqz0', 'sknhsa', 'yx4w71', 'tqh3bl'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/AlloraNetwork',
   url: 'https://allora.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20240201941258/en/Introducing-Allora-A-Self-Improving-Decentralized-AI-Network',
+  ],
 } satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 'e277dp',
   description: 'Juno is decentralized network for interoperable apps',
   discord: '816256689078403103',
-  investors: ['vxxepe'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/juno-network',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/JunoNetwork',
   url: 'https://junonetwork.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

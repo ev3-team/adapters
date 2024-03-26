@@ -12,7 +12,7 @@ export default {
   description:
     'Hyperbolic Labs is a decentralized microservices platform building the web for Web3.',
   discord: null,
-  investors: ['gwix1y', '1im0oz'],
+  investors: ['gwix1y', 'p99cdg', '1im0oz'],
   linkedin: 'http://www.linkedin.com/company/hyperbolic-labs',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/hyperbolic_labs',
   url: 'https://hyperbolic.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

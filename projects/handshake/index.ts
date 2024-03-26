@@ -13,10 +13,9 @@ export default {
     'Handshake is a decentralized, permissionless naming protocol where every peer is validating and in charge of managing the root DNS naming zone.',
   discord: '822591034202521641',
   investors: [
-    'r1a7zj',
+    'd40or5',
     'd33d7a',
     '2qhnja',
-    '26x5nn',
     '8m8hfx',
     'jtci9b',
     'gzipi5',
@@ -43,4 +42,5 @@ export default {
   twitter: 'https://twitter.com/hns',
   url: 'https://handshake.org/',
   verified: false,
+  fundraisesUrls: ['https://twitter.com/HNS/status/1744237732992593976'],
 } satisfies AdapterProject

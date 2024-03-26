@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.paradex.trade/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

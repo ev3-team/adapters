@@ -29,7 +29,6 @@ export default {
     '9kyndm',
     '07pxi6',
     'smqwtv',
-    'pu3yyr',
   ],
   linkedin: 'http://www.linkedin.com/company/integritee',
   duneQueries: null,
@@ -40,4 +39,7 @@ export default {
   twitter: 'https://twitter.com/integri_t_e_e',
   url: 'https://www.integritee.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/business/2021/06/17/blockchain-privacy-firm-integritee-raises-2m-ahead-of-kusama-parachain-auction/',
+  ],
 } satisfies AdapterProject

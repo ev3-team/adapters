@@ -39,7 +39,7 @@ export default {
     '9205ui',
     'ecuh5g',
     'kzsrt6',
-    'hiwb24',
+    'netvyb',
     'j36zoh',
     'ffz00y',
     'xemx4j',
@@ -53,4 +53,5 @@ export default {
   twitter: 'https://twitter.com/CTXCBlockchain',
   url: 'https://www.cortexlabs.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

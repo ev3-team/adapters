@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/Orbofi',
   url: 'https://www.orbofi.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.theblock.co/post/232259/leading-the-ai-revolution-in-Web3 Capital-orbofi-ai-raises-2-6m-in-high-profile-funding-round',
+  ],
 } satisfies AdapterProject

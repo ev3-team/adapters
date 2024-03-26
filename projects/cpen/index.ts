@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/cPenCoreTeam',
   url: 'https://www.cpen.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

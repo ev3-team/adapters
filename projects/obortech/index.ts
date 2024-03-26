@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/OBORTECHhub',
   url: 'https://www.obortech.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

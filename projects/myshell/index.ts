@@ -12,7 +12,7 @@ export default {
   description:
     'MyShell is a decentralized and comprehensive platform for discovering, creating, and staking AI-native apps.',
   discord: '1122227993805336617',
-  investors: [],
+  investors: ['ifb7yv', 'nxzb7m', '9qbjjp', 'pu3yyr'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://myshell.ai/',
   verified: false,
+  fundraisesUrls: ['https://www.theblock.co/post/256691/web-ai-platform-myshell-funding'],
 } satisfies AdapterProject

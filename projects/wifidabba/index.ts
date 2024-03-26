@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/WifiDabba',
   url: 'https://www.wifidabba.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

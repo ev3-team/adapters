@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/supermetafi',
   url: 'https://www.supermetaplus.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Hyperline is a fully managed Blockchain Data Platform for Analytics, Data Science, and Machine Learning workloads.',
   discord: null,
-  investors: [],
+  investors: ['596ql7', 'rd2mzf', '0wrnki', 'uw2lru', 'ooq1d1', 'tau7dj', 'gasfop'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/hyperline_xyz',
   url: 'https://www.hyperline.xyz/',
   verified: false,
+  fundraisesUrls: ['https://twitter.com/hyperline_xyz/status/1749903630415867984'],
 } satisfies AdapterProject

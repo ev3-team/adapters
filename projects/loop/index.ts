@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/loopnetwork3',
   url: 'https://www.theloopnetwork.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

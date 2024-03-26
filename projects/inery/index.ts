@@ -12,7 +12,7 @@ export default {
   description:
     'Provider of a decentralized database management system built on a layer-1 proprietary blockchain solution.',
   discord: null,
-  investors: ['c6y1mj', '8or4a9', 'c0w5gw', 'ppcxum'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/inery/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ineryblockchain',
   url: 'https://www.inery.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

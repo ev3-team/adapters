@@ -24,7 +24,6 @@ export default {
     'y1thi4',
     '4khk4w',
     'hqbyqg',
-    'po8xe3',
     'asmbxg',
     'pwuofb',
     'z845oa',
@@ -41,4 +40,5 @@ export default {
   twitter: null,
   url: 'https://www.sinso.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

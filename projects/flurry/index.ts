@@ -12,7 +12,7 @@ export default {
   description:
     'Flurry Finance is a protocol that runs on multiple blockchains and specializes in the DeFi market.',
   discord: '896956264590999553',
-  investors: ['xmw0ev', '8nclhv', 'cakqs6', '6hezki', 'chxmjc', '5dsvsj', '4eyql6', 'lhs5s8'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/flurryfinance/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/FlurryFi',
   url: 'https://www.flurry.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

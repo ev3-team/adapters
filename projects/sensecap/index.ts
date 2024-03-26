@@ -22,4 +22,5 @@ export default {
   twitter: 'https://www.sensecapmx.com/blogs/',
   url: 'https://www.sensecapmx.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

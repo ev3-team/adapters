@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/0xAristotleAI',
   url: 'https://www.aristotle-ai.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

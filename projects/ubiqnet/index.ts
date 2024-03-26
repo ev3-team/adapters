@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/UBIQ_net',
   url: 'https://ubiqnet.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

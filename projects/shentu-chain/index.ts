@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.shentu.technology/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

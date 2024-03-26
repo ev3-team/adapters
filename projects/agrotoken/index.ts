@@ -13,14 +13,16 @@ export default {
     'Agrotoken allows you to do more and better business with agrocommodities, creating a simpler, more efficient and technological ecosystem. We are the new dimension of agribusiness',
   discord: null,
   investors: [
-    's7b833',
     '7puspk',
+    '7gchbe',
     'buo8ql',
-    '9cyg5d',
+    'c76mxc',
+    '6iwa5t',
+    '2ksxgk',
+    'jb5rmn',
     'azeayu',
     '2buriy',
-    'ycz5x9',
-    'ershn5',
+    'odn1sj',
     'gnqpgc',
     't6992i',
   ],
@@ -33,4 +35,7 @@ export default {
   twitter: 'https://twitter.com/agrotoken',
   url: 'https://agrotoken.com/es/',
   verified: false,
+  fundraisesUrls: [
+    'https://contxto.com/en/agrotech/agrotoken-raises-12-5m-in-pre-series-a-funding/',
+  ],
 } satisfies AdapterProject

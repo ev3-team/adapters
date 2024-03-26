@@ -13,8 +13,8 @@ export default {
     'At smlXL, we spend much time diving into solc - our latest blog series (3 parts) will cover areas of solc that lack documentation yet are essential (and interesting).',
   discord: null,
   investors: [
+    'd40or5',
     'rny435',
-    '26x5nn',
     'lmdm54',
     'ul6tyf',
     'jwgb9c',
@@ -36,4 +36,7 @@ export default {
   twitter: 'https://twitter.com/smlxldotio',
   url: 'https://smlxl.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://fortune.com/crypto/2023/10/24/smlxl-a16z-dor-levi-lyft-blockchains-funding-round/',
+  ],
 } satisfies AdapterProject

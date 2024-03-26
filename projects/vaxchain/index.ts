@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/devpost',
   url: 'https://devpost.com/software/vaxchain',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

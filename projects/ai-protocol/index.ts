@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ProtocolAI1',
   url: 'https://www.aiprotocol.info/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

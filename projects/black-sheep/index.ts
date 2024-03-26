@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/theblacksheepg',
   url: 'https://www.theblacksheep.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

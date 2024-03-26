@@ -12,7 +12,7 @@ export default {
   description:
     'Riddle&Code: Connecting physical assets with Web3 technology for secure communication and transactions.',
   discord: '999216778393698364',
-  investors: ['cm89up'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/riddle-&-code/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/riddleandcode',
   url: 'https://www.riddleandcode.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

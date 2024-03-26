@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/neurai_io',
   url: 'https://neurai.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

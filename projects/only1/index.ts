@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/JoinOnly1',
   url: 'https://only1.app/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

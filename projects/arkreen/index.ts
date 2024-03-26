@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/arkreen_network',
   url: 'https://arkreen.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

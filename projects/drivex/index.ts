@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/DriveXProtocol',
   url: 'https://www.drivex.zone/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

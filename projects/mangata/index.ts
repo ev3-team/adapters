@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.mangata.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

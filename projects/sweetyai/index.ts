@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/SweetHentaiAI',
   url: 'https://sweety.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

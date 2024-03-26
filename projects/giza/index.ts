@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/gizatechxyz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.gizatech.xyz/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20230711269424/en/Giza-Raises-3M-Pre-Seed-Led-by-CoinFund-to-Bring-Artificial-Intelligence-to-Web3 Capital-Smart-Contracts',
+  ],
 } satisfies AdapterProject

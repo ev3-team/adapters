@@ -11,7 +11,7 @@ export default {
   id: '5gczqo',
   description: 'Geeq is a multi-blockchain platform secured by Proof of Honesty protocol.',
   discord: null,
-  investors: ['mkgpcb', 'c6y1mj', '5xh3qr', 'nwl5v7', '6xb157'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/geeq',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/GeeqOfficial',
   url: 'https://geeq.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

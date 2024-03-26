@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Purrfeed',
   url: 'https://purrfeed.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

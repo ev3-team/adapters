@@ -12,7 +12,7 @@ export default {
   description:
     'Relation Protocol is a decentralized social graph protocol for encoding relations in Web3.',
   discord: '935837847511003186',
-  investors: ['jflrdj', 'nxzb7m', 'jceiff', 'oltsrb', 'wu15kr', 'kkwi2w', '6m0hgx'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/relationlabs',
   url: 'https://www.relationlabs.ai/home',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

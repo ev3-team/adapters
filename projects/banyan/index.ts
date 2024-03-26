@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/BanyanComputer',
   url: 'https://www.banyan.computer/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

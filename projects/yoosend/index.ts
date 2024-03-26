@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/yoosend',
   url: 'https://yoosend.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

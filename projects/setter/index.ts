@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.setter.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

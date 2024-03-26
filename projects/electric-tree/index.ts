@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://vision.electrictree.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

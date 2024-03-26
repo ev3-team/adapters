@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/hypercycle_ai',
   url: 'https://www.hypercycle.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

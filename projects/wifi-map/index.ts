@@ -12,7 +12,7 @@ export default {
   description:
     'WiFi Map is a decentralized connectivity ecosystem mapping 10m+ WiFi hotspots globally.',
   discord: null,
-  investors: [],
+  investors: ['7zvxz8', 'b1ba0p'],
   linkedin: 'http://www.linkedin.com/company/wifi-map-llc',
   duneQueries: {
     BURN: '2944858',
@@ -26,4 +26,7 @@ export default {
   twitter: 'https://twitter.com/wifimapapp',
   url: 'https://www.wifimap.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://medium.com/wifi-map/wifi-is-coming-to-the-trustswap-launchpad-tomorrow-2646117ec46e',
+  ],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Repl_fi',
   url: 'https://repl.fi/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

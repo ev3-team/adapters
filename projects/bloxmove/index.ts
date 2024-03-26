@@ -12,7 +12,7 @@ export default {
   description:
     'bloXmove is developing a Mobility Blockchain Platform. By earning or holding this token, companies can connect their vehicles to bloXmove to offer decentralized mobility services.',
   discord: null,
-  investors: ['m8rgyb', 'pbunpe', 'n01vko', 'xgnbev', 'h8sw72', 'vjpj24', 'w19rhh', 'r0huce'],
+  investors: ['m8rgyb', 'pbunpe', 'n01vko', 'xgnbev', 'h8sw72', 'w19rhh', 'r0huce'],
   linkedin: 'https://www.linkedin.com/company/bloxmove2021/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/bloxmove',
   url: 'https://bloxmove.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/CrunchDAO',
   url: 'https://www.crunchdao.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Masa is building a Decentralized Google, an open, secure, and incentivized economy for the world’s personal data.',
   discord: 'https://discord.gg/masafinance',
-  investors: [],
+  investors: ['fahk60', 'abvcou', 'apd14v', 'dzx3xa', '9qbjjp', 'nrnf5w', 'ongauu'],
   linkedin: 'https://www.linkedin.com/company/masa-network/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/getmasafi',
   url: 'https://www.masa.finance/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20240123671602/en/Masa-Network-Raises-5.4M-in-Seed-Round-to-Build-the-%E2%80%9CDecentralized-Google%E2%80%9D-for-the-World%E2%80%99s-Personal-Data',
+  ],
 } satisfies AdapterProject

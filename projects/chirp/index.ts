@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/ChirpDeWi',
   url: 'https://chirpwireless.io/commercial',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

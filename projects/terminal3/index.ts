@@ -12,7 +12,7 @@ export default {
   description:
     'Terminal 3: Web3 startup for decentralized data storage, providing privacy and security.',
   discord: null,
-  investors: ['vmqmcr', 'gun7y3', '7fb6dj', 'xs4jo6', 'l70dye', 'vh40ts', 'qreqzv', '9n4okv'],
+  investors: ['vmqmcr', 'gun7y3', '7fb6dj', 'xs4jo6', 'l70dye', 'p7lpx4', 'qreqzv'],
   linkedin: 'https://www.linkedin.com/company/terminal3',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/terminal3gaming?lang=en',
   url: 'https://www.terminal3.io/',
   verified: false,
+  fundraisesUrls: ['https://finance.yahoo.com/news/terminal-3-raises-pre-seed-044113273.html'],
 } satisfies AdapterProject

@@ -12,7 +12,17 @@ export default {
   description:
     'Fleek Network is optimized to facilitate the deployment and running of performant, geo-aware decentralized web and edge services.',
   discord: '965698989464887386',
-  investors: [],
+  investors: [
+    'cdmyso',
+    'hhudw8',
+    '73opsz',
+    'apd14v',
+    'sknhsa',
+    'f87dvf',
+    'tqh3bl',
+    'ti312b',
+    'e2dh7y',
+  ],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +32,7 @@ export default {
   twitter: null,
   url: 'ipns://fleek.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://techcrunch.com/2022/12/01/Web3 Capital-developer-platform-fleek-raises-25m-led-by-polychain-capital/',
+  ],
 } satisfies AdapterProject

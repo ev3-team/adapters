@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/MobilianCoin',
   url: 'https://mobiliancoin.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

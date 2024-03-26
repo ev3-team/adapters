@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/rollbitcom',
   url: 'https://rollbit.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

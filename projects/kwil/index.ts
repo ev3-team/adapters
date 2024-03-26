@@ -19,7 +19,7 @@ export default {
     'hbpmm3',
     'e3ul8g',
     'maid89',
-    'v2rrnz',
+    'apd14v',
     'h58ujg',
     'uktppp',
     '6ln74n',
@@ -41,4 +41,7 @@ export default {
   twitter: 'https://twitter.com/KwilTeam',
   url: 'https://www.kwil.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.accesswire.com/718966/Decentralized-Database-Platform-Kwil-Raises-89M-Seed-Round',
+  ],
 } satisfies AdapterProject

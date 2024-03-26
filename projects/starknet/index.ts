@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.starknet.io/en/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

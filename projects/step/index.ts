@@ -24,4 +24,5 @@ export default {
     'https://twitter.com/StepApp?utm_source=site&utm_medium=organic_social&utm_campaign=always_on&utm_content=small_icons',
   url: 'https://step.app/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

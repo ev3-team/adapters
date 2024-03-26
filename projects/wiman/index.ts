@@ -11,7 +11,7 @@ export default {
   id: 'ypklkh',
   description: 'Wiman offers global mobile WiFi for the sharing economy.',
   discord: null,
-  investors: ['2t0mdx', '0pg1hz', 'ivux29', 'mc0vmp', '441jsf', 'fpwnny', 'hmrrh1'],
+  investors: ['2t0mdx', '0pg1hz', 'mc0vmp', '441jsf', 'qu8lyc', 'fpwnny', 'hmrrh1'],
   linkedin: 'https://www.linkedin.com/company/wiman-the-social-wifi-network/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/UN_Women',
   url: 'https://www.wiman.me/',
   verified: false,
+  fundraisesUrls: ['https://www.finsmes.com/2016/12/wiman-raises-approx-e400k-in-funding.html'],
 } satisfies AdapterProject

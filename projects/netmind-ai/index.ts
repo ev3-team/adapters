@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/NetMindAi',
   url: 'https://netmind.ai/home',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

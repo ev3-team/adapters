@@ -12,21 +12,7 @@ export default {
   description:
     'TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early stage participants.',
   discord: '967789840072585318',
-  investors: [
-    '4j4oj3',
-    'g738qx',
-    '8nclhv',
-    'bpwaff',
-    'xgnbev',
-    'okjrd0',
-    'rrtsc3',
-    '9wxc8s',
-    'mlarvo',
-    'n4yi8o',
-    'wrr7ix',
-    'h3wbqh',
-    '3qflb4',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/trustpad/',
   duneQueries: null,
   foundingYear: null,
@@ -36,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/TrustPad',
   url: 'https://trustpad.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

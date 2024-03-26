@@ -12,7 +12,7 @@ export default {
   description:
     'Glowstick is a user-friendly tool enabling easy 3D environment creation and storytelling.',
   discord: '917476252443623435',
-  investors: ['7ny99e', '7zvxz8', 'amuto4', 'cx2bjt', 'gfcglj'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.alpha.glowstick.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

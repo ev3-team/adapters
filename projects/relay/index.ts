@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/relaydevice',
   url: 'https://www.relaywireless.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

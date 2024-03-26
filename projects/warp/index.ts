@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/warp_contracts',
   url: 'https://warp.cc/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

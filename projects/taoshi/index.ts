@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/taoshiio?s=11',
   url: 'https://www.taoshi.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

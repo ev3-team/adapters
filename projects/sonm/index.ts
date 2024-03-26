@@ -33,4 +33,5 @@ export default {
   twitter: 'https://twitter.com/sonmdevelopment',
   url: 'https://sonm.com/',
   verified: false,
+  fundraisesUrls: ['https://the-blockchain.com/2017/06/18/sonm-raises-42-million-token-raise/'],
 } satisfies AdapterProject

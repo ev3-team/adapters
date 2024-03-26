@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/pnbworld',
   url: 'https://pnb.world/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/Mint_HNT',
   url: 'https://spreadnetworks.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

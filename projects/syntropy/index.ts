@@ -12,20 +12,7 @@ export default {
   description:
     'Syntropy transforms the way blockchain data is accessed through our innovative Data Layer protocol.',
   discord: '503896258881126401',
-  investors: [
-    'buime9',
-    'kmkpmm',
-    'nx7p3n',
-    'k8v3go',
-    '0jqary',
-    'xfwkcl',
-    '7e0mh4',
-    '6uctn4',
-    'xgzede',
-    'mc0vmp',
-    '4rmqk4',
-    '5rmf8c',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/syntropynet/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Syntropynet',
   url: 'https://www.syntropynet.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

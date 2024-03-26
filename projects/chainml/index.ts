@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/chainml_',
   url: 'https://t.co/RdwLhkOJ65',
   verified: false,
+  fundraisesUrls: [
+    'https://www.theblock.co/post/173081/decentralized-machine-learning-protocol-chainml-raises-4m-led-by-iosg-ventures',
+  ],
 } satisfies AdapterProject

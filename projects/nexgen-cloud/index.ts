@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/CloudNexgen',
   url: 'https://www.nexgencloud.com/',
   verified: false,
+  fundraisesUrls: ['https://www.finsmes.com/2022/03/nexgen-cloud-raises-14m-in-funding.html'],
 } satisfies AdapterProject

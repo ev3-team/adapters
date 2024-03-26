@@ -39,4 +39,5 @@ export default {
   twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2Fzothdotio',
   url: 'https://zoth.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

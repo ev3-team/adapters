@@ -12,7 +12,7 @@ export default {
   description:
     'ACCESS Protocol lays the foundation for digital content monetization using a web3 wallet.',
   discord: '1001837380044587118',
-  investors: ['q4ztc2', 'n0g582', 'qcgxlc', 'cvjbhg'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.accessprotocol.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'NoorNation is the first African Egypt-based renewable energy start-up bringing fully equipped decentralized energy and water infrastructure across Egypt and Sub-Saharan Africa.',
   discord: null,
-  investors: ['7vyg7l'],
+  investors: ['e4n54t', '7vyg7l'],
   linkedin: 'https://www.linkedin.com/company/noornation/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: null,
   url: 'https://noornation.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.thecatalystfund.com/insights-blog/why-we-invested-in-noornation-a-startup-providing-farmers-with-solar-energy-and-water-solutions-in-egypt',
+  ],
 } satisfies AdapterProject

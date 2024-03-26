@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/canvas?lang=en',
   url: 'https://www.canvas.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

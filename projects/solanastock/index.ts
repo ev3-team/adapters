@@ -21,4 +21,5 @@ export default {
   twitter: 'https://solana.com/twitter',
   url: null,
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

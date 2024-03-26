@@ -12,7 +12,7 @@ export default {
   description:
     'Numerai is an Ethereum-based platform for developers to experiment and create machine learning models.',
   discord: '894652647515226152',
-  investors: [],
+  investors: ['tfi9fe', 'bku3ew', 'vuz4in'],
   linkedin: 'http://www.linkedin.com/company/numerai',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/numerai',
   url: 'https://numer.ai/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.theblock.co/linked/16868/hedge-fund-numerai-raises-11-million-in-funding-from-placeholder-paradigm',
+  ],
 } satisfies AdapterProject

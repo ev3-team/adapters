@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/uprockcom',
   url: 'https://uprock.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

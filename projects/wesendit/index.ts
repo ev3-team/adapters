@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/WeSendit',
   url: 'https://wesendit.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

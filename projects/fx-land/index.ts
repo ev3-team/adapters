@@ -12,7 +12,7 @@ export default {
   description:
     'FX Land is a decentralized storage network utilizing IPFS, providing secure and encrypted file storage.',
   discord: '735961760464502845',
-  investors: [],
+  investors: ['drq7a8', 'ka4f30', 'vjpj24', 'ti312b'],
   linkedin: 'https://www.linkedin.com/company/functionland/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/functionland',
   url: 'https://fx.land/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.newswire.ca/news-releases/functionland-raises-1-1m-in-seed-funding-830473543.html',
+  ],
 } satisfies AdapterProject

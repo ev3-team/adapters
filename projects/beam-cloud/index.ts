@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/beam_cloud',
   url: 'https://www.beam.cloud/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,17 +12,7 @@ export default {
   description:
     'Making wealth accessible to anyone, anywhere. An open platform for synthetic stocks, commodities, and crypto.',
   discord: null,
-  investors: [
-    '7065hj',
-    'z6cdtc',
-    'ajzzhi',
-    'vkntey',
-    'b04x9g',
-    '1p1iry',
-    'tqh3bl',
-    'nlvx3r',
-    'v4za8v',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/kreskolabs/',
   duneQueries: null,
   foundingYear: null,
@@ -32,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/kreskofi',
   url: 'https://www.kresko.fi/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Alt Labs builds Web3 infrastructure user-friendly tools and interfaces for decentralized storage networks.',
   discord: null,
-  investors: ['iebjfe'],
+  investors: [],
   linkedin: 'https://uk.linkedin.com/company/alt-labs',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://mobile.twitter.com/altlabsagency/status/1311308858816704514',
   url: 'https://altlabs.dev/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

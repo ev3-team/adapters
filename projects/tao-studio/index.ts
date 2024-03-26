@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://tao.studio/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

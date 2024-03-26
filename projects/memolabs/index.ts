@@ -12,7 +12,7 @@ export default {
   description:
     'Provide decentralized underlying data storage technology for Metaverse&NFT to open up data value transfer channels, and help human civilization survive forever. ',
   discord: '849100463441444894',
-  investors: ['zajrom', '772xwk', 'y2lysu', 'us9d7q', 'nxzb7m', 'wu15kr'],
+  investors: ['zajrom', '772xwk', 'y2lysu', 'us9d7q', 'nxzb7m'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/MemoLabsOrg',
   url: 'https://www.memolabs.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

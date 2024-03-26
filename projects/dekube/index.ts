@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/dekube_official',
   url: 'https://dekube.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

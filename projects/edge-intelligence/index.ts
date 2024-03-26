@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/EdgeAGI',
   url: 'http://edgeintelligence.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

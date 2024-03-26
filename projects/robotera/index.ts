@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/robotera_io',
   url: 'https://robotera.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

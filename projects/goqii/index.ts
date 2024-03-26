@@ -34,7 +34,9 @@ export default {
     '44e83n',
     'nlqu6w',
     'i88831',
+    'o7js4i',
     '1ehkky',
+    '84ui2r',
     'bqhtyc',
     'd8l3f0',
     'ycxt5s',
@@ -74,4 +76,10 @@ export default {
   twitter: 'https://twitter.com/GOQii',
   url: 'https://goqii.com/in-en',
   verified: false,
+  fundraisesUrls: [
+    'https://yourstory.com/2015/11/goqii-series-a-funding',
+    'https://entrackr.com/2018/11/goqii-fund-30-mn-mitsui-co/',
+    'https://entrackr.com/2019/09/goqii-raises-rs-45-cr-from-bccl/',
+    'https://www.livemint.com/companies/start-ups/healthcare-platform-goqii-raises-50-mn-led-by-sumeru-ventures-11644996336018.html',
+  ],
 } satisfies AdapterProject

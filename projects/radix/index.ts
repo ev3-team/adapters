@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/RadixDLT',
   url: 'https://www.radixdlt.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

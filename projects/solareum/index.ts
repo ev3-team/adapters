@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.solareuml1.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

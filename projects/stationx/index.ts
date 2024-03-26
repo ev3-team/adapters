@@ -11,7 +11,7 @@ export default {
   id: 'osv0he',
   description: 'StationX is a protocol for swiftly creating and overseeing DAOs in under a minute.',
   discord: '945568396911738982',
-  investors: ['vjpj24'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/stationxnetwork',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/stationxnetwork',
   url: 'https://www.stationx.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'er8yvb',
   name: 'Streamr',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

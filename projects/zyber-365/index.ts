@@ -12,7 +12,7 @@ export default {
   description:
     'Zyber 365 are providing a robust, decentralized, and cyber-secured operating system which adheres to the fundamental principles of environmental sustainability.',
   discord: '1118081430346530927',
-  investors: ['pc47rd'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'http://www.zyber365.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

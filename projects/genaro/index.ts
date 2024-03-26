@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://genaro.network/en',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

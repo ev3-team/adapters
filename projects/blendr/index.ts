@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/BlendrNetwork',
   url: 'https://www.blendr.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

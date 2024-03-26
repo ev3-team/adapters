@@ -22,4 +22,7 @@ export default {
   twitter: null,
   url: 'https://www.vip3.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.globenewswire.com/news-release/2023/08/07/2719930/0/en/VIP3-io-Raised-2-Million-in-Seed-Round-Financing-Unveils-Innovative-On-Chain-Membership-Platform.html',
+  ],
 } satisfies AdapterProject

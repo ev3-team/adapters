@@ -31,4 +31,5 @@ export default {
   twitter: 'https://twitter.com/everipedia',
   url: 'https://iq.wiki/',
   verified: false,
+  fundraisesUrls: ['https://fortune.com/crypto/2018/02/08/blockchain-everipedia/'],
 } satisfies AdapterProject

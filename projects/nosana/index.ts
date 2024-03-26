@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/nosana_ci',
   url: 'https://www.nosana.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

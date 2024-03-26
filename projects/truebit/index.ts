@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Truebitprotocol',
   url: 'https://truebit.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -32,4 +32,7 @@ export default {
   twitter: 'https://twitter.com/mawarijp',
   url: 'https://www.mawari.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20230207006196/en/Mawari-Raises-6.5-Million-in-Oversubscribed-Seed-Round-To-Build-a-Decentralized-XR-Streaming-Network',
+  ],
 } satisfies AdapterProject

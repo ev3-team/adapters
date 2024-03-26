@@ -11,7 +11,7 @@ export default {
   id: '88l6l8',
   description: 'delta.theta is a Peer-to-peer asset options trading platform.',
   discord: null,
-  investors: ['r0huce'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://deltatheta.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

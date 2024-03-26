@@ -12,7 +12,7 @@ export default {
   description:
     'Low-cost ML hardware modules for gesture and voice recognition on TVs, laptops, and appliances, ensuring user privacy.',
   discord: null,
-  investors: ['owqq3p', '7v9s89', 'a1wztr', 'ymiffp', 'f9vl35', 'tgyjdv'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/useful-sensors-inc',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://usefulsensors.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

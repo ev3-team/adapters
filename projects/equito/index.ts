@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/EquitoFinance',
   url: 'https://equitofinance.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

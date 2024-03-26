@@ -11,7 +11,7 @@ export default {
   id: 'vwstsz',
   description: 'Hexagon builds and operates decentralized wireless infrastructure.',
   discord: null,
-  investors: ['vkntey', 'pmx14k', 'ulvyo3', '3ftss8'],
+  investors: ['vkntey', 'pmx14k', 'ulvyo3', 'c59jtx', '3ftss8'],
   linkedin: 'https://www.linkedin.com/company/hexagon_2',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/hexagonab?lang=en',
   url: 'https://www.hexagonwireless.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.globenewswire.com/news-release/2022/05/19/2447081/0/en/Hexagon-Wireless-Raises-2-Million-To-Build-Decentralized-Wireless-Networks.html',
+  ],
 } satisfies AdapterProject

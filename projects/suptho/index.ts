@@ -31,4 +31,5 @@ export default {
   twitter: 'https://twitter.com/SupthoApp',
   url: 'https://www.suptho.xyz/',
   verified: false,
+  fundraisesUrls: ['https://www.cypherhunter.com/en/e/suptho-raised-funding-2023-01-12/'],
 } satisfies AdapterProject

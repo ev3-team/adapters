@@ -12,7 +12,7 @@ export default {
   description:
     'MaidSafeCoin is a decentralized data network built on autonomous principles for secure and efficient data-sharing.',
   discord: '106097460425846784',
-  investors: [],
+  investors: ['bwghh0', 'tdc3yj', 'o01d9p', 'tmcih2', 'spo1sh', 'rid27c', 'ka4f30'],
   linkedin: 'https://www.linkedin.com/company/maidsafe/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/maidsafe',
   url: 'https://maidsafe.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

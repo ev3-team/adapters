@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://aipowergrid.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

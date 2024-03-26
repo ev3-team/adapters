@@ -11,7 +11,7 @@ export default {
   id: 'ux0c4s',
   description: 'Intersection of AI & blockchain',
   discord: null,
-  investors: [],
+  investors: ['g4q79j', 'llgix7', '2bl1fj', 'qa36jx', 'bah2fw', 'k9u90q'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,7 @@ export default {
   twitter: null,
   url: 'https://ait.tech/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.binance.com/en/feed/post/2023-12-13-ait-protocol-completes-new-funding-round-with-participation-from-multiple-investors-1317935449953',
+  ],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ipfs',
   url: 'https://ipfs.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

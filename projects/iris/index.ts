@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/iris_technology',
   url: 'https://www.poweredbyiris.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/PrivioTech',
   url: 'https://privio.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

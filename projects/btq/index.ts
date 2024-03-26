@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/btq_tech',
   url: 'https://www.btq.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

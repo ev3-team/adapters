@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/monad_xyz',
   url: 'https://www.monad.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

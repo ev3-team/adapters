@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://elastos.info/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

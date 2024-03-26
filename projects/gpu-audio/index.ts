@@ -11,7 +11,7 @@ export default {
   id: 'qr6aiw',
   description: 'GPU Audio is a platform for audio processing on GPUs.',
   discord: '930188443282198589',
-  investors: ['9cy4jl', 'x2k3tp', 'iawzwu', '56yopi', 'qk8lne', 'f4oc87', '1l6pwi', 'jesgcy'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/gpuaudio',
   url: 'https://www.gpu.audio/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

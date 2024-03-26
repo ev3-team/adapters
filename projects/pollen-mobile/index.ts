@@ -11,7 +11,7 @@ export default {
   id: 'goiapt',
   description: 'Pollen Mobile sells hand-made rugs.',
   discord: null,
-  investors: [],
+  investors: ['ul3tww', '67mqz0', '391xou', 's7axdr', 'ooq1d1'],
   linkedin: 'https://www.linkedin.com/company/pollenmobile',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/PollenMobile',
   url: 'https://www.pollenmobile.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.globenewswire.com/en/news-release/2022/04/19/2424680/0/en/Pollen-Mobile-Closes-Seed-Funding-Round-for-Its-Next-Generation-Decentralized-Wireless-Network.html',
+  ],
 } satisfies AdapterProject

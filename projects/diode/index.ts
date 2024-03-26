@@ -12,7 +12,7 @@ export default {
   description:
     'Diode is a Web3 software company committed to providing fundamental technologies for fully decentralized authentication and routing of network participants.',
   discord: null,
-  investors: ['e4n54t', '0xxzoz'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/diode-chain/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/diode_chain',
   url: 'https://diode.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

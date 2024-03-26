@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://bento.me/brume',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ultronglow',
   url: 'https://www.ultronglow.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

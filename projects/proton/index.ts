@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://proton.me/mail',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

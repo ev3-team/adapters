@@ -12,7 +12,7 @@ export default {
   description:
     'Vayu is building a scalable mobile robotics platform using cutting edge bio-inspired sensing, ML, and robotics.',
   discord: null,
-  investors: ['4bc5rd', 's5s0ze', 'q7n0kr', 'kh5hbg'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/VayuRobotics/status/1709162252866355627',
   url: 'https://www.vayurobotics.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

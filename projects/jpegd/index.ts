@@ -12,7 +12,7 @@ export default {
   description:
     'JPEGd is a decentralized lending protocol enabling businesses to borrow pETH or PUSd using NFTs as collateral.',
   discord: '906554976178933840',
-  investors: ['fxmvug'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/jpeg',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/JPEGd_69',
   url: 'https://jpegd.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

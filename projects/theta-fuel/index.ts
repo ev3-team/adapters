@@ -60,4 +60,7 @@ export default {
   twitter: 'https://twitter.com/Theta_Network',
   url: 'https://thetatoken.org/',
   verified: false,
+  fundraisesUrls: [
+    'https://coinchapter.com/institutional-investors-stake-over-100-million-in-theta-network/',
+  ],
 } satisfies AdapterProject

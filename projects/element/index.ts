@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/element_hq',
   url: 'https://element.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

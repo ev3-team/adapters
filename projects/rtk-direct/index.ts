@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/rtkdirect',
   url: 'https://rtkdirect.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

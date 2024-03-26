@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/AiEleuther',
   url: 'https://www.eleuther.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://ovoo.pl/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

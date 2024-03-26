@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.nimble.technology/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

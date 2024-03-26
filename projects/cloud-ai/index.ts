@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/TheCloudAI',
   url: 'https://usecloudai.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

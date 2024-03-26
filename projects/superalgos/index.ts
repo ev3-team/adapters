@@ -12,7 +12,7 @@ export default {
   description:
     'Superalgos: crypto trading platform for open competition, allows traders to earn through signal broadcasting.',
   discord: '778730632812691488',
-  investors: ['hyymt5'],
+  investors: [],
   linkedin: 'https://mt.linkedin.com/company/superalgos',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/superalgos',
   url: 'https://superalgos.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'WeChipN is a provider of a Rewards Community that mobilizes culture with web3 technology.',
   discord: null,
-  investors: ['vpbh0h', 'a1uyxq'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://wechipn.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

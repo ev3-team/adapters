@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ketchuprepublic',
   url: 'https://gemgemgo.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

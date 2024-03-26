@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/FoilNetwork',
   url: 'https://foil.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

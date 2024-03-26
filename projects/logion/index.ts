@@ -12,7 +12,7 @@ export default {
   description:
     'Logion is a pioneering blockchain platform that transforms tokens into legal-grade digital assets.',
   discord: '786689460178911273',
-  investors: ['vjpj24', 'kknmxm'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.logion.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

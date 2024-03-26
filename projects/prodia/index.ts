@@ -11,7 +11,7 @@ export default {
   id: '51ffds',
   description: 'Prodia is an easy-to-use Stable Diffusion API for AI-powered image generation.',
   discord: '961289090886692964',
-  investors: ['ztdj15', 'hqx0t6', 'lay4ny'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/prodia-labs/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/prodialabs',
   url: 'https://prodia.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

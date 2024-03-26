@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://vanarchain.com/?lang=en',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

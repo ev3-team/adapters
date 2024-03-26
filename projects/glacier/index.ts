@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/GlacierNPS',
   url: 'https://www.glacier.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'http://x.com/Acurast',
   url: 'https://acurast.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

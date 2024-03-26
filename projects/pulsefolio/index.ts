@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/PulseFolio/',
   url: 'https://pulsefolios.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

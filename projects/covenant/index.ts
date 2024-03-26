@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/covenantFi',
   url: 'https://covenant.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

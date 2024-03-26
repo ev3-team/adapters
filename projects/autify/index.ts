@@ -12,7 +12,7 @@ export default {
   description:
     'Developing a modern, modular supply-chain management & cross-border payment platform using blockchain and AI to increase transparency in both the global supply chain and retail industry.',
   discord: null,
-  investors: ['drdidh', 'i5wxg4', 'b6vnn8'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/autify-network/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/autifynetwork',
   url: 'https://www.autifynetwork.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'SCINET is a decentralized life sciences research and investment platform that revolutionizes the way people do and support science.',
   discord: '933419136934101013',
-  investors: ['sgvqqt'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/scinet-us/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/scinet_inc',
   url: 'https://www.scinet.one/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

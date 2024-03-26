@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.anapaya.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

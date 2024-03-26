@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://ironfish.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

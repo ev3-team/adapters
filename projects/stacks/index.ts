@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/StacksOrg',
   url: 'https://stacks.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

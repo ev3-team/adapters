@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://jasmy.global/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

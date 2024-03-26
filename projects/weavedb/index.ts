@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/weave_db',
   url: 'https://weavedb.dev/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -35,4 +35,5 @@ export default {
   twitter: 'https://twitter.com/teleportxyz',
   url: 'https://www.teleport.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

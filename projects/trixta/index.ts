@@ -12,7 +12,7 @@ export default {
   description:
     'Trixta is a decentralized business operating system that allows users to model, build and orchestrate distributed software with the use of Autonomous AI agents and Visual tools.',
   discord: null,
-  investors: ['a1uyxq', 'lphuqy'],
+  investors: ['lphuqy'],
   linkedin: 'https://www.linkedin.com/company/trixta/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/TrixtaTeam',
   url: 'https://trixta.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

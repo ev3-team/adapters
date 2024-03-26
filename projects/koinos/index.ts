@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/koinosnetwork',
   url: 'https://koinos.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

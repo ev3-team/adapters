@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Sentinel_co',
   url: 'https://sentinel.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

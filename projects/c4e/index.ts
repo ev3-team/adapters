@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Chain4Energy',
   url: 'https://c4e.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

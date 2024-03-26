@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/cyberfly_io',
   url: 'https://cyberfly.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/TotemGDN',
   url: 'https://www.totem.gdn/bin/view/Main/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

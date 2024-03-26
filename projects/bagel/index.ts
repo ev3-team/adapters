@@ -12,7 +12,7 @@ export default {
   description:
     'Bagel is an open protocol for humans and autonomous AI agents to collectively build, trade, and license Machine Learning datasets.',
   discord: null,
-  investors: [],
+  investors: ['buo8ql', '0mqnsr', 'szfiug', '8r5o1d', 'xgzede', 'ti312b'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/bagel_network',
   url: 'https://www.bagel.net/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20240122875776/en/Bagel-Network-a-Decentralized-ML-Data-Network-Closes-3.1M-Pre-Seed-Round-Led-by-CoinFund',
+  ],
 } satisfies AdapterProject

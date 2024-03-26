@@ -12,20 +12,7 @@ export default {
   description:
     'Cheeze is a decentralized creator economy platform that enables brand activation for imagery on-chain.',
   discord: null,
-  investors: [
-    '2mccdz',
-    'rjcwff',
-    'eogul3',
-    'lb3dac',
-    'p7qu8t',
-    '9id98s',
-    'ipknt7',
-    'tivoxv',
-    'cacqhz',
-    'rz9az7',
-    'bb8u86',
-    'z5gcrq',
-  ],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://cheeze.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

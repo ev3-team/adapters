@@ -11,7 +11,7 @@ export default {
   id: 'zyw7wx',
   description: 'Datum: Secure, private, and anonymous data storage and trading on blockchain.',
   discord: null,
-  investors: ['t8rmuj'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/datumfoundation/about/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/datumnetwork',
   url: 'https://datum.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,21 +12,7 @@ export default {
   description:
     'Loom Network is a production-ready, multichain interop platform for serious dapp developers.',
   discord: null,
-  investors: [
-    'vap740',
-    '6erxyq',
-    'i1x9du',
-    'hqpm32',
-    'xrz24d',
-    '9id9yt',
-    'kzsrt6',
-    'xqcbrl',
-    '97qlqj',
-    'afeud9',
-    'a1uyxq',
-    'ex2fez',
-    'pcw959',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/loom-network/',
   duneQueries: null,
   foundingYear: null,
@@ -36,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/loomnetwork',
   url: 'https://loomx.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

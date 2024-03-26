@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://nodeops.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -13,14 +13,14 @@ export default {
   discord: '879754359859216394',
   investors: [
     'e4xh6i',
-    'kans6x',
+    'ept6x8',
     'gun7y3',
     'k2hev4',
     'n01vko',
     '91420f',
     'l70dye',
     'ddz0bc',
-    'n0g582',
+    '18l8yx',
     'xznxug',
     'cn32xf',
     'xx442f',
@@ -45,4 +45,7 @@ export default {
   twitter: 'https://twitter.com/cheqd_io',
   url: 'https://cheqd.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://cheqd.io/blog/cheqd-raises-2-6-million-to-drive-the-uptake-of-digital-ids/',
+  ],
 } satisfies AdapterProject

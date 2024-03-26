@@ -36,4 +36,7 @@ export default {
   twitter: 'https://twitter.com/fluence_project',
   url: 'https://fluence.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://decrypt.co/93090/cloud-9-million-fluence-labs-raises-cash-aims-liberate-Web3 Capital-aws',
+  ],
 } satisfies AdapterProject

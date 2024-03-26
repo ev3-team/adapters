@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/JimAIstudios',
   url: 'https://www.jimaistudios.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

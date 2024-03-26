@@ -12,7 +12,7 @@ export default {
   description:
     'Dinari: dShare Platform with real-world asset backed tokens, granting access to securities on Arbitrum network.',
   discord: '1014801661740462143',
-  investors: ['vmqmcr', 'jtzx5o', '896jil', 'lv72w4', 'ga1lv7', 'fa49nd', '9kybya'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/dinari-global/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/DinariGlobal',
   url: 'https://www.dinari.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

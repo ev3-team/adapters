@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Grap3Inc',
   url: 'https://grap3.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

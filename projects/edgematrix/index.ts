@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/EMCprotocol',
   url: 'https://edgematrix.pro/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

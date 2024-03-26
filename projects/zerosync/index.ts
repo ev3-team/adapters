@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/zerosync_',
   url: 'https://zerosync.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

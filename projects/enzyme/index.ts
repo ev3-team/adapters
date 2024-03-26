@@ -12,7 +12,7 @@ export default {
   description:
     'Welcome to the future of asset management. Build, scale and monetise an investment strategy that suits your needs.',
   discord: '515208056720719872',
-  investors: ['4ubo51', 'zaf9xh', 'qp5s3g', '4lf3qu', 'z3ngzr', 'bku3ew'],
+  investors: [],
   linkedin: 'https://github.com/enzymefinance',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/enzymefinance',
   url: 'https://enzyme.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

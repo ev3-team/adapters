@@ -11,7 +11,7 @@ export default {
   id: 'c0u4u3',
   description: 'ELOOP: Rent, share, and charge electric cars.',
   discord: null,
-  investors: ['465enh', 't6e1va', 'ni2m14', 'zd61np', 'rjhzji', 'hvyw00', 'efovez'],
+  investors: ['465enh', 't6e1va', 'ni2m14', 'zd61np', 'x5uack', 'jdvxvj', 'hvyw00', 'efovez'],
   linkedin: 'https://www.linkedin.com/company/eloopmobi',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://eloop.one/en/',
   verified: false,
+  fundraisesUrls: ['https://superangels.club/eloop-raised-new-million-investment/'],
 } satisfies AdapterProject

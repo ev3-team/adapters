@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/aqtis_io',
   url: 'https://aqtis.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

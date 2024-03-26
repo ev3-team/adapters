@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/clapartofficial',
   url: 'https://www.clapart.com/?locale=en-US',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

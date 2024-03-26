@@ -11,7 +11,7 @@ export default {
   id: '0if1hs',
   description: 'Entheos Network: energy solutions & batteries for businesses globally.',
   discord: null,
-  investors: ['wb49st', 'ltitbn', '566vlr'],
+  investors: ['wb49st', 'abvcou', '566vlr'],
   linkedin: 'http://www.linkedin.com/company/entheos-network',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.entheos.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

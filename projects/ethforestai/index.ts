@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ETHforestAI',
   url: 'https://ethforest.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

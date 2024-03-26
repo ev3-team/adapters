@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/KodaRobotDog',
   url: 'https://www.koda9.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/planetwatchsas',
   url: 'https://www.planetwatch.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.globenewswire.com/en/news-release/2023/01/26/2596408/0/en/PlanetWatch-Raises-3M-to-Boost-Business-Development.html',
+  ],
 } satisfies AdapterProject

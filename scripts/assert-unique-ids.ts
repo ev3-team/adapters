@@ -6,7 +6,7 @@ import { investors } from '../investors'
 import { projects } from '../projects'
 import { AdapterProject } from '../projects/types'
 
-const projectsList: AdapterProject[] = Object.values(projects)
+const projectsList = Object.values(projects) as AdapterProject[]
 const investorsList = Object.values(investors)
 
 const investorsIds = investorsList.map(({ id }) => id)
@@ -57,7 +57,7 @@ const investorsIds = investorsList.map(({ id }) => id)
 
   let idx = 0
   const projectsNames = projectsList.map((p) => p.name) as string[]
-  createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
+  createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors-Generated.csv'))
     .pipe(csv.parse())
     .on('error', (error) => console.error(error))
     .on('data', async (row) => {

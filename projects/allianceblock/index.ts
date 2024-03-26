@@ -12,17 +12,7 @@ export default {
   description:
     'AllianceBlock builds gateways between traditional & decentralized industries with blockchain infrastructure.',
   discord: '742466730202234960',
-  investors: [
-    'mrgeec',
-    'k1qvmn',
-    'ghumon',
-    'oyirya',
-    'bah2fw',
-    'dczz01',
-    'xvgf6w',
-    'nwl5v7',
-    '2wn9ev',
-  ],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/allianceblock',
   duneQueries: null,
   foundingYear: null,
@@ -32,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/allianceblock',
   url: 'https://allianceblock.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

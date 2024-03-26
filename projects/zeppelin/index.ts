@@ -11,7 +11,7 @@ export default {
   id: 'cvzsdf',
   description: 'Zeppelin aims to be the global leader in decentralized wireless infrastructure.',
   discord: null,
-  investors: ['hol96b', 'rmj9ht', 'v81ftp'],
+  investors: ['hol96b', '7zvxz8', 'rmj9ht', 'v81ftp'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.zeppelinwireless.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

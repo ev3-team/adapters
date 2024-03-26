@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Libertai_DAI',
   url: 'https://libertai.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

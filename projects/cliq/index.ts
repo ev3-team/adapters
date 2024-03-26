@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/CliqNetwork',
   url: 'https://www.cliqnetwork.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

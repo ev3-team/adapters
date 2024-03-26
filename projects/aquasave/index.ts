@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/AquaSaveCrypto',
   url: 'https://aquasave.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

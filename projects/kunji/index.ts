@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/kunjitweets',
   url: 'https://www.kunji.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

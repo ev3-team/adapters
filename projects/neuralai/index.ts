@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://neuralagent.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

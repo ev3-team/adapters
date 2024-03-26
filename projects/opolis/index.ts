@@ -12,7 +12,7 @@ export default {
   description:
     'Opolis is a member-owned digital employment platform that uses blockchain technology to supply tools that independent workers can use to manage their employment benefits, payroll, and shared services.',
   discord: null,
-  investors: [],
+  investors: ['uwmmpg', 'b6vnn8', '8agdnp'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/opolis',
   url: null,
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20230713231230/en/Blockchain-Employment-Platform-Opolis-Raises-6.6M-in-Bridge-Round',
+  ],
 } satisfies AdapterProject

@@ -36,4 +36,5 @@ export default {
   twitter: 'https://twitter.com/MetaGravity_',
   url: 'https://www.metagravity.com/',
   verified: false,
+  fundraisesUrls: ['https://tech.eu/2023/04/21/metagravity-do-something-amazing/'],
 } satisfies AdapterProject

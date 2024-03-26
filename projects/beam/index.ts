@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://beam.mw/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/VAIOT_LTD',
   url: 'https://vaiot.ai/',
   verified: false,
+  fundraisesUrls: [
+    'https://siliconcanals.com/news/vaiot-combines-ai-and-blockchain-digitise-business-processes-raises-seed-funding/',
+  ],
 } satisfies AdapterProject

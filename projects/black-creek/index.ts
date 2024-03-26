@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/BlackCreekDig',
   url: 'https://www.blackcreekdigital.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

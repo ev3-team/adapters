@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/dataunions',
   url: 'https://dataunions.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

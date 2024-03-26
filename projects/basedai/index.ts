@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/getbasedai',
   url: 'https://www.getbased.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

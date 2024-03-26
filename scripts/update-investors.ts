@@ -7,7 +7,7 @@ import { AdapterInvestor } from '../investors/types'
 import { projects } from '../projects'
 import { AdapterProject } from '../projects/types'
 
-const projectsList: AdapterProject[] = Object.values(projects)
+const projectsList = Object.values(projects) as AdapterProject[]
 
 /** Loop over the projects investors csv to get the total number of invested projects for each investor. */
 export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
@@ -16,7 +16,7 @@ export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
   const projectsInvestorsCsvRows: string[] = []
   const investorsProjectsCount = new Map<string, number>()
   return new Promise((resolve) => {
-    createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
+    createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors-Generated.csv'))
       .pipe(csv.parse())
       .on('error', (error) => console.error(error))
       .on('data', async (row: string[]) => {

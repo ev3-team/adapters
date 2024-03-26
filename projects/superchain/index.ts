@@ -12,7 +12,7 @@ export default {
   description:
     'Developer of Open Index Protocol, an efficient decentralized indexer for on-chain data.',
   discord: null,
-  investors: ['te4xtz', '5sjxy4', 'j471wi', 'ujw2s3', 'xgzede', 'rh7r97'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/superchain-network',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/OpenSuperchain',
   url: 'https://www.superchain.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

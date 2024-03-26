@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/esprezzoapp',
   url: 'https://esprezzo.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

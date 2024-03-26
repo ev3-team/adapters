@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://data-lake.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

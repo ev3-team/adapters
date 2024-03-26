@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/ExaProtocol',
   url: 'https://www.exaprotocol.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

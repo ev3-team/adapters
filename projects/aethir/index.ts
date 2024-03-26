@@ -18,7 +18,7 @@ export default {
     'cnjnvc',
     'yx4w71',
     'nxzb7m',
-    '870le2',
+    'rrtsc3',
     'rd2mzf',
     '5j0nni',
     '8rcqvw',
@@ -39,4 +39,7 @@ export default {
   twitter: 'https://twitter.com/Aethir_',
   url: 'https://www.aethir.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.prnewswire.com/news-releases/aethir-closes-150-million-valuation-pre-a-funding-round-to-scale-its-decentralized-cloud-infrastructure-301886287.html',
+  ],
 } satisfies AdapterProject

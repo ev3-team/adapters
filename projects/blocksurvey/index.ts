@@ -12,19 +12,7 @@ export default {
   description:
     'BlockSurvey offers Tokengated surveys, enabling users to engage in blockchain-based survey participation.',
   discord: '669101220937596953',
-  investors: [
-    '7bn5bf',
-    '1aatyr',
-    '8uu9kr',
-    '1yjwza',
-    'jkb7hq',
-    'rlo5x9',
-    'dc1d3b',
-    '9r6aaf',
-    '6od4bx',
-    'nr6cj9',
-    'wa3eqd',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/blocksurvey/',
   duneQueries: null,
   foundingYear: null,
@@ -34,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/blocksurvey',
   url: 'https://blocksurvey.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

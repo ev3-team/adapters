@@ -12,7 +12,7 @@ export default {
   description:
     'Graviton provides Web3 tools and infrastructure that allows artists to reach fans, advertise and monetize their work. NFT Torrent is a free decentralized storage solution for torrent enabled NFTs.',
   discord: '1205739617693859900',
-  investors: ['jo973z'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/graviton-xyz/?originalSubdomain=pr',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Graviton_XYZ',
   url: 'https://graviton.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

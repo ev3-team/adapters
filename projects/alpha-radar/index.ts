@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://alpharadarbot.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

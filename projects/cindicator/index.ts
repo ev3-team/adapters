@@ -33,4 +33,5 @@ export default {
   twitter: 'https://twitter.com/Crowd_indicator',
   url: 'https://cindicator.com/',
   verified: false,
+  fundraisesUrls: ['https://icodrops.com/cindicator/'],
 } satisfies AdapterProject

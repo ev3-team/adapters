@@ -11,7 +11,7 @@ export default {
   id: 'aqaszb',
   description: 'Passage connects virtual and physical experiences through creator-built games.',
   discord: '932715756423086090',
-  investors: ['jefc9a', 'la4mmt', 'bxcu1r', '67afgf', '78w4y0', 'j1rzkc', 'w9rvnt', 'gftio8'],
+  investors: [],
   linkedin: 'https://linkedin.com/company/passageio',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/passageio',
   url: 'https://www.passage.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

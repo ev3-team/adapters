@@ -11,7 +11,7 @@ export default {
   id: 'oqb51e',
   description: 'DeMe: a user privacy-focused social media with rewards.',
   discord: null,
-  investors: ['28j4vq'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/demesocial/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/DecentralisedMe',
   url: 'https://deme.social/#',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

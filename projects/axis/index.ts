@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/axis_token',
   url: 'https://axistoken.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

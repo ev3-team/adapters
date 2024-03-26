@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/quicki_erc',
   url: 'https://quickintel.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

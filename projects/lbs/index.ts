@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/lbschain',
   url: 'https://lbschain.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

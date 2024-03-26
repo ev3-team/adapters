@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.epplex.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject
