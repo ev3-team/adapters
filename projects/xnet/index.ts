@@ -14,7 +14,11 @@ export default {
   discord: '984268252815446107',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/xnet-mobile',
-  duneQueries: null,
+  duneQueries: {
+    BURN: '3561298',
+    SUPPLY: '3561281',
+    NODE_NUMBER: '3561331',
+  },
   foundingYear: null,
   blog: 'https://medium.com/@XNET_Mobile',
   github: null,
