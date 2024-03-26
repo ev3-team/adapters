@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.0.0-20240326144236
+
+### Patch Changes
+
+- add new dune query for XNET burn, supply and node number
+
 ## 0.3.40
 
 ### Patch Changes
