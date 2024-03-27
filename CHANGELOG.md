@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.0.0-20240327125724
+
+### Patch Changes
+
+- generate projects investors from fund raises and add fund raise urls to projects.
+
 ## 0.0.0-20240326144236
 
 ### Patch Changes
