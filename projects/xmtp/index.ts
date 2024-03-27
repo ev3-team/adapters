@@ -13,12 +13,12 @@ export default {
     'The Extensible Message Transport Protocol (XMTP) is a secure messaging protocol that enables communication between blockchain accounts.',
   discord: '831836269558235136',
   investors: [
+    'd40or5',
     'm21s7e',
-    'y2y3vv',
+    'opiq98',
     '2uillv',
     'omhdmx',
     'tbwpai',
-    '26x5nn',
     'rr0j76',
     'cd2nay',
     'lmepop',
@@ -118,7 +118,6 @@ export default {
     'h8bix0',
     'gwi3em',
     '35j3pt',
-    'gduv1m',
   ],
   linkedin: 'https://www.linkedin.com/company/xmtp-labs/',
   duneQueries: null,
@@ -129,4 +128,5 @@ export default {
   twitter: 'https://twitter.com/xmtp_',
   url: 'https://xmtp.org/',
   verified: false,
+  fundraisesUrls: ['https://www.coinspeaker.com/Web3 Capital-protocol-xmtp-raises-20m/'],
 } satisfies AdapterProject

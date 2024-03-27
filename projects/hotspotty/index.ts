@@ -11,7 +11,7 @@ export default {
   id: '8hmhev',
   description: 'Hotspotty is a tool for ordering and managing helium hotspots.',
   discord: '874255050929745930',
-  investors: ['7zvxz8', '6c0yfx', '1im0oz'],
+  investors: ['6c0yfx', '1im0oz'],
   linkedin: 'https://www.linkedin.com/company/hotspotty-official/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/hotspotty',
   url: 'https://hotspotty.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

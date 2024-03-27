@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/defi_arc',
   url: 'https://arc.market/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

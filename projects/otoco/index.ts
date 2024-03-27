@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/otoco_io',
   url: 'https://otoco.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

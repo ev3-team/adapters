@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/PaalMind',
   url: 'https://paalai.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

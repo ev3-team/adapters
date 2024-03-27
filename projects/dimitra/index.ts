@@ -22,4 +22,7 @@ export default {
   twitter: null,
   url: 'https://dimitra.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.accesswire.com/717548/dimitra-incorporated-releases-dimitra-token-raises-65m-to-accelerate-growth-of-connected-farmer-platform',
+  ],
 } satisfies AdapterProject

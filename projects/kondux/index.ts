@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Kondux_KNDX',
   url: 'https://kondux.info/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

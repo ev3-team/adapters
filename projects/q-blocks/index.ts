@@ -11,7 +11,7 @@ export default {
   id: 'j988an',
   description: 'Developer of a decentralised GPU computing platform.',
   discord: null,
-  investors: ['a1uyxq'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/q-blocks/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/blocks_q',
   url: 'https://qblocks.cloud/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

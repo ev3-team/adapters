@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/0x0audits',
   url: 'https://0x0.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

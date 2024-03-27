@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://bluesea.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

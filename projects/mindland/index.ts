@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/MndlndOfficial',
   url: 'https://mndlnd.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

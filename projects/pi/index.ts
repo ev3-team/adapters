@@ -11,7 +11,7 @@ export default {
   id: 'xpggzk',
   description: 'Pi is a decentralized environmental data collection network.',
   discord: null,
-  investors: ['2p0n8o'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/pi-net/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/PiCoreTeam',
   url: 'https://minepi.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

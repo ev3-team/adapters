@@ -12,20 +12,7 @@ export default {
   description:
     'Dialect is developing a protocol for smart messaging. It offers ‚Äädynamic, composable dapp notifications and wallet-to-wallet chat. Powered by Solana.',
   discord: '1168929408279646278',
-  investors: [
-    'lxr6fp',
-    'r98x19',
-    '5s605e',
-    'inqapg',
-    '4ssdn4',
-    '2g0699',
-    'lej86v',
-    'alpckm',
-    'tlb60n',
-    'rotj2h',
-    'nlvx3r',
-    'wdtkj1',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/dialect-labs/about/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/saydialect',
   url: 'https://www.dialect.to/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

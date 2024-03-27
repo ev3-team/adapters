@@ -24,4 +24,5 @@ export default {
   twitter: null,
   url: 'https://www.althea.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

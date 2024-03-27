@@ -12,7 +12,19 @@ export default {
   description:
     'Huddle01 enables high-quality audio, video, and live-streaming in 1 day. Our SDKs are Faster, Secure, and Scalable for mobile and web apps.',
   discord: '890224574761926756',
-  investors: [],
+  investors: [
+    '896jil',
+    'k2s470',
+    'tsm1o4',
+    'aw6d9h',
+    '16a7gt',
+    'zbmcb4',
+    'po8xe3',
+    'b1ba0p',
+    'ti312b',
+    '3bchmx',
+    't9j2qz',
+  ],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +34,7 @@ export default {
   twitter: null,
   url: 'https://huddle01.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.prnewswire.com/news-releases/huddle01-raises-2-8m-led-by-hivemind-to-build-the-1st-decentralized-communication-network-301791654.html',
+  ],
 } satisfies AdapterProject

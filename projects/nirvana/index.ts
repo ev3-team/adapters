@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/nirvanalabsai',
   url: 'https://nirvanalabs.io/',
   verified: false,
+  fundraisesUrls: ['https://twitter.com/nirvanalabsai/status/1724840469631258795'],
 } satisfies AdapterProject

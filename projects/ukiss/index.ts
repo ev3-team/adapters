@@ -15,11 +15,10 @@ export default {
     'is950u',
     '606zzb',
     'gpswp8',
-    'zmuz4i',
     'ki7fc2',
+    'zmuz4i',
     '76c6i8',
     '87tpbd',
-    'tgtgbr',
     'nr57n8',
     'u8r7ah',
   ],
@@ -32,4 +31,5 @@ export default {
   twitter: null,
   url: 'https://www.ukiss.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/AimedisGlobal',
   url: 'https://aimedis.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/AITECHio',
   url: 'https://www.aitech.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

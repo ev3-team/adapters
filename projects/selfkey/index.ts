@@ -11,7 +11,7 @@ export default {
   id: 'b12fse',
   description: 'SelfKey is a blockchain-based identity platform.',
   discord: '897002577831526460',
-  investors: ['6s7v1l', '44u6gg'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/selfkey',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/selfkey',
   url: 'https://selfkey.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

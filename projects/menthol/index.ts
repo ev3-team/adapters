@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/MentholProtocol',
   url: 'https://www.mentholprotocol.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

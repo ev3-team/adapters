@@ -21,4 +21,5 @@ export default {
   twitter: 'https://www.twitter.com/badideaai',
   url: 'https://www.badidea.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Onocoy is a decentralized GNSS reference station network enabling high-precision geopositioning.',
   discord: '1019999556747935794',
-  investors: [],
+  investors: ['k9wwxc'],
   linkedin: 'https://linkedin.com/company/onocoy',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/onocoyRTK',
   url: 'https://www.onocoy.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.startupticker.ch/en/news/onocoy-wins-100-000-from-eu-agency-space-program',
+  ],
 } satisfies AdapterProject

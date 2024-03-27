@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'vzqumt',
   name: 'JDI',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

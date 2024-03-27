@@ -11,7 +11,7 @@ export default {
   id: '6bqyjx',
   description: 'P00LS is the premier platform for Web3 community-building.',
   discord: '1175849217617559643',
-  investors: ['ww4ojj', 'qrpe0z', 'egtjkt', '1hc0e8', 'x5xtnu', 'a1lgjn', 'c4veok', '4e1ldf'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/p00ls/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/p00ls_',
   url: 'https://www.p00ls.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/CirrusIPFS',
   url: 'https://usecirrus.cloud/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

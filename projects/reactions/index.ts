@@ -12,7 +12,7 @@ export default {
   description:
     'Reactions is a decentralized social curation protocol that let users react to NFTs, allowing consumers to build influence and earn with communities.',
   discord: '869644271068778616',
-  investors: ['eqr6sq', '04mlyu'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/reactions-wtf/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/reactions_lab',
   url: 'https://reactions.wtf/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

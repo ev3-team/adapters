@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/bitnostre',
   url: 'https://bitnost.re/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

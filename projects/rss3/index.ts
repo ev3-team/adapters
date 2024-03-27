@@ -15,6 +15,7 @@ export default {
     'hhudw8',
     '5b00r6',
     'abvcou',
+    'b9h5l3',
     '896jil',
     '73opsz',
     'skjtm0',
@@ -31,7 +32,7 @@ export default {
     't7xkdd',
     'w9dy7u',
     'q9nh9n',
-    '870le2',
+    'rrtsc3',
     'eehu3u',
     'aiqhf6',
     'jynpbk',
@@ -55,4 +56,7 @@ export default {
   twitter: 'https://twitter.com/RSS3_',
   url: 'https://rss3.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/business/2023/04/11/information-protocol-rss3-raises-10m-via-token-sale-to-dwf-labs/',
+  ],
 } satisfies AdapterProject

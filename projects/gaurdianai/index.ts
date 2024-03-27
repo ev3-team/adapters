@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://guardianai.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

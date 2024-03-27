@@ -11,7 +11,7 @@ export default {
   id: 'u0jkdv',
   description: 'Developer of industrial machinery designed to make aerospace parts.',
   discord: null,
-  investors: ['tfmpbh', 'vjyn5q', 'm361f9', 'pc94ke', 'k3sz1r', 'ckysxs'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/rangeview',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://rangeview.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

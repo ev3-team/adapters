@@ -22,7 +22,7 @@ export default {
     'tel396',
     'xx442f',
     'wrehju',
-    '870le2',
+    'rrtsc3',
     'fdzd99',
     '243kcn',
     'ofj0rs',
@@ -44,4 +44,5 @@ export default {
   twitter: 'https://twitter.com/myMessageOS',
   url: 'https://www.mymessage.io/',
   verified: false,
+  fundraisesUrls: ['https://finance.yahoo.com/news/mymessage-raises-2-1-million-185500210.html'],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://tachyon.eco/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Chain_GPT',
   url: 'https://www.chaingpt.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/blinqnet',
   url: 'https://blinqnetworks.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.ixswap.io',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.padsfinancial.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

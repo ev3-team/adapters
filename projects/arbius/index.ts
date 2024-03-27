@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/arbius_ai',
   url: 'https://arbius.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

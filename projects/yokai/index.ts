@@ -11,7 +11,7 @@ export default {
   id: 'jbyfc1',
   description: 'Yokai Developer: Security network with crowdsourced audit and bug bounty platform.',
   discord: '874678777748279316',
-  investors: ['jtzx5o', '6nxw7d', 'bxcu1r', '7vs71r', 'o76txg'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/yokainetwork',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/yokai_network',
   url: 'http://www.yokai.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

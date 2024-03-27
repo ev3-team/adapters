@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/zenithereum',
   url: 'https://zenithereum.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Brastorne proves access to information, markets, and community through easy and affordable internet access in Africa.',
   discord: null,
-  investors: ['8n52xb', 'rwkoys', 'yont93', '7iz9rv'],
+  investors: ['yont93', '7iz9rv', 'fbtzpi'],
   linkedin: 'https://www.linkedin.com/company/brastorne/mycompany/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,9 @@ export default {
   twitter: 'https://twitter.com/Brastorne_',
   url: 'https://www.brastorne.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.brastorne.com/blogs/brastorne-connects-the-unconnected-in-drc',
+    'https://www.bwtechzone.com/2022/09/brastorne-enterprises-wins-250000.html',
+    'https://igrownews.com/2022-ayute-africa-challenge-announces-winners-thriveagric-digicow-and-brastorne-enterprises-to-receive-usd-1-5-million-in-grants-and-expert-support/',
+  ],
 } satisfies AdapterProject

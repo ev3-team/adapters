@@ -12,7 +12,7 @@ export default {
   description:
     'Chainstack is a leading blockchain infrastructure providing company. It allows uers to build, run and scale blockchain applications using Chainstack nodes.',
   discord: '847645538093629441',
-  investors: ['6lkaak', 'e3k6q3'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/chainstack/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ChainstackHQ',
   url: 'https://chainstack.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

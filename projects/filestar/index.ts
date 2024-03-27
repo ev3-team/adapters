@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/FileStarProject',
   url: 'https://filestar.net/en',
   verified: false,
+  fundraisesUrls: [
+    'https://www.nasdaq.com/articles/hashkey-capital-co-invests-%245m-in-decentralized-storage-project-filestar-2021-01-12',
+  ],
 } satisfies AdapterProject

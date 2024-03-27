@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://epics.dev/en/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

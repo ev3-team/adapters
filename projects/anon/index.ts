@@ -12,7 +12,7 @@ export default {
   description:
     'Anon enables developers to securely request and authenticate data from the most popular sites on the internet.',
   discord: null,
-  investors: ['cx2bjt'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/anonplatform',
   url: 'https://www.anon.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

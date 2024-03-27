@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/soulcycle',
   url: null,
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/zentachain',
   url: 'https://zentachain.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/ylide_',
   url: 'http://www.ylide.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

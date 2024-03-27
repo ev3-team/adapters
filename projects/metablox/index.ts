@@ -12,7 +12,7 @@ export default {
   description:
     'Metablox is a provider of enterprise-grade WiFi roaming solutions, delivering worldwide public access.',
   discord: '916937100744597548',
-  investors: [],
+  investors: ['zaf9xh', '4t27eh', 'xz1vnr', 'z22qa3', 'v7aaaw', 'wu15kr', 'xf57bt'],
   linkedin: 'https://www.linkedin.com/company/metablox/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/metablox',
   url: 'https://metablox.io/',
   verified: false,
+  fundraisesUrls: ['https://www.venturecapitaljournal.com/metablox-inks-seed-financing/'],
 } satisfies AdapterProject

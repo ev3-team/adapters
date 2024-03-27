@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/MASQ_ai',
   url: 'https://masq.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

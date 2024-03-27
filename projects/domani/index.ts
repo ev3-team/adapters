@@ -12,7 +12,7 @@ export default {
   description:
     'DOMANI is an asset management protocol for DeFi that provides minting, trading, redeeming, and liquidity for non-custodial oracle-less tokenized portfolios (XTFs).',
   discord: null,
-  investors: ['h25hqb', '20umuw', 'hqpm32', 'fc74pt', 'r0huce'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://domani.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/AIRO_MU',
   url: 'https://www.airo.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

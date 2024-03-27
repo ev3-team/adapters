@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/JurProject',
   url: 'https://jur.io/',
   verified: false,
+  fundraisesUrls: ['https://jur.io/blog/jur-market-report-0/'],
 } satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 'tcai80',
   description: 'The most comprehensive suite of tools for smart contract development',
   discord: null,
-  investors: ['p7lpx4'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/trufflesuite',
   url: 'https://trufflesuite.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

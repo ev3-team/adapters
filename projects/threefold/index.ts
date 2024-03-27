@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/threefold_io',
   url: 'https://threefold.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

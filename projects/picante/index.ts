@@ -12,7 +12,7 @@ export default {
   description:
     'PICANTE is a crypto portfolio and treasury management platform for Web3 companies, DAOs and investors.',
   discord: null,
-  investors: ['6gj1wa'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://picante.io/index.html',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

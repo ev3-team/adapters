@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/interlockweb3',
   url: 'https://www.interlock.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

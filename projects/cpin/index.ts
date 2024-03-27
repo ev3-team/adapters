@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/cpin4depin',
   url: 'https://www.cpin.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

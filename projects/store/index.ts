@@ -32,4 +32,5 @@ export default {
   twitter: null,
   url: 'https://storecloud.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://livemind.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

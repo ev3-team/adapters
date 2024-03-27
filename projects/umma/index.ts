@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/UmmaFinance',
   url: 'https://umma.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

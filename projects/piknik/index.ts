@@ -12,7 +12,7 @@ export default {
   description:
     'PiKNiK is a turnkey Web3 storage provider simplifying storage and facilitating Filecoin network access.',
   discord: null,
-  investors: ['3bni11'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/piknikus',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/PiKNiK_US',
   url: 'https://www.piknik.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

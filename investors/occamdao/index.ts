@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'ucdc3l',
   name: 'OccamDAO',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/_birdmoney',
   url: 'https://bird.money/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/Portalverse_Net',
   url: 'https://www.portalverse.net/',
   verified: false,
+  fundraisesUrls: [
+    'https://medium.com/@PORTALVERSE_NETWORK/decentralized-cloud-gaming-platform-portalverse-network-closes-multi-million-dollar-seed-funding-776b050399cb',
+  ],
 } satisfies AdapterProject

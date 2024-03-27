@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/labs_compass',
   url: 'https://www.compasslabs.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

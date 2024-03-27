@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/nori',
   url: 'https://nori.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

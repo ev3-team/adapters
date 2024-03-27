@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/SolChatCoin',
   url: 'https://www.solchat.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

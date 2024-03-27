@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/nextdatatec',
   url: 'https://www.nextdata.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20230928816800/en/Data-Mesh-Pioneer-Nextdata-Closes-12M-in-Seed-Funding-to-Unlock-the-AI-Revolution-by-Decentralizing-Data-at-Scale',
+  ],
 } satisfies AdapterProject

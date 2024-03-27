@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/KwilTeam',
   url: 'https://www.kwil.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

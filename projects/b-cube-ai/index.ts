@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Bcubeai',
   url: 'https://www.b-cube.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

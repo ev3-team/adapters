@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/tensorspace_ai',
   url: 'https://tensorspace.cloud/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

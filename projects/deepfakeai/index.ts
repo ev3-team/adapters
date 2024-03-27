@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/DeepFakeAI_',
   url: 'https://fakeai.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

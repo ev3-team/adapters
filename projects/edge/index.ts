@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/edgenetwork',
   url: 'https://edge.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

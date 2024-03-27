@@ -37,4 +37,7 @@ export default {
   twitter: 'https://twitter.com/switchboardxyz',
   url: 'https://switchboard.xyz/',
   verified: false,
+  fundraisesUrls: [
+    'https://switchboardxyz.medium.com/switchboard-raises-3-5mm-seed-and-announces-solana-mainnet-beta-5dc21eefece',
+  ],
 } satisfies AdapterProject

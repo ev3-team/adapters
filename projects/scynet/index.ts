@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ScynetAI',
   url: 'https://scynet.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

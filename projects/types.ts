@@ -68,4 +68,5 @@ export type AdapterProject = {
   twitter: string | null
   url: string | null
   verified: boolean
+  fundraisesUrls: string[]
 }

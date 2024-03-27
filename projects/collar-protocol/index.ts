@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.collarprotocol.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

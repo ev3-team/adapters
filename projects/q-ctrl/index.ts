@@ -12,18 +12,7 @@ export default {
   description:
     'Q-ctrl uniquely addresses the problem of hardware error and instability in quantum computing, entirely through software.',
   discord: null,
-  investors: [
-    'rz0q81',
-    '4bc5rd',
-    '5rzcio',
-    'stvmbz',
-    '3xr5rh',
-    '4vwk0l',
-    'vghgy8',
-    'ydmc3p',
-    'ilwy9t',
-    'd3ronc',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/q-ctrl/',
   duneQueries: null,
   foundingYear: null,
@@ -33,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/qctrlHQ',
   url: 'https://q-ctrl.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

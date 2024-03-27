@@ -11,7 +11,7 @@ export default {
   id: 'qc35tq',
   description: 'QRL: Post-quantum secure value store and decentralized communication.',
   discord: null,
-  investors: ['aj65x1'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/qrl/about/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/QRLedger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.theqrl.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

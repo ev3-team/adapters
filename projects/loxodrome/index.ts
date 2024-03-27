@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://loxodrome.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

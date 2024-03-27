@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/BistrooIO',
   url: 'https://www.bistroo.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

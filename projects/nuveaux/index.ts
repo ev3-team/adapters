@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://nuveauxtrading.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

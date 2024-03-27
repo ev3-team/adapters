@@ -12,7 +12,7 @@ export default {
   description:
     'Shadeform is building a one stop shop for cloud GPUs. Here‚Äôs a look at our upcoming roadmap and upcoming features!',
   discord: '1085330034614616134',
-  investors: ['bqmpxo', '551q4x', 'v5apl7', 'wdtkj1'],
+  investors: ['bqmpxo', '551q4x', 'v5apl7', 'rsenx1'],
   linkedin: 'http://www.linkedin.com/company/shadeformai',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.shadeform.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

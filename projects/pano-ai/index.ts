@@ -46,4 +46,8 @@ export default {
   twitter: 'https://twitter.com/Pano_AI',
   url: 'https://www.pano.ai/',
   verified: false,
+  fundraisesUrls: [
+    'https://techcrunch.com/2022/09/19/pano-ai/',
+    'https://techcrunch.com/2023/07/10/pano-series-a-extension/',
+  ],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/SoraAIToken',
   url: 'https://coinsora-ai.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://klever.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

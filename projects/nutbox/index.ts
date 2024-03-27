@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/NutboxDao',
   url: 'https://nutbox.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -34,6 +34,7 @@ export default {
     '06o6kd',
     'cgmkn8',
     'pu3yyr',
+    'apkkjz',
   ],
   linkedin: 'https://www.linkedin.com/showcase/ar-io/',
   duneQueries: null,
@@ -44,4 +45,8 @@ export default {
   twitter: 'https://twitter.com/ar_io_network',
   url: 'https://ar.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/business/2021/05/19/arweave-based-permanent-dropbox-raises-16m-seed-round/',
+    'https://www.coindesk.com/business/2022/03/03/ardrive-raises-17m-to-make-arweaves-data-storage-blockchain-more-usable/',
+  ],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xFacet',
   url: 'https://facetscan.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

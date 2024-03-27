@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://dynexcoin.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

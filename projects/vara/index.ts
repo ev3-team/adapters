@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://vara-network.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,7 @@ export default {
   twitter: null,
   url: 'https://ezwi.fi/',
   verified: false,
+  fundraisesUrls: [
+    'https://profit.pakistantoday.com.pk/2022/01/12/ezwifi-raises-six-figure-amount-in-pre-seed-funding-as-it-gears-up-internet-sharing-service/',
+  ],
 } satisfies AdapterProject

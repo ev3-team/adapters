@@ -12,7 +12,7 @@ export default {
   description:
     'Impossible Cloud is a decentralized, enterprise-grade cloud storage platform. It leverages a network of data centers to deliver low-cost object storage with a longer term goal to create a more comprehensive cloud offering.',
   discord: null,
-  investors: [],
+  investors: ['bspyld', 'fn2hky', 'ti312b', '00wro7', 'dra7iz'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: null,
   url: 'https://www.impossiblecloud.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://venturebeat.com/business/impossible-cloud-raises-7-6m-to-decentralize-cloud-services-with-Web3 Capital/',
+  ],
 } satisfies AdapterProject

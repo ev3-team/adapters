@@ -16,8 +16,11 @@ export default {
     'y7zqs7',
     'caojlf',
     'nxzb7m',
+    'vzqumt',
     'pwuofb',
     'ids90f',
+    'slezx6',
+    'xi1pkj',
     '7xtp3e',
     '640hn1',
     'o7xcsr',
@@ -33,4 +36,7 @@ export default {
   twitter: 'https://twitter.com/teaprojectorg',
   url: 'https://teaproject.org/',
   verified: false,
+  fundraisesUrls: [
+    'https://teaproject.medium.com/the-tea-project-secures-second-funding-round-to-build-Web3 Capital-decentralized-computing-a2f2e1ea6476',
+  ],
 } satisfies AdapterProject

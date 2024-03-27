@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://rad.live/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

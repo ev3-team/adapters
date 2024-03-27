@@ -22,4 +22,5 @@ export default {
   twitter: 'https://x.com/dephynetwork',
   url: 'https://dephy.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

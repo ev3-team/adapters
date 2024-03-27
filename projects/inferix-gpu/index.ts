@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/inferixgpu',
   url: 'https://inferix.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/nerf_erc20',
   url: 'https://www.nerfbot.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

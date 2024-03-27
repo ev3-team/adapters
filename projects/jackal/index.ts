@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/jackal_labs?lang=en',
   url: 'https://jackalprotocol.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'PureFi: DeFi AML protocol providing cryptoasset analytics and AML/KYC procedures to protect users from risks.',
   discord: null,
-  investors: ['870le2', 'ka4f30'],
+  investors: ['rrtsc3', 'ka4f30'],
   linkedin: 'http://www.linkedin.com/company/purefi',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Purefi_Protocol',
   url: 'https://purefi.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ruuvicom',
   url: 'https://ruuvi.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

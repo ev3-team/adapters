@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/atorprotocol',
   url: 'https://ator.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'DeepBrain Chain is a distributed network for AI & Metaverse use cases, offering high-performance computing capabilities.',
   discord: null,
-  investors: ['3wgvij', 'v81ftp', 'f5avgu', 'b2zac5', 'sveznn', '0hmeqs'],
+  investors: ['3wgvij', 'v81ftp'],
   linkedin: 'https://linkedin.com/company/deepbrain-chain',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/DeepBrainChain',
   url: 'https://deepbrainchain.org/index.html',
   verified: false,
+  fundraisesUrls: ['https://golden.com/wiki/DeepBrain_Chain-99B85DK'],
 } satisfies AdapterProject

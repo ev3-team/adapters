@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/revofico?lang=en',
   url: 'https://revofi.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,20 +12,7 @@ export default {
   description:
     'Friends With Benefits is a new kind of social network made up of creatives and builders who believe in the promise of a better internet.',
   discord: '749418486874243212',
-  investors: [
-    '26x5nn',
-    '73opsz',
-    'zaf9xh',
-    '0y8voh',
-    'x10a41',
-    'ybmlzh',
-    'stdr1v',
-    'gnhylz',
-    'gj9v6c',
-    '4e1ldf',
-    'v35xwk',
-    'ubuz3j',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/fwb-pro/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/fwbtweets',
   url: 'https://www.fwb.help/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

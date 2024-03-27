@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/woollyfarms',
   url: 'https://woolly.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://startupstorymedia.com/insights-bengaluru-based-woolly-farms-gets-an-investment-of-rs-4-39-cr-from-mumbai-angels-and-others/',
+  ],
 } satisfies AdapterProject

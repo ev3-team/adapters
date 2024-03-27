@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.adaptframework.solutions/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

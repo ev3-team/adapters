@@ -11,7 +11,7 @@ export default {
   id: '4xae6i',
   description: 'VulaCoin digitizes prepaid cash with stable coin for mobile wallets.',
   discord: null,
-  investors: ['jkryns', 'o26ujr', 'imxksv', 'qf6hti'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/vulacoin',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://about.vulacoin.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

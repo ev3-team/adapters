@@ -12,7 +12,7 @@ export default {
   description:
     'Sweat Economy is a blockchain-based movement-to-earn system that offers a novel solution by incentivizing physical activity with its cryptocurrency, $SWEAT,',
   discord: '945374789026070618',
-  investors: [],
+  investors: ['tk9d0b', 'z6cdtc', 'v81ftp', '4ssdn4', 'b6vnn8', '9e1gk4', 'pgoyl5', 'natuqc'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/sweatcoin',
   url: 'https://sweateconomy.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://decrypt.co/106142/step-counter-app-sweatcoin-raises-13m-fund-leap-Web3 Capital',
+  ],
 } satisfies AdapterProject

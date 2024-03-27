@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/caloriedance/status/1568101642754572288',
   url: 'https://caldance.gitbook.io/whitepaper/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ArcBlock_io?locale=en',
   url: 'https://www.arcblock.io/en',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

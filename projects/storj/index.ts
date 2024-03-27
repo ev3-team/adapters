@@ -12,7 +12,7 @@ export default {
   description:
     'Storj is a decentralized cloud storage platform using nodes to host user data in an open-source environment.',
   discord: null,
-  investors: [],
+  investors: ['5a1i7n', 'dc26g1', 'yont93', 'fdbarc', 'tqc1qx', 'a1uyxq'],
   linkedin: 'https://www.linkedin.com/company/storj/about/',
   duneQueries: {
     BURN: '3202771',
@@ -25,4 +25,8 @@ export default {
   twitter: 'https://twitter.com/storj',
   url: 'https://www.storj.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/markets/2014/08/22/cloud-storage-startup-storj-raises-910-btc-in-crowdsale/',
+    'https://www.coindesk.com/markets/2017/02/23/blockchain-startup-storj-targets-enterprise-cloud-with-3-million-raise/',
+  ],
 } satisfies AdapterProject

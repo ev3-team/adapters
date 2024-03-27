@@ -12,7 +12,7 @@ export default {
   description:
     'XX: Blockchain for quantum-resistant and private smartphone communication and value exchange.',
   discord: '491648371556220954',
-  investors: ['pqox07', 'd94gym', 'sjrb8d', 'laupoy', 'myxtw6', 'yasin4'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/xxteam',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/xx_network',
   url: 'https://xx.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

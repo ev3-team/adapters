@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/AegisAISecurity',
   url: 'https://aiaegis.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

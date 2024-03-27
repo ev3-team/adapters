@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/0Knowledge_net',
   url: 'https://0101010011.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

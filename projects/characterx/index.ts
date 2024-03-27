@@ -12,7 +12,17 @@ export default {
   description:
     'CharacterX is a decentralized synthetic social network that connects human beings & AI beings. It provides a social platform where users can create their own AI identities, and connect with others without the constraints of time and space.',
   discord: null,
-  investors: [],
+  investors: [
+    'cuzsxp',
+    'xml0tr',
+    'b5zlwp',
+    'c0nqis',
+    'muiz99',
+    'cnyjaq',
+    'rwhpsx',
+    'pyukl2',
+    'o5of0s',
+  ],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +32,5 @@ export default {
   twitter: 'https://twitter.com/CharacterXAI',
   url: 'https://characterx.ai/',
   verified: false,
+  fundraisesUrls: ['https://www.finsmes.com/2024/01/characterx-raises-2-8m-in-seed-funding.html'],
 } satisfies AdapterProject

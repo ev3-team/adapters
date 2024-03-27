@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://spacetoken.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

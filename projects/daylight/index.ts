@@ -11,7 +11,7 @@ export default {
   id: '3lfveq',
   description: 'Daylight is a community-powered energy grid.',
   discord: null,
-  investors: [],
+  investors: ['skjtm0', 'apd14v', 'q9qqsj', 'wkf49g', 'jtvliv'],
   linkedin: 'https://www.linkedin.com/company/go-daylight/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/go_daylight',
   url: 'https://godaylight.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20221117005401/en/Anode-Labs-Announces-Funding-To-Build-The-React-Network-The-First-Community-Owned-Web3 Capital-Green-Energy-Grid',
+  ],
 } satisfies AdapterProject

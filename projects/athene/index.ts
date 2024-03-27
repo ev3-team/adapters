@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Athene_Network',
   url: 'https://athene.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

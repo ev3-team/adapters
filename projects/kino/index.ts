@@ -11,7 +11,7 @@ export default {
   id: 'u1g1gw',
   description: 'KINO aims to make the film/tv industry more equitable for all.',
   discord: null,
-  investors: ['mk79mv', 'b2ybqs', 'fh8wrd', 'vf0qg4', 'ooq1d1'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/kinomakesmovies',
   url: 'https://www.kino.studio/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Brainstemhealth',
   url: 'https://brainstem.health/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

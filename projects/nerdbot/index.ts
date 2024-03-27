@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/onchaindatanerd?lang=en',
   url: 'https://www.thedatanerd.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

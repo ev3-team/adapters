@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'udcrbv',
   name: 'XDL',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

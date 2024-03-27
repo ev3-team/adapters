@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/filebase',
   url: 'https://filebase.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.datanami.com/this-just-in/filebase-raises-2m-led-by-multicoin-capital-to-unify-decentralized-storage-networks/',
+  ],
 } satisfies AdapterProject

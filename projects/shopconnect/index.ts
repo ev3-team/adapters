@@ -12,7 +12,7 @@ export default {
   description:
     'Our disruptive innovation reduces the dependence on travel and paper. To optimize costs and control the carbon footprint with a virtual shopping platform.',
   discord: null,
-  investors: ['pr1zjq'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/ethglobal/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ETHGlobal',
   url: 'https://www.shopconnect.live/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

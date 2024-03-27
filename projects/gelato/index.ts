@@ -42,4 +42,8 @@ export default {
     'https://twitter.com/gelatonetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://ops.gelato.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://finance.yahoo.com/news/gelato-network-raises-1-2-140117420.html',
+    'https://www.coindesk.com/business/2021/09/30/gelato-raises-11m-as-smart-contract-automation-market-heats-up/',
+  ],
 } satisfies AdapterProject

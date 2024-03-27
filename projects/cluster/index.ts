@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://twitter.com/ClusterProtocol',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

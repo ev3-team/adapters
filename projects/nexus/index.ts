@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://nexus.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

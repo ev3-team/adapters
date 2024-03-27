@@ -12,7 +12,7 @@ export default {
   description:
     'Petastic is a blockchain-based platform for Pet Parents, Service Providers, and Brand Companies.',
   discord: null,
-  investors: ['b2ybqs', 'lzpnns', 'j5aqjt', 'gduv1m'],
+  investors: ['b2ybqs', '7zvxz8', '4awgkj', 'lzpnns', 'j5aqjt', 'gduv1m'],
   linkedin: 'https://linkedin.com/company/petastic-inc',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.petastic.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/aionelab',
   url: 'https://ai.one/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

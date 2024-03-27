@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.zeal.app/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

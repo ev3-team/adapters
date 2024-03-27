@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/RaizFarms',
   url: 'https://www.raiz.farm/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

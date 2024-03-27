@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://galxe.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

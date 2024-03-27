@@ -13,14 +13,13 @@ export default {
     'Manta utilises zero-knowledge proofs (ZKPs) to guarantee the secure and private minting of NFTs and SBTs while maintaining the confidentiality of crypto assets.',
   discord: '795390654628102165',
   investors: [
-    'b8gebp',
     '7bn5bf',
     'hcx26d',
     'zloyr1',
     'go7fr1',
     'xmw0ev',
     'mrgeec',
-    'ezu6pa',
+    'o1unbe',
     'q4ztc2',
     'szfiug',
     'qp5s3g',
@@ -47,6 +46,7 @@ export default {
     '5o347p',
     'wu15kr',
     'pgoyl5',
+    'lb0lmf',
     'pvr738',
     'urug6u',
   ],
@@ -59,4 +59,9 @@ export default {
   twitter: 'https://twitter.com/mantanetwork',
   url: 'https://manta.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://cointelegraph.com/news/manta-aims-to-bring-a-private-decentralized-exchange-to-polkadot-with-1-1m-raise',
+    'https://cointelegraph.com/news/polkadot-based-privacy-project-manta-network-raises-5-5m',
+    'https://cointelegraph.com/news/manta-network-developer-raises-25m-in-series-a-launches-layer-2-for-zk-apps',
+  ],
 } satisfies AdapterProject

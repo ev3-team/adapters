@@ -12,17 +12,7 @@ export default {
   description:
     'An on-chain AI company that aims to bring AI on-chain with the world‚Äôs only ZKML prover',
   discord: null,
-  investors: [
-    'bspyld',
-    '7ygqh2',
-    'wvitwb',
-    '94d9pz',
-    'vydmt3',
-    'jshpe0',
-    'e7om6t',
-    'rnfx5j',
-    'ubuz3j',
-  ],
+  investors: ['bspyld', '7ygqh2', 'wvitwb', '94d9pz', 'vydmt3', 'jshpe0', 'e7om6t', 'rnfx5j'],
   linkedin: 'https://www.linkedin.com/company/moduluslabs/about/',
   duneQueries: null,
   foundingYear: null,
@@ -32,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/ModulusLabs',
   url: 'https://www.moduluslabs.xyz/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.theblock.co/post/260335/modulus-raises-6-3-million-to-bring-crypto-security-to-ai',
+  ],
 } satisfies AdapterProject

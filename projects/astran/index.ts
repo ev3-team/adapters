@@ -12,7 +12,7 @@ export default {
   description:
     'Astran: Cybersecurity startup with Omnicloud, a decentralized data storage solution.',
   discord: null,
-  investors: ['1btbzp', 'a7a5r8', 'wd3noh', '8554jm', 'qrb29i', 'qqdf15'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/astran-io',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/astran_',
   url: 'https://astran.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

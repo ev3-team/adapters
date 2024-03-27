@@ -12,7 +12,7 @@ export default {
   description:
     'Developer of a decentralized web platform intended to create a usable ecosystem of connected websites and applications using a domain naming system.',
   discord: null,
-  investors: ['ettzsx', 'hkoh0e', 'jkryns'],
+  investors: ['hkoh0e'],
   linkedin: 'https://www.linkedin.com/company/nexbloc/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/nexbloc',
   url: 'https://www.nexbloc.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.scoop.co.nz/stories/BU2205/S00212/nexbloc-accepted-into-the-filecoin-faber-accelerator-for-building-out-deep-tech-web-3-0-solutions.htm?from-mobile=bottom-link-01',
+  ],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/cloudmosio',
   url: 'https://cloudmos.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

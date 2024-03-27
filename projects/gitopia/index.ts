@@ -12,7 +12,7 @@ export default {
   description:
     'Gitopia is the next-generation Code Collaboration Platform for Web3 fuelled by a decentralized network and interactive token economy.',
   discord: '746365205277179907',
-  investors: ['m8rgyb', 'hhudw8', '94mx0d', 'uwmmpg', 'xgzede'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/gitopia/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/gitopiaDAO',
   url: 'https://gitopia.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

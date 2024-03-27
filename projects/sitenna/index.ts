@@ -12,7 +12,7 @@ export default {
   description:
     'Sitenna streamlines the process of site acquisition, portfolio management and collocation sales for telecom companies.',
   discord: null,
-  investors: [],
+  investors: ['ncxg2x', 'eofkvo', '1im0oz', '1r0cdr'],
   linkedin: 'http://www.linkedin.com/company/sitenna',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: null,
   url: 'https://sitenna.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.siliconrepublic.com/start-ups/sitenna-funding-telecoms-5g-us-atlanta-canada-expansion-limerick',
+  ],
 } satisfies AdapterProject

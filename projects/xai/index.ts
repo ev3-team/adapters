@@ -12,7 +12,7 @@ export default {
   description:
     'Xai is developed to enable real economies and open trade in the next generation of video games.\\',
   discord: '870683519230308372',
-  investors: ['zyxvem'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.xai.games/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

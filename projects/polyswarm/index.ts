@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/PolySwarm',
   url: 'https://polyswarm.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

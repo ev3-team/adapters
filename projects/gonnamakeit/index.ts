@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/GonnaMakeItNFTs',
   url: 'https://gonnamakeit.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

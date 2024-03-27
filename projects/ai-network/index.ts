@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ainetwork_ai',
   url: 'https://www.ainetwork.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

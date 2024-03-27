@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/dtaubyte',
   url: 'https://taubyte.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

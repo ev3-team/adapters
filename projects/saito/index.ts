@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/SaitoOfficial',
   url: 'https://saito.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

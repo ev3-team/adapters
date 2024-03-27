@@ -75,4 +75,7 @@ export default {
   twitter: 'https://twitter.com/altstatemachine',
   url: 'https://www.alteredstatemachine.xyz/',
   verified: false,
+  fundraisesUrls: [
+    'https://medium.com/@alteredstatemachine/altered-state-machine-welcomes-new-crypto-technology-entertainment-and-investment-partners-in-b09344b5d3d8',
+  ],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/GridcoinNetwork',
   url: 'https://gridcoin.us/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

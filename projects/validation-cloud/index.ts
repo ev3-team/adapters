@@ -12,7 +12,7 @@ export default {
   description:
     'Validation Cloud is a Web3 infrastructure platform that delivers elite, high-performance node and staking infrastructure.',
   discord: null,
-  investors: ['nk4njt', '6bvve4'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/validationcloud',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/ValidationCloud',
   url: 'https://www.validationcloud.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

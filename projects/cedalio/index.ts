@@ -11,7 +11,7 @@ export default {
   id: 'w0adea',
   description: 'Cedalio: Auditable apps with real data ownership and GraphQL databases.',
   discord: '989948949823651862',
-  investors: ['8krsge', 'eofkvo', 'g0e1qt', 'wdtkj1'],
+  investors: ['8krsge', 'eofkvo', 'g0e1qt', '1r0cdr'],
   linkedin: 'http://www.linkedin.com/company/cedalio',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/CedalioTech',
   url: 'https://cedalio.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

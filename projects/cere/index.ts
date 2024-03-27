@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/cereofficial',
   url: 'https://cere.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

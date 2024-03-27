@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/SerenityShield_',
   url: 'https://www.serenityshield.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

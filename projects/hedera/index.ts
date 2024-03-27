@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/hedera',
   url: 'https://hedera.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

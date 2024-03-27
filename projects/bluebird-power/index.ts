@@ -11,7 +11,7 @@ export default {
   id: 'h56lyg',
   description: 'Bluebird Power: Decentralized energy management platform.',
   discord: null,
-  investors: ['ot98pp'],
+  investors: ['8fyych'],
   linkedin: 'http://www.linkedin.com/company/bluebird-power',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'http://www.bluebirdpower.com/',
   verified: false,
+  fundraisesUrls: ['https://siliconcanals.com/crowdfunding/bluebird-power-raises-350k/'],
 } satisfies AdapterProject

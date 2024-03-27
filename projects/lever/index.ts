@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.lever.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

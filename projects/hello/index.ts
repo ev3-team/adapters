@@ -12,7 +12,7 @@ export default {
   description:
     "Hello is the world's first user-controlled, open-source, encrypted, geo-redundant decentralized storage software/ infrastructure.",
   discord: null,
-  investors: ['ogm8ug', '6q3rb7', '4vwd01'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/hellostorage/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/joinhelloapp',
   url: 'https://hello.app/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

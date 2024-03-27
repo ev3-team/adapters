@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/mlfoundry',
   url: 'https://www.mlfoundry.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

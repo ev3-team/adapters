@@ -36,4 +36,7 @@ export default {
     'https://twitter.com/PhalaNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://phala.network/',
   verified: false,
+  fundraisesUrls: [
+    'https://medium.com/phala-network/phala-network-value-tops-10-million-on-new-fundraising-31a8c25f9bb9',
+  ],
 } satisfies AdapterProject

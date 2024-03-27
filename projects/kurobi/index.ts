@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/kurobi_io',
   url: 'https://kurobi.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

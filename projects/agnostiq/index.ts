@@ -12,20 +12,7 @@ export default {
   description:
     'Agnostiq develops Covalent, an open-source workflow platform for quantum computing and HPC.',
   discord: null,
-  investors: [
-    '3l4dh0',
-    'ymiffp',
-    '94mx0d',
-    '6erxyq',
-    'lod09d',
-    'ambkkn',
-    'nj1mri',
-    'wpxgx7',
-    'r8l1ds',
-    'i4yuim',
-    'dwir0a',
-    'zhen2r',
-  ],
+  investors: ['ymiffp', '94mx0d', 'ambkkn', 'nj1mri', 'wpxgx7', 'r8l1ds', 'dwir0a', 'zhen2r'],
   linkedin: 'https://www.linkedin.com/company/agnostiq/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,8 @@ export default {
   twitter: 'https://twitter.com/agnostiqHQ',
   url: 'https://agnostiq.ai/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.hpcwire.com/off-the-wire/agnostiq-secures-2m-seed-round-to-further-develop-saas-based-quantum-solutions/',
+    'https://siliconangle.com/2023/04/05/startup-agnostiq-raises-6-1m-integrate-quantum-computing-hpc/',
+  ],
 } satisfies AdapterProject

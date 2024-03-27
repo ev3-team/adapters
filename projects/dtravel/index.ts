@@ -14,6 +14,7 @@ export default {
   discord: '894038050999517184',
   investors: [
     'xmw0ev',
+    'buo8ql',
     '772xwk',
     'i98114',
     'qxuz9y',
@@ -29,6 +30,7 @@ export default {
     'w19rhh',
     'hazkhs',
     'lhs5s8',
+    'vuz4in',
     'u2j4by',
   ],
   linkedin: 'https://www.linkedin.com/company/dtraveldao/',
@@ -40,4 +42,8 @@ export default {
   twitter: 'https://twitter.com/DtravelDAO',
   url: 'https://www.dtravel.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.travolution.com/news/travel-sectors/accommodation/travala-com-raises-5m-to-launch-home-sharing-blockchain-platform-dtravel/',
+    'https://ca.finance.yahoo.com/news/dtravel-receives-backing-borderless-capital-202000677.html',
+  ],
 } satisfies AdapterProject

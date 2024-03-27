@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: '870le2',
   name: 'Infinity Crypto',
-  investedProjectsCount: 6,
+  investedProjectsCount: 0,
 } satisfies AdapterInvestor

@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/uPlexaCoin',
   url: 'https://uplexa.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

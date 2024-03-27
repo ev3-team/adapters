@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/omegalabsai',
   url: 'https://anytoany.omegatron.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

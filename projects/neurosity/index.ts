@@ -12,7 +12,7 @@ export default {
   description:
     'Neurosity is a developer of neural devices and applications that translate human brain thoughts into actionable output.',
   discord: '635812828481323028',
-  investors: ['b55yh4', '94mx0d', 'g3q5mo', '3vy365', 'hq8rgo', 'kcl4ay'],
+  investors: ['94mx0d', '9btyj8', 'g3q5mo', 'jn43xi', '3vy365', 'hq8rgo', 'kcl4ay'],
   linkedin: 'https://www.linkedin.com/company/neurosity',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/neurosity',
   url: 'https://neurosity.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/ProximaXGang',
   url: 'https://www.proximax.ltd/en/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.globenewswire.com/en/news-release/2018/06/04/1516295/0/en/NEM-Based-Decentralized-Application-Platform-ProximaX-Lists-on-Kryptono-Exchange.html',
+  ],
 } satisfies AdapterProject

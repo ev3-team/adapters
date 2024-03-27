@@ -11,7 +11,7 @@ export default {
   id: 'd869lq',
   description: 'Impermax: Cross-chain lending protocol offers yield for lenders and borrowers.',
   discord: '782387768411815947',
-  investors: ['8nclhv', 'wxcf8r', 'okjrd0', 'ka4f30', '7xqu4s'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/impermax-finance',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/ImpermaxFinance',
   url: 'http://www.impermax.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

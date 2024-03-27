@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/ethswarm',
   url: 'https://www.ethswarm.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

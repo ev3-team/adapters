@@ -21,4 +21,5 @@ export default {
   twitter: 'https://mobile.twitter.com/dropwireless',
   url: 'https://dropwireless.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

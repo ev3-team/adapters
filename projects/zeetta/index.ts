@@ -12,18 +12,7 @@ export default {
   description:
     'Zeetta is a network virtualization company specializing in SDN solutions for enterprise and carrier networks.',
   discord: null,
-  investors: [
-    'e59pqh',
-    'v28p9a',
-    '8em4a3',
-    'phnmc1',
-    '0pcodk',
-    'gkjom1',
-    'ot6qbe',
-    '1dngmz',
-    'kxmrz5',
-    'gmweh7',
-  ],
+  investors: ['e59pqh', 'v28p9a', '8em4a3', '0pcodk', 'gkjom1', '8ulqrg', 'kxmrz5', 'gmweh7'],
   linkedin: 'https://uk.linkedin.com/company/zeetta',
   duneQueries: null,
   foundingYear: null,
@@ -33,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/zeettas?lang=en',
   url: 'https://zeetta.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://techspark.co/blog/2017/08/08/zeetta-networks-raises-1-6m-latest-funding-round/',
+  ],
 } satisfies AdapterProject

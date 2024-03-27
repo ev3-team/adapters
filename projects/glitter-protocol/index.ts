@@ -12,20 +12,7 @@ export default {
   description:
     'A blockchain-based data platform to help applications store, manage and elevate data in Web3 way.',
   discord: null,
-  investors: [
-    'z5oj4n',
-    '2ckrz9',
-    '8ygsak',
-    'us9d7q',
-    'n7xol2',
-    'rgk0ot',
-    'v3sg2g',
-    'vjpj24',
-    'zj4ect',
-    'ti312b',
-    'pcw959',
-    'urug6u',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/glitterprotocol/about/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/GlitterProtocol',
   url: 'https://glitterprotocol.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://aiis.dev/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',
   discord: null,
-  investors: ['9jairy'],
+  investors: ['xcxzqk', '9jairy'],
   linkedin: 'http://www.linkedin.com/company/digital-gaia',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/_digitalgaia',
   url: 'https://www.digitalgaia.earth/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

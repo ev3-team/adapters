@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://sona.stream/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

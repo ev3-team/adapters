@@ -43,4 +43,5 @@ export default {
   twitter: 'https://twitter.com/Kiltprotocol',
   url: 'https://www.kilt.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

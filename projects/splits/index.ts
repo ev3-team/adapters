@@ -12,7 +12,7 @@ export default {
   description:
     '0xSplits is a set of composable, open-source(opens in a new tab), and audited(opens in a new tab) smart contracts that make it easy to split onchain payments.',
   discord: null,
-  investors: ['wjmt17', 's2rvpp', '0jtsyn'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/0xsplits/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xsplits',
   url: 'http://www.0xsplits.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

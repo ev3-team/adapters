@@ -12,20 +12,7 @@ export default {
   description:
     'Ruff is a blockchain-based architecture combining IoT with a public chain and distributed operating system.',
   discord: null,
-  investors: [
-    'qmoomu',
-    'chcjy9',
-    's9xpzx',
-    'gun7y3',
-    '3av5f4',
-    'ymnjdr',
-    'zyybpp',
-    '9205ui',
-    '07pxi6',
-    '7mo8zq',
-    'm1jl0k',
-    'yaxu8c',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/ruffllc/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: null,
   url: 'http://ruffchain.com',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

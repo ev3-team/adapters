@@ -12,7 +12,7 @@ export default {
   description:
     'Lyzis Labs is an incentive-driven and democratic protocol built upon a decentralized online marketplace based on blockchain technology.',
   discord: '984133538427338772',
-  investors: ['e0m9me'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/lyzis-labs/about/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/lyzislabs',
   url: 'https://www.lyzis.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

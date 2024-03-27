@@ -12,7 +12,7 @@ export default {
   description:
     'MintyCode is a decentralized IP marketplace that offers new monetization opportunities and protects the copyright of software developers who contribute to open source.',
   discord: null,
-  investors: ['a1uyxq'],
+  investors: [],
   linkedin: 'https://linkedin.com/company/mintycode-dao',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/MintyCodeDao',
   url: 'https://mintycode.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

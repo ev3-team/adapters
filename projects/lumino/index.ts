@@ -11,7 +11,7 @@ export default {
   id: '3ttk4l',
   description: 'Decentralized GPU network built on Filecoin',
   discord: null,
-  investors: [],
+  investors: ['7zvxz8', 'tm95um'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.luminolabs.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

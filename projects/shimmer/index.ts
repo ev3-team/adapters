@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://shimmer.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

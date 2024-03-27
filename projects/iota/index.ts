@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/iota',
   url: 'https://www.iota.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

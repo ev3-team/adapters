@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/EcoBytes1',
   url: 'https://3cobytes.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

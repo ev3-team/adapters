@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://nvg8.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

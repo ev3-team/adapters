@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://worldcoin.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

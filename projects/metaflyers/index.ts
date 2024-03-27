@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/metaflyers',
   url: 'https://www.metaflyers.xyz',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

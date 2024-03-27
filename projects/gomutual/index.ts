@@ -12,7 +12,7 @@ export default {
   description:
     'GoMutual is a blockchain-based decentralized mutuality protocol offering a non-insurance alternative to traditional auto insurance.',
   discord: null,
-  investors: ['llr54t', '8c0fcu', 'b1v4kt', 'b51i7e', 'evheqm', '7vs00o', 'ffz00y'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/gomutual2022/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/go_mutual',
   url: 'https://www.gomutual.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

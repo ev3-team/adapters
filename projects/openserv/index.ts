@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/openservai',
   url: 'https://openserv.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

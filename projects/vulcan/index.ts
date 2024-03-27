@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/VulcanForged',
   url: 'https://vulcanforged.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

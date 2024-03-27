@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/PolymathicAI',
   url: 'https://polymathic-ai.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

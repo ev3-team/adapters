@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/avax',
   url: 'https://www.avax.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 'admvie',
   description: 'Sonr is an L1 blockchain for self-custody decentralized identity.',
   discord: '843061375160156170',
-  investors: ['m9zsej', 'vjpj24', '09s6ji', 'lhs5s8', 'xf57bt', 'lzpnns', '20h0o8'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/sonr-io',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://sonr.io/twitter',
   url: 'https://sonr.io/home',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

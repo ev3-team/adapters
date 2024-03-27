@@ -12,7 +12,7 @@ export default {
   description:
     'Phantasma is a scalable layer 1 smart contract blockchain designed for Gaming, Smart NFTs, and dApp integration.',
   discord: '404769727634997261',
-  investors: ['e7zfe7', 'bv2lun', '44u6gg'],
+  investors: [],
   linkedin: 'https://linkedin.com/company/phantasmachain',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/PhantasmaChain',
   url: 'https://phantasma.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

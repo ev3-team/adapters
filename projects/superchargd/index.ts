@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Mapzlive',
   url: 'https://www.superchargd.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

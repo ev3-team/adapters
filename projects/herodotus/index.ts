@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/herodotusdev',
   url: 'https://herodotus.dev/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

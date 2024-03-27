@@ -14,8 +14,7 @@ export default {
   discord: null,
   investors: [
     '47vy1z',
-    'dczq0j',
-    'ltitbn',
+    'abvcou',
     'ksmmyi',
     'cnjnvc',
     'cd6uvj',
@@ -38,4 +37,7 @@ export default {
   twitter: 'https://twitter.com/mynaswap',
   url: 'https://www.myna.co/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.theblock.co/post/175248/nfl-superstars-back-coolkicks-founders-6-million-raise-for-collectible-trading-platform',
+  ],
 } satisfies AdapterProject

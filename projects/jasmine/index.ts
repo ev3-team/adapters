@@ -22,7 +22,6 @@ export default {
     '6otq8c',
     'q0cuxs',
     '1f9kgy',
-    'wdtkj1',
   ],
   linkedin: 'https://www.linkedin.com/company/jasmine-energy',
   duneQueries: null,
@@ -33,4 +32,5 @@ export default {
   twitter: 'https://twitter.com/Jasmine_Energy',
   url: 'https://www.jasmine.energy/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

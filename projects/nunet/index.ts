@@ -32,4 +32,7 @@ export default {
   twitter: 'https://twitter.com/nunet_global',
   url: 'https://www.nunet.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://ibsintelligence.com/ibsi-news/singularitydao-debut-project-on-launchpad-nunet-closes-2m-usd-sale-in-90-seconds/',
+  ],
 } satisfies AdapterProject

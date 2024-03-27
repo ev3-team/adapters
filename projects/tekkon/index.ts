@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/TEKKON_official',
   url: 'https://tekkon.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

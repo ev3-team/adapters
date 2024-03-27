@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://sunscreen.tech/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

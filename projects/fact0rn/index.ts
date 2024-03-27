@@ -23,4 +23,5 @@ export default {
     'https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FFACT0RN&sa=D&sntz=1&usg=AOvVaw0BdRfY4zqQMy3pneZ3jbaI',
   url: 'https://www.fact0rn.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

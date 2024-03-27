@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/NotusLabs',
   url: 'https://notuslabs.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/oceanprotocol',
   url: 'https://oceanprotocol.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

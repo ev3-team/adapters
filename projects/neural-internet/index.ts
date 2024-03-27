@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/neural_internet',
   url: 'https://neuralinternet.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

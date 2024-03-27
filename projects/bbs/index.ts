@@ -12,7 +12,7 @@ export default {
   description:
     'BBS Network is a blockchain network of Bulletin Board Systems where users can create forums to post, comment, and share ideas while generating revenue from their content.',
   discord: null,
-  investors: ['5drrpf', 'mrgeec', 'ia20oh', 'v2rrnz', '2vjau8', 'tqh3bl', 'bcfknm'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/bbsnet/?trk=similar-pages',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/BBSnetworkIO',
   url: 'https://www.bbsnetwork.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

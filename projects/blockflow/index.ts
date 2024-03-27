@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/flow_block',
   url: 'https://blockflow.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/aiwayfinder',
   url: 'https://www.wayfinder.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,18 +12,7 @@ export default {
   description:
     'Quant is a blockchain project aiming to improve global information communication efficiency.',
   discord: null,
-  investors: [
-    '7jssah',
-    'c0fb4z',
-    'buime9',
-    'bxcu1r',
-    '35e9e6',
-    'ka4f30',
-    'xrz24d',
-    'oxft8q',
-    's2idi6',
-    'lmuq6h',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/quantnetwork/',
   duneQueries: null,
   foundingYear: null,
@@ -33,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/quant_network',
   url: 'https://quant.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

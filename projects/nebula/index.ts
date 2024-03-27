@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/NebulasCloud',
   url: 'https://nebulacloudnetwork.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

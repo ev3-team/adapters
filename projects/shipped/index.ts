@@ -22,4 +22,5 @@ export default {
   twitter: 'https://www.twitter.com/shippedcom',
   url: 'https://shipped.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/shuttlelab',
   url: 'https://shuttlelabs.co/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 's1f9ke',
   description: 'Millicent Labs upgrades financial systems with distributed ledger technology.',
   discord: null,
-  investors: ['94mx0d'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/millicentlabs/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/MillicentLabs',
   url: 'https://www.millicent.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

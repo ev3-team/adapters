@@ -22,4 +22,8 @@ export default {
   twitter: 'https://twitter.com/ScopeProtocol',
   url: 'https://www.0xscope.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://cointelegraph.com/press-releases/0xscope-raises-3m-seed-round-to-build-a-new-Web3 Capital-data-layer',
+    'https://cointelegraph.com/press-releases/0xscope-v2-launches-with-Web3 Capital-ai-data-layer-focus-5m-new-funding-round',
+  ],
 } satisfies AdapterProject

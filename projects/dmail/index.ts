@@ -48,4 +48,5 @@ export default {
   twitter: 'https://twitter.com/dmailofficial',
   url: 'https://dmail.ai/',
   verified: false,
+  fundraisesUrls: ['https://blog.dmail.ai/new-milestone-dmail-closes-pre-a-funding-round/'],
 } satisfies AdapterProject

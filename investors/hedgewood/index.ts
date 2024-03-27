@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'vfc1ky',
   name: 'Hedgewood',
-  investedProjectsCount: 1,
+  investedProjectsCount: 0,
 } satisfies AdapterInvestor

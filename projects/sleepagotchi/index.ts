@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/sleepagotchi',
   url: 'https://www.sleepagotchi.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

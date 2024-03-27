@@ -12,7 +12,7 @@ export default {
   description:
     'Seed Labs is a collectively owned, community-first, open early stage venture capital.',
   discord: null,
-  investors: ['qrf4l1'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/in/seed-lab-my-9246951a8/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: null,
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

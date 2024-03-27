@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/MeMusicNews',
   url: 'https://www.memusic.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

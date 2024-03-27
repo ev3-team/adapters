@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.olavm.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

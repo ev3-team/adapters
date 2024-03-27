@@ -12,7 +12,7 @@ export default {
   description:
     "Massa is a new blockchain based on a multithreaded technology that supports more than 10'000 transactions per second in a fully decentralized network with thousands of nodes.",
   discord: '828270821042159636',
-  investors: ['ibk8eu', '14mgz0', 'jo973z', 'nzxtym'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/massa-labs/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/massalabs',
   url: 'https://massa.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

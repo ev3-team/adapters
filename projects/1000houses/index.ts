@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/#!/Mitch_Stephen',
   url: 'https://www.1kh.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

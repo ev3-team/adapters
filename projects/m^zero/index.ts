@@ -12,17 +12,7 @@ export default {
   description:
     'M^ZERO Labs aims to develop a decentralized network enabling institutional participants to reliably link assets to a decentralized infrastructure.',
   discord: null,
-  investors: [
-    'y8my2p',
-    'wux3o5',
-    '5175b7',
-    'aeti3d',
-    'ozeg73',
-    '6f2cxt',
-    'oygqys',
-    'aq52wc',
-    'v35xwk',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/m-zero-labs/?originalSubdomain=de',
   duneQueries: null,
   foundingYear: null,
@@ -32,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.m0.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

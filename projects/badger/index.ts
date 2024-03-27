@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://legacy.badger.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

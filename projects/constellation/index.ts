@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/Conste11ation',
   url: 'https://constellationnetwork.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

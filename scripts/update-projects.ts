@@ -14,15 +14,16 @@ import {
   AdapterProjectChain,
   AdapterProjectDuneQueryIdentifiers,
 } from '../projects/types'
+import { FundRaiseRow } from './types'
 
 /** Loop over the projects investors csv to get investors for each project. */
-export function getProjectsInvestors(): Promise<Map<string, string[]>> {
+function getProjectsInvestors(): Promise<Map<string, string[]>> {
   let index = 0
   let projectsIds: string[] = []
   const projectsInvestors = new Map<string, string[]>()
 
   return new Promise((resolve) => {
-    createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors.csv'))
+    createReadStream(path.resolve(__dirname, 'data/DePIN-Projects-Investors-Generated.csv'))
       .pipe(csv.parse())
       .on('error', (error) => console.error(error))
       .on('data', async (row: string[]) => {
@@ -52,10 +53,26 @@ export function getProjectsInvestors(): Promise<Map<string, string[]>> {
   })
 }
 
+function getProjectsFundraises(): Promise<Map<string, string[]>> {
+  const projectsFundraises = new Map<string, string[]>()
+  return new Promise((resolve) => {
+    createReadStream(path.resolve(__dirname, 'data/DePIN-Fundraises.csv'))
+      .pipe(csv.parse({ headers: true }))
+      .on('error', (error) => console.error(error))
+      .on('data', async (row: FundRaiseRow) => {
+        if (!row.sourceEuropeanUnionRL) return
+        const projectFundraises = projectsFundraises.get(row.projectId)
+        const updatedInvestments = projectFundraises
+          ? [...projectFundraises, row.sourceEuropeanUnionRL]
+          : [row.sourceEuropeanUnionRL]
+        projectsFundraises.set(row.projectId, Array.from(new Set(updatedInvestments)))
+      })
+      .on('end', () => resolve(projectsFundraises))
+  })
+}
+
 /** Loop over the projects dune csv to get dune queries ids for each project. */
-export function getProjectsDuneQueries(): Promise<
-  Map<string, AdapterProjectDuneQueryIdentifiers | null>
-> {
+function getProjectsDuneQueries(): Promise<Map<string, AdapterProjectDuneQueryIdentifiers | null>> {
   const projectsDuneQueries = new Map<string, AdapterProjectDuneQueryIdentifiers | null>()
 
   return new Promise((resolve) => {
@@ -85,6 +102,7 @@ async function run() {
   let parsedProjects: AdapterProject[] = []
   const projectsInvestors = await getProjectsInvestors()
   const projectsDuneQueries = await getProjectsDuneQueries()
+  const projectsFundraises = await getProjectsFundraises()
 
   createReadStream(path.resolve(__dirname, 'data/DePIN-Projects.csv'))
     .pipe(csv.parse({ headers: true }))
@@ -122,6 +140,7 @@ async function run() {
         twitter: !!row.twitter ? row.twitter : null,
         url: !!row.url ? row.url : null,
         verified: Boolean(row.verified),
+        fundraisesUrls: projectsFundraises.get(projectId) ?? ([] as string[]),
       })
     })
     .on('end', async () => {

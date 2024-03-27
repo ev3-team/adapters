@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://banksea.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

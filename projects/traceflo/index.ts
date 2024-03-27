@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/traceflolabs',
   url: 'https://www.traceflo.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/SpaceIDProtocol',
   url: 'http://www.space.id/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

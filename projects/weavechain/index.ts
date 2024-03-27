@@ -12,7 +12,7 @@ export default {
   description:
     'Weavechain is a secure data exchange layer that unlocks Web3 immutability and data lineage.',
   discord: '943094754802036767',
-  investors: ['idlbd7', 'uoqi1k', '1vwual', 'zxs7x9'],
+  investors: ['idlbd7', 'l1kfuu', 'uoqi1k', '1vwual', 'zxs7x9'],
   linkedin: 'https://www.linkedin.com/company/weavechain',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/weavechainweb3?lang=en',
   url: 'https://www.weavechain.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

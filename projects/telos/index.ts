@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/HelloTelos',
   url: 'https://www.telos.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

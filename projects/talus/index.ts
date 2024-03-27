@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/TalusNetwork',
   url: null,
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

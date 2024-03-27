@@ -12,20 +12,7 @@ export default {
   description:
     'Provider of cross-chain decentralized finance services intended to serve the iGaming industry.',
   discord: null,
-  investors: [
-    'o5kpgb',
-    'xmw0ev',
-    '8a2od5',
-    '798xl8',
-    'xeklhm',
-    'rh0j4p',
-    '4cvh3k',
-    'eg5xoc',
-    'wpvtch',
-    'nwl5v7',
-    'p5t7hp',
-    '0nsbs7',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/officialroyale/about/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Royale_Finance',
   url: 'https://www.royale.finance/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/aetherospace',
   url: 'https://www.aethero.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

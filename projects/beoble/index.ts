@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.beoble.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

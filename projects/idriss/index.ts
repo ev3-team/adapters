@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/IDriss_xyz',
   url: 'https://www.idriss.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

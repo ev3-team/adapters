@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/verisoulxyz',
   url: 'https://www.verisoul.ai/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.verisoul.ai/press-releases/verisoul-raises-3m-to-help-businesses-conquer-fake-users',
+  ],
 } satisfies AdapterProject

@@ -47,4 +47,5 @@ export default {
   twitter: 'https://twitter.com/eywaprotocol',
   url: 'https://eywa.fi/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

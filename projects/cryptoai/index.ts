@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/cryptoai_erc',
   url: 'https://crypto-ai.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/DxChainNetwork',
   url: 'https://www.dxchain.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

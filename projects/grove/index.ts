@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.grove.city/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

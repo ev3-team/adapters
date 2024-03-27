@@ -36,4 +36,7 @@ export default {
   twitter: 'https://twitter.com/EthStorage',
   url: 'https://eth-store.w3eth.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.cryptotimes.io/ethereum-layer-2-rollup-ethstorage-raised-7m-in-seed-round/',
+  ],
 } satisfies AdapterProject

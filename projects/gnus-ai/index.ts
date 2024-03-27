@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/gnusai',
   url: 'https://www.gnus.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

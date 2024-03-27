@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/mevfree',
   url: 'https://mevfree.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

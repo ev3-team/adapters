@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/LMStudioAI',
   url: 'https://lmstudio.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

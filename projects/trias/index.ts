@@ -12,7 +12,7 @@ export default {
   description:
     'Trias is a cloud infrastructure solution with a native-application-compatible platform and token ecosystem.',
   discord: '871671996046512148',
-  investors: ['772xwk', '9p60sa', '07pxi6', 'pyukl2'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/trias-lab',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/triaslab',
   url: 'https://www.trias.one/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

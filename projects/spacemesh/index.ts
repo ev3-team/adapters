@@ -53,4 +53,7 @@ export default {
   twitter: 'https://twitter.com/teamspacemesh',
   url: 'https://spacemesh.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/markets/2018/09/05/polychain-leads-blockmesh-developer-spacemeshs-15-million-fundraise/',
+  ],
 } satisfies AdapterProject

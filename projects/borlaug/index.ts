@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/borlaug_ws',
   url: 'https://www.borlaug.ws/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

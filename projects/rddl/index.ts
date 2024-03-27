@@ -21,4 +21,5 @@ export default {
   twitter: 'http://twitter.com/RDDLNetwork',
   url: 'https://www.rddl.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

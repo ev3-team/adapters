@@ -13,7 +13,7 @@ export default {
     'Proof of Play is a game studio and blockchain technology company that makes decentralized games and gaming infrastructure.',
   discord: '933037216811319327',
   investors: [
-    '26x5nn',
+    'd40or5',
     '896jil',
     'ub70vu',
     'aeoxcb',
@@ -33,4 +33,7 @@ export default {
   twitter: 'https://twitter.com/ProofOfPlay/',
   url: 'https://www.proofofplay.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://venturebeat.com/games/proof-of-play-raises-33m-for-Web3 Capital-rpg-adds-ex-twitch-ceo-to-board-emmett-shear/',
+  ],
 } satisfies AdapterProject

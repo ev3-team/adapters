@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/thedataos',
   url: 'https://www.dataos.so/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

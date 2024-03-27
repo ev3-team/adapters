@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/NodeAIETH',
   url: 'https://nodes.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

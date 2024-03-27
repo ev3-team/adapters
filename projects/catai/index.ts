@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/cataiapp',
   url: 'https://catai.app/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

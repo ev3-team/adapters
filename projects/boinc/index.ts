@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/BOINCAI',
   url: 'https://www.boincai.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 'hs6fc5',
   description: 'Antic: Decentralized co-ownership integration for businesses.',
   discord: null,
-  investors: ['2mccdz', 'zfetjw', 'ozeg73', '3coq1f', '80hqah', 'lb80u5', '3mv99i', 'z8j32q'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/anticxyz',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/Getantic',
   url: 'https://www.antic.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

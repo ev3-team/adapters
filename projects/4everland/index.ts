@@ -12,7 +12,23 @@ export default {
   description:
     '4everland is a decentralized cloud provider integrating storage, computing, and networking resources.',
   discord: '852482727164117022',
-  investors: [],
+  investors: [
+    'hhudw8',
+    'ympohv',
+    'gun7y3',
+    'sgvqqt',
+    'lfbmt3',
+    'mywjsu',
+    '7hwz6f',
+    'ldgrye',
+    'e0v4rn',
+    'po1oia',
+    '8agdnp',
+    'ti312b',
+    '7ku2jz',
+    'o7xcsr',
+    'pvr738',
+  ],
   linkedin: 'https://au.linkedin.com/company/4everlandorg',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +38,8 @@ export default {
   twitter: 'https://twitter.com/4everland_org/status/1658444206254469126',
   url: 'https://www.4everland.org/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coinlive.com/news-flash/405451',
+    'https://medium.com/4everland/4everland-has-raised-1-5-million-dollars-in-a-seed-round-435648b411ef',
+  ],
 } satisfies AdapterProject

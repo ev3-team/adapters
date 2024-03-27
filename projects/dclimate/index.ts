@@ -39,4 +39,7 @@ export default {
   twitter: 'https://twitter.com/dClimateDAO',
   url: 'https://www.dclimate.net/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.prnewswire.com/news-releases/dclimate-raises-3-5-million-seed-round-with-support-from-coinfund-multicoin-capital-and-republic-labs-to-create-the-first-decentralized-network-for-climate-data-301263646.html',
+  ],
 } satisfies AdapterProject

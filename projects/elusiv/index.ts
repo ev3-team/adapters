@@ -12,20 +12,7 @@ export default {
   description:
     'Elusiv is building a Web3 universal encryption layer empowering the decentralized world.',
   discord: '963285822327652403',
-  investors: [
-    'fahk60',
-    '4l8mmr',
-    'bxcu1r',
-    '4ssdn4',
-    'po8xe3',
-    'qyzsbd',
-    'fexzjx',
-    'n73vnt',
-    '07pxi6',
-    'jg2vfb',
-    'gmkv01',
-    'p3lgat',
-  ],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/elusiv/',
   duneQueries: null,
   foundingYear: null,
@@ -35,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/elusivprivacy',
   url: 'https://www.elusiv.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/generaitiv',
   url: 'https://generaitiv.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

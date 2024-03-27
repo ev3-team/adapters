@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/codexchain',
   url: 'https://codexchain.xyz/home',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

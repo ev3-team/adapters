@@ -12,7 +12,21 @@ export default {
   description:
     'Aleph.im is an open-source crosschain network featuring decentralized database including file storage, computing, and a decentralized identity (DID) framework.',
   discord: null,
-  investors: [],
+  investors: [
+    'wxro8b',
+    'ybj995',
+    'knw63n',
+    'q9nh9n',
+    'j1wulh',
+    '6rejon',
+    'h9g1s5',
+    'lnorr8',
+    '3c4o3d',
+    '0vsaf4',
+    '6dsjxk',
+    'nzxtym',
+    'urug6u',
+  ],
   linkedin: 'https://www.linkedin.com/company/aleph-im/?originalSubdomain=fr',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +36,7 @@ export default {
   twitter: 'https://twitter.com/aleph_im',
   url: 'https://aleph.im/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/business/2022/01/20/alephim-raises-10m-to-compete-with-amazons-storage-and-computing-service/',
+  ],
 } satisfies AdapterProject

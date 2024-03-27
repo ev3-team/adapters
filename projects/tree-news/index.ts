@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://twitter.com/treetokeneth',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

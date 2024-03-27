@@ -22,4 +22,5 @@ export default {
   twitter: 'https://www.twitter.com/bump_xyz/',
   url: 'https://www.bumpapp.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

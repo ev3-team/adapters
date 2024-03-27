@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'xqdbmz',
   name: 'Discovery Communications',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

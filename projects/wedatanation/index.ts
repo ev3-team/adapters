@@ -11,7 +11,7 @@ export default {
   id: 'ah17kx',
   description: 'WeDataNation: Secure platform for user data aggregation.',
   discord: '947527916403699772',
-  investors: ['ryj5he'],
+  investors: ['b2ybqs'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,7 @@ export default {
   twitter: 'https://twitter.com/wedatanation',
   url: 'https://wedatanation.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://blockchain-founders.io/news/blockchain-founders-group-accelerates-wedatanation-to-empower-new-data-economy',
+  ],
 } satisfies AdapterProject

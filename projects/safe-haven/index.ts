@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/safeHavenio',
   url: 'https://safehaven.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

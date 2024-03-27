@@ -12,7 +12,7 @@ export default {
   description:
     'ImgnAI‚Äôs flagship product ‚ÄúNai‚Äù turns anything you write into an anime, 3D, or hyper-realistic image.',
   discord: '1053754972753383474',
-  investors: [],
+  investors: ['r54jbx', 'a3mqq8', 'jj50jr', '628gra', 'xtk30o', 'xtbe5p'],
   linkedin: 'http://www.linkedin.com/company/imgnai',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/imgn_ai',
   url: 'https://imgnai.com/',
   verified: false,
+  fundraisesUrls: ['https://www.theblock.co/post/274669/imgnai-raise-digital-companion-launch'],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/streamr',
   url: 'https://streamr.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

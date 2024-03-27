@@ -11,7 +11,7 @@ export default {
   id: 'ay3ajm',
   description: 'Picogrid builds a common platform to connect defense and autonomous systems.',
   discord: null,
-  investors: ['bsrlyc'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/in/zanemountcastle/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/zanemountcastle',
   url: 'https://picogrid.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/KizunaToken',
   url: 'https://kizunatoken.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

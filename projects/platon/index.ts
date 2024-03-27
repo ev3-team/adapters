@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/PlatON_Network',
   url: 'https://platon.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/FrysCrypto',
   url: 'https://www.fryfoundation.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

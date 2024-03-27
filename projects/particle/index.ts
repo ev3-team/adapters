@@ -21,4 +21,5 @@ export default {
   twitter: null,
   url: 'https://particle.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

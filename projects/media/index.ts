@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/Media_FDN',
   url: 'https://www.media.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

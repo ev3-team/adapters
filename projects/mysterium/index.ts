@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/MysteriumNet',
   url: 'https://www.mysterium.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

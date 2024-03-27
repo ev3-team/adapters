@@ -12,7 +12,7 @@ export default {
   description:
     'Opensquare is building a decentralized, trusted collaboration network. The collaboration data will be stored on blockchain, and personal credit will be built on it.',
   discord: null,
-  investors: ['ck6wgr', 'o7xcsr'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.opensquare.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

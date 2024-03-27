@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xVannaLabs',
   url: 'https://www.vannalabs.ai/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

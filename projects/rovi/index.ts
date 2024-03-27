@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/rovimobility',
   url: 'https://www.rovimobility.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

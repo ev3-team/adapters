@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'fxmvug',
   name: 'Infinite',
-  investedProjectsCount: 3,
+  investedProjectsCount: 4,
 } satisfies AdapterInvestor

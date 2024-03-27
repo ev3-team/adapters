@@ -14,7 +14,7 @@ export default {
   discord: '819836895739248700',
   investors: [
     'xmw0ev',
-    'ltitbn',
+    'abvcou',
     'bxcu1r',
     '6hezki',
     '5qx1w8',
@@ -42,4 +42,7 @@ export default {
   twitter: 'https://twitter.com/humanode_io',
   url: 'https://humanode.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://cointelegraph.com/press-releases/humanode-raises-2-million-while-testnet-hits-1-650-unique-validators',
+  ],
 } satisfies AdapterProject

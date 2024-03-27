@@ -12,7 +12,23 @@ export default {
   description:
     'On-chain people and communities deserve on-chain tools for private communication and collaboration.',
   discord: null,
-  investors: [],
+  investors: [
+    'hhudw8',
+    '896jil',
+    'ynh9fg',
+    'd8ocj0',
+    'b9dhtc',
+    'rmj9ht',
+    '6ln74n',
+    '7hwz6f',
+    'geps91',
+    '5aftnd',
+    'wohqmd',
+    'thxgaw',
+    'nkdgv1',
+    'o7xcsr',
+    'xtbe5p',
+  ],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +38,7 @@ export default {
   twitter: null,
   url: 'https://fileverse.io/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.coindesk.com/business/2023/10/17/Web3 Capital-powered-file-management-app-raises-15m-to-offer-alternative-to-google/',
+  ],
 } satisfies AdapterProject

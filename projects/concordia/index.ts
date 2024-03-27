@@ -12,7 +12,7 @@ export default {
   description:
     'Concordia is a multi-chain collateral management protocol that unifies and enables digital asset collateralization.',
   discord: '1095746448047493150',
-  investors: ['798xl8', 'qd0p5n', 'd8vsmb', 'due5zk'],
+  investors: [],
   linkedin: 'https://linkedin.com/company/debridge-finance',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/deBridgeFinance',
   url: 'https://www.concordia.systems/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

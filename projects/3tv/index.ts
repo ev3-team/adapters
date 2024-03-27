@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/3tv_chat?s=11',
   url: 'https://twitter.com/3tv_chat?s=11',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

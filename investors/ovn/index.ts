@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 's7axdr',
   name: 'OVN',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

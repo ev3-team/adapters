@@ -12,7 +12,7 @@ export default {
   description:
     'Mintstars is a subscription-based NFT platform empowering creators to control their content and earnings.',
   discord: '938410181749002280',
-  investors: ['7zvxz8', '8agdnp', 'ju3e71'],
+  investors: [],
   linkedin: 'http://www.linkedin.com/company/mintstars',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/MintStarsReal',
   url: 'https://www.mintstars.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

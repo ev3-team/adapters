@@ -37,11 +37,10 @@ export default {
     'yo6dj6',
     'nym997',
     'wo10nx',
-    '0nje2l',
+    '9e1gk4',
     'pu3yyr',
     '3bchmx',
     'ffngjj',
-    'nzxtym',
   ],
   linkedin: 'https://www.linkedin.com/company/redstone-finance/',
   duneQueries: null,
@@ -52,4 +51,8 @@ export default {
   twitter: 'https://twitter.com/redstone_defi',
   url: 'https://redstone.finance/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.prnewswire.com/news-releases/redstone-raises-525k-in-first-round-of-funding-to-expand-its-market-leading-next-generation-decentralized-oracle-platform-301332129.html',
+    'https://www.coindesk.com/business/2022/08/29/defi-platform-redstone-raises-nearly-7m-to-improve-connectivity-between-blockchains-real-world-data/',
+  ],
 } satisfies AdapterProject

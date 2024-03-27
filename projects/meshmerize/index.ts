@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/meshmerizenet',
   url: 'https://meshmerize.net/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

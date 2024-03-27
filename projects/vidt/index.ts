@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.vidt-dao.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

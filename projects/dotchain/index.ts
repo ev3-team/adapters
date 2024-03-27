@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/dot_blockchain',
   url: 'https://dotchain.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

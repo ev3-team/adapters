@@ -3,5 +3,5 @@ import { AdapterInvestor } from '../types'
 export default {
   id: 'llgix7',
   name: 'BasementDAO',
-  investedProjectsCount: 0,
+  investedProjectsCount: 1,
 } satisfies AdapterInvestor

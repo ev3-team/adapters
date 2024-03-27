@@ -18,8 +18,8 @@ export default {
     'rymjbe',
     'hm8wrp',
     '80qehd',
+    'j0d5hc',
     '3coq1f',
-    'aahxsd',
     'ooq1d1',
     'k1e97y',
     '03zdwj',
@@ -33,4 +33,5 @@ export default {
   twitter: 'https://twitter.com/joinsuperlocal',
   url: 'https://www.superlocal.com/',
   verified: false,
+  fundraisesUrls: ['https://dot.la/superlocal-2650547082.html'],
 } satisfies AdapterProject

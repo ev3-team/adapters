@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/TheSQE',
   url: 'https://www.sqe.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/skeynetwork',
   url: 'https://skey.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

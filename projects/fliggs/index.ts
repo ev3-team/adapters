@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/fliggs_mobile',
   url: 'https://fliggs.com/en',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

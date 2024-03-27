@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.galileoprotocol.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

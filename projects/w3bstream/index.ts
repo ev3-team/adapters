@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://w3bstream.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

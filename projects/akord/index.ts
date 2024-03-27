@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/AkordTeam',
   url: 'https://akord.com/',
   verified: false,
+  fundraisesUrls: [
+    'https://akord.com/blog/akord-raises-2-3m-to-secure-your-data-until-the-apocalypse',
+  ],
 } satisfies AdapterProject

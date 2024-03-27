@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/Humceng',
   url: 'https://humcen.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

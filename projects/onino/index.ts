@@ -11,7 +11,7 @@ export default {
   id: 'vybtqu',
   description: 'ONINO enables developers to create identity-based dapps with privacy by default.',
   discord: '969202888565993533',
-  investors: ['9cbuy7'],
+  investors: [],
   linkedin: 'https://de.linkedin.com/company/onino-io',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/onino_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.onino.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

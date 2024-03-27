@@ -12,7 +12,7 @@ export default {
   description:
     'Unlock is a protocol for creators to monetize content, using just a few lines of decentralized code.',
   discord: null,
-  investors: ['tn6s29'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/joinunlock/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://unlock-protocol.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

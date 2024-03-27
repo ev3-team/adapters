@@ -12,7 +12,7 @@ export default {
   description:
     "Kaspa (KAS) is a revolutionary cryptocurrency that stands out as the world's first blockDAG, a digital ledger that enables parallel blocks and instant transaction confirmation.",
   discord: '599153230659846165',
-  investors: ['z3ngzr', 'lmuq6h'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://kaspa.org/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

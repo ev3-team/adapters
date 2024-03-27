@@ -12,7 +12,7 @@ export default {
   description:
     'Silencio rewards users for providing hyper-local noise pollution data from smartphones.',
   discord: '1034207908210147489',
-  investors: [],
+  investors: ['buo8ql', 'bxcu1r', 'n73vnt', 'lhjpo7'],
   linkedin: 'https://www.linkedin.com/company/silencio',
   duneQueries: null,
   foundingYear: null,
@@ -23,4 +23,5 @@ export default {
     'https://twitter.com/silencioNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.silencio.network/',
   verified: false,
+  fundraisesUrls: ['https://twitter.com/silencionetwork/status/1759201491821240687'],
 } satisfies AdapterProject

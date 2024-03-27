@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/enq_AI',
   url: 'https://enqai.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

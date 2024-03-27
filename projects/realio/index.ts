@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/realio_network',
   url: 'https://realio.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

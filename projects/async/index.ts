@@ -12,7 +12,7 @@ export default {
   description:
     'Async Labs is a blockchain technology company focused on scaling decentralized computing.',
   discord: null,
-  investors: ['rd2mzf', 'uw2lru', 'tau7dj'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/asynclabs',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xAsyncLabs',
   url: 'http://asynclabs.xyz/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

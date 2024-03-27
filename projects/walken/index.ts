@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://walken.io/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

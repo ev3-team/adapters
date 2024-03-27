@@ -11,7 +11,7 @@ export default {
   id: 'yih1xv',
   description: 'Wire: blockchain with APOS consensus for user growth.',
   discord: '378315541083062282',
-  investors: ['buime9'],
+  investors: [],
   linkedin: 'https://www.linkedin.com/company/wire-secure-communication/',
   duneQueries: null,
   foundingYear: null,
@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/wire',
   url: 'https://wire.network/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'Karrier One is a mobile network company running on decentralized telecom infrastructure.',
   discord: '1003510714666860695',
-  investors: [],
+  investors: ['7zvxz8', '6gj1wa', '62bdul', '8ro1xz'],
   linkedin: 'https://www.linkedin.com/company/karrier-one/',
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,8 @@ export default {
   twitter: 'https://twitter.com/karrier_one?lang=en',
   url: 'https://karrier.one/',
   verified: false,
+  fundraisesUrls: [
+    'https://www.businesswire.com/news/home/20230405005336/en/',
+    'https://www.finsmes.com/2024/01/depin-and-dewi-come-to-sui-in-groundbreaking-karrier-one-partnership-upcoming-token-launch.html',
+  ],
 } satisfies AdapterProject

@@ -12,7 +12,7 @@ export default {
   description:
     'DeMR is a decentralized mixed reality infrastructure network (MR-DePIN). Global users can participate in scanning and building MR maps of various cities with consumer-grade devices such as mobile phones to earn tokens as a reward.',
   discord: null,
-  investors: [],
+  investors: ['azofz8'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,7 @@ export default {
   twitter: 'https://twitter.com/DeMR_official',
   url: 'https://www.demr.xyz/#/',
   verified: false,
+  fundraisesUrls: [
+    'https://coinedition.com/demr-kucoin-labs-first-strategic-investment-in-the-depin-track/',
+  ],
 } satisfies AdapterProject

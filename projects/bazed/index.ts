@@ -21,4 +21,5 @@ export default {
   twitter: 'https://twitter.com/BAZEDBET',
   url: 'https://bazed.bet/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

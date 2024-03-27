@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://gane.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject

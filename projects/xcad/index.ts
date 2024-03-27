@@ -12,7 +12,7 @@ export default {
   description:
     'XCAD Network is a platform harnessing the value of Content Creator audiences via Creator tokenization, viewers earn rewards used for fan governance.',
   discord: '848847833133481994',
-  investors: ['ia20oh', 'rlo5x9', 'okjrd0', 'qqc9zd', 'bah2fw', 'zv7rue'],
+  investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,4 +22,5 @@ export default {
   twitter: null,
   url: 'https://xcadnetwork.com/',
   verified: false,
+  fundraisesUrls: [],
 } satisfies AdapterProject
