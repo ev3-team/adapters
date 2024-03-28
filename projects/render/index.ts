@@ -47,8 +47,14 @@ export default {
   twitter: 'https://twitter.com/rendernetwork',
   url: 'http://renderfoundation.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/cloud-graphics-pioneer-otoy-announces-series-d-round-led-by-yuri-milner-245185301.html',
-    'https://www.theblock.co/post/128266/metaverse-infrastructure-startup-render-network-raises-30-million-in-token-round',
+  fundraises: [
+    {
+      roundType: 'Series D',
+      url: 'https://www.prnewswire.com/news-releases/cloud-graphics-pioneer-otoy-announces-series-d-round-led-by-yuri-milner-245185301.html',
+    },
+    {
+      roundType: 'Series F',
+      url: 'https://www.theblock.co/post/128266/metaverse-infrastructure-startup-render-network-raises-30-million-in-token-round',
+    },
   ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Dolphin_Emu',
   url: 'https://dolpin.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

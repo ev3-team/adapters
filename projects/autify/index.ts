@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/autifynetwork',
   url: 'https://www.autifynetwork.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -34,7 +34,10 @@ export default {
   twitter: 'https://twitter.com/intent/user?screen_name=freaticteam',
   url: 'https://freatic.team/',
   verified: false,
-  fundraisesUrls: [
-    'https://unchainedcrypto.com/a16z-leads-3-6m-fundraise-for-crypto-firm-freatic/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://unchainedcrypto.com/a16z-leads-3-6m-fundraise-for-crypto-firm-freatic/',
+    },
   ],
 } satisfies AdapterProject

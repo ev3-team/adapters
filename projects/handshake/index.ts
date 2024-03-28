@@ -42,5 +42,10 @@ export default {
   twitter: 'https://twitter.com/hns',
   url: 'https://handshake.org/',
   verified: false,
-  fundraisesUrls: ['https://twitter.com/HNS/status/1744237732992593976'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/HNS/status/1744237732992593976',
+    },
+  ],
 } satisfies AdapterProject

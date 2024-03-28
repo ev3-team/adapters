@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://keet.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

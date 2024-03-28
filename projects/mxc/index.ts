@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/mxcfoundation',
   url: 'https://www.mxc.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/kwai_labs',
   url: 'https://kwailabs.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

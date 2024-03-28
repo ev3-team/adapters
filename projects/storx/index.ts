@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/StorXNetwork',
   url: 'https://storx.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

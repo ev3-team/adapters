@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.moflixgroup.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Smartcredit_io',
   url: 'https://smartcredit.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

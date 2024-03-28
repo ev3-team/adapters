@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/metaspace_verse',
   url: 'https://www.metaspacechain.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://quantinium.cc/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

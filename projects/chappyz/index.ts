@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Chappyzcom',
   url: 'https://chappyz.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

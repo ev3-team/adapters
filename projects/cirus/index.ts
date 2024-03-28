@@ -21,5 +21,5 @@ export default {
   twitter: 'http://www.twitter.com/Cirusfoundation',
   url: 'https://www.cirusfoundation.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

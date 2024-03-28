@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://dmctech.io/en',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PowerloomHQ',
   url: 'https://powerloom.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

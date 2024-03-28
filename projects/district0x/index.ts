@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/district0x',
   url: 'https://district0x.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

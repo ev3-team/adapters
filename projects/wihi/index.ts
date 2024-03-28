@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/WiHiWeather',
   url: 'https://www.wihi.link/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

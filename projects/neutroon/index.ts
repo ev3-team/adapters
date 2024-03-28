@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/Neutron_org',
   url: 'https://www.neutroon.com/',
   verified: false,
-  fundraisesUrls: ['https://www.sharedaccess.com/2021/10/12/boost-private-5g/'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.sharedaccess.com/2021/10/12/boost-private-5g/',
+    },
+  ],
 } satisfies AdapterProject

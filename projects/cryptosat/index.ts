@@ -33,7 +33,10 @@ export default {
   twitter: 'https://twitter.com/cryptosat?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.cryptosat.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.cointime.ai/flash-news/cryptosat-raises-3-million-to-launch-satellite-into-space-for-bulletproof-cryptography-88157',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.cointime.ai/flash-news/cryptosat-raises-3-million-to-launch-satellite-into-space-for-bulletproof-cryptography-88157',
+    },
   ],
 } satisfies AdapterProject

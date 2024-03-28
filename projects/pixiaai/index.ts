@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PixiaAi',
   url: 'https://pixia.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

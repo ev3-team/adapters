@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Qualoo_Network',
   url: 'https://www.qualoo.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

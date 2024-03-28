@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/AutometaNetwork',
   url: 'https://www.autometa.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

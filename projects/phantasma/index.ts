@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PhantasmaChain',
   url: 'https://phantasma.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

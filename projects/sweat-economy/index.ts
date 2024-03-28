@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/sweatcoin',
   url: 'https://sweateconomy.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://decrypt.co/106142/step-counter-app-sweatcoin-raises-13m-fund-leap-Web3 Capital',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://decrypt.co/106142/step-counter-app-sweatcoin-raises-13m-fund-leap-Web3 Capital',
+    },
   ],
 } satisfies AdapterProject

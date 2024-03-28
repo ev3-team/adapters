@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/wingbits',
   url: 'https://wingbits.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

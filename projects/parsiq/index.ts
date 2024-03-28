@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/parsiq_net',
   url: 'https://parsiq.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

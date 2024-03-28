@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Privasea_tech',
   url: 'https://www.privasea.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

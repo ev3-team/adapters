@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/InsureToken',
   url: 'https://insuretoken.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

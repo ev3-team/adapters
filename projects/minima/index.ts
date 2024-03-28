@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Minima_Global',
   url: 'https://www.minima.global/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

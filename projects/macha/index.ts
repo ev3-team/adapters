@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/macha0x',
   url: 'https://macha.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

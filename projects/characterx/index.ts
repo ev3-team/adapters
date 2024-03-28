@@ -32,5 +32,10 @@ export default {
   twitter: 'https://twitter.com/CharacterXAI',
   url: 'https://characterx.ai/',
   verified: false,
-  fundraisesUrls: ['https://www.finsmes.com/2024/01/characterx-raises-2-8m-in-seed-funding.html'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.finsmes.com/2024/01/characterx-raises-2-8m-in-seed-funding.html',
+    },
+  ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.allin.so/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/DEFITofficial',
   url: 'https://app.defit.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

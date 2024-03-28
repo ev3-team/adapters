@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/wefi?lang=en',
   url: 'https://wefi.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

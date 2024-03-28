@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/libp2p',
   url: 'https://libp2p.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xintuition',
   url: 'https://intuition.systems/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

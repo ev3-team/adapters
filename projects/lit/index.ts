@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/LitProtocol',
   url: 'https://www.litprotocol.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

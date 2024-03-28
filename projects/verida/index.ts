@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/verida_io',
   url: 'https://verida.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

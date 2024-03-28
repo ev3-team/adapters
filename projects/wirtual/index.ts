@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://wirtual.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

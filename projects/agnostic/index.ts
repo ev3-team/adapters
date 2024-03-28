@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://agnostic.engineering/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

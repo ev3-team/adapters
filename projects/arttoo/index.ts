@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'http://www.arttoo.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

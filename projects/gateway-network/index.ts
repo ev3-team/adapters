@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/gateway_xyz',
   url: 'https://www.mygateway.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

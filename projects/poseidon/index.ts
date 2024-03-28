@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/QQQtoken',
   url: 'https://www.poseidon.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

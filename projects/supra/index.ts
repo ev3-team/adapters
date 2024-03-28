@@ -69,8 +69,14 @@ export default {
   twitter: 'https://twitter.com/SupraOracles',
   url: 'https://supraoracles.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.mastercard.com/news/press/2021/july/mastercard-launches-new-start-path-cryptocurrency-and-blockchain-program-for-startups/',
-    'https://cointelegraph.com/press-releases/supra-completes-over-24m-in-early-stage-funding-to-date',
+  fundraises: [
+    {
+      roundType: 'Accelerator',
+      url: 'https://www.mastercard.com/news/press/2021/july/mastercard-launches-new-start-path-cryptocurrency-and-blockchain-program-for-startups/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://cointelegraph.com/press-releases/supra-completes-over-24m-in-early-stage-funding-to-date',
+    },
   ],
 } satisfies AdapterProject

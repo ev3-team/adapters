@@ -32,5 +32,10 @@ export default {
   twitter: 'https://twitter.com/thekryptview?lang=en',
   url: 'https://kryptview.com/',
   verified: false,
-  fundraisesUrls: ['https://www.finsmes.com/2023/04/kryptview-raises-1-5m-pre-seed-funding.html'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.finsmes.com/2023/04/kryptview-raises-1-5m-pre-seed-funding.html',
+    },
+  ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Stratos_Network',
   url: 'https://www.thestratos.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

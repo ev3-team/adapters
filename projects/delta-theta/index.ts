@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://deltatheta.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

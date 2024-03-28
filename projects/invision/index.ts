@@ -22,5 +22,5 @@ export default {
   twitter: 'http://twitter.com/invisionai',
   url: 'https://invision.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/gpuaudio',
   url: 'https://www.gpu.audio/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

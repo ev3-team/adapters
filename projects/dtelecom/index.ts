@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DTEL_org',
   url: 'https://dtelecom.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

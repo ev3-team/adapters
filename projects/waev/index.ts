@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/WAElections',
   url: 'https://www.waev.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/CryptoMateLatam',
   url: 'https://cryptomate.me/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

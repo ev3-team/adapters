@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/deeper_official?lang=en',
   url: 'https://www.deeper.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -71,8 +71,14 @@ export default {
   twitter: 'https://twitter.com/shardeum',
   url: 'https://shardeum.org/',
   verified: false,
-  fundraisesUrls: [
-    'https://shardeu.org/blog/shardeum-raises-18-2-million-in-seed-round-funding-from-50-investors/',
-    'https://shardeum.org/blog/shardeum-completes-5-4-million-strategic-raise/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://shardeu.org/blog/shardeum-raises-18-2-million-in-seed-round-funding-from-50-investors/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://shardeum.org/blog/shardeum-completes-5-4-million-strategic-raise/',
+    },
   ],
 } satisfies AdapterProject

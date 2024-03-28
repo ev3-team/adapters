@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/ahoy_dao',
   url: 'https://www.ahoy.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

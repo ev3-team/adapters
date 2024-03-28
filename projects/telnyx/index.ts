@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/telnyx',
   url: 'https://telnyx.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

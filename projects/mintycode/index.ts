@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MintyCodeDao',
   url: 'https://mintycode.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

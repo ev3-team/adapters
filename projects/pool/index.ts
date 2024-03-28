@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/pooldata',
   url: 'https://www.pooldata.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

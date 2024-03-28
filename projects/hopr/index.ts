@@ -41,7 +41,10 @@ export default {
   twitter: 'https://twitter.com/hoprnet',
   url: 'https://hoprnet.org/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2020/07/09/binance-labs-leads-1m-seed-round-in-crypto-tor-alternative-hopr/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2020/07/09/binance-labs-leads-1m-seed-round-in-crypto-tor-alternative-hopr/',
+    },
   ],
 } satisfies AdapterProject

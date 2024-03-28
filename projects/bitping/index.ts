@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/BitpingApp',
   url: 'https://bitping.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

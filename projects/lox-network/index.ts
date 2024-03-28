@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/LoxNetwork',
   url: 'https://loxnetwork.co.uk/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

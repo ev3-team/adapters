@@ -22,5 +22,5 @@ export default {
   twitter: 'https://www.twitter.com/Purebet_io',
   url: 'https://www.purebet.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

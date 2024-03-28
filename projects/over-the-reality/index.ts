@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/OVRtheReality',
   url: 'https://www.overthereality.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/jdiyield',
   url: 'https://jdi.group/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

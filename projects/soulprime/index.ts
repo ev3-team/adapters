@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/SoulPrime_io',
   url: 'https://www.soulprime.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

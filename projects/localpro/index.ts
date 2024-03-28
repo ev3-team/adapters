@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/localpro_',
   url: 'https://www.getlocalpro.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

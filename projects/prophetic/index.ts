@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/propheticai?s=21&t=fIjcfJIO-bBnd1u8k55iLQ',
   url: 'https://propheticai.co/',
   verified: false,
-  fundraisesUrls: [
-    'https://fortune.com/2023/11/30/lucid-dream-startup-prophetic-headset-prepare-meetings-while-sleeping/',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://fortune.com/2023/11/30/lucid-dream-startup-prophetic-headset-prepare-meetings-while-sleeping/',
+    },
   ],
 } satisfies AdapterProject

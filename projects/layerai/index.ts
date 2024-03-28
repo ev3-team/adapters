@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/LayerAIorg',
   url: 'https://layerai.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

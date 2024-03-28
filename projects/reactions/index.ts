@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/reactions_lab',
   url: 'https://reactions.wtf/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

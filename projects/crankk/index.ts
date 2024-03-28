@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/crankk_io',
   url: 'https://crankk.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

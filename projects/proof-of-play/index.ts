@@ -33,7 +33,10 @@ export default {
   twitter: 'https://twitter.com/ProofOfPlay/',
   url: 'https://www.proofofplay.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://venturebeat.com/games/proof-of-play-raises-33m-for-Web3 Capital-rpg-adds-ex-twitch-ceo-to-board-emmett-shear/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://venturebeat.com/games/proof-of-play-raises-33m-for-Web3 Capital-rpg-adds-ex-twitch-ceo-to-board-emmett-shear/',
+    },
   ],
 } satisfies AdapterProject

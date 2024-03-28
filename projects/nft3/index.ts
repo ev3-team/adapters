@@ -53,7 +53,10 @@ export default {
   twitter: 'https://twitter.com/nft3com',
   url: 'https://nft3.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20220131005406/en/NFT3-Raises-US7.5-Million-Led-by-Animoca-Brands-Signaling-Decentralized-Identity-Technology-and-NFTs-as-Gate.ioway-to-the-Metaverse',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20220131005406/en/NFT3-Raises-US7.5-Million-Led-by-Animoca-Brands-Signaling-Decentralized-Identity-Technology-and-NFTs-as-Gate.ioway-to-the-Metaverse',
+    },
   ],
 } satisfies AdapterProject

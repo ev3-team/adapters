@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DronelinkHQ/',
   url: 'https://www.dronelink.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

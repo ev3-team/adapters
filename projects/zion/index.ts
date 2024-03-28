@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/get_zion',
   url: 'http://www.zion.fyi/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

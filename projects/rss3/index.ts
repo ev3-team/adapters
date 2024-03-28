@@ -56,7 +56,10 @@ export default {
   twitter: 'https://twitter.com/RSS3_',
   url: 'https://rss3.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2023/04/11/information-protocol-rss3-raises-10m-via-token-sale-to-dwf-labs/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2023/04/11/information-protocol-rss3-raises-10m-via-token-sale-to-dwf-labs/',
+    },
   ],
 } satisfies AdapterProject

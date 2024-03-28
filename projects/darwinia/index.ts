@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/DarwiniaNetwork',
   url: 'https://darwinia.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

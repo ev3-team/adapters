@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/imbue_ai',
   url: 'https://imbue.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

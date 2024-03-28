@@ -45,8 +45,14 @@ export default {
   twitter: 'https://twitter.com/ar_io_network',
   url: 'https://ar.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2021/05/19/arweave-based-permanent-dropbox-raises-16m-seed-round/',
-    'https://www.coindesk.com/business/2022/03/03/ardrive-raises-17m-to-make-arweaves-data-storage-blockchain-more-usable/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2021/05/19/arweave-based-permanent-dropbox-raises-16m-seed-round/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2022/03/03/ardrive-raises-17m-to-make-arweaves-data-storage-blockchain-more-usable/',
+    },
   ],
 } satisfies AdapterProject

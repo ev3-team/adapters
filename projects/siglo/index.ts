@@ -36,5 +36,5 @@ export default {
   twitter: 'https://twitter.com/hashtag/siglobar',
   url: 'https://siglo.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

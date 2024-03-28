@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://etherisc.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -54,8 +54,14 @@ export default {
   twitter: 'http://twitter.com/togethercompute',
   url: 'https://together.ai/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/',
-    'https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://techcrunch.com/2023/05/15/together-raises-20m-to-build-open-source-generative-ai-models/',
+    },
+    {
+      roundType: 'Series B',
+      url: 'https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/',
+    },
   ],
 } satisfies AdapterProject

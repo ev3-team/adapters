@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/FederalAI_io',
   url: 'https://federalai.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/anonplatform',
   url: 'https://www.anon.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

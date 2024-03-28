@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/UpfireHQ',
   url: 'https://upfire.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

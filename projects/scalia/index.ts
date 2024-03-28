@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/scaliainfra',
   url: 'https://scalia.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

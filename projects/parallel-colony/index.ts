@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://parallel.life/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

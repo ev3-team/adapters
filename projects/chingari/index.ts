@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Chingari_IN',
   url: 'https://chingari.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

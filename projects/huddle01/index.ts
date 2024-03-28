@@ -34,7 +34,10 @@ export default {
   twitter: null,
   url: 'https://huddle01.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/huddle01-raises-2-8m-led-by-hivemind-to-build-the-1st-decentralized-communication-network-301791654.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/huddle01-raises-2-8m-led-by-hivemind-to-build-the-1st-decentralized-communication-network-301791654.html',
+    },
   ],
 } satisfies AdapterProject

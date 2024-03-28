@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://findora.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

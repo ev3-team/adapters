@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PolyhedraZK',
   url: 'https://polyhedra.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

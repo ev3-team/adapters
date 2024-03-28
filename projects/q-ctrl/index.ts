@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/qctrlHQ',
   url: 'https://q-ctrl.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://picante.io/index.html',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Entanglefi',
   url: 'https://entangle.fi/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

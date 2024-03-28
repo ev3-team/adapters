@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/Nevermined_io',
   url: 'https://nevermined.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20220712005503/en/Nevermined-Raises-%E2%82%AC3-Million-Seed-Funding-to-Make-Web3 Capital-Development-Easier-for-Creators-and-Developers',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20220712005503/en/Nevermined-Raises-%E2%82%AC3-Million-Seed-Funding-to-Make-Web3 Capital-Development-Easier-for-Creators-and-Developers',
+    },
   ],
 } satisfies AdapterProject

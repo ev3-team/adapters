@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://illuvium.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

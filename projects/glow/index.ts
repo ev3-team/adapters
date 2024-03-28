@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/glowFND',
   url: 'https://www.glowlabs.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

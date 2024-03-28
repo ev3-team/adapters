@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/roam_network',
   url: 'https://www.roamnetwork.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

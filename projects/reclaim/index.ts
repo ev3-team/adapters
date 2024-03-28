@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.reclaimprotocol.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

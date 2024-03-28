@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/DecentralisedMe',
   url: 'https://deme.social/#',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

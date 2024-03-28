@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/IncognitoChain',
   url: 'https://incognito.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

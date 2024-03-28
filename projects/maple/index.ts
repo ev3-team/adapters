@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.maple.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

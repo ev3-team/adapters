@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/krestnetwork',
   url: 'https://krest.peaq.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

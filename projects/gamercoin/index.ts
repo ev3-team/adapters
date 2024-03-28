@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/GamerHashCom',
   url: 'https://gamercoin.com/en',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

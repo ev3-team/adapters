@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/onaji_AI',
   url: 'https://onaji.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/linera_io',
   url: 'https://linera.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

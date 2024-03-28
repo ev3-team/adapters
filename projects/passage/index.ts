@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/passageio',
   url: 'https://www.passage.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

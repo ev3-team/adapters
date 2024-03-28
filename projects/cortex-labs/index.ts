@@ -53,5 +53,5 @@ export default {
   twitter: 'https://twitter.com/CTXCBlockchain',
   url: 'https://www.cortexlabs.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

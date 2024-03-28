@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.weve.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

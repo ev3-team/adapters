@@ -22,8 +22,14 @@ export default {
   twitter: 'https://twitter.com/karrier_one?lang=en',
   url: 'https://karrier.one/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20230405005336/en/',
-    'https://www.finsmes.com/2024/01/depin-and-dewi-come-to-sui-in-groundbreaking-karrier-one-partnership-upcoming-token-launch.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20230405005336/en/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.finsmes.com/2024/01/depin-and-dewi-come-to-sui-in-groundbreaking-karrier-one-partnership-upcoming-token-launch.html',
+    },
   ],
 } satisfies AdapterProject

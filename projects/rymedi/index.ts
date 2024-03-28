@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://rymedi.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.biospace.com/article/releases/rymedi-raises-9m-to-expand-impact-on-global-healthcare-infrastructure-with-advanced-blockchain-secured-data-platform/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.biospace.com/article/releases/rymedi-raises-9m-to-expand-impact-on-global-healthcare-infrastructure-with-advanced-blockchain-secured-data-platform/',
+    },
   ],
 } satisfies AdapterProject

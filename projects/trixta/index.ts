@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/TrixtaTeam',
   url: 'https://trixta.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

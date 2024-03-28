@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/humanapp',
   url: 'https://joinhuman.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

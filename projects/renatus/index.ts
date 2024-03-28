@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/renatusgaming?lang=en',
   url: 'https://www.renatus-robotics.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/',
+    },
   ],
 } satisfies AdapterProject

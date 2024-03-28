@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://api3.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

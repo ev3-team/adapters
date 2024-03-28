@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/nfalabs',
   url: 'https://nfa.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

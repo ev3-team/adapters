@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/perpstech',
   url: 'https://www.perps.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

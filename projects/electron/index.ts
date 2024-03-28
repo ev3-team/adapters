@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/labs_electron',
   url: 'https://electronlabs.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

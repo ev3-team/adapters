@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/TrustPad',
   url: 'https://trustpad.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -53,7 +53,10 @@ export default {
   twitter: 'https://twitter.com/real_alethea',
   url: 'https://alethea.ai/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.theblock.co/linked/115574/alethea-ai-raises-16-million-venture-funding',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.theblock.co/linked/115574/alethea-ai-raises-16-million-venture-funding',
+    },
   ],
 } satisfies AdapterProject

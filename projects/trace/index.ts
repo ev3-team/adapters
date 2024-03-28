@@ -43,7 +43,10 @@ export default {
   twitter: 'https://twitter.com/trace_network',
   url: 'https://trace.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.newsbtc.com/news/company/trace-network-raises-strategic-investment-of-over-1-6-million-from-leading-blockchain-investors/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.newsbtc.com/news/company/trace-network-raises-strategic-investment-of-over-1-6-million-from-leading-blockchain-investors/',
+    },
   ],
 } satisfies AdapterProject

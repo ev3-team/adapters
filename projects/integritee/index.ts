@@ -39,7 +39,10 @@ export default {
   twitter: 'https://twitter.com/integri_t_e_e',
   url: 'https://www.integritee.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2021/06/17/blockchain-privacy-firm-integritee-raises-2m-ahead-of-kusama-parachain-auction/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2021/06/17/blockchain-privacy-firm-integritee-raises-2m-ahead-of-kusama-parachain-auction/',
+    },
   ],
 } satisfies AdapterProject

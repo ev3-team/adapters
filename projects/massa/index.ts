@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/massalabs',
   url: 'https://massa.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

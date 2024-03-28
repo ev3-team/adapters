@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/runloop?lang=en',
   url: 'https://runloop.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

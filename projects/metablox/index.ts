@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/metablox',
   url: 'https://metablox.io/',
   verified: false,
-  fundraisesUrls: ['https://www.venturecapitaljournal.com/metablox-inks-seed-financing/'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.venturecapitaljournal.com/metablox-inks-seed-financing/',
+    },
+  ],
 } satisfies AdapterProject

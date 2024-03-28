@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/revertdotdev',
   url: 'https://www.revert.dev/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://flexwallet.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

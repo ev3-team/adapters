@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/BoringProtocol',
   url: 'https://boringprotocol.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

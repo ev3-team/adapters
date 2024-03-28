@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/genesysgo',
   url: 'https://www.shadow.cloud/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

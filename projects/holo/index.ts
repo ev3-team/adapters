@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/holochain',
   url: 'https://www.holochain.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

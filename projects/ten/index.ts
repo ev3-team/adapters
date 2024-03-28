@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://obscu.ro/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

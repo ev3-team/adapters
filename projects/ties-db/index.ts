@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/tiesnetwork-',
   url: 'https://tiesdb.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

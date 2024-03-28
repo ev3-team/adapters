@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/maidsafe',
   url: 'https://maidsafe.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

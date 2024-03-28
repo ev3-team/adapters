@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/hyperline_xyz',
   url: 'https://www.hyperline.xyz/',
   verified: false,
-  fundraisesUrls: ['https://twitter.com/hyperline_xyz/status/1749903630415867984'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/hyperline_xyz/status/1749903630415867984',
+    },
+  ],
 } satisfies AdapterProject

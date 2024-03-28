@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/arbitrum',
   url: 'https://arbitrum.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

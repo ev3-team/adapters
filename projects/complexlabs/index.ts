@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/complex_labs',
   url: 'https://www.complexlabs.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

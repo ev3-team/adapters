@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/superalgos',
   url: 'https://superalgos.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

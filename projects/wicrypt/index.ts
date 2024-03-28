@@ -32,7 +32,10 @@ export default {
   twitter: 'https://twitter.com/wicrypt?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://wicrypt.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://disruptafrica.com/2021/11/08/nigerian-wi-fi-sharing-startup-wicrypt-raises-1-5m-funding/',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://disruptafrica.com/2021/11/08/nigerian-wi-fi-sharing-startup-wicrypt-raises-1-5m-funding/',
+    },
   ],
 } satisfies AdapterProject

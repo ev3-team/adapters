@@ -85,7 +85,10 @@ export default {
   twitter: 'https://twitter.com/Filecoin',
   url: 'https://filecoin.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/markets/2017/09/07/257-million-filecoin-breaks-all-time-record-for-ico-funding/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/markets/2017/09/07/257-million-filecoin-breaks-all-time-record-for-ico-funding/',
+    },
   ],
 } satisfies AdapterProject

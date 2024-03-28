@@ -21,5 +21,10 @@ export default {
   twitter: 'https://twitter.com/aioznetwork?lang=en',
   url: 'https://aioz.network/',
   verified: false,
-  fundraisesUrls: ['https://aioz.network/blog/aioz-network-dwf-labs-partnership'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://aioz.network/blog/aioz-network-dwf-labs-partnership',
+    },
+  ],
 } satisfies AdapterProject

@@ -26,7 +26,10 @@ export default {
   twitter: 'https://twitter.com/wifimapapp',
   url: 'https://www.wifimap.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://medium.com/wifi-map/wifi-is-coming-to-the-trustswap-launchpad-tomorrow-2646117ec46e',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://medium.com/wifi-map/wifi-is-coming-to-the-trustswap-launchpad-tomorrow-2646117ec46e',
+    },
   ],
 } satisfies AdapterProject

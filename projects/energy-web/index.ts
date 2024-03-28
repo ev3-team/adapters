@@ -41,5 +41,5 @@ export default {
   twitter: null,
   url: 'https://www.energyweb.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

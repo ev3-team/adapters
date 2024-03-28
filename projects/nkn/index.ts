@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/NKN_ORG',
   url: 'https://nkn.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

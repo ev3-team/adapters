@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://hyperaware.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Nilfiskofficial',
   url: 'https://vipernet.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

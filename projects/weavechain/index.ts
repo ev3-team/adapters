@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/weavechainweb3?lang=en',
   url: 'https://www.weavechain.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

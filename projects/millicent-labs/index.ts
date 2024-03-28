@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/MillicentLabs',
   url: 'https://www.millicent.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

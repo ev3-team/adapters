@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://superprotocol.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

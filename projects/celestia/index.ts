@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://celestia.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

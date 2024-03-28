@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'http://turboglobal.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/Ta_da_io',
   url: 'https://ta-da.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://siliconangle.com/2024/01/09/Web3 Capital-ai-data-marketplace-ta-da-raises-3-5m-expand-operations/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://siliconangle.com/2024/01/09/Web3 Capital-ai-data-marketplace-ta-da-raises-3-5m-expand-operations/',
+    },
   ],
 } satisfies AdapterProject

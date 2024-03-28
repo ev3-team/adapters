@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/AdvantisToken',
   url: 'https://www.advantistoken.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/oraichain',
   url: 'https://orai.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

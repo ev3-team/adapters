@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/kepple_io',
   url: 'http://www.qlcchain.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

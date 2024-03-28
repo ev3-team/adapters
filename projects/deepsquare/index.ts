@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DeepSQUAREio',
   url: 'https://deepsquare.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

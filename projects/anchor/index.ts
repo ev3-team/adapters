@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/pauli_group',
   url: 'https://www.greymass.com/anchor',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

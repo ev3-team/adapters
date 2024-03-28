@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ironmill_xyz',
   url: 'https://www.ironmill.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

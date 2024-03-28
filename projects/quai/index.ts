@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://qu.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

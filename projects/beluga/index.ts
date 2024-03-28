@@ -22,5 +22,5 @@ export default {
   twitter: 'https://x.com/getbeluga',
   url: 'https://heybeluga.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

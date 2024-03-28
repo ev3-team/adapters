@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/vaxchain',
   url: 'https://albedo.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

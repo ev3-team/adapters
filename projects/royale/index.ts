@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Royale_Finance',
   url: 'https://www.royale.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

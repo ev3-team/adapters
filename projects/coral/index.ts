@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/MyCoralApp',
   url: 'https://www.coralapp.io/',
   verified: false,
-  fundraisesUrls: ['https://twitter.com/MyCoralApp/status/1729111661821497641'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/MyCoralApp/status/1729111661821497641',
+    },
+  ],
 } satisfies AdapterProject

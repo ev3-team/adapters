@@ -33,7 +33,10 @@ export default {
   twitter: 'https://twitter.com/giantprotocol',
   url: 'https://giantprotocol.org/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20211216005703/en/GIANT-Protocol-Raises-5-Million-Seed-Round-Led-by-CoinFund',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20211216005703/en/GIANT-Protocol-Raises-5-Million-Seed-Round-Led-by-CoinFund',
+    },
   ],
 } satisfies AdapterProject

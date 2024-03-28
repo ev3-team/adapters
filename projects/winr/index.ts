@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/WINRProtocol',
   url: 'https://winr.games/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

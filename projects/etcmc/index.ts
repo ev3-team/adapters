@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.etcmc.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

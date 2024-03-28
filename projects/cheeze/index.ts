@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://cheeze.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

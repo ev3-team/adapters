@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/gomicroai?s=11',
   url: 'https://micro.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

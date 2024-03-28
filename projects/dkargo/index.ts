@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/dKargo_Official',
   url: 'https://dkargo.io/en',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

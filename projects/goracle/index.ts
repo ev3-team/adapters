@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/goranetwork',
   url: 'https://www.goracle.io/',
   verified: false,
-  fundraisesUrls: ['https://www.startupticker.ch/en/news/blockchain-startup-secures-1-5-million'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.startupticker.ch/en/news/blockchain-startup-secures-1-5-million',
+    },
+  ],
 } satisfies AdapterProject

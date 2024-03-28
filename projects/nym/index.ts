@@ -42,8 +42,14 @@ export default {
   twitter: 'https://twitter.com/nymproject',
   url: 'https://nymtech.net/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2019/05/13/nym-technologies-raises-25-million-to-anonymize-crypto-apps/',
-    'https://techcrunch.com/2021/11/19/nym-raises-13m-from-a16zs-crypto-fund/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2019/05/13/nym-technologies-raises-25-million-to-anonymize-crypto-apps/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://techcrunch.com/2021/11/19/nym-raises-13m-from-a16zs-crypto-fund/',
+    },
   ],
 } satisfies AdapterProject

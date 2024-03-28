@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/willitscale',
   url: 'https://stacktical.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

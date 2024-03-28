@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/sophiaverse_ai',
   url: 'https://www.sophiaverse.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

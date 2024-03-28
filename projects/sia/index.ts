@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/sia__foundation',
   url: 'https://sia.tech/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/markets/2019/07/10/sia-network-raises-35-million-from-bain-capital-to-become-crypto-hulu/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/markets/2019/07/10/sia-network-raises-35-million-from-bain-capital-to-become-crypto-hulu/',
+    },
   ],
 } satisfies AdapterProject

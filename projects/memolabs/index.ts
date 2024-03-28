@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MemoLabsOrg',
   url: 'https://www.memolabs.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

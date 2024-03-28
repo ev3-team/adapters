@@ -36,7 +36,10 @@ export default {
   twitter: 'https://twitter.com/aleph_im',
   url: 'https://aleph.im/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2022/01/20/alephim-raises-10m-to-compete-with-amazons-storage-and-computing-service/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2022/01/20/alephim-raises-10m-to-compete-with-amazons-storage-and-computing-service/',
+    },
   ],
 } satisfies AdapterProject

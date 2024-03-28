@@ -35,5 +35,10 @@ export default {
   twitter: 'https://twitter.com/exa_bits',
   url: 'https://www.exabits.ai/',
   verified: false,
-  fundraisesUrls: ['https://twitter.com/exa_bits/status/1753121707806826800'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://twitter.com/exa_bits/status/1753121707806826800',
+    },
+  ],
 } satisfies AdapterProject

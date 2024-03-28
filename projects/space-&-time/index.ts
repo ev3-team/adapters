@@ -50,7 +50,10 @@ export default {
   twitter: 'https://twitter.com/SpaceTimeMedia/',
   url: 'https://www.spaceandtime.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2022/07/28/decentralized-data-platform-space-and-time-raises-10m/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2022/07/28/decentralized-data-platform-space-and-time-raises-10m/',
+    },
   ],
 } satisfies AdapterProject

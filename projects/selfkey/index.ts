@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/selfkey',
   url: 'https://selfkey.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

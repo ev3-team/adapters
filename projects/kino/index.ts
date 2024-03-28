@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/kinomakesmovies',
   url: 'https://www.kino.studio/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

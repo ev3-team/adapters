@@ -55,8 +55,14 @@ export default {
   twitter: 'https://twitter.com/livepeerorg',
   url: 'https://livepeer.org/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2019/06/17/decentralized-video-infrastructure-platform-livepeer-raises-8m-series-a/',
-    'https://www.coindesk.com/business/2021/07/29/decentralized-video-protocol-livepeer-raises-20m-to-take-on-streaming-giants/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://techcrunch.com/2019/06/17/decentralized-video-infrastructure-platform-livepeer-raises-8m-series-a/',
+    },
+    {
+      roundType: 'Series B',
+      url: 'https://www.coindesk.com/business/2021/07/29/decentralized-video-protocol-livepeer-raises-20m-to-take-on-streaming-giants/',
+    },
   ],
 } satisfies AdapterProject

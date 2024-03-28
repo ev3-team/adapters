@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/vuzecmx',
   url: 'https://www.vuzec.com/work',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/KIPprotocol',
   url: 'https://kip.pro/',
   verified: false,
-  fundraisesUrls: ['https://twitter.com/KIPprotocol/status/1753010295889707304'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/KIPprotocol/status/1753010295889707304',
+    },
+  ],
 } satisfies AdapterProject

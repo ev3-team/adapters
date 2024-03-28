@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/ImpermaxFinance',
   url: 'http://www.impermax.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

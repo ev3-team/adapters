@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://etherland.world/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

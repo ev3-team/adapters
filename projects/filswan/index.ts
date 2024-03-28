@@ -35,7 +35,10 @@ export default {
   twitter: 'https://twitter.com/swan_chain',
   url: 'https://www.filswan.com/homepage',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prweb.com/releases/filswan-raises-3m-usd-to-revolutionize-amp-simplify-building-dapps-899321300.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prweb.com/releases/filswan-raises-3m-usd-to-revolutionize-amp-simplify-building-dapps-899321300.html',
+    },
   ],
 } satisfies AdapterProject

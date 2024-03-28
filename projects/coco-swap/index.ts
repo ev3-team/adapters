@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://coco-swap.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

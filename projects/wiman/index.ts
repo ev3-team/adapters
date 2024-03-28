@@ -21,5 +21,10 @@ export default {
   twitter: 'https://twitter.com/UN_Women',
   url: 'https://www.wiman.me/',
   verified: false,
-  fundraisesUrls: ['https://www.finsmes.com/2016/12/wiman-raises-approx-e400k-in-funding.html'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.finsmes.com/2016/12/wiman-raises-approx-e400k-in-funding.html',
+    },
+  ],
 } satisfies AdapterProject

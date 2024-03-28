@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/setoros',
   url: 'https://setoros.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

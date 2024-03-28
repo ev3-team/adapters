@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://blockchain.galeon.care/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

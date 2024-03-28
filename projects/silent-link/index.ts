@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/silentlink1',
   url: 'https://silent.link/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

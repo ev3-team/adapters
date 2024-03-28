@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/zeitgeist_xyz?lang=en',
   url: 'https://zeitgeist.pm/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

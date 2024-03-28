@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://clearpool.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

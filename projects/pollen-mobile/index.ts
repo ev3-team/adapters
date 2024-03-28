@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/PollenMobile',
   url: 'https://www.pollenmobile.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.globenewswire.com/en/news-release/2022/04/19/2424680/0/en/Pollen-Mobile-Closes-Seed-Funding-Round-for-Its-Next-Generation-Decentralized-Wireless-Network.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.globenewswire.com/en/news-release/2022/04/19/2424680/0/en/Pollen-Mobile-Closes-Seed-Funding-Round-for-Its-Next-Generation-Decentralized-Wireless-Network.html',
+    },
   ],
 } satisfies AdapterProject

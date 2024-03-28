@@ -76,10 +76,22 @@ export default {
   twitter: 'https://twitter.com/GOQii',
   url: 'https://goqii.com/in-en',
   verified: false,
-  fundraisesUrls: [
-    'https://yourstory.com/2015/11/goqii-series-a-funding',
-    'https://entrackr.com/2018/11/goqii-fund-30-mn-mitsui-co/',
-    'https://entrackr.com/2019/09/goqii-raises-rs-45-cr-from-bccl/',
-    'https://www.livemint.com/companies/start-ups/healthcare-platform-goqii-raises-50-mn-led-by-sumeru-ventures-11644996336018.html',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://yourstory.com/2015/11/goqii-series-a-funding',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://entrackr.com/2018/11/goqii-fund-30-mn-mitsui-co/',
+    },
+    {
+      roundType: 'Series B',
+      url: 'https://entrackr.com/2019/09/goqii-raises-rs-45-cr-from-bccl/',
+    },
+    {
+      roundType: 'Series C',
+      url: 'https://www.livemint.com/companies/start-ups/healthcare-platform-goqii-raises-50-mn-led-by-sumeru-ventures-11644996336018.html',
+    },
   ],
 } satisfies AdapterProject

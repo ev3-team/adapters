@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/humansdotai',
   url: 'https://humans.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

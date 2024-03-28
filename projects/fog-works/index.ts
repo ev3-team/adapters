@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/fogworksinc/',
   url: 'https://fogworks.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.finsmes.com/2022/08/w3-storage-lab-raises-3m-in-pre-seed-financing.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.finsmes.com/2022/08/w3-storage-lab-raises-3m-in-pre-seed-financing.html',
+    },
   ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/matchx_iot',
   url: 'https://matchx.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

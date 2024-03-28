@@ -44,5 +44,10 @@ export default {
   twitter: 'https://twitter.com/myMessageOS',
   url: 'https://www.mymessage.io/',
   verified: false,
-  fundraisesUrls: ['https://finance.yahoo.com/news/mymessage-raises-2-1-million-185500210.html'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://finance.yahoo.com/news/mymessage-raises-2-1-million-185500210.html',
+    },
+  ],
 } satisfies AdapterProject

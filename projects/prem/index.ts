@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/premai_io',
   url: 'https://www.premai.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

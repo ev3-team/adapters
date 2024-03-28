@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/lynqnetworks',
   url: 'https://lynqnetworks.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

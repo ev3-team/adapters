@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DeepGreenEnergy',
   url: 'https://www.deepgreen.energy/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

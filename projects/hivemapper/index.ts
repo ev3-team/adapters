@@ -32,7 +32,10 @@ export default {
   twitter: 'https://twitter.com/Hivemapper',
   url: 'https://hivemapper.com/explorer',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20220405005894/en/Hivemapper-Raises-18M-From-Multicoin-Capital-to-Create-the-World%E2%80%99s-First-Decentralized-Mapping-Network',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.businesswire.com/news/home/20220405005894/en/Hivemapper-Raises-18M-From-Multicoin-Capital-to-Create-the-World%E2%80%99s-First-Decentralized-Mapping-Network',
+    },
   ],
 } satisfies AdapterProject

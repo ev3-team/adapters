@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/zkPass',
   url: 'https://zkpass.org/home',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

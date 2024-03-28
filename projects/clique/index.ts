@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Clique2046',
   url: 'https://www.clique.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

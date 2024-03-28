@@ -21,8 +21,14 @@ export default {
   twitter: 'https://twitter.com/ethermail_io',
   url: 'http://www.ethermail.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/ethermail-raises-3m-in-seed-round-funding-from-top-vcs-fabric-and-greenfield-one-to-enable-anonymous-wallet-to-wallet-email-communication-to-200-million-users-worldwide-301603710.html',
-    'https://www.theblock.co/post/217761/tim-draper-joins-ethermails-advisory-board-leads-4-million-raise',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.prnewswire.com/news-releases/ethermail-raises-3m-in-seed-round-funding-from-top-vcs-fabric-and-greenfield-one-to-enable-anonymous-wallet-to-wallet-email-communication-to-200-million-users-worldwide-301603710.html',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/217761/tim-draper-joins-ethermails-advisory-board-leads-4-million-raise',
+    },
   ],
 } satisfies AdapterProject

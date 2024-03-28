@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/firstbatchxyz_?lang=en',
   url: 'https://www.firstbatch.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

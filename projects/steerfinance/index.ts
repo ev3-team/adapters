@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/steerprotocol?lang=en',
   url: 'https://steer.finance/',
   verified: false,
-  fundraisesUrls: [
-    'https://steer.finance/steer-protocol-raises-1-5m-in-seed-funding-to-revolutionize-off-chain-computing-and-liquidity-management/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://steer.finance/steer-protocol-raises-1-5m-in-seed-funding-to-revolutionize-off-chain-computing-and-liquidity-management/',
+    },
   ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/nitroleaguegame',
   url: 'https://www.nitroleague.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/shibuyaxyz',
   url: 'https://www.shibuya.xyz/',
   verified: false,
-  fundraisesUrls: [
-    'https://decrypt.co/116749/pplpleasrs-shibuya-nft-video-platform-raises-6-9m-to-build-the-a24-of-Web3 Capital',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://decrypt.co/116749/pplpleasrs-shibuya-nft-video-platform-raises-6-9m-to-build-the-a24-of-Web3 Capital',
+    },
   ],
 } satisfies AdapterProject

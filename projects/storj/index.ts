@@ -25,8 +25,14 @@ export default {
   twitter: 'https://twitter.com/storj',
   url: 'https://www.storj.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/markets/2014/08/22/cloud-storage-startup-storj-raises-910-btc-in-crowdsale/',
-    'https://www.coindesk.com/markets/2017/02/23/blockchain-startup-storj-targets-enterprise-cloud-with-3-million-raise/',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.coindesk.com/markets/2014/08/22/cloud-storage-startup-storj-raises-910-btc-in-crowdsale/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/markets/2017/02/23/blockchain-startup-storj-targets-enterprise-cloud-with-3-million-raise/',
+    },
   ],
 } satisfies AdapterProject

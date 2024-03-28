@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://opisgroup.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

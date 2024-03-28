@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/ScPrimeCloud',
   url: 'https://scpri.me/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/vechainofficial?lang=en',
   url: 'https://www.vechain.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

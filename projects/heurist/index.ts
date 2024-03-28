@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/heurist_ai',
   url: 'https://www.heurist.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

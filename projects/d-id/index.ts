@@ -22,8 +22,14 @@ export default {
   twitter: 'https://twitter.com/intent/follow?screen_name=DIDbased',
   url: 'https://d.id/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.startuphub.ai/investment_rounds/d-id-raises-13-5-million-series-a/',
-    'https://www.cypherhunter.com/es/e/did-id-raised-funding-2022-08-15/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.startuphub.ai/investment_rounds/d-id-raises-13-5-million-series-a/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.cypherhunter.com/es/e/did-id-raised-funding-2022-08-15/',
+    },
   ],
 } satisfies AdapterProject

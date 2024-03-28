@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/untangledfin',
   url: 'https://www.untangled.finance/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2023/10/10/tokenized-rwa-platform-untangled-goes-live-gets-135m-funding-to-bring-private-credit-on-chain/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2023/10/10/tokenized-rwa-platform-untangled-goes-live-gets-135m-funding-to-bring-private-credit-on-chain/',
+    },
   ],
 } satisfies AdapterProject

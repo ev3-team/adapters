@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/perkableco',
   url: 'https://www.perkable.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

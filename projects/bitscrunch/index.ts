@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/bitscrunch/',
   url: 'https://bitscrunch.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/bsnbase',
   url: 'https://bsnbase.io/g/main/index',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

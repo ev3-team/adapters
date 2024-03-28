@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/YOMetaverse',
   url: 'https://www.yom.ooo/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

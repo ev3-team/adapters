@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/_lakenetwork',
   url: 'https://lakenetwork.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

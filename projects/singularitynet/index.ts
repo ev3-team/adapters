@@ -51,8 +51,14 @@ export default {
   twitter: 'https://twitter.com/singularitynet',
   url: 'https://singularitynet.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://cryptoslate.com/press-releases/singularitydao-raises-2-7m-in-private-sale-led-by-alphabit-to-usher-ai-driven-defi/',
-    'https://www.coindesk.com/business/2022/05/19/singularitynet-singularitydao-receive-25m-to-accelerate-ai-backed-defi/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://cryptoslate.com/press-releases/singularitydao-raises-2-7m-in-private-sale-led-by-alphabit-to-usher-ai-driven-defi/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2022/05/19/singularitynet-singularitydao-receive-25m-to-accelerate-ai-backed-defi/',
+    },
   ],
 } satisfies AdapterProject

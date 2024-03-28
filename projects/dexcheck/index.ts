@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DexCheck_io',
   url: 'https://dexcheck.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

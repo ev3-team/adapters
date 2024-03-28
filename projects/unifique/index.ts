@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://unifique.com.br/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

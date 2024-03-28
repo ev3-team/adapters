@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/emergetools',
   url: 'https://www.emergetools.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

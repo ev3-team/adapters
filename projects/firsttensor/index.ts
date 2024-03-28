@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/firsttensor',
   url: 'https://firsttensor.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

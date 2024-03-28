@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Everdome_io',
   url: 'https://everdome.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

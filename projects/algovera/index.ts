@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/algoveraai',
   url: 'https://www.algovera.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

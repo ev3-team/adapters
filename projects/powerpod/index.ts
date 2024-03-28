@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PowerPod_People',
   url: 'https://www.powerpod.pro/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

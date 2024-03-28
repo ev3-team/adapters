@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/scinet_inc',
   url: 'https://www.scinet.one/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

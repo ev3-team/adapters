@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.alpha.glowstick.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

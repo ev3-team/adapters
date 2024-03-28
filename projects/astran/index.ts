@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/astran_',
   url: 'https://astran.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

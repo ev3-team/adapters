@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PragmaOracle',
   url: 'https://www.pragmaoracle.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -36,7 +36,10 @@ export default {
   twitter: 'https://twitter.com/smlxldotio',
   url: 'https://smlxl.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://fortune.com/crypto/2023/10/24/smlxl-a16z-dor-levi-lyft-blockchains-funding-round/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://fortune.com/crypto/2023/10/24/smlxl-a16z-dor-levi-lyft-blockchains-funding-round/',
+    },
   ],
 } satisfies AdapterProject

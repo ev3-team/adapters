@@ -39,8 +39,14 @@ export default {
   twitter: 'https://twitter.com/growfitter?lang=en',
   url: 'https://www.growfitter.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://entrackr.com/2017/06/health-startup-growfitter-raises-600k-pre-series-funding-expand-fitness-services/',
-    'https://economictimes.indiatimes.com/tech/funding/shark-tank-featured-growfitter-raises-1-million-in-funding-led-by-inflection-point-ventures/articleshow/90257919.cms?from=mdr',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://entrackr.com/2017/06/health-startup-growfitter-raises-600k-pre-series-funding-expand-fitness-services/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://economictimes.indiatimes.com/tech/funding/shark-tank-featured-growfitter-raises-1-million-in-funding-led-by-inflection-point-ventures/articleshow/90257919.cms?from=mdr',
+    },
   ],
 } satisfies AdapterProject

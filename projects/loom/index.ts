@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/loomnetwork',
   url: 'https://loomx.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

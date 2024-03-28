@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/succinctlabs',
   url: 'https://succinct.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

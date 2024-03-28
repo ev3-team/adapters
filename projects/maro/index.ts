@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://ma.ro/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

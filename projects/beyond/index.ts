@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/beyondprotocol1',
   url: 'https://beyond.link/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

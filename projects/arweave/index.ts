@@ -70,7 +70,10 @@ export default {
   twitter: 'https://twitter.com/ArweaveTeam',
   url: 'https://www.arweave.org/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.axios.com/2020/03/06/arweave-funding-permanent-data-storage-coronavirus',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.axios.com/2020/03/06/arweave-funding-permanent-data-storage-coronavirus',
+    },
   ],
 } satisfies AdapterProject

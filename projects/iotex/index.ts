@@ -40,7 +40,10 @@ export default {
   twitter: 'https://twitter.com/iotex_io',
   url: 'https://iotex.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2022/06/07/machinefi-lab-raises-10m-to-incentivize-iot-data-collection-for-web-3/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2022/06/07/machinefi-lab-raises-10m-to-incentivize-iot-data-collection-for-web-3/',
+    },
   ],
 } satisfies AdapterProject

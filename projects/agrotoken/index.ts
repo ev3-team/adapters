@@ -35,7 +35,10 @@ export default {
   twitter: 'https://twitter.com/agrotoken',
   url: 'https://agrotoken.com/es/',
   verified: false,
-  fundraisesUrls: [
-    'https://contxto.com/en/agrotech/agrotoken-raises-12-5m-in-pre-series-a-funding/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://contxto.com/en/agrotech/agrotoken-raises-12-5m-in-pre-series-a-funding/',
+    },
   ],
 } satisfies AdapterProject

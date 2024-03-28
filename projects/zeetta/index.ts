@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/zeettas?lang=en',
   url: 'https://zeetta.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://techspark.co/blog/2017/08/08/zeetta-networks-raises-1-6m-latest-funding-round/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://techspark.co/blog/2017/08/08/zeetta-networks-raises-1-6m-latest-funding-round/',
+    },
   ],
 } satisfies AdapterProject

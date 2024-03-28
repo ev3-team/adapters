@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/nucocloud',
   url: 'https://nuco.cloud/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

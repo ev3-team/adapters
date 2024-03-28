@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://u2dpn.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

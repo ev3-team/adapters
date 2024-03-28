@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/3numdao',
   url: 'https://www.3num.co/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.geekwire.com/2022/seattle-area-startup-developing-Web3 Capital-mobile-numbers-that-mint-as-nfts-raises-cash/',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.geekwire.com/2022/seattle-area-startup-developing-Web3 Capital-mobile-numbers-that-mint-as-nfts-raises-cash/',
+    },
   ],
 } satisfies AdapterProject

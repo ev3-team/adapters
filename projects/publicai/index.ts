@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/PublicAI_',
   url: 'https://www.publicai.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.theblock.co/post/274838/Web3 Capital-distributed-ai-training-network-publicai-raises-2m-in-seed-funding-round',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/274838/Web3 Capital-distributed-ai-training-network-publicai-raises-2m-in-seed-funding-round',
+    },
   ],
 } satisfies AdapterProject

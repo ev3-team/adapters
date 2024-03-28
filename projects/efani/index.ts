@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/efani',
   url: 'https://www.efani.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.bizjournals.com/sacramento/inno/stories/news/2022/01/17/efani-smartphones-hackers-crypto.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.bizjournals.com/sacramento/inno/stories/news/2022/01/17/efani-smartphones-hackers-crypto.html',
+    },
   ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/privateLP',
   url: 'https://www.darkprotocol.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

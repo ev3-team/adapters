@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://subconscious.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

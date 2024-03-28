@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/datumnetwork',
   url: 'https://datum.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

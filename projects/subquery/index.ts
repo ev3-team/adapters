@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/SubQueryNetwork',
   url: 'https://www.subquery.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -32,7 +32,10 @@ export default {
   twitter: null,
   url: 'ipns://fleek.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2022/12/01/Web3 Capital-developer-platform-fleek-raises-25m-led-by-polychain-capital/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://techcrunch.com/2022/12/01/Web3 Capital-developer-platform-fleek-raises-25m-led-by-polychain-capital/',
+    },
   ],
 } satisfies AdapterProject

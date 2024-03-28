@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Acxynteam',
   url: 'https://www.acxyn.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

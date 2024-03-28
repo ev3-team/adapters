@@ -39,7 +39,10 @@ export default {
   twitter: 'https://twitter.com/Aethir_',
   url: 'https://www.aethir.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/aethir-closes-150-million-valuation-pre-a-funding-round-to-scale-its-decentralized-cloud-infrastructure-301886287.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/aethir-closes-150-million-valuation-pre-a-funding-round-to-scale-its-decentralized-cloud-infrastructure-301886287.html',
+    },
   ],
 } satisfies AdapterProject

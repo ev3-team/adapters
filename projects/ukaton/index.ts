@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ConcreteSciFi',
   url: 'https://ukaton.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

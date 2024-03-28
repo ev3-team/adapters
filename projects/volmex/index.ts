@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://volmex.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MNWSupplyChain',
   url: 'https://www.morpheusai.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

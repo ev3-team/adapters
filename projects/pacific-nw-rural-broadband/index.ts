@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://nwbroadbandalliance.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

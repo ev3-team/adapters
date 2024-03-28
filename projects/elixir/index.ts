@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/ElixirProtocol',
   url: 'http://www.elixir.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

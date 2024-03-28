@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/databasegun?lang=en',
   url: 'https://gun.eco/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

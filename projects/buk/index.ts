@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://buk.technology/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

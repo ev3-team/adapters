@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/yogapetz',
   url: 'https://yogapetz.com/',
   verified: false,
-  fundraisesUrls: ['https://twitter.com/Yogapetz/status/1755646539610157102'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/Yogapetz/status/1755646539610157102',
+    },
+  ],
 } satisfies AdapterProject

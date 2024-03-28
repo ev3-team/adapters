@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/witnet_io',
   url: 'https://witnet.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

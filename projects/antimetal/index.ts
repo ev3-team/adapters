@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/AntimetalCloud',
   url: 'https://www.antimetal.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/',
+    },
   ],
 } satisfies AdapterProject

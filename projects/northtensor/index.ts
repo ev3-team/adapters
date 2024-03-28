@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/NorthTensorAI',
   url: 'https://www.northtensor.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

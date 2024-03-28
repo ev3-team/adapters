@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/nRide12',
   url: 'https://www.nride.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

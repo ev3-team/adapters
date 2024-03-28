@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/RowanRewards',
   url: 'https://www.rowanenergy.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

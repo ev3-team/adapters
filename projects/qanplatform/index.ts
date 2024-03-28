@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/QANplatform',
   url: 'https://qanplatform.com/en',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

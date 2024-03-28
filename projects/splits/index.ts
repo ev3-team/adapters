@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xsplits',
   url: 'http://www.0xsplits.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/getus3r',
   url: 'https://us3r.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

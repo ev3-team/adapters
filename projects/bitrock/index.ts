@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/BitRockChain',
   url: 'https://bit-rock.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

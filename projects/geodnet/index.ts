@@ -27,8 +27,14 @@ export default {
   twitter: 'https://twitter.com/geodnetinfo?lang=en',
   url: 'https://geodnet.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://medium.com/borderless-capital/borderless-leads-a-1-5m-investment-into-geodnet-to-bring-high-accuracy-positioning-to-the-masses-ccd2c1b9ce97',
-    'https://twitter.com/geodnet_/status/1762832718327361794',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://medium.com/borderless-capital/borderless-leads-a-1-5m-investment-into-geodnet-to-bring-high-accuracy-positioning-to-the-masses-ccd2c1b9ce97',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/geodnet_/status/1762832718327361794',
+    },
   ],
 } satisfies AdapterProject

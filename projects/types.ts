@@ -1,3 +1,5 @@
+import { FundRaiseRoundType } from '../scripts/types'
+
 export type AdapterProjectCategory =
   | 'AI'
   | 'BLOCKCHAIN_INFRA'
@@ -47,6 +49,11 @@ export type AdapterProjectDuneQueryIdentifiers = {
   NODE_NUMBER?: string
 }
 
+export type AdapterProjectFundRaise = {
+  url: string
+  roundType: FundRaiseRoundType
+}
+
 export type AdapterProject = {
   id: string
   blog: string | null
@@ -68,5 +75,5 @@ export type AdapterProject = {
   twitter: string | null
   url: string | null
   verified: boolean
-  fundraisesUrls: string[]
+  fundraises: AdapterProjectFundRaise[]
 }

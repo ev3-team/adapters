@@ -37,7 +37,10 @@ export default {
   twitter: 'https://twitter.com/mynaswap',
   url: 'https://www.myna.co/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.theblock.co/post/175248/nfl-superstars-back-coolkicks-founders-6-million-raise-for-collectible-trading-platform',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/175248/nfl-superstars-back-coolkicks-founders-6-million-raise-for-collectible-trading-platform',
+    },
   ],
 } satisfies AdapterProject

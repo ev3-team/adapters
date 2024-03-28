@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/yokai_network',
   url: 'http://www.yokai.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/imgn_ai',
   url: 'https://imgnai.com/',
   verified: false,
-  fundraisesUrls: ['https://www.theblock.co/post/274669/imgnai-raise-digital-companion-launch'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.theblock.co/post/274669/imgnai-raise-digital-companion-launch',
+    },
+  ],
 } satisfies AdapterProject

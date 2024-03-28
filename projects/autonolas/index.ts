@@ -25,7 +25,10 @@ export default {
   twitter: 'https://twitter.com/autonolas',
   url: 'https://www.autonolas.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://siliconangle.com/2022/10/12/valory-raises-4m-unlock-software-driven-autonomy-blockchain-apps/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://siliconangle.com/2022/10/12/valory-raises-4m-unlock-software-driven-autonomy-blockchain-apps/',
+    },
   ],
 } satisfies AdapterProject

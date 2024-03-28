@@ -21,5 +21,10 @@ export default {
   twitter: 'https://twitter.com/mobifi',
   url: 'https://mobifi.io/',
   verified: false,
-  fundraisesUrls: ['https://siliconcanals.com/news/startups/mobifi-raises-2-36m/'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://siliconcanals.com/news/startups/mobifi-raises-2-36m/',
+    },
+  ],
 } satisfies AdapterProject

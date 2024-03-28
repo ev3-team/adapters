@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/aventusnetwork?lang=en',
   url: 'https://aventus.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

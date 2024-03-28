@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/moda_dao',
   url: 'https://www.moda.audio/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

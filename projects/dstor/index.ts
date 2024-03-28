@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/dstor',
   url: 'https://dstor.cloud/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

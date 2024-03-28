@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://token.script.tv/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

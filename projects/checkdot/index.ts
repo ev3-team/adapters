@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Checkdot_proto',
   url: 'https://checkdot.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

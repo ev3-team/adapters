@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/bottoproject',
   url: 'https://botto.com/about',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

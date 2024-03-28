@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'http://www.ecogentech.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

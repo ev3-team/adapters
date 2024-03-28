@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Oone_World',
   url: 'http://oone.world/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://brev.dev/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

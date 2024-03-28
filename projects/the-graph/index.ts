@@ -27,5 +27,5 @@ export default {
   twitter: 'https://twitter.com/graphprotocol',
   url: 'https://thegraph.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

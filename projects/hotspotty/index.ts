@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/hotspotty',
   url: 'https://hotspotty.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

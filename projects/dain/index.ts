@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/buildontal',
   url: 'https://dain.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

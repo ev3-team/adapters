@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/',
   url: 'https://ai-cosmo.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

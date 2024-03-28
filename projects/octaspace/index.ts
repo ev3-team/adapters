@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://octa.space/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

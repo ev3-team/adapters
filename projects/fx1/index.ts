@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/FX1Sports',
   url: 'https://fx1.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

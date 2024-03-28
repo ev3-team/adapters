@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/StarpowerTalent',
   url: 'http://starpower.group/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

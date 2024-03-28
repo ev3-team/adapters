@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.entheos.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

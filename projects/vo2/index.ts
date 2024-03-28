@@ -21,5 +21,10 @@ export default {
   twitter: null,
   url: 'https://www.vo2.fans/',
   verified: false,
-  fundraisesUrls: ['https://technical.ly/startups/vo2-techstars-sports-accelerator/'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://technical.ly/startups/vo2-techstars-sports-accelerator/',
+    },
+  ],
 } satisfies AdapterProject

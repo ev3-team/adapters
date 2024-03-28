@@ -23,5 +23,5 @@ export default {
   twitter: 'https://twitter.com/ibatofficial',
   url: 'https://battleinfinity.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

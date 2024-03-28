@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/RevestFinance',
   url: 'https://revest.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

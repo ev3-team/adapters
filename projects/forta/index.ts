@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/FortaNetwork',
   url: 'https://forta.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

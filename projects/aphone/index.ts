@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/aphonelabs',
   url: 'https://www.aphone.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

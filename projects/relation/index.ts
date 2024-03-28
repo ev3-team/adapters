@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/relationlabs',
   url: 'https://www.relationlabs.ai/home',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

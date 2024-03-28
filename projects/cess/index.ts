@@ -36,7 +36,10 @@ export default {
   twitter: null,
   url: 'https://cess.cloud/',
   verified: false,
-  fundraisesUrls: [
-    'https://cointelegraph.com/news/decentralized-storage-platform-cess-raises-8-million-13-vc-funds',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://cointelegraph.com/news/decentralized-storage-platform-cess-raises-8-million-13-vc-funds',
+    },
   ],
 } satisfies AdapterProject

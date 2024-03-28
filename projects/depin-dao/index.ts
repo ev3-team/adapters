@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://depindao.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

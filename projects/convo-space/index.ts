@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/0xConvo',
   url: 'https://theconvo.space/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

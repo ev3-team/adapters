@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/_digitalgaia',
   url: 'https://www.digitalgaia.earth/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

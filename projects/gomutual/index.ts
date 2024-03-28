@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/go_mutual',
   url: 'https://www.gomutual.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

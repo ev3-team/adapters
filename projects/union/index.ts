@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/union_build',
   url: 'https://union.build/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

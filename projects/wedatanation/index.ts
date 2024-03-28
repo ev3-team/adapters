@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/wedatanation',
   url: 'https://wedatanation.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://blockchain-founders.io/news/blockchain-founders-group-accelerates-wedatanation-to-empower-new-data-economy',
+  fundraises: [
+    {
+      roundType: 'Accelerator',
+      url: 'https://blockchain-founders.io/news/blockchain-founders-group-accelerates-wedatanation-to-empower-new-data-economy',
+    },
   ],
 } satisfies AdapterProject

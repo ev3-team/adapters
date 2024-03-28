@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/stationxnetwork',
   url: 'https://www.stationx.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

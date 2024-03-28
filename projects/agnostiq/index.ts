@@ -22,8 +22,14 @@ export default {
   twitter: 'https://twitter.com/agnostiqHQ',
   url: 'https://agnostiq.ai/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.hpcwire.com/off-the-wire/agnostiq-secures-2m-seed-round-to-further-develop-saas-based-quantum-solutions/',
-    'https://siliconangle.com/2023/04/05/startup-agnostiq-raises-6-1m-integrate-quantum-computing-hpc/',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.hpcwire.com/off-the-wire/agnostiq-secures-2m-seed-round-to-further-develop-saas-based-quantum-solutions/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://siliconangle.com/2023/04/05/startup-agnostiq-raises-6-1m-integrate-quantum-computing-hpc/',
+    },
   ],
 } satisfies AdapterProject

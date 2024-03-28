@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/datagentech',
   url: 'https://datagen.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

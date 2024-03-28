@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/swashapp',
   url: 'https://swashapp.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

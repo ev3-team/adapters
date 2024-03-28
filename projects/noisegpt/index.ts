@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/noisegpt',
   url: 'https://noisegpt.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

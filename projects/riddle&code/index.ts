@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/riddleandcode',
   url: 'https://www.riddleandcode.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

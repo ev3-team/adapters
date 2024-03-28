@@ -40,5 +40,5 @@ export default {
   twitter: 'https://twitter.com/EpikProtocol',
   url: 'https://www.epik-protocol.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

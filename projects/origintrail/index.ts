@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/origin_trail',
   url: 'https://origintrail.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

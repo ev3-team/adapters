@@ -72,8 +72,22 @@ export default {
   twitter: 'https://t.me/braintrustofficial',
   url: 'https://www.usebraintrust.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2020/10/01/braintrust-raises-18m-to-bring-defi-thinking-to-the-gig-economy/',
-    'https://www.reuters.com/markets/funds/coatue-tiger-global-buy-100m-talent-network-braintrusts-tokens-2021-12-09/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2020/10/01/braintrust-raises-18m-to-bring-defi-thinking-to-the-gig-economy/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2020/10/01/braintrust-raises-18m-to-bring-defi-thinking-to-the-gig-economy/',
+    },
+    {
+      roundType: 'Series B',
+      url: 'https://www.reuters.com/markets/funds/coatue-tiger-global-buy-100m-talent-network-braintrusts-tokens-2021-12-09/',
+    },
+    {
+      roundType: 'Series B',
+      url: 'https://www.reuters.com/markets/funds/coatue-tiger-global-buy-100m-talent-network-braintrusts-tokens-2021-12-09/',
+    },
   ],
 } satisfies AdapterProject

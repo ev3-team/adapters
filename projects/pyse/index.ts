@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://pyse.in/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

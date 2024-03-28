@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Unimoonofficial',
   url: 'https://unimoon.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xaigentx',
   url: 'https://aigentx.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

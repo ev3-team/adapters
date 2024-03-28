@@ -34,7 +34,10 @@ export default {
   twitter: 'https://twitter.com/oort_io?lang=en',
   url: 'https://www.oortech.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://cybermagazine.com/articles/enterprise-security-startup-oort-raises-15m-in-series-a-fun',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://cybermagazine.com/articles/enterprise-security-startup-oort-raises-15m-in-series-a-fun',
+    },
   ],
 } satisfies AdapterProject

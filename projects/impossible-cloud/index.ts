@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://www.impossiblecloud.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://venturebeat.com/business/impossible-cloud-raises-7-6m-to-decentralize-cloud-services-with-Web3 Capital/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://venturebeat.com/business/impossible-cloud-raises-7-6m-to-decentralize-cloud-services-with-Web3 Capital/',
+    },
   ],
 } satisfies AdapterProject

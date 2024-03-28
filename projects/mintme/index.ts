@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/mintmeproject',
   url: 'https://www.mintme.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

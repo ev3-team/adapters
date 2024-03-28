@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.nativeplanet.io/hardware',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

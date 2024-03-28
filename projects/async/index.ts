@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xAsyncLabs',
   url: 'http://asynclabs.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

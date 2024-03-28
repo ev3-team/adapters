@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/pingpongbuild',
   url: 'https://pingpong.build/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

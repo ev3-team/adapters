@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/GlitterProtocol',
   url: 'https://glitterprotocol.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/AlloraNetwork',
   url: 'https://allora.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20240201941258/en/Introducing-Allora-A-Self-Improving-Decentralized-AI-Network',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20240201941258/en/Introducing-Allora-A-Self-Improving-Decentralized-AI-Network',
+    },
   ],
 } satisfies AdapterProject

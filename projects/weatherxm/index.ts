@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/weatherxm?lang=en',
   url: 'https://weatherxm.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

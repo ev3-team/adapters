@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/zignaly',
   url: 'https://zigdao.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Cherry_Network',
   url: 'https://www.cherry.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

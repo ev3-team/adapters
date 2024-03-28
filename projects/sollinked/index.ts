@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Sollinked_com',
   url: 'https://sollinked.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

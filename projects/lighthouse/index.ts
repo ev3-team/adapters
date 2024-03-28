@@ -33,7 +33,10 @@ export default {
   twitter: 'https://twitter.com/lhediscovery',
   url: 'https://www.lighthouse.storage/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2022/05/12/lighthouse-raises-7m-to-be-the-search-engine-of-the-metaverse/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2022/05/12/lighthouse-raises-7m-to-be-the-search-engine-of-the-metaverse/',
+    },
   ],
 } satisfies AdapterProject

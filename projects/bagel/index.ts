@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/bagel_network',
   url: 'https://www.bagel.net/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20240122875776/en/Bagel-Network-a-Decentralized-ML-Data-Network-Closes-3.1M-Pre-Seed-Round-Led-by-CoinFund',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20240122875776/en/Bagel-Network-a-Decentralized-ML-Data-Network-Closes-3.1M-Pre-Seed-Round-Led-by-CoinFund',
+    },
   ],
 } satisfies AdapterProject

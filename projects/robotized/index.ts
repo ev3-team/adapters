@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.robotiz3d.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

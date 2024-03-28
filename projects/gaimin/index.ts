@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.gaimin.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

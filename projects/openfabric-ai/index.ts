@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/openfabricai',
   url: 'https://openfabric.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

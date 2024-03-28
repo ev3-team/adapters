@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/polkamarkets',
   url: 'https://www.polkamarkets.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

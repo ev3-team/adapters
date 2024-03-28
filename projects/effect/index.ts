@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/effectaix',
   url: 'https://effect.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

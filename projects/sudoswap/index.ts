@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/sudoswap',
   url: 'https://sudoswap.xyz/#/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

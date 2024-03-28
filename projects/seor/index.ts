@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/SEOR001',
   url: 'https://www.seor.io/#/home',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

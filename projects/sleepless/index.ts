@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/SleeplessAI_Lab',
   url: 'https://www.sleeplessai.net/home',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

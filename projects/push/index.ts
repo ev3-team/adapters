@@ -84,8 +84,14 @@ export default {
   twitter: 'https://twitter.com/pushprotocol',
   url: 'https://push.org/',
   verified: false,
-  fundraisesUrls: [
-    'https://medium.com/push-protocol/ethereum-push-notification-service-successfully-raises-750k-usd-in-seed-round-bec41eadd84d',
-    'https://www.coindesk.com/business/2022/04/14/ethereum-push-notification-service-raises-10m-at-131m-valuation/',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://medium.com/push-protocol/ethereum-push-notification-service-successfully-raises-750k-usd-in-seed-round-bec41eadd84d',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2022/04/14/ethereum-push-notification-service-raises-10m-at-131m-valuation/',
+    },
   ],
 } satisfies AdapterProject

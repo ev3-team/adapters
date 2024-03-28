@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/inference_labs',
   url: 'https://inferencelabs.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

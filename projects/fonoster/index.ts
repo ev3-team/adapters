@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/fonoster',
   url: 'https://fonoster.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

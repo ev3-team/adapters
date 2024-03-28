@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/skiffprivacy',
   url: 'http://www.skiff.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/connect3world',
   url: 'https://connect3.world/en/about',
   verified: false,
-  fundraisesUrls: [
-    'https://medium.com/metaweb-vc/connect3-announces-strategic-investment-from-metaweb-ventures-c1a1ddb48294',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://medium.com/metaweb-vc/connect3-announces-strategic-investment-from-metaweb-ventures-c1a1ddb48294',
+    },
   ],
 } satisfies AdapterProject

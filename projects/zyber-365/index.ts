@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'http://www.zyber365.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

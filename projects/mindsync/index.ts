@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/mind_sync',
   url: 'https://mindsync.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

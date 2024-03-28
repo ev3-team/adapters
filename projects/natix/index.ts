@@ -32,5 +32,10 @@ export default {
     'https://twitter.com/NATIXNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.natix.network/',
   verified: false,
-  fundraisesUrls: ['https://www.thesaasnews.com/news/natix-raises-3-5-million-in-seed-round'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.thesaasnews.com/news/natix-raises-3-5-million-in-seed-round',
+    },
+  ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MARINA_PROTOCOL',
   url: 'https://marina-protocol.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

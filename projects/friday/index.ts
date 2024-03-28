@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ownfriday',
   url: 'https://www.myfriday.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

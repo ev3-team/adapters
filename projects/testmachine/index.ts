@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://testmachine.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

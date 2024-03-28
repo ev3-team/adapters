@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.hpchain.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

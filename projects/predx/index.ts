@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PredX_AI',
   url: 'https://predx.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

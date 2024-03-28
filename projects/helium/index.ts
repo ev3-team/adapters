@@ -83,10 +83,22 @@ export default {
   twitter: 'http://twitter.com/helium',
   url: 'https://www.helium.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2014/12/09/helium/',
-    'https://www.businesswire.com/news/home/20160425005330/en/Helium-Raises-20-Million-Series-B-Funding-Round-to-Accelerate-Smart-Sensing-Solutions',
-    'https://www.finsmes.com/2019/06/helium-raises-15m-in-series-c-funding.html',
-    'https://www.coindesk.com/business/2022/02/18/crypto-powered-wireless-network-helium-raises-200m-at-12b-valuation-report/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://techcrunch.com/2014/12/09/helium/',
+    },
+    {
+      roundType: 'Series B',
+      url: 'https://www.businesswire.com/news/home/20160425005330/en/Helium-Raises-20-Million-Series-B-Funding-Round-to-Accelerate-Smart-Sensing-Solutions',
+    },
+    {
+      roundType: 'Series C',
+      url: 'https://www.finsmes.com/2019/06/helium-raises-15m-in-series-c-funding.html',
+    },
+    {
+      roundType: 'Series D',
+      url: 'https://www.coindesk.com/business/2022/02/18/crypto-powered-wireless-network-helium-raises-200m-at-12b-valuation-report/',
+    },
   ],
 } satisfies AdapterProject

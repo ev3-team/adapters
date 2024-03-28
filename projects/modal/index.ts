@@ -52,7 +52,14 @@ export default {
   twitter: 'https://twitter.com/modal_labs',
   url: 'https://modal.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2023/10/10/modal-labs-lands-16m-to-abstract-away-big-data-workload-infrastructure/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://techcrunch.com/2023/10/10/modal-labs-lands-16m-to-abstract-away-big-data-workload-infrastructure/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://techcrunch.com/2023/10/10/modal-labs-lands-16m-to-abstract-away-big-data-workload-infrastructure/',
+    },
   ],
 } satisfies AdapterProject

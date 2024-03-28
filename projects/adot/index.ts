@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Adot_web3',
   url: 'https://www.a.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

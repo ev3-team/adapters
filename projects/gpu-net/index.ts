@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/gpunet',
   url: 'https://www.gpu.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

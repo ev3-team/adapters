@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://encloud.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/WorldMobileTeam/',
   url: 'https://worldmobile.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/markets/2021/08/16/world-mobile-wraps-39m-token-sale-to-launch-mesh-network-in-zanzibar/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/markets/2021/08/16/world-mobile-wraps-39m-token-sale-to-launch-mesh-network-in-zanzibar/',
+    },
   ],
 } satisfies AdapterProject

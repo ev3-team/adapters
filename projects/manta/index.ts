@@ -59,9 +59,18 @@ export default {
   twitter: 'https://twitter.com/mantanetwork',
   url: 'https://manta.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://cointelegraph.com/news/manta-aims-to-bring-a-private-decentralized-exchange-to-polkadot-with-1-1m-raise',
-    'https://cointelegraph.com/news/polkadot-based-privacy-project-manta-network-raises-5-5m',
-    'https://cointelegraph.com/news/manta-network-developer-raises-25m-in-series-a-launches-layer-2-for-zk-apps',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://cointelegraph.com/news/manta-aims-to-bring-a-private-decentralized-exchange-to-polkadot-with-1-1m-raise',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://cointelegraph.com/news/polkadot-based-privacy-project-manta-network-raises-5-5m',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://cointelegraph.com/news/manta-network-developer-raises-25m-in-series-a-launches-layer-2-for-zk-apps',
+    },
   ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/WebAIofficial',
   url: 'https://webai.live/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

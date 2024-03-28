@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://protomaps.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

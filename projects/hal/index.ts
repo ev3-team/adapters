@@ -21,5 +21,5 @@ export default {
   twitter: 'https://chatwithhal.vercel.app/platforms/twitter',
   url: 'https://chatwithhal.vercel.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

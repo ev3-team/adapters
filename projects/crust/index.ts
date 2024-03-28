@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/crust_ow?lang=en',
   url: 'https://crust.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

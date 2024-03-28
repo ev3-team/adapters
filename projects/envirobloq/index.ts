@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://envirobloq.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

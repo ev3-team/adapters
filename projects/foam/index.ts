@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/foamspace',
   url: 'https://foam.space/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/markets/2018/09/13/foam-is-live-decentralized-world-map-launches-on-ethereum/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/markets/2018/09/13/foam-is-live-decentralized-world-map-launches-on-ethereum/',
+    },
   ],
 } satisfies AdapterProject

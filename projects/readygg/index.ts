@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/TheReadyGames',
   url: 'https://ready.gg/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

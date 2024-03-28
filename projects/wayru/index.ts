@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://www.wayru.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.ledgerinsights.com/blockchain-based-wifi-network-wayru-raises-2-million/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.ledgerinsights.com/blockchain-based-wifi-network-wayru-raises-2-million/',
+    },
   ],
 } satisfies AdapterProject

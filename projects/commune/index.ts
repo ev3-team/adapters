@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/communeaidotorg',
   url: 'https://commune-t.pages.dev/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

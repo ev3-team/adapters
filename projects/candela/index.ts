@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/candela?lang=en',
   url: 'https://www.candelacoin.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

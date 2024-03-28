@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/opclouds_tech',
   url: 'https://opclouds.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

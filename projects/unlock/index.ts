@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://unlock-protocol.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

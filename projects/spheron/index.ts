@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/SpheronFDN',
   url: 'https://spheron.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

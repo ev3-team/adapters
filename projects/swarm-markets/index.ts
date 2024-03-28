@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/shawred0/status/1760983389400977765',
   url: 'https://swarm.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

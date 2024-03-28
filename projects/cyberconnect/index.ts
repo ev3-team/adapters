@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://cyberconnect.me/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

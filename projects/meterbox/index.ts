@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.themeterbox.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/regen_pk',
   url: 'https://www.regen.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -37,7 +37,10 @@ export default {
   twitter: null,
   url: 'https://www.jiritsu.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/jiritsu-raises-10-2-million-in-funding-to-revolutionize-verifiable-compute-301934115.html',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.prnewswire.com/news-releases/jiritsu-raises-10-2-million-in-funding-to-revolutionize-verifiable-compute-301934115.html',
+    },
   ],
 } satisfies AdapterProject

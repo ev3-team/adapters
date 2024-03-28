@@ -21,7 +21,10 @@ export default {
   twitter: null,
   url: 'https://bloxtel.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/bloxtel-launches-most-advanced-private-5g-platform-in-the-market-301988245.html',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.prnewswire.com/news-releases/bloxtel-launches-most-advanced-private-5g-platform-in-the-market-301988245.html',
+    },
   ],
 } satisfies AdapterProject

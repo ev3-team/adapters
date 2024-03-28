@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/FlurryFi',
   url: 'https://www.flurry.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject
