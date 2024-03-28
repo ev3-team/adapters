@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/enzymefinance',
   url: 'https://enzyme.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

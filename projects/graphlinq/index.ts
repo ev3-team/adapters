@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/graphlinq_proto',
   url: 'https://graphlinq.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/hellowynd',
   url: 'https://wynd.network/',
   verified: false,
-  fundraisesUrls: ['https://blockworks.co/news/blockchain-artificial-intelligence-fundraise'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://blockworks.co/news/blockchain-artificial-intelligence-fundraise',
+    },
+  ],
 } satisfies AdapterProject

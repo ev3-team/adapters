@@ -35,8 +35,14 @@ export default {
   twitter: 'https://twitter.com/blackbirdvc',
   url: 'https://www.blackbird.xyz/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.theblock.co/post/175214/resy-co-founder-ben-leventhal-raises-11-million-for-new-Web3 Capital-hospitality-platform?utm_source=twitter&utm_medium=social',
-    'https://www.prnewswire.com/news-releases/blackbird-labs-raises-24-million-series-a-round-from-a16z-amex-ventures-and-more-to-help-transform-the-way-restaurants-approach-diner-loyalty-301946664.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/175214/resy-co-founder-ben-leventhal-raises-11-million-for-new-Web3 Capital-hospitality-platform?utm_source=twitter&utm_medium=social',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.prnewswire.com/news-releases/blackbird-labs-raises-24-million-series-a-round-from-a16z-amex-ventures-and-more-to-help-transform-the-way-restaurants-approach-diner-loyalty-301946664.html',
+    },
   ],
 } satisfies AdapterProject

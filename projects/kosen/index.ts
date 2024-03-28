@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/kosenlabs?lang=en',
   url: 'https://www.kosen.ai/',
   verified: false,
-  fundraisesUrls: [
-    'https://medium.com/kosenlabs/kosen-labs-founded-by-ex-deepmind-researchers-aims-to-bring-the-benefits-of-advanced-ai-to-the-c8ae04119759',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://medium.com/kosenlabs/kosen-labs-founded-by-ex-deepmind-researchers-aims-to-bring-the-benefits-of-advanced-ai-to-the-c8ae04119759',
+    },
   ],
 } satisfies AdapterProject

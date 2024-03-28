@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/neptunemutual',
   url: 'https://neptunemutual.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

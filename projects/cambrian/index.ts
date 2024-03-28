@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/cambrian_eth',
   url: 'https://cambrianprotocol.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

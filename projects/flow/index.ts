@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/flow_blockchain',
   url: 'https://flow.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

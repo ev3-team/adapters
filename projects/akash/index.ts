@@ -56,7 +56,10 @@ export default {
   twitter: 'https://twitter.com/akashnet_',
   url: 'https://akash.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.wsj.com/articles/funding-snapshot-overclock-labs-raises-1-3-million-seed-round-to-automate-cloud-infrastructure-1511300185',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.wsj.com/articles/funding-snapshot-overclock-labs-raises-1-3-million-seed-round-to-automate-cloud-infrastructure-1511300185',
+    },
   ],
 } satisfies AdapterProject

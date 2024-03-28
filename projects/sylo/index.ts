@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/sylo',
   url: 'https://www.sylo.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

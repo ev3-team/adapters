@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/heliuslabs',
   url: 'https://www.helius.dev/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

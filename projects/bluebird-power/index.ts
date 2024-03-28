@@ -21,5 +21,10 @@ export default {
   twitter: null,
   url: 'http://www.bluebirdpower.com/',
   verified: false,
-  fundraisesUrls: ['https://siliconcanals.com/crowdfunding/bluebird-power-raises-350k/'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://siliconcanals.com/crowdfunding/bluebird-power-raises-350k/',
+    },
+  ],
 } satisfies AdapterProject

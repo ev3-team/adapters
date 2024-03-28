@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/perpprotocol',
   url: 'https://perp.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

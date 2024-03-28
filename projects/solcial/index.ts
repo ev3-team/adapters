@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://solcial.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

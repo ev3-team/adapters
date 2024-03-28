@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://noornation.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.thecatalystfund.com/insights-blog/why-we-invested-in-noornation-a-startup-providing-farmers-with-solar-energy-and-water-solutions-in-egypt',
+  fundraises: [
+    {
+      roundType: 'Accelerator',
+      url: 'https://www.thecatalystfund.com/insights-blog/why-we-invested-in-noornation-a-startup-providing-farmers-with-solar-energy-and-water-solutions-in-egypt',
+    },
   ],
 } satisfies AdapterProject

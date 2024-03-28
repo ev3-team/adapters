@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/artifyerc',
   url: 'https://artifylabs.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

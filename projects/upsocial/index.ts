@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/UpSocialBCN',
   url: 'https://upsocial.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

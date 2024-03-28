@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Drife_official',
   url: 'https://www.pluralenergy.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

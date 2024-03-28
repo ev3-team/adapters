@@ -31,5 +31,5 @@ export default {
   twitter: null,
   url: 'https://www.ukiss.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

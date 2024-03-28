@@ -42,8 +42,14 @@ export default {
   twitter: null,
   url: 'https://upshot.xyz/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20220322005518/en/Upshot-Raises-22M-Series-A2-Led-by-Polychain-to-Accelerate-Development-of-Real-Time-NFT-Appraisals',
-    'https://www.businesswire.com/news/home/20210506005124/en/Upshot-Raises-7.5-Million-in-Series-A-Led-by-Framework-Ventures-CoinFund-and-Blockchain-Capital',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.businesswire.com/news/home/20220322005518/en/Upshot-Raises-22M-Series-A2-Led-by-Polychain-to-Accelerate-Development-of-Real-Time-NFT-Appraisals',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20210506005124/en/Upshot-Raises-7.5-Million-in-Series-A-Led-by-Framework-Ventures-CoinFund-and-Blockchain-Capital',
+    },
   ],
 } satisfies AdapterProject

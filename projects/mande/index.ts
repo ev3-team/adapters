@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/MandeNetwork',
   url: 'https://www.mande.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

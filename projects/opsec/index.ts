@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://opsec.software/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

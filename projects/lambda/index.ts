@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://lambda.im/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Greenpowertrus',
   url: 'https://www.greenpowern.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

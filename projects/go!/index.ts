@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/GoHealthHero',
   url: 'https://t.co/QiGg27OEIj',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://shamba.link/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

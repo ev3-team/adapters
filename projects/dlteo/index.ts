@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/dlt_eo',
   url: 'https://www.dlteo.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

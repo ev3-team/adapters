@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/home',
   url: 'https://datsproject.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

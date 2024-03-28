@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://ergoplatform.org/en/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

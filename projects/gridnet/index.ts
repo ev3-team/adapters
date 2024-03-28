@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/gridnetproject?lang=en',
   url: 'https://gridnet.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://piphi.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

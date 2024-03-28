@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/KuvaNet',
   url: 'https://kuva.com/',
   verified: false,
-  fundraisesUrls: ['https://payloadspace.com/kuva-raises-17-6m-series-a-will-expand-stateside/'],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://payloadspace.com/kuva-raises-17-6m-series-a-will-expand-stateside/',
+    },
+  ],
 } satisfies AdapterProject

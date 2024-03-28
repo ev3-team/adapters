@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/veritree_',
   url: 'https://www.veritree.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

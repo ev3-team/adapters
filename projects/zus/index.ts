@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/zus_network',
   url: 'https://zus.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

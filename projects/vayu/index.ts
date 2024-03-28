@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/VayuRobotics/status/1709162252866355627',
   url: 'https://www.vayurobotics.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://lilypad.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

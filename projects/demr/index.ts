@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/DeMR_official',
   url: 'https://www.demr.xyz/#/',
   verified: false,
-  fundraisesUrls: [
-    'https://coinedition.com/demr-kucoin-labs-first-strategic-investment-in-the-depin-track/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://coinedition.com/demr-kucoin-labs-first-strategic-investment-in-the-depin-track/',
+    },
   ],
 } satisfies AdapterProject

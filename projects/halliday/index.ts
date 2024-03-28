@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/HallidayHQ',
   url: 'https://www.halliday.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

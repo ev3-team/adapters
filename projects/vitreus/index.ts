@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/VitreusChain',
   url: 'https://vitreus.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

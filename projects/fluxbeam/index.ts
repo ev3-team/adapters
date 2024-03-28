@@ -21,5 +21,5 @@ export default {
   twitter: 'https://solana.com/discord',
   url: 'https://fluxbeam.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

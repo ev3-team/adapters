@@ -33,5 +33,10 @@ export default {
   twitter: 'https://twitter.com/joinsuperlocal',
   url: 'https://www.superlocal.com/',
   verified: false,
-  fundraisesUrls: ['https://dot.la/superlocal-2650547082.html'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://dot.la/superlocal-2650547082.html',
+    },
+  ],
 } satisfies AdapterProject

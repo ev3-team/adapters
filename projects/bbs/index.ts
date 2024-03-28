@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/BBSnetworkIO',
   url: 'https://www.bbsnetwork.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

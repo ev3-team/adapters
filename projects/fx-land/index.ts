@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/functionland',
   url: 'https://fx.land/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.newswire.ca/news-releases/functionland-raises-1-1m-in-seed-funding-830473543.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.newswire.ca/news-releases/functionland-raises-1-1m-in-seed-funding-830473543.html',
+    },
   ],
 } satisfies AdapterProject

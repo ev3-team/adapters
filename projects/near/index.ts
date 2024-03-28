@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/nearprotocol',
   url: 'https://near.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

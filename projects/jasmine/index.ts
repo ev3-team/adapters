@@ -32,5 +32,5 @@ export default {
   twitter: 'https://twitter.com/Jasmine_Energy',
   url: 'https://www.jasmine.energy/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

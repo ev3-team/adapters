@@ -24,5 +24,5 @@ export default {
   twitter: 'https://twitter.com/chainlink',
   url: 'https://chain.link/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

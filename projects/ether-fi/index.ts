@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ether_fi',
   url: 'https://ether.fi/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

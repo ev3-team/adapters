@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/NousResearch',
   url: 'https://nousresearch.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

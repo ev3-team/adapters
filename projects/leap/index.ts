@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/leapdex',
   url: 'https://www.leap.energy/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

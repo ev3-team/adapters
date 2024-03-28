@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/cropo_data',
   url: 'https://www.cropo.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

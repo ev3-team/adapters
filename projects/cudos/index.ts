@@ -38,5 +38,10 @@ export default {
   twitter: 'https://twitter.com/CUDOS_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.cudos.org/',
   verified: false,
-  fundraisesUrls: ['https://www.cudos.org/blog/cudos-raises-10million-in-funding/'],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.cudos.org/blog/cudos-raises-10million-in-funding/',
+    },
+  ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/txprotocol',
   url: 'https://thexprotocol.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

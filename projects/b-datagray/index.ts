@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/b_datagray',
   url: 'https://www.b-datagray.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

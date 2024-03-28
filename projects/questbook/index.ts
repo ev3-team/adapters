@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://questbook.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

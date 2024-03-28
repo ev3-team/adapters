@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/HyperOracle?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'http://hyperoracle.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.theblock.co/post/204061/sequoia-china-and-dao5-back-zk-startup-hyper-oracle',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/204061/sequoia-china-and-dao5-back-zk-startup-hyper-oracle',
+    },
   ],
 } satisfies AdapterProject

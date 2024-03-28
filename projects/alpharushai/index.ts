@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://alpharush.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

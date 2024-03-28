@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/networknoya',
   url: 'https://noya.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

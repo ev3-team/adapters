@@ -32,5 +32,10 @@ export default {
   twitter: null,
   url: 'https://www.somosinternet.co/',
   verified: false,
-  fundraisesUrls: ['https://latamlist.com/somos-internet-raises-13-4m-seed-round/'],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://latamlist.com/somos-internet-raises-13-4m-seed-round/',
+    },
+  ],
 } satisfies AdapterProject

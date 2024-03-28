@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/fwbtweets',
   url: 'https://www.fwb.help/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

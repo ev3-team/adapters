@@ -34,5 +34,5 @@ export default {
   twitter: 'https://twitter.com/FISSIONcodes',
   url: 'https://fission.codes/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

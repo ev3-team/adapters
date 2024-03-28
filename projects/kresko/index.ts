@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/kreskofi',
   url: 'https://www.kresko.fi/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/SingularityDao',
   url: 'https://www.singularitydao.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

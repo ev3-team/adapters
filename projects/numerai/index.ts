@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/numerai',
   url: 'https://numer.ai/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.theblock.co/linked/16868/hedge-fund-numerai-raises-11-million-in-funding-from-placeholder-paradigm',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/linked/16868/hedge-fund-numerai-raises-11-million-in-funding-from-placeholder-paradigm',
+    },
   ],
 } satisfies AdapterProject

@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/nexbloc',
   url: 'https://www.nexbloc.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.scoop.co.nz/stories/BU2205/S00212/nexbloc-accepted-into-the-filecoin-faber-accelerator-for-building-out-deep-tech-web-3-0-solutions.htm?from-mobile=bottom-link-01',
+  fundraises: [
+    {
+      roundType: 'Accelerator',
+      url: 'https://www.scoop.co.nz/stories/BU2205/S00212/nexbloc-accepted-into-the-filecoin-faber-accelerator-for-building-out-deep-tech-web-3-0-solutions.htm?from-mobile=bottom-link-01',
+    },
   ],
 } satisfies AdapterProject

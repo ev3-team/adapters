@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/hubbleprotocol',
   url: 'https://hubbleprotocol.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

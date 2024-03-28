@@ -21,5 +21,5 @@ export default {
   twitter: 'https://mobile.twitter.com/CSolrazr',
   url: 'https://razrfi.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

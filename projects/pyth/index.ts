@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/PythNetwork',
   url: 'https://pyth.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

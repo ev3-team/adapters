@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/lyzislabs',
   url: 'https://www.lyzis.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

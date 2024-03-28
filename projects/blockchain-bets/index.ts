@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/BCBerc20?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://blockchainbets.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

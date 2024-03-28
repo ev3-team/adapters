@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/HashMixOfficial',
   url: 'https://www.hashmix.org/en/#intro',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

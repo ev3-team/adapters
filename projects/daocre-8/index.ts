@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DAOCre8',
   url: 'https://demo.daocre8.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

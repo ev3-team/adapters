@@ -43,5 +43,10 @@ export default {
   twitter: null,
   url: 'https://www.meson.network/',
   verified: false,
-  fundraisesUrls: ['https://finance.yahoo.com/news/meson-network-raises-3-5m-131500338.html'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://finance.yahoo.com/news/meson-network-raises-3-5m-131500338.html',
+    },
+  ],
 } satisfies AdapterProject

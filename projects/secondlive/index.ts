@@ -39,7 +39,10 @@ export default {
   twitter: 'https://twitter.com/SecondLiveReal',
   url: 'https://secondlive.world/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/secondlive-raises-at-30m-valuation-in-the-seed-round-to-build-social-metaverse-301414217.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/secondlive-raises-at-30m-valuation-in-the-seed-round-to-build-social-metaverse-301414217.html',
+    },
   ],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://iome.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

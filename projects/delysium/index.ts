@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://link3.to/delysium',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

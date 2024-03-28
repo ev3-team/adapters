@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://gameswift.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

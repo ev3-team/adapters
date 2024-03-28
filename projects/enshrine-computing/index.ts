@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/EnshrineCC',
   url: 'https://enshrine.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

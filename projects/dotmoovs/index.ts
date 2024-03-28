@@ -33,7 +33,10 @@ export default {
   twitter: 'https://twitter.com/dotmoovs',
   url: 'https://dotmoovs.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://chainwire.org/2021/05/12/dotmoovs-raises-840000-from-strategic-investors-and-partners/',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://chainwire.org/2021/05/12/dotmoovs-raises-840000-from-strategic-investors-and-partners/',
+    },
   ],
 } satisfies AdapterProject

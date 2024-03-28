@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/TravelSwap_xyz',
   url: 'https://travelswap.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

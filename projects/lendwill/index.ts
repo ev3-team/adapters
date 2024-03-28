@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/lendwill',
   url: 'https://lendwill.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

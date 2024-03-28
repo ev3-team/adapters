@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Gear_Foundation',
   url: 'https://gear.foundation/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

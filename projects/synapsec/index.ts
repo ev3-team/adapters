@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/SYNAPSEC_AI',
   url: 'https://www.synapsec.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

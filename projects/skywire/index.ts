@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/SkycoinProject',
   url: 'https://www.skycoin.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

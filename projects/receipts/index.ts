@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://receipts.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

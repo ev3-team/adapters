@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/tropiguna',
   url: 'https://www.tropiguna.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/brevis_zk',
   url: 'https://brevis.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 't.me/Suanbot',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

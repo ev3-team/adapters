@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/jinnidotcom',
   url: 'http://www.jinni.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

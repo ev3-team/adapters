@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ojo_network',
   url: 'https://ojo.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

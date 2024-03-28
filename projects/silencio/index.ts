@@ -23,5 +23,10 @@ export default {
     'https://twitter.com/silencioNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.silencio.network/',
   verified: false,
-  fundraisesUrls: ['https://twitter.com/silencionetwork/status/1759201491821240687'],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://twitter.com/silencionetwork/status/1759201491821240687',
+    },
+  ],
 } satisfies AdapterProject

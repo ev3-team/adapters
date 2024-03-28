@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/trufflesuite',
   url: 'https://trufflesuite.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

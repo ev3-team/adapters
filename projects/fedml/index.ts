@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/fedml_ai',
   url: 'https://www.fedml.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

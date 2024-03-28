@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/dropps_io',
   url: 'https://www.dropps.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

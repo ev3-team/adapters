@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/chia_project',
   url: 'https://www.chia.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

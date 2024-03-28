@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/wire',
   url: 'https://wire.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

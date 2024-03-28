@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/armur_ai',
   url: 'https://armur.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

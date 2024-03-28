@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ETHGlobal',
   url: 'https://www.shopconnect.live/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

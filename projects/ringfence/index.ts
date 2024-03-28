@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/RingfenceAI',
   url: null,
   verified: false,
-  fundraisesUrls: [
-    'https://crypto.news/ringfence-announces-1-5m-raise-to-empower-and-reward-creators/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://crypto.news/ringfence-announces-1-5m-raise-to-empower-and-reward-creators/',
+    },
   ],
 } satisfies AdapterProject

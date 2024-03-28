@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/charge_xyz',
   url: 'https://www.charge.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

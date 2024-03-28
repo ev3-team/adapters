@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ToucanProtocol',
   url: 'https://toucan.earth/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

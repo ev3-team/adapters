@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Things_IX',
   url: 'https://www.thingsix.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

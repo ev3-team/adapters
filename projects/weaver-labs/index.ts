@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://www.weaverlabs.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://justentrepreneurs.co.uk/news/weaver-labs-secures-400000-uk-government-funding-in-future-ran-competition',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://justentrepreneurs.co.uk/news/weaver-labs-secures-400000-uk-government-funding-in-future-ran-competition',
+    },
   ],
 } satisfies AdapterProject

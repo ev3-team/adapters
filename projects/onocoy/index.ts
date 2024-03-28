@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/onocoyRTK',
   url: 'https://www.onocoy.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.startupticker.ch/en/news/onocoy-wins-100-000-from-eu-agency-space-program',
+  fundraises: [
+    {
+      roundType: 'Accelerator',
+      url: 'https://www.startupticker.ch/en/news/onocoy-wins-100-000-from-eu-agency-space-program',
+    },
   ],
 } satisfies AdapterProject

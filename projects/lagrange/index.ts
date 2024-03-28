@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/lagrangedev',
   url: 'https://www.lagrange.dev/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://novelty.today/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

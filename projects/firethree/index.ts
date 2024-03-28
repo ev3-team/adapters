@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/_firethree',
   url: 'https://www.firethree.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

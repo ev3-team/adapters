@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/FlareNetworks',
   url: 'https://flare.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

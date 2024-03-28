@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://disbalancer.com/about/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

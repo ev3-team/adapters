@@ -37,10 +37,30 @@ export default {
   twitter: 'https://twitter.com/Fetch_ai',
   url: 'https://fetch.ai/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.cypherhunter.com/zh-hans/e/fetch-ai-raised-funding-2018-06-11/',
-    'https://www.coindesk.com/markets/2021/03/10/fetchai-nabs-5m-in-institutional-investment-fireblocks-to-add-support-for-fet-token/',
-    'https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/',
-    'https://cointelegraph.com/news/bitget-pledges-10m-for-fetch-ai-ecosystem-amid-chatgpt-boom',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.cypherhunter.com/zh-hans/e/fetch-ai-raised-funding-2018-06-11/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/markets/2021/03/10/fetchai-nabs-5m-in-institutional-investment-fireblocks-to-add-support-for-fet-token/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://cointelegraph.com/news/bitget-pledges-10m-for-fetch-ai-ecosystem-amid-chatgpt-boom',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://cointelegraph.com/news/bitget-pledges-10m-for-fetch-ai-ecosystem-amid-chatgpt-boom',
+    },
   ],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/dlt_eo',
   url: 'https://orbuculum.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.arden.cc/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

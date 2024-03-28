@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/BlackHatEvents',
   url: 'https://blackhatco.in/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

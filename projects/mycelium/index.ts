@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/myceliumx',
   url: 'https://www.myceliumnetworks.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

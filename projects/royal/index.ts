@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/join_royal',
   url: 'https://royal.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

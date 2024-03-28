@@ -21,5 +21,10 @@ export default {
   twitter: null,
   url: 'https://bittensor.com/',
   verified: false,
-  fundraisesUrls: ['https://opentensor.medium.com/november-network-update-114234436dfb'],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://opentensor.medium.com/november-network-update-114234436dfb',
+    },
+  ],
 } satisfies AdapterProject

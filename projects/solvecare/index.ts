@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://solve.care/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

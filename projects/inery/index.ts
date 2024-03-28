@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ineryblockchain',
   url: 'https://www.inery.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

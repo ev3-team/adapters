@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/Drife_official',
   url: 'https://www.drife.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/drife-closes-2-7mm-in-venture-token-funding-30x-oversubscribed--plans-ido--uniswap-listing-on-aug-6th-301337032.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/drife-closes-2-7mm-in-venture-token-funding-30x-oversubscribed--plans-ido--uniswap-listing-on-aug-6th-301337032.html',
+    },
   ],
 } satisfies AdapterProject

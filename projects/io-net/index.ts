@@ -21,5 +21,5 @@ export default {
   twitter: 'https://discord.com/invite/kqFzFK7fg2',
   url: 'https://io.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

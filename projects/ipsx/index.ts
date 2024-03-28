@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ipexchange1',
   url: 'https://ip.sx/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

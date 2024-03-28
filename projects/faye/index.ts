@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/faye_digital',
   url: 'https://www.faye.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

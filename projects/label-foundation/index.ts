@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://label.foundation/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

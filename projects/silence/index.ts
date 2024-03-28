@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/silentauth',
   url: 'https://www.silencelaboratories.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

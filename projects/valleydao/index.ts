@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.valleydao.bio/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://web3go.xyz/home',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

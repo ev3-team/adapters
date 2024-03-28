@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ppio_official?lang=en',
   url: 'https://www.ppio.cloud/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

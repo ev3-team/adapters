@@ -35,5 +35,10 @@ export default {
   twitter: 'https://twitter.com/spexigon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://spexigeo.com/',
   verified: false,
-  fundraisesUrls: ['https://finance.yahoo.com/news/software-firm-spexi-raises-us-085832523.html'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://finance.yahoo.com/news/software-firm-spexi-raises-us-085832523.html',
+    },
+  ],
 } satisfies AdapterProject

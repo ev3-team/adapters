@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.frigg.eco/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

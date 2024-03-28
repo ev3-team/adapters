@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/kadena_io',
   url: 'https://kadena.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

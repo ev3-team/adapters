@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/ngrave_official',
   url: 'https://www.ngrave.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

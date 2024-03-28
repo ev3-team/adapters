@@ -52,7 +52,10 @@ export default {
   twitter: 'https://twitter.com/synesis_one',
   url: 'https://www.synesis.one/',
   verified: false,
-  fundraisesUrls: [
-    'https://cointelegraph.com/press-releases/synesis-one-raises-95m-to-gamify-ai-data-collection',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://cointelegraph.com/press-releases/synesis-one-raises-95m-to-gamify-ai-data-collection',
+    },
   ],
 } satisfies AdapterProject

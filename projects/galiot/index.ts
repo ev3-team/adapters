@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/galiotio?lang=en',
   url: 'https://www.galiot.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

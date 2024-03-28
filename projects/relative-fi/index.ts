@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/relativefi',
   url: 'https://relative.fi/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

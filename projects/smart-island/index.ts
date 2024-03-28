@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/smartislandibz',
   url: 'http://smartislandibiza.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

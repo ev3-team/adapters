@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/centrifuge',
   url: 'https://centrifuge.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/AstriaOrg',
   url: 'https://www.astria.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/kuzco_xyz',
   url: 'https://kuzco.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

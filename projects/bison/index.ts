@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/bison_labs',
   url: 'https://bisonlabs.io/#/dashboard',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

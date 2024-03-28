@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Fut_Networks',
   url: 'https://futurenetworks.host/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

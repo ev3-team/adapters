@@ -32,5 +32,5 @@ export default {
   twitter: 'https://twitter.com/photon_storage',
   url: 'https://www.photon.storage/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

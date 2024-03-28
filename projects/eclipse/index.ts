@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/EclipseFND',
   url: 'https://www.eclipse.builders/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

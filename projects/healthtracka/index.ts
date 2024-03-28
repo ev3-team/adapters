@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/healthtracka?lang=en',
   url: 'https://www.healthtracka.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2022/06/21/nigerian-at-home-lab-testing-platform-healthtracka-gets-1-5m-backed-by-female-vcs/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://techcrunch.com/2022/06/21/nigerian-at-home-lab-testing-platform-healthtracka-gets-1-5m-backed-by-female-vcs/',
+    },
   ],
 } satisfies AdapterProject

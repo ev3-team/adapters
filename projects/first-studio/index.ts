@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://firststudio.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

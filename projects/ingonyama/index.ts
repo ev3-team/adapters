@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Ingo_zk',
   url: 'https://www.ingonyama.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

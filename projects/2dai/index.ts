@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://dapp.2dai.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

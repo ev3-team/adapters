@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/LunyrInc',
   url: 'https://lunyr.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://cointelegraph.com/press-releases/lunyr-crowdsale-successfully-exceeds-minimum-target',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://cointelegraph.com/press-releases/lunyr-crowdsale-successfully-exceeds-minimum-target',
+    },
   ],
 } satisfies AdapterProject

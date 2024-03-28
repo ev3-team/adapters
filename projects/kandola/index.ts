@@ -31,7 +31,10 @@ export default {
   twitter: 'https://twitter.com/KandolaNetwork',
   url: 'https://kandola.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswireindia.com/blockchain-startup-kandola-raises-usd-450k-in-a-pre-seed-round-funding-led-by-arcanum-capital-alphawave-global-and-polygons-sandeep-nailwal-78135.html',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.businesswireindia.com/blockchain-startup-kandola-raises-usd-450k-in-a-pre-seed-round-funding-led-by-arcanum-capital-alphawave-global-and-polygons-sandeep-nailwal-78135.html',
+    },
   ],
 } satisfies AdapterProject

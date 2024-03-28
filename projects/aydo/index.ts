@@ -21,5 +21,5 @@ export default {
   twitter: 'https://x.com/AYDO_AI?s=20',
   url: 'https://www.aydo.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

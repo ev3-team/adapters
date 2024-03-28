@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/cpchain_io',
   url: 'https://cpchain.io/#/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

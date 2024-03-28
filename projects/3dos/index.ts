@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/3DOSNetwork',
   url: 'https://3dos.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Athenas_ai',
   url: 'https://athenasai.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

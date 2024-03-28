@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Injective_',
   url: 'https://injective.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

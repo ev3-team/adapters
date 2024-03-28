@@ -55,8 +55,14 @@ export default {
     'https://twitter.com/DIMO_Network?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://dimo.zone/app',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2022/02/15/coinfund-joins-9m-round-for-digital-infrastructure-incs-bid-to-decentralize-vehicle-data/',
-    'https://www.theblock.co/post/272456/decentralized-infrastructure-11-5-million-series-a-coinfund',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2022/02/15/coinfund-joins-9m-round-for-digital-infrastructure-incs-bid-to-decentralize-vehicle-data/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.theblock.co/post/272456/decentralized-infrastructure-11-5-million-series-a-coinfund',
+    },
   ],
 } satisfies AdapterProject

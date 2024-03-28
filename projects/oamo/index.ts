@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Oamo_io',
   url: 'https://www.oamo.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

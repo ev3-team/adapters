@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/JunoNetwork',
   url: 'https://junonetwork.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

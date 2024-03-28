@@ -13,6 +13,7 @@ import {
   AdapterProjectCategory,
   AdapterProjectChain,
   AdapterProjectDuneQueryIdentifiers,
+  AdapterProjectFundRaise,
 } from '../projects/types'
 import { FundRaiseRow } from './types'
 
@@ -53,8 +54,8 @@ function getProjectsInvestors(): Promise<Map<string, string[]>> {
   })
 }
 
-function getProjectsFundraises(): Promise<Map<string, string[]>> {
-  const projectsFundraises = new Map<string, string[]>()
+function getProjectsFundraises(): Promise<Map<string, AdapterProjectFundRaise[]>> {
+  const projectsFundraises = new Map<string, AdapterProjectFundRaise[]>()
   return new Promise((resolve) => {
     createReadStream(path.resolve(__dirname, 'data/DePIN-Fundraises.csv'))
       .pipe(csv.parse({ headers: true }))
@@ -62,9 +63,9 @@ function getProjectsFundraises(): Promise<Map<string, string[]>> {
       .on('data', async (row: FundRaiseRow) => {
         if (!row.sourceEuropeanUnionRL) return
         const projectFundraises = projectsFundraises.get(row.projectId)
-        const updatedInvestments = projectFundraises
-          ? [...projectFundraises, row.sourceEuropeanUnionRL]
-          : [row.sourceEuropeanUnionRL]
+        const updatedInvestments: AdapterProjectFundRaise[] = projectFundraises
+          ? [...projectFundraises, { roundType: row.roundType, url: row.sourceEuropeanUnionRL }]
+          : [{ roundType: row.roundType, url: row.sourceEuropeanUnionRL }]
         projectsFundraises.set(row.projectId, Array.from(new Set(updatedInvestments)))
       })
       .on('end', () => resolve(projectsFundraises))
@@ -140,7 +141,7 @@ async function run() {
         twitter: !!row.twitter ? row.twitter : null,
         url: !!row.url ? row.url : null,
         verified: Boolean(row.verified),
-        fundraisesUrls: projectsFundraises.get(projectId) ?? ([] as string[]),
+        fundraises: projectsFundraises.get(projectId) ?? [],
       })
     })
     .on('end', async () => {

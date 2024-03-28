@@ -45,5 +45,10 @@ export default {
   twitter: 'https://twitter.com/radicle',
   url: 'https://radicle.xyz/',
   verified: false,
-  fundraisesUrls: ['https://www.theblock.co/linked/95295/open-source-radicle-12-million-galaxy'],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.theblock.co/linked/95295/open-source-radicle-12-million-galaxy',
+    },
+  ],
 } satisfies AdapterProject

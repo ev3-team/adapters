@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/quant_network',
   url: 'https://quant.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

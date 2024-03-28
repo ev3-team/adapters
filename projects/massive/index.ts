@@ -51,7 +51,10 @@ export default {
   twitter: null,
   url: 'https://www.joinmassive.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/massive-raises-11-million-in-seed-funding-from-point72-ventures-to-bring-a-new-business-model-to-the-internet-301434259.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/massive-raises-11-million-in-seed-funding-from-point72-ventures-to-bring-a-new-business-model-to-the-internet-301434259.html',
+    },
   ],
 } satisfies AdapterProject

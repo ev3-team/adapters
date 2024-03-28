@@ -38,7 +38,10 @@ export default {
   twitter: null,
   url: 'https://fileverse.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2023/10/17/Web3 Capital-powered-file-management-app-raises-15m-to-offer-alternative-to-google/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2023/10/17/Web3 Capital-powered-file-management-app-raises-15m-to-offer-alternative-to-google/',
+    },
   ],
 } satisfies AdapterProject

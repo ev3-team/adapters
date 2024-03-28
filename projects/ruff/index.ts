@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'http://ruffchain.com',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

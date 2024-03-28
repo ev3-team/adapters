@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/soar_chain',
   url: 'https://www.soarchain.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject
