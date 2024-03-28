@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.0.0-20240328161318
+
+### Patch Changes
+
+- add roundType to fundraises field
+
 ## 0.0.0-20240327125724
 
 ### Patch Changes
