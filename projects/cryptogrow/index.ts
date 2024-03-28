@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://cryptogrow.world/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

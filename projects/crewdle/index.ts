@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/Crewdle_app',
   url: 'https://crewdle.com/peers',
   verified: false,
-  fundraisesUrls: [
-    'https://betakit.com/crewdle-raises-2-15-million-to-make-video-conferencing-environmentally-friendly/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://betakit.com/crewdle-raises-2-15-million-to-make-video-conferencing-environmentally-friendly/',
+    },
   ],
 } satisfies AdapterProject

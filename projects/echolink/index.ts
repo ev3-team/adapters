@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://echolink.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/network3_com',
   url: 'https://network3.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

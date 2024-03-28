@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Defli_Networks',
   url: 'https://defli.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

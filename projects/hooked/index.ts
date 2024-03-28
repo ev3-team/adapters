@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/HookedProtocol',
   url: 'https://hooked.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

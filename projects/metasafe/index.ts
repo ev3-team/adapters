@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://metasafe.one/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

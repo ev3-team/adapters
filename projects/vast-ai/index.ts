@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/vast_ai',
   url: 'https://vast.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/Medium',
   url: 'https://www.tanssi.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://viewsdao.com/v/Moondance-Labs-Raises-3-Million-in-Seed-Funding-for-Tanssi-Protocol-Development0',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://viewsdao.com/v/Moondance-Labs-Raises-3-Million-in-Seed-Funding-for-Tanssi-Protocol-Development0',
+    },
   ],
 } satisfies AdapterProject

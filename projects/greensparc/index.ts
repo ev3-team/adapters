@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/greensparc',
   url: 'https://www.greensparc.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

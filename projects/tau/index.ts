@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/TauLogicAI',
   url: 'https://tau.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

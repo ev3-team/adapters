@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MetaFi_Official',
   url: 'https://www.metafi.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/iknowspots',
   url: 'https://solana.iknowspots.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

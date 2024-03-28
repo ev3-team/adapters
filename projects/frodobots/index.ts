@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.frodobots.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

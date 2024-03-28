@@ -46,5 +46,5 @@ export default {
   twitter: 'https://twitter.com/DeployOnStackOS',
   url: 'https://www.stackos.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

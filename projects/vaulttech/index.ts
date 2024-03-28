@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://vault.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/VectorSpaceBio',
   url: 'https://vectorspacebio.science/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

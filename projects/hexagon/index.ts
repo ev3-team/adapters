@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/hexagonab?lang=en',
   url: 'https://www.hexagonwireless.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.globenewswire.com/news-release/2022/05/19/2447081/0/en/Hexagon-Wireless-Raises-2-Million-To-Build-Decentralized-Wireless-Networks.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.globenewswire.com/news-release/2022/05/19/2447081/0/en/Hexagon-Wireless-Raises-2-Million-To-Build-Decentralized-Wireless-Networks.html',
+    },
   ],
 } satisfies AdapterProject

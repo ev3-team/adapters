@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/CedalioTech',
   url: 'https://cedalio.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

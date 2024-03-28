@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/AleoHQ',
   url: 'https://aleo.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

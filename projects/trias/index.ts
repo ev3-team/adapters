@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/triaslab',
   url: 'https://www.trias.one/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

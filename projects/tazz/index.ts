@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://tazz.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

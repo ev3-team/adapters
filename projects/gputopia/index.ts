@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/GPUtopia',
   url: 'https://gputopia.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

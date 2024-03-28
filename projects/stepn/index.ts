@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/Stepnofficial',
   url: 'https://www.stepn.com/',
   verified: false,
-  fundraisesUrls: ['https://www.theblock.co/post/130953/solana-move-to-earn-stepn-funding'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/130953/solana-move-to-earn-stepn-funding',
+    },
+  ],
 } satisfies AdapterProject

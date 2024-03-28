@@ -40,5 +40,5 @@ export default {
   twitter: null,
   url: 'https://www.sinso.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

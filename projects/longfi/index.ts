@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/LongFiSolutions',
   url: 'https://www.longfisolutions.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

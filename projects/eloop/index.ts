@@ -21,5 +21,10 @@ export default {
   twitter: null,
   url: 'https://eloop.one/en/',
   verified: false,
-  fundraisesUrls: ['https://superangels.club/eloop-raised-new-million-investment/'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://superangels.club/eloop-raised-new-million-investment/',
+    },
+  ],
 } satisfies AdapterProject

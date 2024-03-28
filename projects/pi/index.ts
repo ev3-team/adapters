@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/PiCoreTeam',
   url: 'https://minepi.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

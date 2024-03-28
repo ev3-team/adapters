@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/AresProtocolLab',
   url: 'https://www.aresprotocol.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

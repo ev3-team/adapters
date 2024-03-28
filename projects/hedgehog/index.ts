@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/githedgehog',
   url: 'https://githedgehog.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MANTRAOMniverse',
   url: 'https://www.mantraomniverse.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

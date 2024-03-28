@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/bloxmove',
   url: 'https://bloxmove.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

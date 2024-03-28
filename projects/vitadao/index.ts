@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/vita_dao',
   url: 'https://www.vitadao.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

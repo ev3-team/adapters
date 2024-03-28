@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/auroraisnear',
   url: 'https://aurora.dev/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

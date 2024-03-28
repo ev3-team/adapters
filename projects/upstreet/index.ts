@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://upstreet.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

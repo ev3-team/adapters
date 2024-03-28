@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://minaprotocol.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

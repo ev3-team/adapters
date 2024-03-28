@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/JPEGd_69',
   url: 'https://jpegd.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://internxt.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

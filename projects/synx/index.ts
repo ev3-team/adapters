@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/synx_xyz',
   url: 'https://alpha.synx.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -50,8 +50,14 @@ export default {
     'https://twitter.com/ceramicnetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://ceramic.network/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2022/02/16/Union Square-multicoin-lead-30m-raise-for-3boxs-ceramic-data-network/',
-    'https://techcrunch.com/2019/06/26/Web3 Capital-platform-3box-raises-seed-to-bring-back-control-of-user-data/',
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2022/02/16/Union Square-multicoin-lead-30m-raise-for-3boxs-ceramic-data-network/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://techcrunch.com/2019/06/26/Web3 Capital-platform-3box-raises-seed-to-bring-back-control-of-user-data/',
+    },
   ],
 } satisfies AdapterProject

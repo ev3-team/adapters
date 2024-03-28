@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/glaciertechinc',
   url: 'https://endwaste.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

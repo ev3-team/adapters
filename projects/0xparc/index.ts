@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://0xparc.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

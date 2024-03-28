@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ShinkaiProtocol',
   url: 'https://www.shinkai.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

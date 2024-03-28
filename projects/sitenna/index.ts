@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://sitenna.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.siliconrepublic.com/start-ups/sitenna-funding-telecoms-5g-us-atlanta-canada-expansion-limerick',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.siliconrepublic.com/start-ups/sitenna-funding-telecoms-5g-us-atlanta-canada-expansion-limerick',
+    },
   ],
 } satisfies AdapterProject

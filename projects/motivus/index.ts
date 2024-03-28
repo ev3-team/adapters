@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/motivushpcn',
   url: 'http://motivus.cl/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

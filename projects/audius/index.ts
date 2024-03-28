@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/audius',
   url: 'https://audius.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

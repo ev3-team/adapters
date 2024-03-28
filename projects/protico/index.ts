@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/protico_io',
   url: 'https://protico.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

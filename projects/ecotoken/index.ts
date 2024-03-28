@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://ecotoken.earth/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

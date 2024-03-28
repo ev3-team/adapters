@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://shoggoth.systems/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

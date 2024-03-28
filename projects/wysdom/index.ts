@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/WysdomXyz',
   url: 'https://wysdom.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

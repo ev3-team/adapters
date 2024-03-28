@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://hellotempo.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

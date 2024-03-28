@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ClinTexCTi',
   url: 'https://clintex.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -32,7 +32,10 @@ export default {
   twitter: 'https://twitter.com/sarcophagusio',
   url: 'https://sarcophagus.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://decrypt.co/90032/crypto-dead-mans-switch-sarcophagus-raises-5-47m-from-vcs-via-dao',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://decrypt.co/90032/crypto-dead-mans-switch-sarcophagus-raises-5-47m-from-vcs-via-dao',
+    },
   ],
 } satisfies AdapterProject

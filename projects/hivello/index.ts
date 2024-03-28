@@ -34,7 +34,10 @@ export default {
   twitter: null,
   url: 'https://www.hivello.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/hivello-announces-upsized-funding-round-raising-usd-2-5m-amidst-high-demand-302049350.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/hivello-announces-upsized-funding-round-raising-usd-2-5m-amidst-high-demand-302049350.html',
+    },
   ],
 } satisfies AdapterProject

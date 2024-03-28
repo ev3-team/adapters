@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/deBridgeFinance',
   url: 'https://www.concordia.systems/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

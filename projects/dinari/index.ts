@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DinariGlobal',
   url: 'https://www.dinari.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

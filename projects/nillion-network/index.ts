@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/nillionnetwork',
   url: 'https://www.nillion.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

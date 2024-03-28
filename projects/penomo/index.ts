@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/penomoprotocol',
   url: 'https://penomo.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

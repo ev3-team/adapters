@@ -41,7 +41,10 @@ export default {
   twitter: 'https://twitter.com/KwilTeam',
   url: 'https://www.kwil.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.accesswire.com/718966/Decentralized-Database-Platform-Kwil-Raises-89M-Seed-Round',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.accesswire.com/718966/Decentralized-Database-Platform-Kwil-Raises-89M-Seed-Round',
+    },
   ],
 } satisfies AdapterProject

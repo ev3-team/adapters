@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Apillon',
   url: 'https://apillon.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

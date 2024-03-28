@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://www.mogul.club/',
   verified: false,
-  fundraisesUrls: [
-    'https://techcrunch.com/2023/11/08/mogul-club-raises-3-6m-toward-its-effort-to-make-real-estate-investing-more-accessible/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://techcrunch.com/2023/11/08/mogul-club-raises-3-6m-toward-its-effort-to-make-real-estate-investing-more-accessible/',
+    },
   ],
 } satisfies AdapterProject

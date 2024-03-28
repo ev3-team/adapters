@@ -35,7 +35,10 @@ export default {
   twitter: null,
   url: 'https://www.golem.network',
   verified: false,
-  fundraisesUrls: [
-    'https://www.financemagnates.com/cryptocurrency/news/golem-raises-8-6-million-29-minutes-fund-airbnb-computers/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.financemagnates.com/cryptocurrency/news/golem-raises-8-6-million-29-minutes-fund-airbnb-computers/',
+    },
   ],
 } satisfies AdapterProject

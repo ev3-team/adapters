@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/dockhive',
   url: 'https://dockhive.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/heraaggregator',
   url: 'https://hera.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

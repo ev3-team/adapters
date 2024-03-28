@@ -37,5 +37,5 @@ export default {
   twitter: 'https://twitter.com/everVisionHQ',
   url: 'https://ever.vision/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

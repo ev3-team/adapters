@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/finterestICP',
   url: 'https://finterest.gitbook.io/product-docs/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

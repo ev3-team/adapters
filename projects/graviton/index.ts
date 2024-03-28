@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Graviton_XYZ',
   url: 'https://graviton.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

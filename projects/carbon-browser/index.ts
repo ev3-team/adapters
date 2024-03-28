@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://carbon.website/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

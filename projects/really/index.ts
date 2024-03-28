@@ -21,7 +21,10 @@ export default {
   twitter: 'https://twitter.com/reallywireless',
   url: 'https://www.really.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/really-announces-18-million-seed-round-brings-the-sharing-economy-to-mobile-phone-service-301757834.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/really-announces-18-million-seed-round-brings-the-sharing-economy-to-mobile-phone-service-301757834.html',
+    },
   ],
 } satisfies AdapterProject

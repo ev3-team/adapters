@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/dechat_io',
   url: 'https://www.dechat.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

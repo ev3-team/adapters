@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/_kaitoai',
   url: 'https://www.kaito.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

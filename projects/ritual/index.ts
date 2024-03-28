@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/ritualnet',
   url: 'https://ritual.net/',
   verified: false,
-  fundraisesUrls: [
-    'https://finance.yahoo.com/news/former-polychain-partners-raise-25-130000001.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://finance.yahoo.com/news/former-polychain-partners-raise-25-130000001.html',
+    },
   ],
 } satisfies AdapterProject

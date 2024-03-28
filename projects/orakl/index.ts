@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/oraklnetwork',
   url: 'https://orakl.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

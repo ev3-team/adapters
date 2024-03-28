@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/archblock_',
   url: 'https://www.archblock.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/gny_io',
   url: 'http://www.gny.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

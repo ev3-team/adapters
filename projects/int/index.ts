@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/INTCHAIN',
   url: 'https://intchain.io/#/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

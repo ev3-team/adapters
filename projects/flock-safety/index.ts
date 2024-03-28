@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Flock_Safety',
   url: 'https://www.flocksafety.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

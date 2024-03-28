@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/CortexLoop',
   url: 'https://cortexloop.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

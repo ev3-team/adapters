@@ -22,5 +22,10 @@ export default {
   twitter: null,
   url: 'https://myshell.ai/',
   verified: false,
-  fundraisesUrls: ['https://www.theblock.co/post/256691/web-ai-platform-myshell-funding'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/256691/web-ai-platform-myshell-funding',
+    },
+  ],
 } satisfies AdapterProject

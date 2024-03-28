@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Ancient8_gg',
   url: 'https://www.ancient8.gg/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

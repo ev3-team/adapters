@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/opolis',
   url: null,
   verified: false,
-  fundraisesUrls: [
-    'https://www.businesswire.com/news/home/20230713231230/en/Blockchain-Employment-Platform-Opolis-Raises-6.6M-in-Bridge-Round',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.businesswire.com/news/home/20230713231230/en/Blockchain-Employment-Platform-Opolis-Raises-6.6M-in-Bridge-Round',
+    },
   ],
 } satisfies AdapterProject

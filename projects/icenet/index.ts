@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.icenet.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

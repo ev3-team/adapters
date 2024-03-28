@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/apus_network',
   url: 'https://www.apus.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

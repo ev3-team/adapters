@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/cellframenet',
   url: 'https://cellframe.net/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

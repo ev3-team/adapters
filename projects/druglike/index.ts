@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/druglike_io',
   url: 'https://druglike.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

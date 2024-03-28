@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/nettensor',
   url: 'https://www.nettensor.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

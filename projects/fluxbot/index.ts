@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://fluxbot.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

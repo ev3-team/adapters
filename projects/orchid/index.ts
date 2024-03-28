@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/OrchidProtocol',
   url: 'https://www.orchid.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

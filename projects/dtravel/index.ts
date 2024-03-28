@@ -42,8 +42,14 @@ export default {
   twitter: 'https://twitter.com/DtravelDAO',
   url: 'https://www.dtravel.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.travolution.com/news/travel-sectors/accommodation/travala-com-raises-5m-to-launch-home-sharing-blockchain-platform-dtravel/',
-    'https://ca.finance.yahoo.com/news/dtravel-receives-backing-borderless-capital-202000677.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.travolution.com/news/travel-sectors/accommodation/travala-com-raises-5m-to-launch-home-sharing-blockchain-platform-dtravel/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://ca.finance.yahoo.com/news/dtravel-receives-backing-borderless-capital-202000677.html',
+    },
   ],
 } satisfies AdapterProject

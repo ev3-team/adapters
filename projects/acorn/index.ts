@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/AcornProtocol',
   url: 'https://acorn.eco/#/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ValidationCloud',
   url: 'https://www.validationcloud.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

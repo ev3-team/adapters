@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Auth3MetaMirror',
   url: 'https://www.metamirror.space/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

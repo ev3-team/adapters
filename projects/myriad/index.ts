@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/myriad_social',
   url: 'https://www.myriad.social/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

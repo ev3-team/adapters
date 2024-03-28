@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/OfficialXYO',
   url: 'https://xyo.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

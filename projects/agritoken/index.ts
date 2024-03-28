@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/AgriToken',
   url: 'https://agritoken.com.ph/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

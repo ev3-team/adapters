@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2Fjoin_fanztar',
   url: 'https://fanztar.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://economictimes.indiatimes.com/tech/funding/Web3 Capital-creator-monetisation-platform-fanztar-raises-rs-5-crore-in-funding-led-by-india-quotient/articleshow/91510305 Ventures.cms?from=mdr',
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://economictimes.indiatimes.com/tech/funding/Web3 Capital-creator-monetisation-platform-fanztar-raises-rs-5-crore-in-funding-led-by-india-quotient/articleshow/91510305 Ventures.cms?from=mdr',
+    },
   ],
 } satisfies AdapterProject

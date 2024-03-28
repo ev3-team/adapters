@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/empyrealSDK',
   url: 'https://empyreal.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

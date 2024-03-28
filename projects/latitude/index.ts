@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/latitudesh',
   url: 'https://www.latitude.sh/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

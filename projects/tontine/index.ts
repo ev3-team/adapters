@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/TontineTrust',
   url: 'https://playtontine.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

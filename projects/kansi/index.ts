@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/kanisolutions?lang=en',
   url: 'https://www.kansi-solutions.de/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

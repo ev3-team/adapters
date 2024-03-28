@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://superstake.club/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

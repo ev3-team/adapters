@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/forethought_ai',
   url: 'https://autochain.info/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

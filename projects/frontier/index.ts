@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://frontier.tech/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

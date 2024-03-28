@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/diode_chain',
   url: 'https://diode.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

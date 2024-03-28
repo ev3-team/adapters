@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MurAll_art',
   url: 'https://murall.art/home',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

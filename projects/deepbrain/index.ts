@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/DeepBrainChain',
   url: 'https://deepbrainchain.org/index.html',
   verified: false,
-  fundraisesUrls: ['https://golden.com/wiki/DeepBrain_Chain-99B85DK'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://golden.com/wiki/DeepBrain_Chain-99B85DK',
+    },
+  ],
 } satisfies AdapterProject

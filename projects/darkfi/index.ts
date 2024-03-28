@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/DarkFiSquad',
   url: 'https://dark.fi/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

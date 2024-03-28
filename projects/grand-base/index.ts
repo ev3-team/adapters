@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/grandbase_fi',
   url: 'https://grandbase.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://ezkl.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

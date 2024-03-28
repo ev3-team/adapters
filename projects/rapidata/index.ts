@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://www.rapidata.ai/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.venturekick.ch/Rapidata-raises-CHF-15-million-in-funding-round-led-by-BlueYard-pioneering-the-creation-of-a-human-brain-in-the-cloud',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.venturekick.ch/Rapidata-raises-CHF-15-million-in-funding-round-led-by-BlueYard-pioneering-the-creation-of-a-human-brain-in-the-cloud',
+    },
   ],
 } satisfies AdapterProject

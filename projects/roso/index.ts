@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://roso.vip/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

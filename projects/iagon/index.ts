@@ -41,7 +41,10 @@ export default {
   twitter: 'https://twitter.com/IagonOfficial',
   url: 'https://iagon.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.investing.com/news/cryptocurrency-news/iagon-raises-34m-funding-to-build-first-data-platform-on-cardano-2545346',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.investing.com/news/cryptocurrency-news/iagon-raises-34m-funding-to-build-first-data-platform-on-cardano-2545346',
+    },
   ],
 } satisfies AdapterProject

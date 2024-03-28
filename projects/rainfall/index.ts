@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://rainfall.one/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

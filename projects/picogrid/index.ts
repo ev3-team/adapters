@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/zanemountcastle',
   url: 'https://picogrid.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

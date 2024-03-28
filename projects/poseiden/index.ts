@@ -22,5 +22,10 @@ export default {
     'https://twitter.com/REALIcePoseidon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
   url: 'https://www.poseidon.network/company/',
   verified: false,
-  fundraisesUrls: ['https://www.techinasia.com/5-blockchain-startups-longhash-raise-9m'],
+  fundraises: [
+    {
+      roundType: 'Accelerator',
+      url: 'https://www.techinasia.com/5-blockchain-startups-longhash-raise-9m',
+    },
+  ],
 } satisfies AdapterProject

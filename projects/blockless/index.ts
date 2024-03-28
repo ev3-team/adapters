@@ -21,5 +21,5 @@ export default {
   twitter: 'https://x.com/theblockless',
   url: 'https://blockless.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

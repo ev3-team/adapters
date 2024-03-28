@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/LENA_Network',
   url: 'https://www.lena.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -32,7 +32,10 @@ export default {
   twitter: 'https://twitter.com/glifio',
   url: 'https://www.glif.io/en',
   verified: false,
-  fundraisesUrls: [
-    'https://www.coindesk.com/business/2024/02/06/filecoins-liquid-staker-glif-raises-45m-hints-at-token-airdrop/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2024/02/06/filecoins-liquid-staker-glif-raises-45m-hints-at-token-airdrop/',
+    },
   ],
 } satisfies AdapterProject

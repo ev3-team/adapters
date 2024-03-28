@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/nodlenetwork',
   url: 'https://www.nodle.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.globenewswire.com/news-release/2018/09/13/1570282/0/en/Nodle-io-Raises-1-5M-Seed-Funding-to-Bring-IoT-Cryptocurrency-to-App-Developers.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.globenewswire.com/news-release/2018/09/13/1570282/0/en/Nodle-io-Raises-1-5M-Seed-Funding-to-Bring-IoT-Cryptocurrency-to-App-Developers.html',
+    },
   ],
 } satisfies AdapterProject

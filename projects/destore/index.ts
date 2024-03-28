@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.destore.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/AutonomyNetwork',
   url: 'https://www.autonomynetwork.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

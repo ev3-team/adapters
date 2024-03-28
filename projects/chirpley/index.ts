@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/chirpley',
   url: 'https://chirpley.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

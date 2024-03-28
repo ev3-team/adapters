@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/NeutralExchange',
   url: 'https://www.neutralx.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

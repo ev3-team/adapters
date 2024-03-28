@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.nebulas.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

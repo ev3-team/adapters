@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/RoboNetHQ',
   url: 'https://robonet.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/VinciWorld',
   url: 'https://staging.vinciworld.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

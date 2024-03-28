@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MatrixAINetwork',
   url: 'https://www.matrix.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

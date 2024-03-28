@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/raven_protocol',
   url: 'https://www.ravenprotocol.com/',
   verified: false,
-  fundraisesUrls: ['https://medium.com/ravenprotocol/the-raven-protocol-launch-e2f70faf5bfd'],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://medium.com/ravenprotocol/the-raven-protocol-launch-e2f70faf5bfd',
+    },
+  ],
 } satisfies AdapterProject

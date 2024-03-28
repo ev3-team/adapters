@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/deBridgeFinance',
   url: 'https://debridge.finance/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

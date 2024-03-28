@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://celo.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

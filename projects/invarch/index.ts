@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/InvArchNetwork',
   url: 'https://www.invarch.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

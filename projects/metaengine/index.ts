@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/meta_engine',
   url: 'https://www.metaengine.gg/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

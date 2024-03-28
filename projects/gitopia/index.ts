@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/gitopiaDAO',
   url: 'https://gitopia.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

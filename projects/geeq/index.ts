@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/GeeqOfficial',
   url: 'https://geeq.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

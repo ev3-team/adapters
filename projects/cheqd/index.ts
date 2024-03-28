@@ -45,7 +45,10 @@ export default {
   twitter: 'https://twitter.com/cheqd_io',
   url: 'https://cheqd.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://cheqd.io/blog/cheqd-raises-2-6-million-to-drive-the-uptake-of-digital-ids/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://cheqd.io/blog/cheqd-raises-2-6-million-to-drive-the-uptake-of-digital-ids/',
+    },
   ],
 } satisfies AdapterProject

@@ -22,7 +22,10 @@ export default {
   twitter: null,
   url: 'https://beegol.com/',
   verified: false,
-  fundraisesUrls: [
-    'https://www.prnewswire.com/news-releases/indicator-capital-leads-a-us-2-2-million-investment-round-in-beegol-to-improve-the-quality-of-internet-services-301473780.html',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/indicator-capital-leads-a-us-2-2-million-investment-round-in-beegol-to-improve-the-quality-of-internet-services-301473780.html',
+    },
   ],
 } satisfies AdapterProject

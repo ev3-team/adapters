@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://sealink.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

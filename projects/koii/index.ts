@@ -39,5 +39,5 @@ export default {
   twitter: 'https://twitter.com/KoiiNetwork',
   url: 'https://www.koii.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

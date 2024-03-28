@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/ChainstackHQ',
   url: 'https://chainstack.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

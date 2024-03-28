@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/OpenSuperchain',
   url: 'https://www.superchain.network/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

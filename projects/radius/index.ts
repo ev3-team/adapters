@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/joinradius',
   url: 'https://www.radius.space/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

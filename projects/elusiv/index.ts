@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/elusivprivacy',
   url: 'https://www.elusiv.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

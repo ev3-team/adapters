@@ -21,5 +21,5 @@ export default {
   twitter: 'https://www.twitter.com/pitch',
   url: 'https://pitch.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

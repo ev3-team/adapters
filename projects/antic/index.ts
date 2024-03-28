@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/Getantic',
   url: 'https://www.antic.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

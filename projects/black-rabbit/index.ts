@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/BlackRabbitAI',
   url: 'https://blackrabbitai.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

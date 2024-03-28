@@ -21,5 +21,5 @@ export default {
   twitter: 'https://sonr.io/twitter',
   url: 'https://sonr.io/home',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

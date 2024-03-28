@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://iofog.org/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

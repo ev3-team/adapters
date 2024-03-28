@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/VividLabsHQ',
   url: 'https://www.vividlabs.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/pumlhealthio',
   url: 'https://puml.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

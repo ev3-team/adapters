@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/wix',
   url: 'https://phoenix.global/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

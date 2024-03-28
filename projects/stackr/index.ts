@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/0xStackr',
   url: 'http://www.stackrlabs.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

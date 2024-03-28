@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://www.proto-geo.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

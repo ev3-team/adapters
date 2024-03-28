@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/hypersignchain',
   url: 'https://hypersign.id/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

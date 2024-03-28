@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/whyNotSwitch',
   url: 'https://www.whynotswitch.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

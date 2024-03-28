@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://rhino.fi/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

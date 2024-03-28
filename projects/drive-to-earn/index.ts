@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'https://www.d2e.info/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

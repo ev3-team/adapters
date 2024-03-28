@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/MintStarsReal',
   url: 'https://www.mintstars.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

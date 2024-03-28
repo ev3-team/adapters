@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/MetisDAO',
   url: 'https://www.metis.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/AtlasNavi',
   url: 'https://www.atlasnavi.com/',
   verified: false,
-  fundraisesUrls: ['https://www.atlasnavi.com/about'],
+  fundraises: [
+    {
+      roundType: 'Accelerator',
+      url: 'https://www.atlasnavi.com/about',
+    },
+  ],
 } satisfies AdapterProject

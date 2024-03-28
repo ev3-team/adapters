@@ -21,5 +21,5 @@ export default {
   twitter: null,
   url: 'http://inferix.io',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

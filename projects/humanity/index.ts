@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Humanityprot',
   url: 'https://cfh.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

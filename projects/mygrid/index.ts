@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/mygridgreen',
   url: 'https://www.mygrid.energy/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

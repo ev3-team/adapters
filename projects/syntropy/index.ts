@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/Syntropynet',
   url: 'https://www.syntropynet.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

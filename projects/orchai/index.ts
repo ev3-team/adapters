@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/orchai_protocol',
   url: 'https://orchai.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

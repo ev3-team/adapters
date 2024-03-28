@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/joinhelloapp',
   url: 'https://hello.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

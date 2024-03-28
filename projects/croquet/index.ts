@@ -22,7 +22,10 @@ export default {
   twitter: 'https://twitter.com/CroquetIO',
   url: 'https://croquet.io/',
   verified: false,
-  fundraisesUrls: [
-    'https://venturebeat.com/business/croquet-makes-it-possible-to-put-hundreds-of-players-into-web-based-multiplayer-action/',
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://venturebeat.com/business/croquet-makes-it-possible-to-put-hundreds-of-players-into-web-based-multiplayer-action/',
+    },
   ],
 } satisfies AdapterProject

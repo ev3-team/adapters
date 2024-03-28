@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/iotedgechain',
   url: 'https://iotedge.co/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

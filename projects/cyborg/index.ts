@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://cyborgnetwork.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

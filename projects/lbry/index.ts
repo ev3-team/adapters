@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://lbry.com/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

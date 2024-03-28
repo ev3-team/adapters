@@ -21,5 +21,5 @@ export default {
   twitter: 'https://twitter.com/valist_io',
   url: 'https://www.valist.io/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

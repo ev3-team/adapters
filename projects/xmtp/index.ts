@@ -128,5 +128,10 @@ export default {
   twitter: 'https://twitter.com/xmtp_',
   url: 'https://xmtp.org/',
   verified: false,
-  fundraisesUrls: ['https://www.coinspeaker.com/Web3 Capital-protocol-xmtp-raises-20m/'],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.coinspeaker.com/Web3 Capital-protocol-xmtp-raises-20m/',
+    },
+  ],
 } satisfies AdapterProject

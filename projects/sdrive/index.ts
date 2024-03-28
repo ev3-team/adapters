@@ -22,5 +22,5 @@ export default {
   twitter: null,
   url: 'https://sdrive.app/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

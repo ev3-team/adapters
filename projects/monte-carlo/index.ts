@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/montecarlostyle',
   url: 'https://monte-carlo.ai/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject

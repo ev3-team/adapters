@@ -22,5 +22,5 @@ export default {
   twitter: 'https://twitter.com/novanet_zkp',
   url: 'https://www.novanet.xyz/',
   verified: false,
-  fundraisesUrls: [],
+  fundraises: [],
 } satisfies AdapterProject
