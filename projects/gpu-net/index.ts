@@ -12,7 +12,7 @@ export default {
   description:
     'United GPU infrastructure that can be utilized for highly optimized 3D rendering, animation, VFX, generative AI, foundation models, LLM training and cryptocurrency mining.',
   discord: '1083646475608784907',
-  investors: ['bah2fw', 'bah2fw'],
+  investors: ['bah2fw'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
