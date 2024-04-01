@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'enq',
-  ninja: null,
+  ninja: 'Mahesh | Escape Velocity',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
