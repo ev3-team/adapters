@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/gpunet',
   url: 'https://www.gpu.net/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.globenewswire.com/news-release/2023/08/30/2734002/0/en/GPU-Net-Raises-500K-from-Momentum-6-Alphablockz-Nvidia-Backs-Testnet-Launch.html',
+    },
+  ],
 } satisfies AdapterProject

@@ -6,7 +6,7 @@ export default {
   subcategories: null,
   chain: null,
   category: 'AI',
-  token: null,
+  token: 'SHELL',
   coinGeckoID: null,
   id: '1gfb8a',
   description:

@@ -30,7 +30,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'ipns://fleek.network/',
+  url: 'https://fleek.network/',
   verified: false,
   fundraises: [
     {
