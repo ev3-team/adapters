@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MASQ',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'WIRELESS',

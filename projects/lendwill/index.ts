@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lendwill',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'xofl5l',
   description:
-    'Lendwill uses blockchain for global credit profile. P2P model with verifiable data & credit history on blockchain.',
+    'Lendwill is a sharing economy app where people invest money in each other, all while building a verifiable credit history on the blockchain.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/lendwill/',

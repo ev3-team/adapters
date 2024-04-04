@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Qualoo',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'cfy81h',
   description:
-    'Qualoo is building a DePIN to make the internet better for everybody, utilizing an incentivized global network of hardware and mobile nodes to map the entire digital landscape while offering governance, real-time diagnostics, and optimization of the entire internet.',
+    'Qualoo is a global test network that utilizes user-generated connectivity data by incentivizing users to run tests and share data about their internet connectivity. ',
   discord: null,
   investors: [],
   linkedin: 'https://linkedin.com/company/qualoo',

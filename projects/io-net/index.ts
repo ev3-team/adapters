@@ -12,7 +12,7 @@ export default {
   description: 'IO.Net is a decentralized computing platform for ML applications built on Solana.',
   discord: '1080817368646819941',
   investors: ['2g0699'],
-  linkedin: 'https://linkedin.com/company/antbitio',
+  linkedin: 'https://www.linkedin.com/company/ionet-official/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

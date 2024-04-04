@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AIOZ',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'CDN',
   chain: 'ETHEREUM',
   category: 'COMPUTE',

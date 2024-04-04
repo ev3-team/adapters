@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'dClimate',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Environmental, Data',
   chain: null,
   category: 'ENERGY',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'a5w7th',
   description:
-    'dClimate: Decentralized climate data network that standardizes and distributes climate data, forecasts, and models.',
+    'dClimate is the first decentralized network for climate data, forecasts, and models.',
   discord: '834637820584263691',
   investors: [
     'oi4yuk',

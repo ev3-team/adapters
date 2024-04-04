@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NKN',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',

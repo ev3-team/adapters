@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cryptosat',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Satellites',
   chain: null,
   category: 'WIRELESS',

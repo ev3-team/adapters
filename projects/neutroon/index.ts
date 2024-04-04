@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Neutroon',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Software',
   chain: null,
   category: 'WIRELESS',

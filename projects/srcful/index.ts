@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Srcful',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'VPP',
   chain: null,
   category: 'ENERGY',

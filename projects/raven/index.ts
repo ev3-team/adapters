@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Raven',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Training',
   chain: 'BINANCE',
   category: 'AI',

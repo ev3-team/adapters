@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Incognito',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'PRV',
   coinGeckoID: 'incognito-2',
   id: 'g8ux2k',
-  description: 'Incognito is a privacy hub for private shielded cryptocurrency transactions.',
+  description: 'Incognito is a privacy hub for privately shielded cryptocurrency transactions.',
   discord: '1046631732067184711',
   investors: [],
   linkedin: 'https://linkedin.com/company/incognitochain',
