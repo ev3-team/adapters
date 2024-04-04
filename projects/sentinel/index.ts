@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sentinel',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'VPN',
   chain: 'COSMOS',
   category: 'COMPUTE',

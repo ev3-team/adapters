@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Metafi',
-  ninja: null,
-  subcategories: 'Gaming',
+  ninja: 'ZZ',
+  subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'cu6hqb',
   description:
-    'Metafi enables embeded wallets, broadcast transactions, indexing on-chain events, and more for web3 game developers.',
+    'MetaFi is a crowdfunding ecosystem that allows users to acquire tokens of upcoming technology innovators.',
   discord: null,
   investors: [],
   linkedin: 'https://uk.linkedin.com/company/meta-fi',

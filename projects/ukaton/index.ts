@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ukaton',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Health & Fitness',
   chain: null,
   category: 'SENSORS',

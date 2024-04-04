@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Taxa',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '5zk1x8',
   description:
-    'Taxa: blockchain agnostic layer-2 infrastructure ensuring privacy, power, and easy development.',
+    'Taxa is a blockchain-agnostic layer-2 infrastructure ensuring privacy, power, and easy development.',
   discord: '610854636785762369',
   investors: [],
   linkedin: 'https://linkedin.com/company/taxanetwork',

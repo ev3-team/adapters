@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flux',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'zelcash',
   id: '0t3lhn',
   description:
-    'Flux is a decentralized Web3 cloud infrastructure comprised of user-operated, scalable and globally distributed computational nodes.',
+    'Flux is a decentralized Web3 cloud infrastructure comprised of user-operated, scalable, and globally distributed computational nodes.',
   discord: '404415190835134464',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/flux',

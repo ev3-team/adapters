@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Dimo',
+  name: 'DIMO',
   ninja: null,
   subcategories: 'Auto',
   chain: 'POLYGON',
@@ -9,7 +9,7 @@ export default {
   token: 'DIMO',
   coinGeckoID: 'dimo',
   id: '0wr2ea',
-  description: 'Dimo is a decentralized ecosystem of connected vehicles.',
+  description: 'DIMO is a decentralized ecosystem of connected vehicles.',
   discord: '892438668453740634',
   investors: [
     'eu0hym',
@@ -48,12 +48,11 @@ export default {
     NODE_NUMBER: '3448434',
   },
   foundingYear: null,
-  blog: 'https://medium.com/dimo-network',
-  github: null,
+  blog: 'https://dimo.zone/news',
+  github: 'https://github.com/DIMO-Network',
   telegram: null,
-  twitter:
-    'https://twitter.com/DIMO_Network?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
-  url: 'https://dimo.zone/app',
+  twitter: 'https://twitter.com/DIMO_Network',
+  url: 'https://dimo.zone/',
   verified: false,
   fundraises: [
     {

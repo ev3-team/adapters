@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Alt Labs',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '9093bo',
   description:
-    'Alt Labs builds Web3 infrastructure user-friendly tools and interfaces for decentralized storage networks.',
+    'Alt Labs is a builder of Web3 infrastructure user-friendly tools and interfaces for decentralized storage networks.',
   discord: null,
   investors: [],
   linkedin: 'https://uk.linkedin.com/company/alt-labs',

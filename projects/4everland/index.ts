@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '4everland',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',

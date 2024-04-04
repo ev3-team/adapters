@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PiKNiK',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '9ixfcz',
   description:
-    'PiKNiK is a turnkey Web3 storage provider simplifying storage and facilitating Filecoin network access.',
+    'PiKNiK is a turnkey Web3 storage provider that simplifies storage and facilitates Filecoin network access.',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/piknikus',

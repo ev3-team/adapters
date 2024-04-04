@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Spheron',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'bpnvkv',
   description:
-    'Spheron Protocol: decentralized platform for web app deployment with storage, hosting, and compute capabilities.',
+    'Spheron Protocol is a decentralized platform for web app deployment with storage, hosting, and compute capabilities.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/spheron/',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Stratos',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Data',
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'stratos',
   id: '4jq13p',
   description:
-    'The first decentralized data architecture that provides scalable, reliable, self-balanced storage, database and computation network and offers a solid foundation for data processing.',
+    'Stratos is a decentralized infrastructure that provides scalable, reliable, self-balanced storage, AI computation, and database networks and offers a solid foundation for data processing.',
   discord: '799573145019219968',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/stratos-network',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bistroo',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',

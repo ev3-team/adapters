@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DAFI',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'dafi-protocol',
   id: 'nm4snj',
   description:
-    'DAFI Protocol rewards early adopters with synthetic tokens, redefining Defi and incentivizing bearish markets.',
+    'DAFI is a Hybrid Exchange that combines CEX user experience with DEX security and self-custody.',
   discord: '803663009250672640',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/dafiprotocol',
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: 'https://t.me/dafiprotocol',
   twitter: 'https://twitter.com/dafiprotocol',
-  url: 'https://www.dafiprotocol.io/',
+  url: 'https://dafi.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

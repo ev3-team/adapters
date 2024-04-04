@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeetta',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Software',
   chain: null,
   category: 'WIRELESS',
