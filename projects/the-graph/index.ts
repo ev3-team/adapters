@@ -15,7 +15,6 @@ export default {
   investors: [],
   linkedin: 'https://www.linkedin.com/company/thegraph/',
   duneQueries: {
-    BURN: '3168402',
     LOCKED_BALANCE: '3168407',
     MINT: '3168410',
     PRICE: '3168415',
