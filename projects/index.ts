@@ -582,7 +582,7 @@ import gomutual from './gomutual'
 import gonnamakeit from './gonnamakeit'
 import goosefx from './goosefx'
 import goqii from './goqii'
-import goracle from './goracle'
+import gora from './gora'
 import gpuaudio from './gpu-audio'
 import gpunet from './gpu-net'
 import gputopia from './gputopia'
@@ -1379,7 +1379,6 @@ import threefold from './threefold'
 import tiesdb from './ties-db'
 import tinygrad from './tinygrad'
 import titan from './titan'
-import together from './together'
 import togetherai from './together-ai'
 import tontine from './tontine'
 import totem from './totem'
@@ -2124,7 +2123,7 @@ export const projects = {
   gonnamakeit,
   goosefx,
   goqii,
-  goracle,
+  gora,
   gpuaudio,
   gpunet,
   gputopia,
@@ -2921,7 +2920,6 @@ export const projects = {
   tiesdb,
   tinygrad,
   titan,
-  together,
   togetherai,
   tontine,
   totem,

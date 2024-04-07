@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Equito',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Bridges',
   chain: null,
   category: 'NOT_DEPIN',

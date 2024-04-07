@@ -2,9 +2,9 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'M3tering',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
-  chain: null,
+  chain: 'GNOSIS',
   category: 'ENERGY',
   token: null,
   coinGeckoID: null,
@@ -16,7 +16,7 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/M3tering',
   telegram: null,
   twitter: 'https://twitter.com/whyNotSwitch',
   url: 'https://m3tering.whynotswitch.com/',

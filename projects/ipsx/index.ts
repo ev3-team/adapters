@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IPSX',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '8er1ir',
   description:
-    'IPXS is a decentralised proxy marketplace connecting users peer-to-peer for monetizing unused IPs.',
+    'IPXS is a decentralized proxy marketplace connecting users peer-to-peer for monetizing unused IPs.',
   discord: null,
   investors: [],
   linkedin: 'https://linkedin.com/company/ipsxnetwork',

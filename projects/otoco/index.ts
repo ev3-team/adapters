@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OtoCo',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Legal',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',

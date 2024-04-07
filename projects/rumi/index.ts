@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rumi',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',

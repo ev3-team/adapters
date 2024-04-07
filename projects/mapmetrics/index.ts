@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mapmetrics',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Auto',
   chain: 'SOLANA',
   category: 'SENSORS',

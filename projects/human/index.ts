@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Human',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'gs9m0p',
   description:
-    'Human is a global financial and identity network with unique digital ID, currency, and mobile wallet app.',
+    'Human is a global financial and identity network with a unique digital ID, currency, and mobile wallet app.',
   discord: '913558929995358228',
   investors: [],
   linkedin: 'https://linkedin.com/company/joinhmn',

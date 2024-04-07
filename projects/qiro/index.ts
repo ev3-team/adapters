@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Qiro',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'RWA',
   chain: null,
   category: 'NOT_DEPIN',

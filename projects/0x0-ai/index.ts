@@ -9,7 +9,7 @@ export default {
   token: '0X0',
   coinGeckoID: '0x0-ai-ai-smart-contract',
   id: 'vqpvwd',
-  description: '0x0.ai - AI for secure smart contract development.',
+  description: '0x0.ai is an AI for secure smart contract development.',
   discord: '1105051738806951976',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/0x0/',
