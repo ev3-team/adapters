@@ -1136,6 +1136,7 @@ import qubic from './qubic'
 import quenta from './quenta'
 import questbook from './questbook'
 import quickIntel from './quick-intel'
+import rDatadao from './r-datadao'
 import radLive from './rad-live'
 import radicle from './radicle'
 import radiologex from './radiologex'
@@ -2708,6 +2709,7 @@ export const projects = {
   quenta,
   questbook,
   quickIntel,
+  rDatadao,
   radLive,
   radicle,
   radiologex,
