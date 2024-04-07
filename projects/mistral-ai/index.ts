@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Mistral AI',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'AI',
+  token: null,
+  coinGeckoID: null,
+  id: 'dtkxu9',
+  description: 'Mistral AI is an open and portable generative AI for devs and businesses.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/MistralAI',
+  url: 'https://mistral.ai/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

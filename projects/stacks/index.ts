@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'stacks',
   id: '3ey5ys',
   description:
-    'Stacks is a Bitcoin layer for smart contracts. The Stacks layer enables DeFi, NFTs, and other decentralized apps built on Bitcoin. Stacking is funded through the Bitcoin transactions that Stacks miners execute to participate in securing the Stacks blockchain. By temporarily committing STX tokens, users can earn passive income and contribute to securing the Stacks blockchain.',
+    'Stacks is a Bitcoin L2 enabling smart contracts and apps with Bitcoin as a secure base layer.',
   discord: '621759717756370964',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/stacks-stx/',

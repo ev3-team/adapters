@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Creditcoin',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'RWA',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CTC',

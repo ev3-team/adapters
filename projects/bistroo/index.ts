@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SERVICES',
   token: 'BIST',
   coinGeckoID: 'bistroo',
   id: 'qpkhj7',

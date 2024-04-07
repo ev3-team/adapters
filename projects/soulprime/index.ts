@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'sfo58s',
   description:
-    'SoulPrime is a new web3 social network that rewards content creators and users on a platform that uses blockchain technology. SoulPrime aims to address the existing challenges of centralized social networks by leveraging blockchain technology, solving the issues of data privacy, offering data security, and providing fair compensation to its users and their time.',
+    'SoulPrime is a decentralized Web3 social network focused on privacy, user control, blockchain security, integration of a Web2 audience, NFT marketplace, AI personalization, and multiple user monetization options.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/soulprimeio/',

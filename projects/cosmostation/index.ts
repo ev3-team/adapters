@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'aaj12y',
   description:
-    'Cosmostation is an enterprise-level validator node infrastructure provider and end-user application developer. Cosmostation runs validator nodes across a number of networks, specifically focused on networks built with PoS(Proof of Stake) consensus. Along with node operation, Cosmostation develops and maintains Mintscan Block Explorer and Cosmostation iOS, Android, Web Wallets to support in-depth features for modules specific to each network.',
+    'Cosmostation is an industry-leading validator node operator for distributed ledger technology(DLT). Providing access to decentralized finance leveraging state-of-the-art architecture and user-focused application development.',
   discord: null,
   investors: [],
   linkedin: null,
