@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'parsiq',
   id: '95eysn',
   description:
-    "PARSIQ is a platform that offers real-time blockchain monitoring, automation, and workflow integration solutions. It enables users to track and analyze blockchain transactions, events, and smart contract executions across multiple blockchains. PARSIQ's services can be integrated with various other platforms and applications, providing businesses with actionable insights, improved operational efficiencies, and enhanced security.",
+    'PARSIQ is a full-suite data network to build the backend for web3 dApps and protocols.',
   discord: '803590539021778945',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/parsiq/',

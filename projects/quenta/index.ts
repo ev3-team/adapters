@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Quenta',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coinGeckoID: null,
+  id: 'mitdph',
+  description: 'Quenta is a derivatives trading platform built on IoTeX. ',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Quenta_io',
+  url: 'https://quenta.io/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

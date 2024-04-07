@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SERVICES',
   token: null,
   coinGeckoID: null,
   id: '1s4ysk',

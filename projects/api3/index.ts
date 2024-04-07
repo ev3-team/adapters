@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Noble',
+  name: 'API3',
   ninja: null,
   subcategories: null,
   chain: null,
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'agq5jo',
   description:
-    'API3 is a decentralized data oracle network that facilitates direct integration of APIs with blockchain applications, eliminating the reliance on third-party intermediaries. This protocol is designed to enhance the data reliability and security for smart contracts and decentralized applications (dApps) by providing them with high-quality, real-time data.',
+    'API3 is a decentralized data oracle network that facilitates direct integration of APIs with blockchain applications, eliminating the reliance on third-party intermediaries.',
   discord: '758003776174030948',
   investors: [],
   linkedin: null,

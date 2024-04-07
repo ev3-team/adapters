@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'k33zry',
   description:
-    'DreamOS is a new web3-native operating system that aims to improve the complex user experience within crypto. The platform includes features such as an app store for dapps called the Dream Store that aids in discovery and protection against malicious websites. It also features an omni-chain wallet interface for managing cross-chain assets.',
+    'DreamOS is the operating system for web3 where users can manage their crypto & NFTs and access their favorite dApps all in the same interface.',
   discord: null,
   investors: [],
   linkedin: null,
