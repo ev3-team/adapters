@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.42
+
+### Patch Changes
+
+- release 20240408124106
+
 ## 0.3.41
 
 ### Patch Changes
