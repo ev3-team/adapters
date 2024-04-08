@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Archon',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'vltnk6',
   description:
-    'Archon Developer is a decentralized protocol enabling scientific research with secure storage, access, and governance.',
+    'Archon is a developer of a decentralized protocol enabling scientific research with secure storage, access, and governance.',
   discord: '248822834317492245',
   investors: [],
   linkedin: null,

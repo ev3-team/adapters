@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'platon-network',
   id: '3ic5uj',
   description:
-    'PlatON is an open-sourced, community-based blockchain ecosystem, which aims at serving as the infrastructure for privacy-preserving computation networks and distributed economies. Based on the basic properties of the blockchain and privacy-preserving computing network, PlatON provides the next-generation Internet infrastructure protocol featuring “computing interoperability.',
+    'PlatON is a Decentralized Privacy-Preserving AI Network that consists of a decentralized computation network, a decentralized AI marketplace, and a decentralized AI collaboration network.',
   discord: '816899460478926870',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/platonnetwork/',

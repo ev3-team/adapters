@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ONINO',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2',
   chain: 'BINANCE',
   category: 'NOT_DEPIN',

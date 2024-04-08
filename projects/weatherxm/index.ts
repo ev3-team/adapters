@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeatherXM',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Environmental',
   chain: 'POLYGON',
   category: 'SENSORS',

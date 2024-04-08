@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '56jqa5',
   description:
-    'Obol Labs is a research and software development team focused on proof-of-stake infrastructure for public blockchain networks. The core team is building the Obol Network, a protocol to foster trust minimized staking through multi-operator validation. This will enable low-trust access to Ethereum staking yield, which can be used as a core building block in a variety of Web3 products.',
+    'The Obol Network is an Ethereum-aligned Distributed Validator Middleware for trust-minimized staking that enables people to create, test, run & co-ordinate distributed validators.',
   discord: '849256203614945310',
   investors: [],
   linkedin: null,

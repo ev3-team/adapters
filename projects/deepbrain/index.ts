@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeepBrain',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -20,7 +20,7 @@ export default {
   github: 'https://www.github.com/DeepBrainChain',
   telegram: 'https://t.me/deepbrainchainglobal',
   twitter: 'https://twitter.com/DeepBrainChain',
-  url: 'https://deepbrainchain.org/index.html',
+  url: 'https://deepbrainchain.org/',
   verified: false,
   fundraises: [
     {

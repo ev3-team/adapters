@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'nvisfm',
   description:
-    'Layer N is a novel layer 2 specifically designed for financial applications on Ethereum—and aims to rival existing traditional financial networks. Developers can build applications on Layer N, either in a custom execution environment or on the public EVM instance, at much lower execution latencies, higher throughput, negliable transaction fees, and with full composability between rollups.',
+    'Layer N is an Ethereum StateNet—A novel L2 designed as a network of custom VMs, called XVMs, powered by a shared communication and liquidity layer.',
   discord: '1038972328828219462',
   investors: [],
   linkedin: null,

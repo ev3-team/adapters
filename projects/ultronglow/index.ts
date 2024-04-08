@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'UltronGlow',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '4glwdr',
   description:
-    'UltronGlow: decentralized storage network for secure data storage, users earn rewards.',
+    'UltronGlow is a decentralized storage network that allows anyone to store their data securely and privately on a network of distributed nodes.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ultronglow',

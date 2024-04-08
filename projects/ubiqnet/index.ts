@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'UBIQnet',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
   id: '7lu677',
-  description: 'UBIQnet - decentralized computing with blockchain tech.',
+  description:
+    'UBIQnetis a web3-based infrastructure for ubiquitous computing, with innovative dynamic fractional NFT smart contracts for efficient scheduling.',
   discord: '1079671303801425942',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/ubiqnet',

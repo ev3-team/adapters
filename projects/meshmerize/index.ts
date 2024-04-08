@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 's8j4j9',
   description:
-    'Meshmerize delivers highly scalable mesh networking solutions for agile, dynamic and chaotic wireless networks. Their mesh technology is designed for providing high reliability in highly dynamic networks like UAV’s, industrial robots, AGV’s and connected automobiles. Meshmerize uses a decentralized device-to-device communication to strengthen the network from the inside.',
+    'Meshmerize is an industry-grade mesh network software that enhances off-the-shelf WiFi hardware to deploy an ultra-reliable mesh network, ensuring highly reliable, resilient, and low-latency connectivity specifically designed for moving machines.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/meshmerize/',

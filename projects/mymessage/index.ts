@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'myMessage',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ScPrime',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'o8amjp',
   description:
-    'FMS(Freedom of Mind Solutions) is an open-source social and blogging platform that uses web3 technology to power its services. Users can create profiles and share content by posting articles, blogs, images, videos,s, etc., or join groups with similar interests.',
+    'FMS is an open-source social and blogging platform that uses web3 technology to power its services. Users can create profiles and share content by posting articles, blogs, images, videos, etc., or join groups with similar interests.',
   discord: null,
   investors: [],
   linkedin: null,
