@@ -42,13 +42,6 @@ export function getInvestorsProjectsCount(): Promise<Map<string, number>> {
         investorsProjectsCount.set(row[1], investorProjects.length)
       })
       .on('end', async () => {
-        // Update projects investors csv constants used to create/update csv rows programmatically.
-        await fs.writeFile(
-          `./helpers/constants.ts`,
-          `/** This file is auto generated don't edit manually. */
-          \nexport const projectsInvestorsCsv = ${JSON.stringify(projectsInvestorsCsvRows)}`
-        )
-
         resolve(investorsProjectsCount)
       })
   })
