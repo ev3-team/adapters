@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'z4helo',
   description:
-    "Etherland aims to digitalize real-estate properties and their owners' legal documents, granting unhinged traceability and immutability through Blockchain and IPFS technologies. The etherland ecosystem works using a utility token called ELAND. This token is used to pay for bounties, grades subscriptions, and every upcoming platform feature.",
+    "Etherland is digitalizing real-estate properties and their owners' legal documents, granting unhinged traceability and immutability through Blockchain and IPFS technologies.",
   discord: null,
   investors: [],
   linkedin: null,

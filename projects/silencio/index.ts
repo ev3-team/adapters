@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Silencio',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -19,8 +19,7 @@ export default {
   blog: 'https://medium.com/@eversept/about?source',
   github: 'https://github.com/topics/silencio',
   telegram: 'https://telegram.me/silencio17',
-  twitter:
-    'https://twitter.com/silencioNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/silencioNetwork',
   url: 'https://www.silencio.network/',
   verified: false,
   fundraises: [

@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Exa',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
   id: '90eym0',
-  description: 'Exa Protocol: Decentralized data storage using mobile devices.',
+  description: 'Exa Protocol is a decentralized distributed file system using mobile devices.',
   discord: '916886546903347230',
   investors: [],
   linkedin: 'https://linkedin.com/company/exa-protocol',

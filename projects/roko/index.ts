@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Roko',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Agents',
   chain: 'ETHEREUM',
   category: 'AI',

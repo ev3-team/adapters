@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Iagon',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'IoT',
   chain: 'CARDANO',
   category: 'BLOCKCHAIN_INFRA',

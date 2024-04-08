@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ChainML',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/chainml_',
-  url: 'https://t.co/RdwLhkOJ65',
+  url: 'https://www.chainml.net/',
   verified: false,
   fundraises: [
     {

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'l3bqbb',
   description:
-    'Argus is a game developer and publisher that focuses on creating innovative blockchain-based gaming experiences, with a mission to pioneer the Internet of Games through their World Engine blockchain platform designed specifically for onchain games. They aim to enable developers to build interconnected and scalable game worlds with a high degree of player-driven content and interoperability.',
+    'Argus is a game developer and publisher that pioneering a game technology architecture that allows games, marketplaces, public good game infrastructures, and user-generated content/platforms to communicate and interoperate seamlessly.',
   discord: '1113162492445724723',
   investors: [],
   linkedin: null,

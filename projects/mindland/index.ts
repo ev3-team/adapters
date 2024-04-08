@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mindland',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Health & Fitness',
   chain: null,
   category: 'SENSORS',

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'kadena',
   id: 'ss5p8b',
   description:
-    'Kadena is a developed a scalable layer 1 Proof of Work (“PoW”) blockchain along with Pact, a safe smart contract language. Kadena’s proprietary chain architecture aims to provide the security of Bitcoin, virtually free gas (transaction fees), unparalleled throughput, as well as Pact – the most secure smart contract language with built-in automated auditing.',
+    'Kadena is a Layer-1 Proof-of-Work blockchain that scales with Pact, a human-readable smart contract language.',
   discord: '502858632178958377',
   investors: [],
   linkedin: 'https://linkedin.com/company/kadena-llc/',

@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lake',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
-  token: null,
+  token: 'LNT',
   coinGeckoID: null,
   id: 'cpzurk',
   description:
-    'Lake: Decentralized storage for DApps and Blockchains, incentivizing users to become Storage Servers.',
+    'Lake is a Decentralized storage for DApps and Blockchains that incentivizes users to provide Storage and Bandwidth. ',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/lakenetwork',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Syntropy',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Bridges',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'syntropy',
   id: 'm9yv19',
   description:
-    'Syntropy transforms the way blockchain data is accessed through our innovative Data Layer protocol.',
+    'Syntropy is a decentralized, multi-purpose on-chain data streaming oracle for applications and blockchains.',
   discord: '503896258881126401',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/syntropynet/',

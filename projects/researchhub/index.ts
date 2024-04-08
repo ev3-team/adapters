@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'researchcoin',
   id: '844cf4',
   description:
-    'ResearchHub is a collaborative platform that accelerates scientific research by allowing researchers to share, summarize, and discuss articles in specialized Hubs. The platform incentivizes contributions through ResearchCoin (RSC), a token that rewards users based on community upvotes and determines their reputation and privileges.',
+    'ResearchHub is a collaborative platform that accelerates scientific research by incentivizing researchers to share, summarize, and discuss articles in specialized Hubs.',
   discord: '957082465258848266',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/researchhubtechnologies/',
