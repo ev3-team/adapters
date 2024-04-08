@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Waev',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Data',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',

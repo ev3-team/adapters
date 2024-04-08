@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pano AI',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',

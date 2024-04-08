@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Black Creek',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Mining',
   chain: null,
   category: 'COMPUTE',

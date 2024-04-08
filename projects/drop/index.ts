@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Drop',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Data',
   chain: 'IOTEX',
   category: 'WIRELESS',

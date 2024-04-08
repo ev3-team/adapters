@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FOIL',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2',
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'wd2g59',
-  description: 'Foil: Scalable, secure blockchain for IoT with high-speed transactions.',
+  description:
+    'FOIL is a scalable, interoperable, and multifunctional blockchain network protocol that serves as a platform for creating unique decentralized ecosystems within multi-tier, distributed, autonomous, and dichotomous environments.',
   discord: '773843041357135882',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/foil2/about/',

@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Pollen Mobile',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Private Wireless',
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'goiapt',
-  description: 'Pollen Mobile sells hand-made rugs.',
+  description:
+    'Pollen Mobile is an anonymous, decentralized, high-speed, open-source, data-only wireless network enabled by a crypto-economy and owned/operated by its user community.',
   discord: null,
   investors: ['ul3tww', '67mqz0', '391xou', 's7axdr', 'ooq1d1'],
   linkedin: 'https://www.linkedin.com/company/pollenmobile',

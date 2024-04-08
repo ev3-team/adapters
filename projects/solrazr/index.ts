@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SolRazr',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'SOLANA',
   category: 'NOT_DEPIN',

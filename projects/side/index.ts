@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '62pug3',
   description:
-    'Side Protocol is a distributed mesh liquidity network system that aims to decentralize liquidity between diverse blockchain networks in a bridgeless manner while maintaining interconnectivity. At its core lies SIDE, a robust EVM-compatible layer-1 infrastructure responsible for fostering interconnectivity and ensuring sufficient liquidity between different blockchains. SIDE is a developer-centric layer-1 blockchain built to empower innovation with result-driven incentives.',
+    'The Side Protocol is a modular infrastructure designed to scale Bitcoin. At its core is SIDE, a Bitcoin sidechain secured by BTC and serving as the settlement layer for zk-rollups within the modular stack.',
   discord: '1031431934204706856',
   investors: [],
   linkedin: null,

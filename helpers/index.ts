@@ -1,6 +1,5 @@
 import { AdapterInvestor, investors } from '../investors'
 import { AdapterProject, projects } from '../projects'
-import { projectsInvestorsCsv } from './constants'
 import { createNewId } from './utils'
 
 export const generateInvestorId = () => createNewId()(true, Object.values(investors))
@@ -137,29 +136,3 @@ type GenerateInvestorProjectsCsvRowArgs = {
   /** The list of ids the given projects has invested in. */
   projectsInvestedIds: string[]
 }
-
-/** Generates a row for the investors/projects csv. */
-export const generateInvestorProjectsCsvRow = ({
-  investor,
-  projectsInvestedIds,
-}: GenerateInvestorProjectsCsvRowArgs) => {
-  /**
-   * Initially the variable `projectsInvestorsCsvProjectIdsColumns` was provided as argument, it was fetched from the server in real time to make sure the csv row was generated correctly
-   * but after the `DePIN-Projects-Investors.csv` became too big the github API stopped working.
-   * ```sh curl -L \
-   * -H "Accept: application/vnd.github+json" \
-   * -H "Authorization: Bearer TOKEN" \
-   * -H "X-GitHub-Api-Version: 2022-11-28" \
-   * https://api.github.com/repos/ev3-team/adapters/contents/scripts/data/DePIN-Projects-Investors.csv
-   * ```
-   * the content in the response comes empty. I'm guessing it's due to the file size.
-   * That's why we are generating the var `projectsInvestorsCsvProjectIdsColumns` before hand, at the risk of getting out of sync with the csv at stg.
-   */
-  const projectIdColumns = projectsInvestorsCsv[1]?.split(',')?.slice(2)
-
-  return `${investor.name},${investor.id},${projectIdColumns
-    .map((projectIdColumn) => (projectsInvestedIds.includes(projectIdColumn) ? '1' : ''))
-    .join(',')}`
-}
-
-export { projectsInvestorsCsv } from './constants'

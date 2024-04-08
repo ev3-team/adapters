@@ -2,15 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ScyNet',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
   id: '5kz9p0',
-  description:
-    'ScyNet is a blockchain and economic system that rewards nodes for sharing resources in a decentralized network.',
+  description: 'ScyNet is a Decentralized network for creating and training autonomous AI agents.',
   discord: '484370483739885608',
   investors: [],
   linkedin: null,
