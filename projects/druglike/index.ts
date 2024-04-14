@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Druglike',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'axqfta',
   description:
-    'Druglike is building a decentralized computing network which provides resources for anyone looking to start or contribute to early-stage drug discovery projects.',
+    'Druglike is a platform for democratizing the access, cost, and rewards of early-stage drug discovery.',
   discord: '977966236627533886',
   investors: [],
   linkedin: null,

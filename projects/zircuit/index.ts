@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Zircuit',
+  ninja: 'EV3 Sal',
+  subcategories: 'ZK',
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coinGeckoID: null,
+  id: 'jjl0jw',
+  description: 'Zircuit is a modular zk rollup with AI-enabled security at the sequencer level.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/ZircuitL2',
+  url: 'https://www.zircuit.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

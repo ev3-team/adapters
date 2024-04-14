@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '4p461t',
   description:
-    '0xSplits is a set of composable, open-source(opens in a new tab), and audited(opens in a new tab) smart contracts that make it easy to split onchain payments.',
+    '0xSplits is a set of composable, open-source, and audited smart contracts that make it easy to split onchain payments.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/0xsplits/about/',
