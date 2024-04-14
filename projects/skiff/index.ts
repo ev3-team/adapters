@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Skiff',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'bts0sr',
   description:
-    'Skiff is an end-to-end encrypted platform that supports collaboration, email, and messaging and gives users the power to communicate freely.',
+    'Skiff is an end-to-end encrypted, privacy-first workspace built for communicating and collaborating freely. They offer Mail, Calendar, Pages (notes), and Drive products.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/skiffprivacy/',

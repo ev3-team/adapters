@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'FileStar',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'filestar',
   id: 'h7mk5k',
   description:
-    'FileStar is a Web 3.0 decentralized storage, verifiable computation, and measurable bandwith network infrastructure.',
+    'FileStar is a Web 3.0 decentralized storage, verifiable computation, and measurable bandwidth network infrastructure.',
   discord: null,
   investors: ['nxzb7m'],
   linkedin: null,

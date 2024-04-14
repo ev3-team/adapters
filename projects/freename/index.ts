@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'bta44y',
   description:
-    'Freename is a platform for the creation and purchase of Web3 domains, i.e. names registered on blockchain to represent decentralised Internet sites, crypto wallets and many other applications.',
+    'Freename is a TLD and Domain platform for Web3 that allows users to register and mint their own customized Lifetime Web3 TLDs. ',
   discord: '1040742304526385293',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/freename/',

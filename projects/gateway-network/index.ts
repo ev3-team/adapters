@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gateway Network',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Data',
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'wwio88',
   description:
-    'Gateway is a decentralized protocol for creating, consuming, and displaying verifiable credentials to serve as a basis for an interconnected web and portable reputation.',
+    'Gateway is a decentralized identity access management protocol that allows users to control and share their data across the web.',
   discord: '898513755456036925',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/mygateway/',

@@ -2,15 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Firstbatch',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'COMPUTE',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: 'xjzev4',
-  description:
-    'HollowDB is a decentralized key-value database on Arweave for secure and efficient data storage.',
+  description: 'FirstBatch is building collaboration and user-centric tools for AGI.',
   discord: '1088019643618308200',
   investors: ['hhudw8', 'fzd0ha', 'uktppp', '68e0bl', '10z6rb', 'e29e8f', 'oltsrb'],
   linkedin: 'https://www.linkedin.com/company/firstbatchxyz',
