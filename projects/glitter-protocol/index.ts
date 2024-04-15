@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Glitter Protocol',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'hvnixv',
   description:
-    'A blockchain-based data platform to help applications store, manage and elevate data in Web3 way.',
+    'Glitter Protocol is a decentralized data indexing protocol that provides a way for users to earn revenue from their data.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/glitterprotocol/about/',

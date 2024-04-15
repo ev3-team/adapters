@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Space ID',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'space-id',
   id: 'vb3z9t',
   description:
-    'Space ID (SID) is a decentralized universal name service network that runs on top of blockchains (Ethereum, BSC, and Arbitrum).',
+    'SPACE ID (SID) is a decentralized universal name service network that runs on the blockchain and is a Web3 domain and identity management platform.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/spaceidprotocol/about/',

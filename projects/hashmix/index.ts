@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'HashMix',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '5v5xcz',
   description:
-    'HashMix proposes a tokenization scheme suitable for arbitrary hash power, implements a set of universal decentralized cloud hash power trading, lending, and swapping protocols.',
+    'HashMix is a next-generation hashrate tokenization and marketplace protocol. It allows anyone to buy, sell, lend, and swap mining power for various PoW blockchains in a decentralized way.',
   discord: '1036550293455917096',
   investors: [],
   linkedin: null,
