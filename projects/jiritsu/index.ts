@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Jiritsu',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'j68t8z',
   description:
-    'Jiritsu is a decentralized protocol enabling verifiable compute. Jiritsu allows one to orchestrate and verify any computational workflow, integrating any combination of L1, L2 and Middleware.',
+    'Jiritsu specializes in decentralized and verifiable computing. Their new asset tokenization platform is built on their Unlimited Verifiable Compute (UVC) and decentralized Zero-Knowledge Multi-Party Compute (ZK-MPC) technologies.',
   discord: null,
   investors: [
     'mzqq7s',
@@ -34,7 +34,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/Jiritsu_Network',
   url: 'https://www.jiritsu.network/',
   verified: false,
   fundraises: [

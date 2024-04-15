@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Nulink',
+  ninja: 'EV3 Sal',
+  subcategories: 'ZK',
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coinGeckoID: null,
+  id: 'mdyk9b',
+  description: 'NuLink is a Web3-based ZK Provable Data Privacy Solution for DApps.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/NuLink_',
+  url: 'https://www.nulink.org/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

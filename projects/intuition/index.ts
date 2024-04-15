@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Intuition',
-  ninja: null,
-  subcategories: 'L1/L2',
+  ninja: 'ZZ',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'kx9y1a',
   description:
-    'Operator of a decentralized identity company intended to help users to create attestations about any subject.',
+    'Intuition is a decentralized platform that enhances decision-making by leveraging crowd-sourced knowledge and attestations, empowering users with a peer-to-peer, data-driven ecosystem for intuitive and sovereign interactions.',
   discord: '909531430881746974',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/0xintuition/',
