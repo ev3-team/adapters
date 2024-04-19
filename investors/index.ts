@@ -1,5 +1,6 @@
 import _0Ventures from './_0-ventures'
 import _08Capital from './_08-capital'
+import _0xlawliette from './_0xlawliette'
 import _0xventures from './_0xventures'
 import _100And100 from './_100-&-100'
 import _10h from './_10h'
@@ -8,6 +9,7 @@ import _186Ventures from './_186-ventures'
 import _18ventures from './_18ventures'
 import _1confirmation from './_1confirmation'
 import _1kx from './_1kx'
+import _1nvst from './_1nvst'
 import _1par from './_1par'
 import _2Punks from './_2-punks'
 import _2048Ventures from './_2048-ventures'
@@ -125,6 +127,7 @@ import aleksandrKaplun from './aleksandr-kaplun'
 import aleo from './aleo'
 import alephOne from './aleph-one'
 import alexAlexandrov from './alex-alexandrov'
+import alexBecker from './alex-becker'
 import alexGluchovski from './alex-gluchovski'
 import alexGoh from './alex-goh'
 import alexShevchenko from './alex-shevchenko'
@@ -147,6 +150,7 @@ import alliance from './alliance'
 import allianceOfAngels from './alliance-of-angels'
 import allisonPickens from './allison-pickens'
 import almora from './almora'
+import alphaCapital from './alpha-capital'
 import alphaProtocolVentures from './alpha-protocol-ventures'
 import alphaSigma from './alpha-sigma'
 import alphaTransform from './alpha-transform'
@@ -155,6 +159,7 @@ import alphabit from './alphabit'
 import alphablockz from './alphablockz'
 import alphachain from './alphachain'
 import alphacoin from './alphacoin'
+import alphacrypto from './alphacrypto'
 import alphagrep from './alphagrep'
 import alphanonce from './alphanonce'
 import alphemy from './alphemy'
@@ -219,6 +224,7 @@ import antigua from './antigua'
 import antler from './antler'
 import antonBukov from './anton-bukov'
 import anuragArjun from './anurag-arjun'
+import apCapital from './ap-capital'
 import apisVenture from './apis-venture'
 import appworks from './appworks'
 import aptos from './aptos'
@@ -294,11 +300,13 @@ import avalonWealth from './avalon-wealth'
 import avantBlockchain from './avant-blockchain'
 import avatarVentures from './avatar-ventures'
 import aventures from './aventures'
+import averyChing from './avery-ching'
 import avesLair from './aves-lair'
 import aviFelman from './avi-felman'
 import avinashShekhar from './avinash-shekhar'
 import avon from './avon'
 import avstar from './avstar'
+import awesomePeople from './awesome-people'
 import axia8 from './axia8'
 import axilor from './axilor'
 import axonEnterprise from './axon-enterprise'
@@ -340,6 +348,7 @@ import beaglePartnersLlp from './beagle-partners-llp'
 import beco from './beco'
 import bedrock from './bedrock'
 import belalBadat from './belal-badat'
+import bella from './bella'
 import bellhip from './bellhip'
 import benHuh from './ben-huh'
 import benJacobs from './ben-jacobs'
@@ -464,6 +473,7 @@ import blume from './blume'
 import bmw from './bmw'
 import bobasNetwork from './bobas-network'
 import bobbyGoodlatte from './bobby-goodlatte'
+import bochslerFinance from './bochsler-finance'
 import bodl from './bodl'
 import boga from './boga'
 import bogdanAlexandrescu from './bogdan-alexandrescu'
@@ -538,6 +548,7 @@ import calibrate from './calibrate'
 import callapina from './callapina'
 import callisto from './callisto'
 import calm from './calm'
+import calvinLiu from './calvin-liu'
 import cambiumGrove from './cambium-grove'
 import cambrian from './cambrian'
 import cambridgeAssociates from './cambridge-associates'
@@ -557,8 +568,10 @@ import carlRosen from './carl-rosen'
 import carnrite from './carnrite'
 import carthona from './carthona'
 import cartography from './cartography'
+import caseyKCaruso from './casey-k--caruso'
 import castiventures from './castiventures'
 import castleIsland from './castle-island'
+import castrum from './castrum'
 import cataliize from './cataliize'
 import catalyst from './catalyst'
 import catalyticImpact from './catalytic-impact'
@@ -577,6 +590,7 @@ import ceras from './ceras'
 import cercano from './cercano'
 import cerulean from './cerulean'
 import ceyuan from './ceyuan'
+import cfund from './cfund'
 import cgvFof from './cgv-fof'
 import chaficKazoun from './chafic-kazoun'
 import chain from './chain'
@@ -626,7 +640,7 @@ import christopherRé from './christopher-ré'
 import chromaway from './chromaway'
 import chronos from './chronos'
 import chuango from './chuango'
-import ciaránOleary from './ciarán-oleary'
+import ciaránOLeary from './ciarán-o-leary'
 import cindyBi from './cindy-bi'
 import cipholio from './cipholio'
 import circle from './circle'
@@ -644,6 +658,7 @@ import cmccGlobal from './cmcc-global'
 import cms from './cms'
 import cmtDigital from './cmt-digital'
 import cnk from './cnk'
+import coachK from './coach-k'
 import coatue from './coatue'
 import codelta from './codelta'
 import cogitent from './cogitent'
@@ -725,8 +740,10 @@ import crossbeam from './crossbeam'
 import crowdcreate from './crowdcreate'
 import crtLabs from './crt-labs'
 import crush from './crush'
+import cryptoBanter from './crypto-banter'
 import cryptoDorm from './crypto-dorm'
 import cryptoSnack from './crypto-snack'
+import cryptoTimes from './crypto-times'
 import cryptoValleyVenture from './crypto-valley-venture'
 import cryptoVentures from './crypto-ventures'
 import cryptoCom from './crypto-com'
@@ -747,6 +764,7 @@ import cvVc from './cv-vc'
 import cyberFund from './cyber-fund'
 import cyberight from './cyberight'
 import cyberport from './cyberport'
+import cygaar from './cygaar'
 import cygni from './cygni'
 import cylon from './cylon'
 import cypher from './cypher'
@@ -848,7 +866,6 @@ import diaspora from './diaspora'
 import differential from './differential'
 import digital from './digital'
 import digitalAsset from './digital-asset'
-import digitalCurrency from './digital-currency'
 import digitalFinance from './digital-finance'
 import digitalGarage from './digital-garage'
 import digitalRenaissance from './digital-renaissance'
@@ -908,6 +925,7 @@ import duskNetwork from './dusk-network'
 import dutchCrypto from './dutch-crypto'
 import dutchFlower from './dutch-flower'
 import dvTrading from './dv-trading'
+import dvnci from './dvnci'
 import dweb3 from './dweb3'
 import dwf from './dwf'
 import dylanField from './dylan-field'
@@ -943,6 +961,7 @@ import elementalExcelerator from './elemental-excelerator'
 import eliaAsset from './elia-asset'
 import elizabethHunker from './elizabeth-hunker'
 import elizabethYen from './elizabeth-yen'
+import elliotrades from './elliotrades'
 import ellipti from './ellipti'
 import elliptic from './elliptic'
 import elvesLongTerm from './elves-long-term'
@@ -1117,6 +1136,7 @@ import futureDiscovery from './future-discovery'
 import futureLife from './future-life'
 import futureNow from './future-now'
 import futureperfect from './future-perfect'
+import future3Campus from './future3-campus'
 import futurelabs from './futurelabs'
 import futuremoney from './futuremoney'
 import gForce from './g-force'
@@ -1157,10 +1177,12 @@ import geminiFrontier from './gemini-frontier'
 import genblock from './genblock'
 import generalCatalyst from './general-catalyst'
 import generations from './generations'
+import genesis from './genesis'
 import geometry from './geometry'
 import georgeBurke from './george-burke'
 import georgeGilder from './george-gilder'
 import georgeHallam from './george-hallam'
+import georgeLambeth from './george-lambeth'
 import gfr from './gfr'
 import gfs from './gfs'
 import ggv from './ggv'
@@ -1188,8 +1210,9 @@ import gobi from './gobi'
 import golden from './golden'
 import goldenRecord from './golden-record'
 import goldentree from './goldentree'
+import goldich from './goldich'
 import goldsworth from './goldsworth'
-import gonçaloSá from './gonçalo-sá'
+import goncaloSa from './goncalo-sa'
 import goodGamesGuild from './good-games-guild'
 import goodNews from './good-news'
 import goodlight from './goodlight'
@@ -1206,6 +1229,7 @@ import graycell from './graycell'
 import greatWallClub from './great-wall-club'
 import gree from './gree'
 import greenAngels from './green-angels'
+import greenArrow from './green-arrow'
 import greenEgg from './green-egg'
 import greenEra from './green-era'
 import greenPine from './green-pine'
@@ -1294,6 +1318,7 @@ import huobi from './huobi'
 import hustle from './hustle'
 import hustleHard from './hustle-hard'
 import hv from './hv'
+import hypeEth from './hype-eth'
 import hyperchain from './hyperchain'
 import hyperithm from './hyperithm'
 import hypersphere from './hypersphere'
@@ -1381,6 +1406,7 @@ import iseed from './iseed'
 import istari from './istari'
 import itamarLesuisse from './itamar-lesuisse'
 import ivc from './ivc'
+import iverseVision from './iverse-vision'
 import jVentures from './j-ventures'
 import jPMorgan from './j-p--morgan'
 import j17 from './j17'
@@ -1435,6 +1461,7 @@ import jieTang from './jie-tang'
 import jiho from './jiho'
 import jihoZirlin from './jiho-zirlin'
 import jimRobinson from './jim-robinson'
+import jinKang from './jin-kang'
 import jinglanWang from './jinglan-wang'
 import joeLevy from './joe-levy'
 import joeMccann from './joe-mccann'
@@ -1459,6 +1486,7 @@ import jonasSchneider from './jonas-schneider'
 import jonathanLevine from './jonathan-levine'
 import jonathanSeaton from './jonathan-seaton'
 import jordanMessina from './jordan-messina'
+import jordanSexton from './jordan-sexton'
 import jordanTigani from './jordan-tigani'
 import jordiVallejo from './jordi-vallejo'
 import josephLallouz from './joseph-lallouz'
@@ -1489,7 +1517,7 @@ import justinKan from './justin-kan'
 import justinReyes from './justin-reyes'
 import justinWaldron from './justin-waldron'
 import juttaSteiner from './jutta-steiner'
-import jyriEngeström from './jyri-engeström'
+import jyriEngestrom from './jyri-engestrom'
 import kStreet from './k-street'
 import k24 from './k24'
 import k300 from './k300'
@@ -1598,6 +1626,7 @@ import lasseClausen from './lasse-clausen'
 import lattice from './lattice'
 import launch from './launch'
 import launchAlaska from './launch-alaska'
+import launchcode from './launchcode'
 import launchpool from './launchpool'
 import launchub from './launchub'
 import lawrenceLundy from './lawrence-lundy'
@@ -1664,7 +1693,7 @@ import lucidblue from './lucidblue'
 import luckyCar from './lucky-car'
 import luganodes from './luganodes'
 import luisCuende from './luis-cuende'
-import lukaSučić from './luka-sučić'
+import lukaSucic from './luka-sucic'
 import lukaszKaiser from './lukasz-kaiser'
 import lunarStation from './lunar-station'
 import lunex from './lunex'
@@ -1696,6 +1725,7 @@ import malabarAngels from './malabar-angels'
 import mana from './mana'
 import maneeshSharma from './maneesh-sharma'
 import mangoVc from './mango-vc'
+import manifold from './manifold'
 import manishaGupta from './manisha-gupta'
 import manoharCharan from './manohar-charan'
 import mantis from './mantis'
@@ -1778,12 +1808,14 @@ import merus from './merus'
 import meta from './meta'
 import metacartel from './metacartel'
 import metagaming from './metagaming'
+import metamatic from './metamatic'
 import metaplanet from './metaplanet'
 import metavest from './metavest'
 import metaweb from './metaweb'
 import meteoriteLabs from './meteorite-labs'
 import metis from './metis'
 import metricArchitecture from './metric-architecture'
+import metrics from './metrics'
 import metropolis from './metropolis'
 import mexc from './mexc'
 import mg from './mg'
@@ -1837,6 +1869,7 @@ import modalityhip from './modalityhip'
 import modular from './modular'
 import mohamedAlRafi from './mohamed-al-rafi'
 import mohammadAhsan from './mohammad-ahsan'
+import mohammadShaikh from './mohammad-shaikh'
 import mohammedAfkhami from './mohammed-afkhami'
 import mohitBurman from './mohit-burman'
 import momentum6 from './momentum-6'
@@ -1892,6 +1925,7 @@ import naeemZamindar from './naeem-zamindar'
 import nakulGupta from './nakul-gupta'
 import namier from './namier'
 import nanaBianca from './nana-bianca'
+import nanixbt from './nanixbt'
 import naples from './naples'
 import narendraRocherolle from './narendra-rocherolle'
 import narwhal from './narwhal'
@@ -1918,6 +1952,7 @@ import nervos from './nervos'
 import nestcoin from './nestcoin'
 import nestle from './nestle'
 import netzero from './netzero'
+import newForm from './new-form'
 import newbuild from './newbuild'
 import newchip from './newchip'
 import newfield from './newfield'
@@ -1978,7 +2013,6 @@ import nvc from './nvc'
 import nvidia from './nvidia'
 import nws from './nws'
 import nxgen from './nxgen'
-import nxgenXyz from './nxgen-xyz'
 import nyvp from './nyvp'
 import oshaughnessy from './oshaughnessy'
 import o1Labs from './o(1)-labs'
@@ -1992,6 +2026,7 @@ import ocular from './ocular'
 import oddgems from './oddgems'
 import oddiyana from './oddiyana'
 import odellBeckham from './odell-beckham'
+import offchainLabs from './offchain-labs'
 import offline from './offline'
 import ofr from './ofr'
 import oig from './oig'
@@ -2041,12 +2076,13 @@ import outsiders from './outsiders'
 import ovn from './ovn'
 import ovo from './ovo'
 import owenSimonin from './owen-simonin'
+import owl from './owl'
 import ozoneX from './ozone-x'
 import pGulati from './p--gulati'
 import p101 from './p101'
 import p1x from './p1x'
 import p2p from './p2p'
-import pabloRodríguez from './pablo-rodríguez'
+import pabloRodriguez from './pablo-rodriguez'
 import pacificCentury from './pacific-century'
 import pack from './pack'
 import packyMccormick from './packy-mccormick'
@@ -2098,6 +2134,7 @@ import petrock from './petrock'
 import pg from './pg'
 import phanindraSama from './phanindra-sama'
 import pharus from './pharus'
+import phdCapital from './phd-capital'
 import philippMoehring from './philipp-moehring'
 import phoenix from './phoenix'
 import phoenixIo from './phoenix-io'
@@ -2109,6 +2146,7 @@ import pieterVanEck from './pieter-van-eck'
 import pioneer from './pioneer'
 import pirata from './pirata'
 import pisitPoosanakhom from './pisit-poosanakhom'
+import pivot from './pivot'
 import placeholder from './placeholder'
 import plasma from './plasma'
 import plassa from './plassa'
@@ -2164,6 +2202,7 @@ import protocol from './protocol'
 import protocolLabs from './protocol-labs'
 import provider from './provider'
 import psquare from './psquare'
+import _publicWorks from './public-works'
 import pulsar from './pulsar'
 import punk from './punk'
 import purechain from './purechain'
@@ -2340,7 +2379,7 @@ import sanatRao from './sanat-rao'
 import sanctor from './sanctor'
 import sancus from './sancus'
 import sandeepNailwal from './sandeep-nailwal'
-import sandeepNaiwal from './sandeep-naiwal'
+import sandyPeng from './sandy-peng'
 import sangha from './sangha'
 import sanjayNarang from './sanjay-narang'
 import sanjayParthasarathy from './sanjay-parthasarathy'
@@ -2370,7 +2409,9 @@ import scytale from './scytale'
 import seal from './seal'
 import seanPercival from './sean-percival'
 import sebastienAudet from './sebastien-audet'
+import seedthrift from './seedthrift'
 import segal from './segal'
+import seier from './seier'
 import sejoAsset from './sejo-asset'
 import selini from './selini'
 import semantic from './semantic'
@@ -2385,6 +2426,7 @@ import sevenSevenSix from './seven-seven-six'
 import sevenx from './sevenx'
 import sfermion from './sfermion'
 import sginnovate from './sginnovate'
+import sharding from './sharding'
 import sharedAccess from './shared-access'
 import sharing from './sharing'
 import shawnFanning from './shawn-fanning'
@@ -2434,6 +2476,7 @@ import sky9 from './sky9'
 import skybridge from './skybridge'
 import skyland from './skyland'
 import skyman from './skyman'
+import skynetEgld from './skynet-egld'
 import skynetTrading from './skynet-trading'
 import skyvision from './skyvision'
 import skywater from './skywater'
@@ -2446,6 +2489,7 @@ import smartGrowth from './smart-growth'
 import smartStart from './smart-start'
 import smartChain from './smart-chain'
 import smo from './smo'
+import smokeyTheBera from './smokey-the-bera'
 import smrtiLabs from './smrti-labs'
 import snz from './snz'
 import socialCapital from './social-capital'
@@ -2504,6 +2548,7 @@ import stake from './stake'
 import stakeTechnologies from './stake-technologies'
 import stakeborg from './stakeborg'
 import stakedVc from './staked-vc'
+import stakeholder from './stakeholder'
 import stakezero from './stakezero'
 import stakingFacilities from './staking-facilities'
 import standard from './standard'
@@ -2520,7 +2565,9 @@ import startx from './startx'
 import stateInformationCenter from './state-information-center'
 import stateless from './stateless'
 import stationF from './station-f'
+import stealthCapital from './stealth-capital'
 import stedinHolding from './stedin-holding'
+import steelDao from './steel-dao'
 import steelPerlot from './steel-perlot'
 import stefanoBernardi from './stefano-bernardi'
 import stepanSimkin from './stepan-simkin'
@@ -2547,6 +2594,7 @@ import sujeetKumar from './sujeet-kumar'
 import sujiYan from './suji-yan'
 import sumaria from './sumaria'
 import sumeru from './sumeru'
+import summer from './summer'
 import sunnyGar from './sunny-gar'
 import _super from './super'
 import _superchain from './superchain'
@@ -2564,6 +2612,7 @@ import sustainableFuture from './sustainable-future'
 import svAngel from './sv-angel'
 import svPacific from './sv-pacific'
 import swan from './swan'
+import swc from './swc'
 import swissGem from './swiss-gem'
 import swissborg from './swissborg'
 import swordfish from './swordfish'
@@ -2611,7 +2660,7 @@ import teganKline from './tegan-kline'
 import tejasManohar from './tejas-manohar'
 import telAviv from './tel-aviv'
 import telecomInfraProject from './telecom-infra-project'
-import telefónica from './telefónica'
+import telefonica from './telefonica'
 import tendermint from './tendermint'
 import tenity from './tenity'
 import tenoneten from './tenoneten'
@@ -2716,6 +2765,7 @@ import trustdao from './trustdao'
 import truth from './truth'
 import ts from './ts'
 import tsingting from './tsingting'
+import tsvcap from './tsvcap'
 import ttv from './ttv'
 import tuesday from './tuesday'
 import tupix from './tupix'
@@ -2730,6 +2780,7 @@ import typhonV from './typhon-v'
 import udhc from './udhc'
 import ukGovernment from './uk-government'
 import ulu from './ulu'
+import umaRoy from './uma-roy'
 import unanimous from './unanimous'
 import uncommonProjects from './uncommon-projects'
 import uncorrelated from './uncorrelated'
@@ -2761,6 +2812,7 @@ import valkyrie from './valkyrie'
 import valor from './valor'
 import valoraHolding from './valora-holding'
 import valour from './valour'
+import vaneck from './vaneck'
 import vantage from './vantage'
 import variant from './variant'
 import varunSadana from './varun-sadana'
@@ -2883,6 +2935,7 @@ import xiaodongSong from './xiaodong-song'
 import xinFamily from './xin-family'
 import xoogler from './xoogler'
 import xperiment from './xperiment'
+import xpring from './xpring'
 import xtLabs from './xt-labs'
 import xtream from './xtream'
 import xvc from './xvc'
@@ -2892,6 +2945,7 @@ import yCombinator from './y-combinator'
 import y2z from './y2z'
 import yakirGola from './yakir-gola'
 import yang from './yang'
+import yatSiu from './yat-siu'
 import ybb from './ybb'
 import yc from './yc'
 import yeecall from './yeecall'
@@ -2903,6 +2957,7 @@ import yesVc from './yes-vc'
 import yesss from './yesss'
 import yevgenMalyshev from './yevgen-malyshev'
 import ygg from './ygg'
+import yiSun from './yi-sun'
 import yiSungYong from './yi-sung-yong'
 import yolo from './yolo'
 import yossiHasson from './yossi-hasson'
@@ -2942,6 +2997,7 @@ import zonff from './zonff'
 export const investors = {
   _0Ventures,
   _08Capital,
+  _0xlawliette,
   _0xventures,
   _100And100,
   _10h,
@@ -2950,6 +3006,7 @@ export const investors = {
   _18ventures,
   _1confirmation,
   _1kx,
+  _1nvst,
   _1par,
   _2Punks,
   _2048Ventures,
@@ -3067,6 +3124,7 @@ export const investors = {
   aleo,
   alephOne,
   alexAlexandrov,
+  alexBecker,
   alexGluchovski,
   alexGoh,
   alexShevchenko,
@@ -3089,6 +3147,7 @@ export const investors = {
   allianceOfAngels,
   allisonPickens,
   almora,
+  alphaCapital,
   alphaProtocolVentures,
   alphaSigma,
   alphaTransform,
@@ -3097,6 +3156,7 @@ export const investors = {
   alphablockz,
   alphachain,
   alphacoin,
+  alphacrypto,
   alphagrep,
   alphanonce,
   alphemy,
@@ -3161,6 +3221,7 @@ export const investors = {
   antler,
   antonBukov,
   anuragArjun,
+  apCapital,
   apisVenture,
   appworks,
   aptos,
@@ -3236,11 +3297,13 @@ export const investors = {
   avantBlockchain,
   avatarVentures,
   aventures,
+  averyChing,
   avesLair,
   aviFelman,
   avinashShekhar,
   avon,
   avstar,
+  awesomePeople,
   axia8,
   axilor,
   axonEnterprise,
@@ -3282,6 +3345,7 @@ export const investors = {
   beco,
   bedrock,
   belalBadat,
+  bella,
   bellhip,
   benHuh,
   benJacobs,
@@ -3406,6 +3470,7 @@ export const investors = {
   bmw,
   bobasNetwork,
   bobbyGoodlatte,
+  bochslerFinance,
   bodl,
   boga,
   bogdanAlexandrescu,
@@ -3480,6 +3545,7 @@ export const investors = {
   callapina,
   callisto,
   calm,
+  calvinLiu,
   cambiumGrove,
   cambrian,
   cambridgeAssociates,
@@ -3499,8 +3565,10 @@ export const investors = {
   carnrite,
   carthona,
   cartography,
+  caseyKCaruso,
   castiventures,
   castleIsland,
+  castrum,
   cataliize,
   catalyst,
   catalyticImpact,
@@ -3519,6 +3587,7 @@ export const investors = {
   cercano,
   cerulean,
   ceyuan,
+  cfund,
   cgvFof,
   chaficKazoun,
   chain,
@@ -3568,7 +3637,7 @@ export const investors = {
   chromaway,
   chronos,
   chuango,
-  ciaránOleary,
+  ciaránOLeary,
   cindyBi,
   cipholio,
   circle,
@@ -3586,6 +3655,7 @@ export const investors = {
   cms,
   cmtDigital,
   cnk,
+  coachK,
   coatue,
   codelta,
   cogitent,
@@ -3667,8 +3737,10 @@ export const investors = {
   crowdcreate,
   crtLabs,
   crush,
+  cryptoBanter,
   cryptoDorm,
   cryptoSnack,
+  cryptoTimes,
   cryptoValleyVenture,
   cryptoVentures,
   cryptoCom,
@@ -3689,6 +3761,7 @@ export const investors = {
   cyberFund,
   cyberight,
   cyberport,
+  cygaar,
   cygni,
   cylon,
   cypher,
@@ -3790,7 +3863,6 @@ export const investors = {
   differential,
   digital,
   digitalAsset,
-  digitalCurrency,
   digitalFinance,
   digitalGarage,
   digitalRenaissance,
@@ -3850,6 +3922,7 @@ export const investors = {
   dutchCrypto,
   dutchFlower,
   dvTrading,
+  dvnci,
   dweb3,
   dwf,
   dylanField,
@@ -3885,6 +3958,7 @@ export const investors = {
   eliaAsset,
   elizabethHunker,
   elizabethYen,
+  elliotrades,
   ellipti,
   elliptic,
   elvesLongTerm,
@@ -4059,6 +4133,7 @@ export const investors = {
   futureLife,
   futureNow,
   futureperfect,
+  future3Campus,
   futurelabs,
   futuremoney,
   gForce,
@@ -4099,10 +4174,12 @@ export const investors = {
   genblock,
   generalCatalyst,
   generations,
+  genesis,
   geometry,
   georgeBurke,
   georgeGilder,
   georgeHallam,
+  georgeLambeth,
   gfr,
   gfs,
   ggv,
@@ -4130,8 +4207,9 @@ export const investors = {
   golden,
   goldenRecord,
   goldentree,
+  goldich,
   goldsworth,
-  gonçaloSá,
+  goncaloSa,
   goodGamesGuild,
   goodNews,
   goodlight,
@@ -4148,6 +4226,7 @@ export const investors = {
   greatWallClub,
   gree,
   greenAngels,
+  greenArrow,
   greenEgg,
   greenEra,
   greenPine,
@@ -4236,6 +4315,7 @@ export const investors = {
   hustle,
   hustleHard,
   hv,
+  hypeEth,
   hyperchain,
   hyperithm,
   hypersphere,
@@ -4323,6 +4403,7 @@ export const investors = {
   istari,
   itamarLesuisse,
   ivc,
+  iverseVision,
   jVentures,
   jPMorgan,
   j17,
@@ -4377,6 +4458,7 @@ export const investors = {
   jiho,
   jihoZirlin,
   jimRobinson,
+  jinKang,
   jinglanWang,
   joeLevy,
   joeMccann,
@@ -4401,6 +4483,7 @@ export const investors = {
   jonathanLevine,
   jonathanSeaton,
   jordanMessina,
+  jordanSexton,
   jordanTigani,
   jordiVallejo,
   josephLallouz,
@@ -4431,7 +4514,7 @@ export const investors = {
   justinReyes,
   justinWaldron,
   juttaSteiner,
-  jyriEngeström,
+  jyriEngestrom,
   kStreet,
   k24,
   k300,
@@ -4540,6 +4623,7 @@ export const investors = {
   lattice,
   launch,
   launchAlaska,
+  launchcode,
   launchpool,
   launchub,
   lawrenceLundy,
@@ -4606,7 +4690,7 @@ export const investors = {
   luckyCar,
   luganodes,
   luisCuende,
-  lukaSučić,
+  lukaSucic,
   lukaszKaiser,
   lunarStation,
   lunex,
@@ -4638,6 +4722,7 @@ export const investors = {
   mana,
   maneeshSharma,
   mangoVc,
+  manifold,
   manishaGupta,
   manoharCharan,
   mantis,
@@ -4720,12 +4805,14 @@ export const investors = {
   meta,
   metacartel,
   metagaming,
+  metamatic,
   metaplanet,
   metavest,
   metaweb,
   meteoriteLabs,
   metis,
   metricArchitecture,
+  metrics,
   metropolis,
   mexc,
   mg,
@@ -4779,6 +4866,7 @@ export const investors = {
   modular,
   mohamedAlRafi,
   mohammadAhsan,
+  mohammadShaikh,
   mohammedAfkhami,
   mohitBurman,
   momentum6,
@@ -4834,6 +4922,7 @@ export const investors = {
   nakulGupta,
   namier,
   nanaBianca,
+  nanixbt,
   naples,
   narendraRocherolle,
   narwhal,
@@ -4860,6 +4949,7 @@ export const investors = {
   nestcoin,
   nestle,
   netzero,
+  newForm,
   newbuild,
   newchip,
   newfield,
@@ -4920,7 +5010,6 @@ export const investors = {
   nvidia,
   nws,
   nxgen,
-  nxgenXyz,
   nyvp,
   oshaughnessy,
   o1Labs,
@@ -4934,6 +5023,7 @@ export const investors = {
   oddgems,
   oddiyana,
   odellBeckham,
+  offchainLabs,
   offline,
   ofr,
   oig,
@@ -4983,12 +5073,13 @@ export const investors = {
   ovn,
   ovo,
   owenSimonin,
+  owl,
   ozoneX,
   pGulati,
   p101,
   p1x,
   p2p,
-  pabloRodríguez,
+  pabloRodriguez,
   pacificCentury,
   pack,
   packyMccormick,
@@ -5040,6 +5131,7 @@ export const investors = {
   pg,
   phanindraSama,
   pharus,
+  phdCapital,
   philippMoehring,
   phoenix,
   phoenixIo,
@@ -5051,6 +5143,7 @@ export const investors = {
   pioneer,
   pirata,
   pisitPoosanakhom,
+  pivot,
   placeholder,
   plasma,
   plassa,
@@ -5106,6 +5199,7 @@ export const investors = {
   protocolLabs,
   provider,
   psquare,
+  _publicWorks,
   pulsar,
   punk,
   purechain,
@@ -5282,7 +5376,7 @@ export const investors = {
   sanctor,
   sancus,
   sandeepNailwal,
-  sandeepNaiwal,
+  sandyPeng,
   sangha,
   sanjayNarang,
   sanjayParthasarathy,
@@ -5312,7 +5406,9 @@ export const investors = {
   seal,
   seanPercival,
   sebastienAudet,
+  seedthrift,
   segal,
+  seier,
   sejoAsset,
   selini,
   semantic,
@@ -5327,6 +5423,7 @@ export const investors = {
   sevenx,
   sfermion,
   sginnovate,
+  sharding,
   sharedAccess,
   sharing,
   shawnFanning,
@@ -5376,6 +5473,7 @@ export const investors = {
   skybridge,
   skyland,
   skyman,
+  skynetEgld,
   skynetTrading,
   skyvision,
   skywater,
@@ -5388,6 +5486,7 @@ export const investors = {
   smartStart,
   smartChain,
   smo,
+  smokeyTheBera,
   smrtiLabs,
   snz,
   socialCapital,
@@ -5446,6 +5545,7 @@ export const investors = {
   stakeTechnologies,
   stakeborg,
   stakedVc,
+  stakeholder,
   stakezero,
   stakingFacilities,
   standard,
@@ -5462,7 +5562,9 @@ export const investors = {
   stateInformationCenter,
   stateless,
   stationF,
+  stealthCapital,
   stedinHolding,
+  steelDao,
   steelPerlot,
   stefanoBernardi,
   stepanSimkin,
@@ -5489,6 +5591,7 @@ export const investors = {
   sujiYan,
   sumaria,
   sumeru,
+  summer,
   sunnyGar,
   _super,
   _superchain,
@@ -5506,6 +5609,7 @@ export const investors = {
   svAngel,
   svPacific,
   swan,
+  swc,
   swissGem,
   swissborg,
   swordfish,
@@ -5553,7 +5657,7 @@ export const investors = {
   tejasManohar,
   telAviv,
   telecomInfraProject,
-  telefónica,
+  telefonica,
   tendermint,
   tenity,
   tenoneten,
@@ -5658,6 +5762,7 @@ export const investors = {
   truth,
   ts,
   tsingting,
+  tsvcap,
   ttv,
   tuesday,
   tupix,
@@ -5672,6 +5777,7 @@ export const investors = {
   udhc,
   ukGovernment,
   ulu,
+  umaRoy,
   unanimous,
   uncommonProjects,
   uncorrelated,
@@ -5703,6 +5809,7 @@ export const investors = {
   valor,
   valoraHolding,
   valour,
+  vaneck,
   vantage,
   variant,
   varunSadana,
@@ -5825,6 +5932,7 @@ export const investors = {
   xinFamily,
   xoogler,
   xperiment,
+  xpring,
   xtLabs,
   xtream,
   xvc,
@@ -5834,6 +5942,7 @@ export const investors = {
   y2z,
   yakirGola,
   yang,
+  yatSiu,
   ybb,
   yc,
   yeecall,
@@ -5845,6 +5954,7 @@ export const investors = {
   yesss,
   yevgenMalyshev,
   ygg,
+  yiSun,
   yiSungYong,
   yolo,
   yossiHasson,

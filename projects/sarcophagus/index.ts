@@ -20,7 +20,7 @@ export default {
     'q9qqsj',
     'qqc9zd',
     'vdyl97',
-    'xnftxc',
+    'rgk0ot',
     'bku3ew',
   ],
   linkedin: 'https://github.com/sarcophagus-org',

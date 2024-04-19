@@ -11,7 +11,7 @@ export default {
   id: 'ae73hb',
   description: 'ChainML is a decentralized compute network for AI and numerical applications.',
   discord: '1119245135620878388',
-  investors: ['7ygqh2', 'nxzb7m', 'i1x9du', 'po8xe3', 'xnftxc', 'wu15kr'],
+  investors: ['7ygqh2', 'nxzb7m', 'i1x9du', 'po8xe3', 'rgk0ot', 'wu15kr'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
