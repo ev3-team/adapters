@@ -15,10 +15,15 @@ export default {
   investors: [
     'd82r3q',
     'saoq66',
+    'z37132',
+    'buo8ql',
     'ubwov4',
     '772xwk',
     'caojlf',
     '7zvxz8',
+    'grev3h',
+    'uktppp',
+    '6c0yfx',
     'x10a41',
     'wcrsby',
     'nxzb7m',
@@ -26,7 +31,9 @@ export default {
     '0go35f',
     '07pxi6',
     '1im0oz',
+    'wu15kr',
     'ikokx0',
+    'o7xcsr',
     't9lvtn',
     's812zr',
     '78enfd',
@@ -41,6 +48,10 @@ export default {
   url: 'https://iotex.io/',
   verified: false,
   fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.prweb.com/releases/snz-capital-foresight-ventures-futuremoneygroup-borderless-capital-and-others-invest-50m-into-the-iotex-ecosystem-to-accelerate-depin-growth--adoption-302105700.html',
+    },
     {
       roundType: 'Series A',
       url: 'https://www.coindesk.com/business/2022/06/07/machinefi-lab-raises-10m-to-incentivize-iot-data-collection-for-web-3/',

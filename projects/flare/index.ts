@@ -12,7 +12,18 @@ export default {
   description:
     'Flare is the blockchain for data, providing developers with secure decentralized access to high-integrity data from other chains and the internet. ',
   discord: '743422808499028049',
-  investors: [],
+  investors: [
+    'juclgr',
+    'm9zsej',
+    'buo8ql',
+    'o26rsd',
+    'szfiug',
+    'apd14v',
+    'li943w',
+    'micofj',
+    'qqc9zd',
+    'v6xlk7',
+  ],
   linkedin: 'https://www.linkedin.com/company/flarenetwork/',
   duneQueries: null,
   foundingYear: null,
@@ -22,5 +33,18 @@ export default {
   twitter: 'https://twitter.com/FlareNetworks',
   url: 'https://flare.network/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://decrypt.co/73008/flare-network-raises-11-3m-in-funding-round-with-kenetic-dcg',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2024/02/23/layer-1-network-flare-raises-35m-from-kenetic-aves-lair/',
+    },
+    {
+      roundType: 'Strategic',
+      url: 'https://thepaypers.com/news/ripples-xpring-strategically-invests-in-flare-networks--1239453',
+    },
+  ],
 } satisfies AdapterProject

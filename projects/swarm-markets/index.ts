@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/shawred0/status/1760983389400977765',
+  twitter: 'https://twitter.com/SwarmMarkets',
   url: 'https://swarm.com/',
   verified: false,
   fundraises: [],

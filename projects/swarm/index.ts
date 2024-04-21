@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Swarm',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',

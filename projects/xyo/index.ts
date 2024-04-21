@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XYO',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Positioning',
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'xyo',
   id: '2icwvy',
   description:
-    'XYO is a blockchain network of 3 million IoT devices that collects and validates geospatial data anonymously.',
+    'XYO is a tech network and protocol designed to improve the validity, certainty, and value of data. ',
   discord: '935586624392298547',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/officialxyo/',

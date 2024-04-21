@@ -12,7 +12,22 @@ export default {
   description:
     'Metablox is a provider of enterprise-grade WiFi roaming solutions, delivering worldwide public access.',
   discord: '916937100744597548',
-  investors: ['zaf9xh', '4t27eh', 'xz1vnr', 'z22qa3', 'v7aaaw', 'wu15kr', 'xf57bt'],
+  investors: [
+    'fahk60',
+    'zaf9xh',
+    'k0celj',
+    '4t27eh',
+    'xz1vnr',
+    'g4z7os',
+    'vzqumt',
+    'z22qa3',
+    'v7aaaw',
+    'wu15kr',
+    '9jfdo8',
+    'xf57bt',
+    'gasfop',
+    'o5of0s',
+  ],
   linkedin: 'https://www.linkedin.com/company/metablox/',
   duneQueries: null,
   foundingYear: null,
@@ -26,6 +41,10 @@ export default {
     {
       roundType: 'Seed',
       url: 'https://www.venturecapitaljournal.com/metablox-inks-seed-financing/',
+    },
+    {
+      roundType: 'Strategic',
+      url: 'https://twitter.com/DePINBuddy/status/1773164755634487785',
     },
   ],
 } satisfies AdapterProject

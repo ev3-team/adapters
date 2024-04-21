@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koda',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Robotics',
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '7z84do',
   description:
-    'Koda Koda creates decentralized AI robotic dogs with data stored on IPFS/Filecoin Network.',
+    "KODA is the world's first decentralized AI robotic dog with the option to store data on IPFS/Filecoin Network.",
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/kodarobot',

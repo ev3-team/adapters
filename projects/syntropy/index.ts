@@ -12,7 +12,17 @@ export default {
   description:
     'Syntropy is a decentralized, multi-purpose on-chain data streaming oracle for applications and blockchains.',
   discord: '503896258881126401',
-  investors: [],
+  investors: [
+    '3t6j16',
+    'l70dye',
+    'k1qvmn',
+    'fn2hky',
+    'tzyxtr',
+    'n73vnt',
+    '8agdnp',
+    'nzxtym',
+    'v6xlk7',
+  ],
   linkedin: 'https://www.linkedin.com/company/syntropynet/',
   duneQueries: null,
   foundingYear: null,
@@ -22,5 +32,10 @@ export default {
   twitter: 'https://twitter.com/Syntropynet',
   url: 'https://www.syntropynet.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Strategic',
+      url: 'https://twitter.com/Syntropynet/status/1768291299809968491',
+    },
+  ],
 } satisfies AdapterProject

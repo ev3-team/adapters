@@ -19,8 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/surge-sh',
   telegram: null,
-  twitter:
-    'https://twitter.com/SeattleSurge?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/SeattleSurge',
   url: 'https://getsurge.io/',
   verified: false,
   fundraises: [],

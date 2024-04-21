@@ -40,12 +40,12 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Seed',
-      url: 'https://www.coinlive.com/news-flash/405451',
-    },
-    {
       roundType: 'Preseed',
       url: 'https://medium.com/4everland/4everland-has-raised-1-5-million-dollars-in-a-seed-round-435648b411ef',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.coinlive.com/news-flash/405451',
     },
   ],
 } satisfies AdapterProject
