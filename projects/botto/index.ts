@@ -12,7 +12,7 @@ export default {
   description:
     'Botto is a decentralized autonomous artist creating 350 art pieces/week, guided by community voting.',
   discord: '829636834371960842',
-  investors: ['ubuz3j'],
+  investors: ['bspyld', 'zaf9xh', 'ubuz3j'],
   linkedin: 'http://www.linkedin.com/company/bottoproject',
   duneQueries: null,
   foundingYear: null,
@@ -22,5 +22,14 @@ export default {
   twitter: 'https://twitter.com/bottoproject',
   url: 'https://botto.com/about',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/BottoDAO/status/1771210245404053907',
+    },
+    {
+      roundType: 'Strategic',
+      url: 'https://twitter.com/BottoDAO/status/1626249129092415491',
+    },
+  ],
 } satisfies AdapterProject

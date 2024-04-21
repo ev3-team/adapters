@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'nlkbyo',

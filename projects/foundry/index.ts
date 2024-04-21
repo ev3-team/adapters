@@ -12,7 +12,7 @@ export default {
   description:
     'Foundry is a new breed of public cloud, powered by an orchestration platform that makes accessing AI compute easier.',
   discord: null,
-  investors: [],
+  investors: ['rwhpsx', 'vf0qg4'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/mlfoundry',
   url: 'https://www.mlfoundry.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://twitter.com/mlfoundry/status/1770800183426629894/photo/1',
+    },
+  ],
 } satisfies AdapterProject

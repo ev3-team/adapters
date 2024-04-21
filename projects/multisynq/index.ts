@@ -12,7 +12,7 @@ export default {
   description:
     'Multisynq is a decentralized, low-latency Synchronization Network, allowing individuals to monetize their surplus internet connection by selling bandwidth to developers creating unified experiences on the Internet.',
   discord: null,
-  investors: [],
+  investors: ['ii5tnv', 'vxxepe', '4j98hb', 'unykak'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/multisynq',
   url: 'https://multisynq.io/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/multisynq/status/1778598443872587808',
+    },
+  ],
 } satisfies AdapterProject

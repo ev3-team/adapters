@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Plural',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '5uioqo',
   description:
-    'Plural Energy: Renewable energy investment with blockchain tech for accessible opportunities.',
+    'Plural Energy leverages blockchain to unlock new sources of capital to finance renewable energy projects by making it possible for anyone to invest directly. ',
   discord: null,
   investors: [],
   linkedin: 'https://linkedin.com/company/drifeofficial',
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/Drife_official',
+  twitter: 'https://twitter.com/pluralenergy',
   url: 'https://www.pluralenergy.co/',
   verified: false,
   fundraises: [],

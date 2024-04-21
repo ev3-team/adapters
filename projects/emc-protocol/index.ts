@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/EMCprotocol',
   url: 'https://www.edgematrix.pro/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Strategic',
+      url: 'https://medium.com/@EMCProtocol/ai-depin-project-emc-lands-multi-million-dollar-investment-f267a4257c71',
+    },
+  ],
 } satisfies AdapterProject

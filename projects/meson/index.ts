@@ -24,6 +24,7 @@ export default {
     'thxgaw',
     'ikeqay',
     'ivtzio',
+    'smqwtv',
     'nym997',
     '6j16uu',
     'h9g1s5',
@@ -45,8 +46,20 @@ export default {
   verified: false,
   fundraises: [
     {
+      roundType: 'Public sale',
+      url: 'https://twitter.com/NetworkMeson/status/1755662941511356581',
+    },
+    {
       roundType: 'Seed',
       url: 'https://finance.yahoo.com/news/meson-network-raises-3-5m-131500338.html',
+    },
+    {
+      roundType: 'Strategic',
+      url: 'https://crypto-fundraising.info/projects/meson-network/',
+    },
+    {
+      roundType: 'Strategic',
+      url: 'https://twitter.com/NetworkMeson/status/1768445122914775217',
     },
   ],
 } satisfies AdapterProject

@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/kroo',
   github: 'https://github.com/b-social',
   telegram: null,
-  twitter: 'https://twitter.com/KrooBank?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/KrooBank',
   url: 'https://www.kroo.us/',
   verified: false,
   fundraises: [],

@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'DeFi',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'iqc8zd',

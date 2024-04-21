@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lavita.AI',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Health & Fitness',
   chain: 'NATIVE',
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'lavita',
   id: 'tylsdp',
   description:
-    'Lavita.AI: Blockchain-AI healthcare platform, preserving data privacy & enabling research with biomedical datasets.',
+    'LAVITA is a blockchain and AI based next generation healthcare platform, that enables the use of massive biomedical datasets for research while preserving individual privacy and ownership of data.',
   discord: '1041587307419017246',
   investors: ['772xwk'],
   linkedin: 'http://www.linkedin.com/company/lavita-ai',
