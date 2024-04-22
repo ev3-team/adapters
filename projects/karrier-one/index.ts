@@ -25,11 +25,11 @@ export default {
   fundraises: [
     {
       roundType: 'Seed',
-      url: 'https://www.businesswire.com/news/home/20230405005336/en/',
+      url: 'https://www.finsmes.com/2024/01/depin-and-dewi-come-to-sui-in-groundbreaking-karrier-one-partnership-upcoming-token-launch.html',
     },
     {
       roundType: 'Seed',
-      url: 'https://www.finsmes.com/2024/01/depin-and-dewi-come-to-sui-in-groundbreaking-karrier-one-partnership-upcoming-token-launch.html',
+      url: 'https://www.businesswire.com/news/home/20230405005336/en/',
     },
   ],
 } satisfies AdapterProject

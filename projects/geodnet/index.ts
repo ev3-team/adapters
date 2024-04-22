@@ -11,7 +11,7 @@ export default {
   id: 'scli9r',
   description: 'Geodnet is a decentralized network of GNSS reference stations.',
   discord: '912073116413476875',
-  investors: ['buo8ql', 'p99cdg', 'f87dvf', 'oygqys', 'ksae6d', '6fx6k3'],
+  investors: ['buo8ql', 'szfiug', 'p99cdg', 'f87dvf', 'ozeg73', 'oygqys', 'ksae6d', '6fx6k3'],
   linkedin: 'https://www.linkedin.com/company/geodnet/',
   duneQueries: {
     LOCKED_BALANCE: '2944845',
@@ -30,11 +30,15 @@ export default {
   fundraises: [
     {
       roundType: 'Seed',
-      url: 'https://medium.com/borderless-capital/borderless-leads-a-1-5m-investment-into-geodnet-to-bring-high-accuracy-positioning-to-the-masses-ccd2c1b9ce97',
+      url: 'https://twitter.com/geodnet_/status/1762832718327361794',
     },
     {
       roundType: 'Seed',
-      url: 'https://twitter.com/geodnet_/status/1762832718327361794',
+      url: 'https://medium.com/borderless-capital/borderless-leads-a-1-5m-investment-into-geodnet-to-bring-high-accuracy-positioning-to-the-masses-ccd2c1b9ce97',
+    },
+    {
+      roundType: 'Strategic',
+      url: 'https://twitter.com/GEODNET_/status/1780236105314378164',
     },
   ],
 } satisfies AdapterProject

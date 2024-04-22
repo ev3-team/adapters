@@ -52,12 +52,12 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Series A',
-      url: 'https://www.coindesk.com/business/2022/02/16/Union Square-multicoin-lead-30m-raise-for-3boxs-ceramic-data-network/',
-    },
-    {
       roundType: 'Seed',
       url: 'https://techcrunch.com/2019/06/26/Web3 Capital-platform-3box-raises-seed-to-bring-back-control-of-user-data/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2022/02/16/Union Square-multicoin-lead-30m-raise-for-3boxs-ceramic-data-network/',
     },
   ],
 } satisfies AdapterProject

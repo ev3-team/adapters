@@ -53,11 +53,11 @@ export default {
     },
     {
       roundType: 'Series A',
-      url: 'https://techcrunch.com/2022/09/19/pano-ai/',
+      url: 'https://techcrunch.com/2023/07/10/pano-series-a-extension/',
     },
     {
       roundType: 'Series A',
-      url: 'https://techcrunch.com/2023/07/10/pano-series-a-extension/',
+      url: 'https://techcrunch.com/2022/09/19/pano-ai/',
     },
   ],
 } satisfies AdapterProject

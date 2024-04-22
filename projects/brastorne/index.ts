@@ -25,15 +25,15 @@ export default {
   fundraises: [
     {
       roundType: 'Accelerator',
+      url: 'https://igrownews.com/2022-ayute-africa-challenge-announces-winners-thriveagric-digicow-and-brastorne-enterprises-to-receive-usd-1-5-million-in-grants-and-expert-support/',
+    },
+    {
+      roundType: 'Accelerator',
       url: 'https://www.brastorne.com/blogs/brastorne-connects-the-unconnected-in-drc',
     },
     {
       roundType: 'Accelerator',
       url: 'https://www.bwtechzone.com/2022/09/brastorne-enterprises-wins-250000.html',
-    },
-    {
-      roundType: 'Accelerator',
-      url: 'https://igrownews.com/2022-ayute-africa-challenge-announces-winners-thriveagric-digicow-and-brastorne-enterprises-to-receive-usd-1-5-million-in-grants-and-expert-support/',
     },
   ],
 } satisfies AdapterProject

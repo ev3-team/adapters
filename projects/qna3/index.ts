@@ -12,7 +12,7 @@ export default {
   description:
     'QnA3 is an AI-powered Web3 Knowledge Sharing Platform that helps users get answers to web3 questions.',
   discord: null,
-  investors: [],
+  investors: ['mrgeec', 'tlb60n'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,5 +22,14 @@ export default {
   twitter: null,
   url: 'https://qna3.ai/vote',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Grants',
+      url: 'https://twitter.com/qnaweb3/status/1770689411568783845',
+    },
+    {
+      roundType: 'Accelerator',
+      url: 'https://twitter.com/BinanceLabs/status/1766011339665821736',
+    },
+  ],
 } satisfies AdapterProject

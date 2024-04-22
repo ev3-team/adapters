@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StorX',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Storage',
   chain: 'XDC',
   category: 'COMPUTE',

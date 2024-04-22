@@ -12,7 +12,7 @@ export default {
   description:
     'United GPU infrastructure that can be utilized for highly optimized 3D rendering, animation, VFX, generative AI, foundation models, LLM training and cryptocurrency mining.',
   discord: '1083646475608784907',
-  investors: ['66xw1k', 'bah2fw'],
+  investors: ['66xw1k', 'poal5z', 'xx442f', 'b57s8m', 'l1yhc5', 'bah2fw', 'chjkg7', 'e0wtte'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -23,6 +23,10 @@ export default {
   url: 'https://www.gpu.net/',
   verified: false,
   fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://twitter.com/gpunet/status/1778015013917098381',
+    },
     {
       roundType: 'Preseed',
       url: 'https://www.globenewswire.com/news-release/2023/08/30/2734002/0/en/GPU-Net-Raises-500K-from-Momentum-6-Alphablockz-Nvidia-Backs-Testnet-Launch.html',

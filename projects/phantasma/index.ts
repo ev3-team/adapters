@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phantasma',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2, Gaming',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ProximaX',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'BINANCE',
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'proximax',
   id: 'nwrj6s',
   description:
-    'ProximaX: Blockchain-based infrastructure and development combining tech with distributed service layers.',
+    'ProximaX is a next-generation Integrated and Distributed Ledger Technology (IaDLT) infrastructure development platform that includes off-chain, peer-to-peer storage, streaming, database, Supercontracts, and blockchain layers.',
   discord: null,
   investors: ['2q8xba', 'pcw959'],
   linkedin: 'https://www.linkedin.com/company/proximaxltd',

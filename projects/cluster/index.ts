@@ -22,5 +22,10 @@ export default {
   twitter: null,
   url: 'https://twitter.com/ClusterProtocol',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/ClusterProtocol/status/1770473478350622985',
+    },
+  ],
 } satisfies AdapterProject

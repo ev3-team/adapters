@@ -40,11 +40,11 @@ export default {
   fundraises: [
     {
       roundType: 'Seed',
-      url: 'https://www.cypherhunter.com/zh-hans/e/fetch-ai-raised-funding-2018-06-11/',
+      url: 'https://www.coindesk.com/markets/2021/03/10/fetchai-nabs-5m-in-institutional-investment-fireblocks-to-add-support-for-fet-token/',
     },
     {
       roundType: 'Seed',
-      url: 'https://www.coindesk.com/markets/2021/03/10/fetchai-nabs-5m-in-institutional-investment-fireblocks-to-add-support-for-fet-token/',
+      url: 'https://www.cypherhunter.com/zh-hans/e/fetch-ai-raised-funding-2018-06-11/',
     },
     {
       roundType: 'Series A',

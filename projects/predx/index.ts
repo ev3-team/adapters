@@ -12,7 +12,7 @@ export default {
   description:
     'Predx is an AI-powered prediction market allowing users to propose and trade on the likelihood of various events across diverse topics.',
   discord: null,
-  investors: [],
+  investors: ['4dh0t9', 'dd27ab'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/PredX_AI',
   url: 'https://predx.ai/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.odaily.news/newsflash/356564',
+    },
+  ],
 } satisfies AdapterProject
