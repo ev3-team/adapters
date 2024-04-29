@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.45
+
+### Patch Changes
+
+- contributions release
+
 ## 0.3.44
 
 ### Patch Changes
