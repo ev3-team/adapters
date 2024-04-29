@@ -35,6 +35,7 @@ export type AdapterProjectChain =
   | 'VECHAIN'
   | 'XDC'
   | 'ZKSYNC'
+  | 'TON'
 
 export type AdapterProjectDuneQueryIdentifiers = {
   BURN?: string

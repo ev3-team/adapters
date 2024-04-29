@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'UpOnly',
+  ninja: 'ZZ',
+  subcategories: 'Gaming',
+  chain: 'POLYGON',
+  category: 'NOT_DEPIN',
+  token: 'UPO',
+  coinGeckoID: 'uponly',
+  id: 'kiskk2',
+  description: 'UpOnly is a Play to Earn Gaming Analytics and Prediction Platform.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/UpOnlyOfficial',
+  url: 'https://www.uponly.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

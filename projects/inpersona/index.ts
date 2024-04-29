@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Inpersona',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'SENSORS',
+  token: null,
+  coinGeckoID: null,
+  id: '80egp2',
+  description:
+    'InPersona is a Web3 Metaverse platform that incentivizes positive health and lifestyle behavior using wearable technology, together with novel HealthFi and SocialFi reward programs.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/inPersonaNFT',
+  url: 'https://www.inpersona.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
