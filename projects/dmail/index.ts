@@ -4,10 +4,10 @@ export default {
   name: 'Dmail',
   ninja: null,
   subcategories: null,
-  chain: null,
+  chain: 'BINANCE',
   category: 'AI',
-  token: null,
-  coinGeckoID: null,
+  token: 'DMAIL',
+  coinGeckoID: 'dmail-network',
   id: '84v1j0',
   description:
     'Dmail is an AI-powered decentralized email platform that empowers users with ownership and control of their data.',
