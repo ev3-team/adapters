@@ -24,7 +24,15 @@ export default {
   fundraises: [
     {
       roundType: 'Seed',
+      url: 'https://finance.yahoo.com/news/ait-protocol-receives-investment-animoca-075000283.html',
+    },
+    {
+      roundType: 'Seed',
       url: 'https://www.binance.com/en/feed/post/2023-12-13-ait-protocol-completes-new-funding-round-with-participation-from-multiple-investors-1317935449953',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/AITProtocol/status/1734558802459152682',
     },
   ],
 } satisfies AdapterProject

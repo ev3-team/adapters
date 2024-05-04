@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/JoinEveryworld',
   url: 'https://www.everyworld.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://twitter.com/JoinEveryworld/status/1771252264985915682',
+    },
+  ],
 } satisfies AdapterProject

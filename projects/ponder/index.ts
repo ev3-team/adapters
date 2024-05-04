@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/Ponder_One',
   url: 'https://ponder.one/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Private/Public token sale',
+      url: 'https://cryptorank.io/ico/ponder',
+    },
+  ],
 } satisfies AdapterProject

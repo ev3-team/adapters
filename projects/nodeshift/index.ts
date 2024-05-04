@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/nodeshiftcloud',
   url: 'https://nodeshift.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/nodeshiftcloud/status/1760572580862280007',
+    },
+  ],
 } satisfies AdapterProject
