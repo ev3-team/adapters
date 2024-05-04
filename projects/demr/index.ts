@@ -24,7 +24,7 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://twitter.com/DeMR_official/status/1742868910612066684',
     },
     {
@@ -32,7 +32,7 @@ export default {
       url: 'https://twitter.com/DeMR_official/status/1767791967768125940',
     },
     {
-      roundType: 'Strategic/Angel',
+      roundType: 'Seed',
       url: 'https://coinedition.com/demr-kucoin-labs-first-strategic-investment-in-the-depin-track/',
     },
   ],
