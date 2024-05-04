@@ -41,12 +41,12 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Pre-Series A',
-      url: 'https://www.theblock.co/post/285072/web3-ai-platform-myshell-funding',
-    },
-    {
       roundType: 'Preseed',
       url: 'https://crypto-fundraising.info/projects/myshell/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/285072/web3-ai-platform-myshell-funding',
     },
     {
       roundType: 'Seed',

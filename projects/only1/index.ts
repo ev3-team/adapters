@@ -22,5 +22,18 @@ export default {
   twitter: 'https://twitter.com/JoinOnly1',
   url: 'https://only1.app/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://crypto-fundraising.info/projects/only1/?utm_source=tgtw&utm_medium=post&utm_campaign=project',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://crypto-fundraising.info/projects/only1/',
+    },
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://twitter.com/JoinOnly1/status/1781942452733231465',
+    },
+  ],
 } satisfies AdapterProject

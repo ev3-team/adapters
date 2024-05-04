@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/LumozOrg',
   url: 'https://lumoz.org/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://www.theblock.co/post/286969/lumoz-crypto-funding-token-round-valuation',
+    },
+  ],
 } satisfies AdapterProject

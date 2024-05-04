@@ -43,7 +43,7 @@ export default {
       url: 'https://www.venturecapitaljournal.com/metablox-inks-seed-financing/',
     },
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://twitter.com/DePINBuddy/status/1773164755634487785',
     },
   ],

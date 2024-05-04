@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/SaharaLabsAI',
   url: 'https://www.saharalabs.ai/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://chainwire.org/2024/03/05/sahara-raises-6-million-seed-round-to-democratize-global-knowledge-capital-access-through-ai-and-blockchain-technologies-led-by-polychain-capital/',
+    },
+  ],
 } satisfies AdapterProject

@@ -24,6 +24,10 @@ export default {
   fundraises: [
     {
       roundType: 'Seed',
+      url: 'https://twitter.com/flock_io/status/1773350443235545200',
+    },
+    {
+      roundType: 'Seed',
       url: 'https://www.theblock.co/post/285181/web3-ai-training-firm-flock-raises-6-million-in-seed-funding',
     },
   ],

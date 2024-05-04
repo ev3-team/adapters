@@ -48,12 +48,12 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Series A',
-      url: 'https://twitter.com/Clique2046/status/1768277734113907127',
-    },
-    {
       roundType: 'Seed',
       url: 'https://twitter.com/Clique2046/status/1582191761526775808',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://twitter.com/Clique2046/status/1768277734113907127',
     },
   ],
 } satisfies AdapterProject

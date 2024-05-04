@@ -22,5 +22,14 @@ export default {
   twitter: 'https://twitter.com/Adot_web3',
   url: 'https://www.a.xyz/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Series A',
+      url: 'https://adotweb3.medium.com/adot-founded-by-ex-googler-secures-6m-total-funding-to-build-decentralized-ai-search-32028c677cec',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://twitter.com/Adot_web3/status/1783439825695318322',
+    },
+  ],
 } satisfies AdapterProject
