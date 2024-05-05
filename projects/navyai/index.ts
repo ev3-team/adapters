@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'NavyAI',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'AI',
+  token: 'NAVY',
+  coinGeckoID: null,
+  id: '7m3jfl',
+  description: 'NavyAI is a Blockchain Layer on Solana for AI model training and self-learning.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/NavyAI_xyz',
+  url: 'https://navyai.xyz/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

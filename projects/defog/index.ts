@@ -9,7 +9,7 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'u43dxj',
-  description: 'We help enterprises deploy fine-tuned LLMs for enterprise analytics.',
+  description: 'Defog.ai helps enterprises deploy fine-tuned LLMs for enterprise analytics.',
   discord: null,
   investors: [],
   linkedin: 'https://github.com/defog-ai',
@@ -19,7 +19,7 @@ export default {
   github: 'https://defog.ai/blog/',
   telegram: null,
   twitter: 'https://twitter.com/defogdata?lang=en',
-  url: 'https://defog.ai/blog/agents/',
+  url: 'https://defog.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

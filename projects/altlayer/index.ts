@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'r5tb6n',
   description:
-    'AltLayer is a decentralized and elastic Rollup-as-a-Service (RaaS) protocol for application developers to launch highly scalable application-tailored execution layers(aka Layer 2s).',
+    'AltLayer is a decentralized protocol that facilitates the launch of native and re-staked rollups with both optimistic and zk rollup stacks.',
   discord: '954273304099815424',
   investors: [],
   linkedin: null,

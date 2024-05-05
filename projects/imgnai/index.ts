@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'imgnai',
   id: 'du3f01',
   description:
-    'ImgnAI‚Äôs flagship product ‚ÄúNai‚Äù turns anything you write into an anime, 3D, or hyper-realistic image.',
+    "ImgnAI's flagship product is Nai, an AI bot that turns anything users write into an anime, 3D, or hyper-realistic image.",
   discord: '1053754972753383474',
   investors: ['r54jbx', 'a3mqq8', 'jj50jr', '628gra', 'xtk30o', 'xtbe5p'],
   linkedin: 'http://www.linkedin.com/company/imgnai',

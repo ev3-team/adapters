@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Catapulta',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coinGeckoID: null,
+  id: '1pqp11',
+  description: 'Catapulta is a plug-n-play, multi-chain smart contracts platform for Web3 teams.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/catapulta_sh',
+  url: 'https://catapulta.sh/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
