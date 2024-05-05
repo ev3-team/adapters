@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'ktxx7q',
   description:
-    'Acxyn: empowering Web3 games with economic potential and ownership of revenue streams.',
+    "Acxyn is a web3 company that aims to revolutionize the gaming industry as the world's first IP tokenization platform.",
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/acxyn',

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'gkt0ei',
   description:
-    'fliggs mobile leads the way in the all-digital MVNO revolution, employing Web3 technology to transform the telecom industry.',
+    'Fliggs Mobile is bridging Web3 and Telco, elevating mobile connectivity with a wallet, a digital ID, and loyalty rewards.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/fliggs/',

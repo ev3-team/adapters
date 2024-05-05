@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'bh55a0',
   description:
-    'An affiliate marketing platform built specifically for web3 that allows creators to monetize their content.',
+    'Defilliate is an affiliate marketing platform built specifically for web3 that allows creators to monetize their content.',
   discord: '1158504286808981546',
   investors: [],
   linkedin: null,
