@@ -37,7 +37,7 @@ export default {
       url: 'https://medium.com/borderless-capital/borderless-leads-a-1-5m-investment-into-geodnet-to-bring-high-accuracy-positioning-to-the-masses-ccd2c1b9ce97',
     },
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://twitter.com/GEODNET_/status/1780236105314378164',
     },
   ],

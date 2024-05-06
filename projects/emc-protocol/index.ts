@@ -24,7 +24,7 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://medium.com/@EMCProtocol/ai-depin-project-emc-lands-multi-million-dollar-investment-f267a4257c71',
     },
   ],

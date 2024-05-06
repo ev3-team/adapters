@@ -37,5 +37,9 @@ export default {
       roundType: 'Seed',
       url: 'https://www.thesaasnews.com/news/natix-raises-3-5-million-in-seed-round',
     },
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://www.theblock.co/post/290927/depin-natix-funding-token-airdrop-solana',
+    },
   ],
 } satisfies AdapterProject

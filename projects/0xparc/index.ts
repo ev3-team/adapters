@@ -9,7 +9,7 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'zf9ws4',
-  description: 'Supporting the next generation of cryptography-enabled applications.',
+  description: '0xPARC supports the next generation of cryptography-enabled applications.',
   discord: null,
   investors: [],
   linkedin: null,

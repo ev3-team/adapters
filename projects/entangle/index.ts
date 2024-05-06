@@ -24,8 +24,16 @@ export default {
   verified: false,
   fundraises: [
     {
+      roundType: 'Private/Public token sale',
+      url: 'https://cryptorank.io/ico/entangle',
+    },
+    {
       roundType: 'Seed',
       url: 'https://twitter.com/entanglefi/status/1744751372455784817',
+    },
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://cryptorank.io/ico/entangle',
     },
   ],
 } satisfies AdapterProject

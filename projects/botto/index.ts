@@ -28,7 +28,7 @@ export default {
       url: 'https://twitter.com/BottoDAO/status/1771210245404053907',
     },
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://twitter.com/BottoDAO/status/1626249129092415491',
     },
   ],

@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/solakgpt',
   url: 'https://solak.app/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://twitter.com/solakgpt/status/1767415726510665865',
+    },
+  ],
 } satisfies AdapterProject

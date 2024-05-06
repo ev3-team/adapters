@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/bluwhaleai',
   url: 'https://www.bluwhale.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://techfundingnews.com/silicon-valleys-ai-web3-startup-bluwhale-from-standford-berkeley-and-tiktok-alums-raise-s-7m-funding/',
+    },
+  ],
 } satisfies AdapterProject

@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Ridesharing',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SERVICES',
   token: null,
   coinGeckoID: null,
   id: 'aehc1q',

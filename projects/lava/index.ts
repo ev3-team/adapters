@@ -21,5 +21,10 @@ export default {
   twitter: null,
   url: 'https://www.lavanet.xyz/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/lavanetxyz/status/1758162588381405563',
+    },
+  ],
 } satisfies AdapterProject

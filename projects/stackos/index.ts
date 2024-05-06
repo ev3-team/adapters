@@ -46,5 +46,10 @@ export default {
   twitter: 'https://twitter.com/DeployOnStackOS',
   url: 'https://www.stackos.io/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Private/Public token sale',
+      url: 'https://cryptorank.io/ico/stackos-sfx',
+    },
+  ],
 } satisfies AdapterProject

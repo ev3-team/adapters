@@ -24,10 +24,6 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Grants',
-      url: 'https://twitter.com/qnaweb3/status/1770689411568783845',
-    },
-    {
       roundType: 'Accelerator',
       url: 'https://twitter.com/BinanceLabs/status/1766011339665821736',
     },

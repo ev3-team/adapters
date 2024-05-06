@@ -24,7 +24,7 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: '',
+      roundType: 'Series A',
       url: 'https://www.coindesk.com/business/2024/04/11/depin-platform-uplink-raises-10m-led-by-framework-ventures/',
     },
   ],

@@ -22,5 +22,14 @@ export default {
   twitter: 'https://twitter.com/MystikoNetwork',
   url: 'https://mystick.network/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Private/Public token sale',
+      url: 'https://crypto-fundraising.info/projects/mystiko-network/',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://finbold.com/web3-base-layer-mystiko-network-completed-a-18-million-usd-seed-funding-round/',
+    },
+  ],
 } satisfies AdapterProject

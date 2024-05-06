@@ -34,7 +34,7 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://twitter.com/Syntropynet/status/1768291299809968491',
     },
   ],

@@ -7,13 +7,8 @@ export type FundRaiseRoundType =
   | 'Series C'
   | 'Series D'
   | 'Series F'
-  | 'Strategic'
-  | 'Angel'
-  | 'Private Token Sale'
-  | 'Public sale'
-  | 'Pre-Series A'
-  | 'Grants'
-  | ''
+  | 'Strategic/Angel'
+  | 'Private/Public token sale'
 
 export type FundRaiseRow = {
   projectName: string

@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/PrimeIntellect',
   url: 'https://www.primeintellect.ai/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/PrimeIntellect/status/1782772983712379328',
+    },
+  ],
 } satisfies AdapterProject
