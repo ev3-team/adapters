@@ -4,10 +4,10 @@ export default {
   name: 'Entangle',
   ninja: 'ZZ',
   subcategories: null,
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
-  token: null,
-  coinGeckoID: null,
+  token: 'NGL',
+  coinGeckoID: 'entangle',
   id: 'upuriv',
   description:
     'Entangle is a customizable messaging Infrastructure designed to unify web3 and optimize ecosystem liquidity. It provides builders & dApps authenticated, customizable, and interoperable data secured on the blockchain with full security configurability.',

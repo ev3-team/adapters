@@ -6,7 +6,7 @@ export default {
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
-  token: ' ENQAI',
+  token: 'ENQAI',
   coinGeckoID: null,
   id: 'i5b54g',
   description: 'enqAI is developing a Network for Decentralized Uncensored AI Models',

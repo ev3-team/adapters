@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
-  ninja: 'EV3 Sal',
+  name: 'Atom Network',
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
+  id: 'pn9n8b',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'Atom Network is an open, distributed, peer-to-peer compute network built by leveraging Solana’s “Generalized” state compression.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/AtomWeb3',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

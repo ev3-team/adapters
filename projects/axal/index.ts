@@ -1,16 +1,15 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
+  name: 'Axal',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
-  description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+  id: 'xex8ed',
+  description: 'Axal is an intent coordination network powering autonomous web3 systems.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +18,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/getaxal',
+  url: 'https://www.ax.al/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
