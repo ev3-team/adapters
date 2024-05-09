@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
-  ninja: 'EV3 Sal',
+  name: 'GCaller',
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
+  id: 'w5nbgl',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'GCaller is a decentralized caller ID and spam protection platform that rewards users for identifying spam calls.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/gcaller_in',
+  url: 'https://gcaller.in/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

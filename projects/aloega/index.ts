@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
+  name: 'Aloega',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
+  id: 'ki4zze',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'ALOEGA is a global healthcare blockchain platform to enable decentralized, equitable, and secure sharing of health data.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/Aloega_Official',
+  url: 'https://www.aloega.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

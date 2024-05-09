@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'PKT',
+  name: 'Routie',
   ninja: 'ZZ',
   subcategories: null,
   chain: 'NATIVE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'pkt',
   id: 'v0g1yx',
   description:
-    'PKT Pal enables businesses to offer free internet, collect customer data, and earn revenue through captive portals.',
+    'Routie enables businesses to offer free internet, collect customer data, and earn revenue through captive portals.',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/routie',
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://pktpal.com/',
+  twitter: 'https://twitter.com/helloroutie',
+  url: 'https://routie.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

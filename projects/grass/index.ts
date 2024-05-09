@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Wynd',
+  name: 'Grass',
   ninja: null,
   subcategories: null,
   chain: null,
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '9qbidj',
   description:
-    'Wynd Network, also known as Grass,  is a transparent node marketplace enabling users to earn passive income by renting out their IP address, used for collecting datasets to train AI models.',
+    'Grass by Wynd Network is a transparent node marketplace enabling users to earn passive income by renting out their IP address, used for collecting datasets to train AI models.',
   discord: null,
   investors: ['pr3xwn', '4l8mmr', '2tgqti', '90syk8', 'agwzs7', 'tqh3bl', 'due5zk', 'wagf8o'],
   linkedin: 'https://www.linkedin.com/company/wynd-technologies-inc./',
@@ -19,8 +19,8 @@ export default {
   blog: 'https://medium.com/@wyndnetwork/',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/hellowynd',
-  url: 'https://wynd.network/',
+  twitter: 'https://twitter.com/getgrass_io',
+  url: 'https://www.getgrass.io/',
   verified: false,
   fundraises: [
     {

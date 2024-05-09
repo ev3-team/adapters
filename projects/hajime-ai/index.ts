@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Hajime AI',
+  ninja: 'ZZ',
+  subcategories: 'ML',
+  chain: 'SOLANA',
+  category: 'COMPUTE',
+  token: 'HJM',
+  coinGeckoID: null,
+  id: '8qt9zg',
+  description:
+    'Hajime.AI is a decentralized P2P EdgeAI network, connecting idle edge devices efficiently to democratize access to AI resources, serving as a global incubator for small and medium AI startups.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/hajime__ai',
+  url: 'https://linktr.ee/hajimeai',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
-  ninja: 'EV3 Sal',
+  name: 'U2U',
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
-  token: null,
-  coinGeckoID: null,
-  id: 'kqm1tp',
+  token: 'U2U',
+  coinGeckoID: 'unicorn-ultra',
+  id: 'hz8qel',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'U2U Network is a DAG (Directed Acyclic Graph) based and EVM-compatible chain that leverages Subnet technology to provide infinite scalability for DePIN projects.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/uniultra_xyz',
+  url: 'https://u2u.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
