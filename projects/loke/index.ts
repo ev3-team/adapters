@@ -1,15 +1,15 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'IX Swap',
+  name: 'Loke',
   ninja: 'EV3 Sal',
-  subcategories: 'RWA',
-  chain: 'ETHEREUM',
+  subcategories: null,
+  chain: null,
   category: 'NOT_DEPIN',
-  token: 'IXS',
-  coinGeckoID: 'ix-swap',
-  id: 'lgggcx',
-  description: 'RWA launchpad & DEX',
+  token: 'LOKE',
+  coinGeckoID: null,
+  id: '6b4f0x',
+  description: 'Loke is a gamified social layer for action sports.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +18,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://www.ixswap.io',
+  twitter: 'https://twitter.com/getloke',
+  url: 'https://getloke.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -1,26 +1,26 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
+  name: 'ZTM',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
+  id: 'tl6ivi',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'ZTM - Zero Trust Mesh by Flomesh is an open-source network infrastructure software for running a decentralized network.',
   discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/flomesh-io/ztm',
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: null,
+  url: 'https://flomesh.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

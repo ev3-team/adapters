@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Spexigon',
+  name: 'Spexi',
   ninja: null,
   subcategories: 'Drones',
   chain: null,
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'xjyor4',
   description:
-    'Spexigon is a decentralized network of drone operators using the first fly-to-earn drone imagery platform.',
+    'Spexi is a decentralized network of drone operators using the first fly-to-earn drone imagery platform.',
   discord: null,
   investors: [
     '9ubit6',
@@ -32,8 +32,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/spexigon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
-  url: 'https://spexigeo.com/',
+  twitter: 'https://twitter.com/spexinetwork',
+  url: 'https://www.spexi.com//',
   verified: false,
   fundraises: [
     {

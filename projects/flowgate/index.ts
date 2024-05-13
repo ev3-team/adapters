@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
-  ninja: 'EV3 Sal',
-  subcategories: null,
+  name: 'Flowgate',
+  ninja: 'ZZ',
+  subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
+  id: 'xwklug',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'Flowgate is building a fully on-chain Oracle infrastructure that aggregates market data from multiple liquidity sources, reducing latency and cost for DeFi apps.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/Flowgate_sol',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
