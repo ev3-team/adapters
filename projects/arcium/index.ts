@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
+  name: 'Arcium',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
+  id: 'v29y88',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'Arcium is a parallelized confidential computing network that provides developers and applications with a trustless, verifiable, and efficient framework to run encrypted computations.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/ArciumHQ',
+  url: 'https://arcium.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

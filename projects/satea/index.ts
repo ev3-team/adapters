@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Immerso',
-  ninja: null,
-  subcategories: 'Ridesharing',
+  name: 'Satea',
+  ninja: 'ZZ',
+  subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
-  id: 'eyid42',
-  description: 'O IMMERSO √â UMA NOVA PROPOSTA DE HOSPITALIDADE',
+  id: '7piuxo',
+  description:
+    'Satea is a fully managed Web3 infrastructure, democratizing access to computing resources worldwide for Depin and AI projects through tailored solutions and managed services.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://immerso.pt/',
+  twitter: 'https://twitter.com/SateaLabs',
+  url: 'https://satea.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
