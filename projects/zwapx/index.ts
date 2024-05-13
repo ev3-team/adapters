@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'IX Swap',
+  name: 'ZwapX',
   ninja: 'EV3 Sal',
   subcategories: 'RWA',
-  chain: 'ETHEREUM',
+  chain: null,
   category: 'NOT_DEPIN',
-  token: 'IXS',
-  coinGeckoID: 'ix-swap',
-  id: 'lgggcx',
-  description: 'RWA launchpad & DEX',
+  token: null,
+  coinGeckoID: null,
+  id: 't4czq1',
+  description:
+    'ZwapX is a Real World Assets On-Chain online marketplace, allowing users to buy, sell, bid, and trade physical watches in the form of tokens.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://www.ixswap.io',
+  twitter: 'https://twitter.com/zwapxofficial',
+  url: 'https://zwapx.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

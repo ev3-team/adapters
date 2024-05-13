@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'DBunker',
-  ninja: 'EV3 Sal',
+  name: 'DeCharge',
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'ENERGY',
   token: null,
   coinGeckoID: null,
-  id: 'kqm1tp',
+  id: 'wt9yfq',
   description:
-    'DBunker is an RWAs and LSTs solution provider for DePIN, allowing more people to enter the world of DePIN and empowering the DePIN ecosystem.',
+    'DeCharge offers globally compatible, lightweight hardware with DePIN technology for revolutionizing EV charging.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dbunker_network',
-  url: 'https://www.dbunker.xyz/',
+  twitter: 'https://twitter.com/DeCharge__',
+  url: 'https://www.rechrg.pro/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
