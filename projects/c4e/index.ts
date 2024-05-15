@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '92o0ip',
   description:
-    'Chain4Energy is a DePIN L1 Blockchain: The Technological Foundation for a Decentralized, Community-Driven Energy Ecosystem for DeGEP, ChargEra, and Energy Communities',
+    'C4E is a DePIN L1 Blockchain platform, designed to support a variety of innovative energy and e-mobility applications by creating a decentralized and democratized community-powered ecosystem.',
   discord: null,
   investors: [],
   linkedin: null,

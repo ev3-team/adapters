@@ -22,5 +22,10 @@ export default {
   twitter: null,
   url: 'https://skillfulai.io/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Private/Public token sale',
+      url: 'https://cryptorank.io/price/skillfulai',
+    },
+  ],
 } satisfies AdapterProject

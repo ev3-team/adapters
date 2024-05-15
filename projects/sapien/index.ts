@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/SapienGamified',
   url: 'https://www.sapien.io/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prnewswire.com/news-releases/ai-company-sapien-raises-5-million-to-gamify-data-labeling-for-ai-302112788.html',
+    },
+  ],
 } satisfies AdapterProject

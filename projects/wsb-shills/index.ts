@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: 'https://t.me/wsbsh',
-  twitter: 'https://twitter.com/wsb_sh?s=21',
+  twitter: 'https://twitter.com/wsb_sh',
   url: 'https://www.wsb.sh/',
   verified: false,
   fundraises: [],

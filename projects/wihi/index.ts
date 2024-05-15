@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'yg5k1j',
   description:
-    'A decentralized protocol incentivizing weather and climate data collection and predictions through cyrptoeconomics',
+    'WiHi is a decentralized protocol incentivizing weather and climate data collection and predictions through cyrptoeconomics.',
   discord: '1051081018150498404',
   investors: [],
   linkedin: null,

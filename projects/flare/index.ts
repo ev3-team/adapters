@@ -43,7 +43,7 @@ export default {
       url: 'https://www.coindesk.com/business/2024/02/23/layer-1-network-flare-raises-35m-from-kenetic-aves-lair/',
     },
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://thepaypers.com/news/ripples-xpring-strategically-invests-in-flare-networks--1239453',
     },
   ],

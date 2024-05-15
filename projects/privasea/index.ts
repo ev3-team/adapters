@@ -22,5 +22,22 @@ export default {
   twitter: 'https://twitter.com/Privasea_tech',
   url: 'https://www.privasea.ai/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Private/Public token sale',
+      url: 'https://cryptorank.io/ico/privasea',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.privasea.ai/blog-posts/privasea-raises-5m-to-pioneer-depin-with-fheml-technology',
+    },
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://twitter.com/danu_ventures/status/1767563627446284546',
+    },
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://twitter.com/Privasea_ai/status/1775882408031584362',
+    },
+  ],
 } satisfies AdapterProject

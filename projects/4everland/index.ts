@@ -35,7 +35,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/4everland_org/status/1658444206254469126',
+  twitter: 'https://twitter.com/4everland_org',
   url: 'https://www.4everland.org/',
   verified: false,
   fundraises: [

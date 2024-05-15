@@ -4,10 +4,10 @@ export default {
   name: 'Meson',
   ninja: null,
   subcategories: 'CDN',
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
-  token: null,
-  coinGeckoID: null,
+  token: 'MSN',
+  coinGeckoID: 'meson-network',
   id: 'wop23m',
   description: 'Meson is building a decentralized CDN and Bandwidth Exchange.',
   discord: '784251111678148608',
@@ -46,7 +46,7 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Public sale',
+      roundType: 'Private/Public token sale',
       url: 'https://twitter.com/NetworkMeson/status/1755662941511356581',
     },
     {
@@ -54,11 +54,11 @@ export default {
       url: 'https://finance.yahoo.com/news/meson-network-raises-3-5m-131500338.html',
     },
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://crypto-fundraising.info/projects/meson-network/',
     },
     {
-      roundType: 'Strategic',
+      roundType: 'Strategic/Angel',
       url: 'https://twitter.com/NetworkMeson/status/1768445122914775217',
     },
   ],

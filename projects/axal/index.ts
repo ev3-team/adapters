@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Axal',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coinGeckoID: null,
+  id: 'xex8ed',
+  description: 'Axal is an intent coordination network powering autonomous web3 systems.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/getaxal',
+  url: 'https://www.ax.al/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

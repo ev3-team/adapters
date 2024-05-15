@@ -24,7 +24,7 @@ export default {
   verified: false,
   fundraises: [
     {
-      roundType: 'Private Token Sale',
+      roundType: 'Private/Public token sale',
       url: 'https://pitch.com/v/drife-pitch-86yv4t/24d3624e-d367-4345-9ae7-0fe81cecb54f',
     },
     {

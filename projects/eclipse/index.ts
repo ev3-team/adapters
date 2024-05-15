@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'dgqlyo',
@@ -22,5 +22,18 @@ export default {
   twitter: 'https://twitter.com/EclipseFND',
   url: 'https://www.eclipse.builders/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://www.coindesk.com/business/2022/09/27/blockchain-infrastructure-project-eclipse-raises-15m-to-build-universal-layer-2/?outputType=amp',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2022/09/27/blockchain-infrastructure-project-eclipse-raises-15m-to-build-universal-layer-2/?outputType=amp',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.coindesk.com/business/2024/03/11/blockchain-builder-eclipse-labs-raises-50m-ahead-of-layer-2s-mainnet-debut/',
+    },
+  ],
 } satisfies AdapterProject

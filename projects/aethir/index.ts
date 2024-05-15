@@ -6,10 +6,10 @@ export default {
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
-  token: null,
-  coinGeckoID: null,
+  token: 'ATH',
+  coinGeckoID: 'aethir',
   id: 'oo2cn2',
-  description: 'Aethir enables real-time rendering in the Metaverse.',
+  description: 'Aethir is a Scalable Decentralised Cloud Infrastructure (DCI) for Gaming and AI.',
   discord: '993758224438284291',
   investors: [
     'gjt0lb',
@@ -36,7 +36,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/Aethir_',
+  twitter: 'https://twitter.com/AethirCloud',
   url: 'https://www.aethir.com/',
   verified: false,
   fundraises: [

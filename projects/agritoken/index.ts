@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'gaa7c0',
   description:
-    'Agritoken: Tokenizing crop futures for efficient and transparent agricultural investing.',
+    'Agritoken is tokenizing crop futures for efficient and transparent agricultural investing.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/agritoken/?originalSubdomain=br',

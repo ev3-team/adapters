@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/earnmrewards',
   url: 'https://www.earnm.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Private/Public token sale',
+      url: 'https://cryptorank.io/ico/earnm',
+    },
+  ],
 } satisfies AdapterProject

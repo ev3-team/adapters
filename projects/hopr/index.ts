@@ -44,6 +44,10 @@ export default {
   fundraises: [
     {
       roundType: 'Seed',
+      url: 'https://twitter.com/GnosisDAO/status/1783874344013463583',
+    },
+    {
+      roundType: 'Seed',
       url: 'https://www.coindesk.com/business/2020/07/09/binance-labs-leads-1m-seed-round-in-crypto-tor-alternative-hopr/',
     },
   ],

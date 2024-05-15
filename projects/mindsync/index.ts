@@ -6,7 +6,7 @@ export default {
   subcategories: null,
   chain: null,
   category: 'AI',
-  token: null,
+  token: 'MAI',
   coinGeckoID: null,
   id: 'gpjz8o',
   description: 'Mindsync connects AI enthusiasts, miners, and businesses for AI solutions.',
