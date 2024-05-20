@@ -14,9 +14,7 @@ export default {
   discord: '592041321326182401',
   investors: [],
   linkedin: null,
-  duneQueries: {
-    REVENUE: '3393031',
-  },
+  duneQueries: null,
   foundingYear: null,
   blog: 'https://medium.com/swlh/chainlink-decentralized-network-of-oracles-6844ff96f47f',
   github: null,
