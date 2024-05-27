@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'Verde Blocks',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'ENERGY',
-  token: 'OWL',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: '6d6fxu',
+  description:
+    'Verde Blocks is a DLT-enabled, user-friendly platform for large electric buyers to competitively source renewable power in the market, making it easier for companies to achieve their climate goals by replacing fossil fuels with clean energy.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

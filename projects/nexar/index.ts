@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'Nexar',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Hardware',
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'NOT_DEPIN',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: '2qxdnh',
+  description:
+    'Nexar is a premium dash cam brand that turns cars into vision sensors for a connected, collision-free world.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://x.com/getnexar',
+  url: 'https://www.getnexar.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

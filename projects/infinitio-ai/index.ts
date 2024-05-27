@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'infinitio AI',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'AI',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'dqucfx',
+  description:
+    'infinitio AI is a generative AI ecosystem harnessing the power of blockchain to ensure unparalleled traceability, ownership & monetization of GPUs, data, trained models, and outputs. ',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  url: 'https://www.infinitio.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

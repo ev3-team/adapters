@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'ZkAGI',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'AI',
+  token: 'ZkAGI',
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'x3idpo',
+  description:
+    'ZkAGI is a privacy-conscious decentralized AGI built on DePIN, designed to democratize access to advanced AI technologies while ensuring the utmost privacy and security.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://twitter.com/zk_agi',
+  url: 'https://zkagi.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

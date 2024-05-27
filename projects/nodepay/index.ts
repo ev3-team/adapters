@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
-  ninja: 'EV3 Sal',
+  name: 'Nodepay',
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'AI',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'exh8no',
+  description:
+    'Nodepay is a decentralized network that rewards users for contributing their internet resources for AI development.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://twitter.com/nodepay_ai',
+  url: 'https://nodepay.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'MeshMap',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'SENSORS',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'eur7m4',
+  description:
+    'MeshMap is building a decentralized and open 3D map of the world through community-submitted 3D scans rewarded by token incentives and fun gameplay.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://x.com/meshmapxyz',
+  url: 'https://meshmap.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

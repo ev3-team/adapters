@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'Hellas',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'COMPUTE',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'rdcq7x',
+  description:
+    'Hellas is a decentralized compute marketplace offering customizable AI model deployment using unique compute graphs and a custom deep-learning framework.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  url: 'https://hellas.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

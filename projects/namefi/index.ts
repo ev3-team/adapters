@@ -1,15 +1,15 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'Namefi',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'NOT_DEPIN',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'mvoc8z',
+  description: 'Namefi is a platform for tokenizing DNS names on Ethereum as NFTs plus DeFi.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +18,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://twitter.com/namefi_io',
+  url: 'https://www.namefi.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

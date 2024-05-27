@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'Venice',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'ML',
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'AI',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'z5x8p7',
+  description:
+    'Venice is a generative AI app that utilizes leading open-source AI models to deliver text, code, and image generation to its users.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://twitter.com/tryvenice',
+  url: 'https://venice.ai/home',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

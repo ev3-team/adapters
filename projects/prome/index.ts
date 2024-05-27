@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
-  ninja: 'EV3 Sal',
+  name: 'PROME',
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'ENERGY',
-  token: 'OWL',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'uliida',
+  description:
+    'PROME Network is a decentralized peer-to-peer green energy network that leverages blockchain and tokenization to create a sustainable future for everyone.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://twitter.com/PROME_En',
+  url: 'https://prome.network/#/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

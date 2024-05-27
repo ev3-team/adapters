@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'DePIN Association',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'NOT_DEPIN',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'y7lzc6',
+  description:
+    'DePIN Association aims to expand and accelerate the adoption of DePIN by pushing education, advocacy, and transformation across industries.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://twitter.com/depinorg',
+  url: 'https://www.depinassociation.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
