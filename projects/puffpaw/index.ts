@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Weather Union',
+  name: 'Puffpaw',
   ninja: 'EV3 Sal',
-  subcategories: 'Environmental',
+  subcategories: 'Health & Fitness',
   chain: null,
   category: 'SENSORS',
   token: null,
   coinGeckoID: null,
-  id: '00xbqx',
+  id: 'duzlx0',
   description:
-    'Weather Union by Zomato is a crowd-supported weather infrastructure providing real-time weather data through a network of on-ground weather stations, aimed at boosting productivity and aiding research institutes and enterprises.',
+    'Puffpaw integrates smart vape technology with blockchain to promote smoking cessation and community wellness through its DePIN and Vape 2 Earn model.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://www.weatherunion.com/',
+  twitter: 'https://twitter.com/puffpaw_xyz',
+  url: 'https://www.puffpaw.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Cosmic',
+  ninja: 'ZZ',
+  subcategories: 'VPN',
+  chain: 'ETHEREUM',
+  category: 'WIRELESS',
+  token: 'COSMIC',
+  coinGeckoID: 'cosmic-network',
+  id: '1qtoqx',
+  description: 'Cosmic Network is a decentralized peer-to-peer VPN service powered by DePIN.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/Network_Cosmic_',
+  url: 'https://cosmicnetwork.io/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

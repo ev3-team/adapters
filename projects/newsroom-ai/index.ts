@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'Newsroom AI',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'AI',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'gxm1fo',
+  description:
+    'Newsroom AI enables leading creators to build, amplify and measure high-value, AI-powered content experiences.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  url: 'https://www.nws.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

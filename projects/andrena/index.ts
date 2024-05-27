@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'tgalub',
   description:
-    'Andrena is a company offering high-speed internet distribution services with a focus on reduced costs.',
+    'Andrena offers high-speed internet distribution services with a focus on reduced costs.',
   discord: null,
   investors: [
     'zbfwcv',
@@ -44,7 +44,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/andrena_wifi?lang=en',
+  twitter: 'https://twitter.com/andrena_wifi',
   url: 'https://andrena.com/',
   verified: false,
   fundraises: [

@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'XEI',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'AI',
+  token: 'XEI',
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'gncydk',
+  description:
+    'Xei AI is a dApp that enables developers to build and deploy AI-powered applications on the blockchain, powered by Decentralized Computing for ML Engineers and DePIN.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://x.com/xei_official',
+  url: 'https://xei.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

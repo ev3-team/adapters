@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/@alt_labs',
   github: 'https://github.com/RVA-ALT-Lab',
   telegram: null,
-  twitter: 'https://mobile.twitter.com/altlabsagency/status/1311308858816704514',
+  twitter: 'https://twitter.com/AltLabsAgency',
   url: 'https://altlabs.dev/',
   verified: false,
   fundraises: [],

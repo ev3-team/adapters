@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Weather Union',
-  ninja: 'EV3 Sal',
+  name: 'Nubila',
+  ninja: 'ZZ',
   subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',
   token: null,
   coinGeckoID: null,
-  id: '00xbqx',
+  id: 'mq14am',
   description:
-    'Weather Union by Zomato is a crowd-supported weather infrastructure providing real-time weather data through a network of on-ground weather stations, aimed at boosting productivity and aiding research institutes and enterprises.',
+    'Nubila is building an environmental data network, empowering climate change and sustainability by acquiring accurate real-world data through DePIN and leveraging AI.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://www.weatherunion.com/',
+  twitter: 'https://twitter.com/nubilanetwork',
+  url: 'https://nubila.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

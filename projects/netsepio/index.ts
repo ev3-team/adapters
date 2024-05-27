@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Owl',
+  name: 'NetSepio',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
-  token: 'OWL',
+  category: 'WIRELESS',
+  token: null,
   coinGeckoID: null,
-  id: 'ok01cq',
-  description: 'Owl is a decentralized network of phone charging stations.',
+  id: 'mlcg7k',
+  description:
+    "Netsepio is a DePIN-powered crypto-cybersecurity platform that uses AI, community insights, and Blockchain to protect users' web3 presence and assets.",
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://owlnetwork.xyz/',
+  twitter: 'https://twitter.com/NetSepio',
+  url: 'https://netsepio.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
