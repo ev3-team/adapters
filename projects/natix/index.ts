@@ -28,8 +28,7 @@ export default {
   blog: 'https://medium.com/natix-io',
   github: 'https://github.com/natix-io',
   telegram: null,
-  twitter:
-    'https://twitter.com/NATIXNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/NATIXNetwork',
   url: 'https://www.natix.network/',
   verified: false,
   fundraises: [

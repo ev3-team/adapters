@@ -24,7 +24,7 @@ export default {
   blog: 'https://medium.com/geodnet/geodnet-revolutionizes-the-global-positioning-industry-with-real-world-web3-reference-network-21183b0ad7eb',
   github: 'https://github.com/geodnet/whitepaper',
   telegram: 'https://t.me/geodnet',
-  twitter: 'https://twitter.com/geodnetinfo?lang=en',
+  twitter: 'https://twitter.com/geodnetinfo',
   url: 'https://geodnet.com/',
   verified: false,
   fundraises: [

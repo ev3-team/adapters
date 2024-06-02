@@ -19,7 +19,7 @@ export default {
   blog: 'https://www.linkedin.com/showcase/rightsfually/?trk=organization_guest_main-feed-card_reshare-text',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/RightsfuAlly?t=CF-wuGubyRb9dG8K_dnP5Q&s=08',
+  twitter: 'https://twitter.com/RightsfuAlly',
   url: 'https://rightsfually.com/en/',
   verified: false,
   fundraises: [],

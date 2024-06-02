@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/@bestvideomovies',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/EchoGuild?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/EchoGuild',
   url: 'https://0xecho.com/',
   verified: false,
   fundraises: [],

@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/KanisiTech',
   telegram: 'https://t.me/s/kansi_hilfestellung?before=27',
-  twitter: 'https://twitter.com/kanisolutions?lang=en',
+  twitter: 'https://twitter.com/kanisolutions',
   url: 'https://www.kansi-solutions.de/',
   verified: false,
   fundraises: [],

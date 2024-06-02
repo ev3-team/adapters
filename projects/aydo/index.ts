@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: 'https://github.com/AYDOAI',
   telegram: 'https://t.me/aydoai',
-  twitter: 'https://x.com/AYDO_AI?s=20',
+  twitter: 'https://x.com/AYDO_AI',
   url: 'https://www.aydo.ai/',
   verified: false,
   fundraises: [],

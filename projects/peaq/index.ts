@@ -5,8 +5,8 @@ export default {
   ninja: null,
   subcategories: 'L1/L2',
   chain: 'PEAQ',
-  category: 'NOT_DEPIN',
-  token: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: 'PEAQ',
   coinGeckoID: null,
   id: 'vx7fas',
   description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
@@ -18,8 +18,21 @@ export default {
   blog: 'https://medium.com/peaqnetwork',
   github: null,
   telegram: 'https://t.me/s/peaqnetwork?before=165',
-  twitter: 'https://twitter.com/peaqnetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/peaqnetwork',
   url: 'https://www.peaq.network/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Private/Public token sale',
+      url: 'https://coinlist.co/peaq',
+    },
+    {
+      roundType: 'Seed',
+      url: 'https://www.coindesk.com/business/2022/06/28/web3-network-peaq-raises-6m-led-by-fundamental-labs/',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://www.theblock.co/post/285001/depin-layer-1-peaq-raises-15-million-in-pre-launch-funding',
+    },
+  ],
 } satisfies AdapterProject

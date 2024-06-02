@@ -18,8 +18,17 @@ export default {
   blog: 'https://blog.weatherxm.com/',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/weatherxm?lang=en',
+  twitter: 'https://twitter.com/weatherxm',
   url: 'https://weatherxm.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.theblock.co/post/154820/web3-network-weatherxm-raises-5-million-in-seed-fundinghttps://www.theblock.co/post/154820/web3-network-weatherxm-raises-5-million-in-seed-funding',
+    },
+    {
+      roundType: 'Series A',
+      url: 'https://x.com/TheBlock__/status/1793265598991831507',
+    },
+  ],
 } satisfies AdapterProject

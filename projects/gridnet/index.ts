@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/GRIDNETOS/GRIDNETOS',
   telegram: null,
-  twitter: 'https://twitter.com/gridnetproject?lang=en',
+  twitter: 'https://twitter.com/gridnetproject',
   url: 'https://gridnet.org/',
   verified: false,
   fundraises: [],

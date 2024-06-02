@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/propheticai?s=21&t=fIjcfJIO-bBnd1u8k55iLQ',
+  twitter: 'https://twitter.com/propheticai',
   url: 'https://propheticai.co/',
   verified: false,
   fundraises: [

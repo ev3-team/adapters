@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/canvas?lang=en',
+  twitter: 'https://twitter.com/canvas',
   url: 'https://www.canvas.xyz/',
   verified: false,
   fundraises: [],

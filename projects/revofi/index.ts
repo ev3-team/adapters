@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/revofico?lang=en',
+  twitter: 'https://twitter.com/revofico',
   url: 'https://revofi.com/',
   verified: false,
   fundraises: [],

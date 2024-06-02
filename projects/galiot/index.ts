@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/@galiot.io',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/galiotio?lang=en',
+  twitter: 'https://twitter.com/galiotio',
   url: 'https://www.galiot.io/',
   verified: false,
   fundraises: [],

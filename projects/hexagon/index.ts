@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: 'https://github.com/hexagonkt',
   telegram: 'https://t.me/s/hexsecret?before=27',
-  twitter: 'https://twitter.com/hexagonab?lang=en',
+  twitter: 'https://twitter.com/hexagonab',
   url: 'https://www.hexagonwireless.com/',
   verified: false,
   fundraises: [

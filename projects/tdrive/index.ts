@@ -18,7 +18,7 @@ export default {
   blog: 'https://medium.com/@VeganLover/how-does-google-drive-work-2cda31c58ce8',
   github: 'https://github.com/linagora/TDrive',
   telegram: null,
-  twitter: 'https://twitter.com/mytdrive_id?lang=en',
+  twitter: 'https://twitter.com/mytdrive_id',
   url: 'https://tdrive.io/',
   verified: false,
   fundraises: [],

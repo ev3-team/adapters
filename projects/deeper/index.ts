@@ -18,7 +18,7 @@ export default {
   blog: 'https://deeper-network.medium.com/',
   github: null,
   telegram: 'https://tlgrm.eu/channels/@pornodrive/46977',
-  twitter: 'https://twitter.com/deeper_official?lang=en',
+  twitter: 'https://twitter.com/deeper_official',
   url: 'https://www.deeper.network/',
   verified: false,
   fundraises: [],

@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/terminal3gaming?lang=en',
+  twitter: 'https://twitter.com/terminal3gaming',
   url: 'https://www.terminal3.io/',
   verified: false,
   fundraises: [

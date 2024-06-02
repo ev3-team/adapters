@@ -18,10 +18,8 @@ export default {
   foundingYear: null,
   blog: 'https://step.app/blog',
   github: 'https://github.com/step-app-fi',
-  telegram:
-    'https://t.me/stepappchat?utm_source=site&utm_medium=organic_social&utm_campaign=always_on&utm_content=small_icons',
-  twitter:
-    'https://twitter.com/StepApp?utm_source=site&utm_medium=organic_social&utm_campaign=always_on&utm_content=small_icons',
+  telegram: 'https://t.me/stepappchat',
+  twitter: 'https://twitter.com/StepApp',
   url: 'https://step.app/',
   verified: false,
   fundraises: [],

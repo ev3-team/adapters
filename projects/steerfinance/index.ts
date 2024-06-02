@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: 'https://github.com/steerprotocol',
   telegram: null,
-  twitter: 'https://twitter.com/steerprotocol?lang=en',
+  twitter: 'https://twitter.com/steerprotocol',
   url: 'https://steer.finance/',
   verified: false,
   fundraises: [

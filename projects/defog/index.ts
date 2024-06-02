@@ -18,7 +18,7 @@ export default {
   blog: 'http://www.linkedin.com/company/defog-ai',
   github: 'https://defog.ai/blog/',
   telegram: null,
-  twitter: 'https://twitter.com/defogdata?lang=en',
+  twitter: 'https://twitter.com/defogdata',
   url: 'https://defog.ai/',
   verified: false,
   fundraises: [],

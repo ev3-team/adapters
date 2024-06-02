@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/kosenlabs',
   github: 'https://github.com/kosen-labs',
   telegram: null,
-  twitter: 'https://twitter.com/kosenlabs?lang=en',
+  twitter: 'https://twitter.com/kosenlabs',
   url: 'https://www.kosen.ai/',
   verified: false,
   fundraises: [

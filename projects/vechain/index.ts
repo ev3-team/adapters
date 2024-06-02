@@ -19,7 +19,7 @@ export default {
   blog: 'https://vechainofficial.medium.com/',
   github: 'https://github.com/vechain',
   telegram: 'https://t.me/s/vechainannouncement',
-  twitter: 'https://twitter.com/vechainofficial?lang=en',
+  twitter: 'https://twitter.com/vechainofficial',
   url: 'https://www.vechain.org/',
   verified: false,
   fundraises: [],

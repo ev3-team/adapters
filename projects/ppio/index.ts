@@ -19,7 +19,7 @@ export default {
   blog: 'https://www.ppio.cloud/blog/',
   github: 'https://github.com/PPIO',
   telegram: null,
-  twitter: 'https://twitter.com/ppio_official?lang=en',
+  twitter: 'https://twitter.com/ppio_official',
   url: 'https://www.ppio.cloud/',
   verified: false,
   fundraises: [],

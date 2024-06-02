@@ -36,7 +36,7 @@ export default {
   blog: 'http://www.linkedin.com/company/zoth-io',
   github: null,
   telegram: 'https://telegram.me/+nFUrC_I1hA1iNWU9',
-  twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2Fzothdotio',
+  twitter: 'https://x.com/zothdotio',
   url: 'https://zoth.io/',
   verified: false,
   fundraises: [],

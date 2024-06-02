@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: 'https://chatwithhal.vercel.app/platforms/telegram',
-  twitter: 'https://chatwithhal.vercel.app/platforms/twitter',
+  twitter: 'https://x.com/chatwithhal',
   url: 'https://chatwithhal.vercel.app/',
   verified: false,
   fundraises: [],

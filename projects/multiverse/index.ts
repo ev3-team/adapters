@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Multiverse',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: 'ETHEREUM',
+  category: 'AI',
+  token: 'AI',
+  coinGeckoID: 'multiverse',
+  id: 'wsmj41',
+  description: 'Multiverse.ai is a distributed marketplace for making immersive AI.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/multiverse_labs',
+  url: 'https://www.multiverse.ai/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

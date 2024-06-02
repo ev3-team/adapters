@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/arcblock?locale=en',
   telegram: null,
-  twitter: 'https://twitter.com/ArcBlock_io?locale=en',
+  twitter: 'https://twitter.com/ArcBlock_io',
   url: 'https://www.arcblock.io/en',
   verified: false,
   fundraises: [],

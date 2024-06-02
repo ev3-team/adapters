@@ -19,7 +19,7 @@ export default {
   blog: 'https://karrier-one.medium.com/celebrating-q1-2023-milestones-expanding-karrier-ones-global-wireless-telecom-network-33977918e52d',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/karrier_one?lang=en',
+  twitter: 'https://twitter.com/karrier_one',
   url: 'https://karrier.one/',
   verified: false,
   fundraises: [

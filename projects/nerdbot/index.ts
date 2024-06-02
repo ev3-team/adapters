@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/onchaindatanerd?lang=en',
+  twitter: 'https://twitter.com/onchaindatanerd',
   url: 'https://www.thedatanerd.io/',
   verified: false,
   fundraises: [],

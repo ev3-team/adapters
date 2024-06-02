@@ -19,8 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/FACT0RN',
   telegram: null,
-  twitter:
-    'https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FFACT0RN&sa=D&sntz=1&usg=AOvVaw0BdRfY4zqQMy3pneZ3jbaI',
+  twitter: 'https://x.com/fact0rn',
   url: 'https://www.fact0rn.io/',
   verified: false,
   fundraises: [],
