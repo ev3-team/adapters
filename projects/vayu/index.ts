@@ -19,7 +19,7 @@ export default {
   blog: 'http://www.linkedin.com/company/vayu-robotics',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/VayuRobotics/status/1709162252866355627',
+  twitter: 'https://twitter.com/VayuRobotics',
   url: 'https://www.vayurobotics.com/',
   verified: false,
   fundraises: [],

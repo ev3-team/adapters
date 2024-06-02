@@ -27,5 +27,9 @@ export default {
       roundType: 'Seed',
       url: 'https://www.prnewswire.com/news-releases/ai-company-sapien-raises-5-million-to-gamify-data-labeling-for-ai-302112788.html',
     },
+    {
+      roundType: 'Seed',
+      url: 'https://www.sapien.io/blog/ai-company-sapien-raises-5-million-to-gamify-data-labeling-for-ai',
+    },
   ],
 } satisfies AdapterProject

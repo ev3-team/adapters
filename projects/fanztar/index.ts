@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2Fjoin_fanztar',
+  twitter: 'https://x.com/join_fanztar',
   url: 'https://fanztar.com/',
   verified: false,
   fundraises: [

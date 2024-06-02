@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/@blockfito/testnet-jackal-97ccb631ed6a',
   github: 'https://github.com/JackalLabs',
   telegram: 'https://twitter.com/jackal_protocol?lang=en',
-  twitter: 'https://twitter.com/jackal_labs?lang=en',
+  twitter: 'https://twitter.com/jackal_labs',
   url: 'https://jackalprotocol.com/',
   verified: false,
   fundraises: [],

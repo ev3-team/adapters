@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/candela?lang=en',
+  twitter: 'https://twitter.com/candela',
   url: 'https://www.candelacoin.com/',
   verified: false,
   fundraises: [],

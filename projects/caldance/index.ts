@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/caloriedance/status/1568101642754572288',
+  twitter: 'https://x.com/caloriedance',
   url: 'https://caldance.gitbook.io/whitepaper/',
   verified: false,
   fundraises: [],

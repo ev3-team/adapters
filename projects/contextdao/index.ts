@@ -19,7 +19,7 @@ export default {
   blog: 'https://twitter.com/ContextDao',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2FContextDao',
+  twitter: 'https://x.com/ContextProtocol',
   url: 'https://www.ctx.xyz/',
   verified: false,
   fundraises: [],

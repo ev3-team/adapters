@@ -18,8 +18,7 @@ export default {
   blog: 'https://medium.com/verasity',
   github: 'https://github.com/veracity',
   telegram: 'https://t.me/verasity',
-  twitter:
-    'https://twitter.com/verasitytech?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/verasitytech',
   url: 'https://verasity.io/',
   verified: false,
   fundraises: [],

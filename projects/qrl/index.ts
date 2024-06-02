@@ -18,7 +18,7 @@ export default {
   blog: 'https://medium.com/@QRL',
   github: 'https://github.com/topics/qrl',
   telegram: null,
-  twitter: 'https://twitter.com/QRLedger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/QRLedger',
   url: 'https://www.theqrl.org/',
   verified: false,
   fundraises: [],

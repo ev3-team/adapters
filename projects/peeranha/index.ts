@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/peeranha',
   github: 'https://github.com/peeranha',
   telegram: null,
-  twitter: 'https://twitter.com/Peeranhaio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/Peeranhaio',
   url: 'https://peeranha.io/',
   verified: false,
   fundraises: [],

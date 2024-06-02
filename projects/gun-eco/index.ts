@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: 'https://github.com/topics/gunjs',
   telegram: null,
-  twitter: 'https://twitter.com/databasegun?lang=en',
+  twitter: 'https://twitter.com/databasegun',
   url: 'https://gun.eco/',
   verified: false,
   fundraises: [],

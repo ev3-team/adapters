@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/taoshiio?s=11',
+  twitter: 'https://twitter.com/taoshiio',
   url: 'https://www.taoshi.io/',
   verified: false,
   fundraises: [],

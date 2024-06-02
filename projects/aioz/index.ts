@@ -18,7 +18,7 @@ export default {
   blog: 'https://medium.com/aioz-network',
   github: null,
   telegram: 'https://t.me/s/aiozofficial',
-  twitter: 'https://twitter.com/aioznetwork?lang=en',
+  twitter: 'https://twitter.com/aioznetwork',
   url: 'https://aioz.network/',
   verified: false,
   fundraises: [

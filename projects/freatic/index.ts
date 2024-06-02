@@ -31,7 +31,7 @@ export default {
   blog: 'https://medium.com/@freaticteam',
   github: 'https://github.com/freatic',
   telegram: null,
-  twitter: 'https://twitter.com/intent/user?screen_name=freaticteam',
+  twitter: 'https://x.com/freaticteam',
   url: 'https://freatic.team/',
   verified: false,
   fundraises: [

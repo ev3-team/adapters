@@ -38,8 +38,7 @@ export default {
   blog: 'https://medium.com/@gelatonetwork',
   github: 'https://github.com/gelatodigital',
   telegram: 'https://t.me/gelatonetwork',
-  twitter:
-    'https://twitter.com/gelatonetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/gelatonetwork',
   url: 'https://ops.gelato.network/',
   verified: false,
   fundraises: [

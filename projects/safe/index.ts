@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/safenetwork/about',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/safenetworktech?lang=en',
+  twitter: 'https://twitter.com/safenetworktech',
   url: 'https://safenetwork.org/',
   verified: false,
   fundraises: [],

@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'AgriDex',
+  ninja: 'ZZ',
+  subcategories: 'RWA',
+  chain: 'SOLANA',
+  category: 'NOT_DEPIN',
+  token: 'AgriDex',
+  coinGeckoID: null,
+  id: 't42uy8',
+  description: 'Agridex is an RWA Marketplace focused on tokenizing agricultural commodities.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/AgriDexPlatform',
+  url: 'https://agridex.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

@@ -46,8 +46,7 @@ export default {
   blog: 'https://medium.com/ceramic',
   github: 'https://github.com/ceramicnetwork',
   telegram: 'https://t.me/s/shreejiceramic?before=2',
-  twitter:
-    'https://twitter.com/ceramicnetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/ceramicnetwork',
   url: 'https://ceramic.network/',
   verified: false,
   fundraises: [

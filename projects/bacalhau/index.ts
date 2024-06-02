@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: 'https://github.com/bacalhau-project',
   telegram: null,
-  twitter: 'https://mobile.twitter.com/BacalhauProject/status/1581290104936484864',
+  twitter: 'https://x.com/BacalhauProject',
   url: 'https://www.bacalhau.org/',
   verified: false,
   fundraises: [],

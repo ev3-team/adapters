@@ -31,7 +31,7 @@ export default {
   blog: null,
   github: null,
   telegram: 'https://t.me/oortechkorea',
-  twitter: 'https://twitter.com/oort_io?lang=en',
+  twitter: 'https://twitter.com/oort_io',
   url: 'https://www.oortech.com/',
   verified: false,
   fundraises: [

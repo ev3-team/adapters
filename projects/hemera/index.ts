@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/HemeraProtocol',
   url: 'https://thehemera.com/main/home',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prweb.com/releases/hemera-officially-launches-to-democratize-on-chain-intelligence-302138046.html',
+    },
+  ],
 } satisfies AdapterProject

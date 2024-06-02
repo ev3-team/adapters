@@ -18,7 +18,7 @@ export default {
   blog: 'https://medium.com/@thevaizman',
   github: 'https://github.com/topics/tal',
   telegram: null,
-  twitter: 'https://twitter.com/talwilkenfeld?lang=en',
+  twitter: 'https://twitter.com/talwilkenfeld',
   url: 'https://buildontal.com/',
   verified: false,
   fundraises: [],

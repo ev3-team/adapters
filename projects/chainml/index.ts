@@ -24,6 +24,10 @@ export default {
   fundraises: [
     {
       roundType: 'Seed',
+      url: 'https://twitter.com/theoriqai/status/1790090952637337852',
+    },
+    {
+      roundType: 'Seed',
       url: 'https://www.theblock.co/post/173081/decentralized-machine-learning-protocol-chainml-raises-4m-led-by-iosg-ventures',
     },
   ],

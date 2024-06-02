@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'PISCES',
+  ninja: 'ZZ',
+  subcategories: 'Hardware',
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coinGeckoID: null,
+  id: '22cdel',
+  description: 'PISCES is a DePIN-focused incubator, laboratory, and hardware manufacturer.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/Piscesminer',
+  url: 'https://www.piscesiot.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

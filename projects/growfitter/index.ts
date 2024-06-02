@@ -36,7 +36,7 @@ export default {
   blog: 'http://www.linkedin.com/company/growfitter.com',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/growfitter?lang=en',
+  twitter: 'https://twitter.com/growfitter',
   url: 'https://www.growfitter.com/',
   verified: false,
   fundraises: [
