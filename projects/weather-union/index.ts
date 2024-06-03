@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Weather Union ',
+  name: 'Weather Union',
   ninja: 'EV3 Sal',
   subcategories: 'Environmental',
   chain: null,

@@ -19,7 +19,7 @@ export default {
   blog: 'https://blog.d.id/',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/intent/follow?screen_name=DIDbased',
+  twitter: 'https://x.com/DIDbased',
   url: 'https://d.id/',
   verified: false,
   fundraises: [

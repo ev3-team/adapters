@@ -6,7 +6,7 @@ export default {
   subcategories: null,
   chain: 'GNOSIS',
   category: 'ENERGY',
-  token: null,
+  token: 'SLX',
   coinGeckoID: null,
   id: 'ae6gb1',
   description: 'M3tering incentivizes solar energy investment for underserved regions.',

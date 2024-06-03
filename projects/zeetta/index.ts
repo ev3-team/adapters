@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/zeeta',
   telegram: 'https://t.me/s/ZeetaaProjects?before=209',
-  twitter: 'https://twitter.com/zeettas?lang=en',
+  twitter: 'https://twitter.com/zeettas',
   url: 'https://zeetta.com/',
   verified: false,
   fundraises: [

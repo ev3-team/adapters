@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: 'https://github.com/maxgillett/giza',
   telegram: null,
-  twitter: 'https://twitter.com/gizatechxyz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/gizatechxyz',
   url: 'https://www.gizatech.xyz/',
   verified: false,
   fundraises: [

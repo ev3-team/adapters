@@ -35,7 +35,7 @@ export default {
   blog: 'https://medium.com/cudos-',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/CUDOS_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/CUDOS_',
   url: 'https://www.cudos.org/',
   verified: false,
   fundraises: [

@@ -32,8 +32,7 @@ export default {
   blog: null,
   github: 'https://github.com/Phala-Network',
   telegram: null,
-  twitter:
-    'https://twitter.com/PhalaNetwork?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/PhalaNetwork',
   url: 'https://phala.network/',
   verified: false,
   fundraises: [

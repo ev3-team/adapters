@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/BCBerc20?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://x.com/BCBerc20',
   url: 'https://blockchainbets.app/',
   verified: false,
   fundraises: [],

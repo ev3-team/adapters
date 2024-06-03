@@ -29,7 +29,7 @@ export default {
   blog: 'https://kryptview.medium.com/',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/thekryptview?lang=en',
+  twitter: 'https://twitter.com/thekryptview',
   url: 'https://kryptview.com/',
   verified: false,
   fundraises: [

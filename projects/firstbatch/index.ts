@@ -18,7 +18,7 @@ export default {
   blog: 'https://medium.com/@FirstBatchLabs',
   github: 'https://github.com/firstbatchxyz',
   telegram: null,
-  twitter: 'https://twitter.com/firstbatchxyz_?lang=en',
+  twitter: 'https://twitter.com/firstbatchxyz_',
   url: 'https://www.firstbatch.xyz/',
   verified: false,
   fundraises: [],

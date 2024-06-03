@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/weavechain',
   github: 'https://github.com/weavechain',
   telegram: null,
-  twitter: 'https://twitter.com/weavechainweb3?lang=en',
+  twitter: 'https://twitter.com/weavechainweb3',
   url: 'https://www.weavechain.com/',
   verified: false,
   fundraises: [],

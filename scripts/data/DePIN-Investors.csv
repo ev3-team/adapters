@@ -42,6 +42,7 @@ name,id
 7 Star,cvqnc5
 75 & Sunny Labs,8vyzyl
 7feur,wdijri
+7UpDAO,r07kjn
 8 Decimal,2q8xba
 84000LP,cuzsxp
 9Unicorns,jt1491
@@ -233,6 +234,7 @@ AppWorks,onvq9f
 Aptos,yc3rjf
 Aramex,d9o1gj
 Arash Ferdowsi,o90q95
+Arca,jme2re
 Arcanum,m8rgyb
 Archerman,ir12xk
 Archetype,ze1wdg
@@ -289,6 +291,7 @@ Aurora,tvu1r6
 Auryn Macmillan,ntqe0t
 Aussie,giq489
 Austen Allred,lxr6fp
+Austin Federa,jm2nln
 Austin Green,k5yniy
 Austin Rief,9v9ugt
 Ausum,8m8hfx
@@ -499,6 +502,7 @@ BR,oi4yuk
 Brand,8xisag
 Brandon Gath,190658
 Breakaway,aeuug7
+BreakOrbit,dpo7fp
 Breakthrough Energy,mzwabg
 Breck Yunits,s4nry9
 Breed Reply,v28p9a
@@ -507,6 +511,7 @@ Brevan Howard,q2goo9
 Breyer,k091ng
 Brian Forde,km2if5
 Brian Granger,9v9mrd
+Brian Johnson,y8mmkj
 Brian Norgard,ssztnh
 Brianna Montgomery,new0uo
 Bridge Link,984ydi
@@ -538,6 +543,7 @@ Burch Creative,goajo6
 Business Finland,779ffb
 Buying Labs,vbbb1g
 Byma,9cyg5d
+ByteTrade,ptzfrs
 BYX,6iwa5t
 ByzantineMarine,2q9s6q
 C Squared,h97beq
@@ -715,6 +721,7 @@ Consensus Lab,hxmvxz
 Consensys Mesh,vh40ts
 ConsenSys,p7lpx4
 Constantino Voulgaris,wtmpjt
+Construct,5bnlru
 Contango,2bl1fj
 Continue,2ckrz9
 Convective,xz7t5c
@@ -740,6 +747,7 @@ Creative Artists Agency,dm8c6w
 Creative Destruction Lab,6erxyq
 Credo,bsrlyc
 Cristian Raygoza,yqrwim
+CRIT,1k9g0d
 Criterion,6uuq9l
 Cronos,28j4vq
 Cross Ocean,ji05td
@@ -851,6 +859,7 @@ Deloitte,tlw2rt
 Delphi Digital,67mqz0
 Delroy Bosco,6t1kr0
 Delta Blockchain,drq7a8
+Delta-v,7eqfdf
 DeltaHub,35e9e6
 Denali Digital,xfwkcl
 Denlow Trust,46w9xn
@@ -894,6 +903,7 @@ Distributed Global,sknhsa
 Distributed,wux3o5
 DiVentures,d8ocj0
 Divergence,0y8voh
+dlab,vwl1vt
 DMP,hhylf0
 DNA,nogms2
 DNV,p296oy
@@ -993,6 +1003,7 @@ Enjinstarter,czduss
 Entheos,r5e7lg
 Envision,9ectn9
 Epic Games,9sg91a
+Equilibrium,1b3xfu
 Equinor,u31dfa
 Eric Arsenault,mgnesp
 Eric Schmidt,ordhvp
@@ -1022,11 +1033,13 @@ European Union,k9wwxc
 Eutopia,o0rx1i
 Evan Cheng,lm317i
 Evangelion,xeklhm
+Everest Ventures Group,goald7
 Evernew,t5b3g5
 Evernym,cn32xf
 Everstake,2p413m
 Everstate,430dvj
 Evgeny Zandman,8l2m10
+EVM,kvs8ga
 EvoNexus,4xtwec
 Ewald Hesse,qtus0d
 Ex-Capital,8v67z1
@@ -1189,6 +1202,7 @@ Gemini Frontier,c047hh
 Genblock,5dsvsj
 General Catalyst,hm8wrp
 GenerationS,e3clcz
+Generative,jki94w
 Genesis,5lwado
 Geometry,n231lw
 George Burke,ofjyek
@@ -1293,6 +1307,7 @@ Haystack,ujjw80
 HBO,etiakl
 Headline,zagn6s
 Healthcap,680vbf
+Heartcore,awafbg
 Hedgewood,vfc1ky
 Hedosophia,8c0fcu
 HEFCE,0pcodk
@@ -1487,6 +1502,7 @@ Joe Stump,7qpopw
 Joe Tsai,0rupj0
 Joel John,fsyot8
 John Eales,vghgy8
+John Fiorelli,tc6q3y
 John Gheur,0y9ptr
 John Hennessy,6ban6b
 John Josephson,5h9mpc
@@ -1575,6 +1591,7 @@ Kenneth Johansen,ibmmdz
 Kenneth Ng,dbnrgb
 Kenzi Wang,wohqmd
 Kenzo Labs,fdzd99
+Keone Hon,v28nvp
 Kepler,mjt6z5
 Keplr,i89h0e
 Kernel,yv5v8q
@@ -1635,6 +1652,7 @@ Kyros,4cvh3k
 L&S Venture,sveznn
 L1 Digital,hmfg3c
 L2,1hc0e8
+L2IV,gha27i
 Lakestar,q2tl8d
 Lakshminarayan Swaminathan,1d0vnd
 Lan to,hyymt5
@@ -1750,6 +1768,7 @@ Manifold,eij6bk
 Manisha Gupta,vj7qw8
 Manohar Charan,314d7e
 Mantis,7tpa9b
+Mantle,nnv6q8
 MANTRA,uksen6
 Manuel Bronstein,3aevc3
 Mapleblock,tzyxtr
@@ -1926,6 +1945,7 @@ Mozilla,e1gqs2
 MQdao,074vxf
 MS&AD,uv5644
 MSA Novo,2mtu07
+MSM,xzl1ax
 Mucker,k1jwtb
 Mulana,4dh0t9
 Multicoin,2g0699
@@ -1935,7 +1955,6 @@ Munich Re,c9zewt
 Muse,zqwobt
 Musha,lej86v
 Mustafa Bassam,h2yy1z
-MSM,xzl1ax
 MV Global,lhjpo7
 MVC Friends,pu0mg9
 MXC Pro,ab1ve5
@@ -1967,6 +1986,7 @@ NEAR,b6vnn8
 Nebari,7fql0t
 Nebulas,zrv0uy
 Nebulous,c0w5gw
+Necessary Ventures,g2rt17
 Neeraj Arora,2z0nw5
 Neha Narkhede,ic9k7i
 Neil Harounian,ko3khg
@@ -2535,6 +2555,7 @@ Solidity,kw5h0p
 SolrDAO,g5adzv
 Soma,rgrylg
 SongYee Yoon,ksh3he
+Sonic Boom,o8a9h1
 Sony Innovation,two8m9
 Sora,cvjbhg
 SOSV,8cibwi
@@ -2649,6 +2670,7 @@ SV Angel,k1e97y
 SV Pacific,sbxp1t
 SWAN,l7vbx6
 SWC,9j6x8e
+Sweep,cdoetr
 Swiss Gem,h3wbqh
 SwissBorg,s3as6l
 Swordfish,wa7xxl
@@ -2789,6 +2811,7 @@ TRG,tdy2c2
 TRGC,nzxtym
 Tribe,due5zk
 Triblock,7r9603
+Tristan Frizza,f4g8b6
 Tristan Handy,h0yuhw
 Tritax,p8ujml
 TRK,25yhn5
@@ -2996,6 +3019,7 @@ Yevgen Malyshev,nopne6
 YGG,nv73pg
 Yi Sun,cy0ynk
 Yi Sung Yong,3mawmt
+Yield Guild Games,vnlyks
 Yolo,32ha77
 Yossi Hasson,lphuqy
 Yossi Matias,pfvnry
@@ -3015,6 +3039,7 @@ Zeal,7qvbir
 Zebpay,71p088
 Zee Prime,urug6u
 Zeitgeist,lll7yl
+Zeneca,hlsmm6
 ZenX Labs,6xb157
 Zephyrus,e0wtte
 Zero Age,v4za8v

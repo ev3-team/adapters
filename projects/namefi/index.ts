@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Namefi',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coinGeckoID: null,
+  id: 'mvoc8z',
+  description: 'Namefi is a platform for tokenizing DNS names on Ethereum as NFTs plus DeFi.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/namefi_io',
+  url: 'https://www.namefi.io/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

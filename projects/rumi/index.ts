@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/rumilabs/status/1325733403686133760',
+  twitter: 'https://twitter.com/rumilabs',
   url: 'https://www.rumi.finance/',
   verified: false,
   fundraises: [],

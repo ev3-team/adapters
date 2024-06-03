@@ -21,7 +21,7 @@ export default {
   foundingYear: null,
   blog: 'https://medium.com/@storjproject',
   github: 'https://github.com/Storj/',
-  telegram: 'https://telegram.me/StorjProject',
+  telegram: null,
   twitter: 'https://twitter.com/storj',
   url: 'https://www.storj.io/',
   verified: false,

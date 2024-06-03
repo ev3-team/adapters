@@ -18,7 +18,7 @@ export default {
   blog: 'https://medium.com/@OninoOfficial/5becebdee2fb',
   github: 'https://github.com/ONINO-IO',
   telegram: null,
-  twitter: 'https://twitter.com/onino_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/onino_io',
   url: 'https://www.onino.io/',
   verified: false,
   fundraises: [],

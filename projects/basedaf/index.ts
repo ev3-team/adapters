@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'BasedAF',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'NOT_DEPIN',
+  token: null,
+  coinGeckoID: null,
+  id: 'tc8r0r',
+  description:
+    'BasedAF is leveraging real-time rendering to create TV shows inside video game worlds.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/basedaf_',
+  url: 'https://based-af.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

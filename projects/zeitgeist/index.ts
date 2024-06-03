@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/@zeitgeist.pro',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/zeitgeist_xyz?lang=en',
+  twitter: 'https://twitter.com/zeitgeist_xyz',
   url: 'https://zeitgeist.pm/',
   verified: false,
   fundraises: [],

@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/pluralenergy',
   url: 'https://www.pluralenergy.co/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Preseed',
+      url: 'https://x.com/PluralEnergy/status/1796199500912238827',
+    },
+  ],
 } satisfies AdapterProject

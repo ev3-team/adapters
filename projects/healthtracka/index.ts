@@ -19,7 +19,7 @@ export default {
   blog: 'https://blog.healthtracka.com/',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/healthtracka?lang=en',
+  twitter: 'https://twitter.com/healthtracka',
   url: 'https://www.healthtracka.com/',
   verified: false,
   fundraises: [

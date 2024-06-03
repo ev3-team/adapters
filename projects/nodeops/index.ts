@@ -22,5 +22,10 @@ export default {
   twitter: null,
   url: 'https://nodeops.xyz/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://x.com/NodeOps_App/status/1795199359132311642',
+    },
+  ],
 } satisfies AdapterProject

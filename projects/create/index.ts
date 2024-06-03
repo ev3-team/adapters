@@ -18,8 +18,7 @@ export default {
   blog: 'https://create-protocol.medium.com/',
   github: null,
   telegram: null,
-  twitter:
-    'https://twitter.com/CreateProtocol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/CreateProtocol',
   url: 'https://www.createprotocol.org/',
   verified: false,
   fundraises: [],

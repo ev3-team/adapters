@@ -27,5 +27,9 @@ export default {
       roundType: 'Series A',
       url: 'https://www.theblock.co/post/286969/lumoz-crypto-funding-token-round-valuation',
     },
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://x.com/LumozOrg/status/1795824512468160602',
+    },
   ],
 } satisfies AdapterProject

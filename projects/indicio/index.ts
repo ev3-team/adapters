@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/indicioid?lang=en',
+  twitter: 'https://twitter.com/indicioid',
   url: 'https://indicio.tech/',
   verified: false,
   fundraises: [],

@@ -19,7 +19,7 @@ export default {
   blog: 'https://crustnetwork.medium.com/',
   github: 'https://github.com/crustio',
   telegram: null,
-  twitter: 'https://twitter.com/crust_ow?lang=en',
+  twitter: 'https://twitter.com/crust_ow',
   url: 'https://crust.network/',
   verified: false,
   fundraises: [],

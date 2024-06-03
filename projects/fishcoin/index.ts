@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/fishcoin',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/i/flow/login?redirect_after_login=%2FFishcoinNetwork',
+  twitter: 'https://twitter.com/i/flow/login',
   url: 'https://fishcoin.co/',
   verified: false,
   fundraises: [],

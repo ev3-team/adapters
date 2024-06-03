@@ -19,8 +19,7 @@ export default {
   blog: 'https://medium.com/@almehawas',
   github: null,
   telegram: null,
-  twitter:
-    'https://twitter.com/visionary_uk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/visionary_uk',
   url: 'https://visionary.energy/',
   verified: false,
   fundraises: [],

@@ -18,8 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter:
-    'https://twitter.com/spectravcfund?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+  twitter: 'https://twitter.com/spectravcfund',
   url: 'https://vcspectra.io/',
   verified: false,
   fundraises: [],

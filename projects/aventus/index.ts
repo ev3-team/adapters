@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/aventus',
   github: 'https://github.com/Aventus',
   telegram: null,
-  twitter: 'https://twitter.com/aventusnetwork?lang=en',
+  twitter: 'https://twitter.com/aventusnetwork',
   url: 'https://aventus.io/',
   verified: false,
   fundraises: [],

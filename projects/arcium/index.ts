@@ -22,5 +22,14 @@ export default {
   twitter: 'https://twitter.com/ArciumHQ',
   url: 'https://arcium.com/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/ArciumHQ/status/1588235769860194304',
+    },
+    {
+      roundType: 'Strategic/Angel',
+      url: 'https://twitter.com/ArciumHQ/status/1788557786537689447',
+    },
+  ],
 } satisfies AdapterProject

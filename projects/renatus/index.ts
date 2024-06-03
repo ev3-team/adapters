@@ -18,7 +18,7 @@ export default {
   blog: 'https://discord.com/invite/G9SCvAE',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/renatusgaming?lang=en',
+  twitter: 'https://twitter.com/renatusgaming',
   url: 'https://www.renatus-robotics.com/',
   verified: false,
   fundraises: [

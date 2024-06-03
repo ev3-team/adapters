@@ -22,5 +22,10 @@ export default {
   twitter: 'https://twitter.com/metaphone_ton',
   url: 'https://metaphone.io/',
   verified: false,
-  fundraises: [],
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://twitter.com/metaphone_ton/status/1787440551651897738',
+    },
+  ],
 } satisfies AdapterProject

@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/runloop?lang=en',
+  twitter: 'https://twitter.com/runloop',
   url: 'https://runloop.xyz/',
   verified: false,
   fundraises: [],
