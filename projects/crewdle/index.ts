@@ -5,11 +5,12 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'WIRELESS',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'zy7wfi',
-  description: 'Crewdle: Secure, sustainable video conferencing on peer-to-peer network.',
+  description:
+    'Crewdle is a mist computing platform that offers high-volume data workloads, ensures low latency, and prioritizes data privacy and sovereignty.',
   discord: '1201911048328978442',
   investors: ['j8kxto'],
   linkedin: 'https://linkedin.com/company/crewdle',
@@ -19,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Crewdle_app',
-  url: 'https://crewdle.com/peers',
+  url: 'https://crewdle.com/',
   verified: false,
   fundraises: [
     {
