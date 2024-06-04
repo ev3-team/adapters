@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'N/A',
+  twitter: 'https://x.com/FractionAI_xyz',
+  url: 'https://fractionai.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
