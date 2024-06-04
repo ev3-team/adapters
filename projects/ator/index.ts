@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'AirTor',
+  name: 'ATOR',
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
@@ -9,7 +9,8 @@ export default {
   token: 'ATOR',
   coinGeckoID: 'airtor-protocol',
   id: 'l9if1e',
-  description: 'AirTor: Proof-of-uptime and relay hardware for passive earning and support of Tor.',
+  description:
+    'ATOR is developing a global anonymous-routing network using a decentralized privacy protocol, on-chain incentives, and signature hardware to enhance internet sovereignty.',
   discord: '1083735132470521907',
   investors: [],
   linkedin: null,

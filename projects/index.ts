@@ -55,7 +55,6 @@ import aioz from './aioz'
 import airealm from './airealm'
 import airlyft from './airlyft'
 import airo from './airo'
-import airtor from './airtor'
 import airwaive from './airwaive'
 import ait from './ait'
 import aizel from './aizel'
@@ -138,6 +137,7 @@ import atlas from './atlas'
 import atlasNavi from './atlas-navi'
 import atomNetwork from './atom-network'
 import atoma from './atoma'
+import ator from './ator'
 import audius from './audius'
 import augur from './augur'
 import aurora from './aurora'
@@ -811,7 +811,6 @@ import iotex from './iotex'
 import ipfs from './ipfs'
 import ipsx from './ipsx'
 import iq from './iq'
-import iris from './iris'
 import ironMill from './iron-mill'
 import ironfish from './ironfish'
 import irys from './irys'
@@ -1186,6 +1185,7 @@ import panoAi from './pano-ai'
 import panther from './panther'
 import paradex from './paradex'
 import parallelColony from './parallel-colony'
+import parasail from './parasail'
 import parsiq from './parsiq'
 import partage from './partage'
 import particle from './particle'
@@ -1342,7 +1342,6 @@ import relayz from './relayz'
 import remix from './remix'
 import renatus from './renatus'
 import render from './render'
-import repl from './repl'
 import reppo from './reppo'
 import reputable from './reputable'
 import researchhub from './researchhub'
@@ -1867,7 +1866,6 @@ export const projects = {
   airealm,
   airlyft,
   airo,
-  airtor,
   airwaive,
   ait,
   aizel,
@@ -1950,6 +1948,7 @@ export const projects = {
   atlasNavi,
   atomNetwork,
   atoma,
+  ator,
   audius,
   augur,
   aurora,
@@ -2623,7 +2622,6 @@ export const projects = {
   ipfs,
   ipsx,
   iq,
-  iris,
   ironMill,
   ironfish,
   irys,
@@ -2998,6 +2996,7 @@ export const projects = {
   panther,
   paradex,
   parallelColony,
+  parasail,
   parsiq,
   partage,
   particle,
@@ -3154,7 +3153,6 @@ export const projects = {
   remix,
   renatus,
   render,
-  repl,
   reppo,
   reputable,
   researchhub,

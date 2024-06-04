@@ -11,7 +11,7 @@ export default {
   id: 'ffondw',
   description:
     'BULB is a Write-to-Earn and Read-to-Earn blogging platform where ideas, passions and engagement are rewarded.',
-  discord: null,
+  discord: '905839748147449856',
   investors: [],
   linkedin: null,
   duneQueries: null,

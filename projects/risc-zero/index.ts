@@ -11,7 +11,7 @@ export default {
   id: '2sl1de',
   description:
     'RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.',
-  discord: null,
+  discord: '953703904086994974',
   investors: [],
   linkedin: null,
   duneQueries: null,

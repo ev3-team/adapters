@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/topics/bundlr',
   telegram: 'https://t.me/TheBundleCommunity',
   twitter: 'https://twitter.com/irys_xyz',
-  url: 'https://bundlr.network/',
+  url: 'https://irys.xyz/',
   verified: false,
   fundraises: [
     {

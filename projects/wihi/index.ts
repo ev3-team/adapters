@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/wihi-labs',
   telegram: null,
   twitter: 'https://twitter.com/WiHiWeather',
-  url: 'https://www.wihi.link/',
+  url: 'https://www.wihi.cc/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
