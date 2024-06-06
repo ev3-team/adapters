@@ -11,7 +11,7 @@ export default {
   id: '7rbea7',
   description:
     'Brev.dev is an AI development platform offering GPU rentals and a fully equipped environment with CUDA, Python, Jupyter Lab, and SSH support for seamless fine-tuning, training, and deployment of machine learning applications.',
-  discord: null,
+  discord: '852232285670473759',
   investors: [],
   linkedin: null,
   duneQueries: null,

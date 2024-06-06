@@ -11,7 +11,7 @@ export default {
   id: 'xkyu1k',
   description:
     'BTQ is a global quantum technology company that builds post-quantum infrastructure to secure mission critical networks.',
-  discord: null,
+  discord: '1084696997061218314',
   investors: [],
   linkedin: null,
   duneQueries: null,

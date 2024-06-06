@@ -11,7 +11,7 @@ export default {
   id: '6rasyf',
   description:
     'Datagen provides an all-purpose generator of synthetic images of human faces and bodies.',
-  discord: null,
+  discord: '852187000085020703',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/28641774/',
   duneQueries: null,
