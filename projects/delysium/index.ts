@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://link3.to/delysium',
+  twitter: 'https://twitter.com/The_Delysium',
+  url: 'https://www.delysium.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

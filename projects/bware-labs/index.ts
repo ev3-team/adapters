@@ -11,7 +11,7 @@ export default {
   id: 'udxaxs',
   description:
     'Bware Labs: Web 3 solution solving latency issues with geographically distributed nodes.',
-  discord: null,
+  discord: '791275547740995594',
   investors: [
     'bp637k',
     'ue6j4s',

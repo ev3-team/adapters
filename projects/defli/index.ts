@@ -18,8 +18,8 @@ export default {
   blog: 'https://medium.com/@team_483',
   github: 'https://github.com/DeFliTeam',
   telegram: null,
-  twitter: 'https://twitter.com/Defli_Networks',
-  url: 'https://defli.network/',
+  twitter: 'https://twitter.com/Defli_Xyz',
+  url: 'https://www.defli.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

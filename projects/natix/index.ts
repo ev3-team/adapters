@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'uq4s3v',
   description: 'NATIX is a decentralized real-time mapping & surveillance network.',
-  discord: null,
+  discord: '811964821000028160',
   investors: [
     '7bjt0y',
     'hbpmm3',

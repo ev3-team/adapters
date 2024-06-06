@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '4hsfb2',
   description:
-    'Block Entropy Blockchain, a groundbreaking platform democratizing access to AI and machine learning solutions. Harnessing the power of blockchain technology',
+    'Block Entropy specializes in optimizing data flow through AI and ML research by offering smart routing solutions, leveraging a mix of open-source and proprietary models for cost-effective, scalable, and efficient AI services.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://blockentropy.dev/',
+  twitter: 'https://twitter.com/blockentropy',
+  url: 'https://blockentropy.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

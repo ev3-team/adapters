@@ -15,7 +15,7 @@ export default {
   linkedin: 'http://www.linkedin.com/company/ethereum-swarm',
   duneQueries: null,
   foundingYear: null,
-  blog: null,
+  blog: 'https://blog.ethswarm.org/',
   github: 'https://github.com/ethersphere',
   telegram: null,
   twitter: 'https://twitter.com/ethswarm',

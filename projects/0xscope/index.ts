@@ -11,7 +11,7 @@ export default {
   id: '0hgye7',
   description:
     '0xScope is a Web3 AI Data Layer with an established and complete set of standards for collecting, cleaning, and managing relevant on- and off-chain data specifically adapted for Web3 AI training.',
-  discord: null,
+  discord: '991589244810305596',
   investors: [],
   linkedin: null,
   duneQueries: null,

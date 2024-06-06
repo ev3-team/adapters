@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Repl',
+  name: 'Parasail',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'n4gf96',
   description:
-    'Repl is the first repledging Protocol for pledged DePIN assets. It aims to enhance the efficiency of locked DePIN tokens, remove idiosyncratic risks among DePIN service providers, and lower the complexity for people to earn DePIN protocol rewards.',
+    'Parasail is an incentive interface that streamlines DePINs by aggregating capital, hardware, and users, fostering synergies, and enhancing user experiences with strong service guarantees, simplified go-to-market processes, and robust rewards.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/Repl_fi',
-  url: 'https://repl.fi/',
+  twitter: 'https://x.com/parasailnetwork',
+  url: 'https://www.parasail.network/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

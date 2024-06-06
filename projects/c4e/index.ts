@@ -11,7 +11,7 @@ export default {
   id: '92o0ip',
   description:
     'C4E is a DePIN L1 Blockchain platform, designed to support a variety of innovative energy and e-mobility applications by creating a decentralized and democratized community-powered ecosystem.',
-  discord: null,
+  discord: '982972723858898984',
   investors: [],
   linkedin: null,
   duneQueries: null,

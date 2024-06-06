@@ -11,7 +11,7 @@ export default {
   id: 'n7swrq',
   description:
     'Camelot is a Layer3 DePIN platform that decentralizes AI training, enabling global contributions of computational resources facilitates the training of powerful AI models, and distributes training results to mobile devices.',
-  discord: null,
+  discord: '1215303698151120927',
   investors: [],
   linkedin: null,
   duneQueries: null,
