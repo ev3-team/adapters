@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'p8juld',
   description: 'APhone is the 1st decentralized cloud smartphone, powered by Aethir.',
-  discord: null,
+  discord: '1196486945069596832',
   investors: [],
   linkedin: null,
   duneQueries: null,

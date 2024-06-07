@@ -11,7 +11,7 @@ export default {
   id: 'zqsqzl',
   description:
     'BLOCX is a comprehensive all-in-one computer manager that utilizes masternodes for network stability, offers CPU and GPU rental, and cloud storage solutions, and includes a decentralized exchange, built using X11 as a proof-of-work algorithm.',
-  discord: '1110639428747145287',
+  discord: '1220870981657034822',
   investors: [],
   linkedin: null,
   duneQueries: null,

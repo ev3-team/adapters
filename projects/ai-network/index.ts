@@ -11,7 +11,7 @@ export default {
   id: 'owekxa',
   description:
     'AI Network is a blockchain protocol-based collaborative computing architecture for AI and metaverse. ',
-  discord: null,
+  discord: '938909864674082826',
   investors: [],
   linkedin: null,
   duneQueries: null,

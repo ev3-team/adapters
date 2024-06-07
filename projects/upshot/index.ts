@@ -11,7 +11,7 @@ export default {
   id: '2ne1u8',
   description:
     'Upshot is a decentralized AI platform enabling efficient financial markets for anything.',
-  discord: '644591703507861515',
+  discord: null,
   investors: [
     'tupwbv',
     'tdmlep',

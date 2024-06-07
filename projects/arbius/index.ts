@@ -11,7 +11,7 @@ export default {
   id: 'oxh2i6',
   description:
     'Arbius is a decentralized network for machine learning and a token with limited inflation. New coins are generated with GPU power by participating in the network. ',
-  discord: null,
+  discord: '1207744123445182514',
   investors: [],
   linkedin: null,
   duneQueries: null,

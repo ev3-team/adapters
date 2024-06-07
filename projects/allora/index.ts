@@ -11,7 +11,7 @@ export default {
   id: 'qs7j6q',
   description:
     'Allora is a self-improving decentralized AI network. It enables applications to leverage smarter, more secure AI through a self-improving network of ML models by crowdsourcing mechanisms, federated learning, and zkML.',
-  discord: null,
+  discord: '644591703507861515',
   investors: ['te4xtz', 'szfiug', 'r54jbx', '67mqz0', 'sknhsa', 'yx4w71', 'tqh3bl'],
   linkedin: null,
   duneQueries: null,

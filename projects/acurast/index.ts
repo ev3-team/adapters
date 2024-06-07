@@ -11,7 +11,7 @@ export default {
   id: 'o2w9zn',
   description:
     'Acurast is a decentralized and serverless cloud platform with a trustless, verifiable, and confidential computing environment leveraging mobile hardware to disrupt traditional server infrastructure.',
-  discord: null,
+  discord: '971297576651472916',
   investors: [],
   linkedin: null,
   duneQueries: null,

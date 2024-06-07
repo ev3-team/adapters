@@ -11,7 +11,7 @@ export default {
   id: '9ly2ak',
   description:
     'BNB Greenfield is a Decentralized Data Storage System and Economy that allows users to store, exchange, and own data to create a new data economy within the BNB Chain ecosystem.',
-  discord: null,
+  discord: '789402563035660308',
   investors: [],
   linkedin: null,
   duneQueries: null,
