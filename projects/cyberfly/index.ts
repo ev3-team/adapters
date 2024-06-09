@@ -11,7 +11,7 @@ export default {
   id: 'zw4toq',
   description:
     'Cyberfly is an open-source decentralized IoT platform built on the Kadena blockchain. It aims to provide a secure and user-friendly platform for managing and monitoring IoT devices.',
-  discord: null,
+  discord: '1001485187886100573',
   investors: [],
   linkedin: null,
   duneQueries: null,

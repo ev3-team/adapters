@@ -11,7 +11,7 @@ export default {
   id: 'rz5js9',
   description:
     'Dock is a Verifiable Credentials company that provides Dock Certs, a user-friendly, no-code platform, and developer solutions that enable organizations to issue, verify, manage, and revoke fraud-proof credentials efficiently and securely.',
-  discord: null,
+  discord: '853596474277101579',
   investors: [],
   linkedin: null,
   duneQueries: null,

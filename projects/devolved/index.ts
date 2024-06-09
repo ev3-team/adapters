@@ -11,7 +11,7 @@ export default {
   id: '7trv2k',
   description:
     'Devolved AI is a decentralized AI and blockchain platform built, governed, and owned by the people, fighting corporate agendas with blockchain-based trust and transparency.',
-  discord: null,
+  discord: '1111963699935195136',
   investors: [],
   linkedin: null,
   duneQueries: null,

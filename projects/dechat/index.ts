@@ -11,7 +11,7 @@ export default {
   id: 'nh9uzc',
   description:
     'Dechat is an open, secure web3 communications protocol that powers decentralized user interactions. It allows developers to let their users chat, discover and transact digital assets seamlessly within and across their applications.',
-  discord: '1172625278271504494',
+  discord: '1172074427157053480',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dechat/mycompany/',
   duneQueries: null,

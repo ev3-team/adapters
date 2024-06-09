@@ -11,7 +11,7 @@ export default {
   id: '85u80y',
   description:
     'CrunchDAO is a research team of data scientists leveraging the power of collective intelligence and Web3 to produce next-generation predictive financial insights.',
-  discord: null,
+  discord: '770586873260933120',
   investors: [],
   linkedin: null,
   duneQueries: null,

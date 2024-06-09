@@ -11,7 +11,7 @@ export default {
   id: '1rgbka',
   description:
     'Espresso Systems is a decentralized sequencer and data availability system connecting layer-2 scaling solutions.',
-  discord: null,
+  discord: '854451048012709889',
   investors: [],
   linkedin: null,
   duneQueries: null,

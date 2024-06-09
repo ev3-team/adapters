@@ -11,7 +11,7 @@ export default {
   id: 'dc9w0u',
   description:
     "CoNET Network is offering a Layer Minus protocol for rapid, wallet-to-wallet transactions. By integrating blockchain's decentralized resilience with existing internet infrastructure, CoNET ensures privacy, security, and high-speed connectivity.",
-  discord: null,
+  discord: '1191656625858170920',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '1azjuz',
   description: 'AI chat powered by Bittensor',
-  discord: null,
+  discord: '1176162686833270885',
   investors: [],
   linkedin: null,
   duneQueries: null,

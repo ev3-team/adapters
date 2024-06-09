@@ -11,7 +11,7 @@ export default {
   id: 'g8kgxw',
   description:
     'DeNet provides a decentralized storage protocol using spare global capacities, leveraging blockchain for secure, user-owned data.',
-  discord: null,
+  discord: '920205740944273449',
   investors: [],
   linkedin: null,
   duneQueries: null,

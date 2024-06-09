@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'codexchain',
   id: 'xkpeqx',
   description: 'CodeX is an all-in-one no-code AI-powered ecosystem for WEB3 mass adoption.',
-  discord: null,
+  discord: '1149392185725309078',
   investors: [],
   linkedin: null,
   duneQueries: null,

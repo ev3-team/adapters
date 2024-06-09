@@ -11,7 +11,7 @@ export default {
   id: '5myyzh',
   description:
     'DataOS is an Autonomous AI agents network composing multimodal content for endless innovation.',
-  discord: null,
+  discord: '1146034338929049650',
   investors: [],
   linkedin: null,
   duneQueries: null,

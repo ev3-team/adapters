@@ -11,7 +11,7 @@ export default {
   id: 'r5hrge',
   description:
     'District0x is a blockchain-based network of decentralized online marketplaces, known as districts, which are operated by community members without centralized leadership.',
-  discord: null,
+  discord: '356854079022039062',
   investors: [],
   linkedin: null,
   duneQueries: null,

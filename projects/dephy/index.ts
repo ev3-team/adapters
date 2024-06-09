@@ -11,7 +11,7 @@ export default {
   id: 'gmxzzx',
   description:
     'DePHY is an open-source hardware solution, SDKs, and tools that allow users to build and scale their DePIN app with ease.',
-  discord: null,
+  discord: '1174929070212005959',
   investors: [
     '94d9pz',
     'h3elac',
