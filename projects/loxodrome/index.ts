@@ -11,7 +11,7 @@ export default {
   id: 'vvesfw',
   description:
     'Loxodrome is a pioneering DePIN-Focused Dex on the IoTeX, establishing itself as the first native liquidity marketplace focused on DePIN.',
-  discord: null,
+  discord: '1190209193039380501',
   investors: [],
   linkedin: null,
   duneQueries: null,

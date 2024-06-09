@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '7syzhg',
   description: 'Kuzco is a distributed GPU cluster for LLM inference on Solana.',
-  discord: null,
+  discord: '1100110477599723550',
   investors: [],
   linkedin: null,
   duneQueries: null,

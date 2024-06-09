@@ -11,7 +11,7 @@ export default {
   id: '6ieha4',
   description:
     'Nitro Network is building the largest decentralized private communication network powered by IoT combined with LoRaWAN and 3G/4G/5G. ',
-  discord: null,
+  discord: '934242516935524392',
   investors: [],
   linkedin: null,
   duneQueries: null,

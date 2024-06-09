@@ -11,7 +11,7 @@ export default {
   id: 'pks4ee',
   description:
     'Making wealth accessible to anyone, anywhere. An open platform for synthetic stocks, commodities, and crypto.',
-  discord: null,
+  discord: '910667307888570458',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/kreskolabs/',
   duneQueries: null,

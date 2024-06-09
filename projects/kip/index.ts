@@ -11,7 +11,7 @@ export default {
   id: 'wwnksh',
   description:
     'KIP Protocol is the decentralized base layer that AI models, apps, and data owners build on, to safely transact and monetize in Web3.',
-  discord: null,
+  discord: '1154122622750167100',
   investors: ['gjt0lb', '1gnwo3', '6hezki', '074vxf', 'kvng0r', '5o347p', 'chjkg7'],
   linkedin: null,
   duneQueries: null,

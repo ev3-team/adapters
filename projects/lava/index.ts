@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'jq8mvz',
   description: 'Lava is a modular data access (RPC & indexing) layer for rollups and blockchains.',
-  discord: null,
+  discord: '963778337904427018',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '65et59',
   description:
     'MetaSpace: Decentralized 3D metaverse for interaction, gaming, concerts, and NFT trading.',
-  discord: null,
+  discord: '1056618109118709802',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/metaspace-academy',
   duneQueries: null,

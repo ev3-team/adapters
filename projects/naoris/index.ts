@@ -11,7 +11,7 @@ export default {
   id: 'h0wfdw',
   description:
     'Naoris Protocol is the Decentralized CyberSecurity Mesh that protects devices across the digital world from cyber threats and associated risks while enforcing CyberSecurity standards.',
-  discord: null,
+  discord: '938790786479296512',
   investors: [],
   linkedin: null,
   duneQueries: null,

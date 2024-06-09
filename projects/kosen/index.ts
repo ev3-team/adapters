@@ -11,7 +11,7 @@ export default {
   id: '6b3lxu',
   description:
     'Kosen Labs aims to be at the intersection of AI and web3. Their mission is to bring the benefits of advanced AI to the blockchain space to develop the decentralised future.',
-  discord: null,
+  discord: '872508100240896052',
   investors: ['d40or5', 'ynh9fg', '6ln74n', 'yx4w71', 'ti312b'],
   linkedin: 'https://www.linkedin.com/company/kosenlabs/',
   duneQueries: null,

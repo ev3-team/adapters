@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'pgim2q',
   description: 'Kaito AI is an AI-powered search and recommendation engine for digital assets,',
-  discord: null,
+  discord: '1062261368809603165',
   investors: [],
   linkedin: null,
   duneQueries: null,

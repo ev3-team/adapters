@@ -11,7 +11,7 @@ export default {
   id: '6ptk5o',
   description:
     'KaratDAO is a revolutionary crypto native engine in Web3 that offers a bilateral service data marketplace that helps users take control of their Web2 and Web3 data while earning rewards.',
-  discord: null,
+  discord: '935510554112565248',
   investors: [],
   linkedin: null,
   duneQueries: null,

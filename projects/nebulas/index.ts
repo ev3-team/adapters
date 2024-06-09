@@ -11,7 +11,7 @@ export default {
   id: 'k6x5uj',
   description:
     "Nebulas is an open-source, public blockchain focused on creating a true Autonomous Metanet. Nebulas' focus utilizing on-chain data for user interactions and collaboration.",
-  discord: null,
+  discord: '760409021017489420',
   investors: [],
   linkedin: null,
   duneQueries: null,

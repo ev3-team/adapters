@@ -11,7 +11,7 @@ export default {
   id: '5x8vzf',
   description:
     'Nimble is building a composable AI protocol, enabling anyone to access state-of-the-art AI algorithms, data, and compute resources.',
-  discord: null,
+  discord: '1139328143400894604',
   investors: [],
   linkedin: null,
   duneQueries: null,

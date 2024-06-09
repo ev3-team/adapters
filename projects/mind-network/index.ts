@@ -11,7 +11,7 @@ export default {
   id: 'q3503f',
   description:
     'Mind Network is a Zero Trust Layer that offers a security and data privacy solution that achieves true CrossFi scale, complying with regulatory requirements while staying true to Web3 principles of asset tokenization and individual data ownership.',
-  discord: null,
+  discord: '1052487383083393095',
   investors: [],
   linkedin: null,
   duneQueries: null,

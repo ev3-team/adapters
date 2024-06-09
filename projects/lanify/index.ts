@@ -11,7 +11,7 @@ export default {
   id: '2sr2vy',
   description:
     'Lanify is a browser extension that allows users to monetize their internet connection by selling unused network resources in real-time. It acts as a decentralized gateway to the public web, providing access to essential data for training AI models.',
-  discord: null,
+  discord: '1210272098803781643',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'nnhjum',
   description:
     'nil is a zkRollup that securely scales Ethereum to 60,000+ TPS through zkSharding, empowering web3 developers to build scalable, secure, and composable applications.',
-  discord: null,
+  discord: '969303013749579846',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'cellmj',
   description:
     'NFPrompt is the first Prompt Artist Platform in Web3, which lets users mint their imagination into an AI-generated NFT. Collectors and enthusiasts can buy/sell the NFT together with the prompt that was used to generate the image.',
-  discord: null,
+  discord: '1101763314691870770',
   investors: [],
   linkedin: null,
   duneQueries: null,

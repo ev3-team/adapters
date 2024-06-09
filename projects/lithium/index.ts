@@ -11,7 +11,7 @@ export default {
   id: 'iggqt8',
   description:
     'Lithium Finance is the first decentralized protocol to harness the power of AI and crowd wisdom. Fundamentally, Lithium Finance uses machine learning algorithms to evaluate historical market data and to identify potential data issues.',
-  discord: null,
+  discord: '905903292926808145',
   investors: [],
   linkedin: null,
   duneQueries: null,
