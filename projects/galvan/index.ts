@@ -11,7 +11,7 @@ export default {
   id: 'deusl5',
   description:
     'Galvan is a blockchain technology-based mental health tracking app that uses AI, CBT, and rewards to help users achieve a healthier state of mind.',
-  discord: null,
+  discord: '909867857540681749',
   investors: [],
   linkedin: null,
   duneQueries: null,

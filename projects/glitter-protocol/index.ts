@@ -11,7 +11,7 @@ export default {
   id: 'hvnixv',
   description:
     'Glitter Protocol is a decentralized data indexing protocol that provides a way for users to earn revenue from their data.',
-  discord: null,
+  discord: '931397153123876915',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/glitterprotocol/about/',
   duneQueries: null,

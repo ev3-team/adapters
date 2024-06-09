@@ -11,7 +11,7 @@ export default {
   id: '36sdcf',
   description:
     'Hippocrat is transforming healthcare by empowering individuals to take control of their health data through blockchain and zero-knowledge-proof technologies.',
-  discord: null,
+  discord: '1154385678738657321',
   investors: [],
   linkedin: null,
   duneQueries: null,

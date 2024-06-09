@@ -11,7 +11,7 @@ export default {
   id: 'm8lgxf',
   description:
     'Induced AI develops a cloud-based automation solution that allows businesses to input their workflows in plain English, instantly transforming these instructions into pseudo-code for handling repetitive tasks typically managed by back offices.',
-  discord: null,
+  discord: '1148694836103348274',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '8nfsmi',
   description:
     'Humanity Protocol introduces a new palm recognition technology for establishing human proofs in Web3 while protecting privacy.',
-  discord: null,
+  discord: '1201822428880437319',
   investors: [],
   linkedin: null,
   duneQueries: null,

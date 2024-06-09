@@ -11,7 +11,7 @@ export default {
   id: 'mw0azh',
   description:
     "Glif is a developer of Filecoin's Liquid Staker which gives FIL holders a way to earn yield on their assets.",
-  discord: null,
+  discord: '1065279513489051658',
   investors: [
     '4l8mmr',
     's0sfkv',

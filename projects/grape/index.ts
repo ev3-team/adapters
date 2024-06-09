@@ -11,7 +11,7 @@ export default {
   id: 'a842rq',
   description:
     'Grape is a decentralized layer one ecosystem with key features that include VINE, a high-speed distributed ledger; ANNE, an AI engine simplifying smart contract and DApp development; and a Decentralized Cloud Storage.',
-  discord: null,
+  discord: '1077654543220887553',
   investors: [],
   linkedin: null,
   duneQueries: null,
