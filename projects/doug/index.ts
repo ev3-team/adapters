@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Doug',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: 'SOLANA',
+  category: 'COMPUTE',
+  token: 'DOUG',
+  coinGeckoID: null,
+  id: '6eupls',
+  description:
+    'DougAI is a distributed computing platform that harnesses idle computing power to provide cost-effective AI processing capabilities for companies and individuals.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/dougaicoin/',
+  url: 'https://www.dougaicoin.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Manta',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'POLKADOT',
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'm3djiu',
   description:
-    'Manta utilises zero-knowledge proofs (ZKPs) to guarantee the secure and private minting of NFTs and SBTs while maintaining the confidentiality of crypto assets.',
+    'Manta Pacific is the first EVM-equivalent ZK-application platform that is scalable and secure through Celestia DA and Polygon zkEVM.',
   discord: '795390654628102165',
   investors: [
     '7bn5bf',

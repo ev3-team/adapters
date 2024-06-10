@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: 'SOLANA',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'PYTH',
   coinGeckoID: 'pyth-network',
   id: '5fwmoi',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DotOracle',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Bridges',
   chain: null,
   category: 'NOT_DEPIN',

@@ -1,26 +1,25 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'M^ZERO',
+  name: 'GTURBO',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
-  id: 'oane9t',
-  description:
-    'M^0 is decentralized money middleware that allows institutions to issue cryptodollars.',
+  id: '9stp66',
+  description: 'GTURBO is a cloud computing infrastructure platform',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/m-zero-labs/?originalSubdomain=de',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/m0foundation',
-  url: 'https://www.m0.xyz/',
+  twitter: 'https://x.com/gturbo_depin',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -1,26 +1,26 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Orbuculum',
+  name: 'Cotelligence',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
-  id: '7tvays',
+  id: 'y273nt',
   description:
-    'Orbuculum is a synthetic (Earth Observation) data platform powered by community-driven Data & AI model monetization and multi-party collaboration.',
+    'Cotelligence is an AI model hub that allows users to upload models and access APIs, leveraging decentralized computing power for economical and accessible AI model serving.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/dlteo-gmbh',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dlt_eo',
-  url: 'https://orbuculum.xyz/',
+  twitter: 'https://twitter.com/cotelligence',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
