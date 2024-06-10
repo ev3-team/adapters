@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/StarpowerTalent',
+  twitter: 'https://twitter.com/starpowerworld',
   url: 'http://starpower.group/',
   verified: false,
   fundraises: [],

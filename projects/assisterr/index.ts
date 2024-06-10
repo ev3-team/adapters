@@ -1,26 +1,26 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Orbuculum',
+  name: 'assisterr',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
-  id: '7tvays',
+  id: 'u1muwp',
   description:
-    'Orbuculum is a synthetic (Earth Observation) data platform powered by community-driven Data & AI model monetization and multi-party collaboration.',
+    'assisterr is and incentive-driven Network of Community-owned AI Models for Developers, Autonomous AI agents, and Enterprises.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/dlteo-gmbh',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dlt_eo',
-  url: 'https://orbuculum.xyz/',
+  twitter: 'https://twitter.com/assisterr',
+  url: 'https://www.assisterr.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

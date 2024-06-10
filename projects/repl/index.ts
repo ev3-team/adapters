@@ -1,26 +1,26 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Orbuculum',
+  name: 'Repl',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
-  id: '7tvays',
+  id: '4dul7f',
   description:
-    'Orbuculum is a synthetic (Earth Observation) data platform powered by community-driven Data & AI model monetization and multi-party collaboration.',
+    'Repl is building a unifying trust layer for DePIN networks by activating idle assets and hardware on Solana through an innovative restaking mechanism.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/dlteo-gmbh',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dlt_eo',
-  url: 'https://orbuculum.xyz/',
+  twitter: null,
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

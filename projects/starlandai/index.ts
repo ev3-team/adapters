@@ -1,26 +1,26 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Orbuculum',
+  name: 'StarLandAI',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
-  id: '7tvays',
+  id: 'hih4xm',
   description:
-    'Orbuculum is a synthetic (Earth Observation) data platform powered by community-driven Data & AI model monetization and multi-party collaboration.',
+    'StarLandAI is an AI Model-as-a-Service (MaaS) DePIN network, capable of running large multimodal models using any DePIN computing devices.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/dlteo-gmbh',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dlt_eo',
-  url: 'https://orbuculum.xyz/',
+  twitter: 'https://twitter.com/starlandai',
+  url: 'https://starland.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -1,26 +1,26 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Orbuculum',
+  name: 'Schelling AI',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
-  id: '7tvays',
+  id: 'r6iwpj',
   description:
-    'Orbuculum is a synthetic (Earth Observation) data platform powered by community-driven Data & AI model monetization and multi-party collaboration.',
+    'SchellingAI developing open-source AI models and datasets, leveraging an institutional-grade digital asset secured by AI compute mining to advance the democratization of AI.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/dlteo-gmbh',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dlt_eo',
-  url: 'https://orbuculum.xyz/',
+  twitter: 'https://twitter.com/SchellingAI',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
