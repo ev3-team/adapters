@@ -11,7 +11,7 @@ export default {
   id: '8tp7y2',
   description:
     'Quadency simplifies crypto trading. It offers portfolio management, trading bots, and automation.',
-  discord: null,
+  discord: '964458804265775104',
   investors: ['4dqura'],
   linkedin: 'https://www.linkedin.com/company/quadency',
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'h4uvxu',
   description: 'Stamp Network is an L2 blockchain focusing on supporting digital entities.',
-  discord: null,
+  discord: '1107916848193863740',
   investors: [],
   linkedin: 'Healthdirect Australia | LinkedIn',
   duneQueries: null,

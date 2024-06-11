@@ -11,7 +11,7 @@ export default {
   id: 'ma0gu4',
   description:
     'PlotX is an all-new crypto-based fantasy trivia game that allows users to answer simple questions and win crypto.',
-  discord: null,
+  discord: '709795840583270511',
   investors: [],
   linkedin: null,
   duneQueries: null,

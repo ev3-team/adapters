@@ -11,7 +11,7 @@ export default {
   id: 'vj5riw',
   description:
     'Nous Research is a private applied research group. They publish open-source work in the LLM domain, including local models, datasets, and core architectural improvements.',
-  discord: null,
+  discord: '1053877538025386074',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/nousresearch',
   duneQueries: null,

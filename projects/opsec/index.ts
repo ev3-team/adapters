@@ -11,7 +11,7 @@ export default {
   id: 'bmg83m',
   description:
     'OpSec Ecosystem is a privacy-focused network dedicated to making operations on the cloud very seamless and efficient. OpSec decentralized cloud solutions range from high-level nodes to light-speed router devices, GPUs, and hosting services.',
-  discord: null,
+  discord: '1213162576918093844',
   investors: [],
   linkedin: null,
   duneQueries: null,

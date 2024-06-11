@@ -11,7 +11,7 @@ export default {
   id: 'qh9grw',
   description:
     'NOYA executes scalable Omnichain DeFi Strategies using Smart Liquidity that uses AI to predict and optimize yields, bridging fees, slippage, and rewards',
-  discord: null,
+  discord: '1100874221959249932',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'ecb4bs',
   description:
     'RoboNet is an AI-powered DeFi protocol that leverages several new developments in decentralized MI and zkML to enable more advanced AI-powered DeFi strategies. It consists of three types of participants: strategists, liquidity providers, and traders.',
-  discord: null,
+  discord: '1095854552269463662',
   investors: [],
   linkedin: null,
   duneQueries: null,

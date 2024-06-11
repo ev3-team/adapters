@@ -11,7 +11,7 @@ export default {
   id: 'ciuuhf',
   description:
     'Proximum is a network protocol designed to enhance spacetime with nodes that provide secure, speed-of-light consensus, enabling trustless proximity-based interactions and fostering local economies through regional flatcoins.',
-  discord: null,
+  discord: '1207771884003922021',
   investors: [],
   linkedin: null,
   duneQueries: null,

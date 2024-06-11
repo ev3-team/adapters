@@ -11,7 +11,7 @@ export default {
   id: 'npspo4',
   description:
     'PINGPONG is building a DePIN liquidity and service aggregator with a developer-facing all-in-one SDK and a community-facing DePIN liquidity mining through their DePIN liquidity hook money market.',
-  discord: null,
+  discord: '1217700236303274034',
   investors: [],
   linkedin: null,
   duneQueries: null,

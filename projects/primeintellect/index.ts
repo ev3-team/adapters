@@ -11,7 +11,7 @@ export default {
   id: 'qjinko',
   description:
     'PrimeIntellect commoditizes intelligence through a decentralized AI lab to advance scientific progress and human flourishing. It empowers developers with distributed computing, state-of-the-art open models, and an ecosystem to reach users.',
-  discord: null,
+  discord: '1164630030928855090',
   investors: [],
   linkedin: null,
   duneQueries: null,

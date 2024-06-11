@@ -11,7 +11,7 @@ export default {
   id: 'cfy81h',
   description:
     'Qualoo is a global test network that utilizes user-generated connectivity data by incentivizing users to run tests and share data about their internet connectivity. ',
-  discord: null,
+  discord: '917422272040566864',
   investors: [],
   linkedin: 'https://linkedin.com/company/qualoo',
   duneQueries: null,

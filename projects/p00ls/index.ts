@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'zer0zer0',
   id: '6bqyjx',
   description: 'P00LS is the premier platform for Web3 community-building.',
-  discord: '1175849217617559643',
+  discord: '885262342634487828',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/p00ls/',
   duneQueries: null,

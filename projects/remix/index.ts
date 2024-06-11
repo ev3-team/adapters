@@ -11,7 +11,7 @@ export default {
   id: 'up2zx1',
   description:
     'Remix AI is a social mobile app on iOS and Android, that unites users to create, share, and remix AI images and video.',
-  discord: null,
+  discord: '1128516357365960724',
   investors: [],
   linkedin: null,
   duneQueries: null,
