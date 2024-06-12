@@ -11,7 +11,7 @@ export default {
   id: 'hi03tk',
   description:
     'Tromero is a peer-to-peer blockchain that merges traditional proof of work consensus with ML to empower secure, democratic and decentralized ML applications.',
-  discord: null,
+  discord: '1184778457780080691',
   investors: ['w5c605', 'jo973z'],
   linkedin: 'https://www.linkedin.com/company/tromero/about/',
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'zfwfw0',
   description:
     'Shamba is a Web3 ecological data oracle and Decentralized Monitoring, Reporting & Verification Network.',
-  discord: null,
+  discord: '906066831071146046',
   investors: [],
   linkedin: null,
   duneQueries: null,

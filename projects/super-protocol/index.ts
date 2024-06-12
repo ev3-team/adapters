@@ -11,7 +11,7 @@ export default {
   id: '1lodgy',
   description:
     'Super Protocol is a Web3 confidential computing protocol that combines blockchain with advanced confidential computing technologies to create a universal decentralized cloud computing platform.',
-  discord: null,
+  discord: '951018794590023681',
   investors: [],
   linkedin: null,
   duneQueries: null,

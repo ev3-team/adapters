@@ -11,7 +11,7 @@ export default {
   id: 'xe4qlj',
   description:
     'SendingNetwork is a Web3 Communication Stack that helps developers create secure dapps that include in-app or cross-app chats, notifications, wallet or decentralized ID logins, and non-fungible token (NFT) transactions.',
-  discord: null,
+  discord: '1194624738652344370',
   investors: [
     '896jil',
     'aeoxcb',

@@ -11,7 +11,7 @@ export default {
   id: 'u27ctr',
   description:
     'UMA is an optimistic oracle and dispute arbitration system that securely allows for arbitrary types of data to be brought on-chain. UMA’s oracle system provides data for projects including a cross-chain bridge, insurance protocols, custom derivatives, and prediction markets.',
-  discord: null,
+  discord: '718590743446290492',
   investors: [],
   linkedin: null,
   duneQueries: null,

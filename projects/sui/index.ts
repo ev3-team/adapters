@@ -11,7 +11,7 @@ export default {
   id: 'jhet5u',
   description:
     'Sui is a layer 1 blockchain that allows simple transactions to be finalized in real-time without sacrificing security. ',
-  discord: null,
+  discord: '916379725201563759',
   investors: [],
   linkedin: null,
   duneQueries: null,

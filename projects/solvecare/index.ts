@@ -11,7 +11,7 @@ export default {
   id: 'hdih1r',
   description:
     'Solve.Care is a decentralized and distributed platform for the administration of healthcare and benefits programs.',
-  discord: null,
+  discord: '1057977152764641320',
   investors: [],
   linkedin: null,
   duneQueries: null,

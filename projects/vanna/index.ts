@@ -11,7 +11,7 @@ export default {
   id: 'adlfda',
   description:
     'The Vanna Network is an EVM-compatible rollup focused on AI and ML. It supports native, zkML-secured inference directly computed, secured, and verified on-chain; designed in a way that leveraging AI/ML in dApps is as easy as a simple function call.',
-  discord: null,
+  discord: '1132794141403791483',
   investors: [],
   linkedin: null,
   duneQueries: null,
