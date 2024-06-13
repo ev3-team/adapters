@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NoorNation',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'dwfwvv',
   description:
-    'NoorNation is the first African Egypt-based renewable energy start-up bringing fully equipped decentralized energy and water infrastructure across Egypt and Sub-Saharan Africa.',
+    'NoorNation is an African Egypt-based renewable energy startup bridging life essentials through decentralized infrastructure solutions for less-served areas in Egypt and Sub-Saharan Africa.',
   discord: null,
   investors: ['e4n54t', '7vyg7l'],
   linkedin: 'https://www.linkedin.com/company/noornation/',

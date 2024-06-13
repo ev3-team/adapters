@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Darwinia',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Bridges',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'KTON',
   coinGeckoID: 'darwinia-commitment-token',
   id: 'gpxg0c',
-  description: 'Darwinia is a open cross-chain bridge protocol based on Substrate.',
+  description:
+    'Darwinia is the community-run technology and service powering the cross-chain capabilities of decentralized applications.',
   discord: '456092011347443723',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/darwinia-network',

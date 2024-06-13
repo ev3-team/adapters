@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'fliggs',
-  ninja: null,
+  ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',

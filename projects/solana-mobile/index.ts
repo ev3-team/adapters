@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'Mobile',
   chain: 'SOLANA',
-  category: 'SENSORS',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'dco6fo',

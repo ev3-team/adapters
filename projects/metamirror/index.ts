@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaMirror',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',

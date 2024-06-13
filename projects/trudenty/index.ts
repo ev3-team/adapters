@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'hz3nza',
   description:
-    'Trudenty is a consumer data network providing fraud risk scores for customers and autonomously executes personalised customer experiences based on risk in real time.',
+    'Trudenty Trust Network is a machine-learning powered network for data-sharing that enables merchants, acquirers and issuers to collaborate and identify friendly fraudsters in the ecosystem',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/trudenty/',

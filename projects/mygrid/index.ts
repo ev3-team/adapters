@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MyGrid',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Hardware',
   chain: null,
-  category: 'ENERGY',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'rpvm9n',
   description:
-    'MyGrid is a start-up on a mission to empower all households to partake in the energy transition and regain energy ownership.',
+    'MyGrid offers a plug-and-play home energy solution, allowing users to manage their electricity consumption, lower their bills, and reduce their carbon footprint.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/mygrid-energy/',

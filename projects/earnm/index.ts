@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'EARNM',
   coinGeckoID: null,
   id: 'glylqg',

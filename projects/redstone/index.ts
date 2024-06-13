@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RedStone',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: 'REDSTONE',
   coinGeckoID: 'redstone',
   id: 'ap3amn',
   description:
-    'RedStone is an Oracle that delivers frequently updated, reliable, and diverse data feeds for your dApp and smart contracts on multiple L1s & L2s.',
+    'RedStone Finance is a decentralized Oracle solution that aims to provide reliable and up-to-date data feeds for dApps and smart contracts across various Layer 1 and Layer 2 blockchains.',
   discord: null,
   investors: [
     'bspyld',

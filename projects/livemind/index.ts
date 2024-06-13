@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LiveMind',
-  ninja: null,
+  ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'AI',

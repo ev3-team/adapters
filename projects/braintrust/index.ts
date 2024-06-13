@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Braintrust',
-  ninja: null,
+  ninja: 'Mahesh | Escape Velocity',
   subcategories: 'Labor',
   chain: 'ETHEREUM',
   category: 'SERVICES',
@@ -68,8 +68,8 @@ export default {
   foundingYear: null,
   blog: 'https://medium.com/tag/braintrust',
   github: null,
-  telegram: null,
-  twitter: 'https://t.me/braintrustofficial',
+  telegram: 'https://t.me/braintrustofficial',
+  twitter: 'https://twitter.com/usebraintrust',
   url: 'https://www.usebraintrust.com/',
   verified: false,
   fundraises: [

@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: 'Hardware',
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'auplyk',
