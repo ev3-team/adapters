@@ -11,7 +11,7 @@ export default {
   id: 'efuprt',
   description:
     'Polywrap leverages AI agents to make peer-to-peer protocols easier to use, compose, and integrate into powerful applications.',
-  discord: null,
+  discord: '796821176743362611',
   investors: [],
   linkedin: null,
   duneQueries: null,

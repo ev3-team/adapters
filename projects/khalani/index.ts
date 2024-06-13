@@ -11,7 +11,7 @@ export default {
   id: '80qryr',
   description:
     'Khalani is the first decentralized solvers platform for intent-driven generative coordination.',
-  discord: null,
+  discord: '1118192786127212578',
   investors: [],
   linkedin: null,
   duneQueries: null,

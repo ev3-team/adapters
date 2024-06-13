@@ -11,7 +11,7 @@ export default {
   id: '89c3bx',
   description:
     'Yoosend is an advanced decentralized cloud storage and file transfer solution for personal and business use.',
-  discord: null,
+  discord: '1088807081047511151',
   investors: [],
   linkedin: null,
   duneQueries: null,

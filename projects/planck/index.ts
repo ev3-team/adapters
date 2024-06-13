@@ -11,7 +11,7 @@ export default {
   id: 'y56p4w',
   description:
     'Planck is a decentralized computing and AI platform that allows people to easily share their unused computer capacity and make money while providing developers with computing power and AI models to build AI-driven applications.',
-  discord: null,
+  discord: '1158108429253099541',
   investors: [],
   linkedin: null,
   duneQueries: null,

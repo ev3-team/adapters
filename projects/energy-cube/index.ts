@@ -11,7 +11,7 @@ export default {
   id: '208uca',
   description:
     'Energy Cube is a Decentralized Energy Network optimizing global energy use with the Ec³ Cube device, enabling data-driven participation in the energy market.',
-  discord: null,
+  discord: '1198848743068422255',
   investors: [],
   linkedin: null,
   duneQueries: null,

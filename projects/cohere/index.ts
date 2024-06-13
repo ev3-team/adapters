@@ -11,7 +11,7 @@ export default {
   id: 'b71ut1',
   description:
     'Cohere is a leading Enterprise AI Platform optimized for enterprise generative AI, search and discovery, and advanced retrieval.',
-  discord: null,
+  discord: '954421988141711382',
   investors: [],
   linkedin: null,
   duneQueries: null,

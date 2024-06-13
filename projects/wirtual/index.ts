@@ -11,7 +11,7 @@ export default {
   id: '6k69oz',
   description:
     'WIRTUAL is a Web3 Exercise to Earn platform that allows users to earn WIRTUAL coins through exercise and exchange coins for store purchases or discounts.',
-  discord: null,
+  discord: '937718515891310622',
   investors: [],
   linkedin: null,
   duneQueries: null,

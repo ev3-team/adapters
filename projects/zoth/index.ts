@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '4l25dn',
   description: 'Zoth is an on-chain marketplace for Real World Assets (RWAs).',
-  discord: null,
+  discord: '1206918500900413480',
   investors: [
     'oixym4',
     'wv0c6u',

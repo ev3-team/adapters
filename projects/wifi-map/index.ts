@@ -11,7 +11,7 @@ export default {
   id: 'xz6ffz',
   description:
     'WiFi Map is a decentralized connectivity ecosystem mapping 10m+ WiFi hotspots globally.',
-  discord: null,
+  discord: '1027968689439510639',
   investors: ['7zvxz8', 'b1ba0p'],
   linkedin: 'http://www.linkedin.com/company/wifi-map-llc',
   duneQueries: {

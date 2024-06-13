@@ -11,7 +11,7 @@ export default {
   id: 'n33nuc',
   description:
     'Zentachain is a decentralized high-throughput blockchain ecosystem designed for secure offline IoT communication.',
-  discord: null,
+  discord: '1017427959981822084',
   investors: [],
   linkedin: null,
   duneQueries: null,

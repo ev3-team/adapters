@@ -11,7 +11,7 @@ export default {
   id: 'eiyl95',
   description:
     'DIN is the First Modular AI-Native Data Pre-Processing Layer, designed to empower everyone to cook data for AI and get paid.',
-  discord: null,
+  discord: '970955010160594977',
   investors: ['ir12xk', '4l8mmr', 'mrgeec', 'nxzb7m', 'ffo7hj', 'soy2bu', '07pxi6', 'lhs5s8'],
   linkedin: null,
   duneQueries: null,

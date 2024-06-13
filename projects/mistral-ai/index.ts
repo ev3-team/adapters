@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'dtkxu9',
   description: 'Mistral AI is an open and portable generative AI for devs and businesses.',
-  discord: null,
+  discord: '1144547040454508606',
   investors: [],
   linkedin: null,
   duneQueries: null,

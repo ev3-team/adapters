@@ -11,7 +11,7 @@ export default {
   id: 'jog9r3',
   description:
     'Zano is an enterprise-grade privacy platform, scalable and private, built for privacy-protected tokens and decentralized applications.',
-  discord: null,
+  discord: '538361472691077130',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'fasbh5',
   description:
     'WeaveDB is a decentralized, NoSQL database system that uses the Arweave network as its underlying storage layer. It is designed to offer a scalable, secure, and fast solution for data storage.',
-  discord: null,
+  discord: '952234240840454194',
   investors: [],
   linkedin: null,
   duneQueries: null,

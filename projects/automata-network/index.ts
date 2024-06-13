@@ -11,7 +11,7 @@ export default {
   id: 'so4way',
   description:
     'Automata Network is a modular attestation layer that extends machine-level trust to Ethereum by leveraging optimistic rollups and zero-knowledge proofs.',
-  discord: null,
+  discord: '812990347114315786',
   investors: [],
   linkedin: null,
   duneQueries: null,
