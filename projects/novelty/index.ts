@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Novelty',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'epv76j',
   description:
-    'Novelty Today is a company that utilizes blockchain technology to create customizable and decentralized identities, providing individuals with a verifiable record of their skills & achievements.',
+    'novelty is Web3-based service for generating customizable decentralized identities: a readable, confirmed record of a person’s interests, skillset, accomplishments, and activities.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/novelty-today/',

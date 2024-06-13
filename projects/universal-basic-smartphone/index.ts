@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: 'Mobile',
   chain: 'TON',
-  category: 'SENSORS',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'dcyot8',

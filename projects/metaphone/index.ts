@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'Mobile',
   chain: null,
-  category: 'SENSORS',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'prs8dc',

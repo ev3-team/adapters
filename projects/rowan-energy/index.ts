@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'rowan-coin',
   id: 'erdh9p',
   description:
-    'Developer of a Community Supported Green Energy Blockchain. Members will be able to buy their energy from other members who produce it using solar panels.',
+    'Rowan Energy is building a community-fed green energy system where members can buy their energy from other members who produce it using solar panels.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/rowanenergy/',

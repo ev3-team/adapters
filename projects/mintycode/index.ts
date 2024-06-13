@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mintycode',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'WIRELESS',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: '98du7c',
   description:
-    'MintyCode is a decentralized IP marketplace that offers new monetization opportunities and protects the copyright of software developers who contribute to open source.',
+    'MintyCode is a decentralized marketplace that helps software creators monetize their work by selling priority support, and feature requests, and helps buyers of Open Source Software pay for priority support.',
   discord: null,
   investors: [],
   linkedin: 'https://linkedin.com/company/mintycode-dao',
