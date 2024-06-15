@@ -11,7 +11,7 @@ export default {
   id: 'dco6fo',
   description:
     'Solana Mobile, a subsidiary of Solana Labs, develops Saga, an Android mobile phone tightly integrated with the Solana blockchain, enabling easy and secure transactions in web3 and management of digital assets like tokens and NFTs.',
-  discord: null,
+  discord: '988649555283308564',
   investors: [],
   linkedin: null,
   duneQueries: null,

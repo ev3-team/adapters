@@ -11,7 +11,7 @@ export default {
   id: 'wbxh04',
   description:
     'Reppo is a pioneering AI-powered Open Composable Reputation Infrastructure to scale DePINs.',
-  discord: null,
+  discord: '749188302023950377',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '90b0aw',
   description:
     'HEALE is an open, decentralized logistics infrastructure that streams real-world data from smart devices to compute "proofs of real-world activity," triggering smart contracts to tokenize data, automate shipments, distribute payments, and reward behaviors.',
-  discord: null,
+  discord: '947659106330767360',
   investors: [],
   linkedin: null,
   duneQueries: null,

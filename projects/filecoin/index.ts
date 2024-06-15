@@ -11,7 +11,7 @@ export default {
   id: 'r1uv9t',
   description:
     'Filecoin is the largest decentralized data storage marketplace, protocol, & cryptocurrency.',
-  discord: null,
+  discord: '1210612276357500978',
   investors: [
     'd40or5',
     'zloyr1',
