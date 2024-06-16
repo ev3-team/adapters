@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'solcial',
   id: 'x3xjx4',
   description: 'Solcial is a decentralised social network on the Solana blockchain.',
-  discord: null,
+  discord: '1140549119258140722',
   investors: [],
   linkedin: null,
   duneQueries: null,

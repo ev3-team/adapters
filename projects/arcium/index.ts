@@ -11,7 +11,7 @@ export default {
   id: 'v29y88',
   description:
     'Arcium is a parallelized confidential computing network that provides developers and applications with a trustless, verifiable, and efficient framework to run encrypted computations.',
-  discord: null,
+  discord: '963285822327652403',
   investors: [],
   linkedin: null,
   duneQueries: null,
