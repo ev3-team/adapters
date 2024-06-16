@@ -17,9 +17,9 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 't.me/Suanbot',
   twitter: null,
-  url: 't.me/Suanbot',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

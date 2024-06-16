@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/0xSplits',
   telegram: null,
   twitter: 'https://twitter.com/0xsplits',
-  url: 'http://www.0xsplits.xyz/',
+  url: 'https://splits.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

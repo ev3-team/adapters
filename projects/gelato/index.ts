@@ -39,7 +39,7 @@ export default {
   github: 'https://github.com/gelatodigital',
   telegram: 'https://t.me/gelatonetwork',
   twitter: 'https://twitter.com/gelatonetwork',
-  url: 'https://ops.gelato.network/',
+  url: 'https://www.gelato.network/',
   verified: false,
   fundraises: [
     {

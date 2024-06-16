@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/kreskohq/',
   telegram: 'https://t.me/kreskofi',
   twitter: 'https://twitter.com/kreskofi',
-  url: 'https://www.kresko.fi/',
+  url: 'https://kresko.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

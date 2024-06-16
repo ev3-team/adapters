@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: 'https://t.me/gomutual',
   twitter: 'https://twitter.com/go_mutual',
-  url: 'https://www.gomutual.io/',
+  url: 'https://www.gooddriver.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -66,8 +66,8 @@ export default {
   blog: 'https://medium.com/@SupraOracles',
   github: null,
   telegram: 'https://t.me/SupraOracles',
-  twitter: 'https://twitter.com/SupraOracles',
-  url: 'https://supraoracles.com/',
+  twitter: 'https://twitter.com/SUPRA_Labs',
+  url: 'https://supra.com/',
   verified: false,
   fundraises: [
     {

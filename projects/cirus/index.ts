@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: 'https://en.telghub.com/content?id=16359',
   twitter: 'http://www.twitter.com/Cirusfoundation',
-  url: 'https://www.cirusfoundation.com/',
+  url: 'https://www.cirus.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

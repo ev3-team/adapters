@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'QLC',
+  name: 'Kepple',
   ninja: null,
   subcategories: null,
-  chain: null,
+  chain: 'BINANCE',
   category: 'WIRELESS',
-  token: null,
-  coinGeckoID: null,
+  token: 'KPL',
+  coinGeckoID: 'kepple',
   id: 'xpng8u',
   description:
-    'QLC Chain is a next-gen public Blockchain enabling service providers and network operators.',
+    'Kepple (previously QLC Chain) brings Web3 features on the BNB Chain to Social Media platforms through an All-In-One Extension',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/qlcchain',
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: 'https://t.me/KeppleAnnouncements',
   twitter: 'https://twitter.com/kepple_io',
-  url: 'http://www.qlcchain.org/',
+  url: 'https://kepple.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'cmvmnd',
-  description: 'DROPPS is a decentralized infrastructure for the new creative economy.',
+  description:
+    'DROPPS is a decentralized infrastructure for the new creative economy, building LOOKSO and LEEQUID on top of LUKSO.',
   discord: '900360236051865650',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dropps-io/',

@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: 'https://t.me/QualooNetwork',
   twitter: 'https://twitter.com/Qualoo_Network',
-  url: 'https://www.qualoo.io/',
+  url: 'https://www.qualoo.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -19,8 +19,8 @@ export default {
   blog: 'https://mantraomniverse.medium.com/',
   github: null,
   telegram: 'https://t.me/MANTRA_omniverse',
-  twitter: 'https://twitter.com/MANTRAOMniverse',
-  url: 'https://www.mantraomniverse.com/',
+  twitter: 'https://twitter.com/MANTRA_Chain',
+  url: 'https://www.mantrachain.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

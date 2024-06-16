@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://rangeview.co/',
+  url: 'https://rangeview.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

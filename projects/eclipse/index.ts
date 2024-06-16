@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: 'https://t.me/eclipse_labs',
   twitter: 'https://twitter.com/EclipseFND',
-  url: 'https://www.eclipse.builders/',
+  url: 'https://www.eclipse.xyz/',
   verified: false,
   fundraises: [
     {

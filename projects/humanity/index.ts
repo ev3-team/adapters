@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Humanityprot',
-  url: 'https://cfh.xyz/',
+  url: 'https://www.humanity.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

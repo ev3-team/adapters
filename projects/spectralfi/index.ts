@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://www.spectral.finance/',
+  twitter: 'https://twitter.com/Spectral_Labs',
+  url: 'https://www.spectrallabs.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

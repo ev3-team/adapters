@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/pluralenergy',
-  url: 'https://www.pluralenergy.co/',
+  url: 'https://www.plural.xyz/',
   verified: false,
   fundraises: [
     {

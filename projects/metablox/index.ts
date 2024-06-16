@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'k5fxwj',
   description:
-    'Metablox is a provider of enterprise-grade WiFi roaming solutions, delivering worldwide public access.',
+    'Roam by MetaBlox is a decentralized Global WiFi network that offers seamless roaming, advanced network security, and rewards users for every connection and check-in around the world.',
   discord: '916937100744597548',
   investors: [
     'fahk60',
@@ -34,7 +34,7 @@ export default {
   blog: 'https://metabloxnetwork.medium.com/metablox-x-cryptolab-ama-recap-highlights-ba556d3ce506',
   github: 'https://github.com/MetaBloxIO',
   telegram: null,
-  twitter: 'https://twitter.com/metablox',
+  twitter: 'https://twitter.com/weRoamxyz',
   url: 'https://metablox.io/',
   verified: false,
   fundraises: [

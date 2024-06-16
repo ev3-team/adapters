@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://cyberconnect.me/',
+  twitter: 'https://twitter.com/BuildOnCyber',
+  url: 'https://cyber.co/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

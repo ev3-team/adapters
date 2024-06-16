@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/dekube_official',
-  url: 'https://dekube.net/',
+  url: 'https://dekube.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

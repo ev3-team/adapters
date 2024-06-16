@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/MASQ-Project',
   telegram: 'https://t.me/MASQ_ai',
   twitter: 'https://twitter.com/MASQ_ai',
-  url: 'https://masq.ai/',
+  url: 'https://www.masqbrowser.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

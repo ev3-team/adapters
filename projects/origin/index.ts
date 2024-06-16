@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/useorigin',
-  url: 'https://originsystems.xyz/',
+  url: 'https://www.useorigin.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

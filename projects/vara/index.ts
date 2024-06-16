@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://vara-network.io/',
+  url: 'https://vara.network/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

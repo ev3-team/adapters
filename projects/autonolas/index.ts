@@ -23,7 +23,7 @@ export default {
   github: 'https://github.com/valory-xyz',
   telegram: null,
   twitter: 'https://twitter.com/autonolas',
-  url: 'https://www.autonolas.network/',
+  url: 'https://olas.network/',
   verified: false,
   fundraises: [
     {

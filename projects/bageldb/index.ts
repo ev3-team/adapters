@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://www.bageldb.ai/',
+  url: 'https://www.bagel.net/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

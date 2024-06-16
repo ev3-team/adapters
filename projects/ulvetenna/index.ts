@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://www.ulvetanna.io/',
+  url: 'https://www.irreducible.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
