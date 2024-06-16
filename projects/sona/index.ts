@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://sona.stream/',
+  twitter: 'https://twitter.com/sonu_stream',
+  url: 'https://sonu.stream/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

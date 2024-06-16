@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'zug89a',
-  description: 'Ylide Protocol: secure cross-chain wallet communication for Web3 projects.',
+  description:
+    'Ylide Protocol is a Web3 communication protocol that empowers developers and Web3 founders to create advanced communication apps easily. ',
   discord: '988385336713429004',
   investors: ['jtzx5o', '6nxw7d', 'bxcu1r', '7vs71r', 'o76txg'],
   linkedin: 'http://www.linkedin.com/company/ylide',

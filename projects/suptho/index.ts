@@ -29,7 +29,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/SupthoApp',
-  url: 'https://www.suptho.xyz/',
+  url: 'https://www.suptho.co/',
   verified: false,
   fundraises: [
     {

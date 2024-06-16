@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/TromeroAI',
-  url: 'https://www.tromero.org/',
+  url: 'https://www.tromero.ai/',
   verified: false,
   fundraises: [
     {

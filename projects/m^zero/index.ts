@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/m0foundation',
-  url: 'https://www.m0.xyz/',
+  url: 'https://www.m0.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

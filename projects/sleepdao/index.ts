@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://www.waterbear.science/projects/65cc1fa4-05e4-4ea0-a85e-2422fd6cbe00',
+  url: 'https://www.waterbear.science/projects/9965fb91-d0da-4724-b925-9a503dc4af27',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: 'https://t.me/MetaMirror',
   twitter: 'https://twitter.com/Auth3MetaMirror',
-  url: 'https://www.metamirror.space/',
+  url: 'https://mbuddy.metamirror.space/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

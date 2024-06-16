@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/masa-finance/',
   telegram: 'https://t.me/masafinance',
   twitter: 'https://twitter.com/getmasafi',
-  url: 'https://www.masa.finance/',
+  url: 'https://www.masa.ai/',
   verified: false,
   fundraises: [
     {

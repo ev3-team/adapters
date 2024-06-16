@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://opsec.software/',
+  url: 'https://opsec.computer/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

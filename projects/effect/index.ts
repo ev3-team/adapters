@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/effectaix',
-  url: 'https://effect.network/',
+  url: 'https://effect.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

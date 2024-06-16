@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://www.alpha.glowstick.xyz/',
+  url: 'https://glowstick3d.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

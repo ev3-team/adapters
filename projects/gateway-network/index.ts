@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/Gateway-DAO',
   telegram: null,
   twitter: 'https://twitter.com/gateway_xyz',
-  url: 'https://www.mygateway.xyz/',
+  url: 'https://mygateway.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

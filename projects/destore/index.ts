@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/DeStore_Network',
   url: 'https://www.destore.network/',
   verified: false,
   fundraises: [],

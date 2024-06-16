@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'NFT3',
+  name: 'Root Protocol',
   ninja: null,
   subcategories: null,
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
-  token: null,
-  coinGeckoID: null,
+  token: 'ISME',
+  coinGeckoID: 'root-protocol',
   id: 'z1ks7o',
   description:
-    'NFT3 Labs is a virtual identity framework, enabling personal monetization and identity-lveraging in Web3 applications.',
+    'Root Protocol is building a Web3 operating system that will serve as a digital identity aggregator to make accessing different Web3 platforms a more seamless process.',
   discord: '968326172528222268',
   investors: [
     'gjt0lb',
@@ -47,11 +47,11 @@ export default {
   linkedin: 'http://www.linkedin.com/company/nft3',
   duneQueries: null,
   foundingYear: null,
-  blog: 'https://medium.com/nft3',
+  blog: 'https://root-labs.medium.com/',
   github: 'https://github.com/nft3labs',
-  telegram: 'https://t.me/nft3com',
-  twitter: 'https://twitter.com/nft3com',
-  url: 'https://nft3.com/',
+  telegram: 'https://t.me/rootlabs',
+  twitter: 'https://twitter.com/0xRootLabs',
+  url: 'https://root.xyz/',
   verified: false,
   fundraises: [
     {

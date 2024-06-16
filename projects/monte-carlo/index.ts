@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/montecarlostyle',
-  url: 'https://monte-carlo.ai/',
+  url: 'https://montecarlo.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

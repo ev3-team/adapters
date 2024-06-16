@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/smartislandibz',
-  url: 'http://smartislandibiza.com/',
+  url: 'https://smartislandibiza.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

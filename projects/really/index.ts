@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'twhfdd',
-  description: 'Really Wireless is a decentralized mobile network based in Austin, Texas.',
+  description:
+    'REALLY is a decentralized wireless network that offers fully encrypted, private mobile services.',
   discord: null,
   investors: ['4bc5rd', 'fyqab6', 'vydmt3', '1bq4ds', 'wlpny1', 'tqh3bl'],
   linkedin: 'http://www.linkedin.com/company/reallywireless',

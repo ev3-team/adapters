@@ -18,8 +18,8 @@ export default {
   blog: null,
   github: 'https://github.com/WeatherFlow',
   telegram: null,
-  twitter: 'https://twitter.com/weatherflow',
-  url: 'https://weatherflow.com/',
+  twitter: 'https://twitter.com/tempest_wx',
+  url: 'https://tempest.earth/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

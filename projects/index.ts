@@ -131,7 +131,6 @@ import aston from './aston'
 import astral from './astral'
 import astran from './astran'
 import astria from './astria'
-import async from './async'
 import asyrt from './asyrt'
 import athena from './athena'
 import athenas from './athenas'
@@ -859,6 +858,7 @@ import katzentracker from './katzentracker'
 import kebapp from './kebapp'
 import keet from './keet'
 import kenshi from './kenshi'
+import kepple from './kepple'
 import ketchupRepublic from './ketchup-republic'
 import khalani from './khalani'
 import kilt from './kilt'
@@ -1090,7 +1090,6 @@ import nextdata from './nextdata'
 import nexus from './nexus'
 import nfai from './nfai'
 import nfprompt from './nfprompt'
-import nft3 from './nft3'
 import ngrave from './ngrave'
 import nilFoundation from './nil-foundation'
 import nillionNetwork from './nillion-network'
@@ -1304,7 +1303,6 @@ import qBlocks from './q-blocks'
 import qCtrl from './q-ctrl'
 import qanplatform from './qanplatform'
 import qiro from './qiro'
-import qlc from './qlc'
 import qna3 from './qna3'
 import qowatt from './qowatt'
 import qrl from './qrl'
@@ -1384,6 +1382,7 @@ import robotera from './robotera'
 import robotized from './robotized'
 import roko from './roko'
 import rollbitCoin from './rollbit-coin'
+import rootProtocol from './root-protocol'
 import roso from './roso'
 import routie from './routie'
 import rovi from './rovi'
@@ -1575,13 +1574,12 @@ import sylo from './sylo'
 import synapsec from './synapsec'
 import synesisOne from './synesis-one'
 import synonai from './synonai'
-import syntropy from './syntropy'
+import synternet from './synternet'
 import synx from './synx'
 import taDa from './ta-da'
 import tabbypos from './tabbypos'
 import tachyon from './tachyon'
 import taiko from './taiko'
-import tal from './tal'
 import taliot from './taliot'
 import talus from './talus'
 import tanssi from './tanssi'
@@ -1963,7 +1961,6 @@ export const projects = {
   astral,
   astran,
   astria,
-  async,
   asyrt,
   athena,
   athenas,
@@ -2691,6 +2688,7 @@ export const projects = {
   kebapp,
   keet,
   kenshi,
+  kepple,
   ketchupRepublic,
   khalani,
   kilt,
@@ -2922,7 +2920,6 @@ export const projects = {
   nexus,
   nfai,
   nfprompt,
-  nft3,
   ngrave,
   nilFoundation,
   nillionNetwork,
@@ -3136,7 +3133,6 @@ export const projects = {
   qCtrl,
   qanplatform,
   qiro,
-  qlc,
   qna3,
   qowatt,
   qrl,
@@ -3216,6 +3212,7 @@ export const projects = {
   robotized,
   roko,
   rollbitCoin,
+  rootProtocol,
   roso,
   routie,
   rovi,
@@ -3407,13 +3404,12 @@ export const projects = {
   synapsec,
   synesisOne,
   synonai,
-  syntropy,
+  synternet,
   synx,
   taDa,
   tabbypos,
   tachyon,
   taiko,
-  tal,
   taliot,
   talus,
   tanssi,

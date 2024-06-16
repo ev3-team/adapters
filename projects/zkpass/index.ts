@@ -19,7 +19,7 @@ export default {
   github: 'https://github.com/zkPassOfficial',
   telegram: null,
   twitter: 'https://twitter.com/zkPass',
-  url: 'https://zkpass.org/home',
+  url: 'https://zkpass.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
