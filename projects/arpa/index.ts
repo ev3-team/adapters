@@ -11,7 +11,7 @@ export default {
   id: 'ilm8kz',
   description:
     'ARPA Network is a decentralized secure computation network enhancing blockchain security and privacy through its threshold BLS signature infrastructure, supporting applications like verifiable RNG, secure wallets, and cross-chain bridges.',
-  discord: null,
+  discord: '1008819223998509138',
   investors: [],
   linkedin: null,
   duneQueries: null,

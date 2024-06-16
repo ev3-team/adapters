@@ -11,7 +11,7 @@ export default {
   id: 'ut3zdh',
   description:
     'AANN.ai Lab is the creator of a next-generation AI-powered social Authenticity Network "AN" which is designed to help users elevate, grow, and monetize their online social authenticity.',
-  discord: null,
+  discord: '1129326475510812753',
   investors: [],
   linkedin: null,
   duneQueries: null,

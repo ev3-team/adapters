@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/Getantic',
-  url: 'https://www.antic.xyz/',
+  url: 'https://www.getantic.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

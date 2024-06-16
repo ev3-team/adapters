@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 't42uy8',
   description: 'Agridex is an RWA Marketplace focused on tokenizing agricultural commodities.',
-  discord: null,
+  discord: '940826514717569025',
   investors: [],
   linkedin: null,
   duneQueries: null,

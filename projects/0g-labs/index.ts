@@ -11,7 +11,7 @@ export default {
   id: '3klhti',
   description:
     '0G is an infinitely scalable data availability (DA) layer and modular AI blockchain.',
-  discord: null,
+  discord: '1210423309808963594',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'y5j1bu',
   description: "Aleo is a privacy-first Layer-1 blockchain that's zero-knowledge by design.",
-  discord: null,
+  discord: '700454073459015690',
   investors: [],
   linkedin: null,
   duneQueries: null,

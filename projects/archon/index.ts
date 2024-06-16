@@ -11,7 +11,7 @@ export default {
   id: 'vltnk6',
   description:
     'Archon is a developer of a decentralized protocol enabling scientific research with secure storage, access, and governance.',
-  discord: '248822834317492245',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,
