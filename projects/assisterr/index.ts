@@ -11,7 +11,7 @@ export default {
   id: 'u1muwp',
   description:
     'assisterr is and incentive-driven Network of Community-owned AI Models for Developers, Autonomous AI agents, and Enterprises.',
-  discord: null,
+  discord: '1081284500543246448',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'ttxmp2',
   description:
     'AthenaDAO is a Community-Owned Translational Research Engine that focuses on supporting and incubating women’s health research projects during the initial stages of translational research.',
-  discord: null,
+  discord: '862703551860047902',
   investors: [],
   linkedin: null,
   duneQueries: null,

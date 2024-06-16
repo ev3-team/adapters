@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/beoble_official',
   url: 'https://www.beoble.io/',
   verified: false,
   fundraises: [],

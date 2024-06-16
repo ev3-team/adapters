@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/BAZEDBET',
+  twitter: 'https://x.com/bazedarmy',
   url: 'https://bazed.bet/',
   verified: false,
   fundraises: [],

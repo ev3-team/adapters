@@ -11,7 +11,7 @@ export default {
   id: 'qkto8r',
   description:
     'Bepro is a task-based marketplace created to help organizations and builders. Organizations can easily create and launch tasks, while builders have the opportunity to work on them and earn crypto as payment.',
-  discord: null,
+  discord: '849009081795739669',
   investors: [],
   linkedin: null,
   duneQueries: null,
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/bepronet',
   url: 'https://bepro.network/',
   verified: false,
   fundraises: [],

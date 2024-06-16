@@ -11,7 +11,7 @@ export default {
   id: 'tc8r0r',
   description:
     'BasedAF is leveraging real-time rendering to create TV shows inside video game worlds.',
-  discord: null,
+  discord: '1044907417407852554',
   investors: [],
   linkedin: null,
   duneQueries: null,

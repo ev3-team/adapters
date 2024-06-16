@@ -11,7 +11,7 @@ export default {
   id: '52m3lc',
   description:
     'AXEL App is a decentralized, distributed device-to-device file management system that allows sharing and storage without compromising privacy. ',
-  discord: null,
+  discord: '407699573381791755',
   investors: [],
   linkedin: null,
   duneQueries: null,
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/axelunlimited',
   url: 'https://www.axel.org/',
   verified: false,
   fundraises: [],

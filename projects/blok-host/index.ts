@@ -11,7 +11,7 @@ export default {
   id: 'dc0ua7',
   description:
     "Blok.Host is a Decentralised Content Delivery Network (dCDN) that empowers users to quickly deploy their websites and use the platform's node network to distribute content.",
-  discord: null,
+  discord: '1002482564726010016',
   investors: [],
   linkedin: null,
   duneQueries: null,

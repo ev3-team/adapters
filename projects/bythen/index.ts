@@ -11,7 +11,7 @@ export default {
   id: 'mwhwcp',
   description:
     'Bythen is building a decentralized platform that enables users to create personalized Al Avatars, from Al companions enhancing daily productivity to gaming bots and digital influencers, offering new monetization avenues.',
-  discord: null,
+  discord: '1180027646239834183',
   investors: [],
   linkedin: null,
   duneQueries: null,
