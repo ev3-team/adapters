@@ -11,7 +11,7 @@ export default {
   id: '7ym51p',
   description:
     'Covenant is a capital-efficient borrowing and lending protocol that can accept any crypto asset as collateral.',
-  discord: null,
+  discord: '1117874500168589394',
   investors: [],
   linkedin: null,
   duneQueries: null,
