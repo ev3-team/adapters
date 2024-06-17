@@ -11,7 +11,7 @@ export default {
   id: 'iyi6t5',
   description:
     "Ethernity Cloud is a decentralized confidential computing ecosystem that enforces privacy for the user's data and transparency for the operations that process this data.",
-  discord: null,
+  discord: '183867536931160064',
   investors: [],
   linkedin: null,
   duneQueries: null,

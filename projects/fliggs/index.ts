@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'fliggs',
-  ninja: null,
+  ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/fliggs_mobile',
-  url: 'https://fliggs.com/en',
+  url: 'https://www.fliggsmobile.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

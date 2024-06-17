@@ -11,7 +11,7 @@ export default {
   id: 'w0ifd2',
   description:
     'BlockFlow is a platform that simplifies the process of setting up database backends for dApps utilizing event-driven functionalities.',
-  discord: null,
+  discord: '1186688557994233887',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/blockfloww/',
   duneQueries: null,

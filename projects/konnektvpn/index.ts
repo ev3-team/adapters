@@ -11,7 +11,7 @@ export default {
   id: '9rn01z',
   description:
     "KonnektVPN is a Next Generation VPN powered and driven by AI to enhance user's digital experience. While users use the app, they help train the AI and earn rewards.",
-  discord: null,
+  discord: '1168892183068295328',
   investors: [],
   linkedin: null,
   duneQueries: null,

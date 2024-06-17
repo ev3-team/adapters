@@ -11,7 +11,7 @@ export default {
   id: '0iwefi',
   description:
     'AxonDAO is creating a DeSci system and global protocol that pays verified clinical trial participants and therapists in tokens for collecting biometric data.',
-  discord: null,
+  discord: '909214044085432374',
   investors: [],
   linkedin: null,
   duneQueries: null,

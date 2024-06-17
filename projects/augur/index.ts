@@ -11,7 +11,7 @@ export default {
   id: 'boagvx',
   description:
     'Augur is a decentralized prediction market platform that utilizes Ethereum smart contracts to create a trustless oracle and forecasting tool where users can speculate on the outcome of events.',
-  discord: null,
+  discord: '378030344374583298',
   investors: [],
   linkedin: null,
   duneQueries: null,

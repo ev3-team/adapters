@@ -11,7 +11,7 @@ export default {
   id: 't69457',
   description:
     'StorX is a decentralized cloud storage network enabling permissionless selling/leasing of storage capacity.',
-  discord: '1041587307419017246',
+  discord: '805710560083181578',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/storxnetwork',
   duneQueries: null,

@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rangeview',
-  ninja: null,
+  ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'u0jkdv',
-  description: 'Developer of industrial machinery designed to make aerospace parts.',
+  description: 'Rangeview is a developer of industrial machinery designed to make aerospace parts.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/rangeview',
@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://rangeview.co/',
+  url: 'https://rangeview.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

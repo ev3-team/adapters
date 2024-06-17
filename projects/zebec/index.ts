@@ -11,7 +11,7 @@ export default {
   id: '6krmhm',
   description:
     'Zebec Network is a DePIN and RWA Payments Network that enables real-time and secure transactions for assets, services, or contracts.',
-  discord: null,
+  discord: '881716805234745375',
   investors: [],
   linkedin: null,
   duneQueries: null,

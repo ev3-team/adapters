@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'oevejl',
   description:
-    'Hyperspace is a decentralized prompt engine for making AI better, faster, and cheaper at-scale.',
+    'aiOS by Hyperspace is a decentralized AI network, enabling users to run nodes and create AI agents using the Mistral-7B model on their own devices without monthly subscriptions.',
   discord: null,
   investors: [
     't2as8g',
@@ -25,14 +25,14 @@ export default {
     '18r8ir',
     'pp6ut1',
   ],
-  linkedin: 'http://www.linkedin.com/company/hyperspacegl',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/hyperspaceorg',
-  url: 'https://hyperspace.foundation/',
+  twitter: 'https://x.com/HyperspaceAI',
+  url: 'https://aios.network/',
   verified: false,
   fundraises: [
     {

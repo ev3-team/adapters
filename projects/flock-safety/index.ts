@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flock Safety',
-  ninja: null,
+  ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'kcetq1',
   description:
-    'Developer of camera technology designed to capture images to eliminate crime while protecting privacy.',
+    'Flock Safety is a developer of a camera technology designed to capture images to eliminate crime while protecting privacy.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/flock-safety/',

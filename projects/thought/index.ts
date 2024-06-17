@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'thought',
   id: '0bu4wx',
   description: 'ThoughtAI is an adaptive AI using Self-Aware Intelligent Software Agents.',
-  discord: null,
+  discord: '851496798731501598',
   investors: [],
   linkedin: null,
   duneQueries: null,

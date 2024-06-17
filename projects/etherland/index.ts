@@ -11,7 +11,7 @@ export default {
   id: 'z4helo',
   description:
     "Etherland is digitalizing real-estate properties and their owners' legal documents, granting unhinged traceability and immutability through Blockchain and IPFS technologies.",
-  discord: null,
+  discord: '797343471379152917',
   investors: [],
   linkedin: null,
   duneQueries: null,

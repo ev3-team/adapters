@@ -11,7 +11,7 @@ export default {
   id: '5c2tug',
   description:
     'Multisynq is a decentralized, low-latency Synchronization Network, allowing individuals to monetize their surplus internet connection by selling bandwidth to developers creating unified experiences on the Internet.',
-  discord: null,
+  discord: '1219357019212087419',
   investors: ['ii5tnv', 'vxxepe', '4j98hb', 'unykak'],
   linkedin: null,
   duneQueries: null,

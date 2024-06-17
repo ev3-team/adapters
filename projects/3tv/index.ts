@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'jcp53v',
   description: '3TV.chat is a live-streaming app for creators and communities.',
-  discord: null,
+  discord: '963065410050220052',
   investors: [],
   linkedin: null,
   duneQueries: null,

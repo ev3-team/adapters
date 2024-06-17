@@ -11,7 +11,7 @@ export default {
   id: 'e1rwdv',
   description:
     '30sec is a watch-to-earn app that incentivizes users to actively watch ads, enabling companies to spread brand advertisements efficiently and cost-effectively.',
-  discord: null,
+  discord: '1077442116889882684',
   investors: [],
   linkedin: null,
   duneQueries: null,

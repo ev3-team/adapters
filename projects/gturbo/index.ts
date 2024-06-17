@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'GTURBO',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'COMPUTE',
+  token: null,
+  coinGeckoID: null,
+  id: '9stp66',
+  description: 'GTURBO is a cloud computing infrastructure platform',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/gturbo_depin',
+  url: null,
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

@@ -11,7 +11,7 @@ export default {
   id: 'g23dwt',
   description:
     'Andromeda is developing a decentralized on-chain operating system (aOS) for Web3, streamlining operations with enhanced accessibility and efficiency.',
-  discord: null,
+  discord: '932744941162098688',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'c01rpe',
   description:
-    'Diode is a Web3 software company committed to providing fundamental technologies for fully decentralized authentication and routing of network participants.',
+    'Diode enables fully trustless and decentralized communication for people and devices. ',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/diode-chain/',

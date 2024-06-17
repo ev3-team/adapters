@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/heurist_ai',
-  url: 'https://www.heurist.xyz/',
+  url: 'https://www.heurist.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

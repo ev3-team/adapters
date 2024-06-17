@@ -11,7 +11,7 @@ export default {
   id: 'kistgs',
   description:
     'DOMANI is an asset management protocol for DeFi that provides minting, trading, redeeming, and liquidity for non-custodial oracle-less tokenized portfolios (XTFs).',
-  discord: null,
+  discord: '761036014788935691',
   investors: [],
   linkedin: null,
   duneQueries: null,

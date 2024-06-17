@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/blocksquare_io',
   url: 'https://blocksquare.io/',
   verified: false,
   fundraises: [],

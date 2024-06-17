@@ -11,7 +11,7 @@ export default {
   id: 'gp6a8t',
   description:
     'Satori is a decentralized financial derivatives platform with an “off-chain aggregation and on-chain settlement” design.',
-  discord: null,
+  discord: '949080690685804544',
   investors: [],
   linkedin: null,
   duneQueries: null,

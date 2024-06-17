@@ -11,7 +11,7 @@ export default {
   id: 'fbhsnz',
   description:
     'Bluwhale is a decentralized AI personalization protocol that specializes in unlocking the full potential of decentralized applications (dApps) by extracting deep insights from consenting user wallets across a variety of blockchain networks.',
-  discord: null,
+  discord: '1219528526386958397',
   investors: [],
   linkedin: null,
   duneQueries: null,

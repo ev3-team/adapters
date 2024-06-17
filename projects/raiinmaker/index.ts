@@ -11,7 +11,7 @@ export default {
   id: 'bw9zs2',
   description:
     'Raiinmaker is a Web3 and AI tech company that offers the Raiinmaker AI Super App and Network Protocol, leveraging decentralized AI and Web3 to reward users for contributing to AI content creation, AI model training, and DePIN Node operation.',
-  discord: null,
+  discord: '925938679397105684',
   investors: [
     'z2j0xs',
     'buime9',

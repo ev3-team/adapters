@@ -11,7 +11,7 @@ export default {
   id: 'tde0ef',
   description:
     'Sinso is a Web3.0 Infrastructure Simplifying Decentralized HotData Cache and Data Governance.',
-  discord: null,
+  discord: '935486561368281139',
   investors: [
     'ovna62',
     's8v8am',

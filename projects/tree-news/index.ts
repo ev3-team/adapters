@@ -18,8 +18,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://twitter.com/treetokeneth',
+  twitter: 'https://twitter.com/treetokeneth',
+  url: 'https://www.treeofalpha.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

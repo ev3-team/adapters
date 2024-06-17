@@ -11,7 +11,7 @@ export default {
   id: 'w72dm1',
   description:
     'Shoggoth is a peer-to-peer, anonymous network for publishing and distributing open-source code, Machine Learning models, datasets and research papers.',
-  discord: null,
+  discord: '1168088807334219837',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -2,16 +2,16 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nillion Network',
-  ninja: null,
-  subcategories: 'L1/L2',
+  ninja: 'ZZ',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
   id: 'qb5fdz',
   description:
-    'Nillion is a distributed computing platform that expands trustless infrastructure into new use cases and verticals.',
-  discord: '248822834317492245',
+    'Nillion is a secure computation network that decentralizes trust for high value data in the same way that blockchains decentralized transactions.',
+  discord: '905926225120338000',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/nillionnetwork/',
   duneQueries: null,

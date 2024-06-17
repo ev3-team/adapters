@@ -19,7 +19,7 @@ export default {
   github: 'https://github.com/polybase',
   telegram: 'https://twitter.com/polybase_xyz?lang=en',
   twitter: 'https://twitter.com/polybase_xyz',
-  url: 'https://polybase.xyz/',
+  url: 'https://polybaselabs.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

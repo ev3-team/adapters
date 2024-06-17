@@ -11,7 +11,7 @@ export default {
   id: 'e21cru',
   description:
     'Ojo is a decentralized security-first oracle network built to securely support ecosystem-native assets. Ojo sources price data from a catalog of on and off-chain sources and uses advanced security mechanisms to guarantee the integrity of the data.',
-  discord: null,
+  discord: '1005907209907097610',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/VaultAIHub',
   url: 'https://vault.tech/',
   verified: false,
   fundraises: [],

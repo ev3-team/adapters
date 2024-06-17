@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '129gin',
   description: 'Decentralized Storage 3.0 Evolution - LWS Modular Storage Network',
-  discord: null,
+  discord: '998081240697679924',
   investors: [],
   linkedin: null,
   duneQueries: null,

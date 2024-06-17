@@ -11,7 +11,7 @@ export default {
   id: 'con8un',
   description:
     'Drife is a decentralized ride-hailing platform powered by blockchain with the intent of empowering both, the drivers and riders.',
-  discord: '1177521017917288448',
+  discord: null,
   investors: ['xmw0ev', 'lfbmt3', 'okjrd0', 'ka4f30', 'xxi1ub'],
   linkedin: 'https://www.linkedin.com/company/drifeofficial',
   duneQueries: null,

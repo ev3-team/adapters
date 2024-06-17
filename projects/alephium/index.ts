@@ -11,7 +11,7 @@ export default {
   id: 'agw79k',
   description:
     'Alephium is a blockchain platform that combines innovative sharding, a stateful sUTXO model, and Proof-of-Less-Work to deliver scalable, secure, and energy-efficient dApps for real-world applications.',
-  discord: null,
+  discord: '747741246667227157',
   investors: [],
   linkedin: null,
   duneQueries: null,

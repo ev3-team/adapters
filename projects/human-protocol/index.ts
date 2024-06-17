@@ -11,7 +11,7 @@ export default {
   id: 'g2eg60',
   description:
     'HUMAN Protocol is a decentralized marketplace for humans to contribute their reasoning, skills, and knowledge to help businesses build global technologies.',
-  discord: null,
+  discord: '786316364150341682',
   investors: [],
   linkedin: null,
   duneQueries: null,

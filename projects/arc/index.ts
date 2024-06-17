@@ -19,8 +19,8 @@ export default {
   blog: 'https://arc-market.medium.com/',
   github: 'https://github.com/ARC-MARKET/',
   telegram: null,
-  twitter: 'https://twitter.com/defi_arc',
-  url: 'https://arc.market/',
+  twitter: 'https://twitter.com/ARCreactorAI',
+  url: 'https://www.helloarc.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

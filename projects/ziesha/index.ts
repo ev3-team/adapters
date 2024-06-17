@@ -11,7 +11,7 @@ export default {
   id: 'fc7rgx',
   description:
     'Ziesha is a new layer-1 cryptocurrency that uses Zero-Knowledge proof technology for transaction compression.',
-  discord: null,
+  discord: '923604493378154496',
   investors: [],
   linkedin: null,
   duneQueries: null,

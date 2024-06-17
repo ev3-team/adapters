@@ -19,7 +19,7 @@ export default {
   github: 'https://github.com/GenesysGo/',
   telegram: null,
   twitter: 'https://twitter.com/genesysgo',
-  url: 'https://www.shadow.cloud/',
+  url: 'https://www.shdwdrive.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

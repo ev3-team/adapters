@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Pokt',
+  name: 'POKT',
   ninja: null,
   subcategories: 'RPC/Indexing',
   chain: 'NATIVE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'pocket-network',
   id: 'wreq2k',
   description:
-    'Pokt is a company that empowers developers with reliable and performant RPC access to the open internet.',
+    'POKT is a company that empowers developers with reliable and performant RPC access to the open internet.',
   discord: '553741558869131266',
   investors: [
     'csfyvy',

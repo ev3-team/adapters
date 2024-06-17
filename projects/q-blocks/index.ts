@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Q Blocks',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
   id: 'j988an',
-  description: 'Developer of a decentralised GPU computing platform.',
+  description:
+    'Q Blocks is a decentralized computing platform that allows ML teams to run ML training workloads securely and more affordably. ',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/q-blocks/',

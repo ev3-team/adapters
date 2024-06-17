@@ -11,7 +11,7 @@ export default {
   id: 'xvizp7',
   description:
     'Alkimi is a blockchain-based advertising exchange built on the fundamentals of lower fees, increased transparency, and reduced carbon emissions.',
-  discord: null,
+  discord: '789557240075911188',
   investors: [],
   linkedin: null,
   duneQueries: null,

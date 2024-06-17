@@ -19,8 +19,8 @@ export default {
   blog: 'https://medium.com/finteresticp',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/finterestICP',
-  url: 'https://finterest.gitbook.io/product-docs/',
+  twitter: 'https://twitter.com/FinnyICP',
+  url: 'https://tyhcm-sqaaa-aaaah-abjya-cai.ic0.app/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

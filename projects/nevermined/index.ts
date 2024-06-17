@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nevermined',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '4rizhn',
   description:
-    'Nevermined is a platform that enables the monetization and access control of digital assets, including AI services and data, using blockchain technology and Web3 principles.',
+    'Nevermined is a decentralized AI payments protocol that helps AI Builders accept payments and manage the usage of their apps, agents, and GPTs.',
   discord: '775670012446507028',
   investors: ['hepzxq', 'qpkks9', 'ffngjj', 'xbe8nl'],
   linkedin: 'https://www.linkedin.com/company/nevermined/',

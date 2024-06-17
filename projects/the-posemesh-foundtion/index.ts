@@ -11,7 +11,7 @@ export default {
   id: 'p2unbp',
   description:
     'The Posemesh protocol enables spatial computing for people, devices, and AI. It lets users create, share, and access spatial data in a private and permissionless way.',
-  discord: null,
+  discord: '609977179182333967',
   investors: [],
   linkedin: null,
   duneQueries: null,

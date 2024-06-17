@@ -11,7 +11,7 @@ export default {
   id: 'zidol7',
   description:
     'Keep your conversations private. Proton Mail is an encrypted email service based in Switzerland.',
-  discord: null,
+  discord: '1178303648443416576',
   investors: [],
   linkedin: null,
   duneQueries: null,

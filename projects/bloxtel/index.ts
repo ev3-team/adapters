@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/bloxtel',
   url: 'https://bloxtel.com/',
   verified: false,
   fundraises: [

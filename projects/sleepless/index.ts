@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'sleepless-ai',
   id: 'u5x0h7',
   description: 'Sleepless AI is a Web3+AI companion gaming platform.',
-  discord: null,
+  discord: '1184356662774083604',
   investors: [],
   linkedin: null,
   duneQueries: null,

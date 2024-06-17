@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DROPPS',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'cmvmnd',
   description:
-    'Developer of a decentralized infrastructure for the new creative economy intended to build d-apps and protocols that leverage emerging market opportunities.',
+    'DROPPS is a decentralized infrastructure for the new creative economy, building LOOKSO and LEEQUID on top of LUKSO.',
   discord: '900360236051865650',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dropps-io/',

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'mitdph',
   description: 'Quenta is a derivatives trading platform built on IoTeX. ',
-  discord: null,
+  discord: '1214489895456739369',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'z2bo5e',
   description:
     'Kleros is a decentralized arbitration protocol for disputes in the web3 economy. It relies on game theoretic incentives to have anonymous jurors rule cases correctly.',
-  discord: null,
+  discord: '805775179442683904',
   investors: [],
   linkedin: null,
   duneQueries: null,

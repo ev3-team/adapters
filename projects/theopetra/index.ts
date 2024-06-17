@@ -11,7 +11,7 @@ export default {
   id: 'gaipt2',
   description:
     'Theopetra is a pioneering Network State where citizens collectively own land and influence real estate investments through a decentralized currency and governance tokens.',
-  discord: null,
+  discord: '855236204491702302',
   investors: [],
   linkedin: null,
   duneQueries: null,

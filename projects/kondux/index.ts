@@ -11,7 +11,7 @@ export default {
   id: 'a3tmez',
   description:
     'Kondux is a virtual design lab for artists, brands, and manufacturers that help bridge creativity & technology together.',
-  discord: null,
+  discord: '850088387796271154',
   investors: [],
   linkedin: null,
   duneQueries: null,

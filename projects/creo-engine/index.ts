@@ -11,7 +11,7 @@ export default {
   id: 'ize2ge',
   description:
     'Creo Engine is a gaming blockchain platform dedicated to game developers worldwide to launch their games.',
-  discord: null,
+  discord: '900293980284149780',
   investors: [],
   linkedin: null,
   duneQueries: null,

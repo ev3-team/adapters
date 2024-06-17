@@ -19,8 +19,8 @@ export default {
   blog: 'https://medium.com/@shibuya.xyz',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/shibuyaxyz',
-  url: 'https://www.shibuya.xyz/',
+  twitter: 'https://twitter.com/shibuyafilm',
+  url: 'https://www.shibuya.film/',
   verified: false,
   fundraises: [
     {

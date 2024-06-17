@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'arweave',
   id: '0vks67',
   description: 'Arweave is a permanent and decentralized web inside an open ledger.',
-  discord: null,
+  discord: '829732720505520150',
   investors: [
     'bspyld',
     'd40or5',

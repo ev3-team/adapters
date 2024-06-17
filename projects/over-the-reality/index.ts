@@ -11,7 +11,7 @@ export default {
   id: '140geb',
   description:
     'Over the Reality is a Spatial Computing AR Platform that allows users to create immersive digital versions of actual locations using their smartphones and earn rewards.',
-  discord: null,
+  discord: '814234662888407141',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'tqnguc',
   description:
     'Sirius Chain is an advanced Proof-of-Stake and Proof-of-Greed blockchain with built-in features such as multi-level multisig, validator rewards, fast finality, easy digital asset creation, and transaction management.',
-  discord: null,
+  discord: '899791905204883476',
   investors: [],
   linkedin: null,
   duneQueries: null,

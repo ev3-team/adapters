@@ -11,7 +11,7 @@ export default {
   id: 'ovok3r',
   description:
     'AIgentX is developing next-gen AI-driven chat solutions that simplify the user experience on Web3, making blockchain technology accessible to everyone.',
-  discord: null,
+  discord: '1207830252114677842',
   investors: [],
   linkedin: null,
   duneQueries: null,

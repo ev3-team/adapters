@@ -11,7 +11,7 @@ export default {
   id: 'eic5xo',
   description:
     'Datamall Chain is an open-source blockchain platform that provides stable and decentralized storage services for web3 and Dapps.',
-  discord: null,
+  discord: '945157779000295435',
   investors: [],
   linkedin: null,
   duneQueries: null,

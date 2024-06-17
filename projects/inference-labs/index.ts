@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'qi9eg6',
   description:
-    'Inference Labs specializes in developing advanced infrastructure and products for AI on web3. Their focus is on AI inference interoperating on the blockchain, which is an essential step for building a future where anyone can access AI without risk.',
+    'Inference Labs develops infrastructure and products for AI on web3, specializing in zero-knowledge proofs for transparent and secure AI operations in a decentralized ecosystem.',
   discord: null,
   investors: [],
   linkedin: null,

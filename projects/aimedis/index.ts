@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'aimedis-new',
   id: 'p864om',
   description: 'Aimedis is a Blockchain-based eHealth with medical apps and an NFT marketplace.',
-  discord: '1176263289701945396',
+  discord: '1227808395617107998',
   investors: ['jkryns', 'imxksv'],
   linkedin: 'https://www.linkedin.com/company/aimedis/?originalSubdomain=nl',
   duneQueries: null,

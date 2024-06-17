@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://skytradelinks.com/',
+  url: 'https://sky.trade/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

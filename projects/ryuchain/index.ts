@@ -11,7 +11,7 @@ export default {
   id: '8w0s7k',
   description:
     'Ryu Chain is decentralized software enabling everyone to use the full capability of NFTs in combination with decentralized Software and the power of AI.',
-  discord: null,
+  discord: '1174758907432931328',
   investors: [],
   linkedin: null,
   duneQueries: null,

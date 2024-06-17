@@ -11,7 +11,7 @@ export default {
   id: 'yoxura',
   description:
     'FanTV is an app-based Watch to Earn Platform that allows users to watch ad-free trending videos and earn rewards.',
-  discord: null,
+  discord: '978254897088708649',
   investors: [],
   linkedin: null,
   duneQueries: null,

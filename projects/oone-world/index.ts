@@ -11,7 +11,7 @@ export default {
   id: 'w8cnxv',
   description:
     'OONE World is a blockchain-based sustainable driving app that optimizes fuel usage and offers rewards for eco-driving.',
-  discord: null,
+  discord: '1041322480662499369',
   investors: [],
   linkedin: null,
   duneQueries: null,

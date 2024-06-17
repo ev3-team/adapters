@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'cirus',
   id: 'he3mau',
   description: 'CIRUS: Control data, monetize through blockchain.',
-  discord: null,
+  discord: '858103637023391746',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/cirus-foundation',
   duneQueries: null,
@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: 'https://en.telghub.com/content?id=16359',
   twitter: 'http://www.twitter.com/Cirusfoundation',
-  url: 'https://www.cirusfoundation.com/',
+  url: 'https://www.cirus.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

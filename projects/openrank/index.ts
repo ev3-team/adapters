@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/karma3labs',
+  twitter: null,
   url: 'https://openrank.com/',
   verified: false,
   fundraises: [],

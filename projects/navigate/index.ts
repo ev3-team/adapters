@@ -11,7 +11,7 @@ export default {
   id: 'sbfrwv',
   description:
     'Navigate is a platform that generates an AI-powered map using crowdsourced imagery from individuals who capture and upload content from devices like smartphones, drones, or dashcams. ',
-  discord: null,
+  discord: '1207059588151517325',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'dth4ai',
   description:
     'Ridotto is a cross-chain Gaming and lottery protocol based on complete transparency, anonymity, security, and fairness.',
-  discord: null,
+  discord: '822216283083767868',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '5ivasm',
   description:
     'OPEN GPU Network is a decentralized GPU Ecosystem that aims to optimize global AI research through scalable, decentralized GPU computing infrastructure. ',
-  discord: null,
+  discord: '1083646475608784906',
   investors: [],
   linkedin: null,
   duneQueries: null,

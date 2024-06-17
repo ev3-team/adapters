@@ -11,7 +11,7 @@ export default {
   id: 'ntppvh',
   description:
     'Ritual is an open, sovereign execution layer for AI. It allows users to seamlessly integrate AI into their app or protocol on any chain, enabling them to fine-tune, monetize, and perform inference on models with cryptographic schemes',
-  discord: null,
+  discord: '1210468736205852672',
   investors: ['6x081t', 'ze1wdg', '7zvxz8', 'tqh3bl', 'eyy236'],
   linkedin: null,
   duneQueries: null,

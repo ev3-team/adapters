@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/topics/blockcast',
   telegram: 'https://t.me/blockcastit',
-  twitter: null,
+  twitter: 'https://x.com/blockcastnet',
   url: 'https://blockcast.net/',
   verified: false,
   fundraises: [],

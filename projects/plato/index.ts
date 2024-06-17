@@ -11,7 +11,7 @@ export default {
   id: '5onhxw',
   description:
     'Plato Protocol is a rewards protocol that rewards consumers for creating verified photo and video reviews of their restaurant experiences.',
-  discord: null,
+  discord: '863156439303454750',
   investors: [],
   linkedin: null,
   duneQueries: null,

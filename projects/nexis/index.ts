@@ -11,7 +11,7 @@ export default {
   id: '8i0772',
   description:
     'Nexis Network is a layer-1 blockchain infrastructure powering the decentralization of data for the future of AI and interoperable blockchain economies.',
-  discord: null,
+  discord: '931661205087617065',
   investors: [],
   linkedin: null,
   duneQueries: null,

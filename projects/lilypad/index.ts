@@ -11,7 +11,7 @@ export default {
   id: '2hvgy5',
   description:
     'Lilypad develops a trustless, distributed compute network that enables internet-scale data processing, AI, ML & other arbitrary computation from blockchains while unleashing idle processing power & unlocking a new marketplace for computing.',
-  discord: null,
+  discord: '1212897693450641498',
   investors: [],
   linkedin: null,
   duneQueries: null,

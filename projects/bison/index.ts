@@ -11,7 +11,7 @@ export default {
   id: 'f0ceeu',
   description:
     "Bison is a ZK-STARK roll-up built on Bitcoin via Ordinals that aims to boost Bitcoin's user experience with faster functionality while retaining its security.",
-  discord: null,
+  discord: '1216600727309258782',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'dl6pqe',
   description:
     'Truflation is an economic data aggregator and a Data Oracle for RWA, Indexes, and Inflation. ',
-  discord: null,
+  discord: '945776468452069426',
   investors: [],
   linkedin: null,
   duneQueries: null,

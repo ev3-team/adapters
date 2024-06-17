@@ -11,7 +11,7 @@ export default {
   id: 'cv1odr',
   description:
     'Lit Protocol is an autonomous cloud network for decentralized signing, encryption, and compute.',
-  discord: null,
+  discord: '896185694857343026',
   investors: [],
   linkedin: null,
   duneQueries: null,

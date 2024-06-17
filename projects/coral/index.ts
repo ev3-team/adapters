@@ -11,7 +11,7 @@ export default {
   id: 'pwn1js',
   description:
     'CoralApp is a multichain web3 fitness app designed to support a healthy lifestyle through health trackers, a marketplace, and metaverse play where users can earn incentives, challenge each other, and enjoy a content creator economy.',
-  discord: null,
+  discord: '929411582176428124',
   investors: ['0egscq'],
   linkedin: null,
   duneQueries: null,

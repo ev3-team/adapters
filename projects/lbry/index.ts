@@ -11,7 +11,7 @@ export default {
   id: 'jn69a0',
   description:
     'LBRY protocol is a decentralized network for content sharing and publishing. It enables users to access, publish, and share digital content without intermediaries, ensuring creators and consumers maintain control over their content and data.',
-  discord: null,
+  discord: '362322208485277697',
   investors: [],
   linkedin: null,
   duneQueries: null,

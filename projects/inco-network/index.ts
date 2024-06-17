@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://www.inco.network/',
+  url: 'https://www.inco.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/MorpheusAIs/Morpheus/blob/main/ollama_instructions_in_pictures.md',
   telegram: null,
   twitter: null,
-  url: 'https://www.morpheusai.org/',
+  url: 'https://mor.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

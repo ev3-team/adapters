@@ -11,7 +11,7 @@ export default {
   id: 'weqn6l',
   description:
     'ETCMC is a community-driven mining pool and decentralized autonomous organization that pays additional rewards to miners through its ETCPOW token.',
-  discord: null,
+  discord: '1097466944136941599',
   investors: [],
   linkedin: null,
   duneQueries: null,

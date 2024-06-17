@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/u2_dpn',
   url: 'https://u2dpn.xyz/',
   verified: false,
   fundraises: [],

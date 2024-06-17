@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'ix-swap',
   id: 'lgggcx',
   description: 'RWA launchpad & DEX',
-  discord: null,
+  discord: '899582968463495218',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: 'i6pg99',
   description:
     'Port3 Network is a decentralized AI servicing protocol that connects extensive on-chain and off-chain datasets. It integrates and computes these datasets to establish a globally accessible data layer, empowering the automation of Web3 AI applications.',
-  discord: null,
+  discord: '955705769628684341',
   investors: [],
   linkedin: null,
   duneQueries: null,

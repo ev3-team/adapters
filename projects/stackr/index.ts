@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/0xStackr',
-  url: 'http://www.stackrlabs.xyz/',
+  url: 'https://www.stackrlabs.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

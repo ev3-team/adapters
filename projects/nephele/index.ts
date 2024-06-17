@@ -11,7 +11,7 @@ export default {
   id: 'chs9nr',
   description:
     'Nephele is a cloud storage DePIN for web3 that is fully compatible with all Layer-2, services and applications from Ethereum.',
-  discord: null,
+  discord: '1075799678286835765',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/zephyr_org',
   url: 'https://www.zephyrprotocol.com/',
   verified: false,
   fundraises: [],

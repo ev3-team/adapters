@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '7x2h0s',
   description: 'OpenServ is a Marketplace for Autonomous AI Agents.',
-  discord: null,
+  discord: '1176767100350644254',
   investors: [],
   linkedin: null,
   duneQueries: null,

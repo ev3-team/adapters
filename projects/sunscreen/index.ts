@@ -11,7 +11,7 @@ export default {
   id: 'uao82z',
   description:
     'Sunscreen is a compiler for fully homomorphic encryption and zero-knowledge proofs.',
-  discord: null,
+  discord: '892102359130460160',
   investors: [],
   linkedin: null,
   duneQueries: null,

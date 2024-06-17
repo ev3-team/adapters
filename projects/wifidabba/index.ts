@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/WifiDabba',
-  url: 'https://www.wifidabba.com/',
+  twitter: 'https://twitter.com/DabbaNetwork',
+  url: 'https://dabba.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -1,26 +1,26 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Async',
+  name: 'Cotelligence',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'COMPUTE',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
-  id: 'vggvrz',
+  id: 'y273nt',
   description:
-    'Async Labs is a blockchain technology company focused on scaling decentralized computing.',
+    'Cotelligence is an AI model hub that allows users to upload models and access APIs, leveraging decentralized computing power for economical and accessible AI model serving.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/asynclabs',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/0xAsyncLabs',
-  url: 'http://asynclabs.xyz/',
+  twitter: 'https://twitter.com/cotelligence',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nextdata',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '3wnonl',
   description:
-    'Nextdata is unlocking the AI revolution with an operating system for decentralized data at scale.',
+    'Nextdata OS is a pioneering data mesh platform that simplifies the creation, sharing, and access of decentralized data products, revolutionizing analytics and machine learning.',
   discord: null,
   investors: ['ww4ojj', '4vsf2b'],
   linkedin: 'https://www.linkedin.com/company/nextdata-technologies/about/',

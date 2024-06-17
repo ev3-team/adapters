@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Empyreal',
-  ninja: null,
+  ninja: 'EV3 Sal',
   subcategories: null,
   chain: 'ARBITRUM',
   category: 'NOT_DEPIN',
@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/empyrealapp/empyrealSDK/tree/rc0.1',
   telegram: 'https://t.me/empyrealportal',
   twitter: 'https://twitter.com/empyrealSDK',
-  url: 'https://empyreal.app/',
+  url: 'https://empyrealsdk.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

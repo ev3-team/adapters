@@ -11,7 +11,7 @@ export default {
   id: 'kv3vqp',
   description:
     'AI Power Grid is an innovative blockchain project designed to incentivize and reward open-source AI participation.',
-  discord: null,
+  discord: '1028009972740657184',
   investors: [],
   linkedin: null,
   duneQueries: null,

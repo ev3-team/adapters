@@ -10,8 +10,8 @@ export default {
   coinGeckoID: null,
   id: 'adlfda',
   description:
-    'The Vanna Network is an EVM-compatible rollup focused on AI and ML. It supports native, zkML-secured inference directly computed, secured, and verified on-chain; designed in a way that leveraging AI/ML in dApps is as easy as a simple function call.',
-  discord: null,
+    'Valence is a permissionless execution layer for AI, offering scalable and cryptographically secure inference with a modular design for building diverse products ranging from on-chain AI agents to classical ML models in DeFi.',
+  discord: '1132794141403791483',
   investors: [],
   linkedin: null,
   duneQueries: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/0xVannaLabs',
-  url: 'https://www.vannalabs.ai/',
+  twitter: 'https://x.com/0xValence',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

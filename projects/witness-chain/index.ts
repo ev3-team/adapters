@@ -11,7 +11,7 @@ export default {
   id: 'ooq2m5',
   description:
     'Witness Chain offers a DePIN Coordination Layer that translates physical network attributes into verifiable digital proofs enabling the creation of new applications and services across decentralized networks.',
-  discord: null,
+  discord: '1008647991919382629',
   investors: [],
   linkedin: null,
   duneQueries: null,

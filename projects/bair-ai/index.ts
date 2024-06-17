@@ -11,7 +11,7 @@ export default {
   id: 'n6198m',
   description:
     'BAIR.AI is an All-Inclusive Generative AI platform with its custom LLM and Prompt to Earn Model for the Web 4 world',
-  discord: null,
+  discord: '1128757006178717696',
   investors: [],
   linkedin: null,
   duneQueries: null,

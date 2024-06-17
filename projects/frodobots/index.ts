@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://www.frodobots.com/',
+  url: 'https://www.frodobots.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

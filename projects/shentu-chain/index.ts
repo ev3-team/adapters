@@ -11,7 +11,7 @@ export default {
   id: 'vp6r7p',
   description:
     'Shentu Chain enables a system of decentralized Security Oracles that provide runtime analysis of the security of live smart contracts. ',
-  discord: null,
+  discord: '729116343760191590',
   investors: [],
   linkedin: null,
   duneQueries: null,

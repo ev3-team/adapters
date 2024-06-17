@@ -11,7 +11,7 @@ export default {
   id: 'rrbnx6',
   description:
     'ValleyDAO is an open, global community offering funding and translational support for synthetic biology research.',
-  discord: null,
+  discord: '938351551314010163',
   investors: [],
   linkedin: null,
   duneQueries: null,

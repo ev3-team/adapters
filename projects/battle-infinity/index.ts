@@ -11,7 +11,7 @@ export default {
   id: 'qx4wxc',
   description:
     'Battle Infinity: Metaverse gaming platform with P2E battle games in IBAT Battle Arena.',
-  discord: '1200923493664038912',
+  discord: '1226500682337746996',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/battle-infinity',
   duneQueries: null,

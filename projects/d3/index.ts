@@ -11,7 +11,7 @@ export default {
   id: '6y7ind',
   description:
     'D3 is a next-generation domains company building interoperable web2<>web3 domain names.',
-  discord: null,
+  discord: '1146856811207606283',
   investors: [
     '7job29',
     'h97beq',

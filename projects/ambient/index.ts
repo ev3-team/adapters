@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'ze30wc',
   description: 'Ambient is a decentralized network of environmental sensors and ambient data.',
-  discord: null,
+  discord: '1235708084106690590',
   investors: [],
   linkedin: null,
   duneQueries: null,

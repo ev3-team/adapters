@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'COMPUTE',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'g62mpn',

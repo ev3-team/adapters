@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'axis-token',
   id: '56jkto',
   description: 'AXIS is a blockchain-powered direct freight network.',
-  discord: '1182432231180996628',
+  discord: '1224009941933756489',
   investors: [],
   linkedin: null,
   duneQueries: null,

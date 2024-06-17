@@ -11,7 +11,7 @@ export default {
   id: 'aytyhd',
   description:
     'Herodotus is building storage-proof technology to enable synchronous cross-layer data access between Ethereum blockchains.',
-  discord: null,
+  discord: '1016649863666094160',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '7x1eif',
   description:
     'Predx is an AI-powered prediction market allowing users to propose and trade on the likelihood of various events across diverse topics.',
-  discord: null,
+  discord: '949853427771535370',
   investors: ['4dh0t9', 'dd27ab'],
   linkedin: null,
   duneQueries: null,

@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://twitter.com/XAI_GAMES',
   url: 'https://www.xai.games/',
   verified: false,
   fundraises: [],

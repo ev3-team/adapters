@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/DeCharge__',
-  url: 'https://www.rechrg.pro/',
+  url: 'https://decharge.network/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

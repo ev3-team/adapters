@@ -11,7 +11,7 @@ export default {
   id: 'byddbz',
   description:
     'AI21 Labs builds Foundation Models and AI Systems for enterprises that accelerate the use of GenAI in production.',
-  discord: null,
+  discord: '874538902696914944',
   investors: [],
   linkedin: null,
   duneQueries: null,

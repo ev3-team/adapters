@@ -11,7 +11,7 @@ export default {
   id: 'vm959p',
   description:
     'Shinkai combines LLM-based AI, private data, and task scheduling together with file support, deep crypto integration, and a decentralized p2p network.',
-  discord: null,
+  discord: '1136286734863302687',
   investors: [],
   linkedin: null,
   duneQueries: null,

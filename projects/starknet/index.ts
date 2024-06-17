@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://www.starknet.io/en/',
+  twitter: 'https://twitter.com/Starknet',
+  url: 'https://www.starknet.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

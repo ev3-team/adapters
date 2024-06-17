@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 't5hmj6',
   description: 'FluxBeam is a Next Generation Solana DEX.',
-  discord: null,
+  discord: '1175135061755056159',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/solanalabs',
   duneQueries: null,

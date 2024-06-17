@@ -11,7 +11,7 @@ export default {
   id: 'd3ep1m',
   description:
     'Esprezzo Dispatch is a no-code platform for creating and monitoring notifications across NFT projects, brands, and games.',
-  discord: null,
+  discord: '499251640734580766',
   investors: [],
   linkedin: null,
   duneQueries: null,

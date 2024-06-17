@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'mapmetrics',
   id: 'lp6ty8',
   description: 'Mapmetrics is a web3 navigation app that rewards users with tokens and NFTs.',
-  discord: null,
+  discord: '900389466781401098',
   investors: [],
   linkedin: 'https://nl.linkedin.com/company/mapmetrics',
   duneQueries: null,

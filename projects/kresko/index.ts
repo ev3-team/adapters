@@ -11,7 +11,7 @@ export default {
   id: 'pks4ee',
   description:
     'Making wealth accessible to anyone, anywhere. An open platform for synthetic stocks, commodities, and crypto.',
-  discord: null,
+  discord: '910667307888570458',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/kreskolabs/',
   duneQueries: null,
@@ -20,7 +20,7 @@ export default {
   github: 'https://github.com/kreskohq/',
   telegram: 'https://t.me/kreskofi',
   twitter: 'https://twitter.com/kreskofi',
-  url: 'https://www.kresko.fi/',
+  url: 'https://kresko.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

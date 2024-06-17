@@ -11,7 +11,7 @@ export default {
   id: 'ubt5kj',
   description:
     'LimeWire is an AI-powered content publishing platform that allows users to create, publish, and monetize images, videos, and music with the power of AI. ',
-  discord: null,
+  discord: '933277850004508702',
   investors: [],
   linkedin: null,
   duneQueries: null,

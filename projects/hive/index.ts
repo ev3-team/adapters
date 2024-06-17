@@ -11,7 +11,7 @@ export default {
   id: 'fnhg5q',
   description:
     'hiveNet is a distributed data storage and computing platform that allows users to rent their computing resources and store and process their data in a co-located manner.',
-  discord: null,
+  discord: '1012643477399552041',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '39uynx',
   description:
     'Morpheus.Network is a supply chain SaaS middleware platform that integrates both legacy systems and emerging technologies like blockchain, IoT, and RFID.',
-  discord: null,
+  discord: '962783332821790780',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/morpheus-network/',
   duneQueries: null,

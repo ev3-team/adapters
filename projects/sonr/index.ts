@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: 'https://sonr.io/github',
   telegram: null,
-  twitter: 'https://sonr.io/twitter',
+  twitter: 'https://twitter.com/sonr_io',
   url: 'https://sonr.io/home',
   verified: false,
   fundraises: [],

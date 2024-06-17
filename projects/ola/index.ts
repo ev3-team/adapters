@@ -11,7 +11,7 @@ export default {
   id: 'ajkc7b',
   description:
     'Ola is an open-source hybrid ZK-Rollup that contributes to a fair, decentralized, permissionless web3 world by empowering users through data ownership.',
-  discord: null,
+  discord: '1072351792110784603',
   investors: [],
   linkedin: null,
   duneQueries: null,

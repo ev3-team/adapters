@@ -11,7 +11,7 @@ export default {
   id: '1wbpqo',
   description:
     'Knox Project offers a secure, decentralized data storage solution using blockchain and IPFS, rewarding users with KFX tokens for participation and offering passive income through masternodes.',
-  discord: null,
+  discord: '425320914335432719',
   investors: [],
   linkedin: null,
   duneQueries: null,
