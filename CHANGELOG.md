@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.52
+
+### Patch Changes
+
+- discord ids, contributions updates
+
 ## 0.3.51
 
 ### Patch Changes
