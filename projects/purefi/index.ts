@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PureFi',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'UFI',
   coinGeckoID: 'purefi',
   id: '5u6ch6',
   description:
-    'PureFi: DeFi AML protocol providing cryptoasset analytics and AML/KYC procedures to protect users from risks.',
+    'PureFi Protocol is a one-stop decentralized compliance protocol for Web3 that allows dApps to fully comply with local and global regulations while preserving decentralization and user anonymity.',
   discord: null,
   investors: ['rrtsc3', 'ka4f30'],
   linkedin: 'http://www.linkedin.com/company/purefi',

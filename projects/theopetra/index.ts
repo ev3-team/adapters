@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Theopetra',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'THEO',
   coinGeckoID: 'theopetra',
   id: 'gaipt2',

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'LandX',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'LNDX',
   coinGeckoID: 'landx-governance-token',
   id: 'fz4zvo',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autify',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'hoznm0',
   description:
-    'Developing a modern, modular supply-chain management & cross-border payment platform using blockchain and AI to increase transparency in both the global supply chain and retail industry.',
+    'Autify Network is developing a decentralized Supply-chain management and traceability platform.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/autify-network/',

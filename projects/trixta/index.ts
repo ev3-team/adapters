@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Trixta',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Agents',
   chain: null,
   category: 'AI',

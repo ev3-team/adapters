@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GPUtopia',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',

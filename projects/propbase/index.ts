@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Propbase',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'PROPS',
   coinGeckoID: null,
   id: '687b4m',

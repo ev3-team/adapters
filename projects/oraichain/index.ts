@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Oraichain',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'oraichain-token',
   id: 'qzneji',
   description:
-    'Oraichain: AI oracle and ecosystem aiming to be the first AI Layer 1 in the Blockchain sphere.',
+    'Oraichain is an IBC-enabled Layer 1 to verify multidimensional trustworthiness of AI and to build Web3 applications with a unique AI oracle.',
   discord: '943096297735487488',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/oraichain',

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'OPEN Ticketing Ecosystem',
   ninja: 'EV3 Sal',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: 'OPN',

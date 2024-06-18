@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Open Forest Protocol',
   ninja: 'EV3 Sal',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: 'cu066p',

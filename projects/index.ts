@@ -51,6 +51,7 @@ import aide from './aide'
 import aigentx from './aigentx'
 import aiis from './aiis'
 import aimedis from './aimedis'
+import aimelia from './aimelia'
 import aione from './aione'
 import aioz from './aioz'
 import airealm from './airealm'
@@ -141,6 +142,7 @@ import atomNetwork from './atom-network'
 import atoma from './atoma'
 import ator from './ator'
 import audius from './audius'
+import augrade from './augrade'
 import augur from './augur'
 import aurora from './aurora'
 import autify from './autify'
@@ -370,6 +372,7 @@ import cpin from './cpin'
 import crankk from './crankk'
 import create from './create'
 import creatorbid from './creator-bid'
+import creditCoop from './credit-coop'
 import creditcoin from './creditcoin'
 import creoEngine from './creo-engine'
 import crewdle from './crewdle'
@@ -400,6 +403,7 @@ import daiksp from './daiksp'
 import dain from './dain'
 import daisy from './daisy'
 import daocre8 from './daocre-8'
+import dapplooker from './dapplooker'
 import darkProtocol from './dark-protocol'
 import darkfi from './darkfi'
 import darwinia from './darwinia'
@@ -448,7 +452,9 @@ import depinAssociation from './depin-association'
 import depinDao from './depin-dao'
 import depioneers from './depioneers'
 import deplan from './deplan'
+import depow from './depow'
 import dera from './dera'
+import deschool from './deschool'
 import destore from './destore'
 import destra from './destra'
 import detensor from './detensor'
@@ -494,6 +500,7 @@ import drivex from './drivex'
 import droneLink from './drone-link'
 import drop from './drop'
 import dropps from './dropps'
+import drosera from './drosera'
 import druglike from './druglike'
 import dsla from './dsla'
 import dstor from './dstor'
@@ -660,6 +667,8 @@ import gameswift from './gameswift'
 import gamic from './gamic'
 import gane from './gane'
 import gatewayNetwork from './gateway-network'
+import gatlingx from './gatlingx'
+import gatorLabs from './gator-labs'
 import gcaller from './gcaller'
 import gear from './gear'
 import geeq from './geeq'
@@ -699,6 +708,7 @@ import gpunet from './gpu-net'
 import gputopia from './gputopia'
 import grandBase from './grand-base'
 import grape from './grape'
+import graphia from './graphia'
 import graphlinq from './graphlinq'
 import grass from './grass'
 import graviton from './graviton'
@@ -952,6 +962,7 @@ import magicblock from './magicblock'
 import magie from './magie'
 import magnetai from './magnetai'
 import maidsafecoin from './maidsafecoin'
+import mandalaChain from './mandala-chain'
 import mande from './mande'
 import mangata from './mangata'
 import manta from './manta'
@@ -1175,6 +1186,7 @@ import optimism from './optimism'
 import ora from './ora'
 import oraichain from './oraichain'
 import orakl from './orakl'
+import orbiterOne from './orbiter-one'
 import orbofiAi from './orbofi-ai'
 import orbuculum from './orbuculum'
 import orchai from './orchai'
@@ -1252,6 +1264,7 @@ import polyverseAi from './polyverse-ai'
 import polywrap from './polywrap'
 import pond from './pond'
 import ponder from './ponder'
+import pondersh from './ponder-sh'
 import pool from './pool'
 import port3 from './port3'
 import portalverse from './portalverse'
@@ -1265,7 +1278,6 @@ import ppio from './ppio'
 import praan from './praan'
 import pragma from './pragma'
 import precipitate from './precipitate'
-import predx from './predx'
 import prem from './prem'
 import presearch from './presearch'
 import primeintellect from './primeintellect'
@@ -1459,6 +1471,7 @@ import sia from './sia'
 import side from './side'
 import siglo from './siglo'
 import sigmoid from './sigmoid'
+import sign from './sign'
 import silence from './silence'
 import silencio from './silencio'
 import silentLink from './silent-link'
@@ -1492,6 +1505,7 @@ import solana from './solana'
 import solanaMobile from './solana-mobile'
 import solanastock from './solanastock'
 import solareum from './solareum'
+import solchan from './solchan'
 import solchat from './solchat'
 import solcial from './solcial'
 import solcycle from './solcycle'
@@ -1505,6 +1519,7 @@ import soltera from './soltera'
 import solvecare from './solvecare'
 import somos from './somos'
 import sona from './sona'
+import sonaric from './sonaric'
 import sonm from './sonm'
 import sonr from './sonr'
 import sophiaverse from './sophiaverse'
@@ -1605,6 +1620,7 @@ import telnyx from './telnyx'
 import telos from './telos'
 import tempo from './tempo'
 import ten from './ten'
+import teneo from './teneo'
 import tensorSpace from './tensor-space'
 import tensorplex from './tensorplex'
 import tepax from './tepax'
@@ -1620,6 +1636,7 @@ import thePosemeshFoundtion from './the-posemesh-foundtion'
 import theRecharge from './the-recharge'
 import theRootNetwork from './the-root-network'
 import theopetra from './theopetra'
+import theoriq from './theoriq'
 import thetaFuel from './theta-fuel'
 import thex from './thex'
 import thingsix from './thingsix'
@@ -1784,6 +1801,7 @@ import xlander from './xlander'
 import xmaquina from './xmaquina'
 import xmtp from './xmtp'
 import xnet from './xnet'
+import xpanse from './xpanse'
 import xx from './xx'
 import xyo from './xyo'
 import y8u from './y8u'
@@ -1881,6 +1899,7 @@ export const projects = {
   aigentx,
   aiis,
   aimedis,
+  aimelia,
   aione,
   aioz,
   airealm,
@@ -1971,6 +1990,7 @@ export const projects = {
   atoma,
   ator,
   audius,
+  augrade,
   augur,
   aurora,
   autify,
@@ -2200,6 +2220,7 @@ export const projects = {
   crankk,
   create,
   creatorbid,
+  creditCoop,
   creditcoin,
   creoEngine,
   crewdle,
@@ -2230,6 +2251,7 @@ export const projects = {
   dain,
   daisy,
   daocre8,
+  dapplooker,
   darkProtocol,
   darkfi,
   darwinia,
@@ -2278,7 +2300,9 @@ export const projects = {
   depinDao,
   depioneers,
   deplan,
+  depow,
   dera,
+  deschool,
   destore,
   destra,
   detensor,
@@ -2324,6 +2348,7 @@ export const projects = {
   droneLink,
   drop,
   dropps,
+  drosera,
   druglike,
   dsla,
   dstor,
@@ -2490,6 +2515,8 @@ export const projects = {
   gamic,
   gane,
   gatewayNetwork,
+  gatlingx,
+  gatorLabs,
   gcaller,
   gear,
   geeq,
@@ -2529,6 +2556,7 @@ export const projects = {
   gputopia,
   grandBase,
   grape,
+  graphia,
   graphlinq,
   grass,
   graviton,
@@ -2782,6 +2810,7 @@ export const projects = {
   magie,
   magnetai,
   maidsafecoin,
+  mandalaChain,
   mande,
   mangata,
   manta,
@@ -3005,6 +3034,7 @@ export const projects = {
   ora,
   oraichain,
   orakl,
+  orbiterOne,
   orbofiAi,
   orbuculum,
   orchai,
@@ -3082,6 +3112,7 @@ export const projects = {
   polywrap,
   pond,
   ponder,
+  pondersh,
   pool,
   port3,
   portalverse,
@@ -3095,7 +3126,6 @@ export const projects = {
   praan,
   pragma,
   precipitate,
-  predx,
   prem,
   presearch,
   primeintellect,
@@ -3289,6 +3319,7 @@ export const projects = {
   side,
   siglo,
   sigmoid,
+  sign,
   silence,
   silencio,
   silentLink,
@@ -3322,6 +3353,7 @@ export const projects = {
   solanaMobile,
   solanastock,
   solareum,
+  solchan,
   solchat,
   solcial,
   solcycle,
@@ -3335,6 +3367,7 @@ export const projects = {
   solvecare,
   somos,
   sona,
+  sonaric,
   sonm,
   sonr,
   sophiaverse,
@@ -3435,6 +3468,7 @@ export const projects = {
   telos,
   tempo,
   ten,
+  teneo,
   tensorSpace,
   tensorplex,
   tepax,
@@ -3450,6 +3484,7 @@ export const projects = {
   theRecharge,
   theRootNetwork,
   theopetra,
+  theoriq,
   thetaFuel,
   thex,
   thingsix,
@@ -3614,6 +3649,7 @@ export const projects = {
   xmaquina,
   xmtp,
   xnet,
+  xpanse,
   xx,
   xyo,
   y8u,
