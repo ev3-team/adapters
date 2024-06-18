@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Frigg',
   ninja: 'EV3 Sal',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: 'ymywqi',
-  description: 'RWA protocol',
+  description:
+    'Frigg connects investors to sustainable projects worldwide, streamlining financing for accessible, impactful investments.',
   discord: null,
   investors: [],
   linkedin: null,

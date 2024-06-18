@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'P00LS',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: '0',
-  coinGeckoID: 'zer0zer0',
+  token: '00',
+  coinGeckoID: '00-token',
   id: '6bqyjx',
-  description: 'P00LS is the premier platform for Web3 community-building.',
+  description:
+    'P00LS is a social token platform and decentralized exchange for creator cryptocurrencies, where creators can issue their own tokens and fans can trade them.',
   discord: '885262342634487828',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/p00ls/',

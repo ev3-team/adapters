@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'RWA Inc',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'RWA',
   coinGeckoID: null,
   id: '6xg4oq',

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Creditcoin',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'CTC',
   coinGeckoID: 'creditcoin',
   id: 'whwhkd',

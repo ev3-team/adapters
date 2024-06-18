@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Apraemio',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'BINANCE',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'APRA',
   coinGeckoID: null,
   id: 'nx180n',

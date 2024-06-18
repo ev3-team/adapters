@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Polytrade',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'TRADE',
   coinGeckoID: null,
   id: 't247l9',

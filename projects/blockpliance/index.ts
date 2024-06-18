@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Blockpliance',
   ninja: 'EV3 Sal',
-  subcategories: 'Subcategory',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

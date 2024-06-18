@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Neutralx',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: '1d8dh4',

@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ares Protocol',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Oracle',
-  chain: 'ETHEREUM',
+  chain: 'POLKADOT',
   category: 'BLOCKCHAIN_INFRA',
   token: 'ARES',
   coinGeckoID: 'ares-protocol',
   id: 'obq296',
   description:
-    'Ares is an on-chain-verified oracle platform that provides secure and reliable data services for the Polkadot DeFi ecosystem',
+    'Ares is a decentralized cross-chain oracle platform that provides secure and reliable data services for the Polkadot DeFi ecosystem.',
   discord: '857112014648115221',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/aresprotocol/',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ancient8',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'xjogkp',
   description:
-    'Ancient8 is building a DAO that develops a community and software platform to enable everyone to play and build the Metaverse while earning rewards.',
+    'Ancient8 Chain is a gaming-focused, community-driven Ethereum layer 2 network built to enable users to play and build the Metaverse while earning rewards.',
   discord: '882274636342116372',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ancient8/about/',

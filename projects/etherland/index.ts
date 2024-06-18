@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Etherland',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'ELAND',
   coinGeckoID: null,
   id: 'z4helo',

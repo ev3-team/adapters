@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Dinari',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'ARBITRUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'DIS.D',
   coinGeckoID: 'dinari-nvda-dshares',
   id: 'u586qc',

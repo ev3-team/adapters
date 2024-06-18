@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hypercycle',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'AI',
   token: 'HYPC',
   coinGeckoID: 'hypercycle',
   id: 'cs121o',
   description:
-    'Hypercycle is a new blockchain network designed to supply massively scalable, low-cost infrastructure for decentralized AI.',
+    'Hypercycle is a blockchain network designed to supply massively scalable, low-cost infrastructure for decentralized AI, and other applications.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/hypercycle-ai/',
