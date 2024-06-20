@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pyse',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
   category: 'ENERGY',
   token: null,

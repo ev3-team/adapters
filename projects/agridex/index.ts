@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'AgriDex',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'SOLANA',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'AgriDex',
   coinGeckoID: null,
   id: 't42uy8',

@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Polkamarket',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'POLK',
   coinGeckoID: 'polkamarkets',
   id: 'qybaeu',
-  description: 'Polkamarket is an Autonomous Prediction Market Protocol.',
+  description:
+    'Polkamarkets is a 100% user-run, fully open source, Web3 Prediction Markets protocol.',
   discord: '829288369943085066',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/polkamarkets/',

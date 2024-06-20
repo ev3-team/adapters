@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Emerald',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'EMRLD',
   coinGeckoID: 'the-emerald-company',
   id: 'y339w7',

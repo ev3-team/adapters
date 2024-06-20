@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'DePoW',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'ENERGY',
+  token: null,
+  coinGeckoID: null,
+  id: 'tgt1jj',
+  description: 'DePoW is a PRN-DePIN network on Ton.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/depow_io',
+  url: null,
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Zoth',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: '4l25dn',

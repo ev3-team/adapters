@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Swarm Markets',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'SMT',
   coinGeckoID: 'swarm-markets',
   id: 'yb7eio',

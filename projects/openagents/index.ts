@@ -9,7 +9,7 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'zh7o1l',
-  description: 'OpenAgents is an open platform for AI agents. ',
+  description: 'OpenAgents is a platform for building, selling and using AI agents.',
   discord: null,
   investors: [],
   linkedin: null,

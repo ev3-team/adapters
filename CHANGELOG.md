@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.53
+
+### Patch Changes
+
+- new project category `RWA`
+
 ## 0.3.52
 
 ### Patch Changes

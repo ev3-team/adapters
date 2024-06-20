@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Unit',
   ninja: null,
-  subcategories: 'RWA',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'UNIT',
   coinGeckoID: null,
   id: '9e953q',
   description:
-    'Unit Network is a protocol and application that enables a new token-based economy, an open financial network for communities, projects, businesses, real-world assets, and network states.',
+    'Unit Network is an interoperable Web3 operating system that allows you to create vibrant communities, borderless businesses, and token economies.',
   discord: '766259203278241823',
   investors: [],
   linkedin: null,

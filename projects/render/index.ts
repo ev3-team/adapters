@@ -4,7 +4,7 @@ export default {
   name: 'Render',
   ninja: null,
   subcategories: 'GPUs',
-  chain: 'ETHEREUM',
+  chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'RNDR',
   coinGeckoID: 'render-token',

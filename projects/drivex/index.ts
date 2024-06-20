@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DriveX',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Auto',
   chain: null,
   category: 'SENSORS',

@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Autonomy',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'jow0l5',
-  description: 'Autonomy is a decentralized automation protocol designed for Web3 builders.',
+  description:
+    'Autonomy Network is a decentralized automation protocol that allows users to have transactions automatically executed in the future under arbitrary conditions.',
   discord: '1012829124395532328',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/autonomynetwork/',

@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'L1/L2',
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'OM',
   coinGeckoID: 'mantra-dao',
   id: 'jnhaaq',

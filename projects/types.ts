@@ -8,6 +8,7 @@ export type AdapterProjectCategory =
   | 'NOT_DEPIN'
   | 'SENSORS'
   | 'SERVICES'
+  | 'RWA'
   | 'WIRELESS'
 
 export type AdapterProjectChain =

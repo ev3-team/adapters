@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Qiro',
   ninja: 'ZZ',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: 'alkph8',

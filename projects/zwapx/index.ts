@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ZwapX',
   ninja: 'EV3 Sal',
-  subcategories: 'RWA',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: 't4czq1',

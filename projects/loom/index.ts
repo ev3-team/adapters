@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Loom',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'loom-network-new',
   id: 'el7s07',
   description:
-    'Loom Network is a production-ready, multichain interop platform for serious dapp developers.',
+    'Loom Network is a production-ready, multichain interoperability platform that enables developers to launch high-performance dapps with seamless UX across multiple blockchains.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/loom-network/',

@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'PredX',
+  name: 'Aimelia',
   ninja: 'EV3 Sal',
   subcategories: null,
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'AI',
-  token: null,
+  token: 'AIME',
   coinGeckoID: null,
   id: '7x1eif',
   description:
-    'Predx is an AI-powered prediction market allowing users to propose and trade on the likelihood of various events across diverse topics.',
+    'Aimelia Network is a generative coevolution protocol for AI agents that focuses on evaluating AI agents with game theory and bounty rewards, and includes Predx, an AI-powered prediction market for trading event likelihoods.',
   discord: '949853427771535370',
   investors: ['4dh0t9', 'dd27ab'],
   linkedin: null,
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/PredX_AI',
-  url: 'https://predx.ai/',
+  url: 'https://aimelia.network/#/',
   verified: false,
   fundraises: [
     {
