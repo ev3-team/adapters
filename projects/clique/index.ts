@@ -11,7 +11,7 @@ export default {
   id: 'redik6',
   description:
     'Clique is building a compute coordination layer, streamlining the process by which both smart contracts and general applications access and utilize computing resources.',
-  discord: null,
+  discord: '918592135178125443',
   investors: [
     '7ygqh2',
     '896jil',

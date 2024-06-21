@@ -11,7 +11,7 @@ export default {
   id: '7l1fut',
   description:
     'Cellframe Network is a quantum-resistant blockchain network facilitating secure, scalable cross-chain transfers and fog computing services.',
-  discord: null,
+  discord: '919184997833912370',
   investors: [],
   linkedin: null,
   duneQueries: null,

@@ -11,7 +11,7 @@ export default {
   id: '9mqohg',
   description:
     "Crankk is a Proof-of-Network-Participation distributed network built on Kadena's Proof of Work Network.",
-  discord: null,
+  discord: '954459049720680479',
   investors: [],
   linkedin: null,
   duneQueries: null,

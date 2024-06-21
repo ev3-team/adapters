@@ -11,7 +11,7 @@ export default {
   id: '97up5b',
   description:
     'Cheelee is a short video platform with GameFi mechanics, where users can earn by watching the feed.',
-  discord: null,
+  discord: '959392470137982997',
   investors: [],
   linkedin: null,
   duneQueries: null,

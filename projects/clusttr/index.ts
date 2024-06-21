@@ -11,7 +11,7 @@ export default {
   id: 'cu63xf',
   description:
     'Clusttr is a marketplace for real estate investment through fractional ownership(real estate tokens).',
-  discord: null,
+  discord: '1194629974003568750',
   investors: [],
   linkedin: null,
   duneQueries: null,
