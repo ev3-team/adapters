@@ -11,7 +11,7 @@ export default {
   id: '5dh3my',
   description:
     'Enshrine Computing is building autonomous computing on top of trusted execution environments (TEEs) to provide a high-performance, secure, and convenient platform for Web3 developers.',
-  discord: null,
+  discord: '1082352075431759872',
   investors: [],
   linkedin: null,
   duneQueries: null,

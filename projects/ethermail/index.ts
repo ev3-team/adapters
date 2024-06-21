@@ -15,7 +15,7 @@ export default {
   linkedin: 'http://www.linkedin.com/company/xearndao',
   duneQueries: null,
   foundingYear: null,
-  blog: null,
+  blog: 'https://medium.com/@ethermail_io',
   github: null,
   telegram: 'https://t.me/ethermail_official',
   twitter: 'https://twitter.com/ethermail_io',
