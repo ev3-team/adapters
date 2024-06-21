@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/deschoolcommunity',
   twitter: 'https://x.com/deschool_app',
   url: 'https://deschool.app',
   verified: false,

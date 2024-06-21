@@ -11,7 +11,7 @@ export default {
   id: '3qppu8',
   description:
     'DigiLeaf is a Solar Panel integrated with the Algorand Blockchain, that not only diminishes carbon footprints but also contributes to a decentralized power network. DigiLeaf hardware earns LEAF tokens, incentivizing support for a greener Earth.',
-  discord: null,
+  discord: '928923310518050847',
   investors: [],
   linkedin: null,
   duneQueries: null,
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/digileaf_io',
   url: 'https://digileaf.io/',
   verified: false,
   fundraises: [],

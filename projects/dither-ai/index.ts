@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/+UXMwd8wtXq83N2Rh',
   twitter: 'https://twitter.com/Dither_Solana',
   url: 'https://dith.ai/',
   verified: false,

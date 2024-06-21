@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'dione',
   id: 'ew04hq',
   description: 'Dione is a blockchain company developing renewable energy trading technology.',
-  discord: null,
+  discord: '1193411758870761592',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dione',
   duneQueries: null,

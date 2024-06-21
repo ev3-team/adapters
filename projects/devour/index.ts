@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/GoDevour',
   twitter: 'https://twitter.com/GoDevour',
   url: 'https://devour.io/',
   verified: false,

@@ -17,7 +17,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: 'https://github.com/SitePen/dstore/blob/master/docs/Store.md',
-  telegram: null,
+  telegram: 'https://t.me/dStor_cloud',
   twitter: 'https://twitter.com/dstor',
   url: 'https://dstor.cloud/',
   verified: false,

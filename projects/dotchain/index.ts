@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/Dot_Blockchain',
   twitter: 'https://twitter.com/dot_blockchain',
   url: 'https://dotchain.network/',
   verified: false,

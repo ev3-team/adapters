@@ -17,7 +17,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/depow_fam',
   twitter: 'https://x.com/depow_io',
   url: null,
   verified: false,
