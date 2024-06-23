@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MOROS NET',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'MOROS',
   coinGeckoID: 'moros-net',
   id: 'adwvwk',
   description:
-    'MOROS NET is a radical, grassroots movement striving towards a truly decentralized AI landscape. They funding developers, hackers, and free-thinkers building systems that align with their egalitarian principles. MOROS is their governance token.',
+    'MOROS is a DAO that aims to fund and support open-source developers, hackers, and educators in their journey of developing local AI, cybersecurity technology, privacy, DeFi, and tech education.',
   discord: null,
   investors: [],
   linkedin: null,

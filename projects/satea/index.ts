@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '7piuxo',
   description:
-    'Satea is a fully managed Web3 infrastructure, democratizing access to computing resources worldwide for Depin and AI projects through tailored solutions and managed services.',
+    'Satea is a fully managed Web3 infrastructure, democratizing access to computing resources worldwide for DePIN and AI projects through tailored solutions and managed services.',
   discord: null,
   investors: [],
   linkedin: null,

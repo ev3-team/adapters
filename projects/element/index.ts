@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Element',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: 'HYP',
   coinGeckoID: 'hyperstake',
   id: 'hz4cbu',
-  description: 'Element is a Matrix-based end-to-end encrypted communications platform.',
+  description: 'Element is a Matrix-based end-to-end encrypted messenger and collaboration app.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/element-hq/',

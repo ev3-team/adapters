@@ -9,8 +9,7 @@ export default {
   token: 'Nebula',
   coinGeckoID: 'nebula-2',
   id: 'dt5m92',
-  description:
-    'NEBULA is a blockchain project that simplifies cloud computing and decentralized storage, catering to both beginners and experienced users. It combines preconfigured machines, AI integration, and secure data storage to transform user interaction with digital and blockchain technologies.',
+  description: 'NEBULA is an AI-Powered Preconfigured Cloud Computing platform.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,7 +18,7 @@ export default {
   blog: 'https://medium.com/@nebulateamsupport',
   github: null,
   telegram: 'https://t.me/NebulasPortal',
-  twitter: 'https://twitter.com/NebulasCloud',
+  twitter: 'https://x.com/NebulasClouds',
   url: 'https://nebulacloudnetwork.com/',
   verified: false,
   fundraises: [],

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Titan',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '0seuc1',
   description:
-    'Titan is a decentralized edge computing intelligent platform built on Filecoin and compatible with IPFS, aimed at providing decentralized shared edge computing services for Web 3.0.',
+    'Titan Network is a digital resource network that incentivizes matching community idle resources with global demand, making it easy for everyone to leverage the power of DePIN services and participate in the construction of the Internet of Value.',
   discord: null,
   investors: [],
   linkedin: null,

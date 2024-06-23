@@ -2,15 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PerpsTech',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'x0ftnx',
-  description:
-    'PerpsTech reimagines decentralized trading with its advanced on-chain perpetual contracts, anchored by the dynamic Friendtech share prices.',
+  description: 'PerpsTech is a  decentralized Influencer Investment Platform.',
   discord: null,
   investors: [],
   linkedin: null,

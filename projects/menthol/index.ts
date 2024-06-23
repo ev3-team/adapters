@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Menthol',
-  ninja: null,
-  subcategories: 'Environmental',
+  ninja: 'ZZ',
+  subcategories: null,
   chain: null,
-  category: 'ENERGY',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'COOL',
   coinGeckoID: null,
   id: 'b9egeq',
   description:
-    'Menthol Protocol is a multi-chain decentralized sustainability protocol that will automatically offset carbon emissions user or dApp transactions with verified renewable energy and carbon credits.',
+    'Menthol Protocol is a multi-chain decentralized regeneration protocol that automatically calculates and offsets the environmental impact of user and dApp transactions using globally verified renewable energy and carbon credits.',
   discord: '852523511414784027',
   investors: ['qqc9zd', 'n73vnt', 'slylr0'],
   linkedin: 'https://www.linkedin.com/company/menthol-protocol/',
