@@ -1301,7 +1301,6 @@ import haseebQureshi from './haseeb-qureshi'
 import hashGlobal from './hash-global'
 import hashcib from './hash#cib'
 import hash3 from './hash3'
-import hashcib from './hashcib'
 import hashed from './hashed'
 import hashgraph from './hashgraph'
 import hashkey from './hashkey'
@@ -4367,7 +4366,6 @@ export const investors = {
   hashGlobal,
   hashcib,
   hash3,
-  hashcib,
   hashed,
   hashgraph,
   hashkey,
