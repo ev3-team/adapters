@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'skey-network',
   id: 'v9jtu7',
   description:
-    'Skey is a blockchain-based company connecting decentralized finance and IoT, enabling a new economy of physical assets.',
+    'Skey Network is an independent blockchain ecosystem that allows users to build adaptable products, services, and user-friendly apps, integrating IoT and NFTs to enable new business models.',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/skeynetwork',

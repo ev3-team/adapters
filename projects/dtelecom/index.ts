@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'adga80',
   description:
-    'Decentralized Real-Time Communication: Build app with live audio/video/data communications. Own the resources, network, and data. Earn as a community member.',
+    'dTelecom is a DePIN for Audio/Video Conferencing and Live Streaming, powered by the Community.',
   discord: '956790388222484541',
   investors: [],
   linkedin: null,

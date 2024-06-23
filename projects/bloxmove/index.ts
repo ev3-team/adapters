@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'bloXmove',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Auto',
   chain: 'ETHEREUM',
   category: 'SENSORS',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'bloxmove-erc20',
   id: '3xdu4v',
   description:
-    'bloXmove is developing a Mobility Blockchain Platform. By earning or holding this token, companies can connect their vehicles to bloXmove to offer decentralized mobility services.',
+    'bloXmove is a decentralized B2B mobility blockchain platform that connects providers into a global alliance.',
   discord: null,
   investors: ['m8rgyb', 'pbunpe', 'n01vko', 'xgnbev', 'h8sw72', 'w19rhh', 'r0huce'],
   linkedin: 'https://www.linkedin.com/company/bloxmove2021/',

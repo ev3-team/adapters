@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Script TV',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'script-network',
   id: '3yilwl',
   description:
-    'Script TV is a decentralized video delivery network that furnishes an expansive range of blockchain-enabled solutions to the problems related to the traditional video-streaming sector.',
+    'Script Network is an EVM Layer 1 video protocol, infrastructure, and live broadcasting network that allows users to distribute their content.',
   discord: '849605237185970196',
   investors: [],
   linkedin: null,

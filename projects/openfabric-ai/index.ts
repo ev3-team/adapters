@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Openfabric AI',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'openfabric',
   id: 'vzfbpq',
   description:
-    'Openfabric is a decentralized AI platform where the collaboration between AI innovators, data providers, businesses, and infrastructure providers.',
+    'Openfabric AI is a decentralized AI platform that allows users to create, share, and monetize AI services at scale.',
   discord: '1080095228171665418',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/openfabricai/',

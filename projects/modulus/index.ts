@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Modulus',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '93up2s',
   description:
-    'An on-chain AI company that aims to bring AI on-chain with the world‚Äôs only ZKML prover',
+    'Modulus is developing a technology to bring powerful AI on-chain with specialized ZK.',
   discord: null,
   investors: ['bspyld', '7ygqh2', 'wvitwb', '94d9pz', 'vydmt3', 'jshpe0', 'e7om6t', 'rnfx5j'],
   linkedin: 'https://www.linkedin.com/company/moduluslabs/about/',

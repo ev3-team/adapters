@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Qubic',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'L1/L2',
   chain: null,
-  category: 'AI',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: '8hzipe',
-  description: 'Qubic Network is a smart contract platform for AI applications.',
+  description:
+    'Qubic is a Layer 1 UPoW powered network aiming to achieve True AI with True Finality and high-speed smart contract execution.',
   discord: '768887649540243497',
   investors: [],
   linkedin: null,
@@ -18,8 +19,8 @@ export default {
   blog: null,
   github: 'https://github.com/qubic-li',
   telegram: null,
-  twitter: 'https://twitter.com/qubic_network',
-  url: 'https://web.qubic.li/',
+  twitter: 'https://twitter.com/_qubic_',
+  url: 'https://qubic.org/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
