@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '0w936j',
   description:
-    'Drone Link uses DePin model to enhance drone performance and accelerate regional expansion.',
+    'Drone Link uses DePIN model to enhance drone performance and accelerate regional expansion.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dronelink/',

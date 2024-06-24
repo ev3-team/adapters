@@ -11,7 +11,7 @@ export default {
   id: 's90vk1',
   description:
     'Circularr is a decentralized recycling network that aims to streamline interactions between organizations, consumers, and recyclers, enhancing accountability and traceability across plastic recycling, sustainable textiles, and garment manufacturing.',
-  discord: null,
+  discord: '904800838655021117',
   investors: [],
   linkedin: null,
   duneQueries: null,

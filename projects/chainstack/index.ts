@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Chainstack',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'sj6nte',
   description:
-    'Chainstack is a leading blockchain infrastructure providing company. It allows uers to build, run and scale blockchain applications using Chainstack nodes.',
+    'Chainstack is an end-to-end Web3 development platform that helps users to deploy and manage infrastructure for their Web3 applications.',
   discord: '847645538093629441',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/chainstack/',

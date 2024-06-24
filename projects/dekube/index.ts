@@ -11,7 +11,7 @@ export default {
   id: 'q2h5ua',
   description:
     'DEKUBE is a decentralized AI computing network that enables the transformation of consumer-grade GPUs into enterprise-level AI computing power for distributed training of large-scale LLMs.',
-  discord: null,
+  discord: '1230421528546377840',
   investors: [],
   linkedin: null,
   duneQueries: null,

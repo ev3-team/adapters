@@ -17,7 +17,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: 'https://github.com/timogiles/wireless-dead-drop',
-  telegram: null,
+  telegram: 'https://t.me/dropwireless',
   twitter: 'https://mobile.twitter.com/dropwireless',
   url: 'https://dropwireless.io/',
   verified: false,

@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/envirobloq',
   url: 'https://envirobloq.io/',
   verified: false,
   fundraises: [],

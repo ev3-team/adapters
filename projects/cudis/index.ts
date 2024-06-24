@@ -11,7 +11,7 @@ export default {
   id: '34ddzp',
   description:
     'CUDIS develops a Wellness AI-based wearable DePIN that allows people to track and monetize their health data.',
-  discord: null,
+  discord: '1219129455981887498',
   investors: [],
   linkedin: null,
   duneQueries: null,
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/CudisWellness',
-  url: null,
+  url: 'https://www.cudis.xyz/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

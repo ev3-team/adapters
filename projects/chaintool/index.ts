@@ -11,7 +11,7 @@ export default {
   id: 'nx4wrh',
   description:
     'Chaintool develops Microscope, an open-source blockchain metadata protocol to streamline metadata contribution, sharing, and consumption through a sophisticated sharing mechanism, collaborative tools, and incentivization schemes.',
-  discord: null,
+  discord: '1028149975667966022',
   investors: [],
   linkedin: null,
   duneQueries: null,

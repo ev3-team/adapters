@@ -11,7 +11,7 @@ export default {
   id: '69oqt5',
   description:
     'Carnomaly is a Web3 automotive ecosystem offering comprehensive vehicle reports, decentralized automotive lending, worldwide rebates, and a comprehensive automotive records repository.',
-  discord: null,
+  discord: '673980479434915841',
   investors: [],
   linkedin: null,
   duneQueries: null,

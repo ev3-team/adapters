@@ -6,11 +6,11 @@ export default {
   subcategories: null,
   chain: 'SOLANA',
   category: 'SENSORS',
-  token: 'DePIN',
+  token: 'DEPINDAO',
   coinGeckoID: 'depin-dao',
   id: 'ebuevs',
   description:
-    'DePIN DAO is a Big Data Center Based on Solana that allows users to contribute their data(upload their own eating, driving, and hotel information, etc) earn $Depin rewards and enjoy the process of monetizing their data.',
+    'DePIN DAO is a Big Data Center Based on Solana that allows users to contribute their data(upload their own eating, driving, and hotel information, etc) earn $DePIN rewards and enjoy the process of monetizing their data.',
   discord: null,
   investors: [],
   linkedin: null,

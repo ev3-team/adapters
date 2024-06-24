@@ -16,11 +16,11 @@ export default {
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
-  blog: null,
+  blog: 'https://medium.com/@clusterprotocol.io',
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://twitter.com/ClusterProtocol',
+  twitter: 'https://x.com/ClusterProtocol',
+  url: 'https://clusterprotocol.ai',
   verified: false,
   fundraises: [
     {

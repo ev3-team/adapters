@@ -13,7 +13,7 @@ export default {
     'Ethoplex is a leading wireless internet service provider that delivers advanced, high-speed Internet access to businesses and rural residential customers alike.',
   discord: null,
   investors: [],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/ethoplex/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

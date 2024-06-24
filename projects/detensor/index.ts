@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/DeTensor',
   twitter: 'https://twitter.com/DeTensorIO',
   url: 'https://detensor.io/',
   verified: false,

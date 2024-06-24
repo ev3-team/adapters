@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'LBS',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'NATIVE',
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'LBS',
   coinGeckoID: null,
   id: 'elto7m',
   description:
-    "LBS Chain is the world's first location-based Layer 3 blockchain. It allows developers to craft Web3 local service Dapps with ease and affordability while enabling users to contribute and profit from LBS data. ",
+    'LBS Chain is a Layer 3 blockchain designed for location-based services, empowering developers to build affordable Web3 Dapps while enabling users to contribute to and profit from location data.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -17,7 +17,7 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/devolthq',
   telegram: null,
   twitter: 'https://twitter.com/ddevolt/',
   url: 'https://www.devolt.xyz/',

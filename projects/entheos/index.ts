@@ -18,7 +18,7 @@ export default {
   blog: 'https://entheosnetwork.medium.com/entheos-network-b3e43242a5ae',
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/entheosnetwork',
   url: 'https://www.entheos.network/',
   verified: false,
   fundraises: [],

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Truebit',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'truebit-protocol',
   id: 's2zdlj',
   description:
-    'Truebit is an outsourced computation protocol that aims to take off-chain large computation tasks such as complex smart contracts.',
+    'Truebit Verify is a verified computing platform that allows developers to build certified, interoperable applications that integrate seamlessly with any data source, interact across multiple ledgers, and execute complex code.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/truebit/',

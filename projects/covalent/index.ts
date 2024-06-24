@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Covalent',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'RPC/Indexing',
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',

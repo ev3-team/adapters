@@ -11,7 +11,7 @@ export default {
   id: 'g62mpn',
   description:
     'W3bstream is a decentralized infrastructure for connecting smart devices to smart contracts',
-  discord: '534888542648664074',
+  discord: null,
   investors: [],
   linkedin: null,
   duneQueries: null,

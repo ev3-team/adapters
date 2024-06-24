@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/dongo_ai',
   twitter: 'https://twitter.com/Dongo_AI',
   url: 'https://dongo.ai/',
   verified: false,

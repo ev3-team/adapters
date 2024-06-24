@@ -21,6 +21,7 @@ import _37Angels from './_37-angels'
 import _3ac from './_3ac'
 import _3commas from './_3commas'
 import _3gr from './_3gr'
+import _3one4 from './_3one4'
 import _3tweleveCash from './_3tweleve-cash'
 import _3x from './_3x'
 import _4Seasons from './_4-seasons'
@@ -165,6 +166,7 @@ import alphacrypto from './alphacrypto'
 import alphagrep from './alphagrep'
 import alphalab from './alphalab'
 import alphanonce from './alphanonce'
+import alphawave from './alphawave'
 import alphemy from './alphemy'
 import altcoinbuzz from './altcoinbuzz'
 import alumni from './alumni'
@@ -210,8 +212,10 @@ import angeldao from './angeldao'
 import angelone from './angelone'
 import angelsdeckVentureClub from './angelsdeck-venture-club'
 import angesQuébec from './anges-québec'
+import aniketJindal from './aniket-jindal'
 import anilGodhwani from './anil-godhwani'
 import animoca from './animoca'
+import anishMohammed from './anish-mohammed'
 import anithaVadavatha from './anitha-vadavatha'
 import ankr from './ankr'
 import ankushSachdeva from './ankush-sachdeva'
@@ -835,6 +839,7 @@ import dcinvestor from './dcinvestor'
 import dcm from './dcm'
 import dct from './dct'
 import dcvc from './dcvc'
+import dcx from './dcx'
 import ddaoHunters from './ddao-hunters'
 import dealean from './dealean'
 import decasonic from './decasonic'
@@ -1539,6 +1544,7 @@ import juanBenet from './juan-benet'
 import jubiLabs from './jubi-labs'
 import juliaHartz from './julia-hartz'
 import juliaLipton from './julia-lipton'
+import julianTraversa from './julian-traversa'
 import julianZegelman from './julian-zegelman'
 import julienBouteloup from './julien-bouteloup'
 import jump from './jump'
@@ -2010,6 +2016,7 @@ import nexo from './nexo'
 import next from './next'
 import nextChymia from './next-chymia'
 import nexusOne from './nexus-one'
+import nexusVenturePartners from './nexus-venture-partners'
 import nftTechnologies from './nft-technologies'
 import nfventures from './nfventures'
 import nfx from './nfx'
@@ -3079,6 +3086,7 @@ export const investors = {
   _3ac,
   _3commas,
   _3gr,
+  _3one4,
   _3tweleveCash,
   _3x,
   _4Seasons,
@@ -3223,6 +3231,7 @@ export const investors = {
   alphagrep,
   alphalab,
   alphanonce,
+  alphawave,
   alphemy,
   altcoinbuzz,
   alumni,
@@ -3268,8 +3277,10 @@ export const investors = {
   angelone,
   angelsdeckVentureClub,
   angesQuébec,
+  aniketJindal,
   anilGodhwani,
   animoca,
+  anishMohammed,
   anithaVadavatha,
   ankr,
   ankushSachdeva,
@@ -3893,6 +3904,7 @@ export const investors = {
   dcm,
   dct,
   dcvc,
+  dcx,
   ddaoHunters,
   dealean,
   decasonic,
@@ -4597,6 +4609,7 @@ export const investors = {
   jubiLabs,
   juliaHartz,
   juliaLipton,
+  julianTraversa,
   julianZegelman,
   julienBouteloup,
   jump,
@@ -5068,6 +5081,7 @@ export const investors = {
   next,
   nextChymia,
   nexusOne,
+  nexusVenturePartners,
   nftTechnologies,
   nfventures,
   nfx,
