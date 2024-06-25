@@ -197,7 +197,6 @@ import beyond from './beyond'
 import bigData from './big-data'
 import bigcode from './bigcode'
 import birdmoney from './bird-money'
-import birdbyte from './birdbyte'
 import bison from './bison'
 import bistroo from './bistroo'
 import bitads from './bitads'
@@ -854,6 +853,7 @@ import ipsx from './ipsx'
 import iq from './iq'
 import ironMill from './iron-mill'
 import ironfish from './ironfish'
+import irreducible from './irreducible'
 import irys from './irys'
 import ispolink from './ispolink'
 import itheum from './itheum'
@@ -1713,7 +1713,6 @@ import ukaton from './ukaton'
 import ukiss from './ukiss'
 import ultra from './ultra'
 import ultronglow from './ultronglow'
-import ulvetenna from './ulvetenna'
 import uma from './uma'
 import umma from './umma'
 import unifique from './unifique'
@@ -1738,12 +1737,12 @@ import usefulSensors from './useful-sensors'
 import utilitynet from './utilitynet'
 import uxlink from './uxlink'
 import vaiot from './vaiot'
+import valence from './valence'
 import validationCloud from './validation-cloud'
 import valist from './valist'
 import valleydao from './valleydao'
 import vana from './vana'
 import vanar from './vanar'
-import vanna from './vanna'
 import vara from './vara'
 import vastai from './vast-ai'
 import vaulttech from './vaulttech'
@@ -2073,7 +2072,6 @@ export const projects = {
   bigData,
   bigcode,
   birdmoney,
-  birdbyte,
   bison,
   bistroo,
   bitads,
@@ -2730,6 +2728,7 @@ export const projects = {
   iq,
   ironMill,
   ironfish,
+  irreducible,
   irys,
   ispolink,
   itheum,
@@ -3589,7 +3588,6 @@ export const projects = {
   ukiss,
   ultra,
   ultronglow,
-  ulvetenna,
   uma,
   umma,
   unifique,
@@ -3614,12 +3612,12 @@ export const projects = {
   utilitynet,
   uxlink,
   vaiot,
+  valence,
   validationCloud,
   valist,
   valleydao,
   vana,
   vanar,
-  vanna,
   vara,
   vastai,
   vaulttech,

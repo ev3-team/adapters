@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Graphia',
-  ninja: null,
+  ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
   subcategories: null,
   chain: 'NATIVE',
   category: 'RWA',

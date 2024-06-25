@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Flow',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2',
-  chain: null,
+  chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'FLOW',
   coinGeckoID: 'flow',
   id: 'g4borf',
   description:
-    'Flow is a permissionless layer 1 blockchain, empowering developers to create limitless Web3 apps for mainstream adoption',
+    'Flow is a proof of stake blockchain designed for Web3 and the open metaverse, supporting large-scale decentralized applications, NFTs, DeFi, and more, powered by the Cadence programming language.',
   discord: '613813861610684416',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/flow-blockchain/',

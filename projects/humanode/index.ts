@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Humanode',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'humanode',
   id: 'ful6z6',
   description:
-    'Humanode is the first human-powered crypto-biometric network, where 1 human = 1 node = 1 vote.',
+    'Humanode is the first crypto-biometric network where one human equals one node, providing sybil resistance and innovative governance models to the crypto industry using private biometric technology.',
   discord: '819836895739248700',
   investors: [
     'xmw0ev',

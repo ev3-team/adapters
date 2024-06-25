@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Freatic',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'php632',
   description:
-    'Freatic is a project focused on developing a decentralized information markets protocol.',
+    'Freatic is a decentralized information markets protocol that aims to use cryptography and game theory to connect people with untapped information and accelerate the flow of real world information about different markets.',
   discord: null,
   investors: [
     'd40or5',
