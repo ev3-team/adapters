@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Ulvetenna',
+  name: 'Irreducible',
   ninja: 'ZZ',
   subcategories: 'ZK',
   chain: null,
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'liwr2s',
   description:
-    'Ulvetanna is an Enterprise Grade Zero-Knowledge Proof Acceleration Platform supporting web3 technologies.',
+    'Irreducible is an Enterprise Grade Zero-Knowledge Proof Acceleration Platform supporting web3 technologies.',
   discord: null,
   investors: [],
   linkedin: null,

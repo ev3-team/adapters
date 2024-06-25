@@ -9,8 +9,7 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'nyewp0',
-  description:
-    'The SolSplits Protocol is a composable standard for splitting on-chain income on the Solana Network.',
+  description: 'SolSplits is a composable standard for splitting on-chain income on Solana.',
   discord: '934693914399633418',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/solsplits/',

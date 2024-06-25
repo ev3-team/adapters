@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Perpetual',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'perpetual-protocol',
   id: 'z6ss7w',
   description:
-    'Perpetual Protocol is a software that seeks to incentivize a distributed network of computers to operate an exchange where users can buy and sell derivative contracts.',
+    'Perpetual Protocol is a trustless crypto trading platform that allows users to explore perpetual swaps, earn yield, and learn the future of DeFi with their decentralized trading protocol on Optimism.',
   discord: '687397941383659579',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/perpetualprotocol/',

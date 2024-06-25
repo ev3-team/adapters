@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Vanna',
+  name: 'Valence',
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
