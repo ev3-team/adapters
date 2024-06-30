@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SEI',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',
   token: 'SEI',

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Carnomaly',
   ninja: 'ZZ',
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: 'POLYGON',
   category: 'BLOCKCHAIN_INFRA',
   token: 'CARR',

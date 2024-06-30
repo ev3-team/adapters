@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rapidata',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'SERVICES',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'y47135',
   description:
-    'A startup offering a new method for human-verified data processing at scale. Rapidata solves a fundamental problem faced by the modern AI industry.',
+    'Rapidata annotates large datasets rapidly, accurately, and cost-effectively by harnessing the power of the crowd, replacing boring full-screen ads in mobile apps with small, interactive data labeling tasks for AI.',
   discord: null,
   investors: ['ibk8eu', 'jo973z', 'knt2wt', '3qwz70'],
   linkedin: 'https://www.linkedin.com/company/rapidata/',

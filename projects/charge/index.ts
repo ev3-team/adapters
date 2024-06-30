@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Charge',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Mobility',
   chain: null,
   category: 'ENERGY',
   token: null,

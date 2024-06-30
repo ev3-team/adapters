@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Teleport',
   ninja: null,
-  subcategories: 'Ridesharing',
+  subcategories: 'Mobility',
   chain: null,
   category: 'SERVICES',
   token: null,

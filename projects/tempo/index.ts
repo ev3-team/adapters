@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Tempo',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Mobility',
   chain: null,
   category: 'SENSORS',
   token: null,
   coinGeckoID: null,
   id: 'l84cmm',
-  description: 'TEMPO allows anyone to have their own electric vehicle.',
+  description:
+    'Tempo is an app-based service that makes it easy for users to own an electric bike, with roadside pickup, insurance, preventative maintenance, and security.',
   discord: null,
   investors: ['ajzzhi', '6i9wk0'],
   linkedin: null,

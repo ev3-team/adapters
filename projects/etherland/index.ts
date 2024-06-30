@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Etherland',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'RWA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'z4helo',
   description:
-    "Etherland is digitalizing real-estate properties and their owners' legal documents, granting unhinged traceability and immutability through Blockchain and IPFS technologies.",
+    "Etherland is digitalizing real-estate properties and their owners' legal documents, granting unhinged traceability and immutability through blockchain and IPFS technologies.",
   discord: '797343471379152917',
   investors: [],
   linkedin: null,

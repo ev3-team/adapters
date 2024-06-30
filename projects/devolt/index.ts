@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DeVolt',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'Mobility',
   chain: null,
   category: 'ENERGY',
   token: null,

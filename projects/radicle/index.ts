@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Radicle',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'n2u1ny',
   description:
-    'Radicle is a peer-to-peer stack for building software together. Radicle functions as a peer-to-peer protocol where each user on the network runs identical software, known as the Radicle Stack.',
+    'Radicle is a decentralized, peer-to-peer code collaboration platform built on Git, where repositories are replicated across peers in a decentralized manner, empowering users with full control over their data and workflows.',
   discord: null,
   investors: [
     '896jil',

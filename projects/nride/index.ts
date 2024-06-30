@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'nRide',
   ninja: 'W. L.',
-  subcategories: 'Ridesharing',
+  subcategories: 'Mobility',
   chain: null,
   category: 'SERVICES',
   token: null,

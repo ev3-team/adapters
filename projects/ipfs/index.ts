@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'IPFS',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'ebcetj',
   description:
-    'IPFS is a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open. IPFS addresses files based on content, not location.',
+    'IPFS is an open-source, peer-to-peer protocol that manages data without a central server, ensuring decentralized, verifiable, and resilient storage and sharing across various industries.',
   discord: '806902334369824788',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/protocollabs/',

@@ -9,7 +9,7 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'a4zdzs',
-  description: 'Telegram bot for permissionless communications',
+  description: 'Suanbot is a Telegram bot-based eSIM and VPN services provider.',
   discord: null,
   investors: [],
   linkedin: null,
