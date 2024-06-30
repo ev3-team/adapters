@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'LinqAI',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: 'ETHEREUM',
+  category: 'PENDING',
+  token: 'LNQ',
+  coinGeckoID: 'linqai',
+  id: 'v539fk',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/linq_ai',
+  url: 'https://linqai.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

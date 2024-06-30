@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'NATIX',
   ninja: 'ZZ',
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: null,
   category: 'SENSORS',
   token: null,

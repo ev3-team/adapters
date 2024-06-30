@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Oone World',
   ninja: 'ZZ',
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: null,
   category: 'SENSORS',
   token: null,

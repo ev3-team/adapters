@@ -2,11 +2,11 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Espresso Systems',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: 'CAPE',
+  token: 'ESP',
   coinGeckoID: null,
   id: '1rgbka',
   description:

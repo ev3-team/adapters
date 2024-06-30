@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Propchain',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'RWA',
   token: 'PROPC',
-  coinGeckoID: null,
+  coinGeckoID: 'propchain',
   id: 'pe85na',
   description:
-    'Propchain develops on a blockchain-based ecosystem for real-world assets and proptech solutions. Prop.com is a consumer-focused platform for tokenized real estate investments, ensuring seamless access to real-world assets and a digitally intuitive interface for asset ownership.',
+    'Propchain is a blockchain-based ecosystem for real-world assets and proptech solutions.',
   discord: null,
   investors: [],
   linkedin: null,

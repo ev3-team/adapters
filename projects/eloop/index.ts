@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ELOOP',
   ninja: null,
-  subcategories: 'Ridesharing',
+  subcategories: 'Mobility',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,

@@ -10,6 +10,7 @@ export type AdapterProjectCategory =
   | 'SERVICES'
   | 'RWA'
   | 'WIRELESS'
+  | 'PENDING'
 
 export type AdapterProjectChain =
   | 'ALGORAND'
@@ -19,6 +20,7 @@ export type AdapterProjectChain =
   | 'BINANCE'
   | 'BITCOIN'
   | 'BITTENSOR'
+  | 'BASE'
   | 'CARDANO'
   | 'COSMOS'
   | 'CRONOS'

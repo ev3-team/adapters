@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'wy42w1',
   description:
-    '_Radius is a shared sequencing layer designed to eliminate harmful MEV and censorship while creating economic value for rollups.',
+    'Radius is a sequencing layer designed to secure transactions, guarantee fast finality, and streamline interoperability in rollups.',
   discord: null,
   investors: [],
   linkedin: null,

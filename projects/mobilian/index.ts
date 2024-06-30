@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Mobilian',
   ninja: null,
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: null,
   category: 'AI',
   token: null,

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MobiFi',
   ninja: null,
-  subcategories: 'Ridesharing',
+  subcategories: 'Mobility',
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'MOFI',

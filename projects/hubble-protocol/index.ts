@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Hubble Protocol',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'usdh',
   id: 'ztuwxq',
   description:
-    'Hubble Protocol is exploring the universe of DeFi on Solana. Hubble begins this by minting USDH through zero-interest borrowing.',
+    'Hubble Protocol is a financial platform building sustainable Decentralized Finance services on Solana and offers USDH an overcollateralized stablecoin.',
   discord: '901231379587670066',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/hubbleprotocol/',

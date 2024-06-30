@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'IdeaCorp',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: 'IDEA',
+  coinGeckoID: null,
+  id: 'x3y6f3',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/ideacorp_',
+  url: 'https://www.ideacorporation.org/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
