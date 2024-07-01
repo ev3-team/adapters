@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Switchboard',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'iik6nb',
   description:
-    'Switchboard is a generalized, community-curated oracle network designed to incentivize bringing the long tail of data on-chain.',
+    'Switchboard is a permissionless Oracle network that allows developers to seamlessly connect dApps to real-world data.',
   discord: '841525135311634443',
   investors: [
     'b5zojp',

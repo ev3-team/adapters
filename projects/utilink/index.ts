@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Utilink',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'pp6yep',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/utilinkAI',
+  url: 'https://utilink.xyz/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

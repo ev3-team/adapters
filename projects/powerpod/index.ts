@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'PowerPod',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'Mobility',
   chain: 'ETHEREUM',
   category: 'ENERGY',
   token: 'PPD',

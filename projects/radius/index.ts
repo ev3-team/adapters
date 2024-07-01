@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Radius',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'SERVICES',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'kttpsl',
   description:
-    'Radius is a decentralized network that connects independent workers and teams to the best projects in web3.',
+    'Radius is a decentralized network that connects independent workers and teams to projects in web3.',
   discord: '943268752001228820',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/tephralabs/about/',

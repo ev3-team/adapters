@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'CureCoin',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: 'CURE',
+  coinGeckoID: 'curecoin',
+  id: 'c9smzm',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/curecoin_team',
+  url: 'https://curecoin.net/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

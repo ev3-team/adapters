@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BSN',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'nwj87z',
   description:
-    'The Blockchain-based Service Network is a cross-cloud, cross-portal, and cross-framework global infrastructure network used to deploy and operate all types of blockchain applications.',
+    'BSN is a cross-cloud, cross-portal, and cross-framework global public infrastructure network to deploy and operate all types of blockchain DApps.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/bsnbase/',

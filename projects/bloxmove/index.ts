@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'bloXmove',
   ninja: 'ZZ',
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'BLXM',

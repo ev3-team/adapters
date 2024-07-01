@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'READYgg',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Gaming',
   chain: null,
   category: 'NOT_DEPIN',

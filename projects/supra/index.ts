@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Supra',
-  ninja: null,
-  subcategories: 'Oracle',
-  chain: null,
+  ninja: 'ZZ',
+  subcategories: 'L1/L2, Oracle',
+  chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
-  token: null,
-  coinGeckoID: null,
+  token: 'SUPRA',
+  coinGeckoID: 'supra',
   id: '2d4mvd',
   description:
-    'SupraOracles is a decentralized oracle network that allows smart contracts to access off-chain data in a secure and reliable way.',
+    'Supra is a powerful Layer-1 blockchain ecosystem that provides advanced cross-chain interoperability and decentralization through its suite of groundbreaking protocols, including decentralized oracles, bridges, and verifiable random functions.',
   discord: '850682587273625661',
   investors: [
     '7bn5bf',

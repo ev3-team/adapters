@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'rug.ai',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'w7589y',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/rug_ai',
+  url: 'https://rug.ai/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

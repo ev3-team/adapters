@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DIMO',
   ninja: null,
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'DIMO',

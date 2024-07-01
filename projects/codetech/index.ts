@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'CoDeTech',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: '8e2w7o',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/CoDeTechCC',
+  url: 'https://codetech.cc/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

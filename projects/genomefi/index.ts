@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'GenomeFi',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'x5s3a0',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://twitter.com/GenomeFi',
+  url: 'https://genomefi.io/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

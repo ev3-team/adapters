@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aleph Zero',
-  ninja: null,
-  subcategories: null,
-  chain: null,
+  ninja: 'ZZ',
+  subcategories: 'L1/L2',
+  chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'AZERO',
   coinGeckoID: null,
   id: 'qxdzwc',
   description:
-    "Aleph Zero is a layer 1 privacy-enhancing blockchain that ensures scalability, low transaction fees, instant finality, and optimal security. It's powered by a novel consensus protocol and the WASM-based technology stack.",
+    'Aleph Zero is a layer 1 privacy-enhancing blockchain that ensures scalability, low transaction fees, instant finality, and optimal security, powered by a novel consensus protocol and a WASM-based technology stack.',
   discord: '775720634848116807',
   investors: [],
   linkedin: null,

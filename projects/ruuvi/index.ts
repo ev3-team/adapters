@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ruuvi',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '3mrg2q',
   description:
-    'Ruuvi creates simple and powerful environmental sensor products for consumers and businesses.The Ruuvi sensors measure air temperature, humidity, pressure, and acceleration, depending on the models.',
+    'Ruuvi manufactures environmental sensors that measure temperature, air humidity, pressure, and motion. ',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/ruuvi',

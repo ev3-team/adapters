@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Cruiz',
   ninja: 'ZZ',
-  subcategories: 'Ridesharing',
+  subcategories: 'Mobility',
   chain: 'ETHEREUM',
   category: 'SERVICES',
   token: 'CRUIZ',

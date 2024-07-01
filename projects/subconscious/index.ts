@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Subconscious',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',

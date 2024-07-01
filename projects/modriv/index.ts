@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Modriv',
   ninja: 'ZZ',
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: 'BINANCE',
   category: 'SENSORS',
   token: 'MDR',

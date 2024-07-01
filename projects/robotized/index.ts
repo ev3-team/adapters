@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Robotized',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Mobility',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'n87ym5',
   description:
-    'Robotiz3d is building the world‚Äôs first autonomous road maintenance vehicle to help tackle the pothole problem.',
+    'Robotiz3d develops and builds next-generation robotics with machine-learning capabilities for autonomous pothole detection, prevention, and repair.',
   discord: null,
   investors: [],
   linkedin: null,

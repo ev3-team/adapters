@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StepN',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'SENSORS',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'stepn',
   id: '9ptjw7',
   description:
-    'STEPN is a Web3 lifestyle app with inbuilt Game-Fi and Social-Fi elements. Players can make handsome tokens earnt though walking, jogging or running.',
+    'STEPN is a Web3 lifestyle app with inbuilt Game-Fi and Social-Fi elements that allow users to earn tokens for walking, jogging, or running.',
   discord: '890163015561932840',
   investors: ['hol96b', 'b5zojp', 'ifb7yv', 'ksae6d', 'vf0qg4', 'emg882', 'tlb60n', 'tzdukk'],
   linkedin: 'https://www.linkedin.com/company/stepn-by-find-satoshi-lab/',

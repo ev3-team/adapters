@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '0c8gl1',
   description:
-    'Dialect is developing a protocol for smart messaging. It offers ‚Äädynamic, composable dapp notifications and wallet-to-wallet chat. Powered by Solana.',
+    'Dialect is a protocol and developer stack for delivering seamless product experiences across Web3 with integrated Alerts and Actions.',
   discord: '1168929408279646278',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/dialect-labs/about/',

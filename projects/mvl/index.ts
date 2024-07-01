@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MVL',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'Mobility',
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'MVL',

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ProvenRun',
   ninja: 'EV3 Sal',
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

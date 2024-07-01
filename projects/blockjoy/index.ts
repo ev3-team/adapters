@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'BlockJoy',
+  ninja: null,
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'krc7u7',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/blockjoyweb3',
+  url: 'https://www.blockjoy.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

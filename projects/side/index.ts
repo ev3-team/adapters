@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Side',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '62pug3',
   description:
-    'The Side Protocol is a modular infrastructure designed to scale Bitcoin. At its core is SIDE, a Bitcoin sidechain secured by BTC and serving as the settlement layer for zk-rollups within the modular stack.',
+    'Side Protocol is an extension layer of Bitcoin, a sidechain secured by BTC and serving as the settlement layer for zk-rollups within the modular stack.',
   discord: '1031431934204706856',
   investors: [],
   linkedin: null,

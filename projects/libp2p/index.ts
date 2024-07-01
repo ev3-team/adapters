@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'libp2p',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'hsbb4a',
   description:
-    'Libp2p is an open-source network stack that lets you build modern, fully distributed applications.',
+    'libp2p is a modular system of protocols, specifications, and libraries that enable the development of peer-to-peer network applications.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/protocollabs/',

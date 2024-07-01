@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Autochain',
   ninja: null,
-  subcategories: 'Auto',
+  subcategories: 'Mobility',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
