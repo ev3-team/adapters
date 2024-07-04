@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: '5ireChain',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'oecmcs',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/5ireChain',
+  url: 'https://5ire.org/home',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
