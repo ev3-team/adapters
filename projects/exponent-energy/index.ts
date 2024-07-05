@@ -13,7 +13,7 @@ export default {
     'Exponent Energy is a full stack energy company that builds chargers, batteries and everything in between to unlock 15-minute rapid charging for EVs.',
   discord: null,
   investors: [],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/exponent-energy/',
   duneQueries: null,
   foundingYear: null,
   blog: null,
