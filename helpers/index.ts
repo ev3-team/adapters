@@ -1,5 +1,7 @@
+import dayjs from 'dayjs'
 import { AdapterInvestor, investors } from '../investors'
 import { AdapterProject, projects } from '../projects'
+import { EnumFundRaiseRoundType, FundRaiseRow } from '../scripts/types'
 import { createNewId } from './utils'
 
 export const generateInvestorId = () => createNewId()(true, Object.values(investors))
@@ -129,6 +131,42 @@ export const generateProjectsDuneCsvRow = (p: AdapterProjectDuneCsvRow) =>
 /** Generates a row for the investors csv. */
 export const generateInvestorCsvRow = (i: Pick<AdapterInvestor, 'id' | 'name'>) =>
   `${i.name},${i.id}`
+
+type FundRaise = {
+  project: Pick<AdapterProjectDuneCsvRow, 'id' | 'name'>
+  investors: Array<Pick<AdapterInvestor, 'id' | 'name'>>
+  roundType: EnumFundRaiseRoundType
+  roundDate: Date
+  raiseAmount: number
+  sourceEuropeanUnionRL: string
+}
+
+/** Generates a row for the investors csv. */
+export const generateFundraiseCsvRow = (fundraise: FundRaise) => {
+  const fundraiseRow: FundRaiseRow = {
+    investors: fundraise.investors.map((i) => i.name).join(','),
+    investorsIds: fundraise.investors.map((i) => i.id).join(','),
+    projectId: fundraise.project.id,
+    projectName: fundraise.project.name,
+    raiseAmount: fundraise.raiseAmount.toString(),
+    roundDate: dayjs(fundraise.roundDate).format('MM/DD/YYYY'),
+    roundType: fundraise.roundType,
+    sourceEuropeanUnionRL: fundraise.sourceEuropeanUnionRL,
+  }
+
+  const {
+    projectName,
+    projectId,
+    investors,
+    investorsIds,
+    roundType,
+    roundDate,
+    raiseAmount,
+    sourceEuropeanUnionRL,
+  } = fundraiseRow
+
+  return `${projectName},${projectId},${roundType},${roundDate},${raiseAmount},${sourceEuropeanUnionRL},"${investors}","${investorsIds}"`
+}
 
 type GenerateInvestorProjectsCsvRowArgs = {
   investor: Pick<AdapterInvestor, 'id' | 'name'>
