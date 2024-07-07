@@ -33,9 +33,9 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/fileverse',
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/fileverse',
   url: 'https://fileverse.io/',
   verified: false,
   fundraises: [

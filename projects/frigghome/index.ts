@@ -13,7 +13,7 @@ export default {
     'FriggHome is a decentralized physical infrastructure for blockchain networks that can validate ETH and other PoS crypto through a Plug2Earn device.',
   discord: null,
   investors: [],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/frigglobal/',
   duneQueries: null,
   foundingYear: null,
   blog: null,
