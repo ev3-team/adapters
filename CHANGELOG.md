@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.56
+
+### Patch Changes
+
+- fundraise utils
+
 ## 0.3.55
 
 ### Patch Changes

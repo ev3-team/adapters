@@ -1,6 +1,6 @@
 {
   "name": "@ev3-team/adapters",
-  "version": "0.3.55",
+  "version": "0.3.56",
   "description": "",
   "private": false,
   "main": "./dist/index.js",
@@ -30,5 +30,8 @@
     "tsup": "^7.2.0",
     "tsx": "^4.7.3",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11"
   }
 }

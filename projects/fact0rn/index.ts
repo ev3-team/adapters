@@ -11,7 +11,7 @@ export default {
   id: 'w0jykb',
   description:
     'FACT0RN: a blockchain replacing hashing with Integer Factorization as Proof of Work. Forked from bitcoin V22.0.',
-  discord: null,
+  discord: '1119575806818123838',
   investors: [],
   linkedin: null,
   duneQueries: null,
