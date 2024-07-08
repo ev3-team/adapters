@@ -1,7 +1,7 @@
 import dayjs from 'dayjs'
 import { AdapterInvestor, investors } from '../investors'
 import { AdapterProject, projects } from '../projects'
-import { EnumFundRaiseRoundType, FundRaiseRow } from '../scripts/types'
+import { EnumFundRaiseRoundType, FundRaiseRow, PartnershipRow } from '../scripts/types'
 import { createNewId } from './utils'
 
 export const generateInvestorId = () => createNewId()(true, Object.values(investors))
@@ -141,7 +141,7 @@ type FundRaise = {
   sourceEuropeanUnionRL: string
 }
 
-/** Generates a row for the investors csv. */
+/** Generates a row for the fundraise csv. */
 export const generateFundraiseCsvRow = (fundraise: FundRaise) => {
   const fundraiseRow: FundRaiseRow = {
     investors: fundraise.investors.map((i) => i.name).join(','),
@@ -168,9 +168,22 @@ export const generateFundraiseCsvRow = (fundraise: FundRaise) => {
   return `${projectName},${projectId},${roundType},${roundDate},${raiseAmount},${sourceEuropeanUnionRL},"${investors}","${investorsIds}"`
 }
 
-type GenerateInvestorProjectsCsvRowArgs = {
-  investor: Pick<AdapterInvestor, 'id' | 'name'>
+type Partnership = {
+  projectId: string
+  partnerId: string
+  title: string
+  announcementDate: Date
+  announcementLink: string
+}
 
-  /** The list of ids the given projects has invested in. */
-  projectsInvestedIds: string[]
+/** Generates a row for the partners csv. */
+export const generatePartnershipCsvRow = (partnership: Partnership) => {
+  const partnershipRow: PartnershipRow = {
+    ...partnership,
+    announcementDate: dayjs(partnership.announcementDate).format('MM/DD/YYYY'),
+  }
+
+  const { projectId, partnerId, title, announcementDate, announcementLink } = partnershipRow
+
+  return `${projectId},${partnerId},${title},${announcementDate},${announcementLink}`
 }
