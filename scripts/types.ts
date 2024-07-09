@@ -23,3 +23,11 @@ export type FundRaiseRow = {
   investors: string
   investorsIds: string
 }
+
+export type PartnershipRow = {
+  projectId: string
+  partnerId: string
+  title: string
+  announcementDate: string
+  announcementLink: string
+}
