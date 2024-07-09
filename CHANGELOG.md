@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.57
+
+### Patch Changes
+
+- partnership csv utils
+
 ## 0.3.56
 
 ### Patch Changes
