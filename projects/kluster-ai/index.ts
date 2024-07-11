@@ -13,7 +13,7 @@ export default {
     'Kluster AI is a distributed AI platform that empowers developers to run and tune large AI models on a distributed compute grid sourced by GPU providers.',
   discord: null,
   investors: [],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/kluster-ai/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

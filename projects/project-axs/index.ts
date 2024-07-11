@@ -16,7 +16,7 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/3uild-3thos/project_axs',
   telegram: null,
   twitter: 'https://x.com/_axsproject',
   url: 'https://projectaxs.fun/',
