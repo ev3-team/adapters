@@ -13,7 +13,7 @@ export default {
     'M^0 is decentralized money middleware that allows institutions to issue cryptodollars.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/m-zero-labs/?originalSubdomain=de',
+  linkedin: 'https://www.linkedin.com/company/m-zero-labs/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

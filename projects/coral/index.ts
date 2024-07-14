@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'CRL',
   coinGeckoID: null,
   id: 'pwn1js',
