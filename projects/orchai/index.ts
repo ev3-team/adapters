@@ -12,7 +12,7 @@ export default {
   description: 'Orchai: AI-powered DeFi platform optimizing asset flow.',
   discord: '1001025635302522960',
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/orchai/?originalSubdomain=vn',
+  linkedin: 'https://www.linkedin.com/company/orchai/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

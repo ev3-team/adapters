@@ -5,12 +5,12 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'RWA',
   token: 'TRVL',
   coinGeckoID: 'dtravel',
   id: '37xksc',
   description:
-    'DTravel is a decentralized platform for home-sharing economy, ensuring easy and secure short and long-term stays.',
+    'Dtravel is a peer-to-peer vacation rental ecosystem built on the Nite Protocol that enables users to find stays, book directly, and earn rewards.',
   discord: '894038050999517184',
   investors: [
     'xmw0ev',

@@ -13,7 +13,7 @@ export default {
     'Graviton provides Web3 tools and infrastructure that allows artists to reach fans, advertise and monetize their work.',
   discord: '1205739617693859900',
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/graviton-xyz/?originalSubdomain=pr',
+  linkedin: 'https://www.linkedin.com/company/graviton-xyz/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://medium.com/graviton-xyz',

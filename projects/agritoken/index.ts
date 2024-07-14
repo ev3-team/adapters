@@ -13,7 +13,7 @@ export default {
     'Agritoken is tokenizing crop futures for efficient and transparent agricultural investing.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/agritoken/?originalSubdomain=br',
+  linkedin: 'https://www.linkedin.com/company/agritoken/',
   duneQueries: null,
   foundingYear: null,
   blog: null,
