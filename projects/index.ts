@@ -529,6 +529,7 @@ import dexauction from './dexauction'
 import dexcheck from './dexcheck'
 import dia from './dia'
 import dialect from './dialect'
+import didDiscovery from './did-discovery'
 import digileaf from './digileaf'
 import digitalGaia from './digital-gaia'
 import dimitra from './dimitra'
@@ -2611,6 +2612,7 @@ export const projects = {
   dexcheck,
   dia,
   dialect,
+  didDiscovery,
   digileaf,
   digitalGaia,
   dimitra,
