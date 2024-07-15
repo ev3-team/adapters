@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'rwnruc',
   description: '',
-  discord: null,
+  discord: '360051864110235648',
   investors: [],
   linkedin: null,
   duneQueries: null,

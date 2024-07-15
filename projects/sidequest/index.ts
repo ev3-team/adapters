@@ -11,7 +11,7 @@ export default {
   id: 'hopxsm',
   description:
     'SideQuest is a VR content platform that allows users to discover and access a wide range of VR content, including experimental games, prototypes, and full releases for standalone headsets like Quest and Quest 2.',
-  discord: null,
+  discord: '1094735216918147113',
   investors: [],
   linkedin: null,
   duneQueries: null,

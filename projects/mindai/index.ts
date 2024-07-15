@@ -17,7 +17,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/MindAIProject',
   twitter: 'https://x.com/MindAIProject',
   url: 'https://mindaiproject.com/',
   verified: false,

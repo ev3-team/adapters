@@ -13,7 +13,7 @@ export default {
     'Algovera is a decentralized AI platform that allows individuals and teams to create, use and share personalized AI.',
   discord: '893460895999590450',
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/algovera/?originalSubdomain=ie',
+  linkedin: 'https://www.linkedin.com/company/algovera/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://handbook.algovera.ai/blog/',

@@ -17,7 +17,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/memetalk_sol',
   twitter: 'https://x.com/memetalk_sol',
   url: 'https://memetalk.net/',
   verified: false,

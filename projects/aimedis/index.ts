@@ -12,7 +12,7 @@ export default {
   description: 'Aimedis is a Blockchain-based eHealth with medical apps and an NFT marketplace.',
   discord: '1227808395617107998',
   investors: ['jkryns', 'imxksv'],
-  linkedin: 'https://www.linkedin.com/company/aimedis/?originalSubdomain=nl',
+  linkedin: 'https://www.linkedin.com/company/aimedis/',
   duneQueries: null,
   foundingYear: null,
   blog: null,
