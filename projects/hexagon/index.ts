@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'vwstsz',
-  description: 'Hexagon builds and operates decentralized wireless infrastructure.',
+  description:
+    'Hexagon builds and operates decentralized wireless infrastructure. SHUT DOWN AS OF 2023.',
   discord: '449876411973632010',
   investors: ['vkntey', 'pmx14k', 'ulvyo3', 'c59jtx', '3ftss8'],
   linkedin: 'https://www.linkedin.com/company/hexagon_2',

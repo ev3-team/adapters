@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Mentat Minds',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: 'BITTENSOR',
+  category: 'NOT_DEPIN',
+  token: null,
+  coinGeckoID: null,
+  id: '21t52o',
+  description: 'Mentat Minds is a TAO delegation platform on Bittensor. ',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/mentatminds',
+  url: null,
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
