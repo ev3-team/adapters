@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'goiapt',
   description:
-    'Pollen Mobile is an anonymous, decentralized, high-speed, open-source, data-only wireless network enabled by a crypto-economy and owned/operated by its user community.',
+    'Pollen Mobile is an high-speed, data-only wireless network. RUGGED IN DECEMBER 2022.',
   discord: null,
   investors: ['ul3tww', '67mqz0', '391xou', 's7axdr', 'ooq1d1'],
   linkedin: 'https://www.linkedin.com/company/pollenmobile',

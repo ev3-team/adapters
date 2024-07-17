@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'ai',
+  url: 'https://www.accessprotocol.co/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

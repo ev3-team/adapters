@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: '3RM',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'fq1s6c',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/3rm_co',
+  url: 'https://www.3rm.co/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
