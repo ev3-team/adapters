@@ -1358,7 +1358,6 @@ import nuvola from './nuvola'
 import nym from './nym'
 import oamo from './oamo'
 import oasisAi from './oasis-ai'
-import oasisAi from './oasis-ai'
 import oasisNetwork from './oasis-network'
 import obi from './obi'
 import obligate from './obligate'
@@ -3539,7 +3538,6 @@ export const projects = {
   nuvola,
   nym,
   oamo,
-  oasisAi,
   oasisAi,
   oasisNetwork,
   obi,
