@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Aimelia',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Prediction Market',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'AIME',

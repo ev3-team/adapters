@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Spexi',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Drones',
   chain: null,
   category: 'SENSORS',

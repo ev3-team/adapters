@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AscensionWx',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Environmental',
   chain: null,
   category: 'SENSORS',

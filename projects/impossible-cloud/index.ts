@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Impossible Cloud',
-  ninja: 'EV3 Sal',
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',

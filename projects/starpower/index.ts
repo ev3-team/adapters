@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Starpower',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'ENERGY',

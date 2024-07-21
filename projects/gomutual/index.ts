@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'GoMutual',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'Mobility',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

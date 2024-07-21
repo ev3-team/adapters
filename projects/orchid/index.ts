@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Orchid',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'WIRELESS',

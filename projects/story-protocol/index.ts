@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: 'Intellectual Property',
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'PENDING',
   token: null,
   coinGeckoID: null,
   id: '5maai7',

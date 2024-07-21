@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'BULL',
   coinGeckoID: null,
   id: 'sfnnyv',

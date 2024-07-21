@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Druglike',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'DeSci',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

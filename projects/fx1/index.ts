@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'FX1',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'Prediction Market',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'FXI',

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'TAObets.ai',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Prediction Market',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,

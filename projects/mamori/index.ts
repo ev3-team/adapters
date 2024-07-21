@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mamori',
-  ninja: 'Vinny',
+  ninja: 'vkurup.eth',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',

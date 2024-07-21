@@ -5,11 +5,12 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: '6qvjpf',
-  description: 'SecondLive: a metaverse for avatars, virtual spaces, art exhibitions, and gaming.',
+  description:
+    'SecondLive is a metaverse for avatars, virtual spaces, art exhibitions, and gaming.',
   discord: '864036969851650048',
   investors: [
     'zloyr1',

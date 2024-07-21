@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'World Mobile',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Mobile',
   chain: 'CARDANO',
   category: 'WIRELESS',
