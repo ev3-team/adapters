@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Theta Fuel',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',

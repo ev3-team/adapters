@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '2o9o23',
   description:
-    'Vast.ai is a GPU rental marketplace enabling users to rent their own GPU or rent GPUs from others.',
+    'Vast.ai is a GPU rental marketplace and cloud computing platform focused on reducing costs and friction for compute-intensive workloads, enabling users to rent or monetize GPU capacity. ',
   discord: '466338952710979595',
   investors: [],
   linkedin: 'https://linkedin.com/company/vast-ai',

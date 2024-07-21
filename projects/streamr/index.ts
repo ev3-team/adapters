@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Streamr',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Data',
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',

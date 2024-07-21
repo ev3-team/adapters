@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: '6uwhcg',
-  description: 'Decentralized cloud gaming and rendering network for immersive metaverses.',
+  description:
+    'Portalverse Protocol is a decentralized cloud gaming and rendering network for immersive metaverses.',
   discord: null,
   investors: ['oby8hh', '4l8mmr', 'bxcu1r', 'nuolrg', 'b6vnn8', 'n9t6zl'],
   linkedin: 'http://www.linkedin.com/company/portalverse-network',

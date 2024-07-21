@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cryptnet',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',

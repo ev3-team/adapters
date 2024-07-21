@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ethernity Cloud',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',

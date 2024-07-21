@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Koii',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',

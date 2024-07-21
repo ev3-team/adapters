@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'TEKKON',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'App',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: null,
   coinGeckoID: null,
   id: 'sel0t5',
-  description: 'TEKKON: Web3 app for citizen-driven infrastructure solutions.',
+  description:
+    'TEKKON is a Web3 app that promotes social good by empowering users (citizens) to help fix their local community’s infrastructure. Users (Citizens) can earn a token by posting and reviewing infrastructure data.',
   discord: '1227383314327933009',
   investors: [],
   linkedin: null,

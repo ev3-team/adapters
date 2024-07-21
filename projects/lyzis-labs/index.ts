@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lyzis Labs',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: 'https://t.me/lyzislabsoff',
   twitter: 'https://twitter.com/lyzislabs',
-  url: 'https://www.lyzis.tech/',
+  url: null,
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

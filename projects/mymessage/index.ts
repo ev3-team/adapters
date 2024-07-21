@@ -5,12 +5,12 @@ export default {
   ninja: 'ZZ',
   subcategories: 'Storage',
   chain: null,
-  category: 'COMPUTE',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: '1rcuf0',
   description:
-    'myMessage is a decentralized data storage protocol enabling secure, low-cost storage and transfer.',
+    'myMessage is a decentralized reddit-like social media & Data Portal for Web3 Applications',
   discord: '895919618034659349',
   investors: [
     'xmw0ev',

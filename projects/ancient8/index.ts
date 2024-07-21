@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Ancient8',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'L1/L2',
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'A8',
   coinGeckoID: null,
   id: 'xjogkp',

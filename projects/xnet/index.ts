@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XNET',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Mobile',
   chain: 'POLYGON',
   category: 'WIRELESS',

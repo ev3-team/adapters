@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Gaming',
   chain: 'BINANCE',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'IBAT',
   coinGeckoID: 'battle-infinity',
   id: 'qx4wxc',

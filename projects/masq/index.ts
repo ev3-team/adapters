@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'masq',
   id: '0ezngt',
   description:
-    'MASQ is a decentralized VPN network built on Polygon, providing secure and private internet browsing.',
+    'MASQ is a private Web3 Browser, Decentralized Multihop-VPN, dApp Store, and earning ecosystem that aims to make Web3 anonymous and private.',
   discord: '800920941861404733',
   investors: [],
   linkedin: 'https://linkedin.com/company/masqproject',

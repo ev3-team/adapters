@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cherry',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'CHER',
   coinGeckoID: 'cherry-network',
   id: 'j6bezo',
-  description: 'Cherry: DAO building optimized blockchain for decentralized apps.',
+  description:
+    'Cherry is a decentralized layer-one blockchain purpose-built to sustain the data needs of web3 applications.',
   discord: '787076370952880138',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/cherrynetwork',

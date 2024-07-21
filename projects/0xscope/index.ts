@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '0xScope',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'AI',

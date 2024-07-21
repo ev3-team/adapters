@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Jiritsu',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'L1/L2, ZK',
   chain: null,
-  category: 'COMPUTE',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: 'j68t8z',
   description:
-    'Jiritsu specializes in decentralized and verifiable computing. Their new asset tokenization platform is built on their Unlimited Verifiable Compute (UVC) and decentralized Zero-Knowledge Multi-Party Compute (ZK-MPC) technologies.',
+    'The Jiritsu blockchain is a Layer 1 solution for tokenizing and managing real-world assets using Zero-Knowledge Proofs and Multi-Party Computation, ensuring secure, private verification and regulatory compliance.',
   discord: null,
   investors: [
     'mzqq7s',

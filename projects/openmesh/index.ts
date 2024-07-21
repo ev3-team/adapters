@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Openmesh',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: 'Data',
   chain: null,
   category: 'COMPUTE',
