@@ -16,7 +16,7 @@ export default {
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
-  blog: 'https://blog.thingsix.com',
+  blog: null,
   github: 'https://github.com/ThingsIXfoundation',
   telegram: null,
   twitter: 'https://twitter.com/Things_IX',

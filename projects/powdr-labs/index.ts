@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'powdr labs',
+  ninja: 'vkurup.eth',
+  subcategories: 'ZK',
+  chain: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coinGeckoID: null,
+  id: '2r5kuo',
+  description: 'powdr is a modular compiler stack to build zkVMs.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/powdr_labs',
+  url: 'https://www.powdr.org/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aggregata',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: 'Data',
   chain: null,
   category: 'AI',

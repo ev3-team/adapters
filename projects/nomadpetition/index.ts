@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NomadPetition',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Gov',
   chain: null,
   category: 'NOT_DEPIN',

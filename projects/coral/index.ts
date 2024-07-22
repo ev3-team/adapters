@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Coral',
   ninja: null,
-  subcategories: null,
+  subcategories: 'App, Hardware',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: 'CRL',
   coinGeckoID: null,
   id: 'pwn1js',
   description:
-    'CoralApp is a multichain web3 fitness app designed to support a healthy lifestyle through health trackers, a marketplace, and metaverse play where users can earn incentives, challenge each other, and enjoy a content creator economy.',
+    'Coral is a multichain mobile ecosystem featuring the Coral Phone, Coral OS, Coral Mobile Stack, and CoralApp, designed for Web3 to support dApps, DeFi services, decentralized social networks, on-chain gaming, and DePIN projects.',
   discord: '929411582176428124',
   investors: ['0egscq'],
   linkedin: null,
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/MyCoralApp',
-  url: 'https://www.coralapp.io/',
+  url: 'https://coralapp.network/',
   verified: false,
   fundraises: [
     {

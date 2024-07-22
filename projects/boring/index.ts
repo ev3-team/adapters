@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Boring',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: 'VPN',
   chain: 'SOLANA',
   category: 'WIRELESS',

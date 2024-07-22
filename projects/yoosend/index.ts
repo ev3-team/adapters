@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Yoosend',
-  ninja: 'EV3 Sal',
+  ninja: 'W. L.',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',

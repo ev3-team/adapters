@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'gsucx5',

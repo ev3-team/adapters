@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nodle',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Positioning',
   chain: 'ETHEREUM',
   category: 'WIRELESS',

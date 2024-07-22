@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Viper',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'RPC/Indexing',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',

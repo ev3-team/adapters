@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Seers',
+  ninja: 'ZZ',
+  subcategories: 'Prediction Market',
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'iqfrg9',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/SeersApp',
+  url: 'https://seers.social/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
