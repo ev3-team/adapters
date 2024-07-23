@@ -17,7 +17,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/+P9M54kBLxW0xNzZl',
   twitter: 'https://x.com/sama_network',
   url: 'https://samax.network/',
   verified: false,

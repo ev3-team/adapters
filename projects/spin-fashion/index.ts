@@ -13,7 +13,7 @@ export default {
     'SPIN.FASHION is an RWA-Based DePIN that merges connected luxury, art, and culture to empower brands and creators with human-centric, sustainable, and community-driven businesses through connected products and immersive experiences.',
   discord: null,
   investors: [],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/spin-by-lablaco/',
   duneQueries: null,
   foundingYear: null,
   blog: null,
