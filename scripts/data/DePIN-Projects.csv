@@ -20,7 +20,7 @@ name,id,url,category,chain,token,coinGeckoID,description,subcategories,ninja,fou
 4everland,0tmpgv,https://www.4everland.org/,COMPUTE,,,,"4everland is a decentralized cloud provider integrating storage, computing, and networking resources.",Storage,ZZ,,https://twitter.com/4everland_org,852482727164117022,,,,https://au.linkedin.com/company/4everlandorg,,true
 5ireChain,oecmcs,https://5ire.org/home,PENDING,,,,,,ZZ,,https://x.com/5ireChain,,,,,,,true
 6079,v4u52z,https://6079.ai/,AI,,,,6079.ai is an open and distributed protocol for AI inference.,,ZZ,,https://twitter.com/6079ai,,,,,,,true
-60ghz,zbvzq8,https://60ghz.io/,PENDING,,,,,,W. L.,,https://x.com/60ghz147659,,,,,,,true
+60ghz,zbvzq8,https://60ghz.io/,COMPUTE,,,,,,W. L.,,https://x.com/60ghz147659,,,,,,
 7007,nwmr9r,https://www.7007.ai/,AI,,TOOT,,"7007 is an AI inference asset protocol that tokenizes AI model outputs on the Ethereum blockchain, ensuring each result is verified and immutable.",,EV3 Sal,,,,,,,,,true
 AANN.ai,ut3zdh,https://aann.ai/,NOT_DEPIN,,AN,,"AANN.ai Lab is the creator of a next-generation AI-powered social Authenticity Network ""AN"" which is designed to help users elevate, grow, and monetize their online social authenticity.",,ZZ,,https://twitter.com/aann_ai,1129326475510812753,,,,,,true
 Abacus.AI,ydunf2,https://abacus.ai/,AI,,,,Abacus.AI is an AI-assisted data science platform to build ML systems and AI agents at scale.,Agents,ZZ,,https://twitter.com/abacusai,,,,,,,true
