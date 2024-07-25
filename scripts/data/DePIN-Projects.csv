@@ -1,5 +1,5 @@
 name,id,url,category,chain,token,coinGeckoID,description,subcategories,ninja,foundingYear,twitter,discord,telegram,blog,github,linkedin,verified,isActive
-0G Labs,3klhti,https://0g.ai/,BLOCKCHAIN_INFRA,,,,0G is an infinitely scalable data availability (DA) layer and modular AI blockchain.,,ZZ,,https://twitter.com/0G_labs,1210423309808963594,,,,,,true
+0G Labs,3klhti,https://0g.ai/,BLOCKCHAIN_INFRA,,,,0G is an infinitely scalable data availability (DA) layer and modular AI blockchain.,,ZZ,,https://twitter.com/0G_labs,1210423309808963594,,,,,
 0Knowledge,sq9otq,https://0101010011.xyz/,WIRELESS,ETHEREUM,0KN,0-knowledge-network,0KN is a next generation decentralized and incentivized metadata-private mixnet-based anonymous broadcast network with cryptographic security guarantees.,ZK,,,https://twitter.com/0Knowledge_net,,https://t.me/Entry_Portal_0KN,https://medium.com/@0knowledgee,https://github.com/31333337,,,true
 0x0.ai,vqpvwd,https://0x0.ai/,AI,ETHEREUM,0X0,0x0-ai-ai-smart-contract,0x0.ai is an AI for secure smart contract development.,,,,https://twitter.com/0x0audits,1105051738806951976,https://t.me/Portal0x0,https://medium.com/@privacy0x0,https://github.com/0x0exchange,https://www.linkedin.com/company/0x0/,,true
 0xParc,zf9ws4,https://0xparc.org/,NOT_DEPIN,,,,0xPARC supports the next generation of cryptography-enabled applications.,,,,,,,,,,,true
