@@ -1609,7 +1609,6 @@ import ramo from './ramo'
 import rangeview from './rangeview'
 import rapidata from './rapidata'
 import rareCompute from './rare-compute'
-import rareCompute from './rare-compute'
 import rarimo from './rarimo'
 import rated from './rated'
 import raven from './raven'
@@ -3811,7 +3810,6 @@ export const projects = {
   ramo,
   rangeview,
   rapidata,
-  rareCompute,
   rareCompute,
   rarimo,
   rated,
