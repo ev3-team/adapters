@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Gstake',
+  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  subcategories: null,
+  chain: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coinGeckoID: null,
+  id: 'n6z698',
+  description: 'Gstake is a liquid staking solution for DePIN.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/gstakefinance?t=vROorl7zUTqIzywZDfJaCw&s=09',
+  url: 'https://www.gstake.fi/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

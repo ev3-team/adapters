@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'FX Land',
+  name: 'Functionland',
   ninja: null,
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
-  token: null,
+  token: 'FULA',
   coinGeckoID: null,
   id: '4z5caf',
   description:
-    'FX Land is a decentralized storage network utilizing IPFS, providing secure and encrypted file storage.',
+    'Functionland is a decentralized storage network utilizing IPFS, providing secure and encrypted file storage.',
   discord: '735961760464502845',
   investors: ['drq7a8', 'ka4f30', 'vjpj24', 'ti312b'],
   linkedin: 'https://www.linkedin.com/company/functionland/',

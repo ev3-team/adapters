@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hippocrat',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'DeSci',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HPO',

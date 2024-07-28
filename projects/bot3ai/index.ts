@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Bot3Ai',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: null,
+  subcategories: 'Chatbot',
   chain: 'TON',
   category: 'AI',
   token: null,

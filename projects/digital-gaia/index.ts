@@ -2,15 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Digital Gaia',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Environmental, Data, Rewards',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'hq0zgu',
-  description:
-    'Decentralized platform optimizing local communities environmental impact with AI and mobile app.',
+  description: 'Digital Gaia is a shared data and AI platform for planetary decision intelligence.',
   discord: null,
   investors: ['xcxzqk', '9jairy'],
   linkedin: 'http://www.linkedin.com/company/digital-gaia',

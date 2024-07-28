@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BrinxAI',
-  ninja: 'ZZ',
+  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: null,
   chain: null,
-  category: 'PENDING',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: '48tjwk',
-  description: '',
+  description:
+    'BrinxAI is a decentralized AI tools ecosystem integrating AI with decentralized networks and cryptocurrency rewards to offer a comprehensive suite of tools for developers and third-party integrations.',
   discord: null,
   investors: [],
   linkedin: null,
