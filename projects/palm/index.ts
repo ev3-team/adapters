@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'PaLM',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'Chatbot',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PALM',

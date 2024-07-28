@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Centrifuge',
-  ninja: null,
-  subcategories: 'DeFi',
+  ninja: 'ZZ',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'RWA',
   token: 'CFG',
   coinGeckoID: 'centrifuge',
   id: 'cosgc8',
-  description: 'Decentralized OS for global financial supply chain, enabling data ownership.',
+  description: 'Centrifuge is the platform for tokenized real-world assets onchain.',
   discord: '805795848432779315',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/centrifugehq',

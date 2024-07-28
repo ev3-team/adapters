@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ChainGPT',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'chaingpt',
   id: 'yi1bv4',
   description:
-    'ChainGPT AI for Blockchain and Crypto, providing knowledge and tools with CGPT utility token.',
+    'ChainGPT is an advanced AI infrastructure that develops AI-powered technologies for the Web3, Blockchain, and Crypto space.',
   discord: '1067750543495274557',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/chaingpt',
