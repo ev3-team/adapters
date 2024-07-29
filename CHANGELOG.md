@@ -1,5 +1,11 @@
 # @ev3-team/adapters
 
+## 0.3.60
+
+### Patch Changes
+
+- projects updates
+
 ## 0.3.59
 
 ### Patch Changes
