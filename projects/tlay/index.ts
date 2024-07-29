@@ -16,7 +16,7 @@ export default {
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
-  blog: null,
+  blog: 'https://medium.com/@tlay_io',
   github: null,
   telegram: null,
   twitter: 'https://x.com/tlay_io',

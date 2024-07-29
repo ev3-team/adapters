@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Robonomics',
   ninja: null,
-  subcategories: null,
+  subcategories: 'IoT',
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'XRT',
   coinGeckoID: 'robonomics-network',
   id: '47a3ty',
   description:
-    'Robonomics is an open-source platform for IoT applications which enables the exchange of technical and economic information between user applications, IoT services, and complex robotics.',
+    'Robonomics is a Web3 Cloud, which allows managing IoT devices, performing techno-economic transactions between people and machines, and building serverless IoT apps.',
   discord: '803947358492557312',
   investors: [],
   linkedin: null,

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OriginTrail',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Mobile',
   chain: 'POLKADOT',
   category: 'AI',

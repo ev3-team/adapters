@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Useful Sensors',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Hardware',
   chain: null,
   category: 'SENSORS',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '25vqyc',
   description:
-    'Low-cost ML hardware modules for gesture and voice recognition on TVs, laptops, and appliances, ensuring user privacy.',
+    'Useful Sensors creates low-cost, easy-to-integrate hardware modules that bring ML capabilities like gesture recognition, presence detection, and voice interfaces to TVs, laptops, and appliances while preserving users’ privacy.',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/useful-sensors-inc',

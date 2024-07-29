@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hal',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Chatbot',
   chain: null,
   category: 'COMPUTE',
   token: null,

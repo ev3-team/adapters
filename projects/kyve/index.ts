@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KYVE',
-  ninja: null,
-  subcategories: 'Storage',
+  ninja: 'ZZ',
+  subcategories: 'Data',
   chain: 'COSMOS',
-  category: 'COMPUTE',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'KYVE',
   coinGeckoID: 'kyve-network',
   id: 'u6mo76',
-  description: 'KYVE connects nodes to Arweave storage, ensuring trustless uploads.',
+  description:
+    'KYVE provides next gen data management solutions, unlocking next-level scalability for blockchains and rollups.',
   discord: '817113909957361664',
   investors: [
     '4j4oj3',

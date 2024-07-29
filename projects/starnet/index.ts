@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/starnet_Information_Channel',
   twitter: 'https://x.com/starnet_aibang',
   url: 'https://starcoin.one/',
   verified: false,

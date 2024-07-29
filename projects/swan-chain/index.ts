@@ -1,15 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'FilSwan',
+  name: 'Swan Chain',
   ninja: null,
-  subcategories: 'Storage',
+  subcategories: null,
   chain: null,
-  category: 'COMPUTE',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: 'v3ycrj',
-  description: 'FilSwan: web3 infrastructure for dApp development.',
+  description:
+    'Swan Chain (formerly FilSwan) is a full toolset AI blockchain infrastructure providing comprehensive solutions for storage, computing, bandwidth, and payments, accelerating AI adoption and fostering a decentralized AI computing market.',
   discord: '867879887871672331',
   investors: [
     'st9kcn',
@@ -33,7 +34,7 @@ export default {
   github: 'https://github.com/filswan',
   telegram: 'https://t.me/swan_chain/1',
   twitter: 'https://twitter.com/swan_chain',
-  url: 'https://www.filswan.com/homepage',
+  url: 'https://swanchain.io/',
   verified: false,
   fundraises: [
     {

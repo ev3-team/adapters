@@ -16,7 +16,7 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/SeersSocial',
   telegram: null,
   twitter: 'https://x.com/SeersApp',
   url: 'https://seers.social/',

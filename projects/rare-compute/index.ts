@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Rare Compute',
   ninja: 'W. L.',
-  subcategories: null,
+  subcategories: 'DeSci',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'lvq4xo',
-  description: '',
+  description:
+    'Rare Compute is a nonprofit biotech consortium using GPU-driven technology to accelerate research and find cures for rare genetic diseases through collaborative computing.',
   discord: null,
   investors: [],
   linkedin: null,
