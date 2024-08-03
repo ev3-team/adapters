@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Autonomys Network',
+  ninja: 'meta-light',
+  subcategories: 'L1/L2',
+  chain: 'NATIVE',
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coinGeckoID: null,
+  id: '4xchoy',
+  cmcId: null,
+  description: 'Formerly Subspace. Autonomys Network is a modular blockchain network divided into a base-layer consensus chain, known as the core protocol, and a nearly unlimited number of secondary execution chains, known as domains. The core protocol manages consensus, data availability, and settlement for transaction bundles, which operators execute on their respective domains. Domains are essentially enshrined rollups that can support any conceivable state transition framework and smart contract execution environment.',
+  discord: 'subspace-network',
+  investors: [],
+  linkedin: 'https://www.linkedin.com/company/autonomys',
+  duneQueries: null,
+  foundingYear: '2018',
+  blog: 'https://blog.subspace.network',
+  github: 'https://github.com/autonomys',
+  telegram: 'https://t.me/subspace_network',
+  twitter: 'https://x.com/AutonomysNet',
+  url: 'https://subspace.network',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
