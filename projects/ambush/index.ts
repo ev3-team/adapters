@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Ambush',
+  ninja: 'meta-light',
+  subcategories: null,
+  chain: 'n/a',
+  category: 'AI',
+  token: null,
+  coinGeckoID: null,
+  id: null,
+  cmcId: null,
+  description: null,
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: 'AmbushMasterBot',
+  twitter: null,
+  url: 'https://ambush.ai',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
