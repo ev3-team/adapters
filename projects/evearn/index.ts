@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'EVEarn',
+  ninja: 'meta-light',
+  subcategories: 'VPP',
+  chain: 'VECHAIN',
+  category: 'ENERGY',
+  token: 'B3TR',
+  coinGeckoID: null,
+  id: 'yufuh6',
+  cmcId: null,
+  description: 'Drive change by charging your Electric Vehicle and offsetting CO2.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: '2024',
+  blog: 'https://cryptoadventure.com/vechain-introduces-evearn-org-to-reward-eco-friendly-tesla-drivers/',
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/EvearnB3TR',
+  url: 'https://www.evearn.org',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
