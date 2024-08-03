@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'SweetGum',
+  ninja: 'meta-light',
+  subcategories: null,
+  chain: null,
+  category: null,
+  token: null,
+  coinGeckoID: null,
+  id: 'wdgbqv',
+  cmcId: null,
+  description: null,
+  discord: null,
+  investors: [],
+  linkedin: 'https://www.linkedin.com/company/sweetgumlabs',
+  duneQueries: null,
+  foundingYear: '2022',
+  blog: 'https://medium.com/@sweetgumlabs',
+  github: null,
+  telegram: null,
+  twitter: null,
+  url: 'https://www.sweetgum.xyz',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
