@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Dep Network',
+  ninja: 'meta-light',
+  subcategories: null,
+  chain: 'n/a',
+  category: 'null',
+  token: null,
+  coinGeckoID: null,
+  id: 'slsuyg',
+  cmcId: null,
+  description: 'Dep Network is a groundbreaking infrastructure layer designed to revolutionise the decentralized physical infrastructure (DePin) and artificial intelligence (AI) sectors.',
+  discord: 'VzfjWy5SeD',
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: 'https://depnetwork.com/#blog',
+  github: null,
+  telegram: '+dTlPtLfqdalkOTE1',
+  twitter: 'https://twitter.com/Dep_network',
+  url: 'https://depnetwork.com',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
