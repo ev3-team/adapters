@@ -22,12 +22,67 @@ We recommend copying an existing project to get started. You'll see
 that they all follow a similar pattern. You'll need to fill out:
 
 1. Project Name:
-2. Chain: Choose between 'ETHEREUM', 'SOLANA', 'ALGORAND', 'COSMOS', 'CARDANO', 'POLKADOT', 'POLYGON', 'IOTEX', 'BINANCE', 'KADENA', etc. Use 'NATIVE' for native chains or 'n/a' for projects with no token.
-3. Category: Choose between 'WIRELESS', 'SENSORS', 'ENERGY', 'COMPUTE', 'AI' or 'OTHER'.
-4. Token: ticker (e.g., 'BTC' or 'ETH')
-5. CoingeckoID: Find on CoinGecko project page (in URL).
-6. CmCID: Find on CoinMarketCap project page (in image URL of project icon).
-7. ID: Generate in Step #6 below.
+2. Chain: Choose between:
+ - Use 'NATIVE' for native chains or 'n/a' for projects with no token.
+```
+[
+  'ALGORAND',  'APTOS',      'ARBITRUM',
+  'AVALANCHE', 'BASE',       'BINANCE',
+  'BITTENSOR', 'CARDANO',    'COSMOS',
+  'ETHEREUM',  'FILECOIN',   'GNOSIS',
+  'IOTEX',     'KADENA',     'MULTIVERSX', 
+  'NATIVE',    'n/a',        'PEAQ',      
+  'POLKADOT',   'POLYGON',   'SOLANA',    
+  'TON',        'URBIT',     'VECHAIN',   
+  'XDC'
+]
+```
+
+
+
+3. Category: Choose between:
+```
+[
+  'AI',
+  'BLOCKCHAIN_INFRA',
+  'COMPUTE',
+  'ENERGY',
+  'NOT_DEPIN',
+  'OTHER',
+  'PENDING',
+  'RWA',
+  'SENSORS',
+  'SERVICES',
+  'WIRELESS'
+]
+```
+4. Subcategory: Choose between: 
+```
+Subcategories: [
+  'Advertising',           'Agents',            'App',
+  'Apps',                  'Batteries',         'Bridges',
+  'CDN',                   'Chatbot',           'Data',
+  'DeFi',                  'DeSci',             'Drones',
+  'Environmental',         'FHE',               'GPUs',
+  'Gaming',                'Gov',               'Hardware',
+  'Health & Fitness',      'Identity',          'Inferencing',
+  'Intellectual Property', 'IoT',               'L1/L2',
+  'Labor',                 'Legal',             'ML',
+  'Manufacturing',         'Mining',            'Mobile',
+  'Mobility',              'NFTs',              'Oracle',
+  'Positioning',           'Prediction Market', 'Private Wireless',
+  'Quantum',               'RPC/Indexing',      'RWA',
+  'Rewards',               'Robotics',          'Satellites',
+  'Smart Home',            'Social',            'Software',
+  'Storage',               'TEE',               'Telegram',
+  'Training',              'VPN',               'VPP',
+  'W. L.',                 'Wallet',            'ZK'
+]
+```
+5. Token: ticker (e.g., 'BTC' or 'ETH')
+6. CoingeckoID: Find on CoinGecko project page (in URL).
+7. CmCID: Find on CoinMarketCap project page (in image URL of project icon).
+8. ID: Generate in Step #6 below.
 
 ## Preparing a Pull Request
 
