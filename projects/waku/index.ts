@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Waku',
+  ninja: 'meta-light',
+  subcategories: null,
+  chain: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coinGeckoID: null,
+  id: 'pfs1u0',
+  cmcId: null,
+  description: 'Waku is powering the communication layer of the Logos technology stack. Logos is a grassroots movement, building the infrastructure for trust-minimised, corruption-resistant governing services and social institutions for peaceful people worldwide.',
+  discord: 'gMPAzmcDER',
+  investors: [],
+  linkedin: 'https://www.linkedin.com/company/waku-org',
+  duneQueries: null,
+  foundingYear: '2021',
+  blog: 'https://blog.waku.org/',
+  github: 'https://github.com/waku-org',
+  telegram: 'https://t.me/waku_org',
+  twitter: 'https://twitter.com/waku_org',
+  url: 'https://waku.org',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
