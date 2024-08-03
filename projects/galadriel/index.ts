@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Galadriel',
+  ninja: 'meta-light',
+  subcategories: 'L1/L2',
+  chain: 'NATIVE',
+  category: 'AI',
+  token: null,
+  coinGeckoID: null,
+  id: 'f2pcds',
+  cmcId: null,
+  description: 'Galadriel is an L1 that enables developers to build decentralized AI apps natively with Solidity - like ETH for AI',
+  discord: 'galadriel',
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: '2024',
+  blog: 'https://galadriel.com/blog',
+  github: 'https://github.com/galadriel-ai',
+  telegram: null,
+  twitter: 'https://x.com/Galadriel_AI',
+  url: 'https://www.galadriel.com',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
