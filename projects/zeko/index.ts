@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Zeko',
+  ninja: 'meta-light',
+  subcategories: 'L1/L2',
+  chain: 'ETHEREUM',
+  category: 'NATIVE',
+  token: null,
+  coinGeckoID: null,
+  id: 'ri7p7r',
+  cmcId: null,
+  description: 'Zeko is a zero-knowledge, cross-chain scaling protocol built on Mina and designed for developers shaping the future of finance, AI, gaming, and the internet. Urbit Aligned.',
+  discord: 'vSDxqAchUY',
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: 'https://github.com/zeko-labs',
+  telegram: 'https://t.me/+m8LBsR2kNTAxNmFh',
+  twitter: 'https://twitter.com/ZekoLabs',
+  url: 'https://zeko.io',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
