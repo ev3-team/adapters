@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Ukama',
+  ninja: 'meta-light',
+  subcategories: 'Private Wireless',
+  chain: 'NOT WEB3',
+  category: 'WIRELESS',
+  token: null,
+  coinGeckoID: null,
+  id: '2v208o',
+  cmcId: null,
+  description: 'Ukama offers an open access complete cellular network solution without the price tag and technical expertise required of traditional setups.',
+  discord: null,
+  investors: [],
+  linkedin: 'https://linkedin.com/company/ukama',
+  duneQueries: null,
+  foundingYear: '2020',
+  blog: null,
+  github: 'https://github.com/ukama',
+  telegram: null,
+  twitter: 'https://twitter.com/ukamanetworks',
+  url: 'https://ukama.com',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject
