@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Superlocal',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'Positioning',
   chain: null,
-  category: 'WIRELESS',
+  category: 'SENSORS',
   token: null,
   coinGeckoID: null,
   id: '3czn02',
   description:
-    'Superlocal is a social network and game that rewards you with points for checking in at various places.',
+    'Superlocal is a social network and game that rewards users with points for checking in at various places.',
   discord: '820756104169652254',
   investors: [
     'zmy4gp',

@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Candela',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'ENERGY',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'd2gqfv',
@@ -13,7 +13,7 @@ export default {
     'Candela is a cryptocurrency that decentralizes solar energy, devices, and software for peer-to-peer energy transfer.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/candela-speed-boat/',
+  linkedin: null,
   duneQueries: null,
   foundingYear: null,
   blog: null,

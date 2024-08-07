@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'Data',
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: 'DTX',
   coinGeckoID: 'databroker-dao',
   id: '08wij5',

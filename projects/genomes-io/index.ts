@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Genomes.io',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'DeSci',
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'GENE',
   coinGeckoID: 'genomesdao',
   id: 'lfu9ni',
   description:
-    'Genomes.io is a biotech DAO monetizing genomic data securely, privately & audibly via DeFi.',
+    'GenomesDAO is a platform for safe, private, and auditable monetization of genomic data using DeFi and DeSci.',
   discord: '844928657407606786',
   investors: ['m65oq5', 'st9ohk'],
   linkedin: 'https://www.linkedin.com/company/genomes-io/',
