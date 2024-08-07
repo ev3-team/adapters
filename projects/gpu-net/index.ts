@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'GPU.Net',
   ninja: 'W. L.',
-  subcategories: null,
+  subcategories: 'GPUs',
   chain: null,
   category: 'COMPUTE',
   token: null,

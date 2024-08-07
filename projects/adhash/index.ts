@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AdHash',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Advertising',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',

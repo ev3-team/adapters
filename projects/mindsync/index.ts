@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mindsync',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'MAI',
   coinGeckoID: null,
   id: 'gpjz8o',
