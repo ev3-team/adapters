@@ -1835,6 +1835,7 @@ import maxwellKrohn from './maxwell-krohn'
 import mayurGupta from './mayur-gupta'
 import mayurRelekar from './mayur-relekar'
 import mcLader from './mc-lader'
+import mcintosh from './mcintosh'
 import mcjCollective from './mcj-collective'
 import mcma from './mcma'
 import mdrLab from './mdr-lab'
@@ -1904,7 +1905,6 @@ import mingdaLei from './mingda-lei'
 import mint from './mint'
 import mintable from './mintable'
 import mintedlab from './mintedlab'
-import mintosh from './mintosh'
 import miracleplus from './miracleplus'
 import mirana from './mirana'
 import mischief from './mischief'
@@ -4900,6 +4900,7 @@ export const investors = {
   mayurGupta,
   mayurRelekar,
   mcLader,
+  mcintosh,
   mcjCollective,
   mcma,
   mdrLab,
@@ -4969,7 +4970,6 @@ export const investors = {
   mint,
   mintable,
   mintedlab,
-  mintosh,
   miracleplus,
   mirana,
   mischief,
