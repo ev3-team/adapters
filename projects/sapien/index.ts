@@ -12,7 +12,7 @@ export default {
   description:
     'Sapien is building a large network of human data labelers for the AI industry, utilizing gamification and blockchain incentives to power high-performance models.',
   discord: null,
-  investors: [],
+  investors: ['gjt0lb', 'e3qzk9', 'xl9a26', 'nv73pg', 'vnlyks'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

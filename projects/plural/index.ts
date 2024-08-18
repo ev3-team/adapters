@@ -12,7 +12,7 @@ export default {
   description:
     'Plural Energy leverages blockchain to unlock new sources of capital to finance renewable energy projects by making it possible for anyone to invest directly. ',
   discord: null,
-  investors: [],
+  investors: ['mqgff4', 'xgzede', 'g2rt17', 'gasfop'],
   linkedin: 'https://linkedin.com/company/drifeofficial',
   duneQueries: null,
   foundingYear: null,

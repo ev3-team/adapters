@@ -12,7 +12,7 @@ export default {
   description:
     'Adot is a decentralized Web3 search engine that redefines how data is collected, organized, and delivered. It sorts, aggregates, and indexes data from both on-chain and off-chain sources, allowing users to create personalized search functionalities.',
   discord: null,
-  investors: [],
+  investors: ['y5m26s', 'us9d7q', 'thxgaw', 'qc01as', 'pu3yyr', 'goznyl'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

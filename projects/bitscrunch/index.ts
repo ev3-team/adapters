@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BitsCrunch',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
-  token: null,
-  coinGeckoID: null,
+  token: 'BCUT',
+  coinGeckoID: 'bitscrunch-token',
   id: 'x835xi',
-  description: 'BitsCrunch: AI-powered, decentralized NFT data for reliable dApps.',
+  description:
+    'bitsCrunch is an AI-enabled, decentralized blockchain data platform that enables developers to seamlessly build reliable dApps.',
   discord: '860459595025219585',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/bitscrunch/',

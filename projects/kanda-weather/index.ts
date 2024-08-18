@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'AscensionWx',
+  name: 'Kanda Weather',
   ninja: 'W. L.',
   subcategories: 'Environmental',
   chain: null,
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'flp6ko',
   description:
-    'AscensionWx is a WeatherMiner platform that allows users to earn Helium HNT tokens by predicting weather conditions.',
+    'Kanda Weather is a weather data network that uses blockchain, LoRaWAN, solar energy, and 3D printing to build a weather balloon IoT radiosonde network.',
   discord: '859677745860968469',
   investors: [],
   linkedin: null,
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/kandaweather',
-  url: 'https://www.ascensionwx.com/',
+  url: 'https://www.kandaweather.com/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

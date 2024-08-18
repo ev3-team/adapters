@@ -12,7 +12,7 @@ export default {
   description:
     'MetaPhone is a Web3-native smartphone project powered by the TON blockchain, fostering a comprehensive TON ecosystem and enabling users to access sought-after TON applications while participating in a decentralized marketing network.',
   discord: null,
-  investors: [],
+  investors: ['vzqumt'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

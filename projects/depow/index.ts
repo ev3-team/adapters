@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DePoW',
-  ninja: 'EV3 Sal',
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: 'https://t.me/depow_fam',
   twitter: 'https://x.com/depow_io',
-  url: null,
+  url: 'https://www.depow.io/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject
