@@ -11,7 +11,7 @@ export default {
   id: 'ruqwx5',
   description: 'FLock.io is a decentralized AI training and finetuning platform.',
   discord: '977200106531082240',
-  investors: ['apd14v', 's4jf02', 'wohqmd', 'rwhpsx', 'smqwtv', 'oqc7x3', 'gasfop'],
+  investors: ['apd14v', '7tqz0l', 's4jf02', 'wohqmd', 'rwhpsx', 'smqwtv', 'oqc7x3', 'gasfop'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

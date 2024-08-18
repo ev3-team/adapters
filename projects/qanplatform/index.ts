@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'QANplatform',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'L1/L2, Quantum',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'qanplatform',
   id: 'w0b37b',
   description:
-    'QANplatform - quantum-resistant Layer 1 hybrid blockchain platform for developers and enterprises to build on top.',
+    'QANplatform is a quantum-resistant Layer 1 hybrid blockchain that enables developers and enterprises to build quantum-resistant smart contracts, DApps, DeFi, DAOs, tokens, CBDCs, NFTs, Metaverse, and Web3 solutions in any programming language.',
   discord: '867778552534138941',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/qanplatform/',

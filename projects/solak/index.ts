@@ -12,7 +12,7 @@ export default {
   description:
     'Solak is an AI-powered browser and a DeFi platform, allowing users to earn SGPT tokens through activities like internet browsing, engaging in DeFi, participating in the NFT platform, and potentially through a referral program.',
   discord: null,
-  investors: [],
+  investors: ['i98114', 'ofj0rs', '89f5pk'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

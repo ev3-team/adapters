@@ -11,7 +11,17 @@ export default {
   id: 'scli9r',
   description: 'Geodnet is a decentralized network of GNSS reference stations.',
   discord: '912073116413476875',
-  investors: ['buo8ql', 'szfiug', 'p99cdg', 'f87dvf', 'ozeg73', 'oygqys', 'ksae6d', '6fx6k3'],
+  investors: [
+    'buo8ql',
+    'szfiug',
+    'p99cdg',
+    'f87dvf',
+    'ozeg73',
+    'oygqys',
+    'ksae6d',
+    '6fx6k3',
+    'pzv0z5',
+  ],
   linkedin: 'https://www.linkedin.com/company/geodnet/',
   duneQueries: {
     LOCKED_BALANCE: '2944845',

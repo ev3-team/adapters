@@ -11,7 +11,7 @@ export default {
   id: 'ze30wc',
   description: 'Ambient is a decentralized network of environmental sensors and ambient data.',
   discord: '1235708084106690590',
-  investors: [],
+  investors: ['buo8ql', 'zj4ect', 'tlb60n', 'o8a9h1'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
