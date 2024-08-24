@@ -11,7 +11,7 @@ export default {
   id: 'zf0jpw',
   description:
     'ROVR is a decentralized, global, high-definition, all-scenario, and real-time 3D data collection, processing, and storage platform.',
-  discord: null,
+  discord: '1248920731752992778',
   investors: [],
   linkedin: null,
   duneQueries: null,

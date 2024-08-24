@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Riddle&Code',
-  ninja: null,
-  subcategories: 'IoT',
+  ninja: 'ZZ',
+  subcategories: 'VPP',
   chain: null,
-  category: 'SENSORS',
+  category: 'ENERGY',
   token: null,
   coinGeckoID: null,
   id: 'cn2pt1',
   description:
-    'Riddle&Code: Connecting physical assets with Web3 technology for secure communication and transactions.',
+    'Riddle&Code connects physical energy assets with Web3 technology via the RDDL Network, offering innovative and sustainable solutions for the renewable energy sector with tools like Trust Wallet, Energy Agent, and Energy Tracker.',
   discord: '999216778393698364',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/riddle-&-code/',

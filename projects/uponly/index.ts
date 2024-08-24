@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'UpOnly',
   ninja: 'ZZ',
-  subcategories: 'Gaming',
+  subcategories: 'Gaming, Prediction Market',
   chain: 'POLYGON',
   category: 'NOT_DEPIN',
   token: 'UPO',

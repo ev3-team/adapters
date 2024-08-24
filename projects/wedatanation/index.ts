@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WeDataNation',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Advertising, Data',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'ah17kx',

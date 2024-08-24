@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sealink',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'NATIVE',
   category: 'WIRELESS',

@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '2sme5b',
   description: '',
-  discord: null,
+  discord: '930328152117485569',
   investors: [],
   linkedin: null,
   duneQueries: null,

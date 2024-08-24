@@ -5,12 +5,12 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'xe4qlj',
   description:
-    'SendingNetwork is a Web3 Communication Stack that helps developers create secure dapps that include in-app or cross-app chats, notifications, wallet or decentralized ID logins, and non-fungible token (NFT) transactions.',
+    'SendingNetwork is a DePIN communication layer enabling peer-to-peer chat and other messaging services, allowing Web3 developers to integrate secure, end-to-end encrypted communication into their apps.',
   discord: '1194624738652344370',
   investors: [
     '896jil',
@@ -20,6 +20,7 @@ export default {
     'mxwn86',
     'zoshoo',
     'oltsrb',
+    '9j6x8e',
     'otzp4l',
     'lay4ny',
   ],

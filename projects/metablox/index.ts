@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Metablox',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -14,10 +14,12 @@ export default {
   discord: '916937100744597548',
   investors: [
     'fahk60',
+    '951veq',
     'zaf9xh',
     'k0celj',
     '4t27eh',
     'xz1vnr',
+    'c9uxrr',
     'g4z7os',
     'vzqumt',
     'z22qa3',

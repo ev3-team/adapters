@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'tomi',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'hxlekf',
+  description: '',
+  discord: '983854078285201408',
+  investors: [],
+  linkedin: 'https://www.linkedin.com/company/tomidotcom/',
+  duneQueries: null,
+  foundingYear: null,
+  blog: 'https://medium.com/tomipioneers',
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/tomipioneers',
+  url: 'https://tomi.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

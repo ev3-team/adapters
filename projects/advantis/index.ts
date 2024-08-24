@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Advantis',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',

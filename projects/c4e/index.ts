@@ -7,7 +7,7 @@ export default {
   chain: 'COSMOS',
   category: 'ENERGY',
   token: 'C4E',
-  coinGeckoID: null,
+  coinGeckoID: 'chain4energy',
   id: '92o0ip',
   description:
     'C4E is a DePIN L1 Blockchain platform, designed to support a variety of innovative energy and e-mobility applications by creating a decentralized and democratized community-powered ecosystem.',

@@ -1,0 +1,45 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Swan Chain',
+  ninja: null,
+  subcategories: null,
+  chain: null,
+  category: 'AI',
+  token: null,
+  coinGeckoID: null,
+  id: 'v3ycrj',
+  description:
+    'Swan Chain (formerly FilSwan) is a full toolset AI blockchain infrastructure providing comprehensive solutions for storage, computing, bandwidth, and payments, accelerating AI adoption and fostering a decentralized AI computing market.',
+  discord: '867879887871672331',
+  investors: [
+    'st9kcn',
+    'mrgeec',
+    '0msybz',
+    'dsl20s',
+    'lfbmt3',
+    'drdidh',
+    'jzrat5',
+    'qqc9zd',
+    'ti312b',
+    'wu15kr',
+    'ret0us',
+    'rewcp7',
+    'o7xcsr',
+  ],
+  linkedin: 'https://www.linkedin.com/company/swancloud',
+  duneQueries: null,
+  foundingYear: null,
+  blog: 'https://medium.com/@swanchain',
+  github: 'https://github.com/filswan',
+  telegram: 'https://t.me/swan_chain/1',
+  twitter: 'https://twitter.com/swan_chain',
+  url: 'https://swanchain.io/',
+  verified: false,
+  fundraises: [
+    {
+      roundType: 'Seed',
+      url: 'https://www.prweb.com/releases/filswan-raises-3m-usd-to-revolutionize-amp-simplify-building-dapps-899321300.html',
+    },
+  ],
+} satisfies AdapterProject

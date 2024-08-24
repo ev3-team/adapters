@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Oasis AI',
-  ninja: 'EV3 Sal',
+  ninja: 'W. L.',
   subcategories: null,
   chain: null,
   category: 'AI',

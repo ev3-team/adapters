@@ -31,3 +31,12 @@ export type PartnershipRow = {
   announcementDate: string
   announcementLink: string
 }
+
+export type LivestreamRow = {
+  projectName: string
+  projectId: string
+  title: string
+  hyperlink: string
+  utcDate: string
+  utcTime: string
+}

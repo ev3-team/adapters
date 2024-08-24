@@ -5,12 +5,11 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: 'TRACE',
   coinGeckoID: 'trace-network-labs',
   id: 'bjvhmg',
-  description:
-    'Trace is a decentralized protocol enabling luxury lifestyle for multichain metaverses with NFTs & digital fashion.',
+  description: 'Trace is a metaverse technology for fashion and lifestyle powered by Web 3.0.',
   discord: '889566942678102016',
   investors: [
     'bf6y5u',

@@ -13,7 +13,7 @@ export default {
     'Galiot is a decentralized wireless technology-related services provider dedicated to expanding Helium 5G in Europe and offering innovative Data-as-a-Service solutions.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/galiot-io/?originalSubdomain=se',
+  linkedin: 'https://www.linkedin.com/company/galiot-io/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://medium.com/@galiot.io',

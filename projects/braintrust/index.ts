@@ -4,7 +4,7 @@ export default {
   name: 'Braintrust',
   ninja: 'Mahesh | Escape Velocity',
   subcategories: 'Labor',
-  chain: 'ETHEREUM',
+  chain: 'BASE',
   category: 'SERVICES',
   token: 'BTRST',
   coinGeckoID: 'braintrust',

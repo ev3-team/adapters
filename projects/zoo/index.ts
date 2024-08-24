@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Zoo',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'acb6no',
+  description: '',
+  discord: '915388055236509727',
+  investors: [],
+  linkedin: 'https://www.linkedin.com/company/zoodotdev/',
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: 'https://github.com/kittycad',
+  telegram: null,
+  twitter: 'https://x.com/zoodotdev',
+  url: 'https://zoo.dev/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

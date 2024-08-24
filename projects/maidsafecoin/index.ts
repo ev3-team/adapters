@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MaidSafeCoin',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',

@@ -12,7 +12,7 @@ export default {
   description:
     'Validation Cloud is a Web3 infrastructure platform that delivers elite, high-performance node and staking infrastructure.',
   discord: null,
-  investors: ['ykzwbk', 'b2ybqs', 'n01vko', 'nk4njt', '6bvve4', 'qee5ia'],
+  investors: ['zf718v', 'ykzwbk', 'b2ybqs', 'n01vko', 'nk4njt', '6bvve4', 'ayfq46', 'qee5ia'],
   linkedin: 'https://www.linkedin.com/company/validationcloud',
   duneQueries: null,
   foundingYear: null,

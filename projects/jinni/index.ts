@@ -13,7 +13,7 @@ export default {
     'Jinni is an AI project making AI accessible to all, revolutionizing the global AI landscape.',
   discord: null,
   investors: [],
-  linkedin: 'https://www.linkedin.com/company/jinni/?originalSubdomain=il',
+  linkedin: 'https://www.linkedin.com/company/jinni/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://medium.com/@njinn',

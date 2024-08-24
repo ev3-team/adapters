@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StorageChain',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -11,7 +11,7 @@ export default {
   id: 'p159ts',
   description:
     'StorageChain is a decentralized, cloud storage and file-sharing platform, that uses a network of “storage nodes” to store data in a fully distributed manner.',
-  discord: null,
+  discord: '1068622468417331342',
   investors: [],
   linkedin: null,
   duneQueries: null,

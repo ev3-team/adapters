@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Puffpaw',
-  ninja: 'EV3 Sal',
+  ninja: 'W. L.',
   subcategories: 'Health & Fitness',
   chain: null,
   category: 'SENSORS',

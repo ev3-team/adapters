@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cruiz',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: 'Mobility',
   chain: 'ETHEREUM',
   category: 'SERVICES',

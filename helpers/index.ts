@@ -1,7 +1,12 @@
 import dayjs from 'dayjs'
 import { AdapterInvestor, investors } from '../investors'
 import { AdapterProject, projects } from '../projects'
-import { EnumFundRaiseRoundType, FundRaiseRow, PartnershipRow } from '../scripts/types'
+import {
+  EnumFundRaiseRoundType,
+  FundRaiseRow,
+  LivestreamRow,
+  PartnershipRow,
+} from '../scripts/types'
 import { createNewId } from './utils'
 
 export const generateInvestorId = () => createNewId()(true, Object.values(investors))
@@ -186,4 +191,28 @@ export const generatePartnershipCsvRow = (partnership: Partnership) => {
   const { projectId, partnerId, title, announcementDate, announcementLink } = partnershipRow
 
   return `${projectId},${partnerId},${title},${announcementDate},${announcementLink}`
+}
+
+type LivestreamEvent = {
+  project: Pick<AdapterProjectDuneCsvRow, 'id' | 'name'>
+  title: string
+  hyperlink: string
+  date: Date
+}
+
+/** Generates a row for the livestream csv. */
+export const generateLivestreamCsvRow = (livestream: LivestreamEvent) => {
+  const dateJS = dayjs(livestream.date)
+  const livestreamRow: LivestreamRow = {
+    projectId: livestream.project.id,
+    projectName: livestream.project.name,
+    title: livestream.title,
+    hyperlink: livestream.hyperlink,
+    utcDate: dateJS.format('MM/DD/YYYY'),
+    utcTime: dateJS.format('H:mm'),
+  }
+
+  const { projectName, projectId, title, hyperlink, utcDate, utcTime } = livestreamRow
+
+  return `${projectName},${projectId},"${title}",${hyperlink},${utcDate},${utcTime}`
 }

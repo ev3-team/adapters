@@ -15,6 +15,7 @@ export default {
   investors: [
     '896jil',
     'wvitwb',
+    '2njhsb',
     '67mqz0',
     '5tj4jx',
     'ifb7yv',
@@ -29,6 +30,7 @@ export default {
     '9qbjjp',
     'ksae6d',
     'pu3yyr',
+    'qce0sh',
   ],
   linkedin: null,
   duneQueries: null,

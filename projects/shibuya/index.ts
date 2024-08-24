@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Shibuya',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'rgobsb',
   description:
-    'Shibuya is a web3 platform for film financing & production. Users engage, fund, vote, & become owners of content.',
+    'Shibuya is a web3 platform for film financing and production where users engage, fund, vote, and become owners of the content.',
   discord: '946167913021333635',
   investors: ['d40or5', 'bt0gqk', '0rupj0', 'd6m812', '3bchmx', 'ubuz3j'],
   linkedin: 'http://www.linkedin.com/company/shibuyaxyz',

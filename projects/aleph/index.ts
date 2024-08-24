@@ -27,7 +27,7 @@ export default {
     'nzxtym',
     'urug6u',
   ],
-  linkedin: 'https://www.linkedin.com/company/aleph-im/?originalSubdomain=fr',
+  linkedin: 'https://www.linkedin.com/company/aleph-im/',
   duneQueries: null,
   foundingYear: null,
   blog: 'https://medium.com/aleph-im',

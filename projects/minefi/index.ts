@@ -18,7 +18,7 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
+  telegram: 'https://t.me/MineFiTG',
   twitter: 'https://twitter.com/MineFiDAO',
   url: 'https://minefi.io/',
   verified: false,

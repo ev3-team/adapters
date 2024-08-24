@@ -11,7 +11,7 @@ export default {
   id: 'xdqku3',
   description:
     'Optopia is an AI-driven, intent-centric Layer2 network that allows permissionless intent creation and leverages tokenomics to drive AI agents in executing these intents.',
-  discord: null,
+  discord: '1197014811674951816',
   investors: [],
   linkedin: null,
   duneQueries: null,

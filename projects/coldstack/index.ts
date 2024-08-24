@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ColdStack',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',

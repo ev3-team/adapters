@@ -12,7 +12,7 @@ export default {
   description:
     'Anomaly is an AI-powered gaming app chain that leverages customizable and scalable AI models and roll-up technology to enable developers to create dynamic and personalized gaming experiences.',
   discord: null,
-  investors: [],
+  investors: ['dpo7fp', 'rbelby', '62bdul', 'lhs5s8', 'hlsmm6'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

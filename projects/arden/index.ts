@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '23pr35',
   description:
-    'Arden integrates blockchain as an additive element to businesses’ existing systems to provide their customers with the benefits of next generation technology through a familiar web2 experience.',
+    'Arden is a gamified consumer engagement platform that integrates with existing systems to deliver personalized loyalty experiences using blockchain and machine learning for scalable, automated personalization.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'DLP Labs',
+  ninja: 'EV3 Sal',
+  subcategories: 'Health & Fitness',
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: '57u7vr',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: null,
+  url: null,
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

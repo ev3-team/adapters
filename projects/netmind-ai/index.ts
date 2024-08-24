@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NetMind.AI',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'AI',
   token: 'NMT',
   coinGeckoID: 'netmind-token',
   id: 'd2uaff',
-  description: 'NetMind.AI enables deep learning model development for AI applications.',
+  description:
+    'NetMind Power is a decentralized platform aimed at democratizing AI computing power.',
   discord: '1050399764941906031',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/netmind-ai/',

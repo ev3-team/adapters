@@ -2,15 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Vuzec',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'oogh3l',
-  description:
-    'Vuzec: Empowering artists with decentralized crowdfunding and royalties distribution.',
+  description: 'Vuzec is a decentralized Record Label.',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/vuzec',

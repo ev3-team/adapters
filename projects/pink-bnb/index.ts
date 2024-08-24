@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pink BNB',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Prediction Market',
   chain: 'BINANCE',
   category: 'AI',
   token: 'PNB',

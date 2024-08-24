@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Solvpn',
+  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  subcategories: 'VPN',
+  chain: 'SOLANA',
+  category: 'WIRELESS',
+  token: 'Solvpn',
+  coinGeckoID: null,
+  id: 'x4opgn',
+  description: 'Solvpn is a free decentralized VPN for the Solana community.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/VPNonSolana',
+  url: 'https://solvpn.xyz/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

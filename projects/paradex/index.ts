@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Paradex',
   ninja: null,
-  subcategories: 'Prediction Market',
+  subcategories: 'L1/L2',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'h4uvxu',
-  description: 'Stamp Network is an L2 blockchain focusing on supporting digital entities.',
+  description:
+    'Paradex is a ZK powered Layer 2 network custom built for high-performance derivatives trading.',
   discord: '1107916848193863740',
   investors: [],
   linkedin: null,

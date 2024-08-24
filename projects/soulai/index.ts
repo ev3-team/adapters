@@ -15,7 +15,7 @@ export default {
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
-  blog: null,
+  blog: 'https://medium.com/@SoulAiOfficial',
   github: null,
   telegram: null,
   twitter: 'https://x.com/soulailabs',

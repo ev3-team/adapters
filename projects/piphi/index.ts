@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Piphi',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: 'Environmental, Data',
   chain: 'ALGORAND',
   category: 'SENSORS',

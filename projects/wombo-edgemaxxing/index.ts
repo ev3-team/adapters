@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'WOMBO EdgeMaxxing',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: '0o58fw',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: 'https://github.com/womboai/edge-optimization-subnet?tab=readme-ov-file',
+  telegram: null,
+  twitter: 'https://x.com/WOMBO',
+  url: 'https://www.w.ai/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

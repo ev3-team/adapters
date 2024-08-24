@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'ID',
   coinGeckoID: 'space-id',
   id: 'vb3z9t',

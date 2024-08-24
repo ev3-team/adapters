@@ -9,8 +9,7 @@ export default {
   token: 'AIONE',
   coinGeckoID: 'aione',
   id: 'oqs9xj',
-  description:
-    'AiONE: AI platform that integrates AI into business workflows. User-friendly AI services, APIs, and tools.',
+  description: 'AiONE is an AI platform that integrates AI into business workflows.',
   discord: null,
   investors: [],
   linkedin: 'http://www.linkedin.com/company/aionelabs',

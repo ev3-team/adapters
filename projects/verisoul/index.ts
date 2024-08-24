@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Verisoul',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '2gzcyz',
   description:
-    'Verisoul: A decentralized platform for trusted Web3 businesses, ensuring privacy and trust.',
+    'Verisoul is a developer of an AI-based decentralized platform to help businesses stop fake users.',
   discord: null,
   investors: ['vmqmcr', 'y69z86', 'nxzb7m', 'ztth3k', '5iut57', '566vlr', 'vub62z'],
   linkedin: 'http://www.linkedin.com/company/verisoul-stops-fake-users',

@@ -16,7 +16,7 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/SorellaLabs',
   telegram: null,
   twitter: 'https://twitter.com/sorellalabs',
   url: null,

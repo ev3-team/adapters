@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'gljif2',
   description:
-    'Axiom is a ZK coprocessor for Ethereum which provides smart contracts trustless access to all on-chain data and arbitrary expressive compute over it. As GPUs do for CPUs today, Axiom augments the capabilities of blockchain consensus with ZKPs.',
+    "Axiom enables smart contracts to trustlessly compute over Ethereum's entire history using ZK proofs, allowing developers to access comprehensive on-chain data with lower costs and without additional trust assumptions.",
   discord: '1028547935195119617',
   investors: [],
   linkedin: null,

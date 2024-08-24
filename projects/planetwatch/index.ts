@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Planetwatch',
-  ninja: null,
+  ninja: 'W. L.',
   subcategories: null,
   chain: 'ALGORAND',
   category: 'SENSORS',

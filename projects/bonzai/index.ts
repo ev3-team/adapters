@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BonzAI',
-  ninja: 'ZZ',
+  ninja: 'W. L.',
   subcategories: 'ML',
   chain: 'ETHEREUM',
   category: 'AI',

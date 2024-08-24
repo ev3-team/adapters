@@ -12,7 +12,7 @@ export default {
   description:
     'NodeShift is a decentralized cloud provider that aims to commoditize storage and computing power, making it easier and more affordable for developers to build and host secure applications.',
   discord: null,
-  investors: [],
+  investors: ['h09snm', '9sg91a', 'a1h612', '3wmu8j', 'vbyb2i'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

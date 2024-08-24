@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Cere',
   ninja: 'W. L.',
-  subcategories: null,
+  subcategories: 'W. L.',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CERE',

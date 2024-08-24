@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'HEALE',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Logistics',
   chain: 'NATIVE',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SENSORS',
   token: 'HEALE',
   coinGeckoID: null,
   id: '90b0aw',

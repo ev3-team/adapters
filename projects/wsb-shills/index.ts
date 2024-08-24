@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WSB Shills',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'Prediction Market',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
