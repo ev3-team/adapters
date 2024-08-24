@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PAAL AI',
-  ninja: null,
-  subcategories: null,
+  ninja: 'ZZ',
+  subcategories: 'Chatbot',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAAL',
   coinGeckoID: 'paal-ai',
   id: 'wmad1s',
   description:
-    'PAAL AI is a decentralized network of autonomous agents that empowers artificial intelligence technology.',
+    'PAAL AI is a powerful ecosystem leveraging advanced AI and ML technologies to enable users to create personalized AI bots for integration across multiple platforms or directly within their apps.',
   discord: '1112405068717768824',
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: 'https://t.me/paal_ai',
-  twitter: 'https://twitter.com/PaalMind',
-  url: 'https://paalai.io/',
+  twitter: 'https://x.com/PaalMind',
+  url: 'https://www.paal.ai/',
   verified: false,
   fundraises: [],
 } satisfies AdapterProject

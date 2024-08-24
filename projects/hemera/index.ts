@@ -12,7 +12,7 @@ export default {
   description:
     'Hemera Protocol is a decentralized account-centric programmable indexing network that enables developers to harness web3 data with ease and unlock the full potential of the ever-growing network of data in web3.',
   discord: null,
-  investors: [],
+  investors: ['dsl20s', '6q7dh3', 'zoshoo', 'wu15kr'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

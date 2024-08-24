@@ -2,15 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lunyr',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'LUN',
   coinGeckoID: 'lunyr',
   id: '74rmzw',
   description:
-    'Lunyr is a blockchain-based world knowledge base that rewards users for peer-reviewing and contributing information.',
+    'Lunyr is an Ethereum-based decentralized crowdsourced encyclopedia that rewards users with app tokens for peer-reviewing and contributing information, aiming to become the go-to source for reliable data and enable future technologies like AI, VR, and AR.',
   discord: '365609106863816704',
   investors: ['v2r2oo'],
   linkedin: 'https://www.linkedin.com/company/lunyr/about/',

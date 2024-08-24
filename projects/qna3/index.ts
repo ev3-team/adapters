@@ -12,7 +12,7 @@ export default {
   description:
     'QnA3 is an AI-powered Web3 Knowledge Sharing Platform that helps users get answers to web3 questions.',
   discord: null,
-  investors: ['mrgeec', 'tlb60n'],
+  investors: ['mrgeec'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

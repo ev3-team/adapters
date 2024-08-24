@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AI Protocol',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: '3zo6h4',
   description:
-    'Platform merging AI and Web3 for creation, ownership, tokenization, and monetization of AI assets.',
+    'AI Protocol is a protocol that enables the development of a community-driven, secure, and adaptive DePIN for tokenized AI systems.',
   discord: '828681620893466655',
   investors: [],
   linkedin: 'https://www.linkedin.com/in/ai-protocol-201214283/',

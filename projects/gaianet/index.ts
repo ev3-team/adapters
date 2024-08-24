@@ -12,7 +12,7 @@ export default {
   description:
     'GaiaNet is building a distributed and incentivized GenAI Agent Network, providing a decentralized computing infrastructure allowing users to create, deploy, scale, and monetize their AI agents.',
   discord: '1215232680942374912',
-  investors: [],
+  investors: ['y8mmkj', 'ptzfrs', 'kvs8ga', 'nnv6q8', '8rcqvw'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

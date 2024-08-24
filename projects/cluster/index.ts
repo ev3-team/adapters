@@ -12,7 +12,7 @@ export default {
   description:
     'Cluster Protocol is a Proof of compute protocol and Open Source Community for decentralized AI models.',
   discord: null,
-  investors: [],
+  investors: ['i8a5lw'],
   linkedin: null,
   duneQueries: null,
   foundingYear: null,

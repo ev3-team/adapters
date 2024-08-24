@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Chingari',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Social',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'teymg6',
   description:
-    'Chingari is a fast-growing Web3 Social Media company in India, combining the features of TikTok and OnlyFans.',
+    'Chingari is a fast-growing Web3 social media company combining TikTok and OnlyFans features.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/chingariapp/',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'HOPR',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -22,6 +22,7 @@ export default {
     'opc76c',
     '23f4q2',
     '9va778',
+    '5aftnd',
     'curksv',
     '1rq4ip',
     'z1ww7b',

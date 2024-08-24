@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Atlas Navi',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Mobility',
   chain: 'ETHEREUM',
-  category: 'WIRELESS',
+  category: 'SENSORS',
   token: 'NAVI',
   coinGeckoID: 'atlas-navi',
   id: 'dc50kw',

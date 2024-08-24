@@ -1,0 +1,25 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Ringwallet',
+  ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
+  subcategories: 'Hardware',
+  chain: null,
+  category: 'BLOCKCHAIN_INFRA',
+  token: null,
+  coinGeckoID: null,
+  id: 'y2bfkp',
+  description: 'Ringwallet is a wearable hardware wallet.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/ringwallet',
+  url: 'https://ringwallet.com/',
+  verified: false,
+  fundraises: [],
+} satisfies AdapterProject

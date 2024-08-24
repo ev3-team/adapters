@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gelato',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'GEL',
   coinGeckoID: 'gelato',
   id: 'lvwe8x',
-  description: 'Gelato Network automates smart contract executions across EVM-based blockchains.',
+  description:
+    'Gelato is a Rollup-as-a-Service platform that enables the deployment of enterprise-grade modular L2 and L3 chains integrated with Web3 services, automating smart contracts and gasless transactions while ensuring Ethereum-grade security.',
   discord: null,
   investors: [
     'hol96b',

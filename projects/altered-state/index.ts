@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Altered State',
-  ninja: null,
+  ninja: 'ZZ',
   subcategories: 'Agents',
   chain: 'ETHEREUM',
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: 'altered-state-token',
   id: '9limss',
   description:
-    'Decentralized AI protocol for NFI, enabling ownership, trading, and training of AI agents through NFTs.',
+    'Altered State Machine is a decentralized protocol for the creation and training of AI Agents, owned and traded using NFTs.',
   discord: '864685888830963742',
   investors: [
     'k93k29',

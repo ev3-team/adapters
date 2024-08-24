@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hapi',
   ninja: null,
-  subcategories: 'DeFi',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'HAPI',
   coinGeckoID: 'hapi-one',
   id: 'um75jm',
-  description: 'Hapi Protocol: Cross-chain protocol for DeFi security.',
+  description:
+    'HAPI is an essential second layer of web3 security, providing unrestricted, business, and user-centric scope of cybersecurity solutions.',
   discord: '854680817661640754',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/hapi-protocol/',
