@@ -89,31 +89,33 @@ export const investorToVarName = (investorName: AdapterInvestor['name']) =>
 export type AdaptersProjectCsvRow = {
   name: string
   id: string
-  url: string
+  url?: string
   category: string
-  chain: string
-  token: string
-  coinGeckoID: string
-  description: string
-  subcategories: string
-  ninja: string
-  foundingYear: string
-  twitter: string
-  discord: string
-  telegram: string
-  blog: string
-  github: string
-  linkedin: string
-  verified: string
+  chain?: string
+  token?: string
+  coinGeckoID?: string
+  description?: string
+  subcategories?: string
+  ninja?: string
+  foundingYear?: string
+  twitter?: string
+  discord?: string
+  telegram?: string
+  blog?: string
+  github?: string
+  linkedin?: string
+  verified?: string
 }
 
 /** Generates a row for the projects csv. */
 export const generateProjectsCsvRow = (p: AdaptersProjectCsvRow) =>
-  `${p.name},${p.id},${p.url},${p.category},${p.chain},${p.token},${p.coinGeckoID},${
-    p.description.includes(',') ? `"${p.description}"` : p.description // If description includes commas then add quotation marks to avoid messing the csv file.
-  },${p.subcategories},${p.ninja},${p.foundingYear},${p.twitter},${p.discord},${p.telegram},${
-    p.blog
-  },${p.github},${p.linkedin},${p.verified}`
+  `${p.name},${p.id},${p.url ?? ''},${p.category ?? ''},${p.chain ?? ''},${p.token ?? ''},${
+    p.coinGeckoID ?? ''
+  },${
+    p.description?.includes(',') ? `"${p.description}"` : p.description ?? '' // If description includes commas then add quotation marks to avoid messing the csv file.
+  },${p.subcategories ?? ''},${p.ninja ?? ''},${p.foundingYear ?? ''},${p.twitter ?? ''},${
+    p.discord ?? ''
+  },${p.telegram ?? ''},${p.blog ?? ''},${p.github ?? ''},${p.linkedin ?? ''},${p.verified ?? ''}`
 
 export type AdapterProjectDuneCsvRow = {
   name: string
