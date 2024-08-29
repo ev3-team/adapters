@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/hyperline_xyz/status/1749903630415867984',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

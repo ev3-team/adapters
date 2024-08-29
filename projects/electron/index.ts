@@ -23,4 +23,5 @@ export default {
   url: 'https://electronlabs.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

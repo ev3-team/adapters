@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'WeHealth',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.wehealth.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

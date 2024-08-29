@@ -28,4 +28,5 @@ export default {
       url: 'https://www.tresorio.com/en/post/tresorio-raises-480-000-to-accelerate-its-development',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

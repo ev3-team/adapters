@@ -23,4 +23,5 @@ export default {
   url: 'https://www.polytrade.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://cryptopond.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

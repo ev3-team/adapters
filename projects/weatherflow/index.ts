@@ -22,4 +22,5 @@ export default {
   url: 'https://tempest.earth/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://www.sharedaccess.com/2021/10/12/boost-private-5g/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

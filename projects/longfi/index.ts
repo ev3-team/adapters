@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'LongFi',
   ninja: null,
-  subcategories: 'Mining',
+  subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.longfisolutions.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

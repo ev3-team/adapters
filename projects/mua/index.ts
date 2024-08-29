@@ -23,4 +23,5 @@ export default {
   url: 'https://muadao.build/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

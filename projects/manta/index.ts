@@ -73,4 +73,5 @@ export default {
       url: 'https://cointelegraph.com/news/manta-network-developer-raises-25m-in-series-a-launches-layer-2-for-zk-apps',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.farcaster.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

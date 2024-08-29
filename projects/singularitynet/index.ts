@@ -61,4 +61,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/05/19/singularitynet-singularitydao-receive-25m-to-accelerate-ai-backed-defi/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

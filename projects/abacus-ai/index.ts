@@ -23,4 +23,5 @@ export default {
   url: 'https://abacus.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

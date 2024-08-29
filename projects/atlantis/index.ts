@@ -22,4 +22,5 @@ export default {
   url: 'https://www.atlantians.world/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

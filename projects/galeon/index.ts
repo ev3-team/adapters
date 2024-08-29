@@ -23,4 +23,5 @@ export default {
   url: 'https://blockchain.galeon.care/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

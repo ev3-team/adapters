@@ -22,4 +22,5 @@ export default {
   url: 'https://zukiverse.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

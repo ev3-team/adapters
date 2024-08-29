@@ -23,4 +23,5 @@ export default {
   url: 'https://www.leviatom.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

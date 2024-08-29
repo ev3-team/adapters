@@ -57,4 +57,5 @@ export default {
       url: 'https://www.theblock.co/post/128266/metaverse-infrastructure-startup-render-network-raises-30-million-in-token-round',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

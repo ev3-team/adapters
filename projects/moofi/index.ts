@@ -22,4 +22,5 @@ export default {
   url: 'https://linktr.ee/moofiapp',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

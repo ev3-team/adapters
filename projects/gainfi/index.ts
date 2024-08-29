@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'GainFi',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: 'GAINFI',
@@ -23,4 +23,5 @@ export default {
   url: 'https://gainfi.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

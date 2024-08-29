@@ -28,4 +28,5 @@ export default {
       url: 'https://cryptorank.io/ico/earnm',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

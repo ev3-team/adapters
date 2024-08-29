@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Starnet',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'App, Mobile',
+  subcategories: 'Mobile',
   chain: 'SOLANA',
   category: 'AI',
   token: 'AIBANG',
@@ -23,4 +23,5 @@ export default {
   url: 'https://starcoin.one/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

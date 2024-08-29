@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Venice',
   ninja: 'EV3 Sal',
-  subcategories: 'ML',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://venice.ai/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

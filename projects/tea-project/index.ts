@@ -42,4 +42,5 @@ export default {
       url: 'https://teaproject.medium.com/the-tea-project-secures-second-funding-round-to-build-Web3 Capital-decentralized-computing-a2f2e1ea6476',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.dcx.group/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

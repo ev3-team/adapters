@@ -28,4 +28,5 @@ export default {
       url: 'https://akord.com/blog/akord-raises-2-3m-to-secure-your-data-until-the-apocalypse',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

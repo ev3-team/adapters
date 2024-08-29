@@ -22,4 +22,5 @@ export default {
   url: 'https://hotspotty.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

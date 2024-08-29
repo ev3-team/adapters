@@ -22,4 +22,5 @@ export default {
   url: 'https://solsplits.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

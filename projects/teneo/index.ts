@@ -23,4 +23,5 @@ export default {
   url: 'https://teneo.pro/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

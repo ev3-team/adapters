@@ -23,4 +23,5 @@ export default {
   url: 'https://api3.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Heylana',
   ninja: null,
-  subcategories: 'ML',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

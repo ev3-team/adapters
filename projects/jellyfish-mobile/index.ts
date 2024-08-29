@@ -23,4 +23,5 @@ export default {
   url: 'https://jellyfi.me/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

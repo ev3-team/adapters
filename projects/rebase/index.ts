@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Rebase',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'IRL',
@@ -23,4 +23,5 @@ export default {
   url: 'https://rebase.gg/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

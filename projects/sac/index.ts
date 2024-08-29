@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'SAC',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'SAT',
@@ -23,4 +23,5 @@ export default {
   url: 'https://sac-nft.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

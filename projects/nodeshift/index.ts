@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/nodeshiftcloud/status/1760572580862280007',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

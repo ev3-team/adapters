@@ -23,4 +23,5 @@ export default {
   url: 'https://swotai.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

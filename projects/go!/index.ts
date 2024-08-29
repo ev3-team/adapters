@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Go!',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://t.co/QiGg27OEIj',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

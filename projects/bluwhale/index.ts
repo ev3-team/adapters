@@ -40,4 +40,5 @@ export default {
       url: 'https://techfundingnews.com/silicon-valleys-ai-web3-startup-bluwhale-from-standford-berkeley-and-tiktok-alums-raise-s-7m-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

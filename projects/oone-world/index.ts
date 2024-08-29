@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Oone World',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'w8cnxv',
@@ -23,4 +23,5 @@ export default {
   url: 'http://oone.world/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://tazz.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

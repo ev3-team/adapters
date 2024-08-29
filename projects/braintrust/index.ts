@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Braintrust',
   ninja: 'Mahesh | Escape Velocity',
-  subcategories: 'Labor',
+  subcategories: null,
   chain: 'BASE',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'BTRST',
   coinGeckoID: 'braintrust',
   id: '8mk3xj',
@@ -90,4 +90,5 @@ export default {
       url: 'https://www.reuters.com/markets/funds/coatue-tiger-global-buy-100m-talent-network-braintrusts-tokens-2021-12-09/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

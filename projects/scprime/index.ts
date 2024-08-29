@@ -22,4 +22,5 @@ export default {
   url: 'https://scpri.me/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.dyor.ag/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://eoracle.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

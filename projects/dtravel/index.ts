@@ -52,4 +52,5 @@ export default {
       url: 'https://www.travolution.com/news/travel-sectors/accommodation/travala-com-raises-5m-to-launch-home-sharing-blockchain-platform-dtravel/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

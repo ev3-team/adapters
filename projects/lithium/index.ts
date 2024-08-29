@@ -23,4 +23,5 @@ export default {
   url: 'https://lith.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

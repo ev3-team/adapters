@@ -23,4 +23,5 @@ export default {
   url: 'https://www.gaib.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.reputable.health/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

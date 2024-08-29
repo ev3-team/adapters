@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'EAAS',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'ENERGY',
   token: 'EAAS',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.eaas.global/home/en',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

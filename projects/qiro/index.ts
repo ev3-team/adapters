@@ -22,4 +22,5 @@ export default {
   url: 'https://www.qiro.fi/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

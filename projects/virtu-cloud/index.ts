@@ -23,4 +23,5 @@ export default {
   url: 'https://www.virtuclouds.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

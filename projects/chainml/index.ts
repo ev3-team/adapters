@@ -53,4 +53,5 @@ export default {
       url: 'https://www.theblock.co/post/173081/decentralized-machine-learning-protocol-chainml-raises-4m-led-by-iosg-ventures',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

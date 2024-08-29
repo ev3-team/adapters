@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hyperway',
   ninja: 'W. L.',
-  subcategories: 'Hardware, Drones',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://hyperway.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Semtech',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Apps, Hardware',
+  subcategories: null,
   chain: null,
   category: 'WIRELESS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.semtech.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

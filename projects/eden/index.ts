@@ -23,4 +23,5 @@ export default {
   url: 'https://eden.sexualfi.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -32,4 +32,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20230405005336/en/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

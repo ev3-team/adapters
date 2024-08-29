@@ -23,4 +23,5 @@ export default {
   url: 'https://www.magicblock.gg/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

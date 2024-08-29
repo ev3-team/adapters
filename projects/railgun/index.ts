@@ -23,4 +23,5 @@ export default {
   url: 'https://railgun.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

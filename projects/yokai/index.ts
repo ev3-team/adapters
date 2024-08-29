@@ -22,4 +22,5 @@ export default {
   url: 'http://www.yokai.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

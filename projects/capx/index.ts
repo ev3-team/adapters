@@ -23,4 +23,5 @@ export default {
   url: 'https://www.capxai.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/bundlr-network-raises-a-5-2-million-seed-round-to-build-an-easier-faster-way-to-store-data-on-Web3 Capital--301539755.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

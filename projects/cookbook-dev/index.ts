@@ -22,4 +22,5 @@ export default {
   url: 'https://www.cookbook.dev/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

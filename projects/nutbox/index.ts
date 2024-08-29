@@ -23,4 +23,5 @@ export default {
   url: 'https://nutbox.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

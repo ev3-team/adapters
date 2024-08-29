@@ -32,4 +32,5 @@ export default {
       url: 'https://twitter.com/Adot_web3/status/1783439825695318322',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

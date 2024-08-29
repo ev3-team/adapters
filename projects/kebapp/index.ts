@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'KebApp',
   ninja: 'ZZ',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'KEBABS',
@@ -23,4 +23,5 @@ export default {
   url: 'https://kebapp.club/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

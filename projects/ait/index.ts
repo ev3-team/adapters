@@ -46,4 +46,5 @@ export default {
       url: 'https://twitter.com/AITProtocol/status/1734558802459152682',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

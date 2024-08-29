@@ -22,4 +22,5 @@ export default {
   url: 'https://www.databroker.global/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

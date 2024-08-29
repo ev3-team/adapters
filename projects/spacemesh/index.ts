@@ -59,4 +59,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2018/09/05/polychain-leads-blockmesh-developer-spacemeshs-15-million-fundraise/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

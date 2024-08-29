@@ -23,4 +23,5 @@ export default {
   url: 'https://demo.daocre8.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

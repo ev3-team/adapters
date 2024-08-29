@@ -28,4 +28,5 @@ export default {
       url: 'https://www.verisoul.ai/press-releases/verisoul-raises-3m-to-help-businesses-conquer-fake-users',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

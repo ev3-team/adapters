@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'LayerZero',
   ninja: null,
-  subcategories: 'Mining',
+  subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.layerzero.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

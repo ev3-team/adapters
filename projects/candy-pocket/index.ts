@@ -23,4 +23,5 @@ export default {
   url: 'https://candypocket.com/web/index.html',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

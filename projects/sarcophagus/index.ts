@@ -38,4 +38,5 @@ export default {
       url: 'https://decrypt.co/90032/crypto-dead-mans-switch-sarcophagus-raises-5-47m-from-vcs-via-dao',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

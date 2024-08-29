@@ -23,4 +23,5 @@ export default {
   url: 'https://creator.bid/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

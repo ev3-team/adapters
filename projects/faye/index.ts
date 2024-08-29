@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Faye',
   ninja: null,
-  subcategories: 'Chatbot',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.faye.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

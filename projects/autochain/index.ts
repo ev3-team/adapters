@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Autochain',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'dwrle8',
@@ -23,4 +23,5 @@ export default {
   url: 'https://autochain.info/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

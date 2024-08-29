@@ -22,4 +22,5 @@ export default {
   url: 'https://envirobloq.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

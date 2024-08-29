@@ -23,4 +23,5 @@ export default {
   url: 'https://nkn.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

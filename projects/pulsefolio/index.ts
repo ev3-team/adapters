@@ -22,4 +22,5 @@ export default {
   url: 'https://pulsefolios.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -32,4 +32,5 @@ export default {
       url: 'https://twitter.com/BottoDAO/status/1626249129092415491',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

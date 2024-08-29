@@ -22,4 +22,5 @@ export default {
   url: 'https://pi2.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

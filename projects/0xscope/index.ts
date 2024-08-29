@@ -32,4 +32,5 @@ export default {
       url: 'https://cointelegraph.com/press-releases/0xscope-raises-3m-seed-round-to-build-a-new-Web3 Capital-data-layer',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/KIPprotocol/status/1753010295889707304',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

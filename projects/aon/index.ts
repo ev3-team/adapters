@@ -23,4 +23,5 @@ export default {
   url: 'https://aonnet.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

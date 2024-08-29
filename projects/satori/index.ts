@@ -23,4 +23,5 @@ export default {
   url: 'https://satori.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

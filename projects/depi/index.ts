@@ -22,4 +22,5 @@ export default {
   url: 'https://www.depi.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

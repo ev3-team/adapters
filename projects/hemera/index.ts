@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prweb.com/releases/hemera-officially-launches-to-democratize-on-chain-intelligence-302138046.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'k270zx',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.noshdelivery.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

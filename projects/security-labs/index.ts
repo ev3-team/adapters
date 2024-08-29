@@ -23,4 +23,5 @@ export default {
   url: 'https://www.securitylabs.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://link3.to/pingo',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://tesseractai.cloud/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://mindlang.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

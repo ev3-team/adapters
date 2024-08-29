@@ -23,4 +23,5 @@ export default {
   url: 'https://echolink.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

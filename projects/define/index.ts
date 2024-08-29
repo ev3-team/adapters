@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'DEF',
   coinGeckoID: null,
   id: 'fcrj4g',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.define.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

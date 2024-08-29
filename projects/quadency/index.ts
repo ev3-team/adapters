@@ -28,4 +28,5 @@ export default {
       url: 'https://www.Bitcoin.cominsider.org/article/105546/quadency-trading-platform-gets-100000-seed-funding-dash-dash',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

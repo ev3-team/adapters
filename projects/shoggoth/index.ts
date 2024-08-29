@@ -23,4 +23,5 @@ export default {
   url: 'https://shoggoth.systems/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

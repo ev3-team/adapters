@@ -22,4 +22,5 @@ export default {
   url: 'https://bento.me/brume',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

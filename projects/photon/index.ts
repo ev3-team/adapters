@@ -33,4 +33,5 @@ export default {
   url: 'https://www.photon.storage/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -101,4 +101,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/02/18/crypto-powered-wireless-network-helium-raises-200m-at-12b-valuation-report/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

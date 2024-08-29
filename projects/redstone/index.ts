@@ -61,4 +61,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/08/29/defi-platform-redstone-raises-nearly-7m-to-improve-connectivity-between-blockchains-real-world-data/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

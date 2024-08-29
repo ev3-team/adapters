@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Skey',
   ninja: null,
-  subcategories: 'DeFi, IoT',
+  subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SKEY',
@@ -23,4 +23,5 @@ export default {
   url: 'https://skey.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

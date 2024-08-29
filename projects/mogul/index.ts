@@ -28,4 +28,5 @@ export default {
       url: 'https://techcrunch.com/2023/11/08/mogul-club-raises-3-6m-toward-its-effort-to-make-real-estate-investing-more-accessible/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

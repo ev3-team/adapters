@@ -22,4 +22,5 @@ export default {
   url: 'https://www.stateless.solutions/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

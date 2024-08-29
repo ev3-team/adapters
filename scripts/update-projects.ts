@@ -142,6 +142,7 @@ async function run() {
         url: !!row.url ? row.url : null,
         verified: Boolean(row.verified),
         fundraises: projectsFundraises.get(projectId) ?? [],
+        isApp: Boolean(row.isApp),
       })
     })
     .on('end', async () => {

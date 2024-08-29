@@ -28,4 +28,5 @@ export default {
       url: 'https://startupstorymedia.com/insights-bengaluru-based-woolly-farms-gets-an-investment-of-rs-4-39-cr-from-mumbai-angels-and-others/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

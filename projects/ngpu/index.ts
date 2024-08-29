@@ -23,4 +23,5 @@ export default {
   url: 'https://ngpu.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

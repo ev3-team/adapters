@@ -22,4 +22,5 @@ export default {
   url: 'https://orbitdb.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Runloop',
   ninja: null,
-  subcategories: 'Agents, DeFi',
+  subcategories: 'Agents',
   chain: null,
   category: 'AI',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://runloop.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

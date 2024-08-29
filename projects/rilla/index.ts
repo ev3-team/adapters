@@ -23,4 +23,5 @@ export default {
   url: 'https://rilla.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

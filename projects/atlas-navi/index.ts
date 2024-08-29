@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Atlas Navi',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'NAVI',
   coinGeckoID: 'atlas-navi',
   id: 'dc50kw',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.atlasnavi.com/about',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

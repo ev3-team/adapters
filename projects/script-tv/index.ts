@@ -23,4 +23,5 @@ export default {
   url: 'https://token.script.tv/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

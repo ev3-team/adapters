@@ -22,4 +22,5 @@ export default {
   url: 'https://m3tering.whynotswitch.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

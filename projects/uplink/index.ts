@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/business/2024/04/11/depin-platform-uplink-raises-10m-led-by-framework-ventures/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

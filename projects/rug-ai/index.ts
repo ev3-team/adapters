@@ -22,4 +22,5 @@ export default {
   url: 'https://rug.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

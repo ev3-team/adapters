@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Frodobots',
   ninja: null,
-  subcategories: 'Robotics',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.frodobots.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

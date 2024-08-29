@@ -23,4 +23,5 @@ export default {
   url: 'https://www.sociallayer.im/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

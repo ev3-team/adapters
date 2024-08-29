@@ -23,4 +23,5 @@ export default {
   url: 'https://fx1.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

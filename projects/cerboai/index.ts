@@ -23,4 +23,5 @@ export default {
   url: 'https://www.cerboai.com/main',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

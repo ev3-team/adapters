@@ -23,4 +23,5 @@ export default {
   url: 'https://polymathic-ai.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

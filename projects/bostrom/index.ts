@@ -23,4 +23,5 @@ export default {
   url: 'https://cyb.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

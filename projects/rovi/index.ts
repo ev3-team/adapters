@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ROVI',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.rovimobility.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

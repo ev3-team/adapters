@@ -23,4 +23,5 @@ export default {
   url: 'https://testnet.inichain.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Piphi',
   ninja: 'W. L.',
-  subcategories: 'Environmental, Data',
+  subcategories: 'Environmental',
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PIPHIN',
@@ -22,4 +22,5 @@ export default {
   url: 'https://piphi.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://shopx.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

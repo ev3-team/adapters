@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Epistral',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'Intellectual Property',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'INTELLECTUAL_PROPERTY',
   token: null,
   coinGeckoID: null,
   id: 'm3m6sw',
@@ -23,4 +23,5 @@ export default {
   url: 'https://epistral.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

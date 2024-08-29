@@ -23,4 +23,5 @@ export default {
   url: 'https://futurenetworks.host/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

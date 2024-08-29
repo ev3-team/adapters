@@ -23,4 +23,5 @@ export default {
   url: 'https://www.sx.technology/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

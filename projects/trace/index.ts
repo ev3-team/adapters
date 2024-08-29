@@ -48,4 +48,5 @@ export default {
       url: 'https://www.newsbtc.com/news/company/trace-network-raises-strategic-investment-of-over-1-6-million-from-leading-blockchain-investors/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

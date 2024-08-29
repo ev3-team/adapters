@@ -37,4 +37,5 @@ export default {
       url: 'https://www.cypherhunter.com/en/e/suptho-raised-funding-2023-01-12/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

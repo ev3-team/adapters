@@ -22,4 +22,5 @@ export default {
   url: 'https://www.dex.auction/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

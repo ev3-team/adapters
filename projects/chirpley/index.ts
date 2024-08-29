@@ -23,4 +23,5 @@ export default {
   url: 'https://chirpley.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

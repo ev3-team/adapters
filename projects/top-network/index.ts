@@ -23,4 +23,5 @@ export default {
   url: 'https://www.topnetwork.org/en/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.shentu.technology/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

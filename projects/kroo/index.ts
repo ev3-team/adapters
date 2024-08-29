@@ -23,4 +23,5 @@ export default {
   url: 'https://www.kroo.us/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

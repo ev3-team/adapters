@@ -23,4 +23,5 @@ export default {
   url: 'https://www.deepgreen.energy/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

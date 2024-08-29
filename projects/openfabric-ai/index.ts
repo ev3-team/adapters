@@ -23,4 +23,5 @@ export default {
   url: 'https://openfabric.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

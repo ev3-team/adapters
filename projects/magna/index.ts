@@ -22,4 +22,5 @@ export default {
   url: 'https://www.magna.so/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

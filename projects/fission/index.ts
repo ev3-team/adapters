@@ -35,4 +35,5 @@ export default {
   url: 'https://fission.codes/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

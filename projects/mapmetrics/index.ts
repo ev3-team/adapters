@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Mapmetrics',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'SOLANA',
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'MMAPS',
   coinGeckoID: 'mapmetrics',
   id: 'lp6ty8',
@@ -22,4 +22,5 @@ export default {
   url: 'https://mapmetrics.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

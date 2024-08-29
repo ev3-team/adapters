@@ -23,4 +23,5 @@ export default {
   url: 'https://umma.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

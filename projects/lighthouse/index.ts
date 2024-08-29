@@ -39,4 +39,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/05/12/lighthouse-raises-7m-to-be-the-search-engine-of-the-metaverse/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

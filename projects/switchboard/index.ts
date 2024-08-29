@@ -43,4 +43,5 @@ export default {
       url: 'https://switchboardxyz.medium.com/switchboard-raises-3-5mm-seed-and-announces-solana-mainnet-beta-5dc21eefece',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

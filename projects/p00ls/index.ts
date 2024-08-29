@@ -23,4 +23,5 @@ export default {
   url: 'https://www.p00ls.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

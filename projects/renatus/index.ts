@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Renatus',
   ninja: null,
-  subcategories: 'Robotics',
+  subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -27,4 +27,5 @@ export default {
       url: 'https://www.therobotreport.com/renatus-robotics-announces-2-million-in-seed-funding-for-autonomous-logistics-solutions/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

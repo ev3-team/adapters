@@ -23,4 +23,5 @@ export default {
   url: 'https://conet.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

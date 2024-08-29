@@ -41,4 +41,5 @@ export default {
       url: 'https://medium.com/phala-network/phala-network-value-tops-10-million-on-new-fundraising-31a8c25f9bb9',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

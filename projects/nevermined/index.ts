@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20220712005503/en/Nevermined-Raises-%E2%82%AC3-Million-Seed-Funding-to-Make-Web3 Capital-Development-Easier-for-Creators-and-Developers',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

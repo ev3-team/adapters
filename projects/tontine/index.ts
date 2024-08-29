@@ -23,4 +23,5 @@ export default {
   url: 'https://playtontine.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

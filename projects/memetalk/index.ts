@@ -22,4 +22,5 @@ export default {
   url: 'https://memetalk.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

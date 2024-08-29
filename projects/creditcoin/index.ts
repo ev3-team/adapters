@@ -23,4 +23,5 @@ export default {
   url: 'https://creditcoin.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

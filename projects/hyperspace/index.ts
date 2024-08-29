@@ -44,4 +44,5 @@ export default {
       url: 'https://www.thenationalnews.com/business/start-ups/2023/10/05/riyadhs-hyperspace-raises-55m-to-scale-operations/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

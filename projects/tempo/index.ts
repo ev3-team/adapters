@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Tempo',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'l84cmm',
@@ -23,4 +23,5 @@ export default {
   url: 'https://hellotempo.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

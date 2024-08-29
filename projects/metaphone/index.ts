@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/metaphone_ton/status/1787440551651897738',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

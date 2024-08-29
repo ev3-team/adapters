@@ -22,4 +22,5 @@ export default {
   url: 'https://www.kino.studio/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

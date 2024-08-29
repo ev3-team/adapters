@@ -28,4 +28,5 @@ export default {
       url: 'https://techcrunch.com/2023/05/08/antimetal-is-putting-ai-to-work-to-root-out-cloud-cost-inefficiencies/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

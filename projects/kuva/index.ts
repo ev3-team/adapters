@@ -28,4 +28,5 @@ export default {
       url: 'https://payloadspace.com/kuva-raises-17-6m-series-a-will-expand-stateside/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

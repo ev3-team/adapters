@@ -22,4 +22,5 @@ export default {
   url: 'https://www.ethswarm.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

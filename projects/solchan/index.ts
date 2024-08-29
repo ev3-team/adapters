@@ -22,4 +22,5 @@ export default {
   url: 'https://solchan.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

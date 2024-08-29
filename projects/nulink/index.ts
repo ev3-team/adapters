@@ -22,4 +22,5 @@ export default {
   url: 'https://www.nulink.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -27,4 +27,5 @@ export default {
       url: 'https://aioz.network/blog/aioz-network-dwf-labs-partnership',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -58,4 +58,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20220322005518/en/Upshot-Raises-22M-Series-A2-Led-by-Polychain-to-Accelerate-Development-of-Real-Time-NFT-Appraisals',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://questbook.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

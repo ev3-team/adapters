@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Triathon',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: 'BINANCE',
-  category: 'AI',
+  category: 'SCIENCE',
   token: 'GROW',
   coinGeckoID: 'triathon',
   id: 'g1khhf',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.triathon.space/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

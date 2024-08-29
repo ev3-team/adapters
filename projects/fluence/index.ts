@@ -42,4 +42,5 @@ export default {
       url: 'https://decrypt.co/93090/cloud-9-million-fluence-labs-raises-cash-aims-liberate-Web3 Capital-aws',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

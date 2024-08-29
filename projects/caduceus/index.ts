@@ -23,4 +23,5 @@ export default {
   url: 'https://caduceus.foundation/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

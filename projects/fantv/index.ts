@@ -23,4 +23,5 @@ export default {
   url: 'https://fantv.world/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

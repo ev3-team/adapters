@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'CUDIS',
   ninja: 'W. L.',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.cudis.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -42,4 +42,5 @@ export default {
       url: 'https://www.cryptotimes.io/ethereum-layer-2-rollup-ethstorage-raised-7m-in-seed-round/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

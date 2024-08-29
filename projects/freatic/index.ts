@@ -40,4 +40,5 @@ export default {
       url: 'https://unchainedcrypto.com/a16z-leads-3-6m-fundraise-for-crypto-firm-freatic/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

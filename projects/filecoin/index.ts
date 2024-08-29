@@ -91,4 +91,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2017/09/07/257-million-filecoin-breaks-all-time-record-for-ico-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

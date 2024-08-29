@@ -23,4 +23,5 @@ export default {
   url: 'https://loxnetwork.co.uk/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

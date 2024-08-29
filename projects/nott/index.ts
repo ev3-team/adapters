@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'NOTT',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: 'NOTT',
@@ -23,4 +23,5 @@ export default {
   url: 'https://nott.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

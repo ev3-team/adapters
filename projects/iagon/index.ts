@@ -47,4 +47,5 @@ export default {
       url: 'https://www.investing.com/news/cryptocurrency-news/iagon-raises-34m-funding-to-build-first-data-platform-on-cardano-2545346',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

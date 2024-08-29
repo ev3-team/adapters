@@ -23,4 +23,5 @@ export default {
   url: 'https://nvg8.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

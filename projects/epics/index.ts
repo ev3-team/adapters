@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'w0bliz',
@@ -23,4 +23,5 @@ export default {
   url: 'https://epics.dev/en/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

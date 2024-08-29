@@ -23,4 +23,5 @@ export default {
   url: 'https://www.openforestprotocol.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

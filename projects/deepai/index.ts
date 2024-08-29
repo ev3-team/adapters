@@ -22,4 +22,5 @@ export default {
   url: 'https://deepweb3.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

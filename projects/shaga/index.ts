@@ -23,4 +23,5 @@ export default {
   url: 'https://linktr.ee/web3shaga',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

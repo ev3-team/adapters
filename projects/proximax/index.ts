@@ -28,4 +28,5 @@ export default {
       url: 'https://www.globenewswire.com/en/news-release/2018/06/04/1516295/0/en/NEM-Based-Decentralized-Application-Platform-ProximaX-Lists-on-Kryptono-Exchange.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

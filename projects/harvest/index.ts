@@ -23,4 +23,5 @@ export default {
   url: 'https://goharvest.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

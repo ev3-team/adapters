@@ -56,4 +56,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/07/28/decentralized-data-platform-space-and-time-raises-10m/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Coral',
   ninja: null,
-  subcategories: 'App, Hardware',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: 'CRL',
@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/MyCoralApp/status/1729111661821497641',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

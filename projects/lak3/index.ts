@@ -23,4 +23,5 @@ export default {
   url: 'https://lak3.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

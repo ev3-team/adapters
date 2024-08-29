@@ -41,4 +41,5 @@ export default {
       url: 'https://www.financemagnates.com/cryptocurrency/news/golem-raises-8-6-million-29-minutes-fund-airbnb-computers/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://zenqira.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

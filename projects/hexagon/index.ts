@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hexagon',
   ninja: null,
-  subcategories: 'Mining',
+  subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.globenewswire.com/news-release/2022/05/19/2447081/0/en/Hexagon-Wireless-Raises-2-Million-To-Build-Decentralized-Wireless-Networks.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

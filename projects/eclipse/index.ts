@@ -54,4 +54,5 @@ export default {
       url: 'https://www.coindesk.com/business/2024/03/11/blockchain-builder-eclipse-labs-raises-50m-ahead-of-layer-2s-mainnet-debut/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

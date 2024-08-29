@@ -23,4 +23,5 @@ export default {
   url: 'https://protico.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

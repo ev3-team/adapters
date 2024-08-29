@@ -23,4 +23,5 @@ export default {
   url: 'https://www.piknik.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

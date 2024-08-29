@@ -22,4 +22,5 @@ export default {
   url: 'https://unifique.com.br/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

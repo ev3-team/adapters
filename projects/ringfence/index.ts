@@ -28,4 +28,5 @@ export default {
       url: 'https://crypto.news/ringfence-announces-1-5m-raise-to-empower-and-reward-creators/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

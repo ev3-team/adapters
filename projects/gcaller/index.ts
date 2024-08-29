@@ -23,4 +23,5 @@ export default {
   url: 'https://gcaller.in/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

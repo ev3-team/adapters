@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'Advertising',
   chain: 'BINANCE',
-  category: 'SENSORS',
+  category: 'HUMAN_CAPITAL',
   token: 'YET',
   coinGeckoID: null,
   id: 'e1rwdv',
@@ -23,4 +23,5 @@ export default {
   url: 'https://30sec.net/#/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

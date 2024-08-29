@@ -23,4 +23,5 @@ export default {
   url: 'https://vitreus.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

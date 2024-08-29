@@ -23,4 +23,5 @@ export default {
   url: 'https://tyhcm-sqaaa-aaaah-abjya-cai.ic0.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Entheos',
   ninja: null,
-  subcategories: 'Batteries',
+  subcategories: null,
   chain: null,
   category: 'ENERGY',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.entheos.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

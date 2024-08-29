@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hal',
   ninja: null,
-  subcategories: 'Chatbot',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://chatwithhal.vercel.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

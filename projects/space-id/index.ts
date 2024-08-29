@@ -23,4 +23,5 @@ export default {
   url: 'http://www.space.id/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

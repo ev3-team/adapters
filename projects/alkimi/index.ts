@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'Advertising',
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'HUMAN_CAPITAL',
   token: 'ADS',
   coinGeckoID: 'alkimi',
   id: 'xvizp7',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.alkimi.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

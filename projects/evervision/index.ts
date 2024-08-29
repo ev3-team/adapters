@@ -38,4 +38,5 @@ export default {
   url: 'https://ever.vision/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

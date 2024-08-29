@@ -48,4 +48,5 @@ export default {
       url: 'https://www.coinlive.com/news-flash/405451',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

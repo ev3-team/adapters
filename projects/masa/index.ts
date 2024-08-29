@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20240123671602/en/Masa-Network-Raises-5.4M-in-Seed-Round-to-Build-the-%E2%80%9CDecentralized-Google%E2%80%9D-for-the-World%E2%80%99s-Personal-Data',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

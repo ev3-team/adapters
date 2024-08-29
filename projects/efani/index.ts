@@ -28,4 +28,5 @@ export default {
       url: 'https://www.bizjournals.com/sacramento/inno/stories/news/2022/01/17/efani-smartphones-hackers-crypto.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.energiedigital.at/#p',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://tau.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

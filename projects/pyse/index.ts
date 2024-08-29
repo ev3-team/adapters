@@ -22,4 +22,5 @@ export default {
   url: 'https://pyse.in/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

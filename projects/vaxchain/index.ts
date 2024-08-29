@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Vaxchain',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://devpost.com/software/vaxchain',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

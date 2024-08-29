@@ -38,4 +38,5 @@ export default {
       url: 'https://disruptafrica.com/2021/11/08/nigerian-wi-fi-sharing-startup-wicrypt-raises-1-5m-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -94,4 +94,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/04/14/ethereum-push-notification-service-raises-10m-at-131m-valuation/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

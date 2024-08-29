@@ -28,4 +28,5 @@ export default {
       url: 'https://cryptorank.io/price/skillfulai',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

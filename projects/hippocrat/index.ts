@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hippocrat',
   ninja: 'ZZ',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: 'HPO',
   coinGeckoID: 'hippocrat',
   id: '36sdcf',
@@ -23,4 +23,5 @@ export default {
   url: 'https://hippocrat.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

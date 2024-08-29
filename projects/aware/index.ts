@@ -22,4 +22,5 @@ export default {
   url: 'https://wearaware.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

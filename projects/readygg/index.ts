@@ -22,4 +22,5 @@ export default {
   url: 'https://ready.gg/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

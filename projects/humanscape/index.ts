@@ -36,4 +36,5 @@ export default {
       url: 'https://www.cointime.ai/flash-news/decentralized-patient-network-humanscape-completed-us-86028',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

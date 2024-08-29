@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ether.fi',
   ninja: null,
-  subcategories: 'Rewards',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://ether.fi/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

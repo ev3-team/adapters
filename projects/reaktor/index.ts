@@ -23,4 +23,5 @@ export default {
   url: 'https://www.reaktortoken.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.seda.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

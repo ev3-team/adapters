@@ -57,4 +57,5 @@ export default {
       url: 'https://www.theblock.co/post/285900/jump-capital-7-5-million-seed-round-web3-ai-firm-raiinmaker',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

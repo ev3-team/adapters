@@ -23,4 +23,5 @@ export default {
   url: 'https://globalboo.st/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

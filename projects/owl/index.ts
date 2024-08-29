@@ -22,4 +22,5 @@ export default {
   url: 'https://owlnetwork.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

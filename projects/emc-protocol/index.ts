@@ -28,4 +28,5 @@ export default {
       url: 'https://medium.com/@EMCProtocol/ai-depin-project-emc-lands-multi-million-dollar-investment-f267a4257c71',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

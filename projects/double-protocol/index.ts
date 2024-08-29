@@ -22,4 +22,5 @@ export default {
   url: 'https://double.one/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

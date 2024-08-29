@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'FuelDAO',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'mt3dmz',
@@ -23,4 +23,5 @@ export default {
   url: 'https://fueldao.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

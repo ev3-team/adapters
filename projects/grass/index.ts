@@ -28,4 +28,5 @@ export default {
       url: 'https://blockworks.co/news/blockchain-artificial-intelligence-fundraise',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

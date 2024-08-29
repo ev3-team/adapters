@@ -23,4 +23,5 @@ export default {
   url: 'https://www.dataos.so/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

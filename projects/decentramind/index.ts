@@ -23,4 +23,5 @@ export default {
   url: 'https://decentramind.bot/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

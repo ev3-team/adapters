@@ -22,4 +22,5 @@ export default {
   url: 'https://www.pomerene.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

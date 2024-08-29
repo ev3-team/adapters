@@ -76,4 +76,5 @@ export default {
       url: 'https://www.axios.com/2020/03/06/arweave-funding-permanent-data-storage-coronavirus',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

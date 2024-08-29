@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Purple AI',
   ninja: 'ZZ',
-  subcategories: 'ML',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAI',
@@ -23,4 +23,5 @@ export default {
   url: 'https://purplesquare.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

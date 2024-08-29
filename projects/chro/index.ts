@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Chro',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://chro-plus.web.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

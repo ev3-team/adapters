@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'POLYGON',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'vhqz3k',
@@ -45,4 +45,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/blackbird-labs-raises-24-million-series-a-round-from-a16z-amex-ventures-and-more-to-help-transform-the-way-restaurants-approach-diner-loyalty-301946664.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

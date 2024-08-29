@@ -23,4 +23,5 @@ export default {
   url: 'https://ovoo.pl/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

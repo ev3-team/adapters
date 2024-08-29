@@ -22,4 +22,5 @@ export default {
   url: 'https://www.theloopnetwork.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

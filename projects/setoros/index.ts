@@ -22,4 +22,5 @@ export default {
   url: 'https://setoros.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

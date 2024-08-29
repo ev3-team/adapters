@@ -22,4 +22,5 @@ export default {
   url: 'https://mevfree.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

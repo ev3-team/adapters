@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BitBoy',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'Hardware, Gaming',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.bitboy.games/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

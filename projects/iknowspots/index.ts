@@ -23,4 +23,5 @@ export default {
   url: 'https://solana.iknowspots.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

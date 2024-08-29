@@ -22,4 +22,5 @@ export default {
   url: 'https://www.blockjoy.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

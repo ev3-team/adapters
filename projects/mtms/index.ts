@@ -5,7 +5,7 @@ export default {
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: null,
   chain: 'ARBITRUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'MTMS',
   coinGeckoID: 'mtms-network',
   id: '7vuy7a',
@@ -23,4 +23,5 @@ export default {
   url: 'https://mtms.live/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

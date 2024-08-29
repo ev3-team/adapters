@@ -22,4 +22,5 @@ export default {
   url: 'https://3tv.chat/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

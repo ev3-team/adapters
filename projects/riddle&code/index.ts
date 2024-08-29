@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Riddle&Code',
   ninja: 'ZZ',
-  subcategories: 'VPP',
+  subcategories: null,
   chain: null,
   category: 'ENERGY',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.riddleandcode.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject
