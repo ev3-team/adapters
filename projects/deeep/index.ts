@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DeEEP',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: 'DEEEP',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.deeep.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://nwbroadbandalliance.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

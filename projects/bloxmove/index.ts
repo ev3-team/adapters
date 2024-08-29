@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'bloXmove',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'BLXM',
   coinGeckoID: 'bloxmove-erc20',
   id: '3xdu4v',
@@ -23,4 +23,5 @@ export default {
   url: 'https://bloxmove.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

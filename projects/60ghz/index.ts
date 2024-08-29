@@ -22,4 +22,5 @@ export default {
   url: 'https://60ghz.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

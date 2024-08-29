@@ -23,4 +23,5 @@ export default {
   url: 'https://www.arpanetwork.io/en-US',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.zeal.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'AiGO',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'AIGO',
   coinGeckoID: null,
   id: 'pegrr3',
@@ -23,4 +23,5 @@ export default {
   url: 'https://aigo.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/talusnetwork/status/1762157302088434040',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

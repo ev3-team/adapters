@@ -27,4 +27,5 @@ export default {
       url: 'https://www.theblock.co/post/204061/sequoia-china-and-dao5-back-zk-startup-hyper-oracle',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.bunked.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

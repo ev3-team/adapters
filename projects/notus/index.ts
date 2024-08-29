@@ -22,4 +22,5 @@ export default {
   url: 'https://notuslabs.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

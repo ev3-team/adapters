@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: '1s4ysk',
@@ -23,4 +23,5 @@ export default {
   url: 'https://buk.technology/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/ClusterProtocol/status/1770473478350622985',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

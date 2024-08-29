@@ -32,4 +32,5 @@ export default {
       url: 'https://siliconangle.com/2023/04/05/startup-agnostiq-raises-6-1m-integrate-quantum-computing-hpc/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

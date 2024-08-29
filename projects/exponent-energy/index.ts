@@ -23,4 +23,5 @@ export default {
   url: 'https://www.exponent.energy/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

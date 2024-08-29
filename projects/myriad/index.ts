@@ -23,4 +23,5 @@ export default {
   url: 'https://www.myriad.social/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

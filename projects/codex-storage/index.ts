@@ -23,4 +23,5 @@ export default {
   url: 'https://codex.storage/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

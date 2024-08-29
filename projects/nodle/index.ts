@@ -28,4 +28,5 @@ export default {
       url: 'https://www.globenewswire.com/news-release/2018/09/13/1570282/0/en/Nodle-io-Raises-1-5M-Seed-Funding-to-Bring-IoT-Cryptocurrency-to-App-Developers.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

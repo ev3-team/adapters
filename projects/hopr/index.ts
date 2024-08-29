@@ -52,4 +52,5 @@ export default {
       url: 'https://www.coindesk.com/business/2020/07/09/binance-labs-leads-1m-seed-round-in-crypto-tor-alternative-hopr/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

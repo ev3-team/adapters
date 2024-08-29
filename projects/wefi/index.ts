@@ -23,4 +23,5 @@ export default {
   url: 'https://wefi.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

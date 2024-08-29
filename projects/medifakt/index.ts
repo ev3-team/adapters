@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Medifakt',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'FAKT',
@@ -23,4 +23,5 @@ export default {
   url: 'https://medifakt.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

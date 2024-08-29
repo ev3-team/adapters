@@ -23,4 +23,5 @@ export default {
   url: 'https://chain.link/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -60,4 +60,5 @@ export default {
       url: 'https://techcrunch.com/2022/09/19/pano-ai/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

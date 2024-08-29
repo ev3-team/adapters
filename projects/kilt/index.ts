@@ -44,4 +44,5 @@ export default {
   url: 'https://www.kilt.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

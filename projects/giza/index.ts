@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20230711269424/en/Giza-Raises-3M-Pre-Seed-Led-by-CoinFund-to-Bring-Artificial-Intelligence-to-Web3 Capital-Smart-Contracts',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

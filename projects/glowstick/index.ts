@@ -23,4 +23,5 @@ export default {
   url: 'https://glowstick3d.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

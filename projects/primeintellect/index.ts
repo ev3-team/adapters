@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/PrimeIntellect/status/1782772983712379328',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

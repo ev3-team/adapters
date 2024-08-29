@@ -23,4 +23,5 @@ export default {
   url: 'https://www.logion.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

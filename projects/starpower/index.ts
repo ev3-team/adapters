@@ -23,4 +23,5 @@ export default {
   url: 'http://starpower.group/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.padolabs.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

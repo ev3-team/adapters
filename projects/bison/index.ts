@@ -23,4 +23,5 @@ export default {
   url: 'https://bisonlabs.io/#/dashboard',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

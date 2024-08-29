@@ -28,4 +28,5 @@ export default {
       url: 'https://www.odaily.news/newsflash/356564',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.neuron.world/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

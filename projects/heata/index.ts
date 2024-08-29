@@ -28,4 +28,5 @@ export default {
       url: 'https://guide.dadupa.com/british-cloud-computing-startup-heata-raises-1m-to-further-develop-its-low-carbon-cloud-compute-network/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

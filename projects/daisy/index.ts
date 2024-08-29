@@ -23,4 +23,5 @@ export default {
   url: 'https://daisycrowd.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

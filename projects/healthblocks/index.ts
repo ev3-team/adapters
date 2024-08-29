@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Healthblocks',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.healthblocks.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

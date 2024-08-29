@@ -23,4 +23,5 @@ export default {
   url: 'https://lakenetwork.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

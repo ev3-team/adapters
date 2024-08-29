@@ -23,4 +23,5 @@ export default {
   url: 'https://cortexloop.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

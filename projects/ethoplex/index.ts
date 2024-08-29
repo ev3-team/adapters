@@ -23,4 +23,5 @@ export default {
   url: 'https://www.ethoplex.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

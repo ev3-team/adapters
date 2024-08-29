@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'PaLM',
   ninja: 'ZZ',
-  subcategories: 'Chatbot',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PALM',
@@ -23,4 +23,5 @@ export default {
   url: 'https://palmai.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

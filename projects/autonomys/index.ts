@@ -22,4 +22,5 @@ export default {
   url: 'https://www.autonomys.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

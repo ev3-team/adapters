@@ -23,4 +23,5 @@ export default {
   url: 'https://opsec.computer/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

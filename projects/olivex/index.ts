@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'OliveX',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'DOSE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.dosetoken.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

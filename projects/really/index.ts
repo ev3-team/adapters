@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/really-announces-18-million-seed-round-brings-the-sharing-economy-to-mobile-phone-service-301757834.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

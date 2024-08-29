@@ -23,4 +23,5 @@ export default {
   url: 'https://label.foundation/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

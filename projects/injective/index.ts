@@ -23,4 +23,5 @@ export default {
   url: 'https://injective.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

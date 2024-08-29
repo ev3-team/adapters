@@ -23,4 +23,5 @@ export default {
   url: 'https://www.block-land.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

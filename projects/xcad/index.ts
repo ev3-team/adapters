@@ -23,4 +23,5 @@ export default {
   url: 'https://xcadnetwork.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.ioen.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

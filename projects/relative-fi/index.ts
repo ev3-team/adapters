@@ -23,4 +23,5 @@ export default {
   url: 'https://relative.fi/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

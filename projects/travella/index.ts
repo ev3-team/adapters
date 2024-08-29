@@ -5,7 +5,7 @@ export default {
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: 'Logistics',
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'ttlilt',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.travella.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

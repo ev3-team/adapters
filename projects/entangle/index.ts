@@ -54,4 +54,5 @@ export default {
       url: 'https://cryptorank.io/ico/entangle',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

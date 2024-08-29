@@ -47,4 +47,5 @@ export default {
       url: 'https://www.accesswire.com/689805/bware-labs-raises-6m-in-series-a-funding-round-to-boost-blockchain-api-infrastructure',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

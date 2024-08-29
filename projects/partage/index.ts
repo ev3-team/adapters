@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Partage',
   ninja: 'EV3 Sal',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://hellopartage.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

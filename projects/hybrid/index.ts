@@ -23,4 +23,5 @@ export default {
   url: 'https://buildonhybrid.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

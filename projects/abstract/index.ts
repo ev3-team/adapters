@@ -22,4 +22,5 @@ export default {
   url: 'https://abstract.money/en-US',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

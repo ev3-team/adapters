@@ -23,4 +23,5 @@ export default {
   url: 'https://cloudsync.cc/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

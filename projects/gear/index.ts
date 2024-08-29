@@ -22,4 +22,5 @@ export default {
   url: 'https://gear.foundation/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://ojo.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

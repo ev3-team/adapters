@@ -23,4 +23,5 @@ export default {
   url: 'https://www.etcmc.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

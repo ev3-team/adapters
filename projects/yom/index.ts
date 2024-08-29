@@ -23,4 +23,5 @@ export default {
   url: 'https://www.yom.ooo/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

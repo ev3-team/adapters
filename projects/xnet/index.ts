@@ -27,4 +27,5 @@ export default {
   url: 'https://xnet.company/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

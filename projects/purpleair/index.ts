@@ -23,4 +23,5 @@ export default {
   url: 'https://www2.purpleair.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

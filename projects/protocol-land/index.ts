@@ -23,4 +23,5 @@ export default {
   url: 'https://protocol.land/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

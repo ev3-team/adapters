@@ -22,4 +22,5 @@ export default {
   url: 'https://neptunemutual.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

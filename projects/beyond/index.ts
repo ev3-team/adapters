@@ -23,4 +23,5 @@ export default {
   url: 'https://beyond.link/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

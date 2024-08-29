@@ -22,4 +22,5 @@ export default {
   url: 'https://www.w.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

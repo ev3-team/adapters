@@ -36,4 +36,5 @@ export default {
       url: 'https://twitter.com/DeMR_official/status/1767791967768125940',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

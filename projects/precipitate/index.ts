@@ -23,4 +23,5 @@ export default {
   url: 'https://www.precipitate.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://jur.io/blog/jur-market-report-0/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://mindsync.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

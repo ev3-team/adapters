@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Blueberry Ring',
   ninja: 'W. L.',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: 'HEALTH',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.blueberryring.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

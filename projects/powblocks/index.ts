@@ -23,4 +23,5 @@ export default {
   url: 'https://powblocks.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

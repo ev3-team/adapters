@@ -52,4 +52,5 @@ export default {
       url: 'https://www.coindesk.com/business/2021/09/30/gelato-raises-11m-as-smart-contract-automation-market-heats-up/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ELOOP',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'c0u4u3',
@@ -27,4 +27,5 @@ export default {
       url: 'https://superangels.club/eloop-raised-new-million-investment/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

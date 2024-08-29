@@ -134,4 +134,5 @@ export default {
       url: 'https://www.coinspeaker.com/Web3 Capital-protocol-xmtp-raises-20m/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

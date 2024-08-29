@@ -23,4 +23,5 @@ export default {
   url: 'https://www.invarch.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

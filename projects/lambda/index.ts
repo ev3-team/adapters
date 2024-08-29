@@ -22,4 +22,5 @@ export default {
   url: 'https://lambda.im/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

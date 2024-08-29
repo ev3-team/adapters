@@ -22,4 +22,5 @@ export default {
   url: 'https://www.decent.land/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

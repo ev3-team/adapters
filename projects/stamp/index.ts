@@ -22,4 +22,5 @@ export default {
   url: 'https://www.stamp.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://clore.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

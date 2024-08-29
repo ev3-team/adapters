@@ -23,4 +23,5 @@ export default {
   url: 'https://spin.fashion/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

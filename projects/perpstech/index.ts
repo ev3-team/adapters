@@ -22,4 +22,5 @@ export default {
   url: 'https://www.perps.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

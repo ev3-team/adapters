@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'TEKKON',
   ninja: 'ZZ',
-  subcategories: 'App',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://tekkon.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

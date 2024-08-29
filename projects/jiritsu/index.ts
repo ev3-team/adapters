@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Jiritsu',
   ninja: 'ZZ',
-  subcategories: 'L1/L2, ZK',
+  subcategories: 'L1/L2',
   chain: null,
   category: 'RWA',
   token: null,
@@ -43,4 +43,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/jiritsu-raises-10-2-million-in-funding-to-revolutionize-verifiable-compute-301934115.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

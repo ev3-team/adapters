@@ -28,4 +28,5 @@ export default {
       url: 'https://www.datanami.com/this-just-in/filebase-raises-2m-led-by-multicoin-capital-to-unify-decentralized-storage-networks/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

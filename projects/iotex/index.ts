@@ -59,4 +59,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/06/07/machinefi-lab-raises-10m-to-incentivize-iot-data-collection-for-web-3/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

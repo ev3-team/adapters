@@ -22,4 +22,5 @@ export default {
   url: 'https://www.themirror.space/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

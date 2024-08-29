@@ -23,4 +23,5 @@ export default {
   url: 'https://gpsnetwork.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

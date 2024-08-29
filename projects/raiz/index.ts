@@ -23,4 +23,5 @@ export default {
   url: 'https://www.raiz.farm/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -42,4 +42,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/01/20/alephim-raises-10m-to-compete-with-amazons-storage-and-computing-service/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

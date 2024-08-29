@@ -23,4 +23,5 @@ export default {
   url: 'https://resistorai.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://www.theblock.co/post/130953/solana-move-to-earn-stepn-funding',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

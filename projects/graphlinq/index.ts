@@ -22,4 +22,5 @@ export default {
   url: 'https://graphlinq.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

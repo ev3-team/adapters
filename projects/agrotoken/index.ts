@@ -41,4 +41,5 @@ export default {
       url: 'https://contxto.com/en/agrotech/agrotoken-raises-12-5m-in-pre-series-a-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

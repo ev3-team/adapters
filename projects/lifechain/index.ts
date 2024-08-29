@@ -22,4 +22,5 @@ export default {
   url: 'https://www.lifechainfoundation.com/chain',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

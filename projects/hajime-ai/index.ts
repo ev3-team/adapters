@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Hajime AI',
   ninja: 'ZZ',
-  subcategories: 'ML',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'HJM',
@@ -23,4 +23,5 @@ export default {
   url: 'https://linktr.ee/hajimeai',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

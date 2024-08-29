@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'XX',
   ninja: null,
-  subcategories: 'L1/L2, Quantum',
+  subcategories: 'L1/L2',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
   token: 'XX',
@@ -23,4 +23,5 @@ export default {
   url: 'https://xx.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

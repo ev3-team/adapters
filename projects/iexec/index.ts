@@ -23,4 +23,5 @@ export default {
   url: 'http://iex.ec/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

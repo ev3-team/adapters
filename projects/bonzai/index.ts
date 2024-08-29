@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BonzAI',
   ninja: 'W. L.',
-  subcategories: 'ML',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'BONZAI',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.bonzai.sh/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

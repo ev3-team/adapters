@@ -23,4 +23,5 @@ export default {
   url: 'https://www.onchaintoolkit.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

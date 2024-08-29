@@ -23,4 +23,5 @@ export default {
   url: 'https://www.veritree.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://curecoin.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

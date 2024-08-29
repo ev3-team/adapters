@@ -23,4 +23,5 @@ export default {
   url: 'https://network3.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

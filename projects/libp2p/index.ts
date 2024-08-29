@@ -23,4 +23,5 @@ export default {
   url: 'https://libp2p.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

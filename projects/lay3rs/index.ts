@@ -23,4 +23,5 @@ export default {
   url: 'https://lay3rs.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

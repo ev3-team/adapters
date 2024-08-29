@@ -62,4 +62,5 @@ export default {
       url: 'https://twitter.com/NetworkMeson/status/1768445122914775217',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

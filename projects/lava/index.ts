@@ -49,4 +49,5 @@ export default {
       url: 'https://twitter.com/lavanetxyz/status/1758162588381405563',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

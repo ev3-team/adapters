@@ -23,4 +23,5 @@ export default {
   url: 'https://www.emetresearch.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

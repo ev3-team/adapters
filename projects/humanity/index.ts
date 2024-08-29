@@ -23,4 +23,5 @@ export default {
   url: 'https://www.humanity.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.combinder.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

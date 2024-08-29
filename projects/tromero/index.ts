@@ -28,4 +28,5 @@ export default {
       url: 'https://tech.eu/2023/07/18/tromero-raises-ps15-million-to-make-ai-training-and-hosting-cheaper-through-crypto-mining/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

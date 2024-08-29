@@ -23,4 +23,5 @@ export default {
   url: 'https://cryptnet.shop/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

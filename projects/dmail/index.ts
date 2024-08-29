@@ -54,4 +54,5 @@ export default {
       url: 'https://blog.dmail.ai/new-milestone-dmail-closes-pre-a-funding-round/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

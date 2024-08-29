@@ -28,4 +28,5 @@ export default {
       url: 'https://www.newswire.ca/news-releases/functionland-raises-1-1m-in-seed-funding-830473543.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

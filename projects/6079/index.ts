@@ -22,4 +22,5 @@ export default {
   url: 'https://6079.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

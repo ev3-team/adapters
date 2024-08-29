@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Flostream',
   ninja: 'ZZ',
-  subcategories: 'Storage, CDN',
+  subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://flo.stream/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

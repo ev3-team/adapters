@@ -40,4 +40,5 @@ export default {
   url: 'https://www.koii.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

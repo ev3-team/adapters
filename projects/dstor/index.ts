@@ -22,4 +22,5 @@ export default {
   url: 'https://dstor.cloud/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'IMGNAI',
   ninja: null,
-  subcategories: 'ML',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'IMGNAI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.theblock.co/post/274669/imgnai-raise-digital-companion-launch',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

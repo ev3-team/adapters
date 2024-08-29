@@ -23,4 +23,5 @@ export default {
   url: 'https://www.side.one/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

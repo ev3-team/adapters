@@ -22,4 +22,5 @@ export default {
   url: 'https://deltatheta.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

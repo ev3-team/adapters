@@ -23,4 +23,5 @@ export default {
   url: 'https://stacktical.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

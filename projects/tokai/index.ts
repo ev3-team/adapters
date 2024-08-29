@@ -23,4 +23,5 @@ export default {
   url: 'https://tokai.vip/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

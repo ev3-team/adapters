@@ -23,4 +23,5 @@ export default {
   url: 'https://ore.supply/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

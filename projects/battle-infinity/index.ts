@@ -24,4 +24,5 @@ export default {
   url: 'https://battleinfinity.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

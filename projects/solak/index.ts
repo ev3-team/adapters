@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/solakgpt/status/1767415726510665865',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

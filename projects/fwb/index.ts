@@ -23,4 +23,5 @@ export default {
   url: 'https://www.fwb.help/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

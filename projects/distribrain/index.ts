@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DistriBrain',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'ML',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: 'BRAIN',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.distribrain.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

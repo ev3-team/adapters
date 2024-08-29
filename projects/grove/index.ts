@@ -23,4 +23,5 @@ export default {
   url: 'https://www.grove.city/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

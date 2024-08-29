@@ -23,4 +23,5 @@ export default {
   url: 'https://www.klimadao.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

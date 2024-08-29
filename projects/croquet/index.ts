@@ -28,4 +28,5 @@ export default {
       url: 'https://venturebeat.com/business/croquet-makes-it-possible-to-put-hundreds-of-players-into-web-based-multiplayer-action/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

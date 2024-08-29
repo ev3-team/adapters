@@ -39,4 +39,5 @@ export default {
       url: 'https://chainwire.org/2021/05/12/dotmoovs-raises-840000-from-strategic-investors-and-partners/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

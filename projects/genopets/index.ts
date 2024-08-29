@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Genopets',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'GENE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.genopets.me/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

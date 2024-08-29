@@ -23,4 +23,5 @@ export default {
   url: 'https://www.accountable.capital/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

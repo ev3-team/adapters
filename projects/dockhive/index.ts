@@ -23,4 +23,5 @@ export default {
   url: 'https://dockhive.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

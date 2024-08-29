@@ -23,4 +23,5 @@ export default {
   url: 'https://denet.pro/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

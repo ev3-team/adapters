@@ -23,4 +23,5 @@ export default {
   url: 'https://dapp.2dai.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

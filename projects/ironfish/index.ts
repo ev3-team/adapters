@@ -23,4 +23,5 @@ export default {
   url: 'https://ironfish.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

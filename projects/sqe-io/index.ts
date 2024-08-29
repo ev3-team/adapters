@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'SQE.io',
   ninja: 'ZZ',
-  subcategories: 'L1/L2, Quantum',
+  subcategories: 'L1/L2',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.sqe.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://sensys.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

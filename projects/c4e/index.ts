@@ -23,4 +23,5 @@ export default {
   url: 'https://c4e.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://hashmind.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

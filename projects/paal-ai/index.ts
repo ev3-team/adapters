@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'PAAL AI',
   ninja: 'ZZ',
-  subcategories: 'Chatbot',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAAL',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.paal.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

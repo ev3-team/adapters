@@ -22,4 +22,5 @@ export default {
   url: 'https://crouton.digital/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

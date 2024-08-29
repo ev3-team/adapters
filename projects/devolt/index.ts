@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DeVolt',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'ENERGY',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'qtjxs2',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.devolt.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.selfie.live/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

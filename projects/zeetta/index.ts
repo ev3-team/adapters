@@ -28,4 +28,5 @@ export default {
       url: 'https://techspark.co/blog/2017/08/08/zeetta-networks-raises-1-6m-latest-funding-round/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

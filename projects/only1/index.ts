@@ -51,4 +51,5 @@ export default {
       url: 'https://twitter.com/JoinOnly1/status/1781942452733231465',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

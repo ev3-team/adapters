@@ -23,4 +23,5 @@ export default {
   url: 'https://www.arcblock.io/en',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

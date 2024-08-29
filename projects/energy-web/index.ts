@@ -42,4 +42,5 @@ export default {
   url: 'https://www.energyweb.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://x.com/Gaianet_AI/status/1795466736097268050',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

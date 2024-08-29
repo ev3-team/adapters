@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'WABA',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'VPP',
+  subcategories: null,
   chain: null,
   category: 'ENERGY',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.wabanetwork.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

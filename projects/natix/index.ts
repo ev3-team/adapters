@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'NATIX',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'uq4s3v',
@@ -59,4 +59,5 @@ export default {
       url: 'https://www.theblock.co/post/290927/depin-natix-funding-token-airdrop-solana',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

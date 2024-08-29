@@ -22,4 +22,5 @@ export default {
   url: 'https://linktr.ee/thejamgalaxy',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

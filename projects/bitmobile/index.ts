@@ -22,4 +22,5 @@ export default {
   url: 'https://www.bitmobiletech.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://genaro.network/en',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

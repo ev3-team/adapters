@@ -23,4 +23,5 @@ export default {
   url: 'https://www.eo3.dev/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

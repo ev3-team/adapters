@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BitDance',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'AI',
   token: 'BTD',
@@ -23,4 +23,5 @@ export default {
   url: 'http://www.bitdance.fun/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

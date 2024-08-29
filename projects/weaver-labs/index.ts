@@ -28,4 +28,5 @@ export default {
       url: 'https://justentrepreneurs.co.uk/news/weaver-labs-secures-400000-uk-government-funding-in-future-ran-competition',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

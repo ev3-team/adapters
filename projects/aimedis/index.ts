@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Aimedis',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'POLYGON',
   category: 'AI',
   token: 'AIMX',
@@ -23,4 +23,5 @@ export default {
   url: 'https://aimedis.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.spiderweb.club/en_US',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

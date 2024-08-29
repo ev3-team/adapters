@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Perkable',
   ninja: null,
-  subcategories: 'Rewards',
+  subcategories: 'Loyalty',
   chain: 'IOTEX',
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.perkable.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

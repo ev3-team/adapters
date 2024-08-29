@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Growfitter',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: '8ve4hw',
@@ -49,4 +49,5 @@ export default {
       url: 'https://economictimes.indiatimes.com/tech/funding/shark-tank-featured-growfitter-raises-1-million-in-funding-led-by-inflection-point-ventures/articleshow/90257919.cms?from=mdr',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

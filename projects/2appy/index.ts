@@ -23,4 +23,5 @@ export default {
   url: 'https://www.2appy.it/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

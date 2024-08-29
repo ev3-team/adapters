@@ -23,4 +23,5 @@ export default {
   url: 'https://sollong.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://hub3.ee/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

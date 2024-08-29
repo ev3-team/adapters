@@ -45,4 +45,5 @@ export default {
       url: 'https://chainwire.org/2024/04/15/inference-labs-raises-2-3-million-in-pre-seed-funding-to-revolutionize-ai-with-proof-of-inference-starting-with-liquid-staking/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

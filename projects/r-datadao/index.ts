@@ -23,4 +23,5 @@ export default {
   url: 'https://www.rdatadao.org/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

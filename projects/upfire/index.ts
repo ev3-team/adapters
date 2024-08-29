@@ -23,4 +23,5 @@ export default {
   url: 'https://upfire.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

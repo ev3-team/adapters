@@ -23,4 +23,5 @@ export default {
   url: 'https://u2u.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

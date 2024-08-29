@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Prophetic',
   ninja: null,
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -27,4 +27,5 @@ export default {
       url: 'https://fortune.com/2023/11/30/lucid-dream-startup-prophetic-headset-prepare-meetings-while-sleeping/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

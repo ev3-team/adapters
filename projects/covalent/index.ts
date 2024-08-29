@@ -62,4 +62,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2021/03/24/decentralized-data-project-covalent-raises-another-2m/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -11,6 +11,12 @@ export type AdapterProjectCategory =
   | 'RWA'
   | 'WIRELESS'
   | 'PENDING'
+  | 'HUMAN_CAPITAL'
+  | 'MOBILITY'
+  | 'ROBOTICS'
+  | 'SCIENCE'
+  | 'INTELLECTUAL_PROPERTY'
+  | '0'
 
 export type AdapterProjectChain =
   | 'ALGORAND'
@@ -80,4 +86,5 @@ export type AdapterProject = {
   url: string | null
   verified: boolean
   fundraises: AdapterProjectFundRaise[]
+  isApp: boolean
 }

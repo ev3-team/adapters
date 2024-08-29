@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'WatchX',
   ninja: 'EV3 Sal',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.watchx.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

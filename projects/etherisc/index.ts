@@ -23,4 +23,5 @@ export default {
   url: 'https://etherisc.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

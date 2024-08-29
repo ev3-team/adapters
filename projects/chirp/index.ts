@@ -22,4 +22,5 @@ export default {
   url: 'https://chirpwireless.io/commercial',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

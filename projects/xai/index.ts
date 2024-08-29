@@ -23,4 +23,5 @@ export default {
   url: 'https://www.xai.games/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

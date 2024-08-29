@@ -22,4 +22,5 @@ export default {
   url: 'https://www.sleeplessai.net/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

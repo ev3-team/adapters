@@ -43,4 +43,5 @@ export default {
       url: 'https://www.coindesk.com/business/2023/02/16/web3-communication-stack-sending-labs-raises-125m/amp/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

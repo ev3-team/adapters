@@ -44,4 +44,5 @@ export default {
       url: 'https://www.globenewswire.com/news-release/2023/08/30/2734002/0/en/GPU-Net-Raises-500K-from-Momentum-6-Alphablockz-Nvidia-Backs-Testnet-Launch.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

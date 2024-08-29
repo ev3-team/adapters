@@ -23,4 +23,5 @@ export default {
   url: 'http://ruffchain.com',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

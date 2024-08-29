@@ -23,4 +23,5 @@ export default {
   url: 'https://celer.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

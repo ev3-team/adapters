@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DIMO',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'POLYGON',
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'DIMO',
   coinGeckoID: 'dimo',
   id: '0wr2ea',
@@ -64,4 +64,5 @@ export default {
       url: 'https://www.theblock.co/post/272456/decentralized-infrastructure-11-5-million-series-a-coinfund',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

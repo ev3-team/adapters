@@ -23,4 +23,5 @@ export default {
   url: 'https://decharge.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

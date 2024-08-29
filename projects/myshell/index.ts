@@ -59,4 +59,5 @@ export default {
       url: 'https://www.theblock.co/post/256691/web-ai-platform-myshell-funding',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

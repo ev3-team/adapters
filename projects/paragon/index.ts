@@ -23,4 +23,5 @@ export default {
   url: 'https://networkparagon.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

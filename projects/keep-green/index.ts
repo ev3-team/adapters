@@ -22,4 +22,5 @@ export default {
   url: 'https://www.keepgreen.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

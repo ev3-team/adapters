@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Brainstem',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://brainstem.health/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

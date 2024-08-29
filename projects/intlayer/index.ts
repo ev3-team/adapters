@@ -23,4 +23,5 @@ export default {
   url: 'https://linktr.ee/intlayer',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

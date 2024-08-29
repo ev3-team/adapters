@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/business/2023/10/10/tokenized-rwa-platform-untangled-goes-live-gets-135m-funding-to-bring-private-credit-on-chain/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

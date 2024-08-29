@@ -23,4 +23,5 @@ export default {
   url: 'https://khalani.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

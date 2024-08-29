@@ -23,4 +23,5 @@ export default {
   url: 'https://www.thestratos.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

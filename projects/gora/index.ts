@@ -27,4 +27,5 @@ export default {
       url: 'https://www.startupticker.ch/en/news/blockchain-startup-secures-1-5-million',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

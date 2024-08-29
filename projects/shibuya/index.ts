@@ -28,4 +28,5 @@ export default {
       url: 'https://decrypt.co/116749/pplpleasrs-shibuya-nft-video-platform-raises-6-9m-to-build-the-a24-of-Web3 Capital',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -47,4 +47,5 @@ export default {
       url: 'https://www.accesswire.com/718966/Decentralized-Database-Platform-Kwil-Raises-89M-Seed-Round',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

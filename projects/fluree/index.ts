@@ -23,4 +23,5 @@ export default {
   url: 'https://flur.ee/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -27,4 +27,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2021/08/16/world-mobile-wraps-39m-token-sale-to-launch-mesh-network-in-zanzibar/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

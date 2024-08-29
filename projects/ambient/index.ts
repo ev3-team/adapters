@@ -27,4 +27,5 @@ export default {
       url: 'https://twitter.com/AmbientNetwork/status/1787910257135501367',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

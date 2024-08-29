@@ -46,4 +46,5 @@ export default {
       url: 'https://twitter.com/JoinEveryworld/status/1771252264985915682',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

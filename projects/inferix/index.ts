@@ -22,4 +22,5 @@ export default {
   url: 'https://inferix.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

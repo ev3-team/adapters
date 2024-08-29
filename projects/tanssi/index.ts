@@ -28,4 +28,5 @@ export default {
       url: 'https://viewsdao.com/v/Moondance-Labs-Raises-3-Million-in-Seed-Funding-for-Tanssi-Protocol-Development0',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

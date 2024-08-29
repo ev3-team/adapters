@@ -31,4 +31,5 @@ export default {
       url: 'https://www.theblock.co/post/285181/web3-ai-training-firm-flock-raises-6-million-in-seed-funding',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

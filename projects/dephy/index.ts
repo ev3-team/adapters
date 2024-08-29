@@ -38,4 +38,5 @@ export default {
       url: 'https://www.theblock.co/post/277656/dephy-secures-seed-funding-round-at-40-million-valuation',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

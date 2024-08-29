@@ -37,4 +37,5 @@ export default {
   url: 'https://siglo.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

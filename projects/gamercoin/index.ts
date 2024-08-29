@@ -23,4 +23,5 @@ export default {
   url: 'https://gamercoin.com/en',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

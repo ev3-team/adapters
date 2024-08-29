@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Vulcan',
   ninja: null,
-  subcategories: 'Gaming, L1/L2',
+  subcategories: 'Gaming',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'PYR',
@@ -23,4 +23,5 @@ export default {
   url: 'https://vulcanforged.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

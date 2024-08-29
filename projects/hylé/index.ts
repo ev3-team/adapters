@@ -23,4 +23,5 @@ export default {
   url: 'https://www.hyle.eu/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

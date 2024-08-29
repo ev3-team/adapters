@@ -38,4 +38,5 @@ export default {
       url: 'https://techcrunch.com/2022/12/01/Web3 Capital-developer-platform-fleek-raises-25m-led-by-polychain-capital/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

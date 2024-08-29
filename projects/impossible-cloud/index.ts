@@ -28,4 +28,5 @@ export default {
       url: 'https://venturebeat.com/business/impossible-cloud-raises-7-6m-to-decentralize-cloud-services-with-Web3 Capital/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DriveX',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'yidy7d',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.drivex.zone/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

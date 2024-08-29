@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MatchX',
   ninja: null,
-  subcategories: 'IoT, Hardware, Software',
+  subcategories: 'IoT',
   chain: null,
   category: 'WIRELESS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://matchx.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.usher.so/technology/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

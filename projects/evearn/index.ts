@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'EVearn',
   ninja: '0x911445B1d3eB2af49d08c67ca6E7dc1c464bE5F5',
-  subcategories: 'Apps, Mobility',
+  subcategories: null,
   chain: null,
-  category: 'ENERGY',
+  category: 'MOBILITY',
   token: 'B3TR',
   coinGeckoID: null,
   id: 'xs9i0g',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.evearn.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

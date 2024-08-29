@@ -23,4 +23,5 @@ export default {
   url: 'https://holonym.id/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

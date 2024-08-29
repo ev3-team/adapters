@@ -50,4 +50,5 @@ export default {
       url: 'https://finance.yahoo.com/news/mymessage-raises-2-1-million-185500210.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -40,4 +40,5 @@ export default {
       url: 'https://cybermagazine.com/articles/enterprise-security-startup-oort-raises-15m-in-series-a-fun',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://railbirdexchange.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

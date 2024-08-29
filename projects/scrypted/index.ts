@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Scrypted',
   ninja: 'EV3 Sal',
-  subcategories: 'Agents, Gaming',
+  subcategories: 'Agents',
   chain: null,
   category: 'AI',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.scryptedinc.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

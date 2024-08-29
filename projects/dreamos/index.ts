@@ -23,4 +23,5 @@ export default {
   url: 'https://www.dreamos.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

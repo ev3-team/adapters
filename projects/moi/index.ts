@@ -22,4 +22,5 @@ export default {
   url: 'https://iome.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

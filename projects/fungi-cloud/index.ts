@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Fungi Cloud',
   ninja: null,
-  subcategories: 'Mining',
+  subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

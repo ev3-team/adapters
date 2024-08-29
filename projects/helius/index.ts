@@ -22,4 +22,5 @@ export default {
   url: 'https://www.helius.dev/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

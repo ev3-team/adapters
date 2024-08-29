@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: '3Dpass',
   ninja: 'EV3 Sal',
-  subcategories: 'L1/L2, RWA',
+  subcategories: 'L1/L2',
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'P3D',
@@ -23,4 +23,5 @@ export default {
   url: 'https://3dpass.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

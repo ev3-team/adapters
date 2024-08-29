@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Presearch',
   ninja: 'ZZ',
-  subcategories: 'Rewards',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PRE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://presearch.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://neuralagent.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.rootdata.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

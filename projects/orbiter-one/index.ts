@@ -23,4 +23,5 @@ export default {
   url: 'https://orbiter.one/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

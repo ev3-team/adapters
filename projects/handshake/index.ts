@@ -48,4 +48,5 @@ export default {
       url: 'https://twitter.com/HNS/status/1744237732992593976',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

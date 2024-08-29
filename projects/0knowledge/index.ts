@@ -23,4 +23,5 @@ export default {
   url: 'https://0101010011.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

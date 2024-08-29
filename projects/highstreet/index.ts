@@ -22,4 +22,5 @@ export default {
   url: 'https://www.highstreet.market/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

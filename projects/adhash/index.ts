@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'Advertising',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'p6m3rb',
@@ -23,4 +23,5 @@ export default {
   url: 'https://adhash.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

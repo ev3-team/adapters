@@ -28,4 +28,5 @@ export default {
       url: 'https://www.techinasia.com/5-blockchain-startups-longhash-raise-9m',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

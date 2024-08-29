@@ -23,4 +23,5 @@ export default {
   url: 'https://phoenix.global/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

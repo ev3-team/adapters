@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pi',
   ninja: null,
-  subcategories: 'Mining, Mobile',
+  subcategories: null,
   chain: 'ALGORAND',
   category: 'SENSORS',
   token: 'PI',
@@ -22,4 +22,5 @@ export default {
   url: 'https://minepi.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

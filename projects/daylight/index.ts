@@ -27,4 +27,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20221117005401/en/Anode-Labs-Announces-Funding-To-Build-The-React-Network-The-First-Community-Owned-Web3 Capital-Green-Energy-Grid',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

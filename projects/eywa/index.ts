@@ -48,4 +48,5 @@ export default {
   url: 'https://eywa.fi/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

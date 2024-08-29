@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'NovaX',
   ninja: 'EV3 Sal',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'BINANCE',
   category: 'SENSORS',
   token: 'NOVAX',
@@ -23,4 +23,5 @@ export default {
   url: 'https://novax.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

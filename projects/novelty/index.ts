@@ -23,4 +23,5 @@ export default {
   url: 'https://novelty.today/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

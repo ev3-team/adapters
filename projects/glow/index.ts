@@ -23,4 +23,5 @@ export default {
   url: 'https://www.glowlabs.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

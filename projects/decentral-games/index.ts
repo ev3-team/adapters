@@ -23,4 +23,5 @@ export default {
   url: 'https://decentral.games',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

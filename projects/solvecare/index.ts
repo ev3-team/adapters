@@ -23,4 +23,5 @@ export default {
   url: 'https://solve.care/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Kluster AI',
   ninja: 'EV3 Sal',
-  subcategories: 'ML',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://kluster.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

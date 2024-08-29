@@ -23,4 +23,5 @@ export default {
   url: 'https://www.autometa.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

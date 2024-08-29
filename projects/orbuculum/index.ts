@@ -23,4 +23,5 @@ export default {
   url: 'https://orbuculum.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject
