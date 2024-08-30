@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'BIST',
   coinGeckoID: 'bistroo',
   id: 'qpkhj7',
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.bistroo.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

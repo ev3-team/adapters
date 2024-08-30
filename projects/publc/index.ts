@@ -22,4 +22,5 @@ export default {
   url: 'https://publc.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

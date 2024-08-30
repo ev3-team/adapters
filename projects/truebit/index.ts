@@ -23,4 +23,5 @@ export default {
   url: 'https://truebit.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

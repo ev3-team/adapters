@@ -44,4 +44,5 @@ export default {
       url: 'https://finbold.com/web3-base-layer-mystiko-network-completed-a-18-million-usd-seed-funding-round/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -81,4 +81,5 @@ export default {
       url: 'https://shardeum.org/blog/shardeum-completes-5-4-million-strategic-raise/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

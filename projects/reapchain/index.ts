@@ -23,4 +23,5 @@ export default {
   url: 'https://reapchain.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

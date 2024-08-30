@@ -23,4 +23,5 @@ export default {
   url: 'https://cam3lot.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

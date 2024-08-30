@@ -22,4 +22,5 @@ export default {
   url: 'https://codexchain.xyz/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

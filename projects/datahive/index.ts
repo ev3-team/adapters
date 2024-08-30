@@ -23,4 +23,5 @@ export default {
   url: 'https://www.datahive.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

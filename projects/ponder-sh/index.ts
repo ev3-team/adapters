@@ -23,4 +23,5 @@ export default {
   url: 'https://ponder.sh/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

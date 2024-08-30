@@ -22,4 +22,5 @@ export default {
   url: 'https://edgematrix.pro/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

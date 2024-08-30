@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'WeDataNation',
   ninja: 'ZZ',
-  subcategories: 'Advertising, Data',
+  subcategories: 'Advertising',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -27,4 +27,5 @@ export default {
       url: 'https://blockchain-founders.io/news/blockchain-founders-group-accelerates-wedatanation-to-empower-new-data-economy',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

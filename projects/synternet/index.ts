@@ -41,4 +41,5 @@ export default {
       url: 'https://twitter.com/Syntropynet/status/1768291299809968491',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

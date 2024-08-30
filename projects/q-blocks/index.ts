@@ -23,4 +23,5 @@ export default {
   url: 'https://qblocks.cloud/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

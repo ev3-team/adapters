@@ -23,4 +23,5 @@ export default {
   url: 'https://pundix.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

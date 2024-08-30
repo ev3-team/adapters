@@ -23,4 +23,5 @@ export default {
   url: 'https://www.stage.community/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

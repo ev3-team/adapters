@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Cere',
   ninja: 'W. L.',
-  subcategories: 'W. L.',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'CERE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://cere.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

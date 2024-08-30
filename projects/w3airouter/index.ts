@@ -22,4 +22,5 @@ export default {
   url: 'https://www.w3airouter.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://soltera.ph/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

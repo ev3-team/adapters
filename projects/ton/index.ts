@@ -23,4 +23,5 @@ export default {
   url: 'https://ton.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

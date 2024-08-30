@@ -22,4 +22,5 @@ export default {
   url: 'https://powerlink.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

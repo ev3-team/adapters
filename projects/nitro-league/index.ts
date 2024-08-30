@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Nitro League',
   ninja: null,
-  subcategories: 'Gaming, Rewards',
+  subcategories: 'Gaming',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'NITRO',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.nitroleague.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

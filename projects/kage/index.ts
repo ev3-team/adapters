@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Kage',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'VPN, Hardware',
+  subcategories: 'VPN',
   chain: 'ETHEREUM',
   category: 'WIRELESS',
   token: 'KAGE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://kagenetwork.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

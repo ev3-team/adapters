@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'PowerPod',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'ENERGY',
+  category: 'MOBILITY',
   token: 'PPD',
   coinGeckoID: null,
   id: '8l06hb',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.powerpod.pro/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

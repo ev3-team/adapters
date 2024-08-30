@@ -23,4 +23,5 @@ export default {
   url: 'https://www.epsilonai.pro/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

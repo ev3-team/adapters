@@ -83,4 +83,5 @@ export default {
       url: 'https://www.theblock.co/post/154836/kyve-network-hits-100-million-valuation-as-it-raises-9-million',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

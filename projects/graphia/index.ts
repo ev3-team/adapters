@@ -23,4 +23,5 @@ export default {
   url: 'https://graphia.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

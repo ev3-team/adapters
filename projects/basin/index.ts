@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Basin',
   ninja: 'EV3 Sal',
-  subcategories: 'Storage, ML',
+  subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://basin.textile.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

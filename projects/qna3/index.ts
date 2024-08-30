@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/BinanceLabs/status/1766011339665821736',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -65,4 +65,5 @@ export default {
       url: 'https://www.coindesk.com/business/2021/07/29/decentralized-video-protocol-livepeer-raises-20m-to-take-on-streaming-giants/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

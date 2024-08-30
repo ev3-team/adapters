@@ -23,4 +23,5 @@ export default {
   url: 'https://landx.fi/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

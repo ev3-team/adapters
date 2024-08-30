@@ -23,4 +23,5 @@ export default {
   url: 'https://ecotoken.earth/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

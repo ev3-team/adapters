@@ -23,4 +23,5 @@ export default {
   url: 'https://agentlayer.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

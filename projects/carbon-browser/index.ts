@@ -23,4 +23,5 @@ export default {
   url: 'https://carbon.website/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

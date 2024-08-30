@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Teleport',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'aehc1q',
@@ -36,4 +36,5 @@ export default {
   url: 'https://www.teleport.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

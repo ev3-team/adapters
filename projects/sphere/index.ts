@@ -39,4 +39,5 @@ export default {
       url: 'https://twitter.com/sphere_labs/status/1762541489467613656',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.3rm.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

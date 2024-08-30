@@ -23,4 +23,5 @@ export default {
   url: 'https://rovr.network/#/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MVL',
   ninja: 'ZZ',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'MVL',
   coinGeckoID: 'mass-vehicle-ledger',
   id: 'ucujvj',
@@ -23,4 +23,5 @@ export default {
   url: 'https://mvlchain.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

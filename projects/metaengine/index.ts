@@ -23,4 +23,5 @@ export default {
   url: 'https://www.metaengine.gg/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ProvenRun',
   ninja: 'EV3 Sal',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'f0pj2v',
@@ -23,4 +23,5 @@ export default {
   url: 'https://provenrun.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

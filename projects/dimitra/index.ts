@@ -28,4 +28,5 @@ export default {
       url: 'https://www.accesswire.com/717548/dimitra-incorporated-releases-dimitra-token-raises-65m-to-accelerate-growth-of-connected-farmer-platform',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

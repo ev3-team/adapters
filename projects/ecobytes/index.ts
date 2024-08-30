@@ -23,4 +23,5 @@ export default {
   url: 'https://3cobytes.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

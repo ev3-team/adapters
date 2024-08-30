@@ -23,4 +23,5 @@ export default {
   url: 'https://www.muon.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

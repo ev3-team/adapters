@@ -5,7 +5,7 @@ export default {
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: 'DeFi',
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'dor8xp',
@@ -23,4 +23,5 @@ export default {
   url: 'https://syfu.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

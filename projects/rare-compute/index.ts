@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Rare Compute',
   ninja: 'W. L.',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: null,
   coinGeckoID: null,
   id: 'lvq4xo',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.rarecompute.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://medium.com/kosenlabs/kosen-labs-founded-by-ex-deepmind-researchers-aims-to-bring-the-benefits-of-advanced-ai-to-the-c8ae04119759',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

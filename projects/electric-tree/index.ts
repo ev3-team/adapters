@@ -23,4 +23,5 @@ export default {
   url: 'https://vision.electrictree.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

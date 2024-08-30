@@ -52,4 +52,5 @@ export default {
       url: 'https://cryptorank.io/ico/stackos-sfx',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

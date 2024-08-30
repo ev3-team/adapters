@@ -23,4 +23,5 @@ export default {
   url: 'http://turboglobal.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

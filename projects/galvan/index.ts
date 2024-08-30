@@ -23,4 +23,5 @@ export default {
   url: 'https://www.galvan.health/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

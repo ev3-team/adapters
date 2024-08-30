@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Useful Sensors',
   ninja: 'ZZ',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://usefulsensors.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

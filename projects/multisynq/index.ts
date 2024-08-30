@@ -39,4 +39,5 @@ export default {
       url: 'https://twitter.com/multisynq/status/1778598443872587808',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

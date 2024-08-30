@@ -23,4 +23,5 @@ export default {
   url: 'https://hello.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

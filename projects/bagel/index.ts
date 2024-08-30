@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20240122875776/en/Bagel-Network-a-Decentralized-ML-Data-Network-Closes-3.1M-Pre-Seed-Round-Led-by-CoinFund',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

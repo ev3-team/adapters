@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Radiologex',
   ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'RDGX',
@@ -23,4 +23,5 @@ export default {
   url: 'https://radiologex.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

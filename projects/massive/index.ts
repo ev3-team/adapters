@@ -57,4 +57,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/massive-raises-11-million-in-seed-funding-from-point72-ventures-to-bring-a-new-business-model-to-the-internet-301434259.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

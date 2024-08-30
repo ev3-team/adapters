@@ -28,4 +28,5 @@ export default {
       url: 'https://betakit.com/crewdle-raises-2-15-million-to-make-video-conferencing-environmentally-friendly/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

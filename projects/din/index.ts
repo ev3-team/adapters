@@ -28,4 +28,5 @@ export default {
       url: 'https://web3go.medium.com/binance-labs-leads-4m-investment-in-web3gos-new-journey-acffd6f1066',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

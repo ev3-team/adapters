@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'BDXN',
   coinGeckoID: 'bondex',
   id: '3mh0dc',
@@ -23,4 +23,5 @@ export default {
   url: 'https://bondex.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

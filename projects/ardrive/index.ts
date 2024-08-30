@@ -55,4 +55,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/03/03/ardrive-raises-17m-to-make-arweaves-data-storage-blockchain-more-usable/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

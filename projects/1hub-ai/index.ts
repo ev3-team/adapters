@@ -23,4 +23,5 @@ export default {
   url: 'https://1hub.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

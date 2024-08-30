@@ -23,4 +23,5 @@ export default {
   url: 'https://qowatt.network/en/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

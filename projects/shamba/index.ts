@@ -23,4 +23,5 @@ export default {
   url: 'https://shamba.link/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

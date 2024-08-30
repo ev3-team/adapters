@@ -23,4 +23,5 @@ export default {
   url: 'https://www.synapsec.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

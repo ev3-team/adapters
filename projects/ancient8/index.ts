@@ -23,4 +23,5 @@ export default {
   url: 'https://www.ancient8.gg/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

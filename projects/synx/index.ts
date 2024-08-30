@@ -23,4 +23,5 @@ export default {
   url: 'https://alpha.synx.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

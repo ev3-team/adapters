@@ -28,4 +28,5 @@ export default {
       url: 'https://siliconcanals.com/news/vaiot-combines-ai-and-blockchain-digitise-business-processes-raises-seed-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

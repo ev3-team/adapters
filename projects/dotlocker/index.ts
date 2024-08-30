@@ -23,4 +23,5 @@ export default {
   url: 'https://www.my.locker/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

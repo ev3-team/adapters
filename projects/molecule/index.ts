@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Molecule',
   ninja: 'ZZ',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: 'IPT',
   coinGeckoID: null,
   id: 'w3p4bn',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.molecule.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://bird.money/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

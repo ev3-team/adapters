@@ -23,4 +23,5 @@ export default {
   url: 'https://www.inpersona.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

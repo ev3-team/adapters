@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Defit',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: 'POLYGON',
   category: 'SENSORS',
   token: 'DEFIT',
@@ -22,4 +22,5 @@ export default {
   url: 'https://app.defit.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'HealthSci',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: 'HSAI',
   coinGeckoID: null,
   id: 'wdoh7d',
@@ -23,4 +23,5 @@ export default {
   url: 'https://healthsci.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

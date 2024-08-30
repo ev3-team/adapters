@@ -64,4 +64,5 @@ export default {
       url: 'https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

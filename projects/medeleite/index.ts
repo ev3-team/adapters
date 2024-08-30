@@ -22,4 +22,5 @@ export default {
   url: 'https://www.medeleite.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

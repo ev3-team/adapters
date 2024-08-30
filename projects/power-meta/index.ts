@@ -23,4 +23,5 @@ export default {
   url: 'https://powermeta.ai/Home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

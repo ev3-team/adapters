@@ -23,4 +23,5 @@ export default {
   url: 'https://www.totem.gdn/bin/view/Main/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

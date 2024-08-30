@@ -22,4 +22,5 @@ export default {
   url: 'https://selfkey.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

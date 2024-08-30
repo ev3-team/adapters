@@ -23,4 +23,5 @@ export default {
   url: 'https://www.waterbear.science/projects/9965fb91-d0da-4724-b925-9a503dc4af27',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

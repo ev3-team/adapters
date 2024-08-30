@@ -23,4 +23,5 @@ export default {
   url: 'https://y8u.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

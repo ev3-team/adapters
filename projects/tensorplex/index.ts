@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/business/2024/03/21/web-3-startup-tensorplex-labs-raises-3m-seed-funding-to-decentralize-ai/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

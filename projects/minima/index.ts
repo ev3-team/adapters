@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Minima',
   ninja: null,
-  subcategories: 'Mobile, IoT',
+  subcategories: 'Mobile',
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'WMINIMA',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.minima.global/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -59,4 +59,5 @@ export default {
       url: 'https://www.theblock.co/linked/115574/alethea-ai-raises-16-million-venture-funding',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ForumAI',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Agents, Gaming',
+  subcategories: 'Agents',
   chain: 'NATIVE',
   category: 'AI',
   token: 'FORUM',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.forumai.dev/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

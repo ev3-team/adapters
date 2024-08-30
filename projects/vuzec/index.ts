@@ -22,4 +22,5 @@ export default {
   url: 'https://www.vuzec.com/work',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

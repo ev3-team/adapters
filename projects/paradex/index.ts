@@ -23,4 +23,5 @@ export default {
   url: 'https://www.paradex.trade/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

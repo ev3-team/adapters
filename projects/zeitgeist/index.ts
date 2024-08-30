@@ -23,4 +23,5 @@ export default {
   url: 'https://zeitgeist.pm/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'http://www.ylide.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

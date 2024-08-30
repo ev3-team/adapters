@@ -27,4 +27,5 @@ export default {
       url: 'https://www.globenewswire.com/en/news-release/2023/01/26/2596408/0/en/PlanetWatch-Raises-3M-to-Boost-Business-Development.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

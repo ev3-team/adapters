@@ -105,6 +105,7 @@ export type AdaptersProjectCsvRow = {
   github?: string
   linkedin?: string
   verified?: string
+  isApp?: string
 }
 
 /** Generates a row for the projects csv. */
@@ -115,7 +116,9 @@ export const generateProjectsCsvRow = (p: AdaptersProjectCsvRow) =>
     p.description?.includes(',') ? `"${p.description}"` : p.description ?? '' // If description includes commas then add quotation marks to avoid messing the csv file.
   },${p.subcategories ?? ''},${p.ninja ?? ''},${p.foundingYear ?? ''},${p.twitter ?? ''},${
     p.discord ?? ''
-  },${p.telegram ?? ''},${p.blog ?? ''},${p.github ?? ''},${p.linkedin ?? ''},${p.verified ?? ''}`
+  },${p.telegram ?? ''},${p.blog ?? ''},${p.github ?? ''},${p.linkedin ?? ''},${p.verified ?? ''},${
+    p.isApp ?? ''
+  }`
 
 export type AdapterProjectDuneCsvRow = {
   name: string

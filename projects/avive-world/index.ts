@@ -23,4 +23,5 @@ export default {
   url: 'https://www.avive.world/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

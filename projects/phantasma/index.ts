@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Phantasma',
   ninja: 'ZZ',
-  subcategories: 'L1/L2, Gaming',
+  subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'SOUL',
@@ -23,4 +23,5 @@ export default {
   url: 'https://phantasma.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Charge',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'ENERGY',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: '5tihi8',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.charge.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

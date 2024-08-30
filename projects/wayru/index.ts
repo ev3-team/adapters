@@ -27,4 +27,5 @@ export default {
       url: 'https://www.ledgerinsights.com/blockchain-based-wifi-network-wayru-raises-2-million/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

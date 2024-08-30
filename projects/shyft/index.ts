@@ -23,4 +23,5 @@ export default {
   url: 'https://shyft.to/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

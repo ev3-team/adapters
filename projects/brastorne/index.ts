@@ -36,4 +36,5 @@ export default {
       url: 'https://www.bwtechzone.com/2022/09/brastorne-enterprises-wins-250000.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

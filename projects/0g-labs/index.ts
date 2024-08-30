@@ -23,4 +23,5 @@ export default {
   url: 'https://0g.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

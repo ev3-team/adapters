@@ -23,4 +23,5 @@ export default {
   url: 'https://zkhub.dev/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

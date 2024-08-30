@@ -23,4 +23,5 @@ export default {
   url: 'https://realio.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

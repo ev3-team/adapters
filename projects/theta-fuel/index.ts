@@ -66,4 +66,5 @@ export default {
       url: 'https://coinchapter.com/institutional-investors-stake-over-100-million-in-theta-network/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

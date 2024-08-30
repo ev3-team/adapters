@@ -51,4 +51,5 @@ export default {
       url: 'https://www.theblock.co/linked/95295/open-source-radicle-12-million-galaxy',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

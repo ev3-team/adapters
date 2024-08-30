@@ -23,4 +23,5 @@ export default {
   url: 'https://dark.fi/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

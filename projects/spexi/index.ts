@@ -41,4 +41,5 @@ export default {
       url: 'https://finance.yahoo.com/news/software-firm-spexi-raises-us-085832523.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

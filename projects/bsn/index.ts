@@ -23,4 +23,5 @@ export default {
   url: 'https://bsnbase.io/g/main/index',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

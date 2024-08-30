@@ -23,4 +23,5 @@ export default {
   url: 'https://domusai.org/#/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

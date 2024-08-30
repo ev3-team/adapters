@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'dClimate',
   ninja: 'ZZ',
-  subcategories: 'Environmental, Data',
+  subcategories: 'Environmental',
   chain: null,
   category: 'ENERGY',
   token: null,
@@ -45,4 +45,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/dclimate-raises-3-5-million-seed-round-with-support-from-coinfund-multicoin-capital-and-republic-labs-to-create-the-first-decentralized-network-for-climate-data-301263646.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

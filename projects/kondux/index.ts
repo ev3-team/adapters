@@ -23,4 +23,5 @@ export default {
   url: 'https://kondux.info/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

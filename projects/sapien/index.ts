@@ -32,4 +32,5 @@ export default {
       url: 'https://www.sapien.io/blog/ai-company-sapien-raises-5-million-to-gamify-data-labeling-for-ai',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

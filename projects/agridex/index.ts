@@ -22,4 +22,5 @@ export default {
   url: 'https://agridex.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

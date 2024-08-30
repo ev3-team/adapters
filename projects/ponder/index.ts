@@ -28,4 +28,5 @@ export default {
       url: 'https://cryptorank.io/ico/ponder',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

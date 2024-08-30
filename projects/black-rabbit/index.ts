@@ -23,4 +23,5 @@ export default {
   url: 'https://blackrabbitai.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

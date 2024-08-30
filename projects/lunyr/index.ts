@@ -28,4 +28,5 @@ export default {
       url: 'https://cointelegraph.com/press-releases/lunyr-crowdsale-successfully-exceeds-minimum-target',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

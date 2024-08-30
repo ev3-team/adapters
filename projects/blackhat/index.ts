@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Blackhat',
   ninja: null,
-  subcategories: 'ML',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'BLKC',
@@ -22,4 +22,5 @@ export default {
   url: 'https://blackhatco.in/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

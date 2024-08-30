@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Greensparc',
   ninja: null,
-  subcategories: 'Environmental, Data',
+  subcategories: 'Environmental',
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.greensparc.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

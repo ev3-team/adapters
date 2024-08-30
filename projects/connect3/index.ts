@@ -27,4 +27,5 @@ export default {
       url: 'https://medium.com/metaweb-vc/connect3-announces-strategic-investment-from-metaweb-ventures-c1a1ddb48294',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

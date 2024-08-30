@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'EcoGen',
   ninja: null,
-  subcategories: 'Hardware, Mining',
+  subcategories: null,
   chain: null,
   category: 'ENERGY',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'http://www.ecogentech.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BigCode',
   ninja: 'ZZ',
-  subcategories: 'ML',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.bigcode-project.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

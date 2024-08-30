@@ -43,4 +43,5 @@ export default {
       url: 'https://chainwire.org/2024/03/05/sahara-raises-6-million-seed-round-to-democratize-global-knowledge-capital-access-through-ai-and-blockchain-technologies-led-by-polychain-capital/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

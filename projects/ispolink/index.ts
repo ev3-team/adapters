@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'ISP',
   coinGeckoID: 'ispolink',
   id: 'vv9w8b',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.ispolink.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

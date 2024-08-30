@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'Advertising',
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'i0yv6s',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.hydro.online/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

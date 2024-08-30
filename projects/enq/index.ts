@@ -22,4 +22,5 @@ export default {
   url: 'https://enqai.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

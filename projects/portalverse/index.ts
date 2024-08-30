@@ -28,4 +28,5 @@ export default {
       url: 'https://medium.com/@PORTALVERSE_NETWORK/decentralized-cloud-gaming-platform-portalverse-network-closes-multi-million-dollar-seed-funding-776b050399cb',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

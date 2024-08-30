@@ -59,4 +59,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/02/16/Union Square-multicoin-lead-30m-raise-for-3boxs-ceramic-data-network/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

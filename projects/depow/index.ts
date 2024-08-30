@@ -22,4 +22,5 @@ export default {
   url: 'https://www.depow.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

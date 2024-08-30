@@ -23,4 +23,5 @@ export default {
   url: 'https://nodes.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

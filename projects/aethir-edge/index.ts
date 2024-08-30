@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Aethir Edge',
   ninja: 'ZZ',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.myedge.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -43,4 +43,5 @@ export default {
       url: 'https://www.theblock.co/post/175248/nfl-superstars-back-coolkicks-founders-6-million-raise-for-collectible-trading-platform',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

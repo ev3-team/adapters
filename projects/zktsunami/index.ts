@@ -23,4 +23,5 @@ export default {
   url: 'https://www.zktsunami.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

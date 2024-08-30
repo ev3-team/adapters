@@ -23,4 +23,5 @@ export default {
   url: 'https://www.rwa.inc/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.frigg.eco/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

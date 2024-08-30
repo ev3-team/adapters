@@ -23,4 +23,5 @@ export default {
   url: 'https://wirtual.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

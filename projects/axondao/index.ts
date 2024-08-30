@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'AxonDAO',
   ninja: 'ZZ',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: 'AXGT',
   coinGeckoID: 'axondao-governance-token',
   id: '0iwefi',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.axondao.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -53,4 +53,5 @@ export default {
       url: 'https://www.globenewswire.com/news-release/2023/02/27/2616422/0/en/Andrena-Raises-15-Million-in-Series-A-Funding-Advancing-Its-Mission-to-Provide-Next-Gen-Affordable-Internet-for-All.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

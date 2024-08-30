@@ -23,4 +23,5 @@ export default {
   url: 'https://nubila.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

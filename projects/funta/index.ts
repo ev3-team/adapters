@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: 'SOLANA',
-  category: 'BLOCKCHAIN_INFRA',
+  category: '0',
   token: 'FUNTA',
   coinGeckoID: null,
   id: 'sy29f3',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.funta.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

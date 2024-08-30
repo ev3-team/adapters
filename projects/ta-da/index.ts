@@ -28,4 +28,5 @@ export default {
       url: 'https://siliconangle.com/2024/01/09/Web3 Capital-ai-data-marketplace-ta-da-raises-3-5m-expand-operations/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

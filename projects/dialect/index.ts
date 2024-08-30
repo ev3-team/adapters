@@ -23,4 +23,5 @@ export default {
   url: 'https://www.dialect.to/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

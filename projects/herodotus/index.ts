@@ -23,4 +23,5 @@ export default {
   url: 'https://herodotus.dev/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

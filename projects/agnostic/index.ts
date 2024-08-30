@@ -23,4 +23,5 @@ export default {
   url: 'https://agnostic.engineering/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

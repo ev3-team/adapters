@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/tech/2024/05/09/protocol-village/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

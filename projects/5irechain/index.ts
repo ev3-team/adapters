@@ -22,4 +22,5 @@ export default {
   url: 'https://5ire.org/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

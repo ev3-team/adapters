@@ -49,4 +49,5 @@ export default {
       url: 'https://twitter.com/DePINBuddy/status/1773164755634487785',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

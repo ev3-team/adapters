@@ -23,4 +23,5 @@ export default {
   url: 'https://www.metale.world/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

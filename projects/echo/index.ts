@@ -23,4 +23,5 @@ export default {
   url: 'https://0xecho.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

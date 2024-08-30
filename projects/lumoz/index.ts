@@ -47,4 +47,5 @@ export default {
       url: 'https://x.com/LumozOrg/status/1795824512468160602',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

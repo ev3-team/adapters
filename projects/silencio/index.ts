@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/silencionetwork/status/1759201491821240687',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

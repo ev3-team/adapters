@@ -53,4 +53,5 @@ export default {
       url: 'https://medium.com/coldstack/coldstack-closes-first-investment-round-with-leading-blockchain-vcs-47036cd991ed',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

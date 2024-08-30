@@ -23,4 +23,5 @@ export default {
   url: 'https://www.tig.foundation/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

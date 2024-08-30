@@ -22,4 +22,5 @@ export default {
   url: 'https://www.deeper.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

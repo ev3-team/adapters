@@ -22,4 +22,5 @@ export default {
   url: 'https://three69ai.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

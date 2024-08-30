@@ -5,7 +5,7 @@ export default {
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: 'DeFi',
   chain: 'NATIVE',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'REMINT',
   coinGeckoID: null,
   id: 'cmm3mc',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.remintnetwork.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

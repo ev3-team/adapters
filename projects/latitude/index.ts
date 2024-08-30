@@ -23,4 +23,5 @@ export default {
   url: 'https://www.latitude.sh/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

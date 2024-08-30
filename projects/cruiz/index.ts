@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Cruiz',
   ninja: 'W. L.',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'MOBILITY',
   token: 'CRUIZ',
   coinGeckoID: null,
   id: 'xrosty',
@@ -23,4 +23,5 @@ export default {
   url: 'https://cruiz.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

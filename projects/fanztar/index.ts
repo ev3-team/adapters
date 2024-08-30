@@ -28,4 +28,5 @@ export default {
       url: 'https://economictimes.indiatimes.com/tech/funding/Web3 Capital-creator-monetisation-platform-fanztar-raises-rs-5-crore-in-funding-led-by-india-quotient/articleshow/91510305 Ventures.cms?from=mdr',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

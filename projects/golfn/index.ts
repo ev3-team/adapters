@@ -22,4 +22,5 @@ export default {
   url: 'https://www.golfn.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

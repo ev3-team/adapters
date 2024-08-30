@@ -23,4 +23,5 @@ export default {
   url: 'https://zerosync.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

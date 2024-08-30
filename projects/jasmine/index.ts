@@ -33,4 +33,5 @@ export default {
   url: 'https://www.jasmine.energy/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -45,4 +45,5 @@ export default {
       url: 'https://www.linkedin.com/posts/techprashantmaurya_web3-activity-7122206249290452993-PK8Q?utm_source=share&utm_medium=member_desktop',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

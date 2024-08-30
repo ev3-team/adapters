@@ -28,4 +28,5 @@ export default {
       url: 'https://www.theblock.co/post/260335/modulus-raises-6-3-million-to-bring-crypto-security-to-ai',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

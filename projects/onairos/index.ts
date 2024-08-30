@@ -23,4 +23,5 @@ export default {
   url: 'https://onairos.uk/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

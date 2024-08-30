@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Wink3',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'GPUs, Social',
+  subcategories: 'GPUs',
   chain: null,
   category: 'AI',
   token: 'WINK3',
@@ -23,4 +23,5 @@ export default {
   url: 'https://wink3.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

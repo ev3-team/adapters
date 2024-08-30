@@ -39,4 +39,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20211216005703/en/GIANT-Protocol-Raises-5-Million-Seed-Round-Led-by-CoinFund',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.verisynclabs.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

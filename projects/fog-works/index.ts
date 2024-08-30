@@ -27,4 +27,5 @@ export default {
       url: 'https://www.finsmes.com/2022/08/w3-storage-lab-raises-3m-in-pre-seed-financing.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

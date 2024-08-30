@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'nRide',
   ninja: 'W. L.',
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'x5z0mq',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.nride.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

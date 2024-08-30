@@ -27,4 +27,5 @@ export default {
       url: 'https://www.geekwire.com/2022/seattle-area-startup-developing-Web3 Capital-mobile-numbers-that-mint-as-nfts-raises-cash/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

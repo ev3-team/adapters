@@ -32,4 +32,5 @@ export default {
       url: 'https://www.cypherhunter.com/es/e/did-id-raised-funding-2022-08-15/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

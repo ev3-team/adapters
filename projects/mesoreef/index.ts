@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MesoReef',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: null,
   coinGeckoID: null,
   id: 'oo6fpf',
@@ -23,4 +23,5 @@ export default {
   url: 'https://linktr.ee/mesoreefdao',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'AI21 Labs',
   ninja: 'ZZ',
-  subcategories: 'ML',
+  subcategories: null,
   chain: null,
   category: 'AI',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.ai21.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

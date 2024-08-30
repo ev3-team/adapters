@@ -23,4 +23,5 @@ export default {
   url: 'https://www.7007.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

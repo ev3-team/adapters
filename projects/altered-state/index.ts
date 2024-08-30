@@ -85,4 +85,5 @@ export default {
       url: 'https://medium.com/@alteredstatemachine/altered-state-machine-welcomes-new-crypto-technology-entertainment-and-investment-partners-in-b09344b5d3d8',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -62,4 +62,5 @@ export default {
       url: 'https://techcrunch.com/2023/10/10/modal-labs-lands-16m-to-abstract-away-big-data-workload-infrastructure/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

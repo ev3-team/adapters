@@ -39,4 +39,5 @@ export default {
       url: 'https://icodrops.com/cindicator/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.cube3.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

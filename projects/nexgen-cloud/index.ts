@@ -28,4 +28,5 @@ export default {
       url: 'https://www.finsmes.com/2022/03/nexgen-cloud-raises-14m-in-funding.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

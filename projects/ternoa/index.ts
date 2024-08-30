@@ -23,4 +23,5 @@ export default {
   url: 'https://www.ternoa.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

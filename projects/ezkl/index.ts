@@ -23,4 +23,5 @@ export default {
   url: 'https://ezkl.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

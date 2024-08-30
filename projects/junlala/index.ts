@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'JunLaLa',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'Hardware, Health & Fitness',
+  subcategories: null,
   chain: 'TON',
   category: 'SENSORS',
   token: 'JUN',
@@ -23,4 +23,5 @@ export default {
   url: 'https://junlala.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

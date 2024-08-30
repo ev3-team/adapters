@@ -23,4 +23,5 @@ export default {
   url: 'https://www.375.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

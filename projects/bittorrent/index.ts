@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BitTorrent',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'L1/L2, Storage',
+  subcategories: 'L1/L2',
   chain: null,
   category: 'COMPUTE',
   token: 'BTT',
@@ -23,4 +23,5 @@ export default {
   url: 'https://bt.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://herond.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

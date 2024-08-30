@@ -23,4 +23,5 @@ export default {
   url: 'https://www.polyverse.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

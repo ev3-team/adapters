@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pollen Mobile',
   ninja: 'ZZ',
-  subcategories: 'Private Wireless',
+  subcategories: null,
   chain: 'SOLANA',
   category: 'WIRELESS',
   token: null,
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.globenewswire.com/en/news-release/2022/04/19/2424680/0/en/Pollen-Mobile-Closes-Seed-Funding-Round-for-Its-Next-Generation-Decentralized-Wireless-Network.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

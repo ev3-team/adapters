@@ -23,4 +23,5 @@ export default {
   url: 'https://www.aiprotocol.info/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

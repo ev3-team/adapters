@@ -22,4 +22,5 @@ export default {
   url: 'https://www.gostir.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

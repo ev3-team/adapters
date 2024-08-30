@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Rymedi',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.biospace.com/article/releases/rymedi-raises-9m-to-expand-impact-on-global-healthcare-infrastructure-with-advanced-blockchain-secured-data-platform/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

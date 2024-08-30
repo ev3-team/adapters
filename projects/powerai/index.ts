@@ -23,4 +23,5 @@ export default {
   url: 'https://powerai.center/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

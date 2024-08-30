@@ -23,4 +23,5 @@ export default {
   url: 'https://www.web3storage.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

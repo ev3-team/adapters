@@ -23,4 +23,5 @@ export default {
   url: 'https://nomota.nl/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

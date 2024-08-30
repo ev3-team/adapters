@@ -23,4 +23,5 @@ export default {
   url: 'https://www.proximum.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

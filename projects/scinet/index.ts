@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'SCINET',
   ninja: 'ZZ',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: null,
   coinGeckoID: null,
   id: 'exm7xr',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.scinet.one/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

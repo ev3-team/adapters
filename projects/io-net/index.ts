@@ -47,4 +47,5 @@ export default {
       url: 'https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'JurnyOn',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'r1g3pk',
@@ -23,4 +23,5 @@ export default {
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

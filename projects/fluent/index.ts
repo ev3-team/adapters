@@ -23,4 +23,5 @@ export default {
   url: 'https://fluentlabs.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

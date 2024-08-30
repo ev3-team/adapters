@@ -22,4 +22,5 @@ export default {
   url: 'https://scdo.org/#/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

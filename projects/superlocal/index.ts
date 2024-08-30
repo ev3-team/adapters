@@ -39,4 +39,5 @@ export default {
       url: 'https://dot.la/superlocal-2650547082.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

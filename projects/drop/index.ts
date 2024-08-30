@@ -22,4 +22,5 @@ export default {
   url: 'https://dropwireless.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://cointensor.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Robotized',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'n87ym5',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.robotiz3d.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

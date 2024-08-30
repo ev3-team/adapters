@@ -23,4 +23,5 @@ export default {
   url: 'https://agroforestdao.web.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

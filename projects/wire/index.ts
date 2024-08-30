@@ -22,4 +22,5 @@ export default {
   url: 'https://wire.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

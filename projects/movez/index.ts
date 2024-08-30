@@ -23,4 +23,5 @@ export default {
   url: 'https://www.movez.me/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

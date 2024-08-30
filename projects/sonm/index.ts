@@ -39,4 +39,5 @@ export default {
       url: 'https://the-blockchain.com/2017/06/18/sonm-raises-42-million-token-raise/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

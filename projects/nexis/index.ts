@@ -23,4 +23,5 @@ export default {
   url: 'https://nexis.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

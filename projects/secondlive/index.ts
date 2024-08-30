@@ -46,4 +46,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/secondlive-raises-at-30m-valuation-in-the-seed-round-to-build-social-metaverse-301414217.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

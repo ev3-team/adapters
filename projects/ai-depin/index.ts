@@ -22,4 +22,5 @@ export default {
   url: 'https://www.ai-depin.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

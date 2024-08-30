@@ -22,4 +22,5 @@ export default {
   url: 'https://www.rpgs.work/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

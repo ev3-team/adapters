@@ -22,4 +22,5 @@ export default {
   url: 'https://rad.live/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://sky.trade/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

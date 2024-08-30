@@ -23,4 +23,5 @@ export default {
   url: 'https://www.valleydao.bio/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

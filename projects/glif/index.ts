@@ -38,4 +38,5 @@ export default {
       url: 'https://www.coindesk.com/business/2024/02/06/filecoins-liquid-staker-glif-raises-45m-hints-at-token-airdrop/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

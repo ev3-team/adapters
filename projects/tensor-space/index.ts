@@ -23,4 +23,5 @@ export default {
   url: 'https://tensorspace.cloud/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

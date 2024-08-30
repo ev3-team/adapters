@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Bittensor',
   ninja: null,
-  subcategories: 'Inferencing',
+  subcategories: null,
   chain: 'NATIVE',
   category: 'AI',
   token: 'TAO',
@@ -27,4 +27,5 @@ export default {
       url: 'https://opentensor.medium.com/november-network-update-114234436dfb',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

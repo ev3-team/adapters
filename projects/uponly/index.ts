@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'UpOnly',
   ninja: 'ZZ',
-  subcategories: 'Gaming, Prediction Market',
+  subcategories: 'Gaming',
   chain: 'POLYGON',
   category: 'NOT_DEPIN',
   token: 'UPO',
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.uponly.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

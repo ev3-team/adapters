@@ -22,4 +22,5 @@ export default {
   url: 'https://subconscious.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://azenprotocol.io/#/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

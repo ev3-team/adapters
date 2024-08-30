@@ -23,4 +23,5 @@ export default {
   url: 'https://dojoprotocol.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

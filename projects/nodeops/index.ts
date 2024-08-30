@@ -39,4 +39,5 @@ export default {
       url: 'https://x.com/NodeOps_App/status/1795199359132311642',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

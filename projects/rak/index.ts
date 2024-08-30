@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/rakwireless-closes-10m-series-a-funding-round-301276301.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

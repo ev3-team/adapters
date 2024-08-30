@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'EFX',
   coinGeckoID: 'effect-network',
   id: 'n3lgh9',
@@ -23,4 +23,5 @@ export default {
   url: 'https://effect.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

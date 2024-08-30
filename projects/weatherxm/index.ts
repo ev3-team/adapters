@@ -44,4 +44,5 @@ export default {
       url: 'https://x.com/TheBlock__/status/1793265598991831507',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -42,4 +42,5 @@ export default {
       url: 'https://fortune.com/crypto/2023/10/24/smlxl-a16z-dor-levi-lyft-blockchains-funding-round/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

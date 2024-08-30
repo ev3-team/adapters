@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Vayu',
   ninja: null,
-  subcategories: 'Robotics',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'ROBOTICS',
   token: null,
   coinGeckoID: null,
   id: 'c6954r',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.vayurobotics.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.passage.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

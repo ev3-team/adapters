@@ -23,4 +23,5 @@ export default {
   url: 'https://acorn.eco/#/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -40,4 +40,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/hivello-announces-upsized-funding-round-raising-usd-2-5m-amidst-high-demand-302049350.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

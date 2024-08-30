@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'AYDO',
   ninja: 'ZZ',
-  subcategories: 'Smart Home',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.aydo.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

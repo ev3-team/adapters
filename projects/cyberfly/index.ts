@@ -23,4 +23,5 @@ export default {
   url: 'https://cyberfly.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

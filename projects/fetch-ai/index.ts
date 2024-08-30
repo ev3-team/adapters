@@ -63,4 +63,5 @@ export default {
       url: 'https://cointelegraph.com/news/bitget-pledges-10m-for-fetch-ai-ecosystem-amid-chatgpt-boom',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://justentropy.lol/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

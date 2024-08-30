@@ -23,4 +23,5 @@ export default {
   url: 'https://www.edgevideo.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

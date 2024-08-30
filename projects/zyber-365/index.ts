@@ -23,4 +23,5 @@ export default {
   url: 'http://www.zyber365.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

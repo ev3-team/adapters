@@ -22,4 +22,5 @@ export default {
   url: 'https://www.curio.gg/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

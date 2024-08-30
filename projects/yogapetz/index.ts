@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/Yogapetz/status/1755646539610157102',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

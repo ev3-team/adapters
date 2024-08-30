@@ -28,4 +28,5 @@ export default {
       url: 'https://golden.com/wiki/DeepBrain_Chain-99B85DK',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

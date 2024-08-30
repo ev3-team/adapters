@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'SOLANA',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'DAN',
   coinGeckoID: null,
   id: 'zu7p9t',
@@ -23,4 +23,5 @@ export default {
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

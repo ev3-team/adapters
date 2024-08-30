@@ -28,4 +28,5 @@ export default {
       url: 'https://x.com/PluralEnergy/status/1796199500912238827',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

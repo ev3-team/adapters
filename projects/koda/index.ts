@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Koda',
   ninja: 'ZZ',
-  subcategories: 'Robotics',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.koda9.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

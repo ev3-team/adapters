@@ -45,4 +45,5 @@ export default {
       url: 'https://www.coindesk.com/business/2021/06/17/blockchain-privacy-firm-integritee-raises-2m-ahead-of-kusama-parachain-auction/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

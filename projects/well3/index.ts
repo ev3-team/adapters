@@ -22,4 +22,5 @@ export default {
   url: 'https://well.eco/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

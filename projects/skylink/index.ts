@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'SkyLink',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Drones',
+  subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'ROBOTICS',
   token: null,
   coinGeckoID: null,
   id: 'jtl9ek',
@@ -23,4 +23,5 @@ export default {
   url: 'https://skylink.city/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

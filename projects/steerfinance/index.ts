@@ -27,4 +27,5 @@ export default {
       url: 'https://steer.finance/steer-protocol-raises-1-5m-in-seed-funding-to-revolutionize-off-chain-computing-and-liquidity-management/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.greymass.com/anchor',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

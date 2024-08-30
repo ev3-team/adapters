@@ -23,4 +23,5 @@ export default {
   url: 'https://fonoster.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

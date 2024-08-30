@@ -23,4 +23,5 @@ export default {
   url: 'https://chingari.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

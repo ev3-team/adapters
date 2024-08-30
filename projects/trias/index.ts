@@ -23,4 +23,5 @@ export default {
   url: 'https://www.trias.one/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

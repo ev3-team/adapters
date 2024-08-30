@@ -44,4 +44,5 @@ export default {
       url: 'https://www.cudos.org/blog/cudos-raises-10million-in-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

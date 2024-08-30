@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'BEPRO',
   coinGeckoID: 'bepro-network',
   id: 'qkto8r',
@@ -23,4 +23,5 @@ export default {
   url: 'https://bepro.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

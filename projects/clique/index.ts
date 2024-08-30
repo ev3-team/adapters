@@ -63,4 +63,5 @@ export default {
       url: 'https://twitter.com/Clique2046/status/1768277734113907127',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

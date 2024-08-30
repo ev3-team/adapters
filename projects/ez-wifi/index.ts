@@ -28,4 +28,5 @@ export default {
       url: 'https://profit.pakistantoday.com.pk/2022/01/12/ezwifi-raises-six-figure-amount-in-pre-seed-funding-as-it-gears-up-internet-sharing-service/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

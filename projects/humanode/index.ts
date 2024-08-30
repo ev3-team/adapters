@@ -48,4 +48,5 @@ export default {
       url: 'https://cointelegraph.com/press-releases/humanode-raises-2-million-while-testnet-hits-1-650-unique-validators',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

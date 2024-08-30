@@ -23,4 +23,5 @@ export default {
   url: 'https://perp.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

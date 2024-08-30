@@ -23,4 +23,5 @@ export default {
   url: 'https://intuition.systems/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

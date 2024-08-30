@@ -55,4 +55,5 @@ export default {
       url: 'https://twitter.com/Privasea_ai/status/1775882408031584362',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

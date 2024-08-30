@@ -23,4 +23,5 @@ export default {
   url: 'https://www.adaptframework.solutions/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

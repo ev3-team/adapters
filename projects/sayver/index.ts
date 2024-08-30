@@ -23,4 +23,5 @@ export default {
   url: 'https://sayver.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://www.nasdaq.com/articles/hashkey-capital-co-invests-%245m-in-decentralized-storage-project-filestar-2021-01-12',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject
