@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'EVearn',
-  ninja: '0x911445B1d3eB2af49d08c67ca6E7dc1c464bE5F5',
+  name: 'Midas',
+  ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
   subcategories: null,
   chain: null,
-  category: 'MOBILITY',
-  token: 'B3TR',
+  category: 'RWA',
+  token: null,
   coinGeckoID: null,
-  id: 'xs9i0g',
+  id: '82xezj',
   description:
-    'EVearn is a Charge2Earn dApp that rewards Tesla drivers with tokens for charging their vehicles and offsetting CO2 emissions.',
+    'Midas is an asset tokenization protocol bringing regulatory-compliant exposure to institutional-grade assets onchain, unlocking DeFi composability for RWAs.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://x.com/EvearnB3TR',
-  url: 'https://vebetterdao.org/',
+  twitter: 'https://x.com/midasrwa',
+  url: 'https://midas.app/',
   verified: false,
   fundraises: [],
   isApp: true,

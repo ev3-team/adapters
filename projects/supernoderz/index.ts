@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'EVearn',
-  ninja: '0x911445B1d3eB2af49d08c67ca6E7dc1c464bE5F5',
+  name: 'SuperNoderz',
+  ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
   subcategories: null,
   chain: null,
-  category: 'MOBILITY',
-  token: 'B3TR',
+  category: 'COMPUTE',
+  token: null,
   coinGeckoID: null,
-  id: 'xs9i0g',
+  id: 'nyfifh',
   description:
-    'EVearn is a Charge2Earn dApp that rewards Tesla drivers with tokens for charging their vehicles and offsetting CO2 emissions.',
+    'SUPERNODERZ simplifies node deployment into a one-click process, enabling anyone to participate in blockchain networks easily.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://x.com/EvearnB3TR',
-  url: 'https://vebetterdao.org/',
+  twitter: 'https://x.com/supernoderz',
+  url: 'https://www.supernoderz.com/',
   verified: false,
   fundraises: [],
   isApp: true,

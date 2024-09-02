@@ -33,6 +33,7 @@ export type AdapterProjectChain =
   | 'FILECOIN'
   | 'GNOSIS'
   | 'IOTEX'
+  | 'KASPA'
   | 'MULTIVERSX'
   | 'NATIVE'
   | 'PEAQ'
