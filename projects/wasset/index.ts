@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'EVearn',
-  ninja: '0x911445B1d3eB2af49d08c67ca6E7dc1c464bE5F5',
-  subcategories: null,
+  name: 'Wasset',
+  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  subcategories: 'Environmental',
   chain: null,
   category: 'MOBILITY',
-  token: 'B3TR',
+  token: 'WST',
   coinGeckoID: null,
-  id: 'xs9i0g',
+  id: '0iiinh',
   description:
-    'EVearn is a Charge2Earn dApp that rewards Tesla drivers with tokens for charging their vehicles and offsetting CO2 emissions.',
+    'Wasset is a blockchain protocol that tackles global waste challenges via its token, marketplace, DAO, and Oracle. ',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://x.com/EvearnB3TR',
-  url: 'https://vebetterdao.org/',
+  twitter: 'https://x.com/wassetltd',
+  url: 'https://wasset.io/',
   verified: false,
   fundraises: [],
   isApp: true,
