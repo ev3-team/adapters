@@ -16,7 +16,6 @@ export type AdapterProjectCategory =
   | 'ROBOTICS'
   | 'SCIENCE'
   | 'INTELLECTUAL_PROPERTY'
-  | '0'
 
 export type AdapterProjectChain =
   | 'ALGORAND'
