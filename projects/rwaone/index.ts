@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'RWAOne',
+  ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
+  subcategories: 'DeFi',
+  chain: null,
+  category: 'RWA',
+  token: 'R1',
+  coinGeckoID: null,
+  id: 'n3b9s3',
+  description: 'RWAOne is an AI-powered Trade2Burn perpetuals platform for RWAs.',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/rwaonedefi',
+  url: 'https://rwaone.io/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject

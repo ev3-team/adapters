@@ -16,7 +16,6 @@ export type AdapterProjectCategory =
   | 'ROBOTICS'
   | 'SCIENCE'
   | 'INTELLECTUAL_PROPERTY'
-  | '0'
 
 export type AdapterProjectChain =
   | 'ALGORAND'
@@ -34,6 +33,7 @@ export type AdapterProjectChain =
   | 'FILECOIN'
   | 'GNOSIS'
   | 'IOTEX'
+  | 'KASPA'
   | 'MULTIVERSX'
   | 'NATIVE'
   | 'PEAQ'

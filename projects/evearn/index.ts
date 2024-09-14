@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://x.com/EvearnB3TR',
-  url: 'https://www.evearn.org/',
+  url: 'https://vebetterdao.org/',
   verified: false,
   fundraises: [],
   isApp: true,
