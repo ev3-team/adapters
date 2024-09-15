@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Zeek',
+  name: 'Deek',
   ninja: 'ZZ',
   subcategories: 'Social',
-  chain: null,
-  category: 'NOT_DEPIN',
+  chain: 'BERA',
+  category: 'INTELLECTUAL_PROPERTY',
   token: null,
   coinGeckoID: null,
   id: 'i1umw4',
   description:
-    'Zeek is a new decentralized social collaboration network that allows users to unlock the value of their intelligence, network, access, and time through on-chain social bounty mechanics and reputation called Wish and Rizz.',
+    'Deek is a decentralized collaboration network that unlocks the value of assets like knowledge and connections through on-chain social bounty mechanics, building an on-chain reputation layer for users.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/zeek_network',
-  url: 'https://www.zeek.network/',
+  twitter: 'https://x.com/deek_network',
+  url: 'https://www.deek.network/',
   verified: false,
   fundraises: [],
   isApp: true,

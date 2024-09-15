@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/inPersonaNFT',
-  url: 'https://www.inpersona.com/',
+  url: 'https://www.vyvo.org/',
   verified: false,
   fundraises: [],
   isApp: true,

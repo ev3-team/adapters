@@ -5,7 +5,7 @@ export default {
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: null,
   chain: null,
-  category: 'INTELLECTUAL_PROPERTY',
+  category: 'AI',
   token: 'VEME',
   coinGeckoID: null,
   id: 'ok9cih',
