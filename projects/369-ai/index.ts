@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: 'https://t.me/Three69AI',
-  twitter: 'https://twitter.com/Three69AI',
+  twitter: 'https://x.com/Three69AI',
   url: 'https://three69ai.com/',
   verified: false,
   fundraises: [],

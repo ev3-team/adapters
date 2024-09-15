@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'vlayer',
+  ninja: null,
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'df40n1',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/vlayer_xyz',
+  url: 'https://www.vlayer.xyz/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject

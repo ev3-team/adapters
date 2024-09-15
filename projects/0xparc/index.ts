@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'zf9ws4',
-  description: '0xPARC supports the next generation of cryptography-enabled applications.',
+  description:
+    '0xPARC supports applied research and development of cryptography-enabled applications on Ethereum and decentralized platforms.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/0xparc',
   url: 'https://0xparc.org/',
   verified: false,
   fundraises: [],

@@ -36,6 +36,7 @@ export type AdapterProjectChain =
   | 'KASPA'
   | 'MULTIVERSX'
   | 'NATIVE'
+  | 'OPTIMISM'
   | 'PEAQ'
   | 'POLKADOT'
   | 'POLYGON'

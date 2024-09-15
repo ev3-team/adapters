@@ -1,14 +1,14 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Zaya',
+  name: 'Dippy AI',
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
   category: 'PENDING',
   token: null,
   coinGeckoID: null,
-  id: 'q8rs1m',
+  id: '2o0fk5',
   description: '',
   discord: null,
   investors: [],
@@ -18,8 +18,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://x.com/zayaai_pathdx',
-  url: null,
+  twitter: 'https://x.com/dippy_ai',
+  url: 'https://www.dippy.ai/',
   verified: false,
   fundraises: [],
   isApp: true,

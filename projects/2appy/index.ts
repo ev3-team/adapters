@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 's3mmvo',
   description:
-    'Digitize your communications in just a few clicks. The VoIP switchboard that saves you money in call management.',
+    '2appy is a bundled service provider that aggregates electricity, gas, mobile, and fiber into a single bill, offering seamless management and personalized customer service for a simplified and cost-effective experience.',
   discord: null,
   investors: [],
   linkedin: null,
