@@ -4,7 +4,7 @@ export default {
   name: 'Deek',
   ninja: 'ZZ',
   subcategories: 'Social',
-  chain: 'BERA',
+  chain: null,
   category: 'INTELLECTUAL_PROPERTY',
   token: null,
   coinGeckoID: null,
