@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'WIRELESS',
+  category: 'PENDING',
   token: null,
   coinGeckoID: null,
   id: 'gsucx5',

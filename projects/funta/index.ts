@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: 'SOLANA',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'COMPUTE',
   token: 'FUNTA',
   coinGeckoID: null,
   id: 'sy29f3',

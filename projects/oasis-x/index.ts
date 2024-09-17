@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Oasis X',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'fkm4rm',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/oasisxworld',
+  url: 'https://oasisx.world/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject

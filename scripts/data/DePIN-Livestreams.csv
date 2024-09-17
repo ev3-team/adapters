@@ -2,15 +2,15 @@ projectName,projectId,title,hyperlink,utcDate,utcTime
 Uprock,1rtzqi,Weekly Call #17,https://www.youtube.com/watch?v=nakW_KLtSGo,8/22/24,17:30
 Nym,5gc718,Art Contest,https://discord.com/events/824256813200834580/1273677045380943902,8/22/24,14:00
 Spheron,bpnvkv,Why Decentralised GPU Networks are more important than ever,https://x.com/SpheronFDN/status/1826198811238191277,8/23/24,10:00
-Carbide,wgg8nc,Disrupt with DePIN,https://lu.ma/6narjcib,9/15/24,23:00
+Carbide,wgg8nc,Disrupt with DePIN,https://lu.ma/6narjcib,9/16/24,11:00
 U2U,hz8qel,DePIN Alliance,https://lu.ma/6q0de1nm,9/16/24,4:00
 IoTeX,oqhdss,R3al World,https://lu.ma/r3al-world-depin-summit-token2049,9/16/24,4:00
 Aethir,oo2cn2,In the World of DePin,https://lu.ma/DePinDayAethirDNA,9/17/24,3:00
 Frodobots,zsejow,DePIN Founders Day,https://lu.ma/qx7l81vd,9/17/24,4:00
 Parasail,n4gf96,DePIN Mass Adoption,https://lu.ma/0vcwqb7w,9/17/24,5:30
-Autonomys,p9x9o3,AI + DePIN Happy Hour,https://lu.ma/0qg50tbt,9/17/24,12:00
-Helium,5bm99m,The Power of Permissionless Infrastructure Networks,https://sg2024.token2049.com/agenda/session/1405972,9/17/24,14:55
-Peaq,vx7fas,depin:lounge,https://lu.ma/sp0ypi2f,9/18/24,11:00
+Autonomys,p9x9o3,AI + DePIN Happy Hour,https://lu.ma/0qg50tbt,9/17/24,11:00
+Helium,5bm99m,The Power of Permissionless Infrastructure Networks,https://sg2024.token2049.com/agenda/session/1405972,9/19/24,02:55
+Peaq,vx7fas,depin:lounge,https://lu.ma/sp0ypi2f,9/18/24,9:00
 Hivemapper,o1qnxa,DePIN Asia,https://lu.ma/DePIN,9/18/24,11:30
 Bittensor,hq4rl7,Bittensor Asia Community Meetup,https://lu.ma/wlm6qt2a,9/19/24,2:00
 Witness Chain,ooq2m5,DePIN x AI Frontiers,https://lu.ma/bx3l6xmo,9/19/24,4:00
@@ -18,19 +18,29 @@ Daylight,3lfveq,DeEnergy Side Event,https://lu.ma/ac0lcvoj,9/19/24,5:00
 DePHY,gmxzzx,DePIN Impact,https://lu.ma/depinday,9/19/24,6:00
 Onocoy,n77nem,DePIN United,https://lu.ma/mihtyvu5,9/19/24,10:00
 Fluence,ul9uzl,DePIN Day,https://lu.ma/depin-singapore,9/20/24,2:00
-Cudis,34ddzp,Bing Bong Presents: Cudis Night,https://lu.ma/03at05i1,9/20/24,14:00
-Minima,w75xgw,"Minima x We Are DePIN: Motorsport Premiere",https://lu.ma/on9dcmax,09/19/2024,3:00
-Codatta,ahw4vg,"AiFi Summit 2024",https://lu.ma/hp2qx40n,09/17/2024,2:30
-Akash,qmmyw0,"Top Shelf: H100 Proof",https://lu.ma/H100proof,09/16/2024,10:00
-Sapien,k2xr2i,"DeAI Summit",https://lu.ma/q2yo1eos,09/17/2024,4:00
-Hyperbolic,8heoo1,"AI After Hours",https://lu.ma/r02yxz4u,09/19/2024,7:00
-Pundi X,i0kfij,"deAI Summit",https://lu.ma/b3q7q31a?tk=aV8qeX,09/16/2024,3:00
-Story Protocol,5maai7,"Story Academy",https://lu.ma/5brbpn6a,09/17/2024,3:00
-Story Protocol,5maai7,"Programmable IP Social: Tokenize Your Brain",https://lu.ma/tokenizeyourbrain,09/17/2024,8:00
-RSS3,1tdy5h,"Open House #AI",https://lu.ma/74r964ii,09/17/2024,3:00
-MagnetAI,1yb2sw,"MagnetAI Open House",https://lu.ma/yop4ycn7?tk=LYEVoj,09/17/2024,4:00
-Ora,l6awms,"Ethereum x AI Confluence Day",https://lu.ma/2xiporkj?tk=I36MjE,09/17/2024,0:00
-MyShell,1gfb8a,"Decentralized AI Breakfast",https://lu.ma/qto5hqug?tk=UU72Z0,09/16/2024,23:00
-Akash,qmmyw0,"DeYACHT",https://lu.ma/setsail?tk=WJbicj,09/18/2024,8:00
-Aethir,oo2cn2,"Decentralized AI Day",https://lu.ma/DecentralizedAIDay?tk=r95IpX,09/18/2024,1:00
-0G Labs,3klhti,"Web3 x AI Founders' Mixer",https://lu.ma/104tguan,09/19/2024,5:00
+Cudis,34ddzp,Bing Bong Presents: Cudis Night,https://lu.ma/03at05i1,9/20/24,12:00
+Minima,w75xgw,Minima x We Are DePIN: Motorsport Premiere,https://lu.ma/on9dcmax,09/19/2024,05:00
+Codatta,ahw4vg,AiFi Summit 2024,https://lu.ma/hp2qx40n,09/17/2024,04:30
+Akash,qmmyw0,Top Shelf: H100 Proof,https://lu.ma/H100proof,09/16/2024,12:00
+Sapien,k2xr2i,DeAI Summit,https://lu.ma/q2yo1eos,09/17/2024,06:00
+Hyperbolic,8heoo1,AI After Hours,https://lu.ma/r02yxz4u,09/19/2024,09:00
+Pundi X,i0kfij,deAI Summit,https://lu.ma/b3q7q31a?tk=aV8qeX,09/16/2024,05:00
+Story Protocol,5maai7,Story Academy,https://lu.ma/5brbpn6a,09/17/2024,05:00
+Story Protocol,5maai7,Programmable IP Social: Tokenize Your Brain,https://lu.ma/tokenizeyourbrain,09/17/2024,10:00
+RSS3,1tdy5h,Open House #AI,https://lu.ma/74r964ii,09/17/2024,05:00
+MagnetAI,1yb2sw,MagnetAI Open House,https://lu.ma/yop4ycn7?tk=LYEVoj,09/17/2024,06:00
+Ora,l6awms,Ethereum x AI Confluence Day,https://lu.ma/2xiporkj?tk=I36MjE,09/17/2024,02:00
+MyShell,1gfb8a,Decentralized AI Breakfast,https://lu.ma/qto5hqug?tk=UU72Z0,09/17/2024,01:00
+Akash,qmmyw0,DeYACHT,https://lu.ma/setsail?tk=WJbicj,09/18/2024,10:00
+Aethir,oo2cn2,Decentralized AI Day,https://lu.ma/DecentralizedAIDay?tk=r95IpX,09/18/2024,3:00
+0G Labs,3klhti,Web3 x AI Founders' Mixer,https://lu.ma/104tguan,09/19/2024,07:00
+Autonolas,5wvni1,Agents Unleashed: Night at the Museum,https://lu.ma/nrupygoy,09/20/2024,9:00
+IO.Net,61zuw7,AI + DePIN Breakfast & Chill,https://lu.ma/q9xubzkv,09/21/2024,01:00
+Peaq,vx7fas,peaq Connect: Founders meet Funders,https://lu.ma/peaqconnect,09/17/2024,6:30
+Peaq,vx7fas,Genesis by peaq,https://lu.ma/Genesisbypeaq,09/17/2024,8:30
+Codatta,ahw4vg,AiFi Summit 2024 VIP Dinner,https://lu.ma/ki6nh599,09/17/2024,9:00
+EpsilonAI,gblzi3,date test,-,09/15/2024,18:00
+NEAR,dnmt6p,"The Scaling AI Summit",https://lu.ma/TheScaling2024SG,09/16/2024,0:00
+NEAR,dnmt6p,"NEAR AI Tech Showcase",https://lu.ma/NEARAITechShowcaseToken2049?tk=3p8yrd,09/17/2024,5:00
+Internet Computer,edypr6,"AI Web3 City Luncheon",https://lu.ma/0w4z6ebl,09/18/2024,23:30
+Galadriel,uoatrw,"ETH for AI - pizza, chill & workshop",https://lu.ma/p0iylgh8?tk=IxEb8K,09/21/2024,2:00

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ZkAGI',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'ZK',
   chain: null,
   category: 'AI',
   token: 'ZkAGI',
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/zk_agi',
+  twitter: 'https://x.com/zk_agi',
   url: 'https://zkagi.ai/',
   verified: false,
   fundraises: [],

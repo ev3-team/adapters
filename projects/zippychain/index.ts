@@ -13,7 +13,7 @@ export default {
     'ZippyChain is a decentralized AI computing platform that enables individuals and enterprises to share computing resources, creating a decentralized AI supercomputer for secure, scalable, and efficient AI and blockchain applications.',
   discord: null,
   investors: [],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/zippychain/',
   duneQueries: null,
   foundingYear: null,
   blog: null,

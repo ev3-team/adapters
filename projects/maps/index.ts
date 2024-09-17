@@ -6,7 +6,7 @@ export default {
   subcategories: null,
   chain: 'SOLANA',
   category: 'NOT_DEPIN',
-  token: 'MAPS ',
+  token: 'MAPS',
   coinGeckoID: 'maps',
   id: 'dp6jkl',
   description:
