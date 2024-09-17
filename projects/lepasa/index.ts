@@ -6,7 +6,7 @@ export default {
   subcategories: 'GPUs',
   chain: 'TON',
   category: 'COMPUTE',
-  token: 'LEPA ',
+  token: 'LEPA',
   coinGeckoID: null,
   id: '99w0lz',
   description:

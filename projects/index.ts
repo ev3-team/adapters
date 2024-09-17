@@ -634,6 +634,7 @@ import dialect from './dialect'
 import didDiscovery from './did-discovery'
 import digileaf from './digileaf'
 import digitalGaia from './digital-gaia'
+import digitalabs from './digitalabs'
 import dill from './dill'
 import dimitra from './dimitra'
 import dimo from './dimo'
@@ -3157,6 +3158,7 @@ export const projects = {
   didDiscovery,
   digileaf,
   digitalGaia,
+  digitalabs,
   dill,
   dimitra,
   dimo,
