@@ -4,7 +4,7 @@ export default {
   name: 'Nodle',
   ninja: 'W. L.',
   subcategories: 'Positioning',
-  chain: 'ETHEREUM',
+  chain: 'ZKSYNC',
   category: 'WIRELESS',
   token: 'NODL',
   coinGeckoID: 'nodle-network',

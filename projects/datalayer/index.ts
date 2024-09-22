@@ -1,16 +1,15 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'BagelDB',
-  ninja: 'ZZ',
+  name: 'Datalayer',
+  ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'PENDING',
   token: null,
   coinGeckoID: null,
-  id: 'whi3bv',
-  description:
-    'BagelDB is a collaborative vector database and an incentivized marketplace for buying and selling vector embeddings for AI data.',
+  id: '3qfzbv',
+  description: '',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +18,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
-  url: 'https://www.bagel.net/',
+  twitter: 'https://x.com/datalayerxyz',
+  url: 'https://datalayer.xyz/',
   verified: false,
   fundraises: [],
   isApp: true,
