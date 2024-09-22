@@ -42,6 +42,7 @@ export type AdapterProjectChain =
   | 'POLYGON'
   | 'SOLANA'
   | 'TON'
+  | 'TRON'
   | 'URBIT'
   | 'VECHAIN'
   | 'XDC'
