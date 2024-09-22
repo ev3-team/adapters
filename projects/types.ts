@@ -22,10 +22,10 @@ export type AdapterProjectChain =
   | 'APTOS'
   | 'ARBITRUM'
   | 'AVALANCHE'
+  | 'BASE'
   | 'BINANCE'
   | 'BITCOIN'
   | 'BITTENSOR'
-  | 'BASE'
   | 'CARDANO'
   | 'COSMOS'
   | 'CRONOS'
@@ -41,11 +41,11 @@ export type AdapterProjectChain =
   | 'POLKADOT'
   | 'POLYGON'
   | 'SOLANA'
+  | 'TON'
   | 'URBIT'
   | 'VECHAIN'
   | 'XDC'
   | 'ZKSYNC'
-  | 'TON'
 
 export type AdapterProjectDuneQueryIdentifiers = {
   BURN?: string
