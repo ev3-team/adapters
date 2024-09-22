@@ -4,7 +4,7 @@ export default {
   name: 'ScPrime',
   ninja: 'ZZ',
   subcategories: 'Storage',
-  chain: 'NATIVE',
+  chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'D2X',
   coinGeckoID: 'd2',

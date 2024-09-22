@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Pipe',
+  ninja: 'W. L.',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: '31oiwc',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/pipenetwork',
+  url: 'https://pipe.network/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject

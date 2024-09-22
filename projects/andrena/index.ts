@@ -11,7 +11,7 @@ export default {
   id: 'tgalub',
   description:
     'Andrena offers high-speed internet distribution services with a focus on reduced costs.',
-  discord: null,
+  discord: '1237128484724412426',
   investors: [
     'zbfwcv',
     'dxtuis',

@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'ChainsAtlas',
+  ninja: 'ZZ',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'wn1wpf',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/ChainsAtlas',
+  url: 'https://www.chainsatlas.com/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject
