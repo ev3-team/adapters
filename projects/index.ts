@@ -925,7 +925,6 @@ import gelato from './gelato'
 import geltonas from './geltonas'
 import genaro from './genaro'
 import generaitiv from './generaitiv'
-import genesysgo from './genesysgo'
 import genlayer from './genlayer'
 import genomefi from './genomefi'
 import genomesio from './genomes-io'
@@ -2037,6 +2036,7 @@ import setter from './setter'
 import sfero from './sfero'
 import sftProtocol from './sft-protocol'
 import shadeform from './shadeform'
+import shadow from './shadow'
 import shadowNode from './shadow-node'
 import shaga from './shaga'
 import shamba from './shamba'
@@ -3511,7 +3511,6 @@ export const projects = {
   geltonas,
   genaro,
   generaitiv,
-  genesysgo,
   genlayer,
   genomefi,
   genomesio,
@@ -4623,6 +4622,7 @@ export const projects = {
   sfero,
   sftProtocol,
   shadeform,
+  shadow,
   shadowNode,
   shaga,
   shamba,
