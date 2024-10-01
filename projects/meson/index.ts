@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'CDN',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'MSN',
   coinGeckoID: 'meson-network',
   id: 'wop23m',

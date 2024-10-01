@@ -5,7 +5,7 @@ export default {
   ninja: 'W. L.',
   subcategories: 'CDN',
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'fxg6py',

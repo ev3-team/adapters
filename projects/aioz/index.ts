@@ -5,7 +5,7 @@ export default {
   ninja: 'W. L.',
   subcategories: 'CDN',
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'AIOZ',
   coinGeckoID: 'aioz-network',
   id: 'tpqdbi',

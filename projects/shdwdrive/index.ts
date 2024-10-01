@@ -1,7 +1,7 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'GenesysGo',
+  name: 'ShdwDrive',
   ninja: 'ZZ',
   subcategories: 'Storage',
   chain: 'SOLANA',
@@ -9,7 +9,8 @@ export default {
   token: 'SHDW',
   coinGeckoID: 'genesysgo-shadow',
   id: 'p01o2s',
-  description: 'GenesysGo is a decentralized object storage platform for Web3 builders.',
+  description:
+    'ShdwDrive by GenesysGo is a decentralized, performant, and scalable object storage designed for Web3 builders.',
   discord: '830127596355190804',
   investors: [],
   linkedin: null,
@@ -18,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/GenesysGo/',
   telegram: null,
-  twitter: 'https://twitter.com/genesysgo',
+  twitter: 'https://x.com/genesysgo',
   url: 'https://www.shdwdrive.com/',
   verified: false,
   fundraises: [],

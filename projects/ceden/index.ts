@@ -5,7 +5,7 @@ export default {
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: 'CDN',
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'CDN',
   coinGeckoID: 'ceden',
   id: '8n2azt',
