@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sogni.ai',
-  ninja: 'Daniel',
+  ninja: '0x395aB080688983b5a2F203B49cE44D66b30360AB',
   subcategories: 'Inferencing',
   chain: 'BASE',
   category: 'AI',

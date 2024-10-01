@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'TronNRG',
-  ninja: 'AJ$',
+  ninja: '0x6997bcc18dea68ae3cbf243e92ce831e541cd9e4',
   subcategories: null,
   chain: 'TRON',
   category: 'ENERGY',
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://x.com/TronNRG',
-  url: 'https://tronnrg.com/Home/AboutNRG#',
+  url: 'https://tronnrg.com/',
   verified: false,
   fundraises: [],
   isApp: true,

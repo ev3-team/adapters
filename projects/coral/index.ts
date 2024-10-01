@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'WIRELESS',
   token: 'CRL',
   coinGeckoID: null,
   id: 'pwn1js',

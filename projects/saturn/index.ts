@@ -5,7 +5,7 @@ export default {
   ninja: 'ZZ',
   subcategories: 'CDN',
   chain: 'FILECOIN',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'dar2ui',

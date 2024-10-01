@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NodelyAI',
-  ninja: 'Daniel',
+  ninja: '0x395aB080688983b5a2F203B49cE44D66b30360AB',
   subcategories: 'GPUs',
   chain: 'ETHEREUM',
   category: 'COMPUTE',

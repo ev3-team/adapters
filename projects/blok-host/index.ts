@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: 'CDN',
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'HOST',
   coinGeckoID: null,
   id: 'dc0ua7',
