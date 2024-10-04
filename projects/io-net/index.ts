@@ -7,7 +7,7 @@ export default {
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'IO',
-  coinGeckoID: 'io-net',
+  coinGeckoID: 'io',
   id: '61zuw7',
   description: 'IO.Net is a decentralized computing platform for ML applications built on Solana.',
   discord: '1080817368646819941',
