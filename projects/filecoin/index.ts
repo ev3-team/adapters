@@ -77,7 +77,10 @@ export default {
     '1r0cdr',
   ],
   linkedin: null,
-  duneQueries: null,
+  duneQueries: {
+    KEY_METRIC: '4144157',
+    NODE_NUMBER: '4144139',
+  },
   foundingYear: null,
   blog: 'https://filecoin.io/blog/',
   github: 'https://github.com/filecoin-project',
