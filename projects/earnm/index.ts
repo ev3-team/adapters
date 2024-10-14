@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'EARNM',
   ninja: 'ZZ',
-  subcategories: null,
+  subcategories: 'Loyalty',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'HUMAN_CAPITAL',
   token: 'EARNM',
   coinGeckoID: null,
   id: 'glylqg',

@@ -4,7 +4,7 @@ export default {
   name: 'BitTorrent',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
   subcategories: 'L1/L2',
-  chain: null,
+  chain: 'TON',
   category: 'COMPUTE',
   token: 'BTT',
   coinGeckoID: 'bittorrent',

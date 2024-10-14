@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'WIRELESS',
+  category: 'HUMAN_CAPITAL',
   token: 'SAO',
   coinGeckoID: 'sator',
   id: 'jxy5nc',

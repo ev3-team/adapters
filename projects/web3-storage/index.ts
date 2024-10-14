@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Web3 Storage',
   ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'CDN',
+  subcategories: 'Storage',
   chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'W3S',

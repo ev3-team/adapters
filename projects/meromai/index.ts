@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'Meromai',
+  ninja: 'W. L.',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'v9u4dg',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/MeromaiOfficial',
+  url: 'http://www.merom.ai/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject

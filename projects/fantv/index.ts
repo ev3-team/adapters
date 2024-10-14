@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'yoxura',
