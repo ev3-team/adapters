@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Proto',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: 'Positioning',
   chain: null,
   category: 'SENSORS',

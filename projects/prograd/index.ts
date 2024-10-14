@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Prograd',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'DeFi',
   chain: null,
   category: 'NOT_DEPIN',

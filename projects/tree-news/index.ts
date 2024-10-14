@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tree News',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Echo1',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'CDN',
   chain: null,
   category: 'WIRELESS',

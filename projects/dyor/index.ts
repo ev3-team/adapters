@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DYOR',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'Data',
   chain: null,
   category: 'NOT_DEPIN',

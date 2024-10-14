@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Virtu Cloud',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',

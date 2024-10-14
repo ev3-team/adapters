@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Devolved',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: null,
   chain: 'POLYGON',
   category: 'AI',

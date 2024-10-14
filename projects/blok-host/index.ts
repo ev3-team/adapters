@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blok.Host',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'CDN',
   chain: null,
   category: 'WIRELESS',

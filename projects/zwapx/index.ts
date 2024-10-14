@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ZwapX',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'Collectibles',
   chain: null,
   category: 'RWA',

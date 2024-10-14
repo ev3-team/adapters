@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SYNX',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',

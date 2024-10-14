@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'HEALE',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'Logistics',
   chain: 'NATIVE',
   category: 'SENSORS',

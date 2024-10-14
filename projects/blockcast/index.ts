@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockcast',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: 'CDN',
   chain: null,
   category: 'WIRELESS',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'zkMe',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',

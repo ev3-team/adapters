@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Beacon Protocol',
-  ninja: 'Nick Carp',
+  ninja: null,
   subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',

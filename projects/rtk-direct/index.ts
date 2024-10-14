@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RTK Direct',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',

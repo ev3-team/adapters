@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OctaSpace',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',

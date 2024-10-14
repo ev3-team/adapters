@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zircuit',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'ZK',
   chain: 'OPTIMISM',
   category: 'NOT_DEPIN',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StorageChain',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',

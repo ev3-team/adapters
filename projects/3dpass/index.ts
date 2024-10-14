@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '3Dpass',
-  ninja: 'EV3 Sal',
+  ninja: 'sal-gala.eth',
   subcategories: 'L1/L2',
   chain: 'NATIVE',
   category: 'RWA',

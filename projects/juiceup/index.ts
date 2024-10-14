@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'JuiceUp',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: null,
   chain: 'PEAQ',
   category: 'ENERGY',

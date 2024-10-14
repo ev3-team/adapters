@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BitDoctor',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: 'Health',
   chain: null,
   category: 'AI',

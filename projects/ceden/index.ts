@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CEDEN',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  ninja: 'gleech.eth',
   subcategories: 'CDN',
   chain: null,
   category: 'WIRELESS',

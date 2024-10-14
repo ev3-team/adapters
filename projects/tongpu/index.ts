@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'TonGPU',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: 'GPUs',
   chain: 'TON',
   category: 'COMPUTE',

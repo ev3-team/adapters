@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'U2 DPN',
-  ninja: 'W. L.',
+  ninja: 'wholovesburrito.eth',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',

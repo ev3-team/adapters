@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SNP',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  ninja: 'gleech.eth',
   subcategories: 'Advertising',
   chain: 'ETHEREUM',
   category: 'HUMAN_CAPITAL',

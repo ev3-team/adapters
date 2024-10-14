@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phyken',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd746',
+  ninja: 'gleech.eth',
   subcategories: null,
   chain: null,
   category: 'RWA',
