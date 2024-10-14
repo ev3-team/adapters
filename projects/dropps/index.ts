@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DROPPS',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'L1/L2',
   chain: null,
   category: 'NOT_DEPIN',

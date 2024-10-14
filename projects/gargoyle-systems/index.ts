@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gargoyle Systems',
-  ninja: 'Connor',
+  ninja: '0xc38dECebD857Ec55989155D1cF00348a878b6A07',
   subcategories: 'Drones',
   chain: null,
   category: 'ROBOTICS',

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GooseFX',
-  ninja: 'Connor',
+  ninja: '0xc38dECebD857Ec55989155D1cF00348a878b6A07',
   subcategories: null,
   chain: 'SOLANA',
   category: 'NOT_DEPIN',

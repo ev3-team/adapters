@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mindland',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
