@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'PENDING',
+  category: 'ENERGY',
   token: null,
   coinGeckoID: null,
   id: 'piemni',

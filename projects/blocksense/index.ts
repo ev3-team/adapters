@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Blocksense',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Oracle',
   chain: null,
-  category: 'PENDING',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'jyb551',
-  description: '',
+  description:
+    'Blocksense is a rollup for verifiable data and compute, enabling developers to deploy oracle scripts securely and permissionlessly, providing decentralized, scalable, and secure access to on-chain data for DeFi and beyond.',
   discord: null,
   investors: [],
   linkedin: null,

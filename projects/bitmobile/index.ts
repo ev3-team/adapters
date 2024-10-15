@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BitMobile',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Mobile',
   chain: null,
-  category: 'PENDING',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: '71hkxg',
-  description: '',
+  description:
+    'BitMobile is a developer and manufacturer of blockchain-powered mobile devices that enable users to securely manage digital assets, earn rewards, and access decentralized applications, while also supporting traditional smartphone features.',
   discord: null,
   investors: [],
   linkedin: null,

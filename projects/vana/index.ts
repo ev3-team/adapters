@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'zt2nzn',
   description:
-    'Create a mini “you” that lives in your pocket. Discover a new way to connect and experience the world. ',
+    'Vana is a distributed network for private, user-owned data, enabling users to own, govern, and earn from AI models they contribute to, while providing developers access to cross-platform data for personalized applications and AI training.',
   discord: '1035319704224542832',
   investors: [],
   linkedin: null,

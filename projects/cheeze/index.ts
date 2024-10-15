@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/cheers_land',
   url: 'https://cheeze.com/',
   verified: false,
   fundraises: [],

@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: null,
-  url: 'https://daisycrowd.com/',
+  url: 'https://daisy.global/',
   verified: false,
   fundraises: [],
   isApp: true,
