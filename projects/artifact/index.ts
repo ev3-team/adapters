@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Artifact',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Gaming',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'ofvxzv',
-  description: '',
+  description:
+    'Artifact offers a Universal Player Profile that connects gamers across networks, allowing them to earn in-game items, tokens, and rewards by playing games, completing quests, and sharing experiences.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Curio',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Gaming',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'oaexsc',
-  description: '',
+  description:
+    'Curio is a gaming studio developing foundational infrastructure for composable on-chain crypto games, starting with their own social strategy title and aiming to empower players to create new governance and economic systems in gaming.',
   discord: null,
   investors: [],
   linkedin: null,

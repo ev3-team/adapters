@@ -5,7 +5,7 @@ export default {
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'b71ut1',

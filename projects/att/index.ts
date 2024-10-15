@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ATT',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Advertising',
   chain: null,
-  category: 'PENDING',
-  token: null,
+  category: 'HUMAN_CAPITAL',
+  token: 'ATT',
   coinGeckoID: null,
   id: 'ssz1o4',
-  description: '',
+  description:
+    'Advertising Time Token (ATT) is a blockchain-based advertising platform that leverages Web3 technologies to create a decentralized, transparent ecosystem where advertisers can target users more effectively and consumers earn rewards for their engagement.',
   discord: null,
   investors: [],
   linkedin: null,

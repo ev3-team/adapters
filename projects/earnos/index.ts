@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'EarnOS',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: '0wg7ky',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/earnos_io',
+  url: 'https://beta.earnos.io/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject

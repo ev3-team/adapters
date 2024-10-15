@@ -1,0 +1,26 @@
+import { AdapterProject } from '../types'
+
+export default {
+  name: 'BrainChain',
+  ninja: 'EV3 Sal',
+  subcategories: null,
+  chain: null,
+  category: 'PENDING',
+  token: null,
+  coinGeckoID: null,
+  id: 'zsa887',
+  description: '',
+  discord: null,
+  investors: [],
+  linkedin: null,
+  duneQueries: null,
+  foundingYear: null,
+  blog: null,
+  github: null,
+  telegram: null,
+  twitter: 'https://x.com/BrainChainTech',
+  url: 'https://brainchain.tech/',
+  verified: false,
+  fundraises: [],
+  isApp: true,
+} satisfies AdapterProject
