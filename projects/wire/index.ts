@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'yih1xv',
-  description: 'Wire: blockchain with APOS consensus for user growth.',
+  description:
+    'Wire Network is a third-generation blockchain designed to support the AI agent economy by providing a universal transaction layer that enables gas-free, interoperable, and fast transactions across blockchains.',
   discord: '378315541083062282',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/wire-secure-communication/',
@@ -18,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/wireapp',
   telegram: null,
-  twitter: 'https://twitter.com/wire',
+  twitter: 'https://x.com/Wire_Blockchain',
   url: 'https://wire.network/',
   verified: false,
   fundraises: [],
