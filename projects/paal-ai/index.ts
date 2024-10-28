@@ -15,7 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: {
-    REVENUE: '4209050'
+    REVENUE: '4210094'
   },
   foundingYear: null,
   blog: null,
