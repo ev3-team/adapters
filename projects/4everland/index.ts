@@ -30,7 +30,9 @@ export default {
     'pvr738',
   ],
   linkedin: 'https://au.linkedin.com/company/4everlandorg',
-  duneQueries: null,
+  duneQueries: {
+    NODE_NUMBER: '4215440',
+  },
   foundingYear: null,
   blog: null,
   github: null,
