@@ -23,4 +23,5 @@ export default {
   url: 'https://www.rh2o.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

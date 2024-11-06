@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tanssi',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'L1/L2',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -28,4 +28,5 @@ export default {
       url: 'https://viewsdao.com/v/Moondance-Labs-Raises-3-Million-in-Seed-Funding-for-Tanssi-Protocol-Development0',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -27,4 +27,5 @@ export default {
       url: 'https://www.theblock.co/post/274838/Web3 Capital-distributed-ai-training-network-publicai-raises-2m-in-seed-funding-round',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

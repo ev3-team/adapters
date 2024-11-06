@@ -129,7 +129,7 @@ async function run() {
         token: !!row.token ? row.token : null,
         coinGeckoID: !!row.coinGeckoID ? row.coinGeckoID : null,
         id: projectId,
-        description: row.description,
+        description: row.description ?? null,
         discord: !!row.discord ? row.discord : null,
         investors: projectsInvestors.get(projectId) ?? [],
         linkedin: !!row.linkedin ? row.linkedin : null,
@@ -142,6 +142,7 @@ async function run() {
         url: !!row.url ? row.url : null,
         verified: Boolean(row.verified),
         fundraises: projectsFundraises.get(projectId) ?? [],
+        isApp: Boolean(row.isApp),
       })
     })
     .on('end', async () => {

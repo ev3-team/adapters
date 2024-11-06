@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'LIFE Network',
   ninja: 'EV3 Sal',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SCIENCE',
   token: null,
   coinGeckoID: null,
   id: '8aa0dm',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.lifenetwork.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

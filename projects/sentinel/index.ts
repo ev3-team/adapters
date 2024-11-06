@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sentinel',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'VPN',
   chain: 'COSMOS',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'DVPN',
   coinGeckoID: 'sentinel',
   id: 'r77x1a',
@@ -23,4 +23,5 @@ export default {
   url: 'https://sentinel.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

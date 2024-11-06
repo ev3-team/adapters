@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BNB Greenfield',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://greenfield.bnbchain.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

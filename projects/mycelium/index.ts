@@ -22,4 +22,5 @@ export default {
   url: 'https://www.myceliumnetworks.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

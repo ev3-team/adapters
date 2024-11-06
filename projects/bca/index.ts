@@ -23,4 +23,5 @@ export default {
   url: 'https://www.bcaprotocol.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

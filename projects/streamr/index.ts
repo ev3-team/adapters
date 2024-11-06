@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Streamr',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: 'Data',
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
@@ -23,4 +23,5 @@ export default {
   url: 'https://streamr.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'PENDING',
+  category: 'ENERGY',
   token: null,
   coinGeckoID: null,
   id: 'piemni',
@@ -22,4 +22,5 @@ export default {
   url: 'https://albion.exchange/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

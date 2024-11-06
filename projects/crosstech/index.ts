@@ -23,4 +23,5 @@ export default {
   url: 'https://cross.technology/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

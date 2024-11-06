@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ColdStack',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: 'Storage',
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -53,4 +53,5 @@ export default {
       url: 'https://medium.com/coldstack/coldstack-closes-first-investment-round-with-leading-blockchain-vcs-47036cd991ed',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

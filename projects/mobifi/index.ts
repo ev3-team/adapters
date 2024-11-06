@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MobiFi',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'MOFI',
   coinGeckoID: 'mobifi',
   id: 'ars9qg',
@@ -27,4 +27,5 @@ export default {
       url: 'https://siliconcanals.com/news/startups/mobifi-raises-2-36m/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

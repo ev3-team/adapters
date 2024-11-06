@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Alkimi',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Advertising',
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'HUMAN_CAPITAL',
   token: 'ADS',
   coinGeckoID: 'alkimi',
   id: 'xvizp7',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.alkimi.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AdHash',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Advertising',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'p6m3rb',
@@ -23,4 +23,5 @@ export default {
   url: 'https://adhash.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

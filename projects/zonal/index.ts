@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'WIRELESS',
+  category: 'PENDING',
   token: null,
   coinGeckoID: null,
   id: 'gsucx5',
@@ -23,4 +23,5 @@ export default {
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

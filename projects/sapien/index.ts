@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sapien',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -32,4 +32,5 @@ export default {
       url: 'https://www.sapien.io/blog/ai-company-sapien-raises-5-million-to-gamify-data-labeling-for-ai',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

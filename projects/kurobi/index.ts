@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'SOLANA',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'KURO',
   coinGeckoID: 'kurobi',
   id: 'j0o171',
@@ -23,4 +23,5 @@ export default {
   url: 'https://kurobi.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

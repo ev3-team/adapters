@@ -42,4 +42,5 @@ export default {
       url: 'https://www.coindesk.com/business/2023/11/30/decentralized-infrastructure-provider-grove-raises-79m/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

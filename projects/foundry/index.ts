@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/mlfoundry/status/1770800183426629894/photo/1',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

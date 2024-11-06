@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'OctaSpace',
-  ninja: 'W. L.',
-  subcategories: 'Storage, VPN',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
+  subcategories: 'Storage',
   chain: 'NATIVE',
   category: 'COMPUTE',
   token: 'OCTA',
@@ -22,4 +22,5 @@ export default {
   url: 'https://octa.space/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

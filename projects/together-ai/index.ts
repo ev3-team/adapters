@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Together.ai',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'GPUs',
   chain: null,
   category: 'AI',
@@ -64,4 +64,5 @@ export default {
       url: 'https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -40,4 +40,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/huddle01-raises-2-8m-led-by-hivemind-to-build-the-1st-decentralized-communication-network-301791654.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

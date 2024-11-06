@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zebec',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'SOLANA',
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'ZBCN',
   coinGeckoID: 'zebec-protocol',
   id: '6krmhm',
@@ -16,11 +16,12 @@ export default {
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
-  blog: null,
+  blog: 'https://medium.com/zebec-protocol',
   github: null,
-  telegram: null,
-  twitter: 'https://twitter.com/Zebec_HQ',
+  telegram: 'https://t.me/zebecprotocol',
+  twitter: 'https://x.com/Zebec_HQ',
   url: 'https://zebec.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

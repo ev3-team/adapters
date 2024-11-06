@@ -39,4 +39,5 @@ export default {
       url: 'https://venturebeat.com/games/proof-of-play-raises-33m-for-Web3 Capital-rpg-adds-ex-twitch-ceo-to-board-emmett-shear/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

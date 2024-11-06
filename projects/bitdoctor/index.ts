@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'BitDoctor',
-  ninja: 'W. L.',
-  subcategories: 'Health & Fitness',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
+  subcategories: 'Health',
   chain: null,
   category: 'AI',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://bitdoctor.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

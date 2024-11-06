@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Kosen',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://medium.com/kosenlabs/kosen-labs-founded-by-ex-deepmind-researchers-aims-to-bring-the-benefits-of-advanced-ai-to-the-c8ae04119759',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

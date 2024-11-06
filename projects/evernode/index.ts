@@ -23,4 +23,5 @@ export default {
   url: 'https://www.evernode.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'CRUNCH',
   coinGeckoID: null,
   id: '85u80y',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.crunchdao.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

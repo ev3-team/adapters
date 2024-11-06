@@ -2,9 +2,9 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ScPrime',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Storage',
-  chain: 'NATIVE',
+  chain: 'SOLANA',
   category: 'COMPUTE',
   token: 'D2X',
   coinGeckoID: 'd2',
@@ -22,4 +22,5 @@ export default {
   url: 'https://scpri.me/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

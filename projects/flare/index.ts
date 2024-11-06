@@ -51,4 +51,5 @@ export default {
       url: 'https://thepaypers.com/news/ripples-xpring-strategically-invests-in-flare-networks--1239453',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://www.theblock.co/post/232259/leading-the-ai-revolution-in-Web3 Capital-orbofi-ai-raises-2-6m-in-high-profile-funding-round',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

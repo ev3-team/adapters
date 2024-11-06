@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Weaver Labs',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -28,4 +28,5 @@ export default {
       url: 'https://justentrepreneurs.co.uk/news/weaver-labs-secures-400000-uk-government-funding-in-future-ran-competition',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

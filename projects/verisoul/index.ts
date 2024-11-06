@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Verisoul',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.verisoul.ai/press-releases/verisoul-raises-3m-to-help-businesses-conquer-fake-users',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

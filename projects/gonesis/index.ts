@@ -23,4 +23,5 @@ export default {
   url: 'https://gonesis.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

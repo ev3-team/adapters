@@ -22,4 +22,5 @@ export default {
   url: 'https://www.stationx.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

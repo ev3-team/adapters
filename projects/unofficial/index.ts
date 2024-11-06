@@ -23,4 +23,5 @@ export default {
   url: 'https://unofficial.run/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

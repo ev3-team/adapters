@@ -22,4 +22,5 @@ export default {
   url: 'https://www.moda.audio/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

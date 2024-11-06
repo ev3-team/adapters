@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/indicator-capital-leads-a-us-2-2-million-investment-round-in-beegol-to-improve-the-quality-of-internet-services-301473780.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

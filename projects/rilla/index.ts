@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: 'CDN',
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'ufqo0i',
@@ -23,4 +23,5 @@ export default {
   url: 'https://rilla.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

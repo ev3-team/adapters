@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SteerFinance',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -27,4 +27,5 @@ export default {
       url: 'https://steer.finance/steer-protocol-raises-1-5m-in-seed-funding-to-revolutionize-off-chain-computing-and-liquidity-management/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

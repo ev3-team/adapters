@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NoorNation',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'ENERGY',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.thecatalystfund.com/insights-blog/why-we-invested-in-noornation-a-startup-providing-farmers-with-solar-energy-and-water-solutions-in-egypt',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

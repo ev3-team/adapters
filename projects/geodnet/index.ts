@@ -51,4 +51,5 @@ export default {
       url: 'https://twitter.com/GEODNET_/status/1780236105314378164',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

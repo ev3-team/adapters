@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aleph',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -42,4 +42,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/01/20/alephim-raises-10m-to-compete-with-amazons-storage-and-computing-service/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

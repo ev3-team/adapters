@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Solity',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -23,4 +23,5 @@ export default {
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

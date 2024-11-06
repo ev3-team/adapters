@@ -42,4 +42,5 @@ export default {
       url: 'https://www.prweb.com/releases/filswan-raises-3m-usd-to-revolutionize-amp-simplify-building-dapps-899321300.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

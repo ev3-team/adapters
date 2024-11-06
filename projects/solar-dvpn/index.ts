@@ -23,4 +23,5 @@ export default {
   url: 'https://dvpn.solar/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

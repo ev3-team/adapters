@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Superlocal',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Positioning',
   chain: null,
   category: 'SENSORS',
@@ -39,4 +39,5 @@ export default {
       url: 'https://dot.la/superlocal-2650547082.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

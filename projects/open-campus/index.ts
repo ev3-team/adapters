@@ -23,4 +23,5 @@ export default {
   url: 'https://www.opencampus.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

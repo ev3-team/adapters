@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Inference Labs',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -45,4 +45,5 @@ export default {
       url: 'https://chainwire.org/2024/04/15/inference-labs-raises-2-3-million-in-pre-seed-funding-to-revolutionize-ai-with-proof-of-inference-starting-with-liquid-staking/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

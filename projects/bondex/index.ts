@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bondex',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'BDXN',
   coinGeckoID: 'bondex',
   id: '3mh0dc',
@@ -23,4 +23,5 @@ export default {
   url: 'https://bondex.app/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

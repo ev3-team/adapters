@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Dimitra',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'SENSORS',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.accesswire.com/717548/dimitra-incorporated-releases-dimitra-token-raises-65m-to-accelerate-growth-of-connected-farmer-platform',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

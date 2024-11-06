@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Cryptosat',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Satellites',
   chain: null,
   category: 'WIRELESS',
@@ -39,4 +39,5 @@ export default {
       url: 'https://www.cointime.ai/flash-news/cryptosat-raises-3-million-to-launch-satellite-into-space-for-bulletproof-cryptography-88157',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

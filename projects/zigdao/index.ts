@@ -19,8 +19,9 @@ export default {
   blog: 'https://content.zignaly.com/blog',
   github: 'https://github.com/zignaly-open',
   telegram: 'https://t.me/ZignalyHQ',
-  twitter: 'https://twitter.com/zignaly',
+  twitter: 'https://x.com/zignaly',
   url: 'https://zigdao.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

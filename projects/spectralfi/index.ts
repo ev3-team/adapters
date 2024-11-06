@@ -23,4 +23,5 @@ export default {
   url: 'https://www.spectrallabs.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

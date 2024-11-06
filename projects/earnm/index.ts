@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'EARNM',
-  ninja: 'ZZ',
-  subcategories: null,
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: 'Loyalty',
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'HUMAN_CAPITAL',
   token: 'EARNM',
   coinGeckoID: null,
   id: 'glylqg',
@@ -28,4 +28,5 @@ export default {
       url: 'https://cryptorank.io/ico/earnm',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

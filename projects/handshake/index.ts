@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Handshake',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -48,4 +48,5 @@ export default {
       url: 'https://twitter.com/HNS/status/1744237732992593976',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

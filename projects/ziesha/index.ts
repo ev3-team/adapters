@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ziesha',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'ZK',
   chain: null,
   category: 'NOT_DEPIN',
@@ -17,10 +17,11 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/ziesha-network',
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/ZieshaNetwork',
   url: 'https://ziesha.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

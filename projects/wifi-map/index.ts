@@ -32,4 +32,5 @@ export default {
       url: 'https://medium.com/wifi-map/wifi-is-coming-to-the-trustswap-launchpad-tomorrow-2646117ec46e',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

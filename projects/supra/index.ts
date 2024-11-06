@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Supra',
-  ninja: 'ZZ',
-  subcategories: 'L1/L2, Oracle',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: 'L1/L2',
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',
   token: 'SUPRA',
@@ -79,4 +79,5 @@ export default {
       url: 'https://cointelegraph.com/press-releases/supra-completes-over-24m-in-early-stage-funding-to-date',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

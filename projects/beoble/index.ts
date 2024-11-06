@@ -22,4 +22,5 @@ export default {
   url: 'https://www.beoble.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

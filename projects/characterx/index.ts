@@ -38,4 +38,5 @@ export default {
       url: 'https://www.finsmes.com/2024/01/characterx-raises-2-8m-in-seed-funding.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

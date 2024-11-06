@@ -5,7 +5,7 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: 'BINANCE',
-  category: 'SENSORS',
+  category: 'HUMAN_CAPITAL',
   token: 'CHEEL',
   coinGeckoID: 'cheelee',
   id: '97up5b',
@@ -23,4 +23,5 @@ export default {
   url: 'https://cheelee.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

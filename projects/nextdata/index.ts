@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nextdata',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20230928816800/en/Data-Mesh-Pioneer-Nextdata-Closes-12M-in-Seed-Funding-to-Unlock-the-AI-Revolution-by-Decentralizing-Data-at-Scale',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

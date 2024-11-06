@@ -37,4 +37,5 @@ export default {
       url: 'https://fortune.com/crypto/2018/02/08/blockchain-everipedia/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

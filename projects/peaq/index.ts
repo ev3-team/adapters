@@ -60,4 +60,5 @@ export default {
       url: 'https://www.theblock.co/post/285001/depin-layer-1-peaq-raises-15-million-in-pre-launch-funding',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

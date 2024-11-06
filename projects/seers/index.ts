@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Seers',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Prediction Market',
   chain: null,
   category: 'PENDING',
@@ -22,4 +22,5 @@ export default {
   url: 'https://seers.social/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

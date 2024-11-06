@@ -23,4 +23,5 @@ export default {
   url: 'https://bitgpt.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

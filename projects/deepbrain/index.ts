@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeepBrain',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -28,4 +28,5 @@ export default {
       url: 'https://golden.com/wiki/DeepBrain_Chain-99B85DK',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Theta Fuel',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: 'NATIVE',
   category: 'COMPUTE',
@@ -66,4 +66,5 @@ export default {
       url: 'https://coinchapter.com/institutional-investors-stake-over-100-million-in-theta-network/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ChainML',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -53,4 +53,5 @@ export default {
       url: 'https://www.theblock.co/post/173081/decentralized-machine-learning-protocol-chainml-raises-4m-led-by-iosg-ventures',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

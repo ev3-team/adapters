@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeetta',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Software',
   chain: null,
   category: 'WIRELESS',
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: 'https://github.com/zeeta',
   telegram: 'https://t.me/s/ZeetaaProjects?before=209',
-  twitter: 'https://twitter.com/zeettas',
+  twitter: 'https://x.com/zeettanetworks',
   url: 'https://zeetta.com/',
   verified: false,
   fundraises: [
@@ -28,4 +28,5 @@ export default {
       url: 'https://techspark.co/blog/2017/08/08/zeetta-networks-raises-1-6m-latest-funding-round/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Silencio',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'SENSORS',
@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/silencionetwork/status/1759201491821240687',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

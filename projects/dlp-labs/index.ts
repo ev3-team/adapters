@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DLP Labs',
   ninja: 'EV3 Sal',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'PENDING',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

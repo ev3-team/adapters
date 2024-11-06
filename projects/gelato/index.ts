@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gelato',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -52,4 +52,5 @@ export default {
       url: 'https://www.coindesk.com/business/2021/09/30/gelato-raises-11m-as-smart-contract-automation-market-heats-up/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2018/09/13/foam-is-live-decentralized-world-map-launches-on-ethereum/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

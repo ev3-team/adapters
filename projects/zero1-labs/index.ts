@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zero1 Labs',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -16,11 +16,12 @@ export default {
   linkedin: null,
   duneQueries: null,
   foundingYear: null,
-  blog: null,
+  blog: 'https://z1labs.ai/blog/',
   github: null,
-  telegram: null,
-  twitter: 'https://twitter.com/zero1_labs',
+  telegram: 'https://t.me/zero1labs',
+  twitter: 'https://x.com/zero1_labs',
   url: 'https://z1labs.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

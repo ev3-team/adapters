@@ -27,4 +27,5 @@ export default {
       url: 'https://technical.ly/startups/vo2-techstars-sports-accelerator/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

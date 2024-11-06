@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'cvzsdf',
   description:
-    '375ai is an edge data intelligence network built on Solana, offering advanced real-time data collection and analysis to power a smarter, more connected world.',
+    '375ai is building a decentralized edge data intelligence network, leveraging AI and blockchain to enable real-time data collection, processing, and analysis while ensuring privacy and security.',
   discord: null,
   investors: ['hol96b', '7zvxz8', 'rmj9ht', 'v81ftp'],
   linkedin: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.375.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

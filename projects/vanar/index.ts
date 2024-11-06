@@ -23,4 +23,5 @@ export default {
   url: 'https://vanarchain.com/?lang=en',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bluwhale',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -40,4 +40,5 @@ export default {
       url: 'https://techfundingnews.com/silicon-valleys-ai-web3-startup-bluwhale-from-standford-berkeley-and-tiktok-alums-raise-s-7m-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

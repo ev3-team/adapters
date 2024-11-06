@@ -28,4 +28,5 @@ export default {
       url: 'https://www.startupticker.ch/en/news/onocoy-wins-100-000-from-eu-agency-space-program',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

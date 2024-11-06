@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Xa Net Services',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Apps',
+  ninja: '0xF91aBEAa8346673E5567e10a5e028f71ECC48e25',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://xns.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

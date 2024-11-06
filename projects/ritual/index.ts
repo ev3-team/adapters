@@ -32,4 +32,5 @@ export default {
       url: 'https://www.coindesk.com/business/2024/04/04/crypto-vc-firm-polychain-tops-up-ai-platform-rituals-25m-funding-round-with-multimillion-dollar-investment/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

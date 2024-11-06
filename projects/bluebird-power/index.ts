@@ -27,4 +27,5 @@ export default {
       url: 'https://siliconcanals.com/crowdfunding/bluebird-power-raises-350k/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

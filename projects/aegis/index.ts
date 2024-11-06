@@ -23,4 +23,5 @@ export default {
   url: 'https://aiaegis.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

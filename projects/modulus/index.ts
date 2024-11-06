@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Modulus',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.theblock.co/post/260335/modulus-raises-6-3-million-to-bring-crypto-security-to-ai',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

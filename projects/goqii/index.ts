@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'tkkrfm',
@@ -94,4 +94,5 @@ export default {
       url: 'https://www.livemint.com/companies/start-ups/healthcare-platform-goqii-raises-50-mn-led-by-sumeru-ventures-11644996336018.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

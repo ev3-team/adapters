@@ -22,4 +22,5 @@ export default {
   url: 'https://cryptomate.me/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

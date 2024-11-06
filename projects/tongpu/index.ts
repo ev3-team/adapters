@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'TonGPU',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: 'GPUs',
   chain: 'TON',
   category: 'COMPUTE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://tongpu.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

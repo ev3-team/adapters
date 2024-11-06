@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ponder',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Data',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -28,4 +28,5 @@ export default {
       url: 'https://cryptorank.io/ico/ponder',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

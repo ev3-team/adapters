@@ -22,4 +22,5 @@ export default {
   url: 'https://raad.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

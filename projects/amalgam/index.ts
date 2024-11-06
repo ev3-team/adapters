@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'AMALGAM',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
-  category: 'PENDING',
+  category: 'ENERGY',
   token: null,
   coinGeckoID: null,
   id: 'fdh359',
@@ -16,10 +16,11 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
+  github: 'https://github.com/manolaz/amalgam-dlt-climate-2024',
   telegram: null,
   twitter: 'https://twitter.com/kivanolai',
   url: null,
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

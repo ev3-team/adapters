@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Really',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/really-announces-18-million-seed-round-brings-the-sharing-economy-to-mobile-phone-service-301757834.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

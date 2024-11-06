@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Data Lake',
   ninja: 'EV3 Sal',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: 'LAKE',
   coinGeckoID: 'data-lake',
   id: 'tq5svh',
@@ -23,4 +23,5 @@ export default {
   url: 'https://data-lake.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

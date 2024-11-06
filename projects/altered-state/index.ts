@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Altered State',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Agents',
   chain: 'ETHEREUM',
   category: 'AI',
@@ -85,4 +85,5 @@ export default {
       url: 'https://medium.com/@alteredstatemachine/altered-state-machine-welcomes-new-crypto-technology-entertainment-and-investment-partners-in-b09344b5d3d8',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'XMAQUINA',
-  ninja: 'ZZ',
-  subcategories: 'Robotics',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: null,
-  category: 'SENSORS',
+  category: 'ROBOTICS',
   token: null,
   coinGeckoID: null,
   id: 'j1e8vy',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.xmaquina.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

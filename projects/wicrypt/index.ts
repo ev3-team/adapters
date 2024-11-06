@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'WiCrypt',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
@@ -38,4 +38,5 @@ export default {
       url: 'https://disruptafrica.com/2021/11/08/nigerian-wi-fi-sharing-startup-wicrypt-raises-1-5m-funding/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NodeShift',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/nodeshiftcloud/status/1760572580862280007',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

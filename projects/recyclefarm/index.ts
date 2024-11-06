@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RecycleFarm',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
-  subcategories: 'Apps',
+  ninja: '0xF91aBEAa8346673E5567e10a5e028f71ECC48e25',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: 'RFRM',
@@ -23,4 +23,5 @@ export default {
   url: 'https://recyclefarm.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

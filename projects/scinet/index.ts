@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SCINET',
-  ninja: 'ZZ',
-  subcategories: 'DeSci',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: null,
   coinGeckoID: null,
   id: 'exm7xr',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.scinet.one/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'disBalancer',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'DDOS',
   coinGeckoID: 'disbalancer',
   id: '1hoj55',
@@ -23,4 +23,5 @@ export default {
   url: 'https://disbalancer.com/about/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

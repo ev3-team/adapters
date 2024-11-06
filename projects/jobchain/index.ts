@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'JobChain',
   ninja: null,
-  subcategories: 'Labor',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
   token: 'JOB',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.jobchain.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

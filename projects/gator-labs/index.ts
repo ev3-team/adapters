@@ -23,4 +23,5 @@ export default {
   url: 'https://chomp.games/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

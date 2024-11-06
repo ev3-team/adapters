@@ -38,4 +38,5 @@ export default {
       url: 'https://www.finsmes.com/2023/04/kryptview-raises-1-5m-pre-seed-funding.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

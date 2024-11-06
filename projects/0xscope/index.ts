@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '0xScope',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -13,13 +13,13 @@ export default {
     '0xScope is a Web3 AI Data Layer with an established and complete set of standards for collecting, cleaning, and managing relevant on- and off-chain data specifically adapted for Web3 AI training.',
   discord: '991589244810305596',
   investors: [],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/0xscope/',
   duneQueries: null,
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
-  twitter: 'https://twitter.com/ScopeProtocol',
+  telegram: 'https://t.me/scope_official',
+  twitter: 'https://x.com/ScopeProtocol',
   url: 'https://www.0xscope.com/',
   verified: false,
   fundraises: [
@@ -32,4 +32,5 @@ export default {
       url: 'https://cointelegraph.com/press-releases/0xscope-raises-3m-seed-round-to-build-a-new-Web3 Capital-data-layer',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

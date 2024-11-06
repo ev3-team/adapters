@@ -28,4 +28,5 @@ export default {
       url: 'https://www.finsmes.com/2016/12/wiman-raises-approx-e400k-in-funding.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

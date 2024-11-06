@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Anomaly',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Gaming',
   chain: null,
   category: 'AI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/tech/2024/05/09/protocol-village/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

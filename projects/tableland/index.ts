@@ -22,4 +22,5 @@ export default {
   url: 'https://tableland.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

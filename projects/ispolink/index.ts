@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ispolink',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'ISP',
   coinGeckoID: 'ispolink',
   id: 'vv9w8b',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.ispolink.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -22,4 +22,5 @@ export default {
   url: 'https://www.seismic.systems/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

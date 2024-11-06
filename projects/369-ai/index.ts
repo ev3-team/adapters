@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '369 AI',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -18,8 +18,9 @@ export default {
   blog: null,
   github: null,
   telegram: 'https://t.me/Three69AI',
-  twitter: 'https://twitter.com/Three69AI',
+  twitter: 'https://x.com/Three69AI',
   url: 'https://three69ai.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

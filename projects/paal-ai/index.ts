@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PAAL AI',
-  ninja: 'ZZ',
-  subcategories: 'Chatbot',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'PAAL',
@@ -14,7 +14,10 @@ export default {
   discord: '1112405068717768824',
   investors: [],
   linkedin: null,
-  duneQueries: null,
+  duneQueries: {
+    REVENUE: '4210094',
+    NODE_NUMBER: '4211625',
+  },
   foundingYear: null,
   blog: null,
   github: null,
@@ -23,4 +26,5 @@ export default {
   url: 'https://www.paal.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

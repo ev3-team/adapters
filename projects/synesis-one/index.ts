@@ -58,4 +58,5 @@ export default {
       url: 'https://cointelegraph.com/press-releases/synesis-one-raises-95m-to-gamify-ai-data-collection',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

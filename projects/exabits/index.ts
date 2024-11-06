@@ -41,4 +41,5 @@ export default {
       url: 'https://twitter.com/exa_bits/status/1753121707806826800',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

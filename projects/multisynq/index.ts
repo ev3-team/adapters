@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Multisynq',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -39,4 +39,5 @@ export default {
       url: 'https://twitter.com/multisynq/status/1778598443872587808',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

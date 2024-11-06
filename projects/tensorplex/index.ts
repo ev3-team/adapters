@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tensorplex',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'BITTENSOR',
   category: 'AI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/business/2024/03/21/web-3-startup-tensorplex-labs-raises-3m-seed-funding-to-decentralize-ai/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

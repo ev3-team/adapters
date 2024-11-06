@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BerryLab',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'Mobile',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'zkl7d3',
-  description: '',
+  description:
+    'BerryLab is a Web3 assistant mobile app that helps users manage digital asset wallets with features like asset tracking, gas fee alerts, security notifications, and governance participation across multiple networks.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -22,4 +23,5 @@ export default {
   url: 'https://berrylab.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Covalent',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'RPC/Indexing',
   chain: 'ETHEREUM',
   category: 'BLOCKCHAIN_INFRA',
@@ -62,4 +62,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2021/03/24/decentralized-data-project-covalent-raises-another-2m/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Switch Electric',
   ninja: null,
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: 'IOTEX',
   category: 'SENSORS',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.whynotswitch.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

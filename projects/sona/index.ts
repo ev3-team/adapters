@@ -23,4 +23,5 @@ export default {
   url: 'https://sonu.stream/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

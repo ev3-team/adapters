@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Luma Protocol',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'DeSci',
+  subcategories: null,
   chain: 'SOLANA',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SCIENCE',
   token: 'LUMA',
   coinGeckoID: null,
   id: '1gblon',
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.lumaprotocol.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

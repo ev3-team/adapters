@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zentachain',
-  ninja: 'ZZ',
-  subcategories: null,
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: 'IoT',
   chain: null,
   category: 'WIRELESS',
   token: 'CHAIN',
@@ -17,10 +17,11 @@ export default {
   duneQueries: null,
   foundingYear: null,
   blog: null,
-  github: null,
-  telegram: null,
-  twitter: 'https://twitter.com/zentachain',
+  github: 'https://github.com/ZentaChain',
+  telegram: 'https://t.me/ZentachainOfficialChat/',
+  twitter: 'https://x.com/zentachain',
   url: 'https://zentachain.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

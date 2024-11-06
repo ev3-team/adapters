@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SONM',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -39,4 +39,5 @@ export default {
       url: 'https://the-blockchain.com/2017/06/18/sonm-raises-42-million-token-raise/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

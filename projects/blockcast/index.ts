@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockcast',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: 'CDN',
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'fxg6py',
@@ -23,4 +23,5 @@ export default {
   url: 'https://blockcast.net/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

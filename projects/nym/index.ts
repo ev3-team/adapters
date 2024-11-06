@@ -52,4 +52,5 @@ export default {
       url: 'https://techcrunch.com/2021/11/19/nym-raises-13m-from-a16zs-crypto-fund/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Iagon',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'IoT',
   chain: 'CARDANO',
   category: 'BLOCKCHAIN_INFRA',
@@ -47,4 +47,5 @@ export default {
       url: 'https://www.investing.com/news/cryptocurrency-news/iagon-raises-34m-funding-to-build-first-data-platform-on-cardano-2545346',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

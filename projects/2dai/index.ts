@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '2DAI',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'AI',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: '2dai-io',
   id: 'cv1vse',
   description:
-    '2DAI is an innovative AIaaS platform that combines multiple neural engines and leverages cutting-edge cloud technology to empower creative professionals to generate unique visuals and develop AI-powered solutions.',
+    '2DAI is an AIaaS platform that empowers creators to generate images, animations, and drawings using cutting-edge AI technology, accessible across various platforms including Telegram bots, mobile apps, and dApps.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -18,9 +18,10 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
-  twitter: null,
+  telegram: 'https://t.me/Token2dAI',
+  twitter: 'https://x.com/2DAICommunity',
   url: 'https://dapp.2dai.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

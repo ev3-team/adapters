@@ -2,12 +2,12 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NATIX',
-  ninja: 'ZZ',
-  subcategories: 'Mobility',
-  chain: null,
-  category: 'SENSORS',
-  token: null,
-  coinGeckoID: null,
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
+  chain: 'SOLANA',
+  category: 'MOBILITY',
+  token: 'NATIX',
+  coinGeckoID: 'natix-network',
   id: 'uq4s3v',
   description: 'NATIX is a decentralized real-time mapping & surveillance network.',
   discord: '811964821000028160',
@@ -59,4 +59,5 @@ export default {
       url: 'https://www.theblock.co/post/290927/depin-natix-funding-token-airdrop-solana',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

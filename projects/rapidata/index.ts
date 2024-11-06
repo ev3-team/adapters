@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rapidata',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'y47135',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.venturekick.ch/Rapidata-raises-CHF-15-million-in-funding-round-led-by-BlueYard-pioneering-the-creation-of-a-human-brain-in-the-cloud',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -62,4 +62,5 @@ export default {
       url: 'https://www.coindesk.com/business/2023/04/11/information-protocol-rss3-raises-10m-via-token-sale-to-dwf-labs/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

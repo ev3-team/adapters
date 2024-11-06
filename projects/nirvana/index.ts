@@ -27,4 +27,5 @@ export default {
       url: 'https://twitter.com/nirvanalabsai/status/1724840469631258795',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

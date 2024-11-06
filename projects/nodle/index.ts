@@ -2,9 +2,9 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Nodle',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: 'Positioning',
-  chain: 'ETHEREUM',
+  chain: 'ZKSYNC',
   category: 'WIRELESS',
   token: 'NODL',
   coinGeckoID: 'nodle-network',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.globenewswire.com/news-release/2018/09/13/1570282/0/en/Nodle-io-Raises-1-5M-Seed-Funding-to-Bring-IoT-Cryptocurrency-to-App-Developers.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

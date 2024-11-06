@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Story Protocol',
   ninja: 'EV3 Sal',
-  subcategories: 'Intellectual Property',
+  subcategories: 'L1/L2',
   chain: null,
-  category: 'PENDING',
+  category: 'INTELLECTUAL_PROPERTY',
   token: null,
   coinGeckoID: null,
   id: '5maai7',
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.storyprotocol.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

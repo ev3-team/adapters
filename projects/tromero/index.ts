@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Tromero',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://tech.eu/2023/07/18/tromero-raises-ps15-million-to-make-ai-training-and-hosting-cheaper-through-crypto-mining/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

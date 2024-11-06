@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Bagel',
-  ninja: null,
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20240122875776/en/Bagel-Network-a-Decentralized-ML-Data-Network-Closes-3.1M-Pre-Seed-Round-Led-by-CoinFund',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

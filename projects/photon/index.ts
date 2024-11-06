@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Photon',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -33,4 +33,5 @@ export default {
   url: 'https://www.photon.storage/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

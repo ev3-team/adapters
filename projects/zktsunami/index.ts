@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'ZkTsunami',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'ZK',
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
@@ -18,9 +18,10 @@ export default {
   foundingYear: null,
   blog: null,
   github: null,
-  telegram: null,
-  twitter: null,
+  telegram: 'https://t.me/ZkTsunamiERC',
+  twitter: 'https://x.com/ZKTsunami',
   url: 'https://www.zktsunami.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

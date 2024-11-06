@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Massive',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -57,4 +57,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/massive-raises-11-million-in-seed-funding-from-point72-ventures-to-bring-a-new-business-model-to-the-internet-301434259.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

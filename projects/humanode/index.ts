@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Humanode',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -48,4 +48,5 @@ export default {
       url: 'https://cointelegraph.com/press-releases/humanode-raises-2-million-while-testnet-hits-1-650-unique-validators',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

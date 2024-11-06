@@ -31,4 +31,5 @@ export default {
       url: 'https://www.theblock.co/post/217761/tim-draper-joins-ethermails-advisory-board-leads-4-million-raise',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

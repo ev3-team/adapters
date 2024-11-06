@@ -22,4 +22,5 @@ export default {
   url: 'https://www.botanixlabs.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

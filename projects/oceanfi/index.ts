@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'OceanFi',
   ninja: 'EV3 Sal',
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://oceanfi.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

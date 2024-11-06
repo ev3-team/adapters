@@ -22,4 +22,5 @@ export default {
   url: 'https://modelex.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

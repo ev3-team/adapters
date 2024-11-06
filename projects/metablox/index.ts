@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Metablox',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -49,4 +49,5 @@ export default {
       url: 'https://twitter.com/DePINBuddy/status/1773164755634487785',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'ZeroSync',
   ninja: 'EV3 Sal',
-  subcategories: null,
+  subcategories: 'ZK',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -19,8 +19,9 @@ export default {
   blog: null,
   github: 'https://github.com/ZeroSync/ZeroSync',
   telegram: 'https://t.me/zerosync_chat',
-  twitter: 'https://twitter.com/zerosync_',
+  twitter: 'https://x.com/zerosync_',
   url: 'https://zerosync.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DRIFE',
-  ninja: 'ZZ',
-  subcategories: 'Mobility',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: 'BINANCE',
-  category: 'SERVICES',
+  category: 'MOBILITY',
   token: 'DRF',
   coinGeckoID: 'drife',
   id: 'con8un',
@@ -36,4 +36,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/drife-closes-2-7mm-in-venture-token-funding-30x-oversubscribed--plans-ido--uniswap-listing-on-aug-6th-301337032.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

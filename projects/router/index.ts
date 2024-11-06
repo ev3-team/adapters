@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Router',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'L1/L2',
   chain: 'NATIVE',
   category: 'NOT_DEPIN',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.routerprotocol.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -37,4 +37,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/gitpoap-raises-over-4-2-million-usd-in-seed-funding-to-memorialize-professional-contributions-and-accomplishments-as-blockchain-based-badges-301608123.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

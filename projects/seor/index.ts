@@ -23,4 +23,5 @@ export default {
   url: 'https://www.seor.io/#/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

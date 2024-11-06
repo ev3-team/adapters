@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Everyworld',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
@@ -46,4 +46,5 @@ export default {
       url: 'https://twitter.com/JoinEveryworld/status/1771252264985915682',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Manta',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'POLKADOT',
   category: 'NOT_DEPIN',
@@ -73,4 +73,5 @@ export default {
       url: 'https://cointelegraph.com/news/manta-network-developer-raises-25m-in-series-a-launches-layer-2-for-zk-apps',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

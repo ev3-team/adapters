@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Karrier One',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: 'POLYGON',
   category: 'WIRELESS',
@@ -32,4 +32,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20230405005336/en/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://proton.me/mail',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

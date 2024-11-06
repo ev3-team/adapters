@@ -27,4 +27,5 @@ export default {
   url: 'https://thegraph.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

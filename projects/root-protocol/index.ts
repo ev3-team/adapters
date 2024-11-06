@@ -59,4 +59,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20220131005406/en/NFT3-Raises-US7.5-Million-Led-by-Animoca-Brands-Signaling-Decentralized-Identity-Technology-and-NFTs-as-Gate.ioway-to-the-Metaverse',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

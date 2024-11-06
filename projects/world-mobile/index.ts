@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'World Mobile',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: 'Mobile',
   chain: 'CARDANO',
   category: 'WIRELESS',
@@ -27,4 +27,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2021/08/16/world-mobile-wraps-39m-token-sale-to-launch-mesh-network-in-zanzibar/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Shibuya',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -28,4 +28,5 @@ export default {
       url: 'https://decrypt.co/116749/pplpleasrs-shibuya-nft-video-platform-raises-6-9m-to-build-the-a24-of-Web3 Capital',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.mem.tech/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

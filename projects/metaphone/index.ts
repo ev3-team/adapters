@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MetaPhone',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Mobile',
   chain: null,
   category: 'WIRELESS',
@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/metaphone_ton/status/1787440551651897738',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

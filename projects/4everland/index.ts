@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '4everland',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -30,7 +30,9 @@ export default {
     'pvr738',
   ],
   linkedin: 'https://au.linkedin.com/company/4everlandorg',
-  duneQueries: null,
+  duneQueries: {
+    NODE_NUMBER: '4215440',
+  },
   foundingYear: null,
   blog: null,
   github: null,
@@ -48,4 +50,5 @@ export default {
       url: 'https://www.coinlive.com/news-flash/405451',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

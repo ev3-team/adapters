@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Switchboard',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -43,4 +43,5 @@ export default {
       url: 'https://switchboardxyz.medium.com/switchboard-raises-3-5mm-seed-and-announces-solana-mainnet-beta-5dc21eefece',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

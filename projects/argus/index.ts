@@ -23,4 +23,5 @@ export default {
   url: 'https://argus.gg/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Poseidon',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: 'QQQ',
   coinGeckoID: null,
   id: 'hosx2o',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.techinasia.com/5-blockchain-startups-longhash-raise-9m',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

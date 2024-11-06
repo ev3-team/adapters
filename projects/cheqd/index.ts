@@ -51,4 +51,5 @@ export default {
       url: 'https://cheqd.io/blog/cheqd-raises-2-6-million-to-drive-the-uptake-of-digital-ids/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

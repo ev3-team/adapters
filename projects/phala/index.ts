@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Phala',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -41,4 +41,5 @@ export default {
       url: 'https://medium.com/phala-network/phala-network-value-tops-10-million-on-new-fundraising-31a8c25f9bb9',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

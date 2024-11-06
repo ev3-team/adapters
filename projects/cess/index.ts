@@ -42,4 +42,5 @@ export default {
       url: 'https://cointelegraph.com/news/decentralized-storage-platform-cess-raises-8-million-13-vc-funds',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

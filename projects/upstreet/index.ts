@@ -23,4 +23,5 @@ export default {
   url: 'https://upstreet.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

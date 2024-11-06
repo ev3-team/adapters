@@ -22,4 +22,5 @@ export default {
   url: 'https://bazed.bet/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

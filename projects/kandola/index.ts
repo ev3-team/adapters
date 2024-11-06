@@ -37,4 +37,5 @@ export default {
       url: 'https://www.businesswireindia.com/blockchain-startup-kandola-raises-usd-450k-in-a-pre-seed-round-funding-led-by-arcanum-capital-alphawave-global-and-polygons-sandeep-nailwal-78135.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -45,4 +45,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/aethir-closes-150-million-valuation-pre-a-funding-round-to-scale-its-decentralized-cloud-infrastructure-301886287.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

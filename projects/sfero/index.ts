@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Sfero',
   ninja: 'EV3 Sal',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://sfero.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

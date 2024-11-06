@@ -40,4 +40,5 @@ export default {
       url: 'https://www.theblock.co/post/249236/shima-capital-backs-domain-name-startup-d3-global-in-5-million-round',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

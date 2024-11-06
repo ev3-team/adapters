@@ -23,4 +23,5 @@ export default {
   url: 'https://fishcoin.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

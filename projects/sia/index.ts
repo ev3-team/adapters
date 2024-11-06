@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2019/07/10/sia-network-raises-35-million-from-bain-capital-to-become-crypto-hulu/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

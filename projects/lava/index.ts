@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lava',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'RPC/Indexing',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -49,4 +49,5 @@ export default {
       url: 'https://twitter.com/lavanetxyz/status/1758162588381405563',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -28,4 +28,5 @@ export default {
       url: 'https://finance.yahoo.com/news/terminal-3-raises-pre-seed-044113273.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

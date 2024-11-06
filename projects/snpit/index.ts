@@ -23,4 +23,5 @@ export default {
   url: 'https://lp.snpit.xyz/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

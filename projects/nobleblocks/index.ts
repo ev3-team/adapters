@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NOBLEBLOCKS',
-  ninja: 'ZZ',
-  subcategories: 'DeSci',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'SCIENCE',
   token: 'NOBL',
   coinGeckoID: null,
   id: 't5iqmq',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.nobleblocks.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

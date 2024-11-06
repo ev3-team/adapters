@@ -28,4 +28,5 @@ export default {
       url: 'https://www.globenewswire.com/news-release/2023/08/07/2719930/0/en/VIP3-io-Raised-2-Million-in-Seed-Round-Financing-Unveils-Innovative-On-Chain-Membership-Platform.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

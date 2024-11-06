@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Mobilian',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: null,
-  category: 'AI',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'diyark',
@@ -22,4 +22,5 @@ export default {
   url: 'https://mobiliancoin.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

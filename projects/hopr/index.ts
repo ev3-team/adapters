@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'HOPR',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'WIRELESS',
@@ -52,4 +52,5 @@ export default {
       url: 'https://www.coindesk.com/business/2020/07/09/binance-labs-leads-1m-seed-round-in-crypto-tor-alternative-hopr/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

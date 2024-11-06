@@ -35,4 +35,5 @@ export default {
       url: 'https://www.coindesk.com/markets/2017/02/23/blockchain-startup-storj-targets-enterprise-cloud-with-3-million-raise/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

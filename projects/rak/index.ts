@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RAK',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'IoT',
   chain: null,
   category: 'WIRELESS',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/rakwireless-closes-10m-series-a-funding-round-301276301.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

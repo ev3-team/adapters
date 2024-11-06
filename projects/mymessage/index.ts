@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'myMessage',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Storage',
   chain: null,
   category: 'NOT_DEPIN',
@@ -50,4 +50,5 @@ export default {
       url: 'https://finance.yahoo.com/news/mymessage-raises-2-1-million-185500210.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

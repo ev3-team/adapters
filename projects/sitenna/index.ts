@@ -28,4 +28,5 @@ export default {
       url: 'https://www.siliconrepublic.com/start-ups/sitenna-funding-telecoms-5g-us-atlanta-canada-expansion-limerick',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

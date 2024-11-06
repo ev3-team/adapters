@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Astran',
   ninja: null,
-  subcategories: 'Software, Storage',
+  subcategories: 'Software',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://astran.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

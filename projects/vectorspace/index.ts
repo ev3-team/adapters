@@ -23,4 +23,5 @@ export default {
   url: 'https://vectorspacebio.science/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

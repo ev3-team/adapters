@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '5ireChain',
-  ninja: 'ZZ',
-  subcategories: null,
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: 'L1/L2',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'oecmcs',
-  description: '',
+  description:
+    '5ire is a sustainability-focused Layer 1 blockchain platform that empowers developers to build high-performance, eco-friendly dApps, offering EVM/WASM compatibility and real-world asset integration.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -22,4 +23,5 @@ export default {
   url: 'https://5ire.org/home',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

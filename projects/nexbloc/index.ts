@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'NexBloc',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.scoop.co.nz/stories/BU2205/S00212/nexbloc-accepted-into-the-filecoin-faber-accelerator-for-building-out-deep-tech-web-3-0-solutions.htm?from-mobile=bottom-link-01',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

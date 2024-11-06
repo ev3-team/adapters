@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Healthtracka',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -28,4 +28,5 @@ export default {
       url: 'https://techcrunch.com/2022/06/21/nigerian-at-home-lab-testing-platform-healthtracka-gets-1-5m-backed-by-female-vcs/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

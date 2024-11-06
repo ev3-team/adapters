@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'StackOS',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
   category: 'COMPUTE',
@@ -52,4 +52,5 @@ export default {
       url: 'https://cryptorank.io/ico/stackos-sfx',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

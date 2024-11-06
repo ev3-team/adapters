@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Ceramic',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Data',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -59,4 +59,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/02/16/Union Square-multicoin-lead-30m-raise-for-3boxs-ceramic-data-network/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://peachinu.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

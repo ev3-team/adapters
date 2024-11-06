@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'GoMutual',
-  ninja: 'ZZ',
-  subcategories: 'Mobility',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'wwmjky',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.gooddriver.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

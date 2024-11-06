@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Giza',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'AI',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20230711269424/en/Giza-Raises-3M-Pre-Seed-Led-by-CoinFund-to-Bring-Artificial-Intelligence-to-Web3 Capital-Smart-Contracts',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

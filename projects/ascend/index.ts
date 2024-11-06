@@ -23,4 +23,5 @@ export default {
   url: 'https://www.ascend.sh/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

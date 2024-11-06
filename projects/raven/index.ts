@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Raven',
-  ninja: 'ZZ',
-  subcategories: 'Training',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: 'BINANCE',
   category: 'AI',
   token: 'RAVEN',
@@ -28,4 +28,5 @@ export default {
       url: 'https://medium.com/ravenprotocol/the-raven-protocol-launch-e2f70faf5bfd',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

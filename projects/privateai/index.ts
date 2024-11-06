@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'PrivateAI',
-  ninja: 'ZZ',
-  subcategories: 'DeSci',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: 'NATIVE',
-  category: 'AI',
+  category: 'SCIENCE',
   token: 'PGPT',
   coinGeckoID: null,
   id: 'ox1kcr',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.privateai.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

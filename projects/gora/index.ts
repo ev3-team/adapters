@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Gora',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -27,4 +27,5 @@ export default {
       url: 'https://www.startupticker.ch/en/news/blockchain-startup-secures-1-5-million',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

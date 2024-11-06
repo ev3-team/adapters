@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Arkham',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: 'ETHEREUM',
-  category: 'AI',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'ARKM',
   coinGeckoID: 'arkham',
   id: 'zgyen3',
@@ -19,8 +19,9 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/ArkhamIntel',
   url: 'https://www.arkhamintelligence.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.runesdeai.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

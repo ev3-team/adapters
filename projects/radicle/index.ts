@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Radicle',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
@@ -51,4 +51,5 @@ export default {
       url: 'https://www.theblock.co/linked/95295/open-source-radicle-12-million-galaxy',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

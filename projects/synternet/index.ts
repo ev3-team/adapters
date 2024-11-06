@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Synternet',
-  ninja: 'ZZ',
-  subcategories: 'Bridges',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: 'Data',
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'BLOCKCHAIN_INFRA',
   token: 'NOIA',
   coinGeckoID: 'synternet',
   id: 'm9yv19',
@@ -32,7 +32,7 @@ export default {
   blog: null,
   github: 'https://github.com/Synternet',
   telegram: 'https://t.me/Synternet',
-  twitter: 'https://twitter.com/synternet_com',
+  twitter: 'https://x.com/synternet_com',
   url: 'https://www.synternet.com/',
   verified: false,
   fundraises: [
@@ -41,4 +41,5 @@ export default {
       url: 'https://twitter.com/Syntropynet/status/1768291299809968491',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

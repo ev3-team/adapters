@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'uefnla',
   description:
-    'Hemera Protocol is a decentralized account-centric programmable indexing network that enables developers to harness web3 data with ease and unlock the full potential of the ever-growing network of data in web3.',
+    'Hemera Protocol is a programmable semantic data layer that uses an account-centric indexing protocol to streamline on-chain data processing, enabling developers to build decentralized AI-powered applications.',
   discord: null,
   investors: ['dsl20s', '6q7dh3', 'zoshoo', 'wu15kr'],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/HemeraProtocol',
-  url: 'https://thehemera.com/main/home',
+  twitter: 'https://x.com/HemeraProtocol',
+  url: 'https://www.thehemera.com/',
   verified: false,
   fundraises: [
     {
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.prweb.com/releases/hemera-officially-launches-to-democratize-on-chain-intelligence-302138046.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

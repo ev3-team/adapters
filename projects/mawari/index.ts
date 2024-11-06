@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: 'CDN',
   chain: null,
-  category: 'COMPUTE',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'ygaj99',
@@ -38,4 +38,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20230207006196/en/Mawari-Raises-6.5-Million-in-Oversubscribed-Seed-Round-To-Build-a-Decentralized-XR-Streaming-Network',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SFT Protocol',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'COMPUTE',
@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'hb0kuf',
   description:
-    "SFT Chain, a 'Chain of Chains', bridges physical infra with Web3, focusing on a DePIN platform that integrates storage, computing, edge CDN , and beyond.",
+    "SFT Chain is a 'Chain of Chains' bridging physical infrastructure with Web3, building a DePIN platform that integrates storage, computing, edge CDN, and beyond.",
   discord: null,
   investors: [],
   linkedin: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://sft.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

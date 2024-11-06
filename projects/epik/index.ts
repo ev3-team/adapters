@@ -41,4 +41,5 @@ export default {
   url: 'https://www.epik-protocol.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -27,4 +27,5 @@ export default {
       url: 'https://www.prnewswire.com/news-releases/bloxtel-launches-most-advanced-private-5g-platform-in-the-market-301988245.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

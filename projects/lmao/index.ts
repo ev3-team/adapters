@@ -22,4 +22,5 @@ export default {
   url: 'https://lmao.fun/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

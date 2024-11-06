@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Clique',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -63,4 +63,5 @@ export default {
       url: 'https://twitter.com/Clique2046/status/1768277734113907127',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

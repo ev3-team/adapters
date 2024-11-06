@@ -22,4 +22,5 @@ export default {
   url: 'https://deanslist.services/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

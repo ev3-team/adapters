@@ -2,14 +2,14 @@ import { AdapterProject } from '../types'
 
 export default {
   name: '60ghz',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: null,
-  category: 'PENDING',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: 'zbvzq8',
-  description: '',
+  description: '60ghz is building a decentralized gigabit speed, public mesh WiFi Network.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://60ghz.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

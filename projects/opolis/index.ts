@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'ees7sx',
@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/opolis',
-  url: null,
+  url: 'https://opolis.co/',
   verified: false,
   fundraises: [
     {
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/20230713231230/en/Blockchain-Employment-Platform-Opolis-Raises-6.6M-in-Bridge-Round',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Fog Works',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Storage',
   chain: null,
   category: 'COMPUTE',
@@ -27,4 +27,5 @@ export default {
       url: 'https://www.finsmes.com/2022/08/w3-storage-lab-raises-3m-in-pre-seed-financing.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

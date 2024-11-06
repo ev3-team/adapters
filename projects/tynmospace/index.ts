@@ -23,4 +23,5 @@ export default {
   url: 'https://www.tynmo.space/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

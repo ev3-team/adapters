@@ -22,4 +22,5 @@ export default {
   url: 'https://www.ahoy.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

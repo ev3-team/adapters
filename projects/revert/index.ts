@@ -22,4 +22,5 @@ export default {
   url: 'https://www.revert.dev/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

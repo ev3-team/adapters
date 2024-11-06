@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Uplink',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
   chain: null,
   category: 'WIRELESS',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.coindesk.com/business/2024/04/11/depin-platform-uplink-raises-10m-led-by-framework-ventures/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

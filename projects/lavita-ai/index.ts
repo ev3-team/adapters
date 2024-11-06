@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Lavita.AI',
-  ninja: 'ZZ',
-  subcategories: 'Health & Fitness',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: 'Health',
   chain: 'NATIVE',
   category: 'AI',
   token: 'LAVITA',
@@ -28,4 +28,5 @@ export default {
       url: 'https://www.businesswire.com/news/home/202305 Ventures10005446/en/Lavita-AI-Raises-5M-Seed-Financing-to-Launch-the-First-Patient-Driven-Health-Information-Marketplace-to-Accelerate-Life-Sciences-Innovation',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

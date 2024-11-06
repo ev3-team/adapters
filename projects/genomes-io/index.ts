@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Genomes.io',
-  ninja: 'ZZ',
-  subcategories: 'DeSci',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: 'ETHEREUM',
-  category: 'NOT_DEPIN',
+  category: 'SCIENCE',
   token: 'GENE',
   coinGeckoID: 'genomesdao',
   id: 'lfu9ni',
@@ -23,4 +23,5 @@ export default {
   url: 'https://genomes.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

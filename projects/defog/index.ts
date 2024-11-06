@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Defog',
   ninja: null,
-  subcategories: 'ML',
+  subcategories: null,
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://defog.ai/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

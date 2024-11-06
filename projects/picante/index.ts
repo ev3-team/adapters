@@ -23,4 +23,5 @@ export default {
   url: 'https://picante.io/index.html',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

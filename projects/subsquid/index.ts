@@ -52,4 +52,5 @@ export default {
       url: 'https://www.globenewswire.com/news-release/2021/11/12/2333467/0/en/Subsquid-Raises-3-8M-in-Seed-Round-Led-by-Hypersphere-Ventures.html',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

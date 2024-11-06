@@ -23,4 +23,5 @@ export default {
   url: 'https://bayesian.global/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

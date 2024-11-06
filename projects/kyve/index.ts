@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'KYVE',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Data',
   chain: 'COSMOS',
   category: 'BLOCKCHAIN_INFRA',
@@ -83,4 +83,5 @@ export default {
       url: 'https://www.theblock.co/post/154836/kyve-network-hits-100-million-valuation-as-it-raises-9-million',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

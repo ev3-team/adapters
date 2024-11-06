@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Carnomaly',
-  ninja: 'ZZ',
-  subcategories: 'Mobility',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: null,
   chain: 'POLYGON',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'MOBILITY',
   token: 'CARR',
   coinGeckoID: 'carnomaly',
   id: '69oqt5',
@@ -23,4 +23,5 @@ export default {
   url: 'https://carnomaly.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

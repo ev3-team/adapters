@@ -28,4 +28,5 @@ export default {
       url: 'https://decrypt.co/106142/step-counter-app-sweatcoin-raises-13m-fund-leap-Web3 Capital',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

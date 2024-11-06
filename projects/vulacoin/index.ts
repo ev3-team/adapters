@@ -22,4 +22,5 @@ export default {
   url: 'https://about.vulacoin.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

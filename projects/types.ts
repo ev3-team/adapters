@@ -11,34 +11,44 @@ export type AdapterProjectCategory =
   | 'RWA'
   | 'WIRELESS'
   | 'PENDING'
+  | 'HUMAN_CAPITAL'
+  | 'MOBILITY'
+  | 'ROBOTICS'
+  | 'SCIENCE'
+  | 'INTELLECTUAL_PROPERTY'
 
 export type AdapterProjectChain =
   | 'ALGORAND'
   | 'APTOS'
   | 'ARBITRUM'
+  | 'ARWEAVE'
   | 'AVALANCHE'
+  | 'BASE'
   | 'BINANCE'
   | 'BITCOIN'
   | 'BITTENSOR'
-  | 'BASE'
   | 'CARDANO'
   | 'COSMOS'
   | 'CRONOS'
   | 'ETHEREUM'
   | 'FILECOIN'
   | 'GNOSIS'
+  | 'ICP'
   | 'IOTEX'
+  | 'KASPA'
   | 'MULTIVERSX'
   | 'NATIVE'
+  | 'OPTIMISM'
   | 'PEAQ'
   | 'POLKADOT'
   | 'POLYGON'
   | 'SOLANA'
+  | 'TON'
+  | 'TRON'
   | 'URBIT'
   | 'VECHAIN'
   | 'XDC'
   | 'ZKSYNC'
-  | 'TON'
 
 export type AdapterProjectDuneQueryIdentifiers = {
   BURN?: string
@@ -80,4 +90,5 @@ export type AdapterProject = {
   url: string | null
   verified: boolean
   fundraises: AdapterProjectFundRaise[]
+  isApp: boolean
 }

@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Travella',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  ninja: '0xF91aBEAa8346673E5567e10a5e028f71ECC48e25',
   subcategories: 'Logistics',
   chain: null,
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'ttlilt',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.travella.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

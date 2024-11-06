@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'RedStone',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Oracle',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
@@ -61,4 +61,5 @@ export default {
       url: 'https://www.coindesk.com/business/2022/08/29/defi-platform-redstone-raises-nearly-7m-to-improve-connectivity-between-blockchains-real-world-data/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

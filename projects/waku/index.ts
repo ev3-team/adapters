@@ -23,4 +23,5 @@ export default {
   url: 'https://waku.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

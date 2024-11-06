@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Drive to Earn',
   ninja: null,
-  subcategories: 'Mobility',
+  subcategories: null,
   chain: 'POLYGON',
-  category: 'SENSORS',
+  category: 'MOBILITY',
   token: 'DTE',
   coinGeckoID: 'drive-to-earn',
   id: 'bj8kjt',
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.d2e.info/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -38,4 +38,5 @@ export default {
       url: 'https://latamlist.com/somos-internet-raises-13-4m-seed-round/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

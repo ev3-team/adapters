@@ -5,11 +5,12 @@ export default {
   ninja: 'EV3 Sal',
   subcategories: null,
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'fq1s6c',
-  description: '',
+  description:
+    '3RM is a relationship management platform that helps Web3 teams streamline and organize their Telegram communications with automated contact databases, pipeline tracking, and seamless chat management.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -22,4 +23,5 @@ export default {
   url: 'https://www.3rm.co/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

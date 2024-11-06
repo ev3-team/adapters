@@ -2,8 +2,8 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Digital Gaia',
-  ninja: 'ZZ',
-  subcategories: 'Environmental, Data, Rewards',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
+  subcategories: 'Environmental',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
   token: null,
@@ -22,4 +22,5 @@ export default {
   url: 'https://www.digitalgaia.earth/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

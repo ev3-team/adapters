@@ -53,4 +53,5 @@ export default {
       url: 'https://twitter.com/ArciumHQ/status/1788557786537689447',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

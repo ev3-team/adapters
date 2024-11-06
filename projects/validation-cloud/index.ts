@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Validation Cloud',
   ninja: null,
-  subcategories: 'Mining',
+  subcategories: null,
   chain: null,
   category: 'COMPUTE',
   token: null,
@@ -28,4 +28,5 @@ export default {
       url: 'https://twitter.com/ValidationCloud/status/1762505693188280432',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

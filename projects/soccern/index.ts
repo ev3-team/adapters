@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'SoccerN',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'Hardware',
+  subcategories: null,
   chain: 'ETHEREUM',
   category: 'SENSORS',
   token: 'SOCN',
@@ -23,4 +23,5 @@ export default {
   url: 'https://www.soccern.io/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

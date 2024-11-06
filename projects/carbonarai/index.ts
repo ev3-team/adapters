@@ -23,4 +23,5 @@ export default {
   url: 'https://github.com/slavni96/carbonarai',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

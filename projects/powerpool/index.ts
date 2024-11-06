@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'PowerPool',
   ninja: '0x25052A4B28a35FfdBf2FaBA7DCCEB350e91b908F',
-  subcategories: 'DeFi, Agents',
+  subcategories: 'DeFi',
   chain: 'ETHEREUM',
   category: 'AI',
   token: 'CVP',
@@ -23,4 +23,5 @@ export default {
   url: 'https://powerpool.finance/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

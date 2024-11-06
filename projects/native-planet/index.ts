@@ -22,4 +22,5 @@ export default {
   url: 'https://www.nativeplanet.io/hardware',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://www.shopconnect.live/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

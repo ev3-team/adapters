@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Sahara',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Agents',
   chain: null,
   category: 'AI',
@@ -43,4 +43,5 @@ export default {
       url: 'https://chainwire.org/2024/03/05/sahara-raises-6-million-seed-round-to-democratize-global-knowledge-capital-access-through-ai-and-blockchain-technologies-led-by-polychain-capital/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

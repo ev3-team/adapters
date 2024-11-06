@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'DeMR',
-  ninja: 'W. L.',
+  ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
   chain: 'SOLANA',
   category: 'SENSORS',
@@ -36,4 +36,5 @@ export default {
       url: 'https://twitter.com/DeMR_official/status/1767791967768125940',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

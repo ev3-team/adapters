@@ -2,14 +2,15 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'CheersLand',
-  ninja: 'ZZ',
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
-  chain: null,
-  category: 'PENDING',
-  token: null,
-  coinGeckoID: null,
+  chain: 'NATIVE',
+  category: 'RWA',
+  token: 'CHEERS',
+  coinGeckoID: 'cheersland',
   id: '9g1vlq',
-  description: '',
+  description:
+    'Cheersland is a non-programming modular RWA trading platform designed to bridge web2 and web3.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -22,4 +23,5 @@ export default {
   url: 'https://cheersland.org/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

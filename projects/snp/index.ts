@@ -2,10 +2,10 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'SNP',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  ninja: '0xF91aBEAa8346673E5567e10a5e028f71ECC48e25',
   subcategories: 'Advertising',
   chain: 'ETHEREUM',
-  category: 'SERVICES',
+  category: 'HUMAN_CAPITAL',
   token: 'SNPAD',
   coinGeckoID: 'snpad',
   id: 'jsx894',
@@ -23,4 +23,5 @@ export default {
   url: 'https://snpad.snp.network/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

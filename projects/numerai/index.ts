@@ -28,4 +28,5 @@ export default {
       url: 'https://www.theblock.co/linked/16868/hedge-fund-numerai-raises-11-million-in-funding-from-placeholder-paradigm',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

@@ -23,4 +23,5 @@ export default {
   url: 'https://dricity.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

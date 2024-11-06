@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Caldance',
   ninja: null,
-  subcategories: 'Health & Fitness',
+  subcategories: 'Health',
   chain: null,
   category: 'SENSORS',
   token: null,
@@ -23,4 +23,5 @@ export default {
   url: 'https://caldance.gitbook.io/whitepaper/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject

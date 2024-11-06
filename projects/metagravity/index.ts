@@ -42,4 +42,5 @@ export default {
       url: 'https://tech.eu/2023/04/21/metagravity-do-something-amazing/',
     },
   ],
+  isApp: true,
 } satisfies AdapterProject

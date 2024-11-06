@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Beamable',
-  ninja: '0x9d73ca4689788f6d4be686e9150d6efe75ffd743',
+  ninja: '0xF91aBEAa8346673E5567e10a5e028f71ECC48e25',
   subcategories: 'Gaming',
   chain: null,
   category: 'COMPUTE',
@@ -23,4 +23,5 @@ export default {
   url: 'https://beamable.com/',
   verified: false,
   fundraises: [],
+  isApp: true,
 } satisfies AdapterProject
