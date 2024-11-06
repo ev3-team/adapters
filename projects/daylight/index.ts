@@ -4,7 +4,7 @@ export default {
   name: 'Daylight',
   ninja: 'EV3 Sal',
   subcategories: null,
-  chain: null,
+  chain: 'BASE',
   category: 'ENERGY',
   token: null,
   coinGeckoID: null,
