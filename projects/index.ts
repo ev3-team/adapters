@@ -2728,6 +2728,7 @@ import web3Storage from './web3-storage'
 import webai from './webai'
 import webkey from './webkey'
 import wechipn from './wechipn'
+import weconnectu from './weconnectu'
 import wedatanation from './wedatanation'
 import wefi from './wefi'
 import wehealth from './wehealth'
@@ -5572,6 +5573,7 @@ export const projects = {
   webai,
   webkey,
   wechipn,
+  weconnectu,
   wedatanation,
   wefi,
   wehealth,
