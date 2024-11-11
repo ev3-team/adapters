@@ -15,7 +15,7 @@ export default {
   investors: [],
   linkedin: null,
   duneQueries: null,
-  foundingYear: 'project initiated by the Worldbrains Foundation, a subsidiary of OpenAI.',
+  foundingYear: null,
   blog: null,
   github: null,
   telegram: null,

@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://x.com/eternisai',
-  url: null,
+  url: 'https://eternis.ai/',
   verified: false,
   fundraises: [],
   isApp: true,

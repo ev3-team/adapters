@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'jo23ir',
   description:
-    'Paloma is a decentralized blockchain computing middleware that enables developers to rapidly and securely interact with multiple blockchain states, build automated bots for trading and execution, and deliver native interoperability across chains.',
+    'Paloma Blockchain is a decentralized network enabling fast, cross-chain transaction execution and secure AI integration with personalized context storage through its LightNode technology.',
   discord: null,
   investors: [],
   linkedin: null,

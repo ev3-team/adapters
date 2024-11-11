@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://x.com/blockgpu',
-  url: null,
+  url: 'https://blockgpus.com/',
   verified: false,
   fundraises: [],
   isApp: true,
