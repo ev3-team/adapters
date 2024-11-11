@@ -5,12 +5,12 @@ export default {
   ninja: null,
   subcategories: null,
   chain: null,
-  category: 'WIRELESS',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'qvuc9n',
   description:
-    'Beegol is a machine learning-based platform for monitoring and improving broadband and Wi-Fi customer experience.',
+    'Beegol is an advanced machine learning platform that provides real-time end-to-end network diagnostics to improve broadband and Wi-Fi customer experience while reducing operational costs.',
   discord: null,
   investors: ['q7rgtl', '867w8g', 'dqo8t4', 'etf466', 'qkix5k'],
   linkedin: 'https://www.linkedin.com/company/beegol/',
@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/beegol_official',
   url: 'https://beegol.com/',
   verified: false,
   fundraises: [

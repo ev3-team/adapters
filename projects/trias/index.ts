@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Trias',
   ninja: null,
-  subcategories: null,
+  subcategories: 'L1/L2',
   chain: 'ETHEREUM',
   category: 'NOT_DEPIN',
   token: 'TRIAS',
   coinGeckoID: 'trias-token',
   id: 'gcp7d3',
   description:
-    'Trias is a cloud infrastructure solution with a native-application-compatible platform and token ecosystem.',
+    'Trias is a Layer -1 blockchain and decentralized cloud infrastructure that fosters trust through reliable, autonomous systems, enabling secure interactions, cross-chain interoperability, and enterprise-grade applications.',
   discord: '871671996046512148',
   investors: [],
   linkedin: 'http://www.linkedin.com/company/trias-lab',
