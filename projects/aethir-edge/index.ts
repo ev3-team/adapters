@@ -14,7 +14,9 @@ export default {
   discord: null,
   investors: [],
   linkedin: null,
-  duneQueries: null,
+  duneQueries: {
+    NODE_NUMBER: '4273936',
+  },
   foundingYear: null,
   blog: null,
   github: null,
