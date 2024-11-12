@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Mandala Chain',
-  ninja: 'EV3 Sal',
+  ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
   subcategories: 'L1/L2',
   chain: 'NATIVE',
   category: 'BLOCKCHAIN_INFRA',

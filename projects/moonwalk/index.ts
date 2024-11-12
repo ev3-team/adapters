@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Moonwalk',
-  ninja: 'EV3 Sal',
+  ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
   subcategories: 'Health',
   chain: null,
   category: 'SENSORS',

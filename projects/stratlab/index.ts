@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Stratlab',
-  ninja: 'Brandon Leppke',
+  ninja: '0x35aD39E4bB8D4B405721A540303E54f33143910B',
   subcategories: null,
   chain: null,
   category: 'PENDING',

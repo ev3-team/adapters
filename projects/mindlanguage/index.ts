@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'MindLanguage',
-  ninja: 'Sami',
+  ninja: '0xa3F0613f0638fc750055C7D70e57699cA890E098',
   subcategories: null,
   chain: null,
   category: 'AI',

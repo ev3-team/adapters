@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Blockus',
-  ninja: 'vkurup.eth',
+  ninja: '0x4003408058d490FCD0A8b76925a412E6F39bc939',
   subcategories: 'Gaming',
   chain: null,
   category: 'NOT_DEPIN',

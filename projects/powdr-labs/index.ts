@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'powdr labs',
-  ninja: 'vkurup.eth',
+  ninja: '0x4003408058d490FCD0A8b76925a412E6F39bc939',
   subcategories: 'ZK',
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
