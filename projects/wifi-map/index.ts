@@ -18,6 +18,7 @@ export default {
     BURN: '2944858',
     LOCKED_BALANCE: '2944856',
     MINT: '2944857',
+    NODE_NUMBER: '4278226',
   },
   foundingYear: null,
   blog: 'https://medium.com/@wifimap',
