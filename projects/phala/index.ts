@@ -27,7 +27,9 @@ export default {
     '4yr483',
   ],
   linkedin: 'https://sg.linkedin.com/company/phala-network',
-  duneQueries: null,
+  duneQueries: {
+    NODE_NUMBER: '4281016',
+  },
   foundingYear: null,
   blog: null,
   github: 'https://github.com/Phala-Network',
