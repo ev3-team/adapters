@@ -2,9 +2,9 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Aethir',
-  ninja: null,
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
-  chain: null,
+  chain: 'ETHEREUM',
   category: 'COMPUTE',
   token: 'ATH',
   coinGeckoID: 'aethir',
@@ -36,7 +36,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/AethirCloud',
+  twitter: 'https://x.com/AethirCloud',
   url: 'https://www.aethir.com/',
   verified: false,
   fundraises: [

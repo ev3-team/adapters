@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Zeitgeist',
-  ninja: null,
+  ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: 'Prediction Market',
   chain: 'POLKADOT',
   category: 'NOT_DEPIN',

@@ -4,7 +4,7 @@ export default {
   name: 'DTravel',
   ninja: null,
   subcategories: null,
-  chain: 'ETHEREUM',
+  chain: 'BASE',
   category: 'RWA',
   token: 'TRVL',
   coinGeckoID: 'dtravel',
@@ -39,7 +39,7 @@ export default {
   blog: 'https://medium.com/dtravel-community',
   github: 'https://github.com/dTravel',
   telegram: 'https://t.me/dtravelcommunity',
-  twitter: 'https://twitter.com/DtravelDAO',
+  twitter: 'https://x.com/DtravelDAO',
   url: 'https://www.dtravel.com/',
   verified: false,
   fundraises: [

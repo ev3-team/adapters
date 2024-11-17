@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'BITTENSOR',
-  category: 'BLOCKCHAIN_INFRA',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: 'oefeza',

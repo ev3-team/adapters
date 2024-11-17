@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/@ylide',
   github: 'https://github.com/ylide-io',
   telegram: 'https://t.me/ylide_chat',
-  twitter: 'https://twitter.com/ylide_',
+  twitter: null,
   url: 'http://www.ylide.io/',
   verified: false,
   fundraises: [],
