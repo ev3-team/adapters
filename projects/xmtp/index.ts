@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'rvdlk1',
   description:
-    'The Extensible Message Transport Protocol (XMTP) is a secure messaging protocol that enables communication between blockchain accounts.',
+    'XMTP (Extensible Message Transport Protocol) is an open protocol, network, and standards for secure, private web3 messaging.',
   discord: '831836269558235136',
   investors: [
     'd40or5',
@@ -125,7 +125,7 @@ export default {
   blog: 'https://xmtp.org/blog',
   github: 'https://github.com/xmtp',
   telegram: null,
-  twitter: 'https://twitter.com/xmtp_',
+  twitter: 'https://x.com/xmtp_',
   url: 'https://xmtp.org/',
   verified: false,
   fundraises: [

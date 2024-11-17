@@ -2453,6 +2453,7 @@ import spiderweb from './spiderweb'
 import spinfashion from './spin-fashion'
 import spk from './spk'
 import splits from './splits'
+import sponstar from './sponstar'
 import sportstensor from './sportstensor'
 import spreads from './spreads'
 import sqeio from './sqe-io'
@@ -5381,6 +5382,7 @@ export const projects = {
   spinfashion,
   spk,
   splits,
+  sponstar,
   sportstensor,
   spreads,
   sqeio,

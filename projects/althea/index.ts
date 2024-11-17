@@ -4,7 +4,7 @@ export default {
   name: 'Althea',
   ninja: null,
   subcategories: null,
-  chain: 'GNOSIS',
+  chain: 'NATIVE',
   category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
