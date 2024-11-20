@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Inferix',
-  ninja: null,
+  ninja: '0x3D8594a62385EB7B35e1687E7AaB35f8260524a9',
   subcategories: 'GPUs',
   chain: null,
   category: 'COMPUTE',
