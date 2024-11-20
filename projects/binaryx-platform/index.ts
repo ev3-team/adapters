@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Binaryx Platform',
-  ninja: '0x6997bcc18dea68ae3cbf243e92ce831e541cd9e4',
+  ninja: '0xF7a705A81b28891c4CF87Faa3DdD9bA9928E4894',
   subcategories: 'Real Estate',
   chain: null,
   category: 'RWA',
