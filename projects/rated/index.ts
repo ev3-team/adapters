@@ -2,7 +2,7 @@ import { AdapterProject } from '../types'
 
 export default {
   name: 'Rated',
-  ninja: '8XMR1q5jnzvuPzvg2vanyk7sQEJrZM4UscFNThutJo8H',
+  ninja: '0xc38dECebD857Ec55989155D1cF00348a878b6A07',
   subcategories: null,
   chain: null,
   category: 'BLOCKCHAIN_INFRA',
