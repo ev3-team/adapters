@@ -14,7 +14,10 @@ export default {
   discord: '920205740944273449',
   investors: [],
   linkedin: null,
-  duneQueries: null,
+  duneQueries: {
+    KEY_METRIC: '4319198',
+    NODE_NUMBER: '4319112',
+  },
   foundingYear: null,
   blog: null,
   github: null,
