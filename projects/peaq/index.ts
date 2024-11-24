@@ -7,7 +7,7 @@ export default {
   chain: 'PEAQ',
   category: 'BLOCKCHAIN_INFRA',
   token: 'PEAQ',
-  coinGeckoID: null,
+  coinGeckoID: 'peaq-2',
   id: 'vx7fas',
   description: 'Peaq provides decentralized infrastructure and tools for dapp builders and users.',
   discord: '943486047625572392',

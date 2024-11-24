@@ -10,7 +10,7 @@ export default {
   coinGeckoID: null,
   id: 'v7ilpo',
   description:
-    'Cloudmos is a decentralized cloud compute marketplace that allows users to deploy docker containers on the Akash Network.',
+    'Cloudmos(acq. Akash Network) is a decentralized cloud compute marketplace that allows users to deploy docker containers on the Akash Network.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,7 +19,7 @@ export default {
   blog: 'https://medium.com/@cloudmos',
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/cloudmosio',
+  twitter: 'https://x.com/cloudmosio',
   url: 'https://cloudmos.io/',
   verified: false,
   fundraises: [],

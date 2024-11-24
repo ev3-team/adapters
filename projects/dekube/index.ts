@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/dekube_official',
+  twitter: 'https://x.com/dekube_official',
   url: 'https://dekube.ai/',
   verified: false,
   fundraises: [],

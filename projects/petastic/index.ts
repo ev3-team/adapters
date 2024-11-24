@@ -4,7 +4,7 @@ export default {
   name: 'Petastic',
   ninja: null,
   subcategories: null,
-  chain: null,
+  chain: 'NEAR',
   category: 'SENSORS',
   token: null,
   coinGeckoID: null,

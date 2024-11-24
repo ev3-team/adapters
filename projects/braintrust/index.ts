@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Braintrust',
   ninja: '0x0F46456F2D00d6a6F10FB18f6c36C0f03129C979',
-  subcategories: null,
+  subcategories: 'Labor',
   chain: 'BASE',
   category: 'HUMAN_CAPITAL',
   token: 'BTRST',
   coinGeckoID: 'braintrust',
   id: '8mk3xj',
   description:
-    'The Braintrust is a decentralized Web3 talent network linking tech freelancers with top brands worldwide.',
+    'Braintrust is a decentralized Web3 talent network linking tech freelancers with top brands worldwide.',
   discord: null,
   investors: [
     'gow2jo',

@@ -4,7 +4,7 @@ export default {
   name: 'Uplink',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
   subcategories: null,
-  chain: null,
+  chain: 'AVALANCHE',
   category: 'WIRELESS',
   token: 'ULX',
   coinGeckoID: null,

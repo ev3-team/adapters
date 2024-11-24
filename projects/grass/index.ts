@@ -4,10 +4,10 @@ export default {
   name: 'Grass',
   ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
   subcategories: null,
-  chain: null,
+  chain: 'SOLANA',
   category: 'AI',
-  token: null,
-  coinGeckoID: null,
+  token: 'GRASS',
+  coinGeckoID: 'grass',
   id: '9qbidj',
   description:
     'Grass by Wynd Network is a transparent node marketplace enabling users to earn passive income by renting out their IP address, used for collecting datasets to train AI models.',
