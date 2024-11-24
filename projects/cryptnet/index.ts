@@ -19,7 +19,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/cryptneteth',
+  twitter: 'https://x.com/cryptneteth',
   url: 'https://cryptnet.shop/',
   verified: false,
   fundraises: [],

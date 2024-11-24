@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Bondex',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'Labor',
   chain: 'ETHEREUM',
   category: 'HUMAN_CAPITAL',
   token: 'BDXN',

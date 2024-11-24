@@ -5,7 +5,7 @@ export default {
   ninja: null,
   subcategories: null,
   chain: 'BASE',
-  category: 'RWA',
+  category: 'MOBILITY',
   token: 'TRVL',
   coinGeckoID: 'dtravel',
   id: '37xksc',
