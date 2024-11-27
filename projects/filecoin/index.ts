@@ -78,7 +78,7 @@ export default {
   ],
   linkedin: null,
   duneQueries: {
-    KEY_METRIC: '4144157',
+    KEY_METRIC: '4340988',
     NODE_NUMBER: '4144139',
   },
   foundingYear: null,
