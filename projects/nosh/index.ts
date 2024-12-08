@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Nosh',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Food Delivery',
   chain: null,
-  category: 'HUMAN_CAPITAL',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'k270zx',

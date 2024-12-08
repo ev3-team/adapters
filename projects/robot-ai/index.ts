@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Robot AI',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'Meme',
   chain: 'IOTEX',
-  category: 'NOT_DEPIN',
+  category: 'INTELLECTUAL_PROPERTY',
   token: 'ROBA',
   coinGeckoID: null,
   id: '12ku5r',
