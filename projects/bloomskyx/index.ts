@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'BloomSkyX',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'Environmental',
   chain: 'SOLANA',
   category: 'SENSORS',
   token: 'BLX',

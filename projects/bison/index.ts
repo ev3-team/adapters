@@ -20,7 +20,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/bison_labs',
-  url: 'https://bisonlabs.io/#/dashboard',
+  url: 'https://bisonlabs.io/',
   verified: false,
   fundraises: [],
   isApp: true,

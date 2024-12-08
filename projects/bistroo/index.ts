@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Bistroo',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'Food Delivery',
   chain: 'ETHEREUM',
-  category: 'HUMAN_CAPITAL',
+  category: 'MOBILITY',
   token: 'BIST',
   coinGeckoID: 'bistroo',
   id: 'qpkhj7',

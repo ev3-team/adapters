@@ -3,9 +3,9 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Peach',
   ninja: null,
-  subcategories: null,
+  subcategories: 'Meme',
   chain: null,
-  category: 'NOT_DEPIN',
+  category: 'INTELLECTUAL_PROPERTY',
   token: 'PEACH',
   coinGeckoID: 'peach-inu-bsc',
   id: '3p49fs',
