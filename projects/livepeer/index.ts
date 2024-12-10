@@ -45,7 +45,7 @@ export default {
   linkedin: 'http://www.linkedin.com/company/livepeer',
   duneQueries: {
     MINT: '2944847',
-    REVENUE: '2944851',
+    REVENUE: '4404066',
     SUPPLY: '2944838',
   },
   foundingYear: null,
