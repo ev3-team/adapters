@@ -41,7 +41,9 @@ export default {
     '78enfd',
   ],
   linkedin: 'http://www.linkedin.com/company/iotex',
-  duneQueries: null,
+  duneQueries: {
+    REVENUE: '4415500',
+  },
   foundingYear: null,
   blog: 'https://medium.com/fmfw-io/introducing-iotex-3c14699aeecd',
   github: 'https://github.com/iotexproject',
