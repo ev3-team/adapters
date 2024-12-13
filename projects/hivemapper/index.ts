@@ -24,7 +24,11 @@ export default {
     'gj9v6c',
   ],
   linkedin: 'https://www.linkedin.com/company/hivemapper/',
-  duneQueries: null,
+  duneQueries: {
+    BURN: '4422716',
+    MINT: '4422720',
+    REVENUE: '4422261',
+  },
   foundingYear: null,
   blog: 'https://medium.com/@hivemapper',
   github: 'https://github.com/hivemapper',
