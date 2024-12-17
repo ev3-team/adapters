@@ -1,16 +1,16 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'Santa Browser',
-  ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: 'Browser',
+  name: 'MeWe',
+  ninja: '0x4d6810033d1bcc67aba5e0f4dcd44b16ae19fa73',
+  subcategories: 'Social',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
-  id: 'btiyyj',
+  id: 'luuiro',
   description:
-    'Santa is a web3 browser that allows users to earn crypto rewards for their regular activities online while maintaining control over their privacy.',
+    'MeWe is a decentralized, spyware-free social network that prioritizes user privacy and control, enabling individuals to manage their Social Identity and connections across the Social Web.',
   discord: null,
   investors: [],
   linkedin: null,
@@ -19,8 +19,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://twitter.com/santabrowser',
-  url: 'https://www.santabrowser.com/',
+  twitter: 'https://x.com/mewe',
+  url: 'https://mewe.com/',
   verified: false,
   fundraises: [],
   isApp: true,

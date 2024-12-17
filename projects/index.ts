@@ -179,6 +179,7 @@ import ark from './ark'
 import arkeo from './arkeo'
 import arkham from './arkham'
 import arkreen from './arkreen'
+import arlink from './arlink'
 import armur from './armur'
 import arpa from './arpa'
 import artifact from './artifact'
@@ -215,6 +216,7 @@ import auki from './auki'
 import aurasci from './aurasci'
 import aurivis from './aurivis'
 import aurora from './aurora'
+import auroryAi from './aurory-ai'
 import autify from './autify'
 import autochain from './autochain'
 import autogpt from './autogpt'
@@ -361,6 +363,7 @@ import bluesea from './bluesea'
 import bluwhale from './bluwhale'
 import bluzelle from './bluzelle'
 import bnbGreenfield from './bnb-greenfield'
+import bndr from './bndr'
 import boincAi from './boinc-ai'
 import boltzmann from './boltzmann'
 import bondex from './bondex'
@@ -379,7 +382,6 @@ import botto from './botto'
 import boujee from './boujee'
 import bovaAi from './bova-ai'
 import brainaliveAi from './brainalive-ai'
-import brainchain from './brainchain'
 import brainedge from './brainedge'
 import brainstem from './brainstem'
 import brainstems from './brainstems'
@@ -412,7 +414,6 @@ import buzzup from './buzzup'
 import bwareLabs from './bware-labs'
 import bythen from './bythen'
 import c4e from './c4e'
-import cactusxr from './cactusxr'
 import cadTrust from './cad-trust'
 import cadaico from './cadaico'
 import caduceus from './caduceus'
@@ -437,7 +438,6 @@ import carbonBrowser from './carbon-browser'
 import carbonarai from './carbonarai'
 import carbonhood from './carbonhood'
 import carbonlarity from './carbonlarity'
-import carnation from './carnation'
 import carnomaly from './carnomaly'
 import cartesi from './cartesi'
 import carv from './carv'
@@ -480,6 +480,7 @@ import characterx from './characterx'
 import charge from './charge'
 import chargepal from './chargepal'
 import chasm from './chasm'
+import chatxbt from './chatxbt'
 import checkdot from './checkdot'
 import cheelee from './cheelee'
 import cheersland from './cheersland'
@@ -628,6 +629,7 @@ import d3 from './d3'
 import daAge from './da-age'
 import daeta from './daeta'
 import dafi from './dafi'
+import daign from './daign'
 import daiksp from './daiksp'
 import dain from './dain'
 import daisy from './daisy'
@@ -649,6 +651,7 @@ import datalab from './datalab'
 import datalatte from './datalatte'
 import datalayer from './datalayer'
 import dataos from './dataos'
+import datapond from './datapond'
 import dataverseos from './dataverseos'
 import dats from './dats'
 import datum from './datum'
@@ -690,7 +693,6 @@ import deeep from './deeep'
 import deek from './deek'
 import deepGreen from './deep-green'
 import deep3 from './deep3'
-import deepai from './deepai'
 import deepbrain from './deepbrain'
 import deeper from './deeper'
 import deepfakeai from './deepfakeai'
@@ -717,12 +719,12 @@ import dentity from './dentity'
 import denube from './denube'
 import dep from './dep'
 import dephy from './dephy'
-import depi from './depi'
 import depinAssociation from './depin-association'
 import depinDao from './depin-dao'
 import depinStack from './depin-stack'
 import depindables from './depindables'
 import depined from './depined'
+import depinify from './depinify'
 import depins from './depins'
 import depinsim from './depinsim'
 import depintech from './depintech'
@@ -755,7 +757,6 @@ import dig from './dig'
 import digileaf from './digileaf'
 import digitalGaia from './digital-gaia'
 import digitalabs from './digitalabs'
-import dill from './dill'
 import dimai from './dimai'
 import dimitra from './dimitra'
 import dimo from './dimo'
@@ -773,7 +774,6 @@ import ditherAi from './dither-ai'
 import dixacare from './dixacare'
 import dkargo from './dkargo'
 import dlife from './dlife'
-import dlp from './dlp'
 import dlpLabs from './dlp-labs'
 import dlteo from './dlteo'
 import dmail from './dmail'
@@ -798,7 +798,6 @@ import dotchain from './dotchain'
 import dotlocker from './dotlocker'
 import dotmoovs from './dotmoovs'
 import dotoracle from './dotoracle'
-import doubleProtocol from './double-protocol'
 import doug from './doug'
 import dovu from './dovu'
 import dping from './dping'
@@ -839,7 +838,6 @@ import earntv from './earntv'
 import earth3 from './earth3'
 import earthbyt from './earthbyt'
 import earthfast from './earthfast'
-import easearn from './easearn'
 import easeflow from './easeflow'
 import easierdata from './easierdata'
 import eastore from './eastore'
@@ -854,6 +852,7 @@ import eclipse from './eclipse'
 import eclipsenetAi from './eclipsenet-ai'
 import ecoblocks from './ecoblocks'
 import ecobytes from './ecobytes'
+import ecocreds from './ecocreds'
 import ecogen from './ecogen'
 import ecoterra from './ecoterra'
 import ecotoken from './ecotoken'
@@ -890,7 +889,6 @@ import empowa from './empowa'
 import empowerchain from './empowerchain'
 import empyreal from './empyreal'
 import encloud from './encloud'
-import endcoin from './endcoin'
 import endcorp from './endcorp'
 import energiedigital from './energiedigital'
 import energix from './energix'
@@ -900,6 +898,7 @@ import energy8 from './energy8'
 import energychain from './energychain'
 import energyglare from './energyglare'
 import enq from './enq'
+import enrgix from './enrgix'
 import enshrineComputing from './enshrine-computing'
 import entangle from './entangle'
 import entheos from './entheos'
@@ -961,10 +960,12 @@ import eywa from './eywa'
 import ezWifi from './ez-wifi'
 import ezkl from './ezkl'
 import facet from './facet'
+import factProtocol from './fact-protocol'
 import fact0rn from './fact0rn'
 import fairMath from './fair-math'
 import fairai from './fairai'
 import fairblock from './fairblock'
+import famProtocol from './fam-protocol'
 import fanc from './fanc'
 import fansland from './fansland'
 import fantomFoundation from './fantom-foundation'
@@ -1011,6 +1012,7 @@ import fliggs from './fliggs'
 import flixxo from './flixxo'
 import flock from './flock'
 import flockSafety from './flock-safety'
+import flops from './flops'
 import flostream from './flostream'
 import flow from './flow'
 import flow3 from './flow3'
@@ -1046,6 +1048,7 @@ import founderAi from './founder-ai'
 import foundry from './foundry'
 import fr0ntierx from './fr0ntierx'
 import fractionAi from './fraction-ai'
+import fractit from './fractit'
 import freatic from './freatic'
 import freename from './freename'
 import frenrug from './frenrug'
@@ -1100,7 +1103,6 @@ import gatorLabs from './gator-labs'
 import gbox from './gbox'
 import gcaller from './gcaller'
 import gear from './gear'
-import geckoFuzz from './gecko-fuzz'
 import geeq from './geeq'
 import gelato from './gelato'
 import geltonas from './geltonas'
@@ -1187,6 +1189,7 @@ import greeneum from './greeneum'
 import greenpower from './greenpower'
 import greensparc from './greensparc'
 import grid from './grid'
+import gridProtocol from './grid-protocol'
 import gridcoin from './gridcoin'
 import gridnet from './gridnet'
 import griffinai from './griffinai'
@@ -1304,7 +1307,6 @@ import iagon from './iagon'
 import iapro from './iapro'
 import icenet from './icenet'
 import ideaEngine from './idea-engine'
-import ideacorp from './ideacorp'
 import idos from './idos'
 import idriss from './idriss'
 import iexec from './iexec'
@@ -1324,7 +1326,6 @@ import incognito from './incognito'
 import indexNetwork from './index-network'
 import indexingCo from './indexing-co'
 import indicio from './indicio'
-import individuum from './individuum'
 import induced from './induced'
 import inery from './inery'
 import infera from './infera'
@@ -1467,6 +1468,7 @@ import kosen from './kosen'
 import krangAi from './krang-ai'
 import kresko from './kresko'
 import krest from './krest'
+import krnl from './krnl'
 import kroo from './kroo'
 import kryptos from './kryptos'
 import kryptview from './kryptview'
@@ -1523,7 +1525,6 @@ import libp2p from './libp2p'
 import life from './life'
 import lifeBomb from './life-bomb'
 import lifeNetwork from './life-network'
-import lifecall from './lifecall'
 import lifechain from './lifechain'
 import light from './light'
 import lighthouse from './lighthouse'
@@ -1577,7 +1578,6 @@ import lyzisLabs from './lyzis-labs'
 import mzero from './m^zero'
 import m3tering from './m3tering'
 import macha from './macha'
-import machinefi from './machinefi'
 import magicLabs from './magic-labs'
 import magicblock from './magicblock'
 import magie from './magie'
@@ -1587,7 +1587,6 @@ import magnetoHr from './magneto-hr'
 import mai3 from './mai3'
 import maidsafecoin from './maidsafecoin'
 import mailzero from './mailzero'
-import mammothai from './mammothai'
 import mamori from './mamori'
 import mandalaChain from './mandala-chain'
 import mande from './mande'
@@ -1626,7 +1625,7 @@ import medifakt from './medifakt'
 import meeds from './meeds'
 import meet48 from './meet48'
 import melosboom from './melosboom'
-import memTech from './mem-tech'
+import mem from './mem'
 import memetalk from './memetalk'
 import memolabs from './memolabs'
 import memusic from './memusic'
@@ -1635,6 +1634,7 @@ import mentatMinds from './mentat-minds'
 import menthol from './menthol'
 import meromai from './meromai'
 import meshbox from './meshbox'
+import meshchain from './meshchain'
 import meshmap from './meshmap'
 import meshmerize from './meshmerize'
 import meshtastic from './meshtastic'
@@ -1662,6 +1662,7 @@ import meterbox from './meterbox'
 import metformin from './metformin'
 import metis from './metis'
 import mevfree from './mevfree'
+import mewe from './mewe'
 import mey from './mey'
 import microai from './microai'
 import microvisionchain from './microvisionchain'
@@ -1768,7 +1769,6 @@ import navyai from './navyai'
 import ndLabs from './nd-labs'
 import near from './near'
 import nearAi from './near-ai'
-import nearHealth from './near-health'
 import nebula from './nebula'
 import nebulagrid from './nebulagrid'
 import nebulanet from './nebulanet'
@@ -1832,7 +1832,6 @@ import nitro from './nitro'
 import nitroLeague from './nitro-league'
 import nkn from './nkn'
 import nnn from './nnn'
-import noble from './noble'
 import nobleblocks from './nobleblocks'
 import node from './node'
 import nodesys from './node-sys'
@@ -1894,7 +1893,6 @@ import oasisAi from './oasis-ai'
 import oasisNetwork from './oasis-network'
 import oasisX from './oasis-x'
 import obi from './obi'
-import objects from './objects'
 import obligate from './obligate'
 import obol from './obol'
 import obortech from './obortech'
@@ -1918,6 +1916,7 @@ import olympiaAi from './olympia-ai'
 import olympus from './olympus'
 import omaipi from './omaipi'
 import omegaLabs from './omega-labs'
+import omg from './omg'
 import omnia from './omnia'
 import omniedge from './omniedge'
 import omnitensor from './omnitensor'
@@ -1927,6 +1926,7 @@ import onairos from './onairos'
 import onaji from './onaji'
 import onchaintoolkit from './onchaintoolkit'
 import onco from './onco'
+import ondemand from './ondemand'
 import oneGardenAi from './one-garden-ai'
 import oniProtocol from './oni-protocol'
 import onicai from './onicai'
@@ -2000,7 +2000,6 @@ import overtime from './overtime'
 import ovoo from './ovoo'
 import owl from './owl'
 import oxai from './oxai'
-import oxio from './oxio'
 import oxygenChain from './oxygen-chain'
 import oz from './oz'
 import ozakAi from './ozak-ai'
@@ -2059,6 +2058,7 @@ import phyken from './phyken'
 import pi from './pi'
 import piSquared from './pi-squared'
 import picante from './picante'
+import pickVibe from './pick-vibe'
 import pickspot from './pickspot'
 import picogrid from './picogrid'
 import pictor from './pictor'
@@ -2082,11 +2082,11 @@ import planck from './planck'
 import planetwatch from './planetwatch'
 import plastichero from './plastichero'
 import plastiksToken from './plastiks-token'
+import plater from './plater'
 import plato from './plato'
 import platon from './platon'
 import plats from './plats'
 import playai from './playai'
-import playart from './playart'
 import playback from './playback'
 import playfi from './playfi'
 import playmining from './playmining'
@@ -2150,8 +2150,6 @@ import privateai from './privateai'
 import privio from './privio'
 import prodia from './prodia'
 import prograd from './prograd'
-import projectAxs from './project-axs'
-import projectInternetCapacity from './project-internet-capacity'
 import projectZero from './project-zero'
 import prome from './prome'
 import proofOfPlay from './proof-of-play'
@@ -2205,6 +2203,7 @@ import quanmedAi from './quanmed-ai'
 import quant from './quant'
 import quantinum from './quantinum'
 import quantria from './quantria'
+import quantumAi from './quantum-ai'
 import quantumSphere from './quantum-sphere'
 import quantumevm from './quantumevm'
 import quasarch from './quasarch'
@@ -2320,7 +2319,6 @@ import roko from './roko'
 import rollbitCoin from './rollbit-coin'
 import rona from './rona'
 import rootProtocol from './root-protocol'
-import rootdata from './rootdata'
 import roseonapp from './roseonapp'
 import roso from './roso'
 import router from './router'
@@ -2330,7 +2328,6 @@ import rovr from './rovr'
 import rowanEnergy from './rowan-energy'
 import royal from './royal'
 import royale from './royale'
-import rpgdepin from './rpgdepin'
 import rpsAi from './rps-ai'
 import rrmGlobal from './rrm-global'
 import rss3 from './rss3'
@@ -2390,6 +2387,7 @@ import sealink from './sealink'
 import sebra from './sebra'
 import secondlive from './secondlive'
 import secret from './secret'
+import secure3 from './secure3'
 import securechainAi from './securechain-ai'
 import seda from './seda'
 import seedLabs from './seed-labs'
@@ -2544,7 +2542,6 @@ import sora from './sora'
 import sorellaLabs from './sorella-labs'
 import sorra from './sorra'
 import soul from './soul'
-import soulai from './soulai'
 import soulprime from './soulprime'
 import soulverse from './soulverse'
 import souq from './souq'
@@ -2572,8 +2569,8 @@ import splits from './splits'
 import sponstar from './sponstar'
 import sportstensor from './sportstensor'
 import spreads from './spreads'
+import sqd from './sqd'
 import sqeio from './sqe-io'
-import srpCoin from './srp-coin'
 import stackos from './stackos'
 import stackr from './stackr'
 import stacks from './stacks'
@@ -2613,7 +2610,6 @@ import stuff from './stuff'
 import suanbot from './suanbot'
 import subconscious from './subconscious'
 import subquery from './subquery'
-import subsquid from './subsquid'
 import substratum from './substratum'
 import succinct from './succinct'
 import sudoswap from './sudoswap'
@@ -2680,6 +2676,7 @@ import tanssi from './tanssi'
 import taoBlack from './tao-black'
 import taoStudio from './tao-studio'
 import taobetsai from './taobets-ai'
+import taobot from './taobot'
 import taolie from './taolie'
 import taoshi from './taoshi'
 import tape from './tape'
@@ -2694,12 +2691,12 @@ import taxa from './taxa'
 import tazz from './tazz'
 import tdrive from './tdrive'
 import teaProject from './tea-project'
-import teablocks from './teablocks'
 import techticsEngineering from './techtics-engineering'
 import tectum from './tectum'
 import teezovpn from './teezovpn'
 import tekkon from './tekkon'
 import teleport from './teleport'
+import tellywelly from './tellywelly'
 import telnyx from './telnyx'
 import telos from './telos'
 import telraam from './telraam'
@@ -2869,9 +2866,9 @@ import vega from './vega'
 import veme from './veme'
 import venice from './venice'
 import venn from './venn'
+import venturemind from './venturemind'
 import verasity from './verasity'
 import verdeBlocks from './verde-blocks'
-import vericar from './vericar'
 import verida from './verida'
 import verify from './verify'
 import verisoul from './verisoul'
@@ -2970,6 +2967,7 @@ import worldComputeNetwork from './world-compute-network'
 import worldMobile from './world-mobile'
 import worldbrain from './worldbrain'
 import worldcoin from './worldcoin'
+import wowdao from './wowdao'
 import wsbShills from './wsb-shills'
 import wysdom from './wysdom'
 import xaNetServices from './xa-net-services'
@@ -3048,7 +3046,6 @@ import zoth from './zoth'
 import ztm from './ztm'
 import zukiverse from './zukiverse'
 import zulu from './zulu'
-import zuraCould from './zura-could'
 import zus from './zus'
 import zwapx from './zwapx'
 import zyber365 from './zyber-365'
@@ -3235,6 +3232,7 @@ export const projects = {
   arkeo,
   arkham,
   arkreen,
+  arlink,
   armur,
   arpa,
   artifact,
@@ -3271,6 +3269,7 @@ export const projects = {
   aurasci,
   aurivis,
   aurora,
+  auroryAi,
   autify,
   autochain,
   autogpt,
@@ -3417,6 +3416,7 @@ export const projects = {
   bluwhale,
   bluzelle,
   bnbGreenfield,
+  bndr,
   boincAi,
   boltzmann,
   bondex,
@@ -3435,7 +3435,6 @@ export const projects = {
   boujee,
   bovaAi,
   brainaliveAi,
-  brainchain,
   brainedge,
   brainstem,
   brainstems,
@@ -3468,7 +3467,6 @@ export const projects = {
   bwareLabs,
   bythen,
   c4e,
-  cactusxr,
   cadTrust,
   cadaico,
   caduceus,
@@ -3493,7 +3491,6 @@ export const projects = {
   carbonarai,
   carbonhood,
   carbonlarity,
-  carnation,
   carnomaly,
   cartesi,
   carv,
@@ -3536,6 +3533,7 @@ export const projects = {
   charge,
   chargepal,
   chasm,
+  chatxbt,
   checkdot,
   cheelee,
   cheersland,
@@ -3684,6 +3682,7 @@ export const projects = {
   daAge,
   daeta,
   dafi,
+  daign,
   daiksp,
   dain,
   daisy,
@@ -3705,6 +3704,7 @@ export const projects = {
   datalatte,
   datalayer,
   dataos,
+  datapond,
   dataverseos,
   dats,
   datum,
@@ -3746,7 +3746,6 @@ export const projects = {
   deek,
   deepGreen,
   deep3,
-  deepai,
   deepbrain,
   deeper,
   deepfakeai,
@@ -3773,12 +3772,12 @@ export const projects = {
   denube,
   dep,
   dephy,
-  depi,
   depinAssociation,
   depinDao,
   depinStack,
   depindables,
   depined,
+  depinify,
   depins,
   depinsim,
   depintech,
@@ -3811,7 +3810,6 @@ export const projects = {
   digileaf,
   digitalGaia,
   digitalabs,
-  dill,
   dimai,
   dimitra,
   dimo,
@@ -3829,7 +3827,6 @@ export const projects = {
   dixacare,
   dkargo,
   dlife,
-  dlp,
   dlpLabs,
   dlteo,
   dmail,
@@ -3854,7 +3851,6 @@ export const projects = {
   dotlocker,
   dotmoovs,
   dotoracle,
-  doubleProtocol,
   doug,
   dovu,
   dping,
@@ -3895,7 +3891,6 @@ export const projects = {
   earth3,
   earthbyt,
   earthfast,
-  easearn,
   easeflow,
   easierdata,
   eastore,
@@ -3910,6 +3905,7 @@ export const projects = {
   eclipsenetAi,
   ecoblocks,
   ecobytes,
+  ecocreds,
   ecogen,
   ecoterra,
   ecotoken,
@@ -3946,7 +3942,6 @@ export const projects = {
   empowerchain,
   empyreal,
   encloud,
-  endcoin,
   endcorp,
   energiedigital,
   energix,
@@ -3956,6 +3951,7 @@ export const projects = {
   energychain,
   energyglare,
   enq,
+  enrgix,
   enshrineComputing,
   entangle,
   entheos,
@@ -4017,10 +4013,12 @@ export const projects = {
   ezWifi,
   ezkl,
   facet,
+  factProtocol,
   fact0rn,
   fairMath,
   fairai,
   fairblock,
+  famProtocol,
   fanc,
   fansland,
   fantomFoundation,
@@ -4067,6 +4065,7 @@ export const projects = {
   flixxo,
   flock,
   flockSafety,
+  flops,
   flostream,
   flow,
   flow3,
@@ -4102,6 +4101,7 @@ export const projects = {
   foundry,
   fr0ntierx,
   fractionAi,
+  fractit,
   freatic,
   freename,
   frenrug,
@@ -4156,7 +4156,6 @@ export const projects = {
   gbox,
   gcaller,
   gear,
-  geckoFuzz,
   geeq,
   gelato,
   geltonas,
@@ -4243,6 +4242,7 @@ export const projects = {
   greenpower,
   greensparc,
   grid,
+  gridProtocol,
   gridcoin,
   gridnet,
   griffinai,
@@ -4360,7 +4360,6 @@ export const projects = {
   iapro,
   icenet,
   ideaEngine,
-  ideacorp,
   idos,
   idriss,
   iexec,
@@ -4380,7 +4379,6 @@ export const projects = {
   indexNetwork,
   indexingCo,
   indicio,
-  individuum,
   induced,
   inery,
   infera,
@@ -4523,6 +4521,7 @@ export const projects = {
   krangAi,
   kresko,
   krest,
+  krnl,
   kroo,
   kryptos,
   kryptview,
@@ -4579,7 +4578,6 @@ export const projects = {
   life,
   lifeBomb,
   lifeNetwork,
-  lifecall,
   lifechain,
   light,
   lighthouse,
@@ -4633,7 +4631,6 @@ export const projects = {
   mzero,
   m3tering,
   macha,
-  machinefi,
   magicLabs,
   magicblock,
   magie,
@@ -4643,7 +4640,6 @@ export const projects = {
   mai3,
   maidsafecoin,
   mailzero,
-  mammothai,
   mamori,
   mandalaChain,
   mande,
@@ -4682,7 +4678,7 @@ export const projects = {
   meeds,
   meet48,
   melosboom,
-  memTech,
+  mem,
   memetalk,
   memolabs,
   memusic,
@@ -4691,6 +4687,7 @@ export const projects = {
   menthol,
   meromai,
   meshbox,
+  meshchain,
   meshmap,
   meshmerize,
   meshtastic,
@@ -4718,6 +4715,7 @@ export const projects = {
   metformin,
   metis,
   mevfree,
+  mewe,
   mey,
   microai,
   microvisionchain,
@@ -4824,7 +4822,6 @@ export const projects = {
   ndLabs,
   near,
   nearAi,
-  nearHealth,
   nebula,
   nebulagrid,
   nebulanet,
@@ -4888,7 +4885,6 @@ export const projects = {
   nitroLeague,
   nkn,
   nnn,
-  noble,
   nobleblocks,
   node,
   nodesys,
@@ -4950,7 +4946,6 @@ export const projects = {
   oasisNetwork,
   oasisX,
   obi,
-  objects,
   obligate,
   obol,
   obortech,
@@ -4974,6 +4969,7 @@ export const projects = {
   olympus,
   omaipi,
   omegaLabs,
+  omg,
   omnia,
   omniedge,
   omnitensor,
@@ -4983,6 +4979,7 @@ export const projects = {
   onaji,
   onchaintoolkit,
   onco,
+  ondemand,
   oneGardenAi,
   oniProtocol,
   onicai,
@@ -5056,7 +5053,6 @@ export const projects = {
   ovoo,
   owl,
   oxai,
-  oxio,
   oxygenChain,
   oz,
   ozakAi,
@@ -5115,6 +5111,7 @@ export const projects = {
   pi,
   piSquared,
   picante,
+  pickVibe,
   pickspot,
   picogrid,
   pictor,
@@ -5138,11 +5135,11 @@ export const projects = {
   planetwatch,
   plastichero,
   plastiksToken,
+  plater,
   plato,
   platon,
   plats,
   playai,
-  playart,
   playback,
   playfi,
   playmining,
@@ -5206,8 +5203,6 @@ export const projects = {
   privio,
   prodia,
   prograd,
-  projectAxs,
-  projectInternetCapacity,
   projectZero,
   prome,
   proofOfPlay,
@@ -5261,6 +5256,7 @@ export const projects = {
   quant,
   quantinum,
   quantria,
+  quantumAi,
   quantumSphere,
   quantumevm,
   quasarch,
@@ -5376,7 +5372,6 @@ export const projects = {
   rollbitCoin,
   rona,
   rootProtocol,
-  rootdata,
   roseonapp,
   roso,
   router,
@@ -5386,7 +5381,6 @@ export const projects = {
   rowanEnergy,
   royal,
   royale,
-  rpgdepin,
   rpsAi,
   rrmGlobal,
   rss3,
@@ -5446,6 +5440,7 @@ export const projects = {
   sebra,
   secondlive,
   secret,
+  secure3,
   securechainAi,
   seda,
   seedLabs,
@@ -5600,7 +5595,6 @@ export const projects = {
   sorellaLabs,
   sorra,
   soul,
-  soulai,
   soulprime,
   soulverse,
   souq,
@@ -5628,8 +5622,8 @@ export const projects = {
   sponstar,
   sportstensor,
   spreads,
+  sqd,
   sqeio,
-  srpCoin,
   stackos,
   stackr,
   stacks,
@@ -5669,7 +5663,6 @@ export const projects = {
   suanbot,
   subconscious,
   subquery,
-  subsquid,
   substratum,
   succinct,
   sudoswap,
@@ -5736,6 +5729,7 @@ export const projects = {
   taoBlack,
   taoStudio,
   taobetsai,
+  taobot,
   taolie,
   taoshi,
   tape,
@@ -5750,12 +5744,12 @@ export const projects = {
   tazz,
   tdrive,
   teaProject,
-  teablocks,
   techticsEngineering,
   tectum,
   teezovpn,
   tekkon,
   teleport,
+  tellywelly,
   telnyx,
   telos,
   telraam,
@@ -5925,9 +5919,9 @@ export const projects = {
   veme,
   venice,
   venn,
+  venturemind,
   verasity,
   verdeBlocks,
-  vericar,
   verida,
   verify,
   verisoul,
@@ -6026,6 +6020,7 @@ export const projects = {
   worldMobile,
   worldbrain,
   worldcoin,
+  wowdao,
   wsbShills,
   wysdom,
   xaNetServices,
@@ -6104,7 +6099,6 @@ export const projects = {
   ztm,
   zukiverse,
   zulu,
-  zuraCould,
   zus,
   zwapx,
   zyber365,

@@ -2651,7 +2651,7 @@ import streamr from './streamr'
 import struck from './struck'
 import sublime from './sublime'
 import subo from './subo'
-import subsquid from './subsquid'
+import sqd from './sqd'
 import suiFoundation from './sui-foundation'
 import sujeetKumar from './sujeet-kumar'
 import sujiYan from './suji-yan'
@@ -5716,7 +5716,7 @@ export const investors = {
   struck,
   sublime,
   subo,
-  subsquid,
+  sqd,
   suiFoundation,
   sujeetKumar,
   sujiYan,
