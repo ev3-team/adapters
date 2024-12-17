@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Seismic',
   ninja: '0x4003408058d490FCD0A8b76925a412E6F39bc939',
-  subcategories: null,
+  subcategories: 'TEE',
   chain: null,
   category: 'PENDING',
   token: null,

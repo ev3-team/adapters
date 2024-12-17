@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'MeMeTalk',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
-  chain: null,
-  category: 'PENDING',
+  subcategories: 'Messaging',
+  chain: 'SOLANA',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: '09v332',
-  description: '',
+  description:
+    'MeMeTalk is a Web3 walkie-talkie built on Solana, enabling decentralized and encrypted communication with future smart contract integration.',
   discord: null,
   investors: [],
   linkedin: null,

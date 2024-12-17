@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Zo',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Agents',
   chain: null,
-  category: 'PENDING',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: 'tticpq',
   description:
-    'Zo.me is a Web3 messaging platform that integrates AI for secure, decentralized communication.',
+    'Zo is an operating system for human-to-AI coordination, enabling users to chat, create, and collaborate with friends and AI through customizable agents, social features, and Web3 integrations.',
   discord: null,
   investors: [],
   linkedin: null,

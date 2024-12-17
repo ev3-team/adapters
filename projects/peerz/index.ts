@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Peerz',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Inference',
   chain: null,
-  category: 'PENDING',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: '4tfb4m',
-  description: '',
+  description:
+    'Peerz is a decentralized peer-to-peer network that enables permissionless AI inference and fine-tuning of large language models by distributing infrastructure across existing GPUs, making AI cheaper, efficient, and accessible to all.',
   discord: null,
   investors: [],
   linkedin: null,

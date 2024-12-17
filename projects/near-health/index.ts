@@ -1,14 +1,14 @@
 import { AdapterProject } from '../types'
 
 export default {
-  name: 'sidequest.xyz',
+  name: 'NEAR Health',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
   subcategories: null,
-  chain: null,
+  chain: 'NEAR',
   category: 'PENDING',
   token: null,
   coinGeckoID: null,
-  id: 'vvp3t7',
+  id: 'xmvwz4',
   description: '',
   discord: null,
   investors: [],
@@ -18,8 +18,8 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://x.com/sidequest',
-  url: 'https://www.sidequest.xyz/',
+  twitter: 'https://x.com/nearhealth_',
+  url: null,
   verified: false,
   fundraises: [],
   isApp: true,

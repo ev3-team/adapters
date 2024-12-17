@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'TACEO',
   ninja: null,
-  subcategories: null,
+  subcategories: 'ZK',
   chain: null,
-  category: 'PENDING',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: '7c6zgs',
-  description: '',
+  description:
+    'TACEO builds tooling and execution environments for multiparty computation (MPC) and collaborative zkSNARKs, enabling secure, private, and verifiable computation on encrypted data.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Credia',
   ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
-  subcategories: null,
+  subcategories: 'Credit',
   chain: null,
-  category: 'PENDING',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'kjwhez',
-  description: '',
+  description:
+    'Credia Layer is a blockchain-powered platform combining DePIN and AI technologies to create a Web3 credit scoring ecosystem, incentivizing users with rewards for contributing network resources and completing tasks.',
   discord: null,
   investors: [],
   linkedin: null,

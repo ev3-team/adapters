@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Craftt',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Labor',
   chain: null,
-  category: 'PENDING',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: '0y36iy',
-  description: '',
+  description:
+    'Craftt is a decentralized infrastructure platform designed to deliver universal benefits, streamline global payments, and provide verifiable credentials to empower the modern workforce with financial confidence and flexibility.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'idOS',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'Identity',
   chain: null,
-  category: 'PENDING',
-  token: null,
+  category: 'HUMAN_CAPITAL',
+  token: 'IDOS',
   coinGeckoID: null,
   id: 'oe1vcp',
-  description: '',
+  description:
+    'idOS is the decentralized identity layer of Web3, enabling users to securely store, manage, and share their data with full self-sovereignty across blockchain ecosystems.',
   discord: null,
   investors: [],
   linkedin: null,

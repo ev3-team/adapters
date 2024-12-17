@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Alpha',
   ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
-  subcategories: null,
+  subcategories: 'Data',
   chain: null,
-  category: 'PENDING',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: 'w39fsd',
-  description: '',
+  description:
+    'Alpha Network is a decentralized AI data execution layer for Web3, leveraging blockchain to advance secure, transparent, and innovative AI development.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'DA AGE',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'Advertising',
   chain: null,
-  category: 'PENDING',
+  category: 'RWA',
   token: null,
   coinGeckoID: null,
   id: 'sz3x59',
-  description: '',
+  description:
+    'DA AGE leverages blockchain technology to transform physical digital billboards into (RWAs, enabling decentralized ownership and revenue sharing through advertising time and e-commerce integrations.',
   discord: null,
   investors: [],
   linkedin: null,

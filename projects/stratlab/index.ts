@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'ytahiz',
-  description: '',
+  description:
+    'Stratlab develops adaptive and accessible financial AI infrastructure, leveraging crowdsourcing, gamification, and curation to drive breakthroughs in the financial AI field.',
   discord: null,
   investors: [],
   linkedin: null,

@@ -3,14 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'G.AI.B',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'GPUs',
   chain: null,
-  category: 'PENDING',
+  category: 'COMPUTE',
   token: null,
   coinGeckoID: null,
   id: '7q72zb',
   description:
-    'G.AI.B is an economic layer(financialization and liquidity) for AI and compute, enabling DePINfi, GPUStablecoin, and more.',
+    'GAIB is an economic layer for AI compute, tokenizing enterprise-grade GPUs and their yields to create a decentralized, liquid market for high-performance computing and enabling innovative DeFi use cases.',
   discord: null,
   investors: [],
   linkedin: null,

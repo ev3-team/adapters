@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Innerworks',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Security',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'vlaop3',
-  description: '',
+  description:
+    'Innerworks provides seamless behavioral biometrics technology for advanced bot detection and user authentication, ensuring fraud resistance while delivering insights through customizable data formats and dashboards.',
   discord: null,
   investors: [],
   linkedin: null,

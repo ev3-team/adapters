@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'QStarLabs',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Agents',
   chain: null,
-  category: 'PENDING',
-  token: null,
+  category: 'INTELLECTUAL_PROPERTY',
+  token: 'AIKO',
   coinGeckoID: null,
   id: 'jfkdvd',
-  description: '',
+  description:
+    'QStarLabs is an AI application company enabling users to create, train, and grow personalized AI influencers and agents in Web3, connecting communities through autonomous content creation and engagement.',
   discord: null,
   investors: [],
   linkedin: null,

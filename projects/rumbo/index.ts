@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Rumbo',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Ridesharing',
   chain: null,
-  category: 'PENDING',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: 'rdjrke',
-  description: '',
+  description:
+    'Rumbo is a transportation platform revolutionizing travel in Latin America by offering reliable, driver-priced rides with multiple vehicle options, all enhanced by live-monitored safety and flexible payment methods.',
   discord: null,
   investors: [],
   linkedin: null,

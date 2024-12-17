@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'HENRY',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'DeFi',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: 'cgv0cg',
-  description: '',
+  description:
+    'Henry is a crypto-powered cashback platform that enables users to earn rewards on their purchases in stablecoins, while compounding their earnings through risk-minimized DeFi yield protocols.',
   discord: null,
   investors: [],
   linkedin: null,

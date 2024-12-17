@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'EarnOS',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Advertising',
   chain: null,
-  category: 'PENDING',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: '0wg7ky',
-  description: '',
+  description:
+    'EarnOS is a privacy-first engagement platform leveraging zkTLS technology to reward users for verified actions while enabling brands to connect meaningfully with high-value customers.',
   discord: null,
   investors: [],
   linkedin: null,
