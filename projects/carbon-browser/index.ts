@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Carbon browser',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'Browser',
   chain: 'BINANCE',
   category: 'NOT_DEPIN',
   token: 'CSIX',

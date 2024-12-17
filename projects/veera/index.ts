@@ -3,7 +3,7 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Veera',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Browser',
   chain: null,
   category: 'NOT_DEPIN',
   token: null,
