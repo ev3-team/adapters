@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Grappa',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Labor',
   chain: null,
-  category: 'PENDING',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: '2rngz7',
-  description: '',
+  description:
+    'Grappa is building a global trust graph to map and verify professional reputations, connecting companies and entrepreneurs with peer-vetted talent in a trusted, invite-only network.',
   discord: null,
   investors: [],
   linkedin: null,

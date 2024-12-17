@@ -9,7 +9,8 @@ export default {
   token: null,
   coinGeckoID: null,
   id: 'jzq912',
-  description: '',
+  description:
+    'Eternis is creating trust infrastructure for an AI-enabled future, combining cryptographic tools and AI to power secure and reliable services.',
   discord: null,
   investors: [],
   linkedin: null,

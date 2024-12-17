@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'RUNodE',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'L1/L2',
   chain: null,
-  category: 'PENDING',
+  category: 'NOT_DEPIN',
   token: null,
   coinGeckoID: null,
   id: '8c3y8v',
-  description: '',
+  description:
+    "RUNodE is a pioneering Layer 2 platform integrating Runes Protocol, decentralized nodes, and DePIN to enhance Bitcoin's scalability, efficiency, and interoperability for mass adoption in Web3 and AI.",
   discord: null,
   investors: [],
   linkedin: null,

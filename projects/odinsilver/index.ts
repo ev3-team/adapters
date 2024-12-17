@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: null,
+  twitter: 'https://x.com/OdinSilver0',
   url: 'https://www.odinsilver.com/',
   verified: false,
   fundraises: [],

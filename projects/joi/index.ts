@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'joi',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'DeFi',
   chain: null,
-  category: 'PENDING',
-  token: null,
+  category: 'NOT_DEPIN',
+  token: 'JOI',
   coinGeckoID: null,
   id: '05c589',
-  description: '',
+  description:
+    'joi is an artificial intelligence finance application (AiFi) that creates a globally connected financial ecosystem by integrating blockchain technologies, crypto payment rails, and AI to deliver secure, efficient, and intelligent financial services.',
   discord: null,
   investors: [],
   linkedin: null,

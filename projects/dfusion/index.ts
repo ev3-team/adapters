@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'dFusion',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Data',
   chain: null,
-  category: 'PENDING',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: '5kv026',
-  description: '',
+  description:
+    'dFusion Protocol is a decentralized AI-powered knowledge network that validates, secures, and rewards community-contributed data to build a transparent, bias-free, and open knowledge graph for global use.',
   discord: null,
   investors: [],
   linkedin: null,

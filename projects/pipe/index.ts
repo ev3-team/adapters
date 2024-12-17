@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pipe',
   ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
-  subcategories: null,
-  chain: null,
-  category: 'PENDING',
+  subcategories: 'CDN',
+  chain: 'SOLANA',
+  category: 'WIRELESS',
   token: null,
   coinGeckoID: null,
   id: '31oiwc',
-  description: '',
+  description:
+    'Pipe Network is a decentralized Content Delivery Network CDN built on Solana, enabling ultra-low latency, scalable, and secure content streaming through a permissionless network of contributors.',
   discord: null,
   investors: [],
   linkedin: null,

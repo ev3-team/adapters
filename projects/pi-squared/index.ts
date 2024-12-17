@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pi Squared',
   ninja: '0x7Ef3169903033C30FF3Da674BD793B236F21B026',
-  subcategories: null,
+  subcategories: 'ZK',
   chain: null,
-  category: 'PENDING',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'emx2rm',
-  description: '',
+  description:
+    'Pi Squared enables trustless, universal computing and blockchain interoperability through compact zero-knowledge proof technology, providing a universal settlement layer for Web3 without requiring language or VM translation.',
   discord: null,
   investors: [],
   linkedin: 'https://www.linkedin.com/company/pi-squared-inc/',

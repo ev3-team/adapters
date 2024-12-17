@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Pickspot',
   ninja: '0x9Ab59cB71d4657f4c2DB7E0963212A81b6445b4c',
-  subcategories: null,
-  chain: null,
-  category: 'PENDING',
+  subcategories: 'Logistics',
+  chain: 'PEAQ',
+  category: 'MOBILITY',
   token: null,
   coinGeckoID: null,
   id: '9mrlrq',
-  description: '',
+  description:
+    'Pickspot is a decentralized open parcel locker network transforming last-mile delivery in Africa by providing secure, accessible, and people-owned smart locker solutions.',
   discord: null,
   investors: [],
   linkedin: null,

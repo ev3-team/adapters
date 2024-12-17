@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Modelex',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Inference',
   chain: null,
-  category: 'PENDING',
-  token: null,
+  category: 'AI',
+  token: 'AI',
   coinGeckoID: null,
   id: 'vvkhnp',
-  description: '',
+  description:
+    'Modelex AI empowers enterprises to train, verify, monetize, and orchestrate AI models securely and collaboratively through a decentralized, ad hoc infrastructure designed for rapid innovation and scalability.',
   discord: null,
   investors: [],
   linkedin: null,

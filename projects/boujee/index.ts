@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Boujee',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'E-commerce',
   chain: null,
-  category: 'PENDING',
+  category: 'HUMAN_CAPITAL',
   token: null,
   coinGeckoID: null,
   id: 'lgkadz',
-  description: '',
+  description:
+    'Boujee is a mobile-first e-commerce platform that leverages decentralized technology to align incentives between brands and customers, creating a better shopping experience.',
   discord: null,
   investors: [],
   linkedin: null,

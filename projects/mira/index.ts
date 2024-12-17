@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Mira',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Inference',
   chain: null,
-  category: 'PENDING',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: 'bod0af',
-  description: '',
+  description:
+    'Mira is a decentralized network that ensures trustless, verified AI outputs and actions by leveraging collective intelligence and token rewards to enable fully autonomous systems.',
   discord: null,
   investors: [],
   linkedin: null,

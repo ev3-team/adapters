@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Opacity Network',
   ninja: null,
-  subcategories: null,
+  subcategories: 'ZK',
   chain: null,
-  category: 'PENDING',
+  category: 'BLOCKCHAIN_INFRA',
   token: null,
   coinGeckoID: null,
   id: 'b7vyhm',
-  description: '',
+  description:
+    "Opacity Network is a verified data network that uses zkTLS, MPC, and EigenLayer's economic security to empower users to privately verify, collect, and exchange data across web2 and web3.",
   discord: null,
   investors: [],
   linkedin: null,

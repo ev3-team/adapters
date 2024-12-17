@@ -18,7 +18,7 @@ export default {
   blog: null,
   github: null,
   telegram: null,
-  twitter: 'https://x.com/themiraiapp',
+  twitter: 'https://x.com/MiraiApp',
   url: null,
   verified: false,
   fundraises: [],

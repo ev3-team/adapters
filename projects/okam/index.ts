@@ -19,7 +19,7 @@ export default {
   github: null,
   telegram: null,
   twitter: 'https://twitter.com/okam_ai',
-  url: null,
+  url: 'https://www.okam.ai/',
   verified: false,
   fundraises: [],
   isApp: true,

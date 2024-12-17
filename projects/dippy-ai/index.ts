@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'Dippy AI',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
-  chain: null,
-  category: 'PENDING',
+  subcategories: 'Inference',
+  chain: 'BITTENSOR',
+  category: 'AI',
   token: null,
   coinGeckoID: null,
   id: '2o0fk5',
-  description: '',
+  description:
+    'Dippy AI is a Bittensor subnet that fosters the development of open-source roleplay LLMs, enabling contributors to train, fine-tune, and merge models while addressing loneliness through empathetic and engaging AI companions.',
   discord: null,
   investors: [],
   linkedin: null,

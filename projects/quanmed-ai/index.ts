@@ -3,13 +3,14 @@ import { AdapterProject } from '../types'
 export default {
   name: 'QuanMed AI',
   ninja: '0x49eb81cc817cD5a1E8Df590F43D5A0A0F432251A',
-  subcategories: null,
+  subcategories: 'Health',
   chain: null,
-  category: 'PENDING',
-  token: null,
+  category: 'SCIENCE',
+  token: 'QMD',
   coinGeckoID: null,
   id: 'ohr7ej',
-  description: '',
+  description:
+    'QuanMed AI decentralizes medical research by leveraging blockchain for anonymous medical data storage and quantum-powered AI to create genome-based digital human models for diagnosis, testing, and precision medicine.',
   discord: null,
   investors: [],
   linkedin: null,

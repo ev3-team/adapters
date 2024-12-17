@@ -1769,6 +1769,7 @@ import navyai from './navyai'
 import ndLabs from './nd-labs'
 import near from './near'
 import nearAi from './near-ai'
+import nearHealth from './near-health'
 import nebula from './nebula'
 import nebulagrid from './nebulagrid'
 import nebulanet from './nebulanet'
@@ -4822,6 +4823,7 @@ export const projects = {
   ndLabs,
   near,
   nearAi,
+  nearHealth,
   nebula,
   nebulagrid,
   nebulanet,
