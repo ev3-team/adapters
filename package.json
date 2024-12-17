@@ -24,6 +24,8 @@
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
     "@types/node": "^20.7.1",
+    "csv-parse": "^5.6.0",
+    "csv-stringify": "^6.5.2",
     "dotenv": "^16.3.1",
     "fast-csv": "^4.3.6",
     "nanoid": "^5.0.1",
