@@ -105,6 +105,7 @@ export type AdaptersProjectCsvRow = {
   github?: string
   linkedin?: string
   verified?: string
+  isActive?: string
   isApp?: string
 }
 
@@ -117,8 +118,8 @@ export const generateProjectsCsvRow = (p: AdaptersProjectCsvRow) =>
   },${p.subcategories ?? ''},${p.ninja ?? ''},${p.foundingYear ?? ''},${p.twitter ?? ''},${
     p.discord ?? ''
   },${p.telegram ?? ''},${p.blog ?? ''},${p.github ?? ''},${p.linkedin ?? ''},${p.verified ?? ''},${
-    p.isApp ?? ''
-  }`
+    p.isActive ?? ''
+  },${p.isApp ?? ''}`
 
 export type AdapterProjectDuneCsvRow = {
   name: string

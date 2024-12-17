@@ -4,8 +4,8 @@ import * as csv from 'fast-csv'
 import fs, { createReadStream, createWriteStream, renameSync, unlinkSync } from 'node:fs'
 import path from 'node:path'
 import { Transform } from 'stream'
-import { AdaptersProjectCsvRow } from '../dist'
-import { generateProjectsCsvRow } from '../helpers'
+import { AdaptersProjectCsvRow, generateProjectsCsvRow } from '../helpers'
+import { Promise as Bluebird } from 'bluebird'
 
 type ExtendedAdaptersProjectCsvRow = AdaptersProjectCsvRow & {
   lineNumber: number
@@ -101,8 +101,10 @@ function getExitingProjects(): Promise<Map<string, ExtendedAdaptersProjectCsvRow
  */
 async function transferProjects() {
   const existingProjects = await getExitingProjects()
+  const newProjects: AdaptersProjectCsvRow[] = []
+  const updatedProjects: ExtendedAdaptersProjectCsvRow[] = []
 
-  return new Promise((resolve) => {
+  new Promise(() => {
     createReadStream(path.resolve(__dirname, 'data/tmp/pending_updates.csv'))
       .pipe(csv.parse({ headers: true }))
       .on('error', (error) => console.error(error))
@@ -110,32 +112,70 @@ async function transferProjects() {
         const existingProject = existingProjects.get(row.id) ?? existingProjects.get(row.name)
 
         if (existingProject) {
-          // Update the project in the DePIN-Projects.csv
-          console.log(`Updating project ${row.name} (id: ${row.id})`)
-
-          try {
-            await editCsvLine(
-              path.resolve(__dirname, 'data/DePIN-Projects.csv'),
-              existingProject.lineNumber,
-              (line) => {
-                Object.assign(line, row)
-                return line
-              }
-            )
-            console.log(`Updated project ${row.name} successfully`)
-          } catch (error) {
-            console.error('Error updating CSV:', error)
-          }
+          updatedProjects.push({ ...existingProject, ...row })
         } else {
-          // Add the project to the DePIN-Projects.csv
-          console.log(`Adding project ${row.name} to DePIN-Projects.csv`)
-          fs.appendFileSync(
-            path.resolve(__dirname, 'data/DePIN-Projects.csv'),
-            `\n${generateProjectsCsvRow(row)}`
-          )
+          newProjects.push(row)
         }
       })
-      .on('end', () => resolve('OK'))
+      .on('end', async () => {
+        console.log(`Adding ${newProjects.length} new projects`)
+        newProjects.forEach((project) => {
+          // Add the project to the DePIN-Projects.csv
+          try {
+            fs.appendFileSync(
+              path.resolve(__dirname, 'data/DePIN-Projects.csv'),
+              `\n${generateProjectsCsvRow(project)}`
+            )
+            console.log(`Added project ${project.name} successfully`)
+          } catch (error) {
+            console.error('Error adding new project to CSV:', error)
+          }
+        })
+
+        console.log(`Updating ${updatedProjects.length} projects`)
+        await Bluebird.map(
+          updatedProjects,
+          async (project) => {
+            // Update the project in the DePIN-Projects.csv
+            try {
+              await editCsvLine(
+                path.resolve(__dirname, 'data/DePIN-Projects.csv'),
+                project.lineNumber,
+                (line: AdaptersProjectCsvRow) => {
+                  line.name = project.name
+                  line.url = project.url
+                  line.category = project.category
+                  line.chain = project.chain
+                  line.token = project.token
+                  line.coinGeckoID = project.coinGeckoID
+                  line.description = project.description
+                  line.subcategories = project.subcategories
+                  line.ninja = project.ninja
+                  line.foundingYear = project.foundingYear
+                  line.twitter = project.twitter
+                  line.discord = project.discord
+                  line.telegram = project.telegram
+                  line.blog = project.blog
+                  line.github = project.github
+                  line.linkedin = project.linkedin
+                  line.verified = project.verified
+                  line.isActive = project.isActive
+                  line.isApp = project.isApp
+                  return line
+                }
+              )
+              console.log(`Updated project ${project.name} successfully`)
+            } catch (error) {
+              console.error('Error updating CSV:', error)
+            }
+          },
+          { concurrency: 1 }
+        )
+      })
+      .on('error', (error) => {
+        console.log('Error reading CSV file')
+        console.error(error)
+      })
   })
 }
 
