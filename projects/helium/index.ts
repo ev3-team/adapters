@@ -77,10 +77,10 @@ export default {
     NODE_NUMBER: '3476664',
   },
   foundingYear: null,
-  blog: 'https://heliuminc.medium.com/',
+  blog: 'https://blog.helium.com/',
   github: 'https://github.com/helium',
-  telegram: 'https://telegram.me/s/HELIUM',
-  twitter: 'http://twitter.com/helium',
+  telegram: null,
+  twitter: 'https://x.com/helium',
   url: 'https://www.helium.com/',
   verified: false,
   fundraises: [
