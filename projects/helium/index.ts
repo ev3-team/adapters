@@ -69,8 +69,8 @@ export default {
   linkedin: 'http://www.linkedin.com/company/heliumnetwork',
   duneQueries: {
     MINT: '2573591',
-    REVENUE: '2944853',
-    NET_REVENUE: '3410571',
+    REVENUE: '3410571',
+    NET_REVENUE: '4628381',
     SUPPLY: '3043582',
     TIME_SERIES: '2944860',
     KEY_METRIC: '3223298',
