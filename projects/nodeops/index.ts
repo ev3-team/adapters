@@ -25,7 +25,9 @@ export default {
     'km32gq',
   ],
   linkedin: null,
-  duneQueries: null,
+  duneQueries: {
+    REVENUE: '4645118',
+  },
   foundingYear: null,
   blog: null,
   github: null,
