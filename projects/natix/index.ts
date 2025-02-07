@@ -41,7 +41,9 @@ export default {
     '5jng4b',
   ],
   linkedin: 'https://www.linkedin.com/company/natixio',
-  duneQueries: null,
+  duneQueries: {
+    BURN: '4678983',
+  },
   foundingYear: null,
   blog: 'https://medium.com/natix-io',
   github: 'https://github.com/natix-io',
