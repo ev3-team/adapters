@@ -9,8 +9,7 @@ export default {
   token: null,
   coinGeckoID: null,
   id: '7qgg1c',
-  description:
-    'NodeOps provides AI Enabled simplified infrastructure specifically curated for Node Operators, and developers and designed to simplify the development process and operations for Web3 protocols.',
+  description: 'NodeOps is the leading AI powered DePIN Orchestration Layer. ',
   discord: '1199323224043950240',
   investors: [
     '2tgqti',
@@ -24,15 +23,15 @@ export default {
     'wo10nx',
     'km32gq',
   ],
-  linkedin: null,
+  linkedin: 'https://www.linkedin.com/company/nodeops/',
   duneQueries: {
     REVENUE: '4645118',
   },
   foundingYear: null,
-  blog: null,
-  github: null,
-  telegram: null,
-  twitter: null,
+  blog: 'https://nodeops.substack.com/',
+  github: 'https://github.com/NodeOps-app',
+  telegram: 'https://t.me/nodeopsxyz',
+  twitter: 'https://twitter.com/NodeOps_App',
   url: 'https://nodeops.xyz/',
   verified: false,
   fundraises: [
