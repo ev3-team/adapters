@@ -30,6 +30,7 @@ export default {
   ],
   linkedin: 'https://www.linkedin.com/company/aethir-limited',
   duneQueries: {
+    REVENUE: '4786718',
     NODE_NUMBER: '3541928',
   },
   foundingYear: null,
