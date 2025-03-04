@@ -38,7 +38,9 @@ export default {
     'o7xcsr',
   ],
   linkedin: 'https://www.linkedin.com/company/peaq-network/',
-  duneQueries: null,
+  duneQueries: {
+    REVENUE: '4807708',
+  },
   foundingYear: null,
   blog: 'https://medium.com/peaqnetwork',
   github: null,
