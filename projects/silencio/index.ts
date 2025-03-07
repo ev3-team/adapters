@@ -14,7 +14,9 @@ export default {
   discord: '1034207908210147489',
   investors: ['buo8ql', 'bxcu1r', 'n73vnt', 'lhjpo7'],
   linkedin: 'https://www.linkedin.com/company/silencio',
-  duneQueries: null,
+  duneQueries: {
+    NODE_NUMBER: '4821535',
+  },
   foundingYear: null,
   blog: 'https://medium.com/@eversept/about?source',
   github: 'https://github.com/topics/silencio',
