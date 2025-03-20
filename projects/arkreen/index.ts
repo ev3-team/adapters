@@ -14,7 +14,9 @@ export default {
   discord: '1022165037235839007',
   investors: [],
   linkedin: 'https://www.linkedin.com/company/arkreen/',
-  duneQueries: null,
+  duneQueries: {
+    REVENUE: '4879445',
+  },
   foundingYear: null,
   blog: 'https://medium.com/@arkreen',
   github: 'https://github.com/arkreen',
