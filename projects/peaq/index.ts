@@ -40,6 +40,7 @@ export default {
   linkedin: 'https://www.linkedin.com/company/peaq-network/',
   duneQueries: {
     REVENUE: '4807708',
+    NODE_NUMBER: '4884281',
   },
   foundingYear: null,
   blog: 'https://medium.com/peaqnetwork',
