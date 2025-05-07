@@ -1318,7 +1318,6 @@ import imgnai from './imgnai'
 import immu3 from './immu3'
 import impactmarket from './impactmarket'
 import impermax from './impermax'
-import impossibleCloud from './impossible-cloud'
 import impossibleCloudNetwork from './impossible-cloud-network'
 import inco from './inco'
 import incoNetwork from './inco-network'
@@ -4372,7 +4371,6 @@ export const projects = {
   immu3,
   impactmarket,
   impermax,
-  impossibleCloud,
   impossibleCloudNetwork,
   inco,
   incoNetwork,
