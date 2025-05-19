@@ -15,6 +15,7 @@ export default {
   investors: ['buo8ql', 'bxcu1r', 'n73vnt', 'lhjpo7'],
   linkedin: 'https://www.linkedin.com/company/silencio',
   duneQueries: {
+    REVENUE: '5156562',
     NODE_NUMBER: '4821535',
   },
   foundingYear: null,
