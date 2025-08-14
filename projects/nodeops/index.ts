@@ -26,6 +26,7 @@ export default {
   linkedin: 'https://www.linkedin.com/company/nodeops/',
   duneQueries: {
     REVENUE: '4645118',
+    NET_REVENUE: '5634594',
   },
   foundingYear: null,
   blog: 'https://nodeops.substack.com/',
